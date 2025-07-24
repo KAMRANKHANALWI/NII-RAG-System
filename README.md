@@ -1,4 +1,4 @@
-# 🔬 NII RAG System
+# 🔬 National Institute of Immunology Assistant Bot (RAG)
 
 An intelligent **Retrieval-Augmented Generation (RAG)** system for the National Institute of Immunology that transforms institutional website data into a conversational AI assistant.
 

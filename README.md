@@ -6,6 +6,9 @@ An intelligent **Retrieval-Augmented Generation (RAG)** system for the National 
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/license-Academic-green.svg)](LICENSE)
 [![Chroma](https://img.shields.io/badge/Vector%20DB-Chroma-orange.svg)](https://www.trychroma.com/)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue)
+![Conversational AI](https://img.shields.io/badge/AI-Conversational-green)
+
 
 ## 🎯 Overview
 

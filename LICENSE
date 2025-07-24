@@ -1,0 +1,58 @@
+Academic License
+
+Copyright (c) 2025 Kamran Khan Alwi
+
+ACADEMIC AND EDUCATIONAL USE LICENSE
+
+Permission is hereby granted, free of charge, to any person or organization
+obtaining a copy of this software and associated documentation files (the "Software"),
+to use the Software for academic, educational, and research purposes only, subject to
+the following conditions:
+
+PERMITTED USES:
+
+- Academic research and study
+- Educational purposes in classrooms and institutions
+- Non-commercial research projects
+- Learning and skill development
+- Portfolio demonstration for academic/career purposes
+
+RESTRICTIONS:
+
+- Commercial use is prohibited without explicit written permission
+- The Software may not be sold or licensed for commercial purposes
+- Redistribution must include this license and copyright notice
+- Modified versions must be clearly marked as such
+
+DATA DISCLAIMER:
+
+- The scraped data from National Institute of Immunology (NII) website remains
+  the property of NII
+- Users must respect the original data sources and their terms of use
+- This license covers only the code implementation, not the scraped content
+
+API REQUIREMENTS:
+
+- Users must obtain their own API keys (Groq API, etc.)
+- API usage is subject to respective service providers' terms
+
+LIABILITY:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+ATTRIBUTION:
+When using this software for academic purposes, please cite:
+"NII RAG System by Kamran Khan Alwi - An Intelligent Conversational AI for
+Institutional Knowledge Retrieval"
+
+For commercial licensing inquiries, please contact: kamrankhanalwi@nii.ac.in
+
+---
+
+This license is designed to encourage academic collaboration while protecting
+the educational nature of the project.

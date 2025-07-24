@@ -1,0 +1,1587 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Vinay K. Nandicoori",
+    "email": "vinaykn@nii.res.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-vinay-k-nandicoori",
+    "research_domain": "Genetics, Cell Signalling & Cancer Biology",
+    "faculty_status": "current",
+    "search_date": "2025-07-02T00:00:00.000000",
+    "total_publications": 59,
+    "last_updated": "2025-07-02",
+    "description": "This document contains a complete list of publications by Dr. Vinay K. Nandicoori, current faculty in Genetics, Cell Signalling & Cancer Biology at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "40402572",
+      "title": "Wag31, a membrane tether, is crucial for lipid homeostasis in mycobacteria.",
+      "authors": [
+        "Yogita Kapoor",
+        "Himani Khurana",
+        "Debatri Dutta",
+        "Arnab Chakraborty",
+        "Anshu Priya",
+        "Archana Singh",
+        "Siddhesh S Kamat",
+        "Neeraj Dhar",
+        "Thomas John Pucadyil",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2025",
+      "journal": "eLife",
+      "doi": "10.7554/eLife.104268",
+      "doi_link": "https://doi.org/10.7554/eLife.104268",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40402572",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Wag31%2C%20a%20membrane%20tether%2C%20is%20crucial%20for%20lipid%20homeostasis%20in%20mycobacteria%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "The mycobacterial cytoskeletal protein Wag31 is necessary for maintaining cell shape and directing cellular growth and elongation. Wag31 has a characteristic N-terminal DivIVA-domain and a C-terminal coiled-coil domain. While the role of Wag31 in polar elongation is known, there is limited mechanistic insight on how it orchestrates growth and elongation. In this report, we delineate roles of the N- and C-terminal domains of Wag31 using genetics, state-of-the-art multi-omics, biochemical, and imaging approaches. We show that Wag31 predominantly interacts with several membrane-associated proteins involved in lipid metabolism, cell wall synthesis, and division. Native levels of Wag31 are critical for the maintenance and distribution of membrane lipids. Both depletion and overexpression of Wag31 perturb lipid homeostasis, leading to the formation of intracellular lipid inclusions (ILIs). Protein-lipid crosslinking and imaging studies reveal that purified Wag31 can bind and effectively tether cardiolipin (CL)-containing liposomes. We further show that the tethering activity lies in the DivIVA-domain containing N-terminal of Wag31 while the C-terminal mediates protein-protein interactions of Wag31. Despite retaining its ability to interact with partner proteins, the DivIVA-domain-deleted Wag31 mutant shows defects in liposome tethering in vitro and non-polar localization of CL in vivo, which eventually causes lethality. Our study suggests that membrane tethering 'licenses' Wag31 to form scaffolds that help orchestrate protein-lipid and protein-protein interactions necessary for mycobacterial growth and survival.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "40228030",
+      "title": "Preparation of Mycobacterium tuberculosis Culture Filtrate to Understand TB Pathogenesis.",
+      "authors": [
+        "Priyadarshini Sanyal",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2025",
+      "journal": "Journal of visualized experiments : JoVE",
+      "doi": "10.3791/67540",
+      "doi_link": "https://doi.org/10.3791/67540",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40228030",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Preparation%20of%20Mycobacterium%20tuberculosis%20Culture%20Filtrate%20to%20Understand%20TB%20Pathogenesis%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "Mycobacterium tuberculosis (Mtb) secretes many proteins into the host to modulate various cellular processes, such as host signaling, immune response, apoptosis, etc., to enhance survival. While the function of a few secretory factors has been elucidated, many are yet to be characterized. Hence, investigating the Mtb secretory protein is an essential area of research. Mtb secretes proteins into the extracytoplasmic space with the help of three different secretion systems: general, twin-arginine, and specialized Type VII secretion system. One has to prepare the secretome to identify novel secretory molecules and functionally characterize the known factors. Here, we outline the method for preparing the secretome and sample preparation for mass spectrometry. Secretome preparation requires the utmost care to avoid contamination of cytosolic proteins, which can be monitored by probing with antibodies against well-characterized membrane, secretory, and cytosolic proteins. The culture filtrate thus prepared can be used for different purposes, which include investigating host immunomodulation properties.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "39541926",
+      "title": "Structure-function relationship of PE11 esterase of Mycobacterium tuberculosis with respect to its role in virulence.",
+      "authors": [
+        "Priyanka Dahiya",
+        "Amit Banerjee",
+        "Abhishek Saha",
+        "Vinay Kumar Nandicoori",
+        "Sudip Ghosh",
+        "Sangita Mukhopadhyay"
+      ],
+      "year": "2024",
+      "journal": "Biochemical and biophysical research communications",
+      "doi": "10.1016/j.bbrc.2024.150927",
+      "doi_link": "https://doi.org/10.1016/j.bbrc.2024.150927",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39541926",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structure-function%20relationship%20of%20PE11%20esterase%20of%20Mycobacterium%20tuberculosis%20with%20respect%20to%20its%20role%20in%20virulence%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "The lipolytic enzymes of Mycobacterium tuberculosis play a critical role in immunomodulation and virulence. Among these proteins, PE11 which also belongs to the PE/PPE family, is the smallest (∼10.8 kDa) and play a significant role in cell wall remodelling and virulence. PE11 is established to be an esterase, but its enzymatic and structural properties are not yet characterized. In this study, using homology modelling we deduced the putative structure which shows the presence of both α-helix and β-sheet structures which is in close agreement with that observed by CD spectra of the purified protein. PE11 was found to contain a Gx",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "39207917",
+      "title": "Divergent downstream biosynthetic pathways are supported by <sc>L</sc>-cysteine synthases of ",
+      "authors": [
+        "Mehak Zahoor Khan",
+        "Debbie M Hunt",
+        "Biplab Singha",
+        "Yogita Kapoor",
+        "Nitesh Kumar Singh",
+        "D V Sai Prasad",
+        "Sriram Dharmarajan",
+        "Divya Tej Sowpati",
+        "Luiz Pedro S de Carvalho",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2024",
+      "journal": "eLife",
+      "doi": "10.7554/eLife.91970",
+      "doi_link": "https://doi.org/10.7554/eLife.91970",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39207917",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Divergent%20downstream%20biosynthetic%20pathways%20are%20supported%20by%20%3Csc%3EL%3C/sc%3E-cysteine%20synthases%20of%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "39107377",
+      "title": "Depletion of essential mycobacterial gene glmM reduces pathogen survival and induces host-protective immune responses against tuberculosis.",
+      "authors": [
+        "Meetu Agarwal",
+        "Ashima Bhaskar",
+        "Biplab Singha",
+        "Suparba Mukhopadhyay",
+        "Isha Pahuja",
+        "Archna Singh",
+        "Shivam Chaturvedi",
+        "Nisheeth Agarwal",
+        "Ved Prakash Dwivedi",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2024",
+      "journal": "Communications biology",
+      "doi": "10.1038/s42003-024-06620-9",
+      "doi_link": "https://doi.org/10.1038/s42003-024-06620-9",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39107377",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Depletion%20of%20essential%20mycobacterial%20gene%20glmM%20reduces%20pathogen%20survival%20and%20induces%20host-protective%20immune%20responses%20against%20tuberculosis%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "The limitations of TB treatment are the long duration and immune-dampening effects of anti-tuberculosis therapy. The Cell wall plays a crucial role in survival and virulence; hence, enzymes involved in its biosynthesis are good therapeutic targets. Here, we identify Mycobacterium tuberculosis (Mtb) GlmM, (GlmM",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "37879126",
+      "title": "The PPE2 protein of Mycobacterium tuberculosis is secreted during infection and facilitates mycobacterial survival inside the host.",
+      "authors": [
+        "Manoj Kumar Bisht",
+        "Ravi Pal",
+        "Priyanka Dahiya",
+        "Saba Naz",
+        "Priyadarshini Sanyal",
+        "Vinay Kumar Nandicoori",
+        "Sudip Ghosh",
+        "Sangita Mukhopadhyay"
+      ],
+      "year": "2023",
+      "journal": "Tuberculosis (Edinburgh, Scotland)",
+      "doi": "10.1016/j.tube.2023.102421",
+      "doi_link": "https://doi.org/10.1016/j.tube.2023.102421",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37879126",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20PPE2%20protein%20of%20Mycobacterium%20tuberculosis%20is%20secreted%20during%20infection%20and%20facilitates%20mycobacterial%20survival%20inside%20the%20host%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "Mycobacterium tuberculosis secrets various effector proteins to evade host immune responses for facilitating its intracellular survival. The bacterial genome encodes several unique PE/PPE family proteins, which have been implicated to play important role in mycobacterial pathogenesis. A member of this family, PPE2 have been shown to contain a monopartite nuclear localization signal (NLS) and a DNA binding domain. In this study, we demonstrate that PPE2 protein is present in the sera of mice infected with either M. smegmatis expressing PPE2 or a clinical strain of M. tuberculosis (CDC1551). It was found that exogenously added PPE2 can permeate through the macrophage cell membrane and eventually translocate into the nucleus which requires the presence of NLS which showed considerable homology to HIV-tat like cell permeable peptides. Exogenously added PPE2 could inhibit NO production and decreased mycobacterial survival in macrophages. PPE2-null mutant of M. tuberculosis failed to inhibit NO production and had poor survival in macrophages which could be rescued by complementation with full-length PPE2. PPE2-null mutants also had poor survival in the lungs of infected mice indicating that PPE2 even when present in the bloodstream can confer a survival advantage to mycobacteria.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "37865319",
+      "title": "The heparin-binding hemagglutinin protein of Mycobacterium tuberculosis is a nucleoid-associated protein.",
+      "authors": [
+        "Chetkar Chandra Keshavam",
+        "Saba Naz",
+        "Aanchal Gupta",
+        "Priyadarshini Sanyal",
+        "Manisha Kochar",
+        "Aakriti Gangwal",
+        "Nitika Sangwan",
+        "Nishant Kumar",
+        "Ekta Tyagi",
+        "Simran Goel",
+        "Nitesh Kumar Singh",
+        "Divya Tej Sowpati",
+        "Garima Khare",
+        "Munia Ganguli",
+        "Dominique Raze",
+        "Camille Locht",
+        "Sharmila Basu-Modak",
+        "Meetu Gupta",
+        "Vinay Kumar Nandicoori",
+        "Yogendra Singh"
+      ],
+      "year": "2023",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1016/j.jbc.2023.105364",
+      "doi_link": "https://doi.org/10.1016/j.jbc.2023.105364",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37865319",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20heparin-binding%20hemagglutinin%20protein%20of%20Mycobacterium%20tuberculosis%20is%20a%20nucleoid-associated%20protein%22",
+      "citations": {
+        "crossref": 5
+      },
+      "abstract": "Nucleoid-associated proteins (NAPs) regulate multiple cellular processes such as gene expression, virulence, and dormancy throughout bacterial species. NAPs help in the survival and adaptation of Mycobacterium tuberculosis (Mtb) within the host. Fourteen NAPs have been identified in Escherichia coli; however, only seven NAPs are documented in Mtb. Given its complex lifestyle, it is reasonable to assume that Mtb would encode for more NAPs. Using bioinformatics tools and biochemical experiments, we have identified the heparin-binding hemagglutinin (HbhA) protein of Mtb as a novel sequence-independent DNA-binding protein which has previously been characterized as an adhesion molecule required for extrapulmonary dissemination. Deleting the carboxy-terminal domain of HbhA resulted in a complete loss of its DNA-binding activity. Atomic force microscopy showed HbhA-mediated architectural modulations in the DNA, which may play a regulatory role in transcription and genome organization. Our results showed that HbhA colocalizes with the nucleoid region of Mtb. Transcriptomics analyses of a hbhA KO strain revealed that it regulates the expression of ∼36% of total and ∼29% of essential genes. Deletion of hbhA resulted in the upregulation of ∼73% of all differentially expressed genes, belonging to multiple pathways suggesting it to be a global repressor. The results show that HbhA is a nonessential NAP regulating gene expression globally and acting as a plausible transcriptional repressor.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "37791794",
+      "title": "Phosphorylation of CFP10 modulates ",
+      "authors": [
+        "Basanti Malakar",
+        "Komal Chauhan",
+        "Priyadarshini Sanyal",
+        "Saba Naz",
+        "Haroon Kalam",
+        "R P Vivek-Ananth",
+        "Lakshya Veer Singh",
+        "Areejit Samal",
+        "Dhiraj Kumar",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2023",
+      "journal": "mBio",
+      "doi": "10.1128/mbio.01232-23",
+      "doi_link": "https://doi.org/10.1128/mbio.01232-23",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37791794",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Phosphorylation%20of%20CFP10%20modulates%22",
+      "citations": {
+        "crossref": 3
+      },
+      "abstract": "Secreted virulence factors play a critical role in bacterial pathogenesis. Virulence effectors not only help bacteria to overcome the host immune system but also aid in establishing infection. ",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "36695572",
+      "title": "GWAS and functional studies suggest a role for altered DNA repair in the evolution of drug resistance in ",
+      "authors": [
+        "Saba Naz",
+        "Kumar Paritosh",
+        "Priyadarshini Sanyal",
+        "Sidra Khan",
+        "Yogendra Singh",
+        "Umesh Varshney",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2023",
+      "journal": "eLife",
+      "doi": "10.7554/eLife.75860",
+      "doi_link": "https://doi.org/10.7554/eLife.75860",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36695572",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22GWAS%20and%20functional%20studies%20suggest%20a%20role%20for%20altered%20DNA%20repair%20in%20the%20evolution%20of%20drug%20resistance%20in%22",
+      "citations": {
+        "semantic_scholar": 8
+      },
+      "abstract": "The emergence of drug resistance in ",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "36690275",
+      "title": "The unique N-terminal region of Mycobacterium tuberculosis sigma factor A plays a dominant role in the essential function of this protein.",
+      "authors": [
+        "Biplab Singha",
+        "Debashree Behera",
+        "Mehak Zahoor Khan",
+        "Nitesh Kumar Singh",
+        "Divya Tej Sowpati",
+        "Balasubramanian Gopal",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2023",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1016/j.jbc.2023.102933",
+      "doi_link": "https://doi.org/10.1016/j.jbc.2023.102933",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36690275",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20unique%20N-terminal%20region%20of%20Mycobacterium%20tuberculosis%20sigma%20factor%20A%20plays%20a%20dominant%20role%20in%20the%20essential%20function%20of%20this%20protein%22",
+      "citations": {
+        "crossref": 16
+      },
+      "abstract": "SigA (σ",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "36624167",
+      "title": "Codon optimality has minimal effect on determining translation efficiency in mycobacterium tuberculosis.",
+      "authors": [
+        "Smitha Soman",
+        "Somdeb Chattopadhyay",
+        "Siya Ram",
+        "Vinay Kumar Nandicoori",
+        "G Aneeshkumar Arimbasseri"
+      ],
+      "year": "2023",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-022-27164-0",
+      "doi_link": "https://doi.org/10.1038/s41598-022-27164-0",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36624167",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Codon%20optimality%20has%20minimal%20effect%20on%20determining%20translation%20efficiency%20in%20mycobacterium%20tuberculosis%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "Mycobacterium tuberculosis (Mtb) is a slow-growing, intracellular pathogen that exhibits a high GC-rich genome. Several factors, including the GC content of the genome, influence the evolution of specific codon usage biases in genomes. As a result, the Mtb genome exhibits strong biases for amino acid usage and codon usage. Codon usage of mRNAs affects several aspects of translation, including accuracy, efficiency, and protein folding. Here we address the effect of codon usage biases in determining the translation efficiency of mRNAs in Mtb. Unlike most commonly studied organisms, Mtb carries a single copy of each tRNA gene. However, we show that the relative levels of tRNAs in the Mtb tRNA pool vary by an order of magnitude. Our results show that the codons decoded by the abundant tRNAs indeed show higher adaptability. Moreover, there is a general positive correlation between genomic codon usage and the tRNA adaptability of codons (TAc). We further estimated the optimality of the codon and mRNAs by considering both the TAc and the tRNA demand. These measures did not show any correlation with mRNA abundance and translation efficiency. There was no correlation between tRNA adaptability and ribosome pausing as well. Taken together, we conclude that the translation machinery, and the tRNA pool of an organism, co-evolve with the codon usage to optimize the translation efficiency of an organism. Thus the deleterious effect of maladapted codons is not pronounced.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "36340884",
+      "title": "Protocol for ",
+      "authors": [
+        "Saba Naz",
+        "Shruti Dabral",
+        "Dhiraj Kumar",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2022",
+      "journal": "STAR protocols",
+      "doi": "10.1016/j.xpro.2022.101804",
+      "doi_link": "https://doi.org/10.1016/j.xpro.2022.101804",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36340884",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Protocol%20for%22",
+      "citations": {
+        "semantic_scholar": 14573
+      },
+      "abstract": "We describe steps for gDNA isolation from mycobacterium strains isolated from guinea pig lungs. We detail steps for infection of guinea pigs with ",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "35471080",
+      "title": "Mycobacterium tuberculosis Transcription Factor EmbR Regulates the Expression of Key Virulence Factors That Aid in ",
+      "authors": [
+        "Suresh Kumar",
+        "Mehak Zahoor Khan",
+        "Neha Khandelwal",
+        "Chen Chongtham",
+        "Biplab Singha",
+        "Ankita Dabla",
+        "Debashree Behera",
+        "Archana Singh",
+        "Balasubramanian Gopal",
+        "G Aneeshkumar Arimbasseri",
+        "Siddhesh S Kamat",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2022",
+      "journal": "mBio",
+      "doi": "10.1128/mbio.03836-21",
+      "doi_link": "https://doi.org/10.1128/mbio.03836-21",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35471080",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mycobacterium%20tuberculosis%20Transcription%20Factor%20EmbR%20Regulates%20the%20Expression%20of%20Key%20Virulence%20Factors%20That%20Aid%20in%22",
+      "citations": {
+        "crossref": 7
+      },
+      "abstract": "Mycobacterium tuberculosis encodes ~200 transcription factors that modulate gene expression under different microenvironments in the host. Even though high-throughput chromatin immunoprecipitation sequencing and transcriptome sequencing (RNA-seq) studies have identified the regulatory network for ~80% of transcription factors, many transcription factors remain uncharacterized. EmbR is one such transcription factor whose ",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "35344051",
+      "title": "Correction: Phosphorylation of nucleoporin Tpr governs its differential localization and is required for its mitotic function.",
+      "authors": [
+        "Kalpana Rajanala",
+        "Anshuk Sarkar",
+        "Gagan Deep Jhingan",
+        "Raina Priyadarshini",
+        "Manisha Jalan",
+        "Sagar Sengupta",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2022",
+      "journal": "Journal of cell science",
+      "doi": "10.1242/jcs.260004",
+      "doi_link": "https://doi.org/10.1242/jcs.260004",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35344051",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Correction%3A%20Phosphorylation%20of%20nucleoporin%20Tpr%20governs%20its%20differential%20localization%20and%20is%20required%20for%20its%20mitotic%20function%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "35156855",
+      "title": "The Error-Prone Polymerase DnaE2 Mediates the Evolution of Antibiotic Resistance in Persister Mycobacterial Cells.",
+      "authors": [
+        "S Salini",
+        "Sinchana G Bhat",
+        "Saba Naz",
+        "Ramanathan Natesh",
+        "R Ajay Kumar",
+        "Vinay Kumar Nandicoori",
+        "Krishna Kurthkoti"
+      ],
+      "year": "2022",
+      "journal": "Antimicrobial agents and chemotherapy",
+      "doi": "10.1128/AAC.01773-21",
+      "doi_link": "https://doi.org/10.1128/AAC.01773-21",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35156855",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20Error-Prone%20Polymerase%20DnaE2%20Mediates%20the%20Evolution%20of%20Antibiotic%20Resistance%20in%20Persister%20Mycobacterial%20Cells%22",
+      "citations": {
+        "crossref": 12
+      },
+      "abstract": "Applying antibiotics to susceptible bacterial cultures generates a minor population of persisters that remain susceptible to antibiotics but can endure them for extended periods. Recent reports suggest that antibiotic persisters (APs) of mycobacteria experience oxidative stress and develop resistance upon treatment with lethal doses of ciprofloxacin or rifampicin. However, the mechanisms driving the ",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "35038229",
+      "title": "Development of a Highly Specific, Selective, and Sensitive Fluorescent Probe for Detection of Mycobacteria in Human Tissues.",
+      "authors": [
+        "Siddhi Gupta",
+        "Deepak Kumar Mishra",
+        "Mehak Zahoor Khan",
+        "Varsha Saini",
+        "Devashish Mehta",
+        "Sandeep Kumar",
+        "Aditya Yadav",
+        "Madhurima Mitra",
+        "Parul Rani",
+        "Mukesh Singh",
+        "Chayan Kanti Nandi",
+        "Prasenjit Das",
+        "Vineet Ahuja",
+        "Vinay Kumar Nandicoori",
+        "Avinash Bajaj"
+      ],
+      "year": "2022",
+      "journal": "Advanced healthcare materials",
+      "doi": "10.1002/adhm.202102640",
+      "doi_link": "https://doi.org/10.1002/adhm.202102640",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35038229",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Development%20of%20a%20Highly%20Specific%2C%20Selective%2C%20and%20Sensitive%20Fluorescent%20Probe%20for%20Detection%20of%20Mycobacteria%20in%20Human%20Tissues%22",
+      "citations": {
+        "crossref": 4
+      },
+      "abstract": "Tuberculosis (TB), including extrapulmonary TB, is responsible for more than one million deaths in a year worldwide. Existing methods of mycobacteria detection have poor sensitivity, selectivity, and specificity, especially in human tissues. Herein, the synthesis of a cholic acid-derived fluorescent probe (P4) that can specifically stain the mycobacterium species is presented. It is shown that P4 probe specifically binds with mycobacterial lipids, trehalose monomycolate, and phosphatidylinositol mannoside 6. P4 probe can detect mycobacteria in polymicrobial planktonic cultures and biofilms with high specificity, selectivity, and sensitivity. Moreover, it can detect a single mycobacterium in the presence of 10 000 other bacilli. Unlike the probes that depend on active mycobacterial enzymes, the membrane-specific P4 probe can detect mycobacteria even in formalin-fixed paraffin-embedded mice and human tissue sections. Therefore, the ability of the P4 probe to detect mycobacteria in different biological milieu makes it a potential candidate for diagnostic and prognostic applications in clinical settings.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "34477730",
+      "title": "A hydrogel-based implantable multidrug antitubercular formulation outperforms oral delivery.",
+      "authors": [
+        "Sanjay Pal",
+        "Vijay Soni",
+        "Sandeep Kumar",
+        "Somesh Kumar Jha",
+        "Nihal Medatwal",
+        "Kajal Rana",
+        "Poonam Yadav",
+        "Devashish Mehta",
+        "Dolly Jain",
+        "Pankaj Sharma",
+        "Raunak Kar",
+        "Aasheesh Srivastava",
+        "Veena S Patil",
+        "Ujjaini Dasgupta",
+        "Vinay Kumar Nandicoori",
+        "Avinash Bajaj"
+      ],
+      "year": "2021",
+      "journal": "Nanoscale",
+      "doi": "10.1039/d0nr08806d",
+      "doi_link": "https://doi.org/10.1039/d0nr08806d",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34477730",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20hydrogel-based%20implantable%20multidrug%20antitubercular%20formulation%20outperforms%20oral%20delivery%22",
+      "citations": {
+        "crossref": 7
+      },
+      "abstract": "We present a non-immunogenic, injectable, low molecular weight, amphiphilic hydrogel-based drug delivery system (TB-Gel) that can entrap a cocktail of four front-line antitubercular drugs, isoniazid, rifampicin, pyrazinamide, and ethambutol. We showed that TB-Gel is more effective than oral delivery of the combination of four drugs in reducing the mycobacterial infection in mice. Results show that half the dose of chemotherapeutic drugs is sufficient to achieve a comparable therapeutic effect to that of oral delivery.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "34018220",
+      "title": "Redox homeostasis in Mycobacterium tuberculosis is modulated by a novel actinomycete-specific transcription factor.",
+      "authors": [
+        "Mehak Zahoor Khan",
+        "Biplab Singha",
+        "Mohammad Farhan Ali",
+        "Khushman Taunk",
+        "Srikanth Rapole",
+        "Samudrala Gourinath",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2021",
+      "journal": "The EMBO journal",
+      "doi": "10.15252/embj.2020106111",
+      "doi_link": "https://doi.org/10.15252/embj.2020106111",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34018220",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Redox%20homeostasis%20in%20Mycobacterium%20tuberculosis%20is%20modulated%20by%20a%20novel%20actinomycete-specific%20transcription%20factor%22",
+      "citations": {
+        "semantic_scholar": 12
+      },
+      "abstract": "Mycobacterium tuberculosis (Mtb) has evolved diverse cellular processes in response to the multiple stresses it encounters within the infected host. We explored available TnSeq datasets to identify transcription factors (TFs) that are essential for Mtb survival inside the host. The analysis identified a single TF, Rv1332 (AosR), conserved across actinomycetes with a so-far uncharacterized function. AosR mitigates phagocyte-derived oxidative and nitrosative stress, thus promoting mycobacterial growth in the murine lungs and spleen. Oxidative stress induces formation of a single intrasubunit disulphide bond in AosR, which in turn facilitates AosR interaction with an extracytoplasmic-function sigma factor, SigH. This leads to the specific upregulation of the CysM-dependent non-canonical cysteine biosynthesis pathway through an auxiliary intragenic stress-responsive promoter, an axis critical in detoxifying host-derived oxidative and nitrosative radicals. Failure to upregulate AosR-dependent cysteine biosynthesis during the redox stress causes differential expression of 6% of Mtb genes. Our study shows that the AosR-SigH pathway is critical for detoxifying host-derived oxidative and nitrosative radicals to enhance Mtb survival in the hostile intracellular environment.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "33955473",
+      "title": "Unique C-terminal extension and interactome of Mycobacterium tuberculosis GlmU impacts it's in vivo function and the survival of pathogen.",
+      "authors": [
+        "Meetu Agarwal",
+        "Vijay Soni",
+        "Suresh Kumar",
+        "Biplab Singha",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2021",
+      "journal": "The Biochemical journal",
+      "doi": "10.1042/BCJ20210170",
+      "doi_link": "https://doi.org/10.1042/BCJ20210170",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33955473",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Unique%20C-terminal%20extension%20and%20interactome%20of%20Mycobacterium%20tuberculosis%20GlmU%20impacts%20it%27s%20in%20vivo%20function%20and%20the%20survival%20of%20pathogen%22",
+      "citations": {
+        "crossref": 5
+      },
+      "abstract": "N-acetyl glucosamine-1-phosphate uridyltransferase (GlmU) is a bifunctional enzyme involved in the biosynthesis of Uridine diphosphate N-acetylglucosamine (UDP-GlcNAc). UDP-GlcNAc is a critical precursor for the synthesis of peptidoglycan and other cell wall components. The absence of a homolog in eukaryotes makes GlmU an attractive target for therapeutic intervention. Mycobacterium tuberculosis GlmU (GlmUMt) has features, such as a C-terminal extension, that are not present in GlmUorthologs from other bacteria. Here, we set out to determine the uniqueness of GlmUMt by performing in vivo complementation experiments using RvΔglmU mutant. We find that any deletion of the carboxy-terminal extension region of GlmUMt abolishes its ability to complement the function of GlmUMt. Results show orthologs of GlmU, including its closest ortholog, from Mycobacterium smegmatis, cannot complement the function of GlmUMt. Furthermore, the co-expression of GlmUMt domain deletion mutants with either acetyl or uridyltransferase activities failed to rescue the function. However, co-expression of GlmUMt point mutants with either acetyl or uridyltransferase activities successfully restored the biological function of GlmUMt, likely due to the formation of heterotrimers. Based on the interactome experiments, we speculate that GlmUMt participates in unique interactions essential for its in vivo function.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "33740020",
+      "title": "Compromised base excision repair pathway in Mycobacterium tuberculosis imparts superior adaptability in the host.",
+      "authors": [
+        "Saba Naz",
+        "Shruti Dabral",
+        "Sathya Narayanan Nagarajan",
+        "Divya Arora",
+        "Lakshya Veer Singh",
+        "Pradeep Kumar",
+        "Yogendra Singh",
+        "Dhiraj Kumar",
+        "Umesh Varshney",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2021",
+      "journal": "PLoS pathogens",
+      "doi": "10.1371/journal.ppat.1009452",
+      "doi_link": "https://doi.org/10.1371/journal.ppat.1009452",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33740020",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Compromised%20base%20excision%20repair%20pathway%20in%20Mycobacterium%20tuberculosis%20imparts%20superior%20adaptability%20in%20the%20host%22",
+      "citations": {
+        "crossref": 20
+      },
+      "abstract": "Tuberculosis caused by Mycobacterium tuberculosis (Mtb) is a significant public health concern, exacerbated by the emergence of drug-resistant TB. To combat the host's dynamic environment, Mtb encodes multiple DNA repair enzymes that play a critical role in maintaining genomic integrity. Mtb possesses a GC-rich genome, rendering it highly susceptible to cytosine deaminations, resulting in the occurrence of uracils in the DNA. UDGs encoded by ung and udgB initiate the repair; hence we investigated the biological impact of deleting UDGs in the adaptation of pathogen. We generated gene replacement mutants of uracil DNA glycosylases, individually (RvΔung, RvΔudgB) or together (RvΔdKO). The double KO mutant, RvΔdKO exhibited remarkably higher spontaneous mutation rate, in the presence of antibiotics. Interestingly, RvΔdKO showed higher survival rates in guinea pigs and accumulated large number of SNPs as revealed by whole-genome sequence analysis. Competition assays revealed the superior fitness of RvΔdKO over Rv, both in ex vivo and in vivo conditions. We propose that compromised DNA repair results in the accumulation of mutations, and a subset of these drives adaptation in the host. Importantly, this property allowed us to utilize RvΔdKO for the facile identification of drug targets.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper21",
+      "publication_id": "33690080",
+      "title": "Deletion of serine/threonine-protein kinase pknL from Mycobacterium tuberculosis reduces the efficacy of isoniazid and ethambutol.",
+      "authors": [
+        "Saba Naz",
+        "Yogendra Singh",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2021",
+      "journal": "Tuberculosis (Edinburgh, Scotland)",
+      "doi": "10.1016/j.tube.2021.102066",
+      "doi_link": "https://doi.org/10.1016/j.tube.2021.102066",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33690080",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Deletion%20of%20serine/threonine-protein%20kinase%20pknL%20from%20Mycobacterium%20tuberculosis%20reduces%20the%20efficacy%20of%20isoniazid%20and%20ethambutol%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "Serine/threonine-protein kinases in Mycobacterium tuberculosis (Mtb) form a preeminent regulatory system required to establish and maintain the infection in the host. Herein, we sought to decipher the biological role of PknL with the help of a gene replacement mutant RvΔpknL. Deletion of pknL results in the compromised growth under redox stress. The mutant showed significant survival defects in peritoneal macrophages, a significant decrease in the ability to establish infections and disseminate to the spleen in the murine model of infection. While the absence of pknL has no impact on either MIC or CFUs of ciprofloxacin and rifampicin treated bacilli, it increases the survival ~1.5-2.5 log fold upon isoniazid or ethambutol treatment. Collectively, data suggests that PknL aids in combating stress conditions in vitro, ex vivo, and in vivo and reduces the efficacy of isoniazid and ethambutol.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper22",
+      "publication_id": "33580239",
+      "title": "Mycobacterium tuberculosis Peptidyl Prolyl Isomerase A Interacts With Host Integrin Receptor to Exacerbate Disease Progression.",
+      "authors": [
+        "Neha Dubey",
+        "Mehak Zahoor Khan",
+        "Suresh Kumar",
+        "Aditya Sharma",
+        "Lahari Das",
+        "Asani Bhaduri",
+        "Yogendra Singh",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2021",
+      "journal": "The Journal of infectious diseases",
+      "doi": "10.1093/infdis/jiab081",
+      "doi_link": "https://doi.org/10.1093/infdis/jiab081",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33580239",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mycobacterium%20tuberculosis%20Peptidyl%20Prolyl%20Isomerase%20A%20Interacts%20With%20Host%20Integrin%20Receptor%20to%20Exacerbate%20Disease%20Progression%22",
+      "citations": {
+        "semantic_scholar": 17
+      },
+      "abstract": "Attenuated intracellular survival of Mycobacterium tuberculosis (Mtb) secretory gene mutants exemplifies their role as virulence factors. Mtb peptidyl prolyl isomerase A (PPiA) assists in protein folding through cis/trans isomerization of prolyl bonds. Here, we show that PPiA abets Mtb survival and aids in disease progression by exploiting host-associated factors. While the deletion of PPiA has no discernable effect on bacillary survival in a murine infection model, it compromises the formation of granuloma-like lesions and promotes host cell death through ferroptosis. Overexpression of PPiA enhances the bacillary load and exacerbates pathology in mice lungs. Importantly, PPiA interacts with the integrin α5β1 receptor through a conserved surface-exposed RGD motif. The secretion of PPiA as well as interaction with integrin contributes to disease progression by upregulating multiple host matrix metalloproteinases. Collectively, we identified a novel nonchaperone role of PPiA that is critical in facilitating host-pathogen interaction and ensuing disease progression.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper23",
+      "publication_id": "33468473",
+      "title": "Deletion of ",
+      "authors": [
+        "Mehak Zahoor Khan",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2021",
+      "journal": "Antimicrobial agents and chemotherapy",
+      "doi": "10.1128/AAC.02095-20",
+      "doi_link": "https://doi.org/10.1128/AAC.02095-20",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33468473",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Deletion%20of%22",
+      "citations": {
+        "crossref": 18
+      },
+      "abstract": "Eradication of tuberculosis (TB), caused by ",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper24",
+      "publication_id": "32697192",
+      "title": "Host sirtuin 2 as an immunotherapeutic target against tuberculosis.",
+      "authors": [
+        "Ashima Bhaskar",
+        "Santosh Kumar",
+        "Mehak Zahoor Khan",
+        "Amit Singh",
+        "Ved Prakash Dwivedi",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2020",
+      "journal": "eLife",
+      "doi": "10.7554/eLife.55415",
+      "doi_link": "https://doi.org/10.7554/eLife.55415",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32697192",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Host%20sirtuin%202%20as%20an%20immunotherapeutic%20target%20against%20tuberculosis%22",
+      "citations": {
+        "crossref": 58
+      },
+      "abstract": "",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper25",
+      "publication_id": "32223892",
+      "title": "",
+      "authors": [
+        "Savita Lochab",
+        "Yogendra Singh",
+        "Sagar Sengupta",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2020",
+      "journal": "eLife",
+      "doi": "10.7554/eLife.51466",
+      "doi_link": "https://doi.org/10.7554/eLife.51466",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32223892",
+      "scholar_link": "",
+      "citations": {
+        "crossref": 15
+      },
+      "abstract": "(",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper26",
+      "publication_id": "32060126",
+      "title": "Correction: Key residues in ",
+      "authors": [
+        "Divya Tiwari",
+        "Rajnish Kumar Singh",
+        "Kasturi Goswami",
+        "Sunil Kumar Verma",
+        "Balaji Prakash",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2020",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.AAC120.012653",
+      "doi_link": "https://doi.org/10.1074/jbc.AAC120.012653",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32060126",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Correction%3A%20Key%20residues%20in%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper27",
+      "publication_id": "31375544",
+      "title": "",
+      "authors": [
+        "Shruti Srivastava",
+        "Madhu Babu Battu",
+        "Mehak Zahoor Khan",
+        "Vinay Kumar Nandicoori",
+        "Sangita Mukhopadhyay"
+      ],
+      "year": "2019",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.1801143",
+      "doi_link": "https://doi.org/10.4049/jimmunol.1801143",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31375544",
+      "scholar_link": "",
+      "citations": {
+        "crossref": 42
+      },
+      "abstract": "",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper28",
+      "publication_id": "31358794",
+      "title": "Elucidating the functional role of Mycobacterium smegmatis recX in stress response.",
+      "authors": [
+        "Deepika Prasad",
+        "Divya Arora",
+        "Vinay Kumar Nandicoori",
+        "K Muniyappa"
+      ],
+      "year": "2019",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-019-47312-3",
+      "doi_link": "https://doi.org/10.1038/s41598-019-47312-3",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31358794",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Elucidating%20the%20functional%20role%20of%20Mycobacterium%20smegmatis%20recX%20in%20stress%20response%22",
+      "citations": {
+        "crossref": 11
+      },
+      "abstract": "The RecX protein has attracted considerable interest because the recX mutants exhibit multiple phenotypes associated with RecA functions. To further our understanding of the functional relationship between recA and recX, the effect of different stress treatments on their expression profiles, cell yield and viability were investigated. A significant correlation was found between the expression of Mycobacterium smegmatis recA and recX genes at different stages of growth, and in response to different stress treatments albeit recX exhibiting lower transcript and protein abundance at the mid-log and stationary phases of the bacterial growth cycle. To ascertain their roles in vivo, a targeted deletion of the recX and recArecX was performed in M. smegmatis. The growth kinetics of these mutant strains and their sensitivity patterns to different stress treatments were assessed relative to the wild-type strain. The deletion of recA affected normal cell growth and survival, while recX deletion showed no significant effect. Interestingly, deletion of both recX and recA genes results in a phenotype that is intermediate between the phenotypes of the ΔrecA mutant and the wild-type strain. Collectively, these results reveal a previously unrecognized role for M. smegmatis recX and support the notion that it may regulate a subset of the yet unknown genes involved in normal cell growth and DNA-damage repair.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper29",
+      "publication_id": "30953691",
+      "title": "The bifunctional protein GlmU is a key factor in biofilm formation induced by alkylating stress in Mycobacterium smegmatis.",
+      "authors": [
+        "Angela Di Somma",
+        "Marianna Caterino",
+        "Vijay Soni",
+        "Meetu Agarwal",
+        "Pamela di Pasquale",
+        "Stefania Zanetti",
+        "Paola Molicotti",
+        "Sara Cannas",
+        "Vinay Kumar Nandicoori",
+        "Angela Duilio"
+      ],
+      "year": "2019",
+      "journal": "Research in microbiology",
+      "doi": "10.1016/j.resmic.2019.03.002",
+      "doi_link": "https://doi.org/10.1016/j.resmic.2019.03.002",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30953691",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20bifunctional%20protein%20GlmU%20is%20a%20key%20factor%20in%20biofilm%20formation%20induced%20by%20alkylating%20stress%20in%20Mycobacterium%20smegmatis%22",
+      "citations": {
+        "semantic_scholar": 17
+      },
+      "abstract": "Living organisms have developed specific defence mechanisms to counteract hostile environmental conditions. Alkylation stress response mechanisms also occur in Mycobacterium tuberculosis (MTB) the pathogen responsible for tuberculosis. The effect of alkylating agents on the cellular growth of MTB was investigated using methyl methanesulfonate (MMS) as methyl donor demonstrating that limited doses of alkylating agents might affect MTB cell viability. A global investigation of Mycobacterium smegmatis response to alkylating stress was then pursued by differential proteomics to identify the most affected cellular pathways. Quantitative analysis of proteomic profiles demonstrated that most of the proteins upregulated in the presence of alkylating agents are involved in biofilm formation and/or cell wall biosynthesis. Tailored experiments confirmed that under stress conditions M. smegmatis elicits physical defence mechanisms by increasing biofilm formation. Among the upregulated proteins, we identified the GlmU bifunctional enzyme as a possible factor involved in biofilm production. Experiments with both conditional deletion and overexpressing glmU mutants demonstrated that down regulation of GlmU decreased M. smegmatis capabilities to produce biofilm whereas overexpression of the enzyme increased biofilm formation. These results were supported by inhibition of GlmU acetyltransferase activity with two different inhibitors, suggesting the involvement of this enzyme in the M. smegmatis defence mechanisms.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper30",
+      "publication_id": "30874556",
+      "title": "LipidII interaction with specific residues of Mycobacterium tuberculosis PknB extracytoplasmic domain governs its optimal activation.",
+      "authors": [
+        "Prabhjot Kaur",
+        "Marvin Rausch",
+        "Basanti Malakar",
+        "Uchenna Watson",
+        "Nikhil P Damle",
+        "Yogesh Chawla",
+        "Sandhya Srinivasan",
+        "Kanika Sharma",
+        "Tanja Schneider",
+        "Gagan Deep Jhingan",
+        "Deepak Saini",
+        "Debasisa Mohanty",
+        "Fabian Grein",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2019",
+      "journal": "Nature communications",
+      "doi": "10.1038/s41467-019-09223-9",
+      "doi_link": "https://doi.org/10.1038/s41467-019-09223-9",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30874556",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22LipidII%20interaction%20with%20specific%20residues%20of%20Mycobacterium%20tuberculosis%20PknB%20extracytoplasmic%20domain%20governs%20its%20optimal%20activation%22",
+      "citations": {
+        "semantic_scholar": 53
+      },
+      "abstract": "The Mycobacterium tuberculosis kinase PknB is essential for growth and survival of the pathogen in vitro and in vivo. Here we report the results of our efforts to elucidate the mechanism of regulation of PknB activity. The specific residues in the PknB extracytoplasmic domain that are essential for ligand interaction and survival of the bacterium are identified. The extracytoplasmic domain interacts with mDAP-containing LipidII, and this is abolished upon mutation of the ligand-interacting residues. Abrogation of ligand-binding or sequestration of the ligand leads to aberrant localization of PknB. Contrary to the prevailing hypothesis, abrogation of ligand-binding is linked to activation loop hyperphosphorylation, and indiscriminate hyperphosphorylation of PknB substrates as well as other proteins, ultimately causing loss of homeostasis and cell death. We propose that the ligand-kinase interaction directs the appropriate localization of the kinase, coupled to stringently controlled activation of PknB, and consequently the downstream processes thereof.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper31",
+      "publication_id": "30710007",
+      "title": "Withdrawal: ",
+      "authors": [
+        "Srabasti Sengupta",
+        "Saba Naz",
+        "Ishani Das",
+        "Abdul Ahad",
+        "Avinash Padhi",
+        "Sumanta Kumar Naik",
+        "Geetanjali Ganguli",
+        "Kali Prasad Pattanaik",
+        "Sunil Kumar Raghav",
+        "Vinay Kumar Nandicoori",
+        "Avinash Sonawane"
+      ],
+      "year": "2019",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.W119.007461",
+      "doi_link": "https://doi.org/10.1074/jbc.W119.007461",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30710007",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Withdrawal%3A%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper32",
+      "publication_id": "30669829",
+      "title": "Oral Delivery of Cholic Acid-Derived Amphiphile Helps in Combating Salmonella-Mediated Gut Infection and Inflammation.",
+      "authors": [
+        "Kavita Yadav",
+        "Prabhu Srinivas Yavvari",
+        "Sanjay Pal",
+        "Sandeep Kumar",
+        "Deepakkumar Mishra",
+        "Siddhi Gupta",
+        "Madhurima Mitra",
+        "Vijay Soni",
+        "Neha Khare",
+        "Priyanka Sharma",
+        "Chittur V Srikanth",
+        "Arti Kapil",
+        "Archana Singh",
+        "Vinay Kumar Nandicoori",
+        "Avinash Bajaj"
+      ],
+      "year": "2019",
+      "journal": "Bioconjugate chemistry",
+      "doi": "10.1021/acs.bioconjchem.8b00880",
+      "doi_link": "https://doi.org/10.1021/acs.bioconjchem.8b00880",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30669829",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Oral%20Delivery%20of%20Cholic%20Acid-Derived%20Amphiphile%20Helps%20in%20Combating%20Salmonella-Mediated%20Gut%20Infection%20and%20Inflammation%22",
+      "citations": {
+        "crossref": 25
+      },
+      "abstract": "A major impediment to developing effective antimicrobials against Gram-negative bacteria like Salmonella is the ability of the bacteria to develop resistance against existing antibiotics and the inability of the antimicrobials to clear the intracellular bacteria residing in the gastrointestinal tract. As the critical balance of charge and hydrophobicity is required for effective membrane-targeting antimicrobials without causing any toxicity to mammalian cells, herein we report the synthesis and antibacterial properties of cholic acid-derived amphiphiles conjugated with alkyl chains of varied hydrophobicity. Relative to other hydrophobic counterparts, a compound with hexyl chain (6) acted as an effective antimicrobial against different Gram-negative bacteria. Apart from its ability to permeate the outer and inner membranes of bacteria; compound 6 can cross the cellular and lysosomal barriers of epithelial cells and macrophages and kill the facultative intracellular bacteria without disrupting the mammalian cell membranes. Oral delivery of compound 6 was able to clear the Salmonella-mediated gut infection and inflammation, and was able to combat persistent, stationary, and multi-drug-resistant clinical strains. Therefore, our study reveals the ability of cholic acid-derived amphiphiles to clear intracellular bacteria and Salmonella-mediated gut infection and inflammation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper33",
+      "publication_id": "30617240",
+      "title": "Selectivity among Anti-σ Factors by ",
+      "authors": [
+        "Anuja C Joshi",
+        "Prabhjot Kaur",
+        "Radhika K Nair",
+        "Deepti S Lele",
+        "Vinay Kumar Nandicoori",
+        "Balasubramanian Gopal"
+      ],
+      "year": "2019",
+      "journal": "Journal of bacteriology",
+      "doi": "10.1128/JB.00748-18",
+      "doi_link": "https://doi.org/10.1128/JB.00748-18",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30617240",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Selectivity%20among%20Anti-%CF%83%20Factors%20by%22",
+      "citations": {
+        "crossref": 2
+      },
+      "abstract": "Extracytoplasmic function σ factors that are stress inducible are often sequestered in an inactive complex with a membrane-associated anti-σ factor. ",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper34",
+      "publication_id": "29934969",
+      "title": "Targeting the messengers: Serine/threonine protein kinases as potential targets for antimycobacterial drug development.",
+      "authors": [
+        "Mehak Zahoor Khan",
+        "Prabhjot Kaur",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2018",
+      "journal": "IUBMB life",
+      "doi": "10.1002/iub.1871",
+      "doi_link": "https://doi.org/10.1002/iub.1871",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29934969",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Targeting%20the%20messengers%3A%20Serine/threonine%20protein%20kinases%20as%20potential%20targets%20for%20antimycobacterial%20drug%20development%22",
+      "citations": {
+        "semantic_scholar": 34
+      },
+      "abstract": "The emergence of increasingly drug-resistant Mycobacterium tuberculosis strains has become a crucial public health concern. In order to effectively treat tuberculosis, it is imperative to find newer drug targets, which are important for the in vivo bacterial survival and persistence. Phosphorylation based signaling cascades modulated by eukaryotic-like serine/threonine protein kinases and phosphatase in M. tuberculosis, transduce extracellular stimuli to a cellular response ensuing pathogen's growth, persistence and pathogenesis. Of the 11 STPKs that M. tuberculosis genome encodes, three kinases, namely PknA, PknB and PknG and the sole serine/threonine phosphatase PstP are crucial for the intracellular survival of the bacteria. PknA and PknB regulates cell growth, cell wall synthesis and morphological changes during bacterial cell division; while PknG modulates metabolic changes in response to stress and aids in bacterial survival during latency like conditions. PstP functions to dephosphorylate STPKs and their substrates and hence is important at nearly all stages of infection. Here, we review the current knowledge on PstP, PknA, PknB and PknG based on the genetic, biochemical, and functional studies in M. tuberculosis physiopathology. We further explore the potential of these molecules as targets for therapeutic intervention and discuss the advancement made in the development of inhibitors against these targets. © 2018 IUBMB Life, 70(9):889-904, 2018.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper35",
+      "publication_id": "29903917",
+      "title": "Delineating FtsQ-mediated regulation of cell division in ",
+      "authors": [
+        "Preeti Jain",
+        "Basanti Malakar",
+        "Mehak Zahoor Khan",
+        "Savita Lochab",
+        "Archana Singh",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2018",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.RA118.003628",
+      "doi_link": "https://doi.org/10.1074/jbc.RA118.003628",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29903917",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Delineating%20FtsQ-mediated%20regulation%20of%20cell%20division%20in%22",
+      "citations": {
+        "crossref": 26
+      },
+      "abstract": "Identifying and characterizing the individual contributors to bacterial cellular elongation and division will improve our understanding of their impact on cell growth and division. Here, we delineated the role of ",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper36",
+      "publication_id": "29530985",
+      "title": "The transpeptidase PbpA and noncanonical transglycosylase RodA of ",
+      "authors": [
+        "Divya Arora",
+        "Yogesh Chawla",
+        "Basanti Malakar",
+        "Archana Singh",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2018",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M117.811190",
+      "doi_link": "https://doi.org/10.1074/jbc.M117.811190",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29530985",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20transpeptidase%20PbpA%20and%20noncanonical%20transglycosylase%20RodA%20of%22",
+      "citations": {
+        "crossref": 41
+      },
+      "abstract": "The cell wall of ",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper37",
+      "publication_id": "28821621",
+      "title": "Protein kinase G confers survival advantage to ",
+      "authors": [
+        "Mehak Zahoor Khan",
+        "Ashima Bhaskar",
+        "Sandeep Upadhyay",
+        "Pooja Kumari",
+        "Raju S Rajmani",
+        "Preeti Jain",
+        "Amit Singh",
+        "Dhiraj Kumar",
+        "Neel Sarovar Bhavesh",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2017",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M117.797563",
+      "doi_link": "https://doi.org/10.1074/jbc.M117.797563",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28821621",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Protein%20kinase%20G%20confers%20survival%20advantage%20to%22",
+      "citations": {
+        "crossref": 93
+      },
+      "abstract": "Protein kinase G (PknG), a thioredoxin-fold-containing eukaryotic-like serine/threonine protein kinase, is a virulence factor in ",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper38",
+      "publication_id": "28209712",
+      "title": "",
+      "authors": [
+        "Srabasti Sengupta",
+        "Saba Naz",
+        "Ishani Das",
+        "Abdul Ahad",
+        "Avinash Padhi",
+        "Sumanta Kumar Naik",
+        "Geetanjali Ganguli",
+        "Kali Prasad Pattanaik",
+        "Sunil Kumar Raghav",
+        "Vinay Kumar Nandicoori",
+        "Avinash Sonawane"
+      ],
+      "year": "2017",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M117.775205",
+      "doi_link": "https://doi.org/10.1074/jbc.M117.775205",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28209712",
+      "scholar_link": "",
+      "citations": {
+        "crossref": 13
+      },
+      "abstract": "",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper39",
+      "publication_id": "27758870",
+      "title": "Serine/Threonine Protein Phosphatase PstP of Mycobacterium tuberculosis Is Necessary for Accurate Cell Division and Survival of Pathogen.",
+      "authors": [
+        "Aditya K Sharma",
+        "Divya Arora",
+        "Lalit K Singh",
+        "Aakriti Gangwal",
+        "Andaleeb Sajid",
+        "Virginie Molle",
+        "Yogendra Singh",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2016",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M116.754531",
+      "doi_link": "https://doi.org/10.1074/jbc.M116.754531",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27758870",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Serine/Threonine%20Protein%20Phosphatase%20PstP%20of%20Mycobacterium%20tuberculosis%20Is%20Necessary%20for%20Accurate%20Cell%20Division%20and%20Survival%20of%20Pathogen%22",
+      "citations": {
+        "crossref": 43
+      },
+      "abstract": "Protein phosphatases play vital roles in phosphorylation-mediated cellular signaling. Although there are 11 serine/threonine protein kinases in Mycobacterium tuberculosis, only one serine/threonine phosphatase, PstP, has been identified. Although PstP has been biochemically characterized and multiple in vitro substrates have been identified, its physiological role has not yet been elucidated. In this study, we have investigated the impact of PstP on cell growth and survival of the pathogen in the host. Overexpression of PstP led to elongated cells and partially compromised survival. We find that depletion of PstP is detrimental to cell survival, eventually leading to cell death. PstP depletion results in elongated multiseptate cells, suggesting a role for PstP in regulating cell division events. Complementation experiments performed with PstP deletion mutants revealed marginally compromised survival, suggesting that all of the domains, including the extracellular domain, are necessary for complete rescue. On the other hand, the catalytic activity of PstP is absolutely essential for the in vitro growth. Mice infection experiments establish a definitive role for PstP in pathogen survival within the host. Depletion of PstP from established infections causes pathogen clearance, indicating that the continued presence of PstP is necessary for pathogen survival. Taken together, our data suggest an important role for PstP in establishing and maintaining infection, possibly via the modulation of cell division events.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper40",
+      "publication_id": "27151218",
+      "title": "Comparative Proteomic Analyses of Avirulent, Virulent, and Clinical Strains of Mycobacterium tuberculosis Identify Strain-specific Patterns.",
+      "authors": [
+        "Gagan Deep Jhingan",
+        "Sangeeta Kumari",
+        "Shilpa V Jamwal",
+        "Haroon Kalam",
+        "Divya Arora",
+        "Neharika Jain",
+        "Lakshmi Krishna Kumaar",
+        "Areejit Samal",
+        "Kanury V S Rao",
+        "Dhiraj Kumar",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2016",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M115.666123",
+      "doi_link": "https://doi.org/10.1074/jbc.M115.666123",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27151218",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Comparative%20Proteomic%20Analyses%20of%20Avirulent%2C%20Virulent%2C%20and%20Clinical%20Strains%20of%20Mycobacterium%20tuberculosis%20Identify%20Strain-specific%20Patterns%22",
+      "citations": {
+        "crossref": 39
+      },
+      "abstract": "Mycobacterium tuberculosis is an adaptable intracellular pathogen, existing in both dormant as well as active disease-causing states. Here, we report systematic proteomic analyses of four strains, H37Ra, H37Rv, and clinical isolates BND and JAL, to determine the differences in protein expression patterns that contribute to their virulence and drug resistance. Resolution of lysates of the four strains by liquid chromatography, coupled to mass spectrometry analysis, identified a total of 2161 protein groups covering ∼54% of the predicted M. tuberculosis proteome. Label-free quantification analysis of the data revealed 257 differentially expressed protein groups. The differentially expressed protein groups could be classified into seven K-means cluster bins, which broadly delineated strain-specific variations. Analysis of the data for possible mechanisms responsible for drug resistance phenotype of JAL suggested that it could be due to a combination of overexpression of proteins implicated in drug resistance and the other factors. Expression pattern analyses of transcription factors and their downstream targets demonstrated substantial differential modulation in JAL, suggesting a complex regulatory mechanism. Results showed distinct variations in the protein expression patterns of Esx and mce1 operon proteins in JAL and BND strains, respectively. Abrogating higher levels of ESAT6, an important Esx protein known to be critical for virulence, in the JAL strain diminished its virulence, although it had marginal impact on the other strains. Taken together, this study reveals that strain-specific variations in protein expression patterns have a meaningful impact on the biology of the pathogen.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper41",
+      "publication_id": "27112593",
+      "title": "Genome-wide non-CpG methylation of the host genome during M. tuberculosis infection.",
+      "authors": [
+        "Garima Sharma",
+        "Divya Tej Sowpati",
+        "Prakruti Singh",
+        "Mehak Zahoor Khan",
+        "Rakesh Ganji",
+        "Sandeep Upadhyay",
+        "Sharmistha Banerjee",
+        "Vinay Kumar Nandicoori",
+        "Sanjeev Khosla"
+      ],
+      "year": "2016",
+      "journal": "Scientific reports",
+      "doi": "10.1038/srep25006",
+      "doi_link": "https://doi.org/10.1038/srep25006",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27112593",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Genome-wide%20non-CpG%20methylation%20of%20the%20host%20genome%20during%20M.%20tuberculosis%20infection%22",
+      "citations": {
+        "crossref": 58
+      },
+      "abstract": "A mammalian cell utilizes DNA methylation to modulate gene expression in response to environmental changes during development and differentiation. Aberrant DNA methylation changes as a correlate to diseased states like cancer, neurodegenerative conditions and cardiovascular diseases have been documented. Here we show genome-wide DNA methylation changes in macrophages infected with the pathogen M. tuberculosis. Majority of the affected genomic loci were hypermethylated in M. tuberculosis infected THP1 macrophages. Hotspots of differential DNA methylation were enriched in genes involved in immune response and chromatin reorganization. Importantly, DNA methylation changes were observed predominantly for cytosines present in non-CpG dinucleotide context. This observation was consistent with our previous finding that the mycobacterial DNA methyltransferase, Rv2966c, targets non-CpG dinucleotides in the host DNA during M. tuberculosis infection and reiterates the hypothesis that pathogenic bacteria use non-canonical epigenetic strategies during infection.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper42",
+      "publication_id": "26568365",
+      "title": "Mycobacteria modulate host epigenetic machinery by Rv1988 methylation of a non-tail arginine of histone H3.",
+      "authors": [
+        "Imtiyaz Yaseen",
+        "Prabhjot Kaur",
+        "Vinay Kumar Nandicoori",
+        "Sanjeev Khosla"
+      ],
+      "year": "2015",
+      "journal": "Nature communications",
+      "doi": "10.1038/ncomms9922",
+      "doi_link": "https://doi.org/10.1038/ncomms9922",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26568365",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mycobacteria%20modulate%20host%20epigenetic%20machinery%20by%20Rv1988%20methylation%20of%20a%20non-tail%20arginine%20of%20histone%20H3%22",
+      "citations": {
+        "semantic_scholar": 133
+      },
+      "abstract": "Mycobacteria are successful pathogens that modulate the host immune response through unclear mechanisms. Here we show that Rv1988, a secreted mycobacterial protein, is a functional methyltransferase that localizes to the host nucleus and interacts with chromatin. Rv1988 methylates histone H3 at H3R42 and represses the genes involved in the first line of defence against mycobacteria. H3R42me2, a non-tail histone modification, is present at the entry and exit point of DNA in the nucleosome and not within the regulatory sites in the N-terminal tail. Rv1988 deletion in Mycobacterium tuberculosis reduces bacterial survival in the host, and experimental expression of M. tuberculosis Rv1988 in non-pathogenic Mycobacterium smegmatis negatively affects the health of infected mice. Thus, Rv1988 is an important mycobacterial virulence factor, which uses a non-canonical epigenetic mechanism to control host cell transcription.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper43",
+      "publication_id": "26489015",
+      "title": "Depletion of M. tuberculosis GlmU from Infected Murine Lungs Effects the Clearance of the Pathogen.",
+      "authors": [
+        "Vijay Soni",
+        "Sandeep Upadhayay",
+        "Priyanka Suryadevara",
+        "Ganesh Samla",
+        "Archana Singh",
+        "Perumal Yogeeswari",
+        "Dharmarajan Sriram",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2015",
+      "journal": "PLoS pathogens",
+      "doi": "10.1371/journal.ppat.1005235",
+      "doi_link": "https://doi.org/10.1371/journal.ppat.1005235",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26489015",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Depletion%20of%20M.%20tuberculosis%20GlmU%20from%20Infected%20Murine%20Lungs%20Effects%20the%20Clearance%20of%20the%20Pathogen%22",
+      "citations": {
+        "crossref": 40
+      },
+      "abstract": "M. tuberculosis N-acetyl-glucosamine-1-phosphate uridyltransferase (GlmUMtb) is a bi-functional enzyme engaged in the synthesis of two metabolic intermediates N-acetylglucosamine-1-phosphate (GlcNAc-1-P) and UDP-GlcNAc, catalyzed by the C- and N-terminal domains respectively. UDP-GlcNAc is a key metabolite essential for the synthesis of peptidoglycan, disaccharide linker, arabinogalactan and mycothiols. While glmUMtb was predicted to be an essential gene, till date the role of GlmUMtb in modulating the in vitro growth of Mtb or its role in survival of pathogen ex vivo / in vivo have not been deciphered. Here we present the results of a comprehensive study dissecting the role of GlmUMtb in arbitrating the survival of the pathogen both in vitro and in vivo. We find that absence of GlmUMtb leads to extensive perturbation of bacterial morphology and substantial reduction in cell wall thickness under normoxic as well as hypoxic conditions. Complementation studies show that the acetyl- and uridyl- transferase activities of GlmUMtb are independently essential for bacterial survival in vitro, and GlmUMtb is also found to be essential for mycobacterial survival in THP-1 cells as well as in guinea pigs. Depletion of GlmUMtb from infected murine lungs, four weeks post infection, led to significant reduction in the bacillary load. The administration of Oxa33, a novel oxazolidine derivative that specifically inhibits GlmUMtb, to infected mice resulted in significant decrease in the bacillary load. Thus our study establishes GlmUMtb as a strong candidate for intervention measures against established tuberculosis infections.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper44",
+      "publication_id": "26303425",
+      "title": "Computational Sampling and Simulation Based Assessment of Novel Mycobacterium tuberculosis Glutamine Synthetase Inhibitors: Study Involving Structure Based Drug Design and Free Energy Perturbation.",
+      "authors": [
+        "Priyanka Suryadevara",
+        "Perumal Yogeeswari",
+        "Vijay Soni",
+        "Parthiban Brindha Devi",
+        "Vinay Kumar Nandicoori",
+        "Dharmarajan Sriram"
+      ],
+      "year": "2016",
+      "journal": "Current topics in medicinal chemistry",
+      "doi": "10.2174/1568026615666150825142726",
+      "doi_link": "https://doi.org/10.2174/1568026615666150825142726",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26303425",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Computational%20Sampling%20and%20Simulation%20Based%20Assessment%20of%20Novel%20Mycobacterium%20tuberculosis%20Glutamine%20Synthetase%20Inhibitors%3A%20Study%20Involving%20Structure%20Based%20Drug%20Design%20and%20Free%20Energy%20Perturbation%22",
+      "citations": {
+        "crossref": 6
+      },
+      "abstract": "The highly persistent nature of Mycobacterium tuberculosis can be attributed to its lipophilic cell wall which acts as a major barrier in the process of drug discovery against tuberculosis. Glutamine synthetase plays a major role in nitrogen metabolism and cell wall biosynthesis of pathogenic mycobacteria. The current review focuses on the structural and functional aspects of Mtb glutamine synthetase and an overview of its reported inhibitors till date. Also in the present study, we employed a computational structure based drug design protocol for identifying novel inhibitors against Mtb glutamine synthetase (MtbGS). A total of 12 hits were identified based on e-pharmacophore related search and virtual screening, which were further tested for their in vitro MtbGS inhibitory activity. Three compounds (compound 6, 1 and 12) were found with IC50 less than 5 &#181;M, of which compound 6 being top active with IC50 of 2.124 &#181;M. Differential scanning fluorimetry studies were employed so as to measure the thermal stability of the protein complexed with the most active compound. Also the protein complexes with top three active compounds were subjected for molecular dynamics simulations to study their binding pattern and stabilization effect. The solvation free energies were also determined for these compounds, undertaking free energy perturbation studies, which can be used further for lead optimization in the process of anti-tubercular drug discovery targeting Mtb glutamine synthetase.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper45",
+      "publication_id": "26078037",
+      "title": "Structure-based design of diverse inhibitors of Mycobacterium tuberculosis N-acetylglucosamine-1-phosphate uridyltransferase: combined molecular docking, dynamic simulation, and biological activity.",
+      "authors": [
+        "Vijay Soni",
+        "Priyanka Suryadevara",
+        "Dharmarajan Sriram",
+        "Santhosh Kumar",
+        "Vinay Kumar Nandicoori",
+        "Perumal Yogeeswari"
+      ],
+      "year": "2015",
+      "journal": "Journal of molecular modeling",
+      "doi": "10.1007/s00894-015-2704-3",
+      "doi_link": "https://doi.org/10.1007/s00894-015-2704-3",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26078037",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structure-based%20design%20of%20diverse%20inhibitors%20of%20Mycobacterium%20tuberculosis%20N-acetylglucosamine-1-phosphate%20uridyltransferase%3A%20combined%20molecular%20docking%2C%20dynamic%20simulation%2C%20and%20biological%20activity%22",
+      "citations": {
+        "crossref": 16
+      },
+      "abstract": "Persistent nature of Mycobacterium tuberculosis is one of the major factors which make the drug development process monotonous against this organism. The highly lipophilic cell wall, which constituting outer mycolic acid and inner peptidoglycan layers, acts as a barrier for the drugs to enter the bacteria. The rigidity of the cell wall is imparted by the peptidoglycan layer, which is covalently linked to mycolic acid by arabinogalactan. Uridine diphosphate-N-acetylglucosamine (UDP-GlcNAc) serves as the starting material in the biosynthesis of this peptidoglycan layers. This UDP-GlcNAc is synthesized by N-acetylglucosamine-1-phosphate uridyltransferase (GlmU(Mtb)), a bi-functional enzyme with two functional sites, acetyltransferase site and uridyltransferase site. Here, we report design and screening of nine inhibitors against UTP and NAcGlc-1-P of uridyltransferase active site of glmU(Mtb). Compound 4 was showing good inhibition and was selected for further analysis. The isothermal titration calorimetry (ITC) experiments showed the binding energy pattern of compound 4 to the uridyltransferase active site is similar to that of substrate UTP. In silico molecular dynamics (MD) simulation studies, for compound 4, carried out for 10 ns showed the protein-compound complex to be stable throughout the simulation with relative rmsd in acceptable range. Hence, these compounds can serve as a starting point in the drug discovery processes against Mycobacterium tuberculosis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper46",
+      "publication_id": "25713147",
+      "title": "Protein kinase A (PknA) of Mycobacterium tuberculosis is independently activated and is critical for growth in vitro and survival of the pathogen in the host.",
+      "authors": [
+        "Sathya Narayanan Nagarajan",
+        "Sandeep Upadhyay",
+        "Yogesh Chawla",
+        "Shazia Khan",
+        "Saba Naz",
+        "Jayashree Subramanian",
+        "Sheetal Gandotra",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2015",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M114.611822",
+      "doi_link": "https://doi.org/10.1074/jbc.M114.611822",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25713147",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Protein%20kinase%20A%20%28PknA%29%20of%20Mycobacterium%20tuberculosis%20is%20independently%20activated%20and%20is%20critical%20for%20growth%20in%20vitro%20and%20survival%20of%20the%20pathogen%20in%20the%20host%22",
+      "citations": {
+        "crossref": 42
+      },
+      "abstract": "The essential mycobacterial protein kinases PknA and PknB play crucial roles in modulating cell shape and division. However, the precise in vivo functional aspects of PknA have not been investigated. This study aims to dissect the role of PknA in mediating cell survival in vitro as well as in vivo. We observed aberrant cell shape and severe growth defects when PknA was depleted. Using the mouse infection model, we observe that PknA is essential for survival of the pathogen in the host. Complementation studies affirm the importance of the kinase, juxtamembrane, and transmembrane domains of PknA. Surprisingly, the extracytoplasmic domain is dispensable for cell growth and survival in vitro. We find that phosphorylation of the activation loop at Thr(172) of PknA is critical for bacterial growth. PknB has been previously suggested to be the receptor kinase, which activates multiple kinases, including PknA, by trans-phosphorylating their activation loop residues. Using phospho-specific PknA antibodies and conditional pknB mutant, we find that PknA autophosphorylates its activation loop independent of PknB. Fluorescently tagged PknA and PknB show distinctive distribution patterns within the cell, suggesting that although both kinases are known to modulate cell shape and division, their modes of action are likely to be different. This is supported by our findings that expression of kinase-dead PknA versus kinase-dead PknB in mycobacterial cells leads to different cellular phenotypes. Data indicate that although PknA and PknB are expressed as part of the same operon, they appear to be regulating cellular processes through divergent signaling pathways.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper47",
+      "publication_id": "24938596",
+      "title": "Phosphorylation of nucleoporin Tpr governs its differential localization and is required for its mitotic function.",
+      "authors": [
+        "Kalpana Rajanala",
+        "Anshuk Sarkar",
+        "Gagan Deep Jhingan",
+        "Raina Priyadarshini",
+        "Manisha Jalan",
+        "Sagar Sengupta",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2014",
+      "journal": "Journal of cell science",
+      "doi": "10.1242/jcs.149112",
+      "doi_link": "https://doi.org/10.1242/jcs.149112",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24938596",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Phosphorylation%20of%20nucleoporin%20Tpr%20governs%20its%20differential%20localization%20and%20is%20required%20for%20its%20mitotic%20function%22",
+      "citations": {
+        "crossref": 29
+      },
+      "abstract": "A major constituent of the nuclear basket region of the nuclear pore complex (NPC), nucleoporin Tpr, plays roles in regulating multiple important processes. We have previously established that Tpr is phosphorylated in both a MAP-kinase-dependent and MAP-kinase-independent manner, and that Tpr acts as both a substrate and as a scaffold for ERK2 (also known as MAPK1). Here, we report the identification of S2059 and S2094 as the major novel ERK-independent phosphorylation sites and T1677, S2020, S2023 and S2034 as additional ERK-independent phosphorylation sites found in the Tpr protein in vivo. Our results suggest that protein kinase A phosphorylates the S2094 residue and that the site is hyperphosphorylated during mitosis. Furthermore, we find that Tpr is phosphorylated at the S2059 residue by CDK1 and the phosphorylated form distinctly localizes with chromatin during telophase. Abrogation of S2059 phosphorylation abolishes the interaction of Tpr with Mad1, thus compromising the localization of both Mad1 and Mad2 proteins, resulting in cell cycle defects. The identification of novel phosphorylation sites on Tpr and the observations presented in this study allow better understanding of Tpr functions.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper48",
+      "publication_id": "24706757",
+      "title": "Protein kinase B (PknB) of Mycobacterium tuberculosis is essential for growth of the pathogen in vitro as well as for survival within the host.",
+      "authors": [
+        "Yogesh Chawla",
+        "Sandeep Upadhyay",
+        "Shazia Khan",
+        "Sathya Narayanan Nagarajan",
+        "Francesca Forti",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2014",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M114.563536",
+      "doi_link": "https://doi.org/10.1074/jbc.M114.563536",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24706757",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Protein%20kinase%20B%20%28PknB%29%20of%20Mycobacterium%20tuberculosis%20is%20essential%20for%20growth%20of%20the%20pathogen%20in%20vitro%20as%20well%20as%20for%20survival%20within%20the%20host%22",
+      "citations": {
+        "crossref": 104
+      },
+      "abstract": "The Mycobacterium tuberculosis protein kinase B (PknB) comprises an intracellular kinase domain, connected through a transmembrane domain to an extracellular region that contains four PASTA domains. The present study describes the comprehensive analysis of different domains of PknB in the context of viability in avirulent and virulent mycobacteria. We find stringent regulation of PknB expression necessary for cell survival, with depletion or overexpression of PknB leading to cell death. Although PknB-mediated kinase activity is essential for cell survival, active kinase lacking the transmembrane or extracellular domain fails to complement conditional mutants not expressing PknB. By creating chimeric kinases, we find that the intracellular kinase domain has unique functions in the virulent strain, which cannot be substituted by other kinases. Interestingly, we find that although the presence of the C-terminal PASTA domain is dispensable in the avirulent M. smegmatis, all four PASTA domains are essential in M. tuberculosis. The differential behavior of PknB vis-à-vis the number of essential PASTA domains and the specificity of kinase domain functions suggest that PknB-mediated growth and signaling events differ in virulent compared with avirulent mycobacteria. Mouse infection studies performed to determine the role of PknB in mediating pathogen survival in the host demonstrate that PknB is not only critical for growth of the pathogen in vitro but is also essential for the survival of the pathogen in the host.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper49",
+      "publication_id": "22969087",
+      "title": "Substrate-bound crystal structures reveal features unique to Mycobacterium tuberculosis N-acetyl-glucosamine 1-phosphate uridyltransferase and a catalytic mechanism for acetyl transfer.",
+      "authors": [
+        "Pravin Kumar Ankush Jagtap",
+        "Vijay Soni",
+        "Neha Vithani",
+        "Gagan Deep Jhingan",
+        "Vaibhav Singh Bais",
+        "Vinay Kumar Nandicoori",
+        "Balaji Prakash"
+      ],
+      "year": "2012",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M112.390765",
+      "doi_link": "https://doi.org/10.1074/jbc.M112.390765",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22969087",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Substrate-bound%20crystal%20structures%20reveal%20features%20unique%20to%20Mycobacterium%20tuberculosis%20N-acetyl-glucosamine%201-phosphate%20uridyltransferase%20and%20a%20catalytic%20mechanism%20for%20acetyl%20transfer%22",
+      "citations": {
+        "crossref": 24
+      },
+      "abstract": "N-acetyl-glucosamine-1-phosphate uridyltransferase (GlmU), a bifunctional enzyme involved in bacterial cell wall synthesis is exclusive to prokaryotes. GlmU, now recognized as a promising target to develop new antibacterial drugs, catalyzes two key reactions: acetyl transfer and uridyl transfer at two independent domains. Hitherto, we identified GlmU from Mycobacterium tuberculosis (GlmU(Mtb)) to be unique in possessing a 30-residue extension at the C terminus. Here, we present the crystal structures of GlmU(Mtb) in complex with substrates/products bound at the acetyltransferase active site. Analysis of these and mutational data, allow us to infer a catalytic mechanism operative in GlmU(Mtb). In this S(N)2 reaction, His-374 and Asn-397 act as catalytic residues by enhancing the nucleophilicity of the attacking amino group of glucosamine 1-phosphate. Ser-416 and Trp-460 provide important interactions for substrate binding. A short helix at the C-terminal extension uniquely found in mycobacterial GlmU provides the highly conserved Trp-460 for substrate binding. Importantly, the structures reveal an uncommon mode of acetyl-CoA binding in GlmU(Mtb); we term this the U conformation, which is distinct from the L conformation seen in the available non-mycobacterial GlmU structures. Residues, likely determining U/L conformation, were identified, and their importance was evaluated. In addition, we identified that the primary site for PknB-mediated phosphorylation is Thr-418, near the acetyltransferase active site. Down-regulation of acetyltransferase activity upon Thr-418 phosphorylation is rationalized by the structures presented here. Overall, this work provides an insight into substrate recognition, catalytic mechanism for acetyl transfer, and features unique to GlmU(Mtb), which may be exploited for the development of inhibitors specific to GlmU.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper50",
+      "publication_id": "22253824",
+      "title": "Localization of nucleoporin Tpr to the nuclear pore complex is essential for Tpr mediated regulation of the export of unspliced RNA.",
+      "authors": [
+        "Kalpana Rajanala",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2012",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0029921",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0029921",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22253824",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Localization%20of%20nucleoporin%20Tpr%20to%20the%20nuclear%20pore%20complex%20is%20essential%20for%20Tpr%20mediated%20regulation%20of%20the%20export%20of%20unspliced%20RNA%22",
+      "citations": {
+        "semantic_scholar": 72
+      },
+      "abstract": "Nucleoporin Tpr is a component of the nuclear pore complex (NPC) that localizes exclusively to intranuclear filaments. Tpr functions as a scaffolding element in the nuclear phase of the NPC and plays a role in mitotic spindle checkpoint signalling. Export of intron-containing mRNA in Mason Pfizer Monkey Virus is regulated by direct interaction of cellular proteins with the cis-acting Constitutive Transport Element (CTE). In mammalian cells, the transport of Gag/Pol-CTE reporter construct is not very efficient, suggesting a regulatory mechanism to retain this unspliced RNA. Here we report that the knockdown of Tpr in mammalian cells leads to a drastic enhancement in the levels of Gag proteins (p24) in the cytoplasm, which is rescued by siRNA resistant Tpr. Tpr's role in the retention of unspliced RNA is independent of the functions of Sam68 and Tap/Nxf1 proteins, which are reported to promote CTE dependent export. Further, we investigated the possible role for nucleoporins that are known to function in nucleocytoplasmic transport in modulating unspliced RNA export. Results show that depletion of Nup153, a nucleoporin required for NPC anchoring of Tpr, plays a role in regulating the export, while depletion of other FG repeat-containing nucleoporins did not alter the unspliced RNA export. Results suggest that Tpr and Nup153 both regulate the export of unspliced RNA and they are most likely functioning through the same pathway. Importantly, we find that localization of Tpr to the NPC is necessary for Tpr mediated regulation of unspliced RNA export. Collectively, the data indicates that perinuclear localization of Tpr at the nucleopore complex is crucial for regulating intron containing mRNA export by directly or indirectly participating in the processing and degradation of aberrant mRNA transcripts.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper51",
+      "publication_id": "21803988",
+      "title": "Interaction of Mycobacterium tuberculosis elongation factor Tu with GTP is regulated by phosphorylation.",
+      "authors": [
+        "Andaleeb Sajid",
+        "Gunjan Arora",
+        "Meetu Gupta",
+        "Anshika Singhal",
+        "Kausik Chakraborty",
+        "Vinay Kumar Nandicoori",
+        "Yogendra Singh"
+      ],
+      "year": "2011",
+      "journal": "Journal of bacteriology",
+      "doi": "10.1128/JB.05469-11",
+      "doi_link": "https://doi.org/10.1128/JB.05469-11",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21803988",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Interaction%20of%20Mycobacterium%20tuberculosis%20elongation%20factor%20Tu%20with%20GTP%20is%20regulated%20by%20phosphorylation%22",
+      "citations": {
+        "semantic_scholar": 73
+      },
+      "abstract": "During protein synthesis, translation elongation factor Tu (Ef-Tu) is responsible for the selection and binding of the cognate aminoacyl-tRNA to the acceptor site on the ribosome. The activity of Ef-Tu is dependent on its interaction with GTP. Posttranslational modifications, such as phosphorylation, are known to regulate the activity of Ef-Tu in several prokaryotes. Although a study of the Mycobacterium tuberculosis phosphoproteome showed Ef-Tu to be phosphorylated, the role of phosphorylation in the regulation of Ef-Tu has not been studied. In this report, we show that phosphorylation of M. tuberculosis Ef-Tu (MtbEf-Tu) by PknB reduced its interaction with GTP, suggesting a concomitant reduction in the level of protein synthesis. Overexpression of PknB in Mycobacterium smegmatis indeed reduced the level of protein synthesis. MtbEf-Tu was found to be phosphorylated by PknB on multiple sites, including Thr118, which is required for optimal activity of the protein. We found that kirromycin, an Ef-Tu-specific antibiotic, had a significant effect on the nucleotide binding of unphosphorylated MtbEf-Tu but not on the phosphorylated protein. Our results show that the modulation of the MtbEf-Tu-GTP interaction by phosphorylation can have an impact on cellular protein synthesis and growth. These results also suggest that phosphorylation can change the sensitivity of the protein to the specific inhibitors. Thus, the efficacy of an inhibitor can also depend on the posttranslational modification(s) of the target and should be considered during the development of the molecule.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper52",
+      "publication_id": "20864541",
+      "title": "Phosphorylation of enoyl-acyl carrier protein reductase InhA impacts mycobacterial growth and survival.",
+      "authors": [
+        "Shazia Khan",
+        "Sathya Narayanan Nagarajan",
+        "Amit Parikh",
+        "Sharmishtha Samantaray",
+        "Albel Singh",
+        "Devanand Kumar",
+        "Rajendra P Roy",
+        "Apoorva Bhatt",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2010",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M110.143131",
+      "doi_link": "https://doi.org/10.1074/jbc.M110.143131",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20864541",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Phosphorylation%20of%20enoyl-acyl%20carrier%20protein%20reductase%20InhA%20impacts%20mycobacterial%20growth%20and%20survival%22",
+      "citations": {
+        "crossref": 73
+      },
+      "abstract": "InhA, the primary target for the first line anti-tuberculosis drug isoniazid, is a key enzyme of the fatty-acid synthase II system involved in mycolic acid biosynthesis in Mycobacterium tuberculosis. In this study, we show that InhA is a substrate for mycobacterial serine/threonine protein kinases. Using a novel approach to validate phosphorylation of a substrate by multiple kinases in a surrogate host (Escherichia coli), we have demonstrated efficient phosphorylation of InhA by PknA, PknB, and PknH, and to a lower extent by PknF. Additionally, the sites targeted by PknA/PknB have been identified and shown to be predominantly located at the C terminus of InhA. Results demonstrate in vivo phosphorylation of InhA in mycobacteria and validate Thr-266 as one of the key sites of phosphorylation. Significantly, our studies reveal that the phosphorylation of InhA by kinases modulates its biochemical activity, with phosphorylation resulting in decreased enzymatic activity. Co-expression of kinase and InhA alters the growth dynamics of Mycobacterium smegmatis, suggesting that InhA phosphorylation in vivo is an important event in regulating its activity. An InhA-T266E mutant, which mimics constitutive phosphorylation, is unable to rescue an M. smegmatis conditional inhA gene replacement mutant, emphasizing the critical role of Thr-266 in mediating post-translational regulation of InhA activity. The involvement of various serine/threonine kinases in modulating the activity of a number of enzymes of the mycolic acid synthesis pathway, including InhA, accentuates the intricacies of mycobacterial signaling networks in parallel with the changing environment.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper53",
+      "publication_id": "19638631",
+      "title": "Key residues in Mycobacterium tuberculosis protein kinase G play a role in regulating kinase activity and survival in the host.",
+      "authors": [
+        "Divya Tiwari",
+        "Rajnish Kumar Singh",
+        "Kasturi Goswami",
+        "Sunil Kumar Verma",
+        "Balaji Prakash",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2009",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M109.036095",
+      "doi_link": "https://doi.org/10.1074/jbc.M109.036095",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19638631",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Key%20residues%20in%20Mycobacterium%20tuberculosis%20protein%20kinase%20G%20play%20a%20role%20in%20regulating%20kinase%20activity%20and%20survival%20in%20the%20host%22",
+      "citations": {
+        "crossref": 51
+      },
+      "abstract": "Protein kinase G (PknG) in Mycobacterium tuberculosis has been shown to modulate phagosome-lysosome fusion. The protein has three distinct domains, an N-terminal Trx domain, a kinase domain, and a C-terminal TPR domain. The present study extensively analyzes the roles of these domains in regulating PknG kinase activity and function. We find that the kinase domain of PknG by itself is inactive, signifying the importance of the flanking domains. Although the deletion of the Trx domain severely impacts the activity of the protein, the C-terminal region also contributes significantly in regulating the activity of the kinase. Apart from this, PknG kinase activity is dependent on the presence of threonine 309 in the p + 1 loop of the activation segment. Mutating the conserved cysteine residues in the Trx motifs makes PknG refractory to changes in the redox environment. In vitro experiments identify threonine 63 as the major phosphorylation site of the protein. Importantly, we find that this is the only site in the protein that is phosphorylated in vivo. Macrophage infection studies reveal that the first 73 residues, the Trx motifs, and the threonine 63 residue are independently essential for modulating PknG-mediated survival of mycobacteria in its host. We have extended these studies to investigate the role of PknG and PknG mutants in the pathogenesis of mycobacteria in mice. Our results reinforce the findings from the macrophage infection experiments, and for the first time demonstrate that the expression of PknG in non-pathogenic mycobacteria allows the continued existence of these bacteria in host tissues.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper54",
+      "publication_id": "19407371",
+      "title": "Structure of N-acetylglucosamine-1-phosphate uridyltransferase (GlmU) from Mycobacterium tuberculosis in a cubic space group.",
+      "authors": [
+        "Sunil Kumar Verma",
+        "Mamta Jaiswal",
+        "Neeraj Kumar",
+        "Amit Parikh",
+        "Vinay Kumar Nandicoori",
+        "Balaji Prakash"
+      ],
+      "year": "2009",
+      "journal": "Acta crystallographica. Section F, Structural biology and crystallization communications",
+      "doi": "10.1107/S1744309109010252",
+      "doi_link": "https://doi.org/10.1107/S1744309109010252",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19407371",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structure%20of%20N-acetylglucosamine-1-phosphate%20uridyltransferase%20%28GlmU%29%20from%20Mycobacterium%20tuberculosis%20in%20a%20cubic%20space%20group%22",
+      "citations": {
+        "crossref": 16
+      },
+      "abstract": "GlmU is a bifunctional enzyme that catalyzes the final two steps in the biosynthesis of UDP-GlcNAc. Crystals of GlmU from Mycobacterium tuberculosis obtained using ammonium sulfate as a precipitant diffracted poorly (to 3.4 A resolution) and displayed an unusually high solvent content (>80%) with sparse crystal packing that resulted in large solvent channels. With one molecule per asymmetric unit, the monomers from three neighbouring asymmetric units related by the crystal threefold formed a biological trimer. Although this is the first report of the structure of GlmU determined in a cubic crystal form, the trimeric arrangement here is similar to that observed for other GlmU structures determined in hexagonal (H3, H32, P6(3)22) space groups.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper55",
+      "publication_id": "19251699",
+      "title": "The Mycobacterium tuberculosis protein kinase K modulates activation of transcription from the promoter of mycobacterial monooxygenase operon through phosphorylation of the transcriptional regulator VirS.",
+      "authors": [
+        "Pawan Kumar",
+        "Devanand Kumar",
+        "Amit Parikh",
+        "Dimple Rananaware",
+        "Meetu Gupta",
+        "Yogendra Singh",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2009",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M808705200",
+      "doi_link": "https://doi.org/10.1074/jbc.M808705200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19251699",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20Mycobacterium%20tuberculosis%20protein%20kinase%20K%20modulates%20activation%20of%20transcription%20from%20the%20promoter%20of%20mycobacterial%20monooxygenase%20operon%20through%20phosphorylation%20of%20the%20transcriptional%20regulator%20VirS%22",
+      "citations": {
+        "crossref": 60
+      },
+      "abstract": "Mycobacterium tuberculosis encodes for 11 eukaryotic-like serine/threonine protein kinases. Genetic and biochemical studies show that these kinases regulate various cellular processes including cell shape and morphology, glucose and glutamine transport, phagosome-lysosome fusion and the expression, and/or activity of transcription factors. PknK is the largest predicted serine/threonine protein kinase in M. tuberculosis. Here, we have cloned, overexpressed, and purified protein kinase K (PknK) to near homogeneity and show that its ability to phosphorylate proteins is dependent on the invariant lysine (Lys(55)), and on two conserved threonine residues present in its activation loop. Despite being devoid of any apparent transmembrane domain, PknK is localized to the cell wall fraction, suggesting probable anchoring of the kinase to the cell membrane region. The pknK gene is located in the vicinity of the virS gene, which is known to regulate the expression of the mycobacterial monooxygenase (mymA) operon. We report here for the first time that VirS is in fact a substrate of PknK. In addition, four of the proteins encoded by mymA operon are also found to be substrates of PknK. Results show that VirS is a bona fide substrate of PknK in vivo, and PknK-mediated phosphorylation of VirS increases its affinity for mym promoter DNA. Reporter assays reveal that PknK modulates VirS-mediated stimulation of transcription from the mym promoter. These findings suggest that the expression of mymA operon genes is regulated through PknK-mediated phosphorylation of VirS.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper56",
+      "publication_id": "19201753",
+      "title": "The significance of EXDD and RXKD motif conservation in Rel proteins.",
+      "authors": [
+        "Mathew Sajish",
+        "Sissy Kalayil",
+        "Sunil Kumar Verma",
+        "Vinay Kumar Nandicoori",
+        "Balaji Prakash"
+      ],
+      "year": "2009",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M807187200",
+      "doi_link": "https://doi.org/10.1074/jbc.M807187200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19201753",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20significance%20of%20EXDD%20and%20RXKD%20motif%20conservation%20in%20Rel%20proteins%22",
+      "citations": {
+        "crossref": 42
+      },
+      "abstract": "Monofunctional and bifunctional classes of Rel proteins catalyze pyrophosphoryl transfer from ATP to 3'-OH of GTP/GDP to synthesize (p)ppGpp, which is essential for normal microbial physiology and survival. Bifunctional proteins additionally catalyze the hydrolysis of (p)ppGpp. We have earlier demonstrated that although both catalyze identical the (p)ppGpp synthesis reaction, they exhibit a differential response to Mg(2+) due to a unique charge reversal in the synthesis domain; an RXKD motif in the synthesis domain of bifunctional protein is substituted by an EXDD motif in that of the monofunctional proteins. Here, we show that these motifs also determine substrate specificities (GTP/GDP), cooperativity, and regulation of catalytic activities at the N-terminal region through the C-terminal region. Most importantly, a mutant bifunctional Rel carrying an EXDD instigates a novel catalytic reaction, resulting in the synthesis of pGpp by an independent hydrolysis of the 5'P(alpha)-O-P(beta) bond of GTP/GDP or (p)ppGpp. Further experiments with RelA from Escherichia coli wherein EXDD is naturally present also revealed the presence of pGpp, albeit at low levels. This work brings out the biological significance of RXKD/EXDD motif conservation in Rel proteins and reveals an additional catalytic activity for the monofunctional proteins, prompting an extensive investigation for the possible existence and role of pGpp in the biological system.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper57",
+      "publication_id": "19121323",
+      "title": "PknB-mediated phosphorylation of a novel substrate, N-acetylglucosamine-1-phosphate uridyltransferase, modulates its acetyltransferase activity.",
+      "authors": [
+        "Amit Parikh",
+        "Sunil Kumar Verma",
+        "Shazia Khan",
+        "Balaji Prakash",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2009",
+      "journal": "Journal of molecular biology",
+      "doi": "10.1016/j.jmb.2008.12.031",
+      "doi_link": "https://doi.org/10.1016/j.jmb.2008.12.031",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19121323",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22PknB-mediated%20phosphorylation%20of%20a%20novel%20substrate%2C%20N-acetylglucosamine-1-phosphate%20uridyltransferase%2C%20modulates%20its%20acetyltransferase%20activity%22",
+      "citations": {
+        "crossref": 104
+      },
+      "abstract": "Identifying direct targets of kinases and determining how their activities are regulated are central to understanding how they generate biological responses. Genetic and biochemical studies have shown that Mycobacterium tuberculosis serine/threonine protein kinases PknA and PknB play a role in modulating cell shape and possibly cell division. In this report, we show that the enzyme N-acetylglucosamine-1-phosphate uridyltransferase (GlmU) of M. tuberculosis is a novel substrate of PknB and is phosphorylated on threonine residues. GlmU carries out two important biochemical activities: a C-terminal domain catalyzes the transfer of acetyl group from acetyl coenzyme A to glucosamine-1-phosphate to produce N-acetylglucosamine-1-phosphate, which is converted into UDP-N-acetylglucosamine by the transfer of uridine 5'-monophosphate (from uridine 5'-triphosphate), a reaction catalyzed by the N-terminal domain. We determined the crystal structures of GlmU in apo form and UDP-N-acetylglucosamine-bound form, and analyzed them to identify threonine residues that may be accessible to PknB. The structure shows a two-domain architecture, with an N-terminal domain having an alpha/beta-like fold and with a C-terminal domain that forms a left-handed parallel beta-helix structure. Kinase assays with PknB using the N- and C-terminal domains of GlmU as substrates illustrated that PknB phosphorylates GlmU in the C-terminal domain. Furthermore, mutational studies reveal one of the five threonines present in region 414-439 to be phosphorylated by PknB. Structural and biochemical analyses have shown the significance of a variable C-terminal tail in regulating acetyltransferase activity. Notably, we demonstrate that although PknB-mediated phosphorylation of GlmU does not affect its uridyltransferase activity, it significantly modulates the acetyltransferase activity. These findings imply a role for PknB in regulating peptidoglycan synthesis by modulating the acetyltransferase activity of GlmU.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper58",
+      "publication_id": "18794356",
+      "title": "Extracellular signal-regulated kinase 2 (ERK2) phosphorylation sites and docking domain on the nuclear pore complex protein Tpr cooperatively regulate ERK2-Tpr interaction.",
+      "authors": [
+        "Tomás Vomastek",
+        "Marcin P Iwanicki",
+        "W Richard Burack",
+        "Divya Tiwari",
+        "Devanand Kumar",
+        "J Thomas Parsons",
+        "Michael J Weber",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2008",
+      "journal": "Molecular and cellular biology",
+      "doi": "10.1128/MCB.00925-08",
+      "doi_link": "https://doi.org/10.1128/MCB.00925-08",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18794356",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Extracellular%20signal-regulated%20kinase%202%20%28ERK2%29%20phosphorylation%20sites%20and%20docking%20domain%20on%20the%20nuclear%20pore%20complex%20protein%20Tpr%20cooperatively%20regulate%20ERK2-Tpr%20interaction%22",
+      "citations": {
+        "crossref": 59
+      },
+      "abstract": "Identifying direct substrates of mitogen-activated protein kinases (MAPKs) and understanding how those substrates are selected is central to understanding how these ubiquitously activated enzymes generate diverse biological responses. In previous work, we identified several new candidate substrates for the MAPK ERK2 (extracellular signal-regulated kinase 2), including the nuclear pore complex protein Tpr (translocated promoter region). In this report, we identify sites on Tpr for ERK2 phosphorylation and binding and demonstrate their functional interaction. ERK2 phosphorylation and dimerization are necessary for ERK2-Tpr binding, and this occurs through a DEF (docking site for ERK2, FXF) domain on Tpr. Surprisingly, the DEF domain and the phosphorylation sites displayed positive cooperativity to promote ERK2 binding to Tpr, in contrast to substrates where phosphorylation reduces binding. Ectopic expression or depletion of Tpr resulted in decreased movement of activated ERK2 from the cytoplasm to the nucleus, implying a role for Tpr in ERK2 translocation. Collectively, the data provide direct evidence that a component of the nuclear pore complex is a bona fide substrate of ERK2 in vivo and that activated ERK2 stably associates with this substrate after phosphorylation, where it could play a continuing role in nuclear pore function. We propose that Tpr is both a substrate and a scaffold for activated ERKs.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper59",
+      "publication_id": "17911108",
+      "title": "A charge reversal differentiates (p)ppGpp synthesis by monofunctional and bifunctional Rel proteins.",
+      "authors": [
+        "Mathew Sajish",
+        "Divya Tiwari",
+        "Dimple Rananaware",
+        "Vinay Kumar Nandicoori",
+        "Balaji Prakash"
+      ],
+      "year": "2007",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M704828200",
+      "doi_link": "https://doi.org/10.1074/jbc.M704828200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17911108",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20charge%20reversal%20differentiates%20%28p%29ppGpp%20synthesis%20by%20monofunctional%20and%20bifunctional%20Rel%20proteins%22",
+      "citations": {
+        "semantic_scholar": 46
+      },
+      "abstract": "A major regulatory mechanism evolved by microorganisms to combat stress is the regulation mediated by (p)ppGpp (the stringent response molecule), synthesized and hydrolyzed by Rel proteins. These are divided into bifunctional and monofunctional proteins based on the presence or absence of the hydrolysis activity. Although these proteins require Mg(2+) for (p)ppGpp synthesis, high Mg(2+) was shown to inhibit this reaction in bifunctional Rel proteins from Mycobacterium tuberculosis and Streptococcus equisimilis. This is not a characteristic feature in enzymes that use a dual metal ion mechanism, such as DNA polymerases that are known to carry out a similar pyrophosphate transfer reaction. Comparison of polymerase Polbeta and Rel(Seq) structures that share a common fold led to the proposal that the latter would follow a single metal ion mechanism. Surprisingly, in contrast to bifunctional Rel, we did not find inhibition of guanosine 5'-triphosphate, 3'-diphosphate (pppGpp) synthesis at higher Mg(2+) in the monofunctional RelA from Escherichia coli. We show that a charge reversal in a conserved motif in the synthesis domains explains this contrast; an RXKD motif in the bifunctional proteins is reversed to an EXDD motif. The differential response of these proteins to Mg(2+) could also be noticed in fluorescent nucleotide binding and circular dichroism experiments. In mutants where the motifs were reversed, the differential effect could also be reversed. We infer that although a catalytic Mg(2+) is common to both bifunctional and monofunctional proteins, the latter would utilize an additional metal binding site formed by EXDD. This work, for the first time, brings out differences in (p)ppGpp synthesis by the two classes of Rel proteins.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 59,
+    "publications_by_year": {
+      "2025": 2,
+      "2024": 3,
+      "2023": 6,
+      "2022": 5,
+      "2021": 7,
+      "2020": 3,
+      "2019": 7,
+      "2018": 3,
+      "2017": 2,
+      "2016": 4,
+      "2015": 4,
+      "2014": 2,
+      "2012": 2,
+      "2011": 1,
+      "2010": 1,
+      "2009": 5,
+      "2008": 1,
+      "2007": 1
+    },
+    "top_journals": [
+      "The Journal of biological chemistry",
+      "eLife",
+      "Scientific reports",
+      "Tuberculosis (Edinburgh, Scotland)",
+      "mBio"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 202,
+      "frequent_collaborators": [
+        "Vinay Kumar Nandicoori",
+        "Yogendra Singh",
+        "Mehak Zahoor Khan",
+        "Saba Naz",
+        "Balaji Prakash",
+        "Archana Singh",
+        "Vijay Soni",
+        "Biplab Singha"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "36340884",
+        "title": "Protocol for ",
+        "citations": 14573,
+        "year": "2022"
+      },
+      {
+        "publication_id": "26568365",
+        "title": "Mycobacteria modulate host epigenetic machinery by Rv1988 methylation of a non-tail arginine of histone H3.",
+        "citations": 133,
+        "year": "2015"
+      },
+      {
+        "publication_id": "24706757",
+        "title": "Protein kinase B (PknB) of Mycobacterium tuberculosis is essential for growth of the pathogen in vitro as well as for survival within the host.",
+        "citations": 104,
+        "year": "2014"
+      }
+    ]
+  }
+}

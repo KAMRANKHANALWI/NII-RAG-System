@@ -1,0 +1,473 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Anil K. Suri",
+    "email": "anil@nii.res.in",
+    "source_url": "https://www.nii.res.in/en/former-faculty/dr-anil-k-suri",
+    "research_domain": "Former",
+    "faculty_status": "former",
+    "search_date": "2025-06-26T18:20:41.837458",
+    "total_publications": 16,
+    "last_updated": "2025-06-26",
+    "description": "This document contains a complete list of publications by Dr. Anil K. Suri, former faculty in Former at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "27656457",
+      "title": "Spindle Cell Variant of Embryonal Rhabdomyosarcoma: A Rare Entity with Diagnostic Challenges.",
+      "authors": [
+        "Puneet Kaur",
+        "Anureet Kaur",
+        "Anil Kumar Suri",
+        "Harsh Malik"
+      ],
+      "year": "2016",
+      "journal": "Journal of clinical and diagnostic research : JCDR",
+      "doi": "10.7860/JCDR/2016/19785.8359",
+      "doi_link": "https://doi.org/10.7860/JCDR/2016/19785.8359",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27656457",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Spindle%20Cell%20Variant%20of%20Embryonal%20Rhabdomyosarcoma%3A%20A%20Rare%20Entity%20with%20Diagnostic%20Challenges%22",
+      "citations": {
+        "semantic_scholar": 7
+      },
+      "abstract": "The spindle cell variant of embryonal rhabdomyosarcoma is a rare and a better differentiated variant of embryonal rhabdomyosarcoma, having a better prognosis compared to other types of rhabdomyosarcomas. So, it needs to be distinguished from classical forms of the neoplasm. Its morphological resemblance to spindle cell neoplasms like leiomyosarcomas and fibrosarcomas may pose diagnostic difficulties for the pathologist. This problem can be overcome by careful search for rhabdomyoblasts in sections, which are usually few, and Immunohistochemistry for myogenin. In the present case, a 15-year-old female presented with a progressively increasing swelling in the right upper eyelid, which was diagnosed as a rare variant of rhabdomyosarcoma. We have also attempted to discuss its differential diagnosis, and to emphasize the fact that this rare entity may be misdiagnosed.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "22438616",
+      "title": "Detection of abnormal cervical cytology in Papanicolaou smears.",
+      "authors": [
+        "Manjit Singh Bal",
+        "Rishu Goyal",
+        "Anil Kumar Suri",
+        "Manjit Kaur Mohi"
+      ],
+      "year": "2012",
+      "journal": "Journal of cytology",
+      "doi": "10.4103/0970-9371.93222",
+      "doi_link": "https://doi.org/10.4103/0970-9371.93222",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22438616",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Detection%20of%20abnormal%20cervical%20cytology%20in%20Papanicolaou%20smears%22",
+      "citations": {
+        "crossref": 40
+      },
+      "abstract": "BACKGROUND: Cervical cytology by Papanicolaou (Pap) smears is an effective means of screening for cervical premalignant and malignant conditions. Cervical intra-epithelial neoplasia (CIN) and cervical cancer remain important health problems for women worldwide. AIM: To study the role of Pap smear in detecting premalignant and malignant lesions of cervix; and to determine the prevalence of various lesions. MATERIALS AND METHODS: This study is based on 300 patients who attended the out-patient Department of Obstetrics and Gynaecology. Pap smears were prepared from patients presenting with complaints like vaginal discharge, post-coital bleeding, inter-menstrual bleeding, dyspareunia, and pain lower abdomen. After fixation and staining, each smear was carefully examined. RESULTS: Epithelial cell abnormalities were found in 5% smears, atypical squamous cells of undetermined significance (ASCUS) in 0.3%, squamous intraepithelial lesion (SIL) in 3.4% which includes low grade squamous intraepithelial lesion (LSIL) (2.7%) and high grade squamous intraepithelial lesion (HSIL) 0.7%. Invasive carcinoma was seen in 1.3% cases. Mean age of the patients with diagnosis of LSIL was 32.3 years and for HSIL, it was 40.5 years. The mean age of the patients with invasive carcinoma was 57 years. CONCLUSION: Premalignant and malignant lesions of cervix are not uncommon in our set up and can be diagnosed early by Pap smears.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "17332284",
+      "title": "Sperm-associated antigen 9, a novel cancer testis antigen, is a potential target for immunotherapy in epithelial ovarian cancer.",
+      "authors": [
+        "Manoj Garg",
+        "Dipak Chaurasiya",
+        "Ritu Rana",
+        "Nirmala Jagadish",
+        "Deepika Kanojia",
+        "Namrata Dudha",
+        "Neha Kamran",
+        "Sudha Salhan",
+        "Amar Bhatnagar",
+        "Sushma Suri",
+        "Anju Gupta",
+        "Anil Suri"
+      ],
+      "year": "2007",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "doi": "10.1158/1078-0432.CCR-06-2340",
+      "doi_link": "https://doi.org/10.1158/1078-0432.CCR-06-2340",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17332284",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Sperm-associated%20antigen%209%2C%20a%20novel%20cancer%20testis%20antigen%2C%20is%20a%20potential%20target%20for%20immunotherapy%20in%20epithelial%20ovarian%20cancer%22",
+      "citations": {
+        "semantic_scholar": 71
+      },
+      "abstract": "PURPOSE: Cancer testis antigens are a group of tumor antigens with gene expression restricted to male germ cells in the testis and in various cancerous tissues. Recently, we reported a novel testis-specific sperm-associated antigen 9 (SPAG9) gene, a new member of the c-Jun NH(2)-terminal kinase-interacting protein family, having functional role in sperm-egg fusion and mitogen-activated protein kinase signaling pathway. National Center for Biotechnology Information Blast searches revealed SPAG9 nucleotide sequence similarities with expressed sequence tags of various cancerous tissues. In an effort to examine the clinical utility of SPAG9, we investigated the SPAG9 mRNA and protein expression in epithelial ovarian cancer (EOC). Humoral immune response to SPAG9 was also evaluated in EOC patients. EXPERIMENTAL DESIGN: We determined the expression profile of SPAG9 transcript by reverse transcription-PCR and RNA in situ hybridization and SPAG9 protein expression by immunohistochemistry in EOC specimens and human ovarian cancer cell lines. Using ELISA and Western blotting, we analyzed specific antibodies for SPAG9 in sera from patients with EOC. RESULTS: SPAG9 mRNA and protein expression was detected in 90% of EOC tissues and in all three human ovarian cancer cell lines. Specific SPAG9 antibodies were detected in 67% of EOC patients and not in sera from healthy individuals. CONCLUSIONS: Our findings indicate that SPAG9 is highly expressed in EOC and immunogenic in patients. Humoral immune response against SPAG9 in early stages of EOC suggests its important role in early diagnostics. These results collectively suggest that SPAG9, a novel member of cancer testis antigen family, could be a potential target for the development of diagnostic and therapeutic methods in EOC.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "19190149",
+      "title": "Sperm-associated antigen 9, a novel biomarker for early detection of breast cancer.",
+      "authors": [
+        "Deepika Kanojia",
+        "Manoj Garg",
+        "Samir Gupta",
+        "Anju Gupta",
+        "Anil Suri"
+      ],
+      "year": "2009",
+      "journal": "Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology",
+      "doi": "10.1158/1055-9965.EPI-08-0629",
+      "doi_link": "https://doi.org/10.1158/1055-9965.EPI-08-0629",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19190149",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Sperm-associated%20antigen%209%2C%20a%20novel%20biomarker%20for%20early%20detection%20of%20breast%20cancer%22",
+      "citations": {
+        "crossref": 64
+      },
+      "abstract": "To date, there have been no tumor biomarkers validated and incorporated into oncologic practice for the early diagnosis of breast cancer. Recently, we showed that sperm-associated antigen 9 (SPAG9), a member of cancer testis (CT) antigen family, is associated with ovarian carcinomas. In the present study, we investigated SPAG9 expression and humoral immune response in breast cancer. We further evaluated the diagnostic potential of autoantibodies to SPAG9 protein in various stages, grades, and histotypes of breast cancer. We analyzed the association of SPAG9 immunoreactivity score (IRS) with predicted risk of breast cancer recurrence over 10 years. Our reverse transcription-PCR and immunohistochemical analyses revealed SPAG9 expression in 88% breast cancer specimens independent of tumor stages and grades. Further, the humoral immune response against SPAG9 was detected in 80% breast cancer patients with SPAG9-expressing tumors. The linear regression modeling predicted a direct relationship between presence of lymphovascular invasion and high SPAG9 IRS, whereas the univariate and multivariate logistic regression models predicted a strong association of SPAG9 IRS with tumor grade. Further, our data indicated a significant higher trend of SPAG9 IRS with the predicted high risk of breast cancer recurrence. The present investigation reports for the first time SPAG9 expression and humoral immune response in early stages and low-grade breast cancer. Although our data indicated that autoantibodies against SPAG9 represent a promising approach for the development of biomarker, further large-scale validation studies are required to establish its potential use in early diagnosis and monitoring of breast cancer recurrence.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "19326449",
+      "title": "Sperm-associated antigen 9 is a biomarker for early cervical carcinoma.",
+      "authors": [
+        "Manoj Garg",
+        "Deepika Kanojia",
+        "Sudha Salhan",
+        "Sushma Suri",
+        "Anju Gupta",
+        "Nirmal Kumar Lohiya",
+        "Anil Suri"
+      ],
+      "year": "2009",
+      "journal": "Cancer",
+      "doi": "10.1002/cncr.24293",
+      "doi_link": "https://doi.org/10.1002/cncr.24293",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19326449",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Sperm-associated%20antigen%209%20is%20a%20biomarker%20for%20early%20cervical%20carcinoma%22",
+      "citations": {
+        "semantic_scholar": 61
+      },
+      "abstract": "BACKGROUND: Cervical cancer is the second most common malignancy in women, with nearly half a million new cases diagnosed each year worldwide. The authors' recent studies have suggested an association of the cancer testis antigen sperm-associated antigen 9 (SPAG9) in ovarian carcinomas. The aim of the current study was to evaluate the clinical utility of SPAG9 expression and humoral immune response in cervical carcinomas. METHODS: SPAG9 mRNA expression was assessed by reverse transcriptase-polymerase chain reaction (RT-PCR) and in situ RNA hybridization. In addition, the authors investigated SPAG9 protein expression by immunohistochemistry and analyzed its association with various stages and grades of cervical cancer patients. They also tested the humoral immune response against SPAG9 in cervical cancer patients. RESULTS: RT-PCR, in situ RNA hybridization, and immunohistochemical analyses revealed that SPAG9 expression was significantly associated with tumor grades in 82% of early stage cervical cancer specimens. SPAG9 antibodies were detected in approximately 80% of cervical cancer patients, but not in healthy controls. Statistical analysis revealed that a significant proportion of early stage cancer patients with a high SPAG9 immunoreactivity score (IRS) exhibited significantly higher antibody response against SPAG9 compared with moderate SPAG9 IRSs, suggesting a close relation between SPAG9 protein expression and humoral immune response. CONCLUSIONS: The current study findings revealed that in early stage cervical cancer, a substantial number of patients exhibited SPAG9 expression and generated SPAG9 antibodies, supporting its potential role in early detection and diagnosis in cervical cancer management. Furthermore, these findings provide leads for future development of noninvasive serologic biomarkers for the early detection, diagnosis, and treatment of cervical cancer.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "19914824",
+      "title": "Heat-shock protein 70-2 (HSP70-2) expression in bladder urothelial carcinoma is associated with tumour progression and promotes migration and invasion.",
+      "authors": [
+        "Manoj Garg",
+        "Deepika Kanojia",
+        "Amlesh Seth",
+        "Rajive Kumar",
+        "Anju Gupta",
+        "Avadhesha Surolia",
+        "Anil Suri"
+      ],
+      "year": "2010",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "doi": "10.1016/j.ejca.2009.10.020",
+      "doi_link": "https://doi.org/10.1016/j.ejca.2009.10.020",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19914824",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Heat-shock%20protein%2070-2%20%28HSP70-2%29%20expression%20in%20bladder%20urothelial%20carcinoma%20is%20associated%20with%20tumour%20progression%20and%20promotes%20migration%20and%20invasion%22",
+      "citations": {
+        "crossref": 68
+      },
+      "abstract": "PURPOSE: Testis specific heat-shock protein 70-2 (HSP70-2), a member of HSP70 chaperone family, is essential for the growth of spermatocytes and cancer cells. We investigated the association of HSP70-2 expression with clinical behaviour and progression of urothelial carcinoma of bladder. EXPERIMENTAL DESIGN: We assessed the HSP70-2 expression by RT-PCR and HSP70-2 protein expression by immunofluorescence, flow cytometry, immunohistochemistry and Western blotting in urothelial carcinoma patient specimens and HTB-1, UMUC-3, HTB-9, HTB-2 and normal human urothelial cell lines. Further, to investigate the role of HSP70-2 in bladder tumour development, HSP70-2 was silenced in the high-grade invasive HTB-1 and UMUC-3 cells. The malignant properties of urothelial carcinoma cells were examined using colony formation, migration assay, invasion assay in vitro and tumour growth in vivo. RESULTS: Our RT-PCR analysis and immunohistochemistry analysis revealed that HSP70-2 was expressed in both moderate to well-differentiated and high-grade invasive urothelial carcinoma cell lines studied and not in normal human urothelial cells. In consistence with these results, HSP70-2 expression was also observed in superficially invasive (70%) and muscle-invasive (90%) patient's tumours. Furthermore, HSP70-2 knockdown significantly suppressed cellular motility and invasion ability. An in vivo xenograft study showed that inhibition of HSP70-2 significantly suppressed tumour growth. CONCLUSIONS: In conclusion, our data suggest that the HSP70-2 expression is associated with early spread and progression of urothelial carcinoma of bladder cancer and that HSP70-2 can be the potential therapeutic target for bladder urothelial carcinoma.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "20564126",
+      "title": "Germ cell-specific heat shock protein 70-2 is expressed in cervical carcinoma and is involved in the growth, migration, and invasion of cervical cells.",
+      "authors": [
+        "Manoj Garg",
+        "Deepika Kanojia",
+        "Shikha Saini",
+        "Sushma Suri",
+        "Anju Gupta",
+        "Avadhesha Surolia",
+        "Anil Suri"
+      ],
+      "year": "2010",
+      "journal": "Cancer",
+      "doi": "10.1002/cncr.25218",
+      "doi_link": "https://doi.org/10.1002/cncr.25218",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20564126",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Germ%20cell-specific%20heat%20shock%20protein%2070-2%20is%20expressed%20in%20cervical%20carcinoma%20and%20is%20involved%20in%20the%20growth%2C%20migration%2C%20and%20invasion%20of%20cervical%20cells%22",
+      "citations": {
+        "crossref": 52
+      },
+      "abstract": "BACKGROUND: Cervical cancer is a major cause of death among women worldwide, and the most cases are reported in the least developed countries. Recently, a study on DNA microarray gene expression analysis demonstrated the overexpression of heat shock protein 70-2 (HSP70-2) in cervical carcinoma cells (HeLa). The objective of the current study was to evaluate the association between HSP70-2 expression in cervical carcinogenesis and its potential role in various malignant properties that result in disease progression. METHODS: HSP70-2 expression was examined in various cervical cancer cell lines with different origins and in clinical cervical cancer specimens by reverse transcriptase-polymerase chain reaction (RT-PCR), flow cytometry, and immunohistochemistry (IHC) analyses. A plasmid-based, short-hairpin RNA approach was used specifically to knock down the expression of HSP70-2 in cervical tumor cells in vitro and in vivo to examine the role of HSP70-2 on various malignant properties. RESULTS: RT-PCR and IHC analyses revealed HSP70-2 expression in 86% of cervical cancer specimens. Furthermore, knockdown of HSP70-2 expression significantly reduced cellular growth, colony formation, migration, and invasion in vitro and reduced tumor growth in vivo. A significant association of HSP70-2 gene and protein expression was observed among the various tumor stages (P=.046) and different grades (P=.006), suggesting that HSP70-2 expression may be an indicator of disease progression. CONCLUSIONS: The current findings suggested that HSP70-2 may play an important role in disease progression in cervical carcinogenesis. Patients who had early stage disease and low-grade tumors had HSP70-2 expression, supporting its potential role in early detection and aggressive treatment modalities for cervical cancer management.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "21356354",
+      "title": "Sperm-associated antigen 9 is a novel biomarker for colorectal cancer and is involved in tumor growth and tumorigenicity.",
+      "authors": [
+        "Deepika Kanojia",
+        "Manoj Garg",
+        "Samir Gupta",
+        "Anju Gupta",
+        "Anil Suri"
+      ],
+      "year": "2011",
+      "journal": "The American journal of pathology",
+      "doi": "10.1016/j.ajpath.2010.11.047",
+      "doi_link": "https://doi.org/10.1016/j.ajpath.2010.11.047",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21356354",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Sperm-associated%20antigen%209%20is%20a%20novel%20biomarker%20for%20colorectal%20cancer%20and%20is%20involved%20in%20tumor%20growth%20and%20tumorigenicity%22",
+      "citations": {
+        "crossref": 70
+      },
+      "abstract": "Colorectal cancer (CRC) is the second most common tumor in developed countries. The present study was undertaken to determine the expression of the sperm-associated antigen 9 gene (SPAG9) as a possible biomarker in CRC, to investigate its correlation with humoral immune response and different stages and grades in CRC patients, and to explore its possible role in colon tumorigenesis in vitro and in an in vivo mouse model. SPAG9 expression was determined by RT-PCR, in situ RNA hybridization, and immunohistochemistry. Humoral response against SPAG9 was detected by enzyme-linked immunosorbent assay and Western blotting. SPAG9 gene silencing was performed using plasmid-based small interfering RNA to study various malignant properties of colon cancer cells in vitro and in vivo. The majority of CRC patients showed SPAG9 expression and generated humoral response. There was a close relationship between SPAG9 protein expression and humoral immune response in the majority of early-stage CRC patients, indicating that anti-SPAG9 antibodies could be a novel serum biomarker for early diagnosis. The down-regulation of SPAG9 (mediated by small interfering RNA) inhibited malignant properties in in vitro and significantly suppressed tumor growth in vivo. These findings collectively suggest that SPAG9 may have a role in tumor development and early spread and thus could serve as a novel target for early detection and for cancer immunotherapy.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "23451156",
+      "title": "A novel cancer testis antigen, A-kinase anchor protein 4 (AKAP4) is a potential biomarker for breast cancer.",
+      "authors": [
+        "Shikha Saini",
+        "Nirmala Jagadish",
+        "Anju Gupta",
+        "Amar Bhatnagar",
+        "Anil Suri"
+      ],
+      "year": "2013",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0057095",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0057095",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23451156",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20novel%20cancer%20testis%20antigen%2C%20A-kinase%20anchor%20protein%204%20%28AKAP4%29%20is%20a%20potential%20biomarker%20for%20breast%20cancer%22",
+      "citations": {
+        "semantic_scholar": 40
+      },
+      "abstract": "BACKGROUND: Breast cancer is the second leading cause of cancer related deaths in women worldwide. Reports about the early diagnosis of breast cancer are suggestive of an improved clinical outcome and overall survival rate in cancer patients. Therefore, cancer screening biomarker for early detection and diagnosis is urgently required for timely treatment and better cancer management. In this context, we investigated an association of cancer testis antigen, A-Kinase anchor protein 4 (AKAP4) with breast carcinoma. METHODOLOGY/FINDINGS: We first compared the AKAP4 gene and protein expression in four breast cancer cells (MCF7, MDA-MB-231, SK-BR3 and BT474) and normal human mammary epithelial cells. In addition, 91 clinical specimens of breast cancer patients of various histotypes including ductal carcinoma in situ, infiltrating ductal carcinoma and infiltrating lobular carcinoma and 83 available matched adjacent non-cancerous tissues were examined for AKAP4 gene and protein expression by employing in situ RNA hybridization and immunohistochemistry respectively. Humoral response against AKAP4 was also investigated in breast cancer patients employing ELISA. Our in vitro studies in all breast cancer cells revealed AKAP4 gene and protein expression whereas, normal human mammary epithelial cells failed to show any expression. Using in situ RNA hybridization and immunohistochemistry, 85% (77/91) tissue specimens irrespective of histotypes, stages and grades of breast cancer clinical specimens revealed AKAP4 gene and protein expression. However, matched adjacent non-cancerous tissues failed to display any AKAP4 gene and protein expression. Furthermore, humoral response was observed in 79% (72/91) of total breast cancer patients. Interestingly, we observed that 94% (72/77) of breast cancer patients found positive for AKAP4 protein expression generated humoral response against AKAP4 protein. CONCLUSIONS: Collectively, our data suggests that AKAP4 may be used as serum based diagnostic test for an early detection and diagnosis of breast cancer and may be a potential target for immunotherapeutic use.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "23478221",
+      "title": "Expression and humoral response of A-kinase anchor protein 4 in cervical cancer.",
+      "authors": [
+        "Sumit Agarwal",
+        "Shikha Saini",
+        "Deepak Parashar",
+        "Archana Verma",
+        "Nirmala Jagadish",
+        "Aruna Batra",
+        "Sushma Suri",
+        "Amar Bhatnagar",
+        "Anju Gupta",
+        "Abdul S Ansari",
+        "Nirmal K Lohiya",
+        "Anil Suri"
+      ],
+      "year": "2013",
+      "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
+      "doi": "10.1097/IGC.0b013e31828a0698",
+      "doi_link": "https://doi.org/10.1097/IGC.0b013e31828a0698",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23478221",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Expression%20and%20humoral%20response%20of%20A-kinase%20anchor%20protein%204%20in%20cervical%20cancer%22",
+      "citations": {
+        "semantic_scholar": 21
+      },
+      "abstract": "BACKGROUND: Cervical cancer is one of the major gynecologic cancers. In developing countries, because of a lack of medical support and infrastructure, cervical cancer is the leading cause of cancer-related deaths. Therefore, there is a need to identify novel biomarkers for cervical cancers. In this context, cancer-testis (CT) antigens represent a unique class of tumor antigens that have been shown to be associated with various solid tumors. These antigens have restricted expression in testis and no expression in somatic tissues. Because of their restricted expression, CT antigens are novel candidate molecules for early detection and diagnosis and immunotherapy. In the present study, novel CT antigen A-kinase anchor protein 4 (AKAP4) expression and humoral response were investigated in patients with cervical cancer. METHODS: In this study, 74 cervical cancer tissue specimens, which included different tumor stages (stage I [n = 35], stage II [n = 39]) and histologic grades (grade 1 [n = 17], grade 2 [n = 46], and grade 3[n = 11]) and 62 adjacent noncancerous tissue specimens were investigated for AKAP4 gene expression by using reverse transcriptase polymerase chain reaction and in situ RNA hybridization. Furthermore, AKAP4 protein expression was determined by immunohistochemistry. In addition, humoral response against purified recombinant AKAP4 protein was determined in available sera of 70 patients with cervical cancer by enzyme-linked immuno assay (ELISA). FINDINGS: Our study revealed that AKAP4 gene and protein expression was detected in 86% of total patients with cervical cancer. Based on the AKAP4 immunoreactivity score, most of stage I (n = 22/29) and stage II (n = 30/35) specimens revealed high AKAP4 expression (≥50% AKAP4-positive cells). A-kinase anchor protein 4 expression was significantly associated with early grades tumor specimens (P = 0.023). In addition, humoral response was detected in 53% of patients irrespective of stages, lymph node positivity, and grades. CONCLUSIONS: Collectively, our data indicate the putative role of AKAP4 in early tumorigenesis and may be implicated as a biomarker and immunotherapeutic target for cervical cancer.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "23762804",
+      "title": "The novel cancer-testis antigen A-kinase anchor protein 4 (AKAP4) is a potential target for immunotherapy of ovarian serous carcinoma.",
+      "authors": [
+        "Sumit Agarwal",
+        "Shikha Saini",
+        "Deepak Parashar",
+        "Archana Verma",
+        "Abhilasha Sinha",
+        "Nirmala Jagadish",
+        "Aruna Batra",
+        "Sushma Suri",
+        "Anju Gupta",
+        "Abdul S Ansari",
+        "Nirmal Kumar Lohiya",
+        "Anil Suri"
+      ],
+      "year": "2013",
+      "journal": "Oncoimmunology",
+      "doi": "10.4161/onci.24270",
+      "doi_link": "https://doi.org/10.4161/onci.24270",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23762804",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20novel%20cancer-testis%20antigen%20A-kinase%20anchor%20protein%204%20%28AKAP4%29%20is%20a%20potential%20target%20for%20immunotherapy%20of%20ovarian%20serous%20carcinoma%22",
+      "citations": {
+        "semantic_scholar": 41
+      },
+      "abstract": "Ovarian cancer is one of the neoplasms affecting the reproductive tract associated with high mortality rate because of limited therapeutic options and an elevated incidence of chemoresistance and recurrence. In this context, immunotherapy may constitute a promising approach to improve survival rates and clinical outcome, raising the need for specific target antigens. Cancer-testis antigens (CTAs) are considered promising candidates in this sense because they are aberrant expressed by various malignancies but not by non-transformed tissue, with the exception of testes. Here, we examined the expression and potential to promote humoral immune responses of a novel CTA, A-kinase anchor protein 4 (AKAP4), among 38 ovarian carcinoma patients. Our results reveal that AKAP4 was expressed at both the mRNA and protein levels in 89% (34/38) of ovarian carcinoma tissue specimens but not in 21 matched adjacent non-cancerous tissues. In addition, a humoral response against AKAP4 was detected in 58% (22/38) of ovarian carcinoma patients by ELISA. In particular, 65% (22/34) patients bearing an AKAP4-expressing tumor exhibited circulating anti-AKAP4 antibodies. Interestingly, the majority of specimens were categorized as ovarian serous adenocarcinoma and serous papillary carcinoma, of which 93% (28/30) and 100% (6/6), respectively, expressed AKAP4. A humoral response against AKAP4 was detected in 79% (19/24) and 67% (4/6) of ovarian serous adenocarcinoma and serous papillary carcinoma patients, respectively. The presence of circulating anti-AKAP4 antibodies suggests the AKAP4 is highly immunogenic in ovarian serous carcinoma patients. Our study lays the foundations for exploring AKAP4 as a potential target for the immunotherapy of ovarian cancer.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "23764900",
+      "title": "Gene silencing of A-kinase anchor protein 4 inhibits cervical cancer growth in vitro and in vivo.",
+      "authors": [
+        "S Saini",
+        "S Agarwal",
+        "A Sinha",
+        "A Verma",
+        "D Parashar",
+        "N Gupta",
+        "A S Ansari",
+        "N Kumar Lohiya",
+        "N Jagadish",
+        "A Suri"
+      ],
+      "year": "2013",
+      "journal": "Cancer gene therapy",
+      "doi": "10.1038/cgt.2013.32",
+      "doi_link": "https://doi.org/10.1038/cgt.2013.32",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23764900",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Gene%20silencing%20of%20A-kinase%20anchor%20protein%204%20inhibits%20cervical%20cancer%20growth%20in%20vitro%20and%20in%20vivo%22",
+      "citations": {
+        "semantic_scholar": 22
+      },
+      "abstract": "Earlier, we reported an association of A-kinase anchor protein 4 (AKAP4) expression in cervical cancer patient specimens, indicating its implications as an immunotherapeutic target. In this study, we investigated the possible role of AKAP4 in cervical carcinogenesis. AKAP4 messenger RNA and protein expression was assessed in four cervical cancer cell line models, C-33A, CaSki, HeLa and SiHa. Gene silencing approach was employed to investigate the potential role of AKAP4 in cellular growth, proliferation, colony-forming ability, migration and invasion in aggressive squamous cell carcinoma cells (SiHa). Further, the effect of downregulation of AKAP4 on tumor growth was examined in the cervical cancer xenograft model in nude mice. Our data clearly indicated that AKAP4 was expressed in all cervical cancer cells at the gene and protein level. We also observed distinct cytoplasmic and surface localization by indirect immunofluorescence and flow cytometry, respectively. Ablation of AKAP4 protein caused significant inhibition in cellular proliferation, colony-forming ability, migration and invasion ability of SiHa cells. Further, gene silencing of AKAP4 also resulted in reduced tumor growth in nude mice in vivo. Collectively, AKAP4 surface localization and its significant association with malignant properties of cervical cancer cells imply its clinical utility as an immunotherapeutic target.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "24330581",
+      "title": "Down regulation of SPAG9 reduces growth and invasive potential of triple-negative breast cancer cells: possible implications in targeted therapy.",
+      "authors": [
+        "Abhilasha Sinha",
+        "Sumit Agarwal",
+        "Deepak Parashar",
+        "Archana Verma",
+        "Shikha Saini",
+        "Nirmala Jagadish",
+        "Abdul S Ansari",
+        "Nirmal K Lohiya",
+        "Anil Suri"
+      ],
+      "year": "2013",
+      "journal": "Journal of experimental & clinical cancer research : CR",
+      "doi": "10.1186/1756-9966-32-69",
+      "doi_link": "https://doi.org/10.1186/1756-9966-32-69",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24330581",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Down%20regulation%20of%20SPAG9%20reduces%20growth%20and%20invasive%20potential%20of%20triple-negative%20breast%20cancer%20cells%3A%20possible%20implications%20in%20targeted%20therapy%22",
+      "citations": {
+        "crossref": 34
+      },
+      "abstract": "BACKGROUND: Recently, we reported an association of a novel cancer testis (CT) antigen, sperm-associated antigen 9 (SPAG9) expression in breast cancer clinical samples, indicating its potential role in carcinogenesis. Around 15% breast cancers are designated as triple-negative for which treatment modalities are limited. Therefore, in the present study, we assessed the role of SPAG9 in triple-negative breast cancer cells. METHODS: SPAG9 mRNA and protein expression was investigated in various breast cancer cells of different hormone receptor status and different subtypes by employing reverse transcriptase-polymerase chain reaction (RT-PCR), real time PCR, Western blotting, indirect immunofluorescence (IIF) and fluorescence activated cell sorting (FACS). Employing plasmid-based small interfering RNA (siRNA) approach, knockdown of SPAG9 was carried out in triple-negative breast cancer cells, MDA-MB-231, to assess its role on various malignant properties in vitro and in vivo. RESULTS: SPAG9 mRNA and protein expression was detected in all breast cancer cells. Further, IIF results showed that SPAG9 was predominantly localized in the cytoplasm of breast cancer cells. FACS analysis revealed distinct SPAG9 surface localization in breast cancer cells. Gene silencing of SPAG9 resulted in significant reduction in cellular proliferation, colony forming ability, migration, invasion and cellular motility of MDA-MB-231 cells. Further, ablation of SPAG9 expression resulted in reduction in the tumor growth of human breast cancer xenograft in nude mice in vivo. CONCLUSIONS: In summary, our data indicated that down regulation of SPAG9 reduces growth and invasive potential of triple-negative breast cancer cells, suggesting that SPAG9 may be a potential target for therapeutic use.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "25213699",
+      "title": "Targeting the testis-specific heat-shock protein 70-2 (HSP70-2) reduces cellular growth, migration, and invasion in renal cell carcinoma cells.",
+      "authors": [
+        "Swarnendra Singh",
+        "Anil Suri"
+      ],
+      "year": "2014",
+      "journal": "Tumour biology : the journal of the International Society for Oncodevelopmental Biology and Medicine",
+      "doi": "10.1007/s13277-014-2594-5",
+      "doi_link": "https://doi.org/10.1007/s13277-014-2594-5",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25213699",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Targeting%20the%20testis-specific%20heat-shock%20protein%2070-2%20%28HSP70-2%29%20reduces%20cellular%20growth%2C%20migration%2C%20and%20invasion%20in%20renal%20cell%20carcinoma%20cells%22",
+      "citations": {
+        "crossref": 16
+      },
+      "abstract": "Renal cell carcinoma (RCC) represents one of the most resistant tumors to radiotherapy and chemotherapy. Current therapies for the RCC patients are limited owing to lack of diagnosis and therapeutic treatments. Testis-specific heat-shock protein 70-2 (HSP70-2), a member of HSP70 chaperone family, has been shown to be associated with various cancers. In the present study, we investigated the putative role of HSP70-2 in various malignant properties of the RCC cells. HSP70-2 messenger RNA (mRNA) and protein expression was investigated in A704, ACHN, and Caki-1 cells derived from the RCC patients. We assessed the expression of HSP70-2 gene and protein by reverse transcription-polymerase chain reaction (RT-PCR) and Western blotting, respectively. The expression of HSP70-2 protein was further validated by performing indirect immunofluorescence (IIF) and flow cytometry. The malignant properties of high-grade invasive A704 and Caki-1 cells, such as cellular proliferation, colony formation, migration, invasion, and wound healing, were evaluated by silencing the expression of HSP70-2 gene in these cells. Statistical significance was defined using Student's t test. Our RT-PCR and Western blotting data showed the expression of HSP70-2 in all RCC cells. Our results showed that HSP70-2 was predominantly expressed in cytoplasm and found to be colocalized with endoplasmic reticulum, mitochondria, Golgi body, and plasma membrane but not the nuclear envelope. Knockdown of HSP70-2 expression with specific short hairpin RNA (shRNA) demonstrated significant reduction in cell growth and colony formation. Further, a marked reduction in cell migration and invasion was also observed, indicating the potential role of HSP70-2 in metastasis. Collectively, our data suggest that HSP70-2 plays a key role in cancerous growth and invasive potential of RCC cells. Thus, HSP70-2 could serve as a novel potential therapeutic target for the RCC.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "25941602",
+      "title": "",
+      "authors": [
+        "Sumit Agarwal",
+        "Deepak Parashar",
+        "Namita Gupta",
+        "Nirmala Jagadish",
+        "Alok Thakar",
+        "Vaishali Suri",
+        "Rajive Kumar",
+        "Anju Gupta",
+        "Abdul S Ansari",
+        "Nirmal Kumar Lohiya",
+        "Anil Suri"
+      ],
+      "year": "2014",
+      "journal": "Oncoimmunology",
+      "doi": "10.4161/2162402X.2014.974382",
+      "doi_link": "https://doi.org/10.4161/2162402X.2014.974382",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25941602",
+      "scholar_link": "",
+      "citations": {
+        "crossref": 8
+      },
+      "abstract": "Salivary gland cancers are highly aggressive epithelial tumor associated with metastatic potential and high mortality. The tumors are biologically diverse and are of various histotypes. Besides, the detection and diagnosis is a major problem of salivary gland cancer for available treatment modalities. In the present study, we have investigated the association of sperm associated antigen 9 (SPAG9) expression with salivary gland tumor (SGT). Clinical specimens of benign (n = 16) and malignant tumors (n = 86) were examined for the SPAG9 expression. In addition, the sera and adjacent non-cancerous tissues (n = 72) from available patients were obtained. Our in situ RNA hybridization and immunohistochemistry (IHC) analysis revealed significant difference (p = 0.0001) in SPAG9 gene and protein expression in benign (63%) and malignant tumor (84%) specimens. Further, significant association was also observed between SPAG9 expression and malignant tumors (P = 0.05). A cut-off value of >10% cells expressing SPAG9 protein designated as positive in IHC, predicted presence of malignant SGT with 83.72% sensitivity, 100% specificity, 100% PPV and 83.72% NPV. Humoral response against SPAG9 protein was generated in 68% of SGT patients. A cut-off value of 0.212 OD for anti-SPAG9 antibodies in ELISA predicted presence of malignant SGT with 69.23% sensitivity, 100% specificity, 100% PPV and 78.94% NPV. Collectively, our data suggests that the majority of SGT show significant difference and association among benign and malignant tumors for SPAG9 gene and protein expression and also exhibit humoral response against SPAG9 protein. Hence, SPAG9 may be developed as a biomarker for detection and diagnosis of salivary gland tumors.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "26691579",
+      "title": "Targeting cancer testis antigens for biomarkers and immunotherapy in colorectal cancer: Current status and challenges.",
+      "authors": [
+        "Anil Suri",
+        "Nirmala Jagadish",
+        "Shikha Saini",
+        "Namita Gupta"
+      ],
+      "year": "2015",
+      "journal": "World journal of gastrointestinal oncology",
+      "doi": "10.4251/wjgo.v7.i12.492",
+      "doi_link": "https://doi.org/10.4251/wjgo.v7.i12.492",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26691579",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Targeting%20cancer%20testis%20antigens%20for%20biomarkers%20and%20immunotherapy%20in%20colorectal%20cancer%3A%20Current%20status%20and%20challenges%22",
+      "citations": {
+        "crossref": 16
+      },
+      "abstract": "Colorectal cancer ranks third among the estimated cancer cases and cancer related mortalities in United States in 2014. Early detection and efficient therapy remains a significant clinical challenge for this disease. Therefore, there is a need to identify novel tumor associated molecules to target for biomarker development and immunotherapy. In this regard, cancer testis antigens have emerged as a potential targets for developing novel clinical biomarkers and immunotherapy for various malignancies. These germ cell specific proteins exhibit aberrant expression in cancer cells and contribute in tumorigenesis. Owing to their unique expression profile and immunogenicity in cancer patients, cancer testis antigens are clinically referred as the most promising tumor associated antigens. Several cancer testis antigens have been studied in colorectal cancer but none of them could be used in clinical practice. This review is an attempt to address the promising cancer testis antigens in colorectal cancer and their possible clinical implications as biomarkers and immunotherapeutic targets with particular focus on challenges and future interventions.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 16,
+    "publications_by_year": {
+      "2016": 1,
+      "2015": 1,
+      "2014": 2,
+      "2013": 5,
+      "2012": 1,
+      "2011": 1,
+      "2010": 2,
+      "2009": 2,
+      "2007": 1
+    },
+    "top_journals": [
+      "Cancer",
+      "Oncoimmunology",
+      "Journal of clinical and diagnostic research : JCDR",
+      "Journal of cytology",
+      "Clinical cancer research : an official journal of the American Association for Cancer Research"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 42,
+      "frequent_collaborators": [
+        "Anil Suri",
+        "Anju Gupta",
+        "Nirmala Jagadish",
+        "Sushma Suri",
+        "Shikha Saini",
+        "Deepika Kanojia",
+        "Deepak Parashar",
+        "Abdul S Ansari"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "17332284",
+        "title": "Sperm-associated antigen 9, a novel cancer testis antigen, is a potential target for immunotherapy in epithelial ovarian cancer.",
+        "citations": 71,
+        "year": "2007"
+      },
+      {
+        "publication_id": "21356354",
+        "title": "Sperm-associated antigen 9 is a novel biomarker for colorectal cancer and is involved in tumor growth and tumorigenicity.",
+        "citations": 70,
+        "year": "2011"
+      },
+      {
+        "publication_id": "19914824",
+        "title": "Heat-shock protein 70-2 (HSP70-2) expression in bladder urothelial carcinoma is associated with tumour progression and promotes migration and invasion.",
+        "citations": 68,
+        "year": "2010"
+      }
+    ]
+  }
+}

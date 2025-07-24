@@ -1,0 +1,702 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Kanwaljeet Kaur",
+    "email": "kanwal@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/former-faculty/dr-kanwaljeet-kaur",
+    "research_domain": "Former",
+    "faculty_status": "former",
+    "search_date": "2025-07-01T14:34:28.520763",
+    "total_publications": 27,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Kanwaljeet Kaur, former faculty in Former at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "36997646",
+      "title": "Structural basis for translation inhibition by the glycosylated drosocin peptide.",
+      "authors": [
+        "Timm O Koller",
+        "Martino Morici",
+        "Max Berger",
+        "Haaris A Safdari",
+        "Deepti S Lele",
+        "Bertrand Beckert",
+        "Kanwal J Kaur",
+        "Daniel N Wilson"
+      ],
+      "year": "2023",
+      "journal": "Nature chemical biology",
+      "doi": "10.1038/s41589-023-01293-7",
+      "doi_link": "https://doi.org/10.1038/s41589-023-01293-7",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36997646",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structural%20basis%20for%20translation%20inhibition%20by%20the%20glycosylated%20drosocin%20peptide%22",
+      "citations": {
+        "semantic_scholar": 17
+      },
+      "abstract": "The proline-rich antimicrobial peptide (PrAMP) drosocin is produced by Drosophila species to combat bacterial infection. Unlike many PrAMPs, drosocin is O-glycosylated at threonine 11, a post-translation modification that enhances its antimicrobial activity. Here we demonstrate that the O-glycosylation not only influences cellular uptake of the peptide but also interacts with its intracellular target, the ribosome. Cryogenic electron microscopy structures of glycosylated drosocin on the ribosome at 2.0-2.8-Å resolution reveal that the peptide interferes with translation termination by binding within the polypeptide exit tunnel and trapping RF1 on the ribosome, reminiscent of that reported for the PrAMP apidaecin. The glycosylation of drosocin enables multiple interactions with U2609 of the 23S rRNA, leading to conformational changes that break the canonical base pair with A752. Collectively, our study reveals novel molecular insights into the interaction of O-glycosylated drosocin with the ribosome, which provide a structural basis for future development of this class of antimicrobials.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "32891601",
+      "title": "Halictine-2 antimicrobial peptide shows promising anti-parasitic activity against Leishmania spp.",
+      "authors": [
+        "Durgesh Manohar Pitale",
+        "Gagandeep Kaur",
+        "Madhu Baghel",
+        "Kanwal J Kaur",
+        "Chandrima Shaha"
+      ],
+      "year": "2020",
+      "journal": "Experimental parasitology",
+      "doi": "10.1016/j.exppara.2020.107987",
+      "doi_link": "https://doi.org/10.1016/j.exppara.2020.107987",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32891601",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Halictine-2%20antimicrobial%20peptide%20shows%20promising%20anti-parasitic%20activity%20against%20Leishmania%20spp%22",
+      "citations": {
+        "crossref": 19
+      },
+      "abstract": "The protozoan parasite Leishmania spp. causes leishmaniases, a group of diseases creating serious health problems in many parts of the world with significant resistance to existing drugs. Insect derived antimicrobial peptides are promising alternatives to conventional drugs against several human disease-causing pathogens because they do not generate resistance. Halictine-2, a novel antimicrobial peptide from the venom of eusocial honeybee, Halictus sexcinctus showed significant anti-leishmanial activity in vitro, towards two life forms of the dimorphic parasite, the free-swimming infective metacyclic promastigotes and the intracellular amastigotes responsible for the systemic infection. The anti-leishmanial activity of the native peptide (P5S) was significantly enhanced by serine to threonine substitution at position 5 (P5T). The peptide showed a propensity to form α-helices after substitution at position-5, conferring amphipathicity. Distinct pores observed on the promastigote membrane after P5T exposure suggested a mechanism of disruption of cellular integrity. Biochemical alterations in the promastigotes after P5T exposure included generation of increased oxygen radicals with mitochondrial Ca2+ release, loss of mitochondrial membrane potential, reduction in total ATP content and increased mitochondrial mass, resulting in quick bioenergetic and chemiosmotic collapse leading to cell death characterized by DNA fragmentation. P5T was able to reduce intracellular amastigote burden in an in vitro model of Leishmania infection but did not alter the proinflammatory cytokines like TNF-α and IL-6. The ability of the P5T peptide to kill the Leishmania parasite with negligible haemolytic activity towards mouse macrophages and human erythrocytes respectively, demonstrates its potential to be considered as a future antileishmanial drug candidate.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "31485742",
+      "title": "Design of therapeutically improved analogue of the antimicrobial peptide, indolicidin, using a glycosylation strategy.",
+      "authors": [
+        "Rohini Dwivedi",
+        "Priyanka Aggarwal",
+        "Neel S Bhavesh",
+        "Kanwal J Kaur"
+      ],
+      "year": "2019",
+      "journal": "Amino acids",
+      "doi": "10.1007/s00726-019-02779-2",
+      "doi_link": "https://doi.org/10.1007/s00726-019-02779-2",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31485742",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Design%20of%20therapeutically%20improved%20analogue%20of%20the%20antimicrobial%20peptide%2C%20indolicidin%2C%20using%20a%20glycosylation%20strategy%22",
+      "citations": {
+        "crossref": 21
+      },
+      "abstract": "Indolicidin is a member of cathelicidin family which displays broad spectrum antimicrobial activity. Severe toxicity and aggregation propensity associated with indolicidin pose a huge limitation to its probable therapeutic application. We are reporting the use of glycosylation strategy to design an analogue of indolicidin and subsequently explore structural and functional effects of sugar on it. Our study led to the design of a potent antibacterial glycosylated peptide, [βGlc-T9,K7]indolicidin, which showed decreased toxicity against erythrocytes and macrophage cells and thus a higher therapeutic selectivity. The incorporation of sugar also increased the solubility of the peptide. The mode of bacterial killing, functional stability, LPS binding, and cytokine inhibitory potential of the peptide, however, seemed unaffected upon glycosylation. Absence of significant changes in structure upon glycosylation accounts for the possibly retained functions and mode of action of the peptide. Our report thus presents the designing of an indolicidin analogue with improved therapeutic potential by substituting aromatic amino acid with glycosylated amino acid as a promising strategy for the first time.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "29366889",
+      "title": "Is perturbation in the quaternary structure of bacterial CysE, another regulatory mechanism for cysteine synthesis?",
+      "authors": [
+        "Deepali Verma",
+        "Sunita Gupta",
+        "Kanwal J Kaur",
+        "Vibha Gupta"
+      ],
+      "year": "2018",
+      "journal": "International journal of biological macromolecules",
+      "doi": "10.1016/j.ijbiomac.2018.01.076",
+      "doi_link": "https://doi.org/10.1016/j.ijbiomac.2018.01.076",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29366889",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Is%20perturbation%20in%20the%20quaternary%20structure%20of%20bacterial%20CysE%2C%20another%20regulatory%20mechanism%20for%20cysteine%20synthesis%3F%22",
+      "citations": {
+        "crossref": 8
+      },
+      "abstract": "Drug resistance to almost all antibiotics of Shigella flexneri, a major cause of shigellosis in developing countries, necessitates continuous discovery of novel therapeutics. This study reports a structure-function analysis of a potential drug target serine acetyltransferase (CysE), an enzyme of de novo cysteine biosynthesis pathway that is absent in humans. Analysis of CysE sequences of S. flexneri species and serotypes displayed only two variants that differed by a single amino acid substitution at position 241. Structural inspection of the available crystal structure disclosed this site to be distinct from the substrate/cofactor binding pockets or dimer/trimer interfaces. This study discovers that V241 variant of S. flexneri CysE has nearly null enzymatic activity. The observation is explained by molecular dynamic studies which reveal that the disorder generated by A241V substitution is the basis of dissociation of the quaternary assembly of S. flexneri CysE leading to loss of enzymatic activity and stability. The study provides the first evidence that position 241 of CysE, affects the catalytic efficiency of enzyme and suggests this locus as a 'hot spot' for the propagation of conformational changes. It may be postulated that transient quaternary structure of CysE maybe another mechanism for regulating the intracellular level of cysteine.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "29110415",
+      "title": "Structural and functional studies of differentially O-glycosylated analogs of a thrombin inhibitory peptide - variegin.",
+      "authors": [
+        "Pidathala R V Shabareesh",
+        "Ashish Kumar",
+        "Dinakar M Salunke",
+        "Kanwal J Kaur"
+      ],
+      "year": "2017",
+      "journal": "Journal of peptide science : an official publication of the European Peptide Society",
+      "doi": "10.1002/psc.3052",
+      "doi_link": "https://doi.org/10.1002/psc.3052",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29110415",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structural%20and%20functional%20studies%20of%20differentially%20O-glycosylated%20analogs%20of%20a%20thrombin%20inhibitory%20peptide%20-%20variegin%22",
+      "citations": {
+        "crossref": 7
+      },
+      "abstract": "Variegin is a 32-amino acid long thrombin inhibitory peptide isolated from the salivary gland extract of tropical bont tick Amblyomma variegatum. It was identified to be O-glycosylated on its Thr-14 side chain, and this glycosylated form was 14-fold more potent than that of its non-glycosylated form. However, as the identity of this glycosylation remained elusive, the mechanistic details underlying its functional impact are not yet known. In this report, we synthesized four different O-glycosylated analogs of variegin bearing physiologically relevant sugars on its Thr-14. Functional characterization of these analogs by enzyme inhibitory kinetics and surface plasmon resonance methods showed that all the synthesized glycopeptides are strong thrombin inhibitors. Structural studies by macromolecular docking identified that the sugar moiety of these peptides can potentially mediate favorable interactions with amino acids at the base of thrombin's autolysis loop. This report, for the first time, describes the impact of differential glycosylation on the function of a thrombin inhibitory peptide and tries to provide structural insights into the relevance of peptide glycosylation in thrombin inhibition.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "28656506",
+      "title": "Comparing naturally occurring glycosylated forms of proline rich antibacterial peptide, Drosocin.",
+      "authors": [
+        "Deepti S Lele",
+        "Gagandeep Kaur",
+        "Menithalaxmi Thiruvikraman",
+        "Kanwal J Kaur"
+      ],
+      "year": "2017",
+      "journal": "Glycoconjugate journal",
+      "doi": "10.1007/s10719-017-9781-8",
+      "doi_link": "https://doi.org/10.1007/s10719-017-9781-8",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28656506",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Comparing%20naturally%20occurring%20glycosylated%20forms%20of%20proline%20rich%20antibacterial%20peptide%2C%20Drosocin%22",
+      "citations": {
+        "semantic_scholar": 13
+      },
+      "abstract": "Antimicrobial peptides (AMPs) are key players of innate immunity. Amongst various classes of AMPs, proline rich AMPs from insects enjoy special attention with few members of this class bearing O-glycosylation as post-translational modification. Drosocin, a 19 amino acid glycosylated AMP is a member of proline rich class, synthesized in the haemolymph of Drosophila melanogaster upon bacterial challenge. We report herein the chemical synthesis of drosocin carrying disaccharide (β-Gal(1 → 3)α-GalNAc) and comparison of its structural and functional properties with another naturally occurring monoglycosylated form of drosocin i.e. α-GalNAc-drosocin as well as with non-glycosylated drosocin. The disaccharide containing drosocin exhibited lower potency compared to monoglycosylated drosocin against all the tested Gram negative bacteria, suggesting the role of the distal sugar or increase in the sugar chain length on the activity. Circular dichroism studies failed to demonstrate the differential effect of sugars on the overall peptide conformation. Haemolytic and cytotoxic properties of drosocin were not altered due to an increase in the sugar chain length. In addition, we have also evaluated the effect of differentially glycosylated drosocins on two pro-inflammatory cytokines secreted by murine macrophages or LPS stimulated macrophages. All the drosocin forms tested, neither could stimulate the secretion of TNF-α and IL-6 nor could modulate LPS-induced levels of TNF-α and IL-6 in murine macrophages. This study provides insights about naturally occurring two different glycosylated forms of drosocin.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "26850929",
+      "title": "Structural and Functional Characterization of Hirudin P6 Derived Novel Bivalent Thrombin Inhibitors - Studying the Effect of Linker Length and Glycosylation on Their Function.",
+      "authors": [
+        "Prv Shabareesh",
+        "Kanwal J Kaur"
+      ],
+      "year": "2016",
+      "journal": "Chemical biology & drug design",
+      "doi": "10.1111/cbdd.12742",
+      "doi_link": "https://doi.org/10.1111/cbdd.12742",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26850929",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structural%20and%20Functional%20Characterization%20of%20Hirudin%20P6%20Derived%20Novel%20Bivalent%20Thrombin%20Inhibitors%20-%20Studying%20the%20Effect%20of%20Linker%20Length%20and%20Glycosylation%20on%20Their%20Function%22",
+      "citations": {
+        "crossref": 9
+      },
+      "abstract": "HirudinP6 is a glycosylated and sulfated high affinity thrombin inhibitory protein isolated from Hirudineria manillensis. In this study, designing of novel bivalent thrombin inhibitory peptides based on this hirudin isoform is described. The structural and functional impact of varying linker length and glycosylation on their inhibitory potencies and binding kinetics were assessed. The bivalent peptides were obtained by tethering an active site blocking fPRP motif with the carboxy terminal 22 residue segment of hirudin P6 (HP642-63 ) by varying number of glycine residues in the linker region. Among them, analog BiG1 -HP6 inhibited thrombin with a Ki of 5.12 nm which was comparable to that of glycosylated (disaccharide bearing) and non-sulfated full length hirudin P6 protein (Ki = 6.38 nm). Binding kinetics studies revealed increasing linker length can decrease the association rates of peptide─thrombin interactions. Similarly, glycosylation was found to negatively modulate the inhibitory potencies of these peptides by decreasing their rates of association with thrombin. Molecular docking studies revealed that increasing linker length can compromise the electrostatic interactions with the prime subsite residues of thrombin and provided structural explanation for the observed effect of linker length on association rates. These findings thus enhance our understanding of thrombin─(glyco)peptide interactions and provide key insights into the designing of efficient thrombin inhibitors and allosteric modulators of therapeutic potential.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "26424213",
+      "title": "Effect of distal sugar and interglycosidic linkage of disaccharides on the activity of proline rich antimicrobial glycopeptides.",
+      "authors": [
+        "Deepti S Lele",
+        "Rohini Dwivedi",
+        "Saroj Kumari",
+        "Kanwal J Kaur"
+      ],
+      "year": "2015",
+      "journal": "Journal of peptide science : an official publication of the European Peptide Society",
+      "doi": "10.1002/psc.2826",
+      "doi_link": "https://doi.org/10.1002/psc.2826",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26424213",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Effect%20of%20distal%20sugar%20and%20interglycosidic%20linkage%20of%20disaccharides%20on%20the%20activity%20of%20proline%20rich%20antimicrobial%20glycopeptides%22",
+      "citations": {
+        "semantic_scholar": 7
+      },
+      "abstract": "The effect of glycosylation on protein structure and function depends on a variety of intrinsic factors including glycan chain length. We have analyzed the effect of distal sugar and interglycosidic linkage of disaccharides on the properties of proline-rich antimicrobial glycopeptides, formaecin I and drosocin. Their glycosylated analogs-bearing lactose, maltose and cellobiose, as a glycan side chain on their conserved threonine residue, were synthesized where these disaccharides possess identical proximal sugar and vary in the nature of distal sugar and/or interglycosidic linkage. The structural and functional properties of these disaccharide-containing formaecin I and drosocin analogs were compared with their corresponding monoglycosylated forms, β-D-glucosyl-formaecin I and β-D-glucosyl-drosocin, respectively. We observed neither major secondary structural alterations studied by circular dichroism nor substantial differences in the toxicity with mammalian cells among all of these analogs. The comparative analyses of antibacterial activities of these analogs of formaecin I and drosocin displayed that β-D-maltosyl-formaecin I and β-D-maltosyl-drosocin were more potent than that of respective β-D-Glc-analog, β-D-cellobiosyl-analog and β-D-lactosyl-analog. Despite the differences in their antibacterial activity, all the analogs exhibited comparable binding affinity to DnaK that has been reported as one of the targets for proline-rich class of antibacterial peptides. The comparative-quantitative internalization studies of differentially active analogs revealed the differences in their uptake into bacterial cells. Our results exhibit that the sugar chain length as well as interglycosidic linkage of disaccharide may influence the antibacterial activity of glycosylated analogs of proline-rich antimicrobial peptides and the magnitude of variation in antibacterial activity depends on the peptide sequence.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "25617693",
+      "title": "Understanding the importance of glycosylated threonine and stereospecific action of Drosocin, a Proline rich antimicrobial peptide.",
+      "authors": [
+        "Deepti S Lele",
+        "Sariya Talat",
+        "Saroj Kumari",
+        "Nikita Srivastava",
+        "Kanwal J Kaur"
+      ],
+      "year": "2015",
+      "journal": "European journal of medicinal chemistry",
+      "doi": "10.1016/j.ejmech.2015.01.032",
+      "doi_link": "https://doi.org/10.1016/j.ejmech.2015.01.032",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25617693",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Understanding%20the%20importance%20of%20glycosylated%20threonine%20and%20stereospecific%20action%20of%20Drosocin%2C%20a%20Proline%20rich%20antimicrobial%20peptide%22",
+      "citations": {
+        "semantic_scholar": 31
+      },
+      "abstract": "Glycosylation is an essential post-translational modification for few antimicrobial peptides of Proline rich class. In the present study we have shown the importance of Thr glycosylation over Ser glycosylation in Drosocin. Difference of a methyl group makes glycosylated-Thr preferred over glycosylated-Ser and renders higher activity to the peptide, probably due to the rigid conformation provided by the glycosylated-Thr. The structural rigidity provided by glycosylated-Thr to Drosocin backbone was mimicked by substituting glycosylated-Thr11, Ser7 and Ser12 with Pro residues. The designed non-glycosylated analogue, P(7)P(11)P(12)-Drosocin, exhibited functional and structural properties similar to that of the native monoglycosylated peptide. The functional importance of stereospecificity of amino acids and sugar was further explored. Interestingly, (all D) p(7)p(11)p(12)-Drosocin failed to exhibit antimicrobial activity but had comparable binding affinity to DnaK, one of the proposed targets for Proline rich class of antibacterial peptides, as that of its L counterpart. However, Drosocin containing either L or D enantiomeric sugar, displayed antimicrobial activity and binding affinity to bacterial heat shock protein, DnaK. The flow cytometry (FACS) experiments revealed the internalization of Drosocins bearing enantiomeric sugars and P(7)P(11)P(12)-Drosocin but not of its d-enantiomer into bacteria suggesting the importance of stereospecificity of amino acids for membrane entry. Once internalized both enantiomeric peptides may behave similarly. This assumption was corroborated by in vitro activity of (all D) p(7)p(11)p(12)-Drosocin in cell free assay where it abrogated transcription/translation pathway similar to l-enantiomer but could not inhibit the same in whole cell assay. These research findings provide insights into the mode of action of Proline rich class of antibacterial peptides and guidelines for designing functionally equivalent non-glycosylated analogues of glycosylated antibacterial peptides.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "23733869",
+      "title": "Structural evaluation of a mimicry-recognizing paratope: plasticity in antigen-antibody interactions manifests in molecular mimicry.",
+      "authors": [
+        "Suman Tapryal",
+        "Vineet Gaur",
+        "Kanwal J Kaur",
+        "Dinakar M Salunke"
+      ],
+      "year": "2013",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.1203260",
+      "doi_link": "https://doi.org/10.4049/jimmunol.1203260",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23733869",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structural%20evaluation%20of%20a%20mimicry-recognizing%20paratope%3A%20plasticity%20in%20antigen-antibody%20interactions%20manifests%20in%20molecular%20mimicry%22",
+      "citations": {
+        "semantic_scholar": 21
+      },
+      "abstract": "Molecular mimicry manifests antagonistically with respect to the specificity of immune recognition. However, it often occurs because different Ags share surface topologies in terms of shape or chemical nature. It also occurs when a flexible paratope accommodates dissimilar Ags by adjusting structural features according to the antigenic epitopes or differential positioning in the Ag combining site. Toward deciphering the structural basis of molecular mimicry, mAb 2D10 was isolated from a maturing immune response elicited against methyl α-d-mannopyranoside and also bound equivalently to a dodecapeptide. The physicochemical evidence of this carbohydrate-peptide mimicry in the case of mAb 2D10 had been established earlier. These studies had strongly suggested direct involvement of a flexible paratope in the observed mimicry. Surprisingly, comparison of the Ag-free structure of single-chain variable fragment 2D10 with those bound to sugar and peptide Ags revealed a conformationally invariant state of the Ab while binding to chemically and structurally disparate Ags. This equivalent binding of the two dissimilar Ags was through mutually independent interactions, demonstrating functional equivalence in the absence of structural correlation. Thus, existence of a multispecific, mature Ab in the secondary immune response was evident, as was the plasticity in the interactions while accommodating topologically diverse Ags. Although our data highlight the structural basis of receptor multispecificity, they also illustrate mechanisms adopted by the immune system to neutralize the escape mutants generated during pathogenic insult.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "22801283",
+      "title": "Hepatorenal repercussions of alcoholic exposure in a rat model: a dose-dependent study of metformin intervention.",
+      "authors": [
+        "Kanchan Dnyanesh Borole",
+        "Subhash Laxmanrao Bodhankar",
+        "Jayshree Shriram Dawane",
+        "Jugeet Kaur Kanwal"
+      ],
+      "year": "2012",
+      "journal": "Iranian biomedical journal",
+      "doi": "10.6091/ibj.1031.2012",
+      "doi_link": "https://doi.org/10.6091/ibj.1031.2012",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22801283",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Hepatorenal%20repercussions%20of%20alcoholic%20exposure%20in%20a%20rat%20model%3A%20a%20dose-dependent%20study%20of%20metformin%20intervention%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "BACKGROUND: Diabetes mellitus is an alarming life style disease in the modern world. Exploitation of the anti-diabetic drugs for the amelioration of diabetes and associated life style diseases has become an imperative concern. In this milieu, this study was designed to explore the plausible effects of metformin intervention on hepatic and renal functions in a rat model of alcoholic liver disease. METHODS: Thirty rats were divided into five groups (n = 6): ethanol control, ethanol water and also low, moderate and high doses of metformin. Ethanol 20% v/v (1 ml/100 g) was administered by oral gavage to all five groups for 21 days. Blood and tissue samples were collected for the assessment of lipid profile, hepatic and renal functions. RESULTS: After 21 days, the levels of hepatic function and lipid parameters were maintained at normalcy, especially in the high-dose metformin treated alcoholic rats as compared to the levels at day 1. Despite this, the renal biomarkers did not display any significant variation due to ethanolic exposure in any group. The histopathological score portrayed that the noxious effect of ethanol is prevented in the liver of moderate- and high-dose metformin, whereas the renal histological scores were unchanged in all the groups including ethanol control. CONCLUSION: These results suggest that the dose of ethanol required to induce hepatic dysfunction does not influence renal functions. In addition, high-dose metformin offers maximal hepatoprotection and spares kidney from per se toxicity, thereby advocating the beneficial intervention of the anti-diabetic drug, metformin, in alcoholic liver dysfunction.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "21968924",
+      "title": "Glycosylated analogs of formaecin I and drosocin exhibit differential pattern of antibacterial activity.",
+      "authors": [
+        "Sariya Talat",
+        "Menithalakshmi Thiruvikraman",
+        "Saroj Kumari",
+        "Kanwal J Kaur"
+      ],
+      "year": "2011",
+      "journal": "Glycoconjugate journal",
+      "doi": "10.1007/s10719-011-9353-2",
+      "doi_link": "https://doi.org/10.1007/s10719-011-9353-2",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21968924",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Glycosylated%20analogs%20of%20formaecin%20I%20and%20drosocin%20exhibit%20differential%20pattern%20of%20antibacterial%20activity%22",
+      "citations": {
+        "semantic_scholar": 33
+      },
+      "abstract": "The synthetic glycopeptides are interesting model systems to study the effect of O-glycosylation in modulating their function and structure. A series of glycosylated analogs of two antibacterial peptides, formaecin I and drosocin, were synthesized by varying the nature of sugar and its linkage with bioactive peptides to understand the influence of structure variation of glycosylation on their antibacterial activities. Higher antibacterial activities of all glycopeptides compared to their respective non-glycosylated counterparts emphasize in part the importance of sugar moieties in functional implications of these peptides. The consequences of the unique differences among the analogs were apparent on their antibacterial activities but not evident structurally by circular dichroism studies. We have shown that differently glycosylated peptides exhibit differential effect among each other when tested against several Gram-negative bacterial strains. The change of monosaccharide moiety and/or its anomeric configuration in formaecin I and drosocin resulted into decrease in the antibacterial activity in comparison to that of the native glycopeptide, but the extent of decrease in antibacterial activity of glycosylated drosocin analogs was less. Probably, the variation in peptide conformation arising due to topological dissimilarities among different sugars in the same peptide resulting in possible modulation in binding properties appears to be responsible for differences in their antibacterial activities. Indeed, these effects of glycosylation are found to be sequence-specific and depend in the milieu of amino acid residues. Interestingly, none of the carbohydrate variants affected the basic property of these peptides, which is non-hemolytic and non-toxicity to eukaryotic cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "20363331",
+      "title": "Cloning, expression and efficient refolding of carbohydrate-peptide mimicry recognizing single chain antibody 2D10.",
+      "authors": [
+        "Suman Tapryal",
+        "Lavanya Krishnan",
+        "Janendra K Batra",
+        "Kanwal J Kaur",
+        "Dinakar M Salunke"
+      ],
+      "year": "2010",
+      "journal": "Protein expression and purification",
+      "doi": "10.1016/j.pep.2010.03.024",
+      "doi_link": "https://doi.org/10.1016/j.pep.2010.03.024",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20363331",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Cloning%2C%20expression%20and%20efficient%20refolding%20of%20carbohydrate-peptide%20mimicry%20recognizing%20single%20chain%20antibody%202D10%22",
+      "citations": {
+        "semantic_scholar": 10
+      },
+      "abstract": "Carbohydrate-peptide mimicry was found to be manifested through the cross-reactivity of an anti-mannopyranoside monoclonal antibody 2D10 (mAb-2D10) with YPY motif containing 12-mer peptide (DVFYPYPYASGS). Such multiple binding options for a monoclonal antibody could emanate from the possible flexibility of the antigen combining site. To address the molecular details of this phenomenon, single chain antibody (scFv) containing the antigen combining variable domain of mAb-2D10 was constructed. The present work describes the cloning, expression, purification and efficient refolding of scFv-2D10 and its His(6) tag fusion variants. The scFv expressed poorly in soluble/active form in the periplasmic compartment and concurrently exhibited higher tendency towards accumulation in inclusion bodies inside the Escherichia coli cytoplasm. The scFv was refolded from the inclusion bodies with approximately 68% yield using a previously described protocol which employed concomitant removal of the chaotropic and oxidizing reagents along with the additives. However, their differential removal, as described in the present report resulted in approximately 97% effective yield of the soluble scFv-2D10, an increase of 42%. The binding kinetics of the refolded scFv for both the mimicking ligands was examined using surface plasmon resonance experiments. The scFv-2D10 exhibited binding affinities similar to those reported for mAb-2D10 (IgG) showing that the modifications introduced in the refolding protocol have facilitated efficient preparation of active 2D10 scFv.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "18218719",
+      "title": "Structure-function analyses involving palindromic analogs of tritrypticin suggest autonomy of anti-endotoxin and antibacterial activities.",
+      "authors": [
+        "Kanwal J Kaur",
+        "Pampi Sarkar",
+        "Sushma Nagpal",
+        "Tarique Khan",
+        "Dinakar M Salunke"
+      ],
+      "year": "2008",
+      "journal": "Protein science : a publication of the Protein Society",
+      "doi": "10.1110/ps.073145008",
+      "doi_link": "https://doi.org/10.1110/ps.073145008",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18218719",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structure-function%20analyses%20involving%20palindromic%20analogs%20of%20tritrypticin%20suggest%20autonomy%20of%20anti-endotoxin%20and%20antibacterial%20activities%22",
+      "citations": {
+        "crossref": 5
+      },
+      "abstract": "Neutralization of invading pathogens by gene-encoded peptide antibiotics has been suggested to manifest in a variety of different modes. Some of these modes require internalization of the peptide through a pathway that involves LPS-mediated uptake of the peptide antibiotics. Many proline/tryptophan-rich cationic peptides for which this mode has been invoked do, indeed, show LPS (endotoxin) binding. If the mechanism of antibiotic action involves the LPS-mediated pathway, a positive correlation ought to manifest between the binding to LPS, its neutralization, and the bacterial killing. No such correlation was evident based on our studies involving minimal active analogs of tritrypticin. The anti-endotoxin activities of these analogs appear not to relate directly to their antibiotic potential. The two palindromic analogs of tritrypticin, NT7 (RRFPWWW) and CT7 (WWWPFRR), showed comparable antibacterial activities. However, while NT7 exhibited anti-endotoxin activity, CT7 did not. The LPS binding of two tritrypticin analogs correlated with their corresponding structures, but the antibacterial activities did not. Further structure-function analysis indicated specific structural implications of the antibacterial activity at the molecular level. Studies involving designed analogs of NT7 incorporating either rigid or flexible linkers between the specifically distanced hydrophobic and cationic clusters modulate the LPS binding. On the other hand, not knowing the target receptor for antibacterial activity is a drawback since the precise epitope for antibacterial activity is not definable. It is apparent that the anti-endotoxin and antibacterial activities represent two independent functions of tritrypticin, consistent with the emerging multifunctionality in the nature of cathelicidins.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "18032557",
+      "title": "Role of antibody paratope conformational flexibility in the manifestation of molecular mimicry.",
+      "authors": [
+        "Lavanya Krishnan",
+        "Gaurav Sahni",
+        "Kanwal J Kaur",
+        "Dinakar M Salunke"
+      ],
+      "year": "2008",
+      "journal": "Biophysical journal",
+      "doi": "10.1529/biophysj.107.108654",
+      "doi_link": "https://doi.org/10.1529/biophysj.107.108654",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18032557",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Role%20of%20antibody%20paratope%20conformational%20flexibility%20in%20the%20manifestation%20of%20molecular%20mimicry%22",
+      "citations": {
+        "semantic_scholar": 24
+      },
+      "abstract": "Molecular mimicry is a recurrent theme in host defense processes. The correlation of functional mimicry with the structural features of the antibody paratope has been investigated, addressing the consequences of mimicry in host immune mechanisms. Two anti-mannopyranoside antibodies, 1H7 and 2D10, representing the possible extremes of the recognition spectrum with regard to peptide-carbohydrate mimicry were examined. Crystallographic and molecular dynamics simulation analyses established correlation between the antibody flexibility and the manifestation of mimicry. It was evident that monoclonal antibody (mAb) 1H7, which has a narrow specificity in favor of the immunizing antigen, exhibited structural invariance. On the other hand, the antigen-combining site of 2D10, the mimicry-recognizing antibody, showed substantial divergence in the complementarity determining region loops. The docking of mannopyranoside within the antibody paratope revealed multiple modes of binding of the carbohydrate antigen in mAb 2D10 vis à vis single docking mode in mAb 1H7, which overlapped with the common monosaccharide binding site defined in anti-carbohydrate antibodies. The presence of additional antigen binding modes is perhaps reflective of the utilization of conformational flexibility in molecular mimicry. A relatively broader recognition repertoire--attributable to paratope flexibility--may facilitate the recognition of altered antigens of invading pathogens while the antibodies with narrow recognition specificity maintain the fidelity of the response.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "17548630",
+      "title": "Paratope plasticity in diverse modes facilitates molecular mimicry in antibody response.",
+      "authors": [
+        "Lavanya Krishnan",
+        "Suvendu Lomash",
+        "Beena Patricia Jeevan Raj",
+        "Kanwal J Kaur",
+        "Dinakar M Salunke"
+      ],
+      "year": "2007",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.178.12.7923",
+      "doi_link": "https://doi.org/10.4049/jimmunol.178.12.7923",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17548630",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Paratope%20plasticity%20in%20diverse%20modes%20facilitates%20molecular%20mimicry%20in%20antibody%20response%22",
+      "citations": {
+        "semantic_scholar": 13
+      },
+      "abstract": "The immune response against methyl-alpha-D-mannopyranoside mimicking 12-mer peptide (DVFYPYPYASGS) was analyzed at the molecular level towards understanding the equivalence of these otherwise disparate Ags. The Ab 7C4 recognized the immunizing peptide and its mimicking carbohydrate Ag with comparable affinities. Thermodynamic analyses of the binding interactions of both molecules suggested that the mAb 7C4 paratope lacks substantial conformational flexibility, an obvious possibility for facilitating binding to chemically dissimilar Ags. Favorable changes in entropy during binding indicated the importance of hydrophobic interactions in recognition of the mimicking carbohydrate Ag. Indeed, the topology of the Ag-combining site was dominated by a cluster of aromatic residues, contributed primarily by the specificity defining CDR H3. Epitope-mapping analysis demonstrated the critical role of three aromatic residues of the 12-mer in binding to the Ab. Our studies delineate a mechanism by which mimicry is manifested in the absence of either structural similarity of the epitopes or conformational flexibility in the paratope. An alternate mode of recognition of dissimilar yet mimicking Ags by the anti-peptide Ab involves plasticity associated with aromatic/hydrophobic and van der Waals interactions. Thus, antigenic mimicry may be a consequence of paratope-specific modulations rather than being dependent only on the properties of the epitope. Such modulations may have evolved toward minimizing the consequences of antigenic variation by invading pathogens.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "17242433",
+      "title": "Design of a functionally equivalent nonglycosylated analog of the glycopeptide antibiotic formaecin I.",
+      "authors": [
+        "Kanwal J Kaur",
+        "Shashank Pandey",
+        "Dinakar M Salunke"
+      ],
+      "year": "2007",
+      "journal": "Protein science : a publication of the Protein Society",
+      "doi": "10.1110/ps.062581707",
+      "doi_link": "https://doi.org/10.1110/ps.062581707",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17242433",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Design%20of%20a%20functionally%20equivalent%20nonglycosylated%20analog%20of%20the%20glycopeptide%20antibiotic%20formaecin%20I%22",
+      "citations": {
+        "semantic_scholar": 9
+      },
+      "abstract": "Various nonglycosylated analogs were designed in order to explore the role of glycosylation in formaecin I, an antibacterial glycopeptide of insect origin. The functional behavior of a designed nonglycosylated analog (P(7),endo P(8a),DeltaT(11))formaecin I was found to be similar to that of native glycosylated peptide. Both the peptides showed similar antibacterial activities against Escherichia coli and Salmonella strains. The designed nonglycosylated analog (P(7),endo P(8a),DeltaT(11))formaecin I has low binding affinity to LPS identical to that of native glycopeptide, formaecin I. Both the peptides have similar killing kinetics and are nontoxic to erythrocytes. Formaecin I and designed nonglycosylated (P(7),endo P(8a),DeltaT(11))formaecin I have no definite conformational features associated with them. The glycosylated residue of threonine in formaecin I and proline residues in designed peptide [(P(7),endo P(8a),DeltaT(11))formaecin I], possibly help in stabilizing the correct conformation that facilitates presentation of the peptide to its receptor. It is evident that a functionally equivalent nonglycosylated analog of native glycosylated antibacterial peptide can be designed by strategically modifying the sequence.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "16635057",
+      "title": "Feasibility studies on division of fixed dose combinations of anti-tubercular drugs: an improvement in the tuberculosis therapy.",
+      "authors": [
+        "Yasvanth Ashokraj",
+        "Gunjan Kohli",
+        "Kanwal J Kaur",
+        "Shantaram R Bhade",
+        "Manthena V S Varma",
+        "Mahua Sarkar",
+        "Namita Kapoor",
+        "Inderjit Singh",
+        "Sateesh Kandavilli",
+        "Ramesh Panchagnula"
+      ],
+      "year": "2006",
+      "journal": "Journal of clinical pharmacy and therapeutics",
+      "doi": "10.1111/j.1365-2710.2006.00725.x",
+      "doi_link": "https://doi.org/10.1111/j.1365-2710.2006.00725.x",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16635057",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Feasibility%20studies%20on%20division%20of%20fixed%20dose%20combinations%20of%20anti-tubercular%20drugs%3A%20an%20improvement%20in%20the%20tuberculosis%20therapy%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "15823017",
+      "title": "Crystal structures of the PNA-porphyrin complex in the presence and absence of lactose: mapping the conformational changes on lactose binding, interacting surfaces, and supramolecular aggregations.",
+      "authors": [
+        "Manisha Goel",
+        "Rajani S Damai",
+        "Dhruv K Sethi",
+        "Kanwal J Kaur",
+        "Bhaskar G Maiya",
+        "Musti J Swamy",
+        "Dinakar M Salunke"
+      ],
+      "year": "2005",
+      "journal": "Biochemistry",
+      "doi": "10.1021/bi047377s",
+      "doi_link": "https://doi.org/10.1021/bi047377s",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15823017",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Crystal%20structures%20of%20the%20PNA-porphyrin%20complex%20in%20the%20presence%20and%20absence%20of%20lactose%3A%20mapping%20the%20conformational%20changes%20on%20lactose%20binding%2C%20interacting%20surfaces%2C%20and%20supramolecular%20aggregations%22",
+      "citations": {
+        "semantic_scholar": 31
+      },
+      "abstract": "The extraordinary recognition specificity of lectins for carbohydrate ligands appears to be violated as they also bind to porphyrins and other noncarbohydrate ligands. In this study, crystal structures of meso-tetrasulfonatophenylporphyrin (H(2)TPPS) bound to peanut agglutinin (PNA) in the presence and absence of lactose were determined. The binding of H(2)TPPS with PNA involved 11 molecules of H(2)TPPS in different supramolecular stacking arrangements associated with a tetramer of PNA in the crystals of the PNA-H(2)TPPS binary complex as well as the PNA-H(2)TPPS-lactose ternary complex. The ternary complex involved lactose binding only to two subunits of the PNA tetramer, which did not have porphyrin interacting in the vicinity of the carbohydrate-binding site. Comparison of the two structures highlighted the plasticity of the carbohydrate-binding site expressed in terms of the conformational change in lactose binding. The unusual quaternary structure of PNA, which results in exposed protein-protein interaction sites, might be responsible for the porphyrin binding. The association of porphyrin in diverse oligomeric stacking arrangements observed in the PNA-H(2)TPPS complex suggested the possibility of protein-porphyrin aggregation under abnormal physiological conditions. The structures described here provide a possible native conformation of the carbohydrate-binding site of PNA in the absence of the ligand, highlight mapping of the unsaturated binding surfaces of PNA using porphyrin interactions, indicate new leads toward possible application of this lectin in photodynamic therapy, and exhibit diverse modes of porphyrin-lectin interactions with implications to porphyria, a disease that results from abnormal accumulation of porphyrins.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "15585860",
+      "title": "Plasticity within the antigen-combining site may manifest as molecular mimicry in the humoral immune response.",
+      "authors": [
+        "Manisha Goel",
+        "Lavanya Krishnan",
+        "Surinder Kaur",
+        "Kanwal J Kaur",
+        "Dinakar M Salunke"
+      ],
+      "year": "2004",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.173.12.7358",
+      "doi_link": "https://doi.org/10.4049/jimmunol.173.12.7358",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15585860",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Plasticity%20within%20the%20antigen-combining%20site%20may%20manifest%20as%20molecular%20mimicry%20in%20the%20humoral%20immune%20response%22",
+      "citations": {
+        "semantic_scholar": 28
+      },
+      "abstract": "Structural and physiological facets of carbohydrate-peptide mimicry were addressed by analyzing the Ab response to alpha-d-mannopyranoside. mAbs against alpha-d-mannopyranoside were generated and screened with the carbohydrate-mimicking 12 mer (DVFYPYPYASGS) peptide. Three mAbs, 2D10, 1H11, and 1H7, which were subjected to detailed analysis, exhibit diverse V gene usage, indicating their independent germline origins. Although the mAb 1H7 was specific in binding only to the immunizing Ag, the Abs 2D10 and 1H11 recognize the 12 mer peptide as well as the immunogen, alpha-d-mannopyranoside. The Abs that recognize mimicry appear to bind to a common epitope on the peptide and do not share the mode of peptide binding with Con A. Binding kinetics and thermodynamics of Ag recognition suggest that the Ab that does not recognize peptide-carbohydrate mimicry probably has a predesigned mannopyranoside-complementing site. In contrast, the mimicry-recognizing Abs adopt the Ag-combining site only on exposure to the sugar, exploiting the conformational flexibility in the CDRs. Although the mAb 1H7 showed unique specificity toward mannopyranoside, the mimicry-recognizing Abs 2D10 and 1H11 exhibited degenerate specificities with regard to other sugar moieties. It is proposed that the degeneracy of specificity arising from the plasticity at the Ag-combining site in a subset of the Ab clones may be responsible for exhibiting molecular mimicry in the context of Ab response.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper21",
+      "publication_id": "15502340",
+      "title": "Purification, identification and preliminary crystallographic characterization of a novel seed protein from Vigna unguiculata.",
+      "authors": [
+        "Veenu Chanana",
+        "Kanwal J Kaur",
+        "Dinakar M Salunke"
+      ],
+      "year": "2004",
+      "journal": "Acta crystallographica. Section D, Biological crystallography",
+      "doi": "10.1107/S0907444904023868",
+      "doi_link": "https://doi.org/10.1107/S0907444904023868",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15502340",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Purification%2C%20identification%20and%20preliminary%20crystallographic%20characterization%20of%20a%20novel%20seed%20protein%20from%20Vigna%20unguiculata%22",
+      "citations": {
+        "semantic_scholar": 5
+      },
+      "abstract": "A tropical legume, Vigna unguiculata, was explored in order to identify potential allergens among the abundant seed proteins and to attempt their crystallographic study. Salt fractionation of the seed extract followed by chromatographic separation led to the purification of a 25 kDa protein. Gel-filtration chromatography of the 80% ammonium sulfate precipitation fraction led to separation of this protein in pure form, which was subjected to N-terminal sequencing. The N-terminal sequences of internal fragments of this protein showed 85% homology to mung bean seed albumin. This family of proteins is known to be intrinsically allergenic. Rhombic shaped crystals were obtained that diffracted to about 2.1 A resolution. The crystals belong to space group C2 and have unit-cell parameters a = 124.9, b = 60.1, c = 67.5 A, beta = 111.1 degrees .",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper22",
+      "publication_id": "15225676",
+      "title": "Bioequivalence trials of rifampicin containing formulations: extrinsic and intrinsic factors in the absorption of rifampicin.",
+      "authors": [
+        "Shrutidevi Agrawal",
+        "Inderjit Singh",
+        "Kanwal Jit Kaur",
+        "Shantaram Bhade",
+        "Chaman Lal Kaul",
+        "Ramesh Panchagnula"
+      ],
+      "year": "2004",
+      "journal": "Pharmacological research",
+      "doi": "10.1016/j.phrs.2004.01.009",
+      "doi_link": "https://doi.org/10.1016/j.phrs.2004.01.009",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15225676",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Bioequivalence%20trials%20of%20rifampicin%20containing%20formulations%3A%20extrinsic%20and%20intrinsic%20factors%20in%20the%20absorption%20of%20rifampicin%22",
+      "citations": {
+        "semantic_scholar": 29
+      },
+      "abstract": "Rifampicin shows variable bioavailability from solid oral dosage forms and the reasons for this variable absorption reported in literature varies from extrinsic formulations factors to intrinsic variability in rifampicin absorption. Hence, we have undertaken a systematic and comprehensive evaluation of all the factors to study contribution of all the factors on rifampicin absorption. As a first step, data from eight bioequivalence studies conducted at National Institute of Pharmaceutical Education and Research (NIPER) bioavailability center was compared across the trials to understand the effect of extrinsic/intrinsic factors on the bioavailability of rifampicin, isoniazid and pyrazinamide. Out of eight fixed dose combination (FDC) formulations, six formulations were bioequivalent for rifampicin to separate formulations whereas one formulation was below and one was above the limits of bioequivalence. It was observed that more variability in rifampicin blood levels is associated with FDC formulations when compared to rifampicin-only formulations and was attributed to complexity involved in the manufacturing of FDCs. Further, one of the rifampicin-only capsule showed unexpectedly lower plasma levels indicating role of physical characteristics of rifampicin bulk material. It was also seen that rifampicin shows dose-dependent pharmacokinetics even at the modest increase in dose due to saturation of efflux system at absorption site and metabolizing enzymes for elimination. Other components of FDC formulations such as isoniazid and pyrazinamide due to high solubility and permeability have shown very less variability and were bioequivalent to separate formulations even from formulations those were failed for rifampicin. The comparison of data across the trials suggested that rifampicin bioavailability problem is more attributable to the extrinsic factors such as formulation or rifampicin bulk material rather than intrinsic variability of rifampicin absorption.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper23",
+      "publication_id": "15113612",
+      "title": "Comparative bioavailability of rifampicin, isoniazid and pyrazinamide from a four drug fixed dose combination with separate formulations at the same dose levels.",
+      "authors": [
+        "Shrutidevi Agrawal",
+        "Inderjit Singh",
+        "Kanwal Jit Kaur",
+        "Shantaram R Bhade",
+        "Chaman Lal Kaul",
+        "Ramesh Panchagnula"
+      ],
+      "year": "2004",
+      "journal": "International journal of pharmaceutics",
+      "doi": "10.1016/j.ijpharm.2004.02.019",
+      "doi_link": "https://doi.org/10.1016/j.ijpharm.2004.02.019",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15113612",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Comparative%20bioavailability%20of%20rifampicin%2C%20isoniazid%20and%20pyrazinamide%20from%20a%20four%20drug%20fixed%20dose%20combination%20with%20separate%20formulations%20at%20the%20same%20dose%20levels%22",
+      "citations": {
+        "crossref": 45
+      },
+      "abstract": "Fixed dose combination (FDC) formulations became popular in the treatment of tuberculosis (TB) because of the better patient compliance, reduced risk of monotherapy and emergence of drug resistance in contrast to treatment with separate formulations of two to four first-line drugs. However, its successful implementation in national programs is limited by probable bioinequivalency of rifampicin if present in FDC form. In this regard, World Health Organization (WHO) and International Union Against Tuberculosis and Lung Disease (IUATLD) recommend FDCs only of proven bioavailability. Hence, bioequivalence study of four drug FDC tablet was conducted using 22 healthy male volunteers according to WHO recommended protocol to determine bioavailability of rifampicin, isoniazid and pyrazinamide compared to standard separate combination at the same dose level. The study was designed as two period, two treatment crossover experiment with a washout period of 1 week. Bioequivalence of rifampicin was estimated by plasma and urinary method for both rifampicin and its active metabolite, des-acetyl rifampicin whereas isoniazid and pyrazinamide were estimated from plasma. Mean concentration time profiles and all the pharmacokinetic parameters of rifampicin, isoniazid and pyrazinamide from FDC tablet were comparable to individual formulations and passed the bioequivalence test with power of the test above 95%. Further, bioequivalence of both rifampicin and isoniazid shows that in vitro interaction of rifampicin and isoniazid is clinically insignificant. Thus, it was concluded that FDC formulation is bioequivalent for rifampicin, isoniazid and pyrazinamide and ensures the successful treatment of TB without compromising therapeutic efficacy of any of these components of anti-TB therapy.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper24",
+      "publication_id": "14711825",
+      "title": "Identification and characterization of EhCaBP2. A second member of the calcium-binding protein family of the protozoan parasite Entamoeba histolytica.",
+      "authors": [
+        "Paramita Chakrabarty",
+        "Dhruv K Sethi",
+        "Narendra Padhan",
+        "Kanwal J Kaur",
+        "Dinakar M Salunke",
+        "Sudha Bhattacharya",
+        "Alok Bhattacharya"
+      ],
+      "year": "2004",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M304716200",
+      "doi_link": "https://doi.org/10.1074/jbc.M304716200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/14711825",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Identification%20and%20characterization%20of%20EhCaBP2.%20A%20second%20member%20of%20the%20calcium-binding%20protein%20family%20of%20the%20protozoan%20parasite%20Entamoeba%20histolytica%22",
+      "citations": {
+        "crossref": 20
+      },
+      "abstract": "Entamoeba histolytica, an early branching eukaryote, is the etiologic agent of amebiasis. Calcium plays a pivotal role in the pathogenesis of amebiasis by modulating the cytopathic properties of the parasite. However, the mechanistic role of Ca(2+) and calcium-binding proteins in the pathogenesis of E. histolytica remains poorly understood. We had previously characterized a novel calcium-binding protein (EhCaBP1) from E. histolytica. Here, we report the identification and partial characterization of an isoform of this protein, EhCaBP2. Both EhCaBPs have four canonical EF-hand Ca(2+) binding domains. The two isoforms are encoded by genes of the same size (402 bp). Comparison between the two genes showed an overall identity of 79% at the nucleotide sequence level. This identity dropped to 40% in the 75-nucleotide central linker region between the second and third Ca(2+) binding domains. Both of these genes are single copy, as revealed by Southern hybridization. Analysis of the available E. histolytica genome sequence data suggested that the two genes are non-allelic. Homology-based structural modeling showed that the major differences between the two EhCaBPs lie in the central linker region, normally involved in binding target molecules. A number of studies indicated that EhCaBP1 and EhCaBP2 are functionally different. They bind different sets of E. histolytica proteins in a Ca(2+)-dependent manner. Activation of endogenous kinase was also found to be unique for the two proteins and the Ca(2+) concentration required for their optimal functionality was also different. In addition, a 12-mer peptide was identified from a random peptide library that could differentially bind the two proteins. Our data suggest that EhCaBP2 is a new member of a class of E. histolytica calcium-binding proteins involved in a novel calcium signal transduction pathway.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper25",
+      "publication_id": "12538696",
+      "title": "Mimicry of native peptide antigens by the corresponding retro-inverso analogs is dependent on their intrinsic structure and interaction propensities.",
+      "authors": [
+        "Deepak T Nair",
+        "Kanwal J Kaur",
+        "Kavita Singh",
+        "Paushali Mukherjee",
+        "Deepa Rajagopal",
+        "Anna George",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Kanury V S Rao",
+        "Dinakar M Salunke"
+      ],
+      "year": "2003",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.170.3.1362",
+      "doi_link": "https://doi.org/10.4049/jimmunol.170.3.1362",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12538696",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mimicry%20of%20native%20peptide%20antigens%20by%20the%20corresponding%20retro-inverso%20analogs%20is%20dependent%20on%20their%20intrinsic%20structure%20and%20interaction%20propensities%22",
+      "citations": {
+        "semantic_scholar": 28
+      },
+      "abstract": "Retro-inverso (ri) analogs of model T cell and B cell epitopes were predictively designed as mimics and then assayed for activity to understand the basis of functional ri-antigenic peptide mimicry. ri versions of two MHC class I binding peptide epitopes, one from a vesicular stomatitis virus glycoprotein (VSV(p)) and another from OVA (OVAp), exhibit structural as well as functional mimicry of their native counterparts. The two ri peptides exhibit conformational plasticity and they bind to MHC class I (H-2K(b)) similar to their native counterparts both in silico and in vivo. In fact, ri-OVAp is also presented to an OVAp-specific T cell line in a mode similar to native OVAp. In contrast, the ri version of an immunodominant B cell peptide epitope from a hepatitis B virus protein, PS1, exhibits no structural or functional correlation with its native counterpart. PS1 and its ri analog do not exhibit similar conformational propensities. PS1 is less flexible relative to its ri version. These observed structure-function relationships of the ri-peptide epitopes are consistent with the differences in recognition properties between peptide-MHC vs peptide-Ab binding where, while the recognition of the epitope by MHC is pattern based, the exquisitely specific recognition of Ag by Ab arises from the high complementarity between the Ag and the binding site of the Ab. It is evident that the correlation of conformational and interaction propensities of native L-peptides and their ri counterparts depends both on their inherent structural properties and on their mode of recognition.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper26",
+      "publication_id": "12192071",
+      "title": "Plasticity in structure and interactions is critical for the action of indolicidin, an antibacterial peptide of innate immune origin.",
+      "authors": [
+        "Sushma Nagpal",
+        "Kanwal J Kaur",
+        "Deepti Jain",
+        "Dinakar M Salunke"
+      ],
+      "year": "2002",
+      "journal": "Protein science : a publication of the Protein Society",
+      "doi": "10.1110/ps.0211602",
+      "doi_link": "https://doi.org/10.1110/ps.0211602",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12192071",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Plasticity%20in%20structure%20and%20interactions%20is%20critical%20for%20the%20action%20of%20indolicidin%2C%20an%20antibacterial%20peptide%20of%20innate%20immune%20origin%22",
+      "citations": {
+        "crossref": 30
+      },
+      "abstract": "The comparative analysis of two cationic antibacterial peptides of the cathelicidin family-indolicidin and tritrypticin-enabled addressing the structural features critical for the mechanism of indolicidin activity. Functional behavior of retro-indolicidin was found to be identical to that of native indolicidin. It is apparent that the gross conformational propensities associated with retro-peptides resemble those of the native sequences, suggesting that native and retro-peptides can have similar structures. Both the native and the retro-indolicidin show identical affinities while binding to endotoxin, the initial event associated with the antibacterial activity of cationic peptide antibiotics. The indolicidin-endotoxin binding was modeled by docking the indolicidin molecule in the endotoxin structure. The conformational flexibility associated with the indolicidin residues, as well as that of the fatty acid chains of endotoxin combined with the relatively strong structural interactions, such as ionic and hydrophobic, provide the basis for the endotoxin-peptide recognition. Thus, the key feature of the recognition between the cationic antibacterial peptides and endotoxin is the plasticity of molecular interactions, which may have been designed for the purpose of maintaining activity against a broad range of organisms, a hallmark of primitive host defense.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper27",
+      "publication_id": "11897421",
+      "title": "Assessment of bioequivalence of rifampicin, isoniazid and pyrazinamide in a four drug fixed dose combination with separate formulations at the same dose levels.",
+      "authors": [
+        "Shrutidevi Agrawal",
+        "Kanwal Jit Kaur",
+        "Inderjit Singh",
+        "Shantaram R Bhade",
+        "Chaman Lal Kaul",
+        "Ramesh Panchagnula"
+      ],
+      "year": "2002",
+      "journal": "International journal of pharmaceutics",
+      "doi": "10.1016/s0378-5173(01)00939-5",
+      "doi_link": "https://doi.org/10.1016/s0378-5173(01)00939-5",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/11897421",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Assessment%20of%20bioequivalence%20of%20rifampicin%2C%20isoniazid%20and%20pyrazinamide%20in%20a%20four%20drug%20fixed%20dose%20combination%20with%20separate%20formulations%20at%20the%20same%20dose%20levels%22",
+      "citations": {
+        "crossref": 32
+      },
+      "abstract": "Tuberculosis (TB) needs treatment with three to five different drugs simultaneously, depending on the patient category. These drugs can be given as single drug preparations or fixed dose combinations (FDCs) of two more drugs in a single formulation. World Health Organization and International Union against Tuberculosis and Lung Disease (IUATLD) recommend FDCs only of proven bioavailability. The relative bioavailability of rifampicin (RIF), isoniazid (INH) and pyrazinamide (PYZ) was assessed on a group of 13 healthy male subjects from a four drug FDC versus separate formulations at the same dose levels. The study was designed to be an open, crossover experiment. A total of nine blood samples each of 3 ml volume were collected over a period of 24-h. The concentrations of RIF, its main metabolite desacetyl RIF (DRIF), INH and PYZ in plasma were assessed by HPLC analysis. Pharmacokinetic parameters namely AUC(0-24), AUC(0-inf), C(max), T(max), were calculated and subjected to different statistical tests (Hauschke analysis, two way ANOVA, normal and log transformed confidence interval) at 90% confidence interval. In addition, elimination rate constant (K(el)) and absorption efficiencies for each drug were also calculated. It was concluded that four drugs FDC tablet is bioequivalent for RIF, INH and PYZ to separate formulation at the same dose levels.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 27,
+    "publications_by_year": {
+      "2023": 1,
+      "2020": 1,
+      "2019": 1,
+      "2018": 1,
+      "2017": 2,
+      "2016": 1,
+      "2015": 2,
+      "2013": 1,
+      "2012": 1,
+      "2011": 1,
+      "2010": 1,
+      "2008": 2,
+      "2007": 2,
+      "2006": 1,
+      "2005": 1,
+      "2004": 5,
+      "2003": 1,
+      "2002": 2
+    },
+    "top_journals": [
+      "Journal of immunology (Baltimore, Md. : 1950)",
+      "Protein science : a publication of the Protein Society",
+      "Journal of peptide science : an official publication of the European Peptide Society",
+      "Glycoconjugate journal",
+      "International journal of pharmaceutics"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 62,
+      "frequent_collaborators": [
+        "Kanwal J Kaur",
+        "Dinakar M Salunke",
+        "Inderjit Singh",
+        "Ramesh Panchagnula",
+        "Saroj Kumari",
+        "Shantaram R Bhade",
+        "Kanwal Jit Kaur",
+        "Chaman Lal Kaul"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "15113612",
+        "title": "Comparative bioavailability of rifampicin, isoniazid and pyrazinamide from a four drug fixed dose combination with separate formulations at the same dose levels.",
+        "citations": 45,
+        "year": "2004"
+      },
+      {
+        "publication_id": "21968924",
+        "title": "Glycosylated analogs of formaecin I and drosocin exhibit differential pattern of antibacterial activity.",
+        "citations": 33,
+        "year": "2011"
+      },
+      {
+        "publication_id": "11897421",
+        "title": "Assessment of bioequivalence of rifampicin, isoniazid and pyrazinamide in a four drug fixed dose combination with separate formulations at the same dose levels.",
+        "citations": 32,
+        "year": "2002"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1819 @@
+{
+  "metadata": {
+    "total_faculty": 29,
+    "data_collection_date": "2025-07-03T17:20:09.546866",
+    "last_updated": "2025-07-03",
+    "faculty_status": "current",
+    "departments": [
+      "Chemical Biology & Structural Biology",
+      "Immunity & Infection",
+      "Genetics, Cell Signalling & Cancer Biology Faculty of NII"
+    ],
+    "research_areas": [
+      "Vaccine Development",
+      "Computational Biology",
+      "Cell Biology",
+      "Immunology",
+      "Malaria Research",
+      "Structural Biology",
+      "Drug Discovery",
+      "Virology",
+      "Biochemistry",
+      "Infectious Diseases",
+      "General Biology",
+      "Molecular Biology"
+    ]
+  },
+  "faculty_profiles": [
+    {
+      "faculty_id": "dr_vinay_k_nandicoori_profile",
+      "name": "Dr. Vinay K. Nandicoori",
+      "email": "vinaykn@nii.res.in",
+      "faculty_status": "current",
+      "department": "Genetics, Cell Signalling & Cancer Biology Faculty of NII",
+      "research_interest": "Deciphering kinase-mediated signaling networks in Mycobacterium tuberculosis (Mtb). Investigating the role of Mtb protein kinases in regulating cellular events of the pathogen and host-pathogen interactions.",
+      "research_areas": [
+        "Cell Biology",
+        "Molecular Biology",
+        "Infectious Diseases"
+      ],
+      "research_keywords": [
+        "protein",
+        "signaling",
+        "pathogen",
+        "tuberculosis",
+        "cellular"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Indian Institute of Technology, Mumbai, India Ph. D. Indian Institute of Sciences, Bangalore, India Postdoctoral Research Texas A & M University, College Station, Texas, USA University of Virginia, Charlottesville, Virginia, USA"
+        ],
+        "postdoc_experience": [
+          "M. Sc. Indian Institute of Technology, Mumbai, India Ph. D. Indian Institute of Sciences, Bangalore, India Postdoctoral Research Texas A & M University, College Station, Texas, USA University of Virginia, Charlottesville, Virginia, USA"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "Elected Member, Guha Research Conference, India (GRC) (2009)",
+          "year": "2009",
+          "category": "Other"
+        },
+        {
+          "award": "Fellow, The National Academy of Sciences (India), Allahabad, (2014)",
+          "year": "2014",
+          "category": "Fellowship"
+        },
+        {
+          "award": "M. Sreenivasaya Award for the Best Thesis, IISc, Bangalore, India (1999)",
+          "year": "1999",
+          "category": "Award"
+        },
+        {
+          "award": "NASI-Scopus Young Scientist Award (2009)",
+          "year": "2009",
+          "category": "Award"
+        },
+        {
+          "award": "National Bioscience Award for Career Development (2010)",
+          "year": "2010",
+          "category": "Award"
+        }
+      ],
+      "group_members": "Dr. Savita Lochab, Ms. Divya Arora, Ms. Prabhjot Kaur, Ms. Preeti Jain, Ms. Basanti Malakar, Ms. Mehak Zahoor Khan, Mr. Yogesh Chawla, Mr. Vijay Soni, Ms. Saba Naz, Mr. Mahesh Ray, Mr. Babulal Nepali",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-vinay-k-nandicoori",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Vinay K. Nandicoori specializes in Deciphering kinase-mediated signaling networks in Mycobacterium tuberculosis (Mtb). Investigating the role of Mtb protein kinases in regulating cellular events of the pathogen and host-pathogen intera...",
+      "career_level": "Senior",
+      "research_focus_breadth": 3
+    },
+    {
+      "faculty_id": "dr_rajesh_kumar_yadav_profile",
+      "name": "Dr. Rajesh Kumar Yadav",
+      "email": "rkyadav@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Genetics, Cell Signalling & Cancer Biology Faculty of NII",
+      "research_interest": "Epigenetics, Cancer biology, Onco-histone mutation, DNA Damage Response, Immunotherapy, Host-parasite interaction, Leishmaniasis",
+      "research_areas": [
+        "Malaria Research",
+        "Molecular Biology"
+      ],
+      "research_keywords": [
+        "dna",
+        "cancer",
+        "parasite"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M.Sc"
+        ],
+        "institutions": [
+          "Calcutta University, India Ph. D. Indian Institute of Chemical Biology and Jadavpur University, Kolkata, India Post Doctoral Research St. Jude Children's Research Hospital, Memphis, Tennessee, USA"
+        ],
+        "postdoc_experience": [],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "Ramalingaswami Re-entry Fellowship, Department of Biotechnology, Government of India (2017-2018)",
+          "year": "2017",
+          "category": "Fellowship"
+        }
+      ],
+      "group_members": "Ph.D. Students: Priyanka, Ronit Jain\nTechnical Support: Mr. Kunwar Singh",
+      "collaboration_potential": [
+        "Active Research Group",
+        "Clinical Research"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-rajesh-kumar-yadav",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Rajesh Kumar Yadav specializes in Epigenetics, Cancer biology, Onco-histone mutation, DNA Damage Response, Immunotherapy, Host-parasite interaction, Leishmaniasis",
+      "career_level": "Mid Career",
+      "research_focus_breadth": 2
+    },
+    {
+      "faculty_id": "dr_debasisa_mohanty_profile",
+      "name": "Dr. Debasisa Mohanty",
+      "email": "deb@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Chemical Biology & Structural Biology",
+      "research_interest": "Bioinformatics & Computational Biophysics; Prediction of structure and function of proteins;\nIn silico\nanalysis of genomes; Computer simulation of biomolecular systems",
+      "research_areas": [
+        "Computational Biology",
+        "Molecular Biology",
+        "Biochemistry",
+        "Structural Biology"
+      ],
+      "research_keywords": [
+        "simulation",
+        "bioinformatics",
+        "structure",
+        "computational"
+      ],
+      "techniques_methods": [
+        "simulation"
+      ],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Indian Institute of Technology, Kanpur Ph. D. Indian Institute of Science, Bangalore Postdoctoral Research Hebrew University, Jerusalem, Israel The Scripps Research Institute, La Jolla, USA"
+        ],
+        "postdoc_experience": [
+          "M. Sc. Indian Institute of Technology, Kanpur Ph. D. Indian Institute of Science, Bangalore Postdoctoral Research Hebrew University, Jerusalem, Israel The Scripps Research Institute, La Jolla, USA"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "Fellow of Indian Academy of Science (Elected in 2012)",
+          "year": "2012",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fellow of Indian National Science Academy (Elected in 2013)",
+          "year": "2013",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fellow of The National Academy of Sciences, India, Allahabad (Elected in 2008)",
+          "year": "2008",
+          "category": "Fellowship"
+        },
+        {
+          "award": "National Bioscience Career Development Award (2009)",
+          "year": "2009",
+          "category": "Award"
+        },
+        {
+          "award": "Rajib Goyal Young Scientist Prize in Life Sciences (2007)",
+          "year": "2007",
+          "category": "Award"
+        },
+        {
+          "award": "Samanta Chandrashekhar Award (2005) by Orissa Bigyan Academy (DST, Govt. of Orissa)",
+          "year": "2005",
+          "category": "Award"
+        }
+      ],
+      "group_members": "Bhushan Dilip Dhamale, Sana Amir, Akshay Khanduja, Ankita Pal, Sapna Pal, Sureshkumar V(RCB-NII), Shweta Mahapatra, Vikas Kumar, Dr. Sanjeet Kumar Mahtha, Apratim Kumar Pandey, Sumeet Kumar Yadav.",
+      "collaboration_potential": [
+        "Active Research Group",
+        "Computational Collaboration",
+        "Structural Biology"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-debasisa-mohanty",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Debasisa Mohanty specializes in Bioinformatics & Computational Biophysics; Prediction of structure and function of proteins;\nIn silico\nanalysis of genomes; Computer simulation of biomolecular systems",
+      "career_level": "Senior",
+      "research_focus_breadth": 4
+    },
+    {
+      "faculty_id": "dr_soumen_basak_profile",
+      "name": "Dr. Soumen Basak",
+      "email": "sobasak@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Immunity & Infection",
+      "research_interest": "In their anatomic niche, mammalian cells receive signals from a variety of stimuli that generate crosstalks between signal-activated intracellular pathways. Combining biochemistry, genetics, and computational modeling tools, we have been investigating the role of these cross-regulatory mechanisms in physiology and disease. We are examining crosstalk between the canonical and non-canonical NF-κB pathways and those beyond NF-κB signaling. We are biochemically characterizing crosstalk mechanisms integrating cellular pathways within a network and exploring if such crosstalks have functional relevance for I). inflammation and inflammation-associated ailments, including cancer, or II). for anti-viral immunity.\nWe argue that our crosstalk studies may inform improved therapeutic regimes, which specifically target signaling crosstalk, in the future.",
+      "research_areas": [
+        "Immunology",
+        "Computational Biology",
+        "Cell Biology",
+        "Molecular Biology",
+        "Biochemistry",
+        "Drug Discovery",
+        "Virology"
+      ],
+      "research_keywords": [
+        "computational",
+        "intracellular",
+        "signaling",
+        "inflammation",
+        "cellular",
+        "cancer",
+        "modeling"
+      ],
+      "techniques_methods": [
+        "computational modeling"
+      ],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Dr. Soumen Basak  . Biochemistry Department, Calcutta University, Kolkata, India Ph. D. Biochemistry Department, Calcutta University, Kolkata, India Postdoctoral Research Signaling Systems Laboratory, University of California, San Diego, USA"
+        ],
+        "postdoc_experience": [
+          "Dr. Soumen Basak  M. Sc. Biochemistry Department, Calcutta University, Kolkata, India Ph. D. Biochemistry Department, Calcutta University, Kolkata, India Postdoctoral Research Signaling Systems Laboratory, University of California, San Diego, USA"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "2003: Young Scientist Award from the Indian Science Congress Association (ISCA)",
+          "year": "2003",
+          "category": "Award"
+        },
+        {
+          "award": "2010-2015: Intermediate Fellow, Wellcome Trust-DBT India Alliance",
+          "year": "2010",
+          "category": "Fellowship"
+        },
+        {
+          "award": "2017: Elected as a member of the Guha Research Conference",
+          "year": "2017",
+          "category": "Other"
+        },
+        {
+          "award": "2018: Received the National Bioscience Award for Career Development in recognition of the research in the area of immunology and cell signaling",
+          "year": "2018",
+          "category": "Award"
+        },
+        {
+          "award": "2019: Shanti Swarup Bhatnagar Award for Research Excellence in Biological Sciences",
+          "year": "2019",
+          "category": "Award"
+        },
+        {
+          "award": "2021: Elected Fellow of the Indian Academy of Sciences (IASc, Bangalore)",
+          "year": "2021",
+          "category": "Fellowship"
+        },
+        {
+          "award": "2021: Elected Fellow of the National Academy of Sciences India (NASI, Prayagraj)",
+          "year": "2021",
+          "category": "Fellowship"
+        },
+        {
+          "award": "2022: Elected as a Fellow of the Indian National Science Academy (INSA, New Delhi)",
+          "year": "2022",
+          "category": "Fellowship"
+        },
+        {
+          "award": "2023: Incorporated as a member of the Society of Inflammation Research, India",
+          "year": "2023",
+          "category": "Other"
+        }
+      ],
+      "group_members": "Naveen Kumar, SK Asif Ali, Swapnava Basu, Sanchi Arora, Ashish K. Mishra, Deepakshi Sahu (PhD Students); Shreya Singh (i3c-BRIC PhD student); Bhawna (Joint PhD Student, NII-IITD); Dr Debasish Kumar Dey (MK Bhan Young Researcher Fellow); Birendra Kumar and Vijendra Kumar (Technical Staff)",
+      "collaboration_potential": [
+        "Active Research Group",
+        "Computational Collaboration",
+        "Drug Discovery"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-soumen-basak",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Soumen Basak specializes in In their anatomic niche, mammalian cells receive signals from a variety of stimuli that generate crosstalks between signal-activated intracellular pathways. Combining biochemistry, genetics, and compu...",
+      "career_level": "Senior",
+      "research_focus_breadth": 7
+    },
+    {
+      "faculty_id": "dr_devram_ghorpade_profile",
+      "name": "Dr. Devram Ghorpade",
+      "email": "dev@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Genetics, Cell Signalling & Cancer Biology Faculty of NII",
+      "research_interest": "Learning the homeostasis processes by virtue of multi-organ cross-talks in metabolic disorders",
+      "research_areas": [
+        "General Biology"
+      ],
+      "research_keywords": [],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M.Sc"
+        ],
+        "institutions": [
+          "University of Pune, India Ph.D. Indian Institute of Science, Bangalore, India Postdoctoral Research Columbia University, New York, USA."
+        ],
+        "postdoc_experience": [
+          "M.Sc. University of Pune, India Ph.D. Indian Institute of Science, Bangalore, India Postdoctoral Research Columbia University, New York, USA."
+        ],
+        "visiting_positions": []
+      },
+      "awards": [],
+      "group_members": "Chayanika Gogoi (Ph.D. Student), Mohammad Athar Mehraj (Ph.D. Student), Shubham Sharma (JRF), Pankaj Kumar (Technician)",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-devram-ghorpade",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Devram Ghorpade specializes in Learning the homeostasis processes by virtue of multi-organ cross-talks in metabolic disorders",
+      "career_level": "Unknown",
+      "research_focus_breadth": 1
+    },
+    {
+      "faculty_id": "dr_madhulika_srivastava_profile",
+      "name": "Dr. Madhulika Srivastava",
+      "email": "madhu@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Genetics, Cell Signalling & Cancer Biology Faculty of NII",
+      "research_interest": "Nuclear processes depend on interactions between\ncis\nacting regulatory elements and trans-acting factors and are intricately regulated by higher order chromatin organization.  Additionally, intranuclear positions of genes with respect to various components of the nucleus are non-random and altered during development concordant with their activation status. Misregulation of the dynamic nuclear and chromatin organization is associated with various developmental disorders, cancers and other diseases. Various aspects underlying this intriguing organization, relevant for regulation of transcription and VDJ recombination in lymphocytes, are being deciphered by chromosome conformation capture analyses and other biochemical assays as well as direct visualization of developmentally regulated loci within the nucleus in wild type and genetically manipulated mouse mutants.\nKeywords : Genome architecture and dynamics, Chromatin organization, VDJ recombination, Epigenetics, Mammalian gene regulation",
+      "research_areas": [
+        "Immunology",
+        "Cell Biology",
+        "Molecular Biology"
+      ],
+      "research_keywords": [
+        "gene"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Jawaharlal Nehru University, New Delhi Ph. D. Jawaharlal Nehru University, New Delhi Postdoctoral Research NICHD, NIH, USA"
+        ],
+        "postdoc_experience": [
+          "M. Sc. Jawaharlal Nehru University, New Delhi Ph. D. Jawaharlal Nehru University, New Delhi Postdoctoral Research NICHD, NIH, USA"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [],
+      "group_members": "Monika Yadav, Sarojini Minj, Kevla Nand and Bhan Singh",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-madhulika-srivastava",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Madhulika Srivastava specializes in Nuclear processes depend on interactions between\ncis\nacting regulatory elements and trans-acting factors and are intricately regulated by higher order chromatin organization.  Additionally, intranucle...",
+      "career_level": "Unknown",
+      "research_focus_breadth": 3
+    },
+    {
+      "faculty_id": "dr_apurba_kumar_sau_profile",
+      "name": "Dr. Apurba Kumar Sau",
+      "email": "apurba@nii.ac.in, apurba@nii.res.in",
+      "faculty_status": "current",
+      "department": "Chemical Biology & Structural Biology",
+      "research_interest": "Molecular mechanism of regulatory processes, Structural Biochemistry, Antibacterial and antimicrobial target enzymes and their functions, Drug-design, Protein biochemistry",
+      "research_areas": [
+        "Molecular Biology",
+        "Biochemistry",
+        "Infectious Diseases",
+        "Drug Discovery"
+      ],
+      "research_keywords": [
+        "drug",
+        "protein",
+        "antimicrobial"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "University of Calcutta Ph. D. Tata Institute of Fundamental Research (TIFR), Mumbai Postdoctoral Research University of Texas, Austin, USA Yale University School of Medicine, USA"
+        ],
+        "postdoc_experience": [
+          "M. Sc. University of Calcutta Ph. D. Tata Institute of Fundamental Research (TIFR), Mumbai Postdoctoral Research University of Texas, Austin, USA Yale University School of Medicine, USA"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "Fellow of National Academy of Sciences, India (2017)",
+          "year": "2017",
+          "category": "Fellowship"
+        },
+        {
+          "award": "National Bioscience Award for Career Development (2013)",
+          "year": "2013",
+          "category": "Award"
+        }
+      ],
+      "group_members": "Divya Rashmi, Anjali Kalia, Anirban Molla, Pratiti Bakshi, Dorle Archana Mukund, Samriddhi Dubey, Sangita Dey and Ashma Khan\nPast Members- Dr. Nazish Abdullah, Dr. Abhishek Srivastava, Dr. Esha Pandita, Dr. Sudeepa Rajan, Dr. Nikunj H Raninga, Dr. Vineet Sadarangani, Dr. Ankita Dutta, Dr. Ditsa Sarkar, Dr. Sowmiya Gupta, Dr. Monika Mittal, Shiv Kumar Meena, Meena Balakumari, Bharani Srinivasan, Anjana Rani, Nidhi Dwivedi, Tooba Quidwai, Ginto George, Upma Dave, Pratima Verma, Dr. Sadaf Fatima, Dr. Maskoor Alam, Dr. Safikur Rahman, Dr. Saurabha Srivastava, Dr. Rachana Tomar, Dr. Shruti Mathur, Dr. Pooja Muraka, Dr. Tasneem Kausar and Dr. Ankita.",
+      "collaboration_potential": [
+        "Active Research Group",
+        "Drug Discovery"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-apurba-kumar-sau",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Apurba Kumar Sau specializes in Molecular mechanism of regulatory processes, Structural Biochemistry, Antibacterial and antimicrobial target enzymes and their functions, Drug-design, Protein biochemistry",
+      "career_level": "Early Career",
+      "research_focus_breadth": 4
+    },
+    {
+      "faculty_id": "dr_ankita_varshney_profile",
+      "name": "Dr. Ankita Varshney",
+      "email": "ankitavarshney@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Chemical Biology & Structural Biology",
+      "research_interest": "Structural Biology & Biophysical Chemistry, Protein-ligand Interaction, Drug-protein Interaction, Protein folding & stability and Popularization of Science",
+      "research_areas": [
+        "Molecular Biology",
+        "Biochemistry",
+        "Structural Biology",
+        "Drug Discovery"
+      ],
+      "research_keywords": [
+        "drug",
+        "protein",
+        "folding"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Aligarh Muslim University, India M. Phil Aligarh Muslim University, India Ph. D. Aligarh Muslim University, India Postdoctoral Research Jawaharlal Nehru University, New Delhi, India"
+        ],
+        "postdoc_experience": [
+          "M. Sc. Aligarh Muslim University, India M. Phil Aligarh Muslim University, India Ph. D. Aligarh Muslim University, India Postdoctoral Research Jawaharlal Nehru University, New Delhi, India"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "Biotechnology Career Advancement and Re-orientation Program for Women Scientists, Department of Biotechnology, India (2012)",
+          "year": "2012",
+          "category": "Other"
+        },
+        {
+          "award": "DBT Research Associateship in Biotechnology and Life Sciences, Department of Biotechnology, India (2011)",
+          "year": "2011",
+          "category": "Other"
+        },
+        {
+          "award": "Dr. D.S. Kothari Postdoctoral Fellowship, University Grants Commission, India (2011)",
+          "year": "2011",
+          "category": "Fellowship"
+        }
+      ],
+      "group_members": "",
+      "collaboration_potential": [
+        "Drug Discovery"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-ankita-varshney",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Ankita Varshney specializes in Structural Biology & Biophysical Chemistry, Protein-ligand Interaction, Drug-protein Interaction, Protein folding & stability and Popularization of Science",
+      "career_level": "Senior",
+      "research_focus_breadth": 4
+    },
+    {
+      "faculty_id": "dr_aneeshkumar_a_g__profile",
+      "name": "Dr. Aneeshkumar A.G.",
+      "email": "aneesh@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Genetics, Cell Signalling & Cancer Biology Faculty of NII",
+      "research_interest": "",
+      "research_areas": [
+        "General Biology"
+      ],
+      "research_keywords": [],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Mahatma Gandhi University, Kottayam, Kerala Ph. D. Center for Cellular and Molecular Biology, Hyderabad Postdoctoral Research National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, MD USA Department of Chemical and Biomolecular Engineering, North Carolina State University, Raleigh, NC USA"
+        ],
+        "postdoc_experience": [
+          "M. Sc. Mahatma Gandhi University, Kottayam, Kerala Ph. D. Center for Cellular and Molecular Biology, Hyderabad Postdoctoral Research National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, MD USA Department of Chemical and Biomolecular Engineering, North Carolina State University, Raleigh, NC USA"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [],
+      "group_members": "Khem Singh Negi, Neha Jawla, Somdeb Chattopadhyay, Chen Chongtham, Trisha Biswas, Archana Pant, Vaidehee, Shubhi Khare, Mohtashim Rosh, Namaste Kumari, S. Jayalakshmi",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-aneeshkumar-ag",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Aneeshkumar A.G. specializes in ",
+      "career_level": "Unknown",
+      "research_focus_breadth": 1
+    },
+    {
+      "faculty_id": "dr_santiswarup_singha_profile",
+      "name": "Dr. Santiswarup Singha",
+      "email": "santiswarup@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Immunity & Infection",
+      "research_interest": "Application of nano-engineering principles for rational designing of the immunomodulatory nano-therapeutic platform.",
+      "research_areas": [
+        "Drug Discovery"
+      ],
+      "research_keywords": [],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "University of Calcutta, Kolkata, India Ph. D. University of Calcutta, Kolkata, India Past Affiliations Post Doctoral training University of Calgary, Calgary, Canada"
+        ],
+        "postdoc_experience": [],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "Ramalingaswami Re-entry Fellowship 2020-2021 of the Department of Biotechnology (DBT), Govt. of India.",
+          "year": "2020",
+          "category": "Fellowship"
+        }
+      ],
+      "group_members": "Tarandeep Singh Bansal\nPh.D. Students : Khushboo Chaudhury, Arnab Kumar Sahoo, Antara Mondal, and Faisal Jamal.\nProject Students : Arpita Das (JRF, DBT Project), Richa Pahuja (SRF, DBT Project), Aayush Raj Tyagi (JRF, SERB project).\nTechnical Support : Raghav Ram Yadav and Rajit Ram.",
+      "collaboration_potential": [
+        "Active Research Group",
+        "Drug Discovery"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-santiswarup-singha",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Santiswarup Singha specializes in Application of nano-engineering principles for rational designing of the immunomodulatory nano-therapeutic platform.",
+      "career_level": "Mid Career",
+      "research_focus_breadth": 1
+    },
+    {
+      "faculty_id": "dr_sanjeev_das_profile",
+      "name": "Dr. Sanjeev Das",
+      "email": "sdas@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Genetics, Cell Signalling & Cancer Biology Faculty of NII",
+      "research_interest": "The focus of the laboratory is to understand the molecular mechanisms underlying the process of neoplastic transformation. The lab employs diverse approaches to examine the role of different regulatory networks and metabolic processes in cancer development and progression.",
+      "research_areas": [
+        "Molecular Biology"
+      ],
+      "research_keywords": [
+        "cancer"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Calcutta University, Kolkata, India Ph. D. Indian Institute of Science, Bangalore, India Postdoctoral Research Cutaneous Biology Research Center, Massachusetts General Hospital and Harvard Medical School, USA."
+        ],
+        "postdoc_experience": [
+          "M. Sc. Calcutta University, Kolkata, India Ph. D. Indian Institute of Science, Bangalore, India Postdoctoral Research Cutaneous Biology Research Center, Massachusetts General Hospital and Harvard Medical School, USA."
+        ],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "2014 NASI-SCOPUS Young Scientist Award, National Academy of Sciences, India and Elsevier",
+          "year": "2014",
+          "category": "Award"
+        },
+        {
+          "award": "2015 National Bioscience Award for Career Development, Department of Biotechnology, Govt. of India",
+          "year": "2015",
+          "category": "Award"
+        },
+        {
+          "award": "2016 Prof. B. K. Bachhawat Memorial Young Scientist Lecture Award, National Academy of Sciences, India",
+          "year": "2016",
+          "category": "Award"
+        },
+        {
+          "award": "2016 Shakuntala Amir Chand Prize, Indian Council of Medical Research, India",
+          "year": "2016",
+          "category": "Award"
+        },
+        {
+          "award": "2017 Prof. Umakant Sinha Memorial Award, Indian Science Congress Association, India",
+          "year": "2017",
+          "category": "Award"
+        },
+        {
+          "award": "2017 Shanti Swarup Bhatnagar Prize for Biological Sciences, Council for Scientific and Industrial Research, Govt. of India",
+          "year": "2017",
+          "category": "Award"
+        },
+        {
+          "award": "2018 Fellow, National Academy of Sciences, India",
+          "year": "2018",
+          "category": "Fellowship"
+        }
+      ],
+      "group_members": "Ph.D. Students: Anita Nandi, Mohd Irfan, Ricky Seldon Hemrom and Pawan Kumar Sharma\nTechnical Assistant: Rakesh Kumar",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-sanjeev-das",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Sanjeev Das specializes in The focus of the laboratory is to understand the molecular mechanisms underlying the process of neoplastic transformation. The lab employs diverse approaches to examine the role of different regulator...",
+      "career_level": "Senior",
+      "research_focus_breadth": 1
+    },
+    {
+      "faculty_id": "dr_tanmay_majumdar_profile",
+      "name": "Dr. Tanmay Majumdar",
+      "email": "majumdart@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Immunity & Infection",
+      "research_interest": "My research interests have emerged in the establishment of translational strategies to combat major chronic diseases in humans. The core objective of my research is to establish a fine balance between tolerance and immunity, ultimately preventing inflammation. To achieve this, I explore the potential of utilizing gut microbiome and nutritional therapies as effective interventions against these diseases.\nAnti-diabetic drugs can mitigate Covid-19 infections",
+      "research_areas": [
+        "Immunology",
+        "Molecular Biology",
+        "Infectious Diseases",
+        "Drug Discovery"
+      ],
+      "research_keywords": [
+        "inflammation"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Dr. Tanmay Majumdar  . Visva Bharati University, West Bengal, India Ph. D. Visva Bharati University, West Bengal, India Post Doctoral Research Cleveland State University, Ohio, USA Georgia Cancer Center, Augusta University, Georgia, USA"
+        ],
+        "postdoc_experience": [],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "Independent Fellowship/Faculty Position",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "CSIR-SRF (Govt. of India)",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "Certified Expert of FACS CANTO-II from BD Company, Boston, MA, USA.",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "Faculty Recharge Program, UGC, Govt. of India.",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "Ramalingaswami Fellowship, DBT, Govt. of India.",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Santa-Cruz Biotechnology (USA) Investigator Award",
+          "year": "",
+          "category": "Award"
+        },
+        {
+          "award": "The Best Oral Presentation at 34th Indian Immunology Society Conference-National AIDS Research Institute (NARI), Pune, India.",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "‘International Travel Grant Award’ to Villa-Real, Portugal from CSIR, Government of India.",
+          "year": "",
+          "category": "Award"
+        },
+        {
+          "award": "‘International Travel Grant as Young Scientist’ to Villa-Real, Portugal from DST, Government of India.",
+          "year": "",
+          "category": "Early Career"
+        }
+      ],
+      "group_members": "Geetika Kumari, Amit Kumar, Rasmi Ranjan Muduli, Anupamjeet Kaur, Santosh Kumar, Kumod Kumar",
+      "collaboration_potential": [
+        "Active Research Group",
+        "Drug Discovery"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-tanmay-majumdar",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Tanmay Majumdar specializes in My research interests have emerged in the establishment of translational strategies to combat major chronic diseases in humans. The core objective of my research is to establish a fine balance between...",
+      "career_level": "Senior",
+      "research_focus_breadth": 4
+    },
+    {
+      "faculty_id": "dr_bichitra_k_biswal_profile",
+      "name": "Dr. Bichitra K. Biswal",
+      "email": "bbiswal@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Chemical Biology & Structural Biology",
+      "research_interest": "My laboratory aims at understanding the structural, functional and essentiality aspects of proteins  of metabolic pathways using structural biology, biochemistry and in vivo studies and utilizes the outcome of these basic research studies for drug discovery for infectious diseases. We majorly focus on designing anti-TB molecules primarily through a target-based approach.",
+      "research_areas": [
+        "Molecular Biology",
+        "Biochemistry",
+        "Structural Biology",
+        "Drug Discovery"
+      ],
+      "research_keywords": [
+        "drug"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Utkal University, Bhubaneshwar, India Ph. D. Molecular Biophysics Unit, IISc, Bangalore, India Postdoctoral Research Dept. of Biochemistry, University of Alberta, Canada"
+        ],
+        "postdoc_experience": [
+          "M. Sc. Utkal University, Bhubaneshwar, India Ph. D. Molecular Biophysics Unit, IISc, Bangalore, India Postdoctoral Research Dept. of Biochemistry, University of Alberta, Canada"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [],
+      "group_members": "Deepsikha Kar, Soumya Banerjee, Swati Kumari, Varun Kumar, Mohini, Shivika Goyal, Yojana Vaidya, Vivek Kumar",
+      "collaboration_potential": [
+        "Active Research Group",
+        "Drug Discovery"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-bichitra-k-biswal",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Bichitra K. Biswal specializes in My laboratory aims at understanding the structural, functional and essentiality aspects of proteins  of metabolic pathways using structural biology, biochemistry and in vivo studies and utilizes the o...",
+      "career_level": "Unknown",
+      "research_focus_breadth": 4
+    },
+    {
+      "faculty_id": "dr_p_nagarajan_profile",
+      "name": "Dr. P. Nagarajan",
+      "email": "nagarajan@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Chemical Biology & Structural Biology",
+      "research_interest": "Laboratory animals, Animal models, Metabolic Disease",
+      "research_areas": [
+        "General Biology"
+      ],
+      "research_keywords": [],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Qualification- B.Vet .Sci, . Tamil Nadu Veterinary and Animal Science University FELESA Certificate course in Laboratory Animals –Utrecht University Postdoctoral Research National University of Singapore"
+        ],
+        "postdoc_experience": [
+          "Qualification- B.Vet .Sci, M. Sc. Tamil Nadu Veterinary and Animal Science University FELESA Certificate course in Laboratory Animals –Utrecht University Postdoctoral Research National University of Singapore"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [],
+      "group_members": "",
+      "collaboration_potential": [],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-p-nagarajan",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. P. Nagarajan specializes in Laboratory animals, Animal models, Metabolic Disease",
+      "career_level": "Unknown",
+      "research_focus_breadth": 1
+    },
+    {
+      "faculty_id": "dr_agam_p_singh_profile",
+      "name": "Dr. Agam P. Singh",
+      "email": "singhap@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Immunity & Infection",
+      "research_interest": "Malaria Liver-stage Biology,\nKey words\n: Parasite Knockout and Life cycle study, Antigen discovery, Malaria Vaccine, Drug discovery, Transcriptome, Protein-Protein interaction, Host-Parasite interaction, Genomics.",
+      "research_areas": [
+        "Malaria Research",
+        "Immunology",
+        "Computational Biology",
+        "Molecular Biology",
+        "Vaccine Development",
+        "Drug Discovery"
+      ],
+      "research_keywords": [
+        "protein",
+        "malaria",
+        "drug",
+        "vaccine",
+        "antigen",
+        "genomics",
+        "transcriptome",
+        "parasite"
+      ],
+      "techniques_methods": [
+        "knockout",
+        "genomics"
+      ],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Maharaja Sayajirao University, Vadodara, Gujrat, India Ph. D. Jawaharlal Nehru University, India Postdoctoral Research New York University, Langone Medical Centre, New York, USA"
+        ],
+        "postdoc_experience": [
+          "M. Sc Maharaja Sayajirao University, Vadodara, Gujrat, India Ph. D. Jawaharlal Nehru University, India Postdoctoral Research New York University, Langone Medical Centre, New York, USA"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "Ramalingaswami Fellow, DBT, India, 2009-2014",
+          "year": "2009",
+          "category": "Fellowship"
+        }
+      ],
+      "group_members": "",
+      "collaboration_potential": [
+        "Drug Discovery",
+        "Vaccine Development"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-agam-p-singh",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Agam P. Singh specializes in Malaria Liver-stage Biology,\nKey words\n: Parasite Knockout and Life cycle study, Antigen discovery, Malaria Vaccine, Drug discovery, Transcriptome, Protein-Protein interaction, Host-Parasite interacti...",
+      "career_level": "Mid Career",
+      "research_focus_breadth": 6
+    },
+    {
+      "faculty_id": "dr_devinder_sehgal_profile",
+      "name": "Dr. Devinder Sehgal",
+      "email": "devinder@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Immunity & Infection",
+      "research_interest": "Microbial Interface Biology and associated host immune response\nKey words:\nStreptococcus pneumoniae; Pathogenesis; Virulence factors; Mechanism of protection and immune evasion; Molecular Biology of B lymphocytes; Monoclonal antibodies",
+      "research_areas": [
+        "Immunology",
+        "Molecular Biology",
+        "Infectious Diseases"
+      ],
+      "research_keywords": [
+        "immune"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Jawaharlal Nehru University, New Delhi Ph. D. Jawaharlal Nehru University, New Delhi Postdoctoral Research Visiting Fellow, Laboratory of Immunology National Institute of Allergy and Infectious Diseases, NIH, USA Staff Scientist, Laboratory of Immunology National Institute of Allergy and Infectious Diseases, NIH, USA"
+        ],
+        "postdoc_experience": [
+          "M. Sc. Jawaharlal Nehru University, New Delhi Ph. D. Jawaharlal Nehru University, New Delhi Postdoctoral Research Visiting Fellow, Laboratory of Immunology National Institute of Allergy and Infectious Diseases, NIH, USA Staff Scientist, Laboratory of Immunology National Institute of Allergy and Infectious Diseases, NIH, USA"
+        ],
+        "visiting_positions": [
+          "M. Sc. Jawaharlal Nehru University, New Delhi Ph. D. Jawaharlal Nehru University, New Delhi Postdoctoral Research Visiting Fellow, Laboratory of Immunology National Institute of Allergy and Infectious Diseases, NIH, USA Staff Scientist, Laboratory of Immunology National Institute of Allergy and Infectious Diseases, NIH, USA"
+        ]
+      },
+      "awards": [],
+      "group_members": "Sachin Kushwaha, Shabnam, Ankita Yadav, Pratiksha Shome, Jashobanta Behera, Rashi Jain, Rambodh Maurya and Chandradeep Roy",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-devinder-sehgal",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Devinder Sehgal specializes in Microbial Interface Biology and associated host immune response\nKey words:\nStreptococcus pneumoniae; Pathogenesis; Virulence factors; Mechanism of protection and immune evasion; Molecular Biology of B...",
+      "career_level": "Unknown",
+      "research_focus_breadth": 3
+    },
+    {
+      "faculty_id": "dr_pushkar_sharma_profile",
+      "name": "Dr. Pushkar Sharma",
+      "email": "pushkar@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Genetics, Cell Signalling & Cancer Biology Faculty of NII",
+      "research_interest": "Dissection of eukaryotic cell signaling pathways.",
+      "research_areas": [
+        "General Biology"
+      ],
+      "research_keywords": [
+        "signaling",
+        "cell"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Bareilly College, Bareilly, Rohilkhand University, India Ph. D. All India Institute of Medical Sciences, New Delhi, India Postdoctoral Research Fogarty Post-doctoral Fellow, Laboratory of Neurochemistry, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, USA"
+        ],
+        "postdoc_experience": [
+          "M. Sc. Bareilly College, Bareilly, Rohilkhand University, India Ph. D. All India Institute of Medical Sciences, New Delhi, India Postdoctoral Research Fogarty Post-doctoral Fellow, Laboratory of Neurochemistry, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, USA"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "Fellow of Indian National Science Academy",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fellow of the National Academy of Science India",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "J.C. Bose National Fellowship (2017, 2022)",
+          "year": "2017",
+          "category": "Fellowship"
+        },
+        {
+          "award": "National Bioscience Award (2008)",
+          "year": "2008",
+          "category": "Award"
+        },
+        {
+          "award": "Senior Research Fellow, The Wellcome Trust, UK (2002)",
+          "year": "2002",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Shanti Swarup Bhatnagar Award in Medicine (2013)",
+          "year": "2013",
+          "category": "Award"
+        },
+        {
+          "award": "Swarnajayanti Fellowship (2008)",
+          "year": "2008",
+          "category": "Fellowship"
+        }
+      ],
+      "group_members": "Akanksha Rawat, Komal Singh, Annu Nagar, Meenakshi, Ankita Paraste, Shubham Attre, Nainy Goel, Priya Tiwari, Sakshi Chaudhary",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-pushkar-sharma",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Pushkar Sharma specializes in Dissection of eukaryotic cell signaling pathways.",
+      "career_level": "Senior",
+      "research_focus_breadth": 1
+    },
+    {
+      "faculty_id": "dr_sarika_gupta_profile",
+      "name": "Dr. Sarika Gupta",
+      "email": "sarika@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Chemical Biology & Structural Biology",
+      "research_interest": "Neurodegenerative diseases, protein misfolding, inhibitor designing, chronic diseases",
+      "research_areas": [
+        "Molecular Biology",
+        "Drug Discovery"
+      ],
+      "research_keywords": [
+        "protein"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Banaras Hindu University Ph. D. Banaras Hindu University Postdoctoral Research Indian Institute of Sciences"
+        ],
+        "postdoc_experience": [
+          "M. Sc. Banaras Hindu University Ph. D. Banaras Hindu University Postdoctoral Research Indian Institute of Sciences"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "2010: Visiting scientist to University of Miami",
+          "year": "2010",
+          "category": "Other"
+        },
+        {
+          "award": "2011: NASI Young scientist award",
+          "year": "2011",
+          "category": "Award"
+        },
+        {
+          "award": "2013: SERB-DST women excellence award",
+          "year": "2013",
+          "category": "Award"
+        },
+        {
+          "award": "2014: Smt. Kusum Sharma Oration Award, Indian Academy of Biomedical Sciences",
+          "year": "2014",
+          "category": "Award"
+        },
+        {
+          "award": "2023-Tata Innovation Fellowship",
+          "year": "2023",
+          "category": "Fellowship"
+        }
+      ],
+      "group_members": "Kajal Kamble, Aishwarya Srikant Nilakhe, Moh. Azad, Arundhati Karmakar, Sumnil Bhola",
+      "collaboration_potential": [
+        "Active Research Group",
+        "Drug Discovery"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-sarika-gupta",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Sarika Gupta specializes in Neurodegenerative diseases, protein misfolding, inhibitor designing, chronic diseases",
+      "career_level": "Senior",
+      "research_focus_breadth": 2
+    },
+    {
+      "faculty_id": "dr_narendra_kumar_profile",
+      "name": "Dr. Narendra Kumar",
+      "email": "narendra@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Chemical Biology & Structural Biology",
+      "research_interest": "Computational Immunology, Immunoinformatics, Computational Genomics, Elucidation of gene regulatory networks.",
+      "research_areas": [
+        "Immunology",
+        "Computational Biology",
+        "Molecular Biology"
+      ],
+      "research_keywords": [
+        "gene",
+        "immunology",
+        "genomics",
+        "computational"
+      ],
+      "techniques_methods": [
+        "genomics"
+      ],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Dr. B. R. Ambedkar Center for Biomedical Research, University of Delhi, Delhi Ph. D. National Institute of Immunology, New Delhi Postdoctoral Research Georgia Institute of Technology, Atlanta, USA University of Glasgow, Glasgow, UK"
+        ],
+        "postdoc_experience": [
+          "M. Sc. Dr. B. R. Ambedkar Center for Biomedical Research, University of Delhi, Delhi Ph. D. National Institute of Immunology, New Delhi Postdoctoral Research Georgia Institute of Technology, Atlanta, USA University of Glasgow, Glasgow, UK"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [],
+      "group_members": "",
+      "collaboration_potential": [
+        "Computational Collaboration"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-narendra-kumar",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Narendra Kumar specializes in Computational Immunology, Immunoinformatics, Computational Genomics, Elucidation of gene regulatory networks.",
+      "career_level": "Unknown",
+      "research_focus_breadth": 3
+    },
+    {
+      "faculty_id": "dr_monica_sundd_profile",
+      "name": "Dr. Monica Sundd",
+      "email": "monicasundd@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Chemical Biology & Structural Biology",
+      "research_interest": "Structure-function relationship studies, protein structure, interactions, surface energetics, binding studies using NMR",
+      "research_areas": [
+        "Molecular Biology",
+        "Biochemistry",
+        "Structural Biology"
+      ],
+      "research_keywords": [
+        "protein",
+        "nmr",
+        "structure"
+      ],
+      "techniques_methods": [
+        "nmr"
+      ],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Banaras Hindu University, India Ph. D. Banaras Hindu University, India Postdoctoral Research The University of Iowa, Iowa State University, RCSB, Rutgers-The State University of New Jersey"
+        ],
+        "postdoc_experience": [
+          "M. Sc. Banaras Hindu University, India Ph. D. Banaras Hindu University, India Postdoctoral Research The University of Iowa, Iowa State University, RCSB, Rutgers-The State University of New Jersey"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [],
+      "group_members": "Rashima Prem, Debodyuti Sadhukhan, Shivangi Vaish, Yogita",
+      "collaboration_potential": [
+        "Active Research Group",
+        "Structural Biology"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-monica-sundd",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Monica Sundd specializes in Structure-function relationship studies, protein structure, interactions, surface energetics, binding studies using NMR",
+      "career_level": "Unknown",
+      "research_focus_breadth": 3
+    },
+    {
+      "faculty_id": "dr_g_senthil_kumar_profile",
+      "name": "Dr. G. Senthil Kumar",
+      "email": "gskumar@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Chemical Biology & Structural Biology",
+      "research_interest": "Protein-protein interactions, NMR Spectroscopy, X-ray Crystallography, Antigen-antibody interactions, Epitope/paratope mapping, Structure-function relationship studies, Structural dynamics",
+      "research_areas": [
+        "Immunology",
+        "Molecular Biology",
+        "Structural Biology",
+        "Vaccine Development"
+      ],
+      "research_keywords": [
+        "protein",
+        "antibody",
+        "nmr",
+        "structure",
+        "x-ray",
+        "crystallography",
+        "antigen"
+      ],
+      "techniques_methods": [
+        "crystallography",
+        "nmr"
+      ],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "- . The American College, Madurai, India - Ph. D. Molecular Biophysics Unit, IISc, Bangalore, India - Post Doctoral Research Doctoral Fellow, Northwestern University, Evanston, IL, USA - Research Associate, Brown University, Providence, RI, USA - Assistant Professor (Research), Brown University, Providence, RI, USA - Research Assistant Professor, University of Arizona, Tucson, AZ, USA - Assistant Professor (In-Residence), University of Connecticut Health Center, Farmington, CT, USA"
+        ],
+        "postdoc_experience": [],
+        "visiting_positions": []
+      },
+      "awards": [],
+      "group_members": "Mr. Sunder Singh Bisht, Mr. Rahul Yadav, Dr. Prakhar Agrawal, Dr. Adarsh Kumar Chiranjivi, Dr. Anamika Sharma, Dr. Hemant Arya",
+      "collaboration_potential": [
+        "Active Research Group",
+        "Structural Biology"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-g-senthil-kumar",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. G. Senthil Kumar specializes in Protein-protein interactions, NMR Spectroscopy, X-ray Crystallography, Antigen-antibody interactions, Epitope/paratope mapping, Structure-function relationship studies, Structural dynamics",
+      "career_level": "Unknown",
+      "research_focus_breadth": 4
+    },
+    {
+      "faculty_id": "dr_s_gopalan_sampathkumar_profile",
+      "name": "Dr. S. Gopalan Sampathkumar",
+      "email": "gopalan@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Chemical Biology & Structural Biology",
+      "research_interest": "We strive to exploit the power of synthetic small molecules for development of tools for ‘glycomics/glycoproteomics’, carbohydrate-based inhibitors, and synthetic oligosaccharide-based conjugate vaccines. Using ‘chemical biology’ approaches we are investigating structure-function relationships of glycoforms of leukocyte antigens, engineering of glycans in central nervous system (CNS), and glycopeptidomimetics based anti-metastatic agents.",
+      "research_areas": [
+        "Immunology",
+        "Computational Biology",
+        "Biochemistry",
+        "Structural Biology",
+        "Vaccine Development",
+        "Drug Discovery"
+      ],
+      "research_keywords": [
+        "structure"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "University of Madras, Chennai Ph. D. Indian Institute of Science, Bangalore Postdoctoral Research Eidgenössische Technische Hochschule (ETH), Zürich, Switzerland. National Institute of Child Health and Human Development (NICHD), NIH, USA. The Johns Hopkins University Baltimore, MD, USA."
+        ],
+        "postdoc_experience": [
+          "M. Sc. University of Madras, Chennai Ph. D. Indian Institute of Science, Bangalore Postdoctoral Research Eidgenössische Technische Hochschule (ETH), Zürich, Switzerland. National Institute of Child Health and Human Development (NICHD), NIH, USA. The Johns Hopkins University Baltimore, MD, USA."
+        ],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "Ramalingaswami Fellowship, Department of Biotechnology (DBT), Government of India.",
+          "year": "",
+          "category": "Fellowship"
+        }
+      ],
+      "group_members": "Ms. Surbhi Goswami, Ms. Vandita Dwivedi, Ms. Pratima Saini, Ms. Ahana Addhya, Ms. Anam Tasneem, Mr. Shubham Parashar, and Ms. Charu Chauhan\nTechnical Support - Ms. Archana Ranjan, Mr. Mohd. Aslam, Mr. P. Rajkumar\nPast Members - Dr. Kavita Agarwal, Dr. Asif Shajahan, Dr. Syed Meheboob Ahmed, Dr. Rachna Kaul, Ms. Monika Garg, Ms. Deepshikha Singh, Ms. Priti Singh, Ms. Hemaswasthi, Mr. Saroj Kumar Jha, Mr. Sebanta (Sanjay) Pokhrel, Mr. Arnob Nandi.",
+      "collaboration_potential": [
+        "Active Research Group",
+        "Drug Discovery",
+        "Vaccine Development",
+        "Structural Biology"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-s-gopalan-sampathkumar",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. S. Gopalan Sampathkumar specializes in We strive to exploit the power of synthetic small molecules for development of tools for ‘glycomics/glycoproteomics’, carbohydrate-based inhibitors, and synthetic oligosaccharide-based conjugate vacci...",
+      "career_level": "Mid Career",
+      "research_focus_breadth": 6
+    },
+    {
+      "faculty_id": "dr_veena_s_patil_profile",
+      "name": "Dr. Veena S. Patil",
+      "email": "veena@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Immunity & Infection",
+      "research_interest": "Human immunology, Infectious diseases, Non-coding RNAs, Genomics",
+      "research_areas": [
+        "Immunology",
+        "Computational Biology",
+        "Molecular Biology"
+      ],
+      "research_keywords": [
+        "immunology",
+        "genomics"
+      ],
+      "techniques_methods": [
+        "genomics"
+      ],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "University of Agricultural Sciences, Dharwad, Karnataka, India Ph. D. Temasek Life Sciences Laboratory, Singapore (PhD awarded by Nanyang Technological University, Singapore) Past Affiliations Post Doctoral training Sanford Burnham Prebys Medical Discovery Institute (SBPMDI), La Jolla, USA. University of California San Diego (UCSD), USA La Jolla Institute for Immunology (LJI), La Jolla, USA"
+        ],
+        "postdoc_experience": [],
+        "visiting_positions": []
+      },
+      "awards": [],
+      "group_members": "Raunak Kar (PhD Student 2019 batch), Kirti Sharma (PhD student 2020 batch), Shreya Sinha (PhD student 2022 batch), Sarojini Minj (Technical Officer), Nandlal Arya (Technician), Fajar PM (MS student), Aparna Rai (JRF), Imam (SRF)",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-veena-s-patil",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Veena S. Patil specializes in Human immunology, Infectious diseases, Non-coding RNAs, Genomics",
+      "career_level": "Unknown",
+      "research_focus_breadth": 3
+    },
+    {
+      "faculty_id": "dr_nimesh_gupta_profile",
+      "name": "Dr. Nimesh Gupta",
+      "email": "nimesh.gupta@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Immunity & Infection",
+      "research_interest": "Our group works in the area of virus immunology. The goal is to identify the determinants of long-lasting protective humoral immunity. Major emphasis is on understanding the biology and traits of CD4+ follicular T helper (T\nfh\n) cells that are indispensable for the generation of germinal center derived humoral immunity. The long-term goal is to identify and harness the positive attributes of T\nfh\ncells for rational designing of vaccines.",
+      "research_areas": [
+        "Immunology",
+        "Molecular Biology",
+        "Infectious Diseases",
+        "Vaccine Development",
+        "Virology"
+      ],
+      "research_keywords": [
+        "immunology",
+        "virus"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "- . Jiwaji University - Ph. D. Jiwaji University - Past Affiliations National Institute of Health and Medical Research, - INSERM-UMRS-1138, Paris, France Institute Pasteur, Paris, France"
+        ],
+        "postdoc_experience": [],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "2008-2010: Brig. K.M. Rao Award, Defence R&D Establishment, India",
+          "year": "2008",
+          "category": "Award"
+        },
+        {
+          "award": "2008: Raman-Charpak Fellowship, Institute Pasteur, Paris, France",
+          "year": "2008",
+          "category": "Fellowship"
+        },
+        {
+          "award": "2013: European Federation of Immunological Societies Young Investigator Award",
+          "year": "2013",
+          "category": "Award"
+        },
+        {
+          "award": "2013: International Society of Thrombosis & Haemostasis Young Investigator Award",
+          "year": "2013",
+          "category": "Award"
+        },
+        {
+          "award": "2016: Global Health Travel Award of Bill and Melinda Gates Foundation",
+          "year": "2016",
+          "category": "Award"
+        },
+        {
+          "award": "2016: Martin Villar Award",
+          "year": "2016",
+          "category": "Award"
+        },
+        {
+          "award": "2016: Ramalingaswami Fellowship",
+          "year": "2016",
+          "category": "Fellowship"
+        },
+        {
+          "award": "2019: The Merieux Foundation Fellowship for the Advancement in Vaccinology",
+          "year": "2019",
+          "category": "Fellowship"
+        },
+        {
+          "award": "2020: Early Career Faculty Award by American Association of Immunology",
+          "year": "2020",
+          "category": "Award"
+        },
+        {
+          "award": "2021: Young Scientist award, India International Science Festival-2020",
+          "year": "2021",
+          "category": "Award"
+        },
+        {
+          "award": "2022: ​Mid-Career Immunologist Oration Award by the Indian Immunology Society for the contribution in the area of “T cell immunity to vaccines”",
+          "year": "2022",
+          "category": "Award"
+        }
+      ],
+      "group_members": "Asgar Ansari, Bhushan Nikam, Someshwar Nath Jha, Suvechchha Pandit, Bhanu Pratap Singh (PhD scholars); Sathi Mallick (Postdoctoral fellows); Yatish Thakarey, Asha Kushwaha (Project staff); Sudipta Das, Inderjit Singh (Technical officers)",
+      "collaboration_potential": [
+        "Active Research Group",
+        "Vaccine Development"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-nimesh-gupta",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Nimesh Gupta specializes in Our group works in the area of virus immunology. The goal is to identify the determinants of long-lasting protective humoral immunity. Major emphasis is on understanding the biology and traits of CD4+...",
+      "career_level": "Senior",
+      "research_focus_breadth": 5
+    },
+    {
+      "faculty_id": "dr_sagar_sengupta_profile",
+      "name": "Dr. Sagar Sengupta",
+      "email": "sagar@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Genetics, Cell Signalling & Cancer Biology Faculty of NII",
+      "research_interest": "Understanding the basis of genome instability in nucleus and mitochondria which leads to neoplastic transformation and carcinogenesis",
+      "research_areas": [
+        "Cell Biology",
+        "Molecular Biology"
+      ],
+      "research_keywords": [],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Calcutta University, India Ph. D. Indian Institute of Science, Bangalore, India Postdoctoral Research Institut de Genetique et de Biologie Moleculaire et Cellulaire, Strasbourg, France. Laboratory of Human Carcinogenesis, National Cancer Institute, National Institutes of Health, Bethesda, Maryland, USA."
+        ],
+        "postdoc_experience": [
+          "M. Sc. Calcutta University, India Ph. D. Indian Institute of Science, Bangalore, India Postdoctoral Research Institut de Genetique et de Biologie Moleculaire et Cellulaire, Strasbourg, France. Laboratory of Human Carcinogenesis, National Cancer Institute, National Institutes of Health, Bethesda, Maryland, USA."
+        ],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "1. 1991 - Silver medallist in M.Sc., University of Calcutta, India.",
+          "year": "1991",
+          "category": "Other"
+        },
+        {
+          "award": "2. 2022 - Elected Vice President of Indian Association of Cancer Research",
+          "year": "2022",
+          "category": "Other"
+        },
+        {
+          "award": "3. 2023 - GK Manna Memorial Award Lecture by All India Congress of Genetics and Genomics",
+          "year": "2023",
+          "category": "Award"
+        },
+        {
+          "award": "4. 2023 - Lalji Singh Memorial Award Lecture by the Society for Mitochondrial Research & Medicine",
+          "year": "2023",
+          "category": "Award"
+        },
+        {
+          "award": "5. 2024 - J C Bose Fellowship (2nd term)",
+          "year": "2024",
+          "category": "Fellowship"
+        },
+        {
+          "award": "6. 1997 - Best thesis award, Department of Microbiology and Cell Biology, Indian Institute of Science, Bangalore, India.",
+          "year": "1997",
+          "category": "Award"
+        },
+        {
+          "award": "7. 2011 - National Bioscience award for Career Development by Department of Biotechnology, India",
+          "year": "2011",
+          "category": "Award"
+        },
+        {
+          "award": "8. 2011 - Elected as a member of Guha Research Conference",
+          "year": "2011",
+          "category": "Other"
+        },
+        {
+          "award": "9. 2015 - Elected Fellow of the National Academy of Science (NASI)",
+          "year": "2015",
+          "category": "Fellowship"
+        },
+        {
+          "award": "10. 2017 - Elected Fellow of the Indian Academy of Sciences (IASc)",
+          "year": "2017",
+          "category": "Fellowship"
+        },
+        {
+          "award": "11. 2017 - Elected Fellow of the Indian National Science Academy (INSA)",
+          "year": "2017",
+          "category": "Fellowship"
+        },
+        {
+          "award": "12. 2018 - J C Bose Fellowship",
+          "year": "2018",
+          "category": "Fellowship"
+        },
+        {
+          "award": "13. 2021 - Professor Vishwa Nath Memorial Award Lecture by INSA",
+          "year": "2021",
+          "category": "Award"
+        }
+      ],
+      "group_members": "In BRIC-NII: Ritu Agrawal, Aftab Mohammed, RimpyArun, Savita, Tavleen Kaur\nIn BRIC-NIBMG: Sadananda Kumbhakar, Hanif Ahmed\nJunior Research Fellow - In BRIC-NII:Vandana Sharma\nTechnical Assistant - In BRIC-NII: Chetana Mukherjee",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-sagar-sengupta",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Sagar Sengupta specializes in Understanding the basis of genome instability in nucleus and mitochondria which leads to neoplastic transformation and carcinogenesis",
+      "career_level": "Senior",
+      "research_focus_breadth": 2
+    },
+    {
+      "faculty_id": "dr_anil_kumar_profile",
+      "name": "Dr. Anil Kumar",
+      "email": "anilk@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Genetics, Cell Signalling & Cancer Biology Faculty of NII",
+      "research_interest": "Microbiome and Human Cancer",
+      "research_areas": [
+        "General Biology"
+      ],
+      "research_keywords": [
+        "cancer"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Indian Institute of Technology, Roorkee Ph. D. Institute of Genomics and Integrative Biology (CSIR), New Delhi."
+        ],
+        "postdoc_experience": [],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "'Young Scientist Award’ from IUBMB, 2006.",
+          "year": "2006",
+          "category": "Award"
+        },
+        {
+          "award": "CSIR Technology Award, 2012.",
+          "year": "2012",
+          "category": "Award"
+        },
+        {
+          "award": "Merck Millipore India Innovation Award, 2012.",
+          "year": "2012",
+          "category": "Award"
+        },
+        {
+          "award": "Merit Scholarship from DBT during M.Sc. at IIT Roorkee.",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "‘Young Investigator Award’ from HUPO, 2004.",
+          "year": "2004",
+          "category": "Award"
+        }
+      ],
+      "group_members": "",
+      "collaboration_potential": [],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-anil-kumar",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Anil Kumar specializes in Microbiome and Human Cancer",
+      "career_level": "Early Career",
+      "research_focus_breadth": 1
+    },
+    {
+      "faculty_id": "dr_prafullakumar_b_tailor_profile",
+      "name": "Dr. Prafullakumar B. Tailor",
+      "email": "tailorp@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Immunity & Infection",
+      "research_interest": "Dendritic cell Biology, Innate Immunity, Interferon regulatory factors (IRF), Toll like receptors (TLRs), Transcription Regulation of DC differentiation, Applied Immunology.",
+      "research_areas": [
+        "Immunology",
+        "Cell Biology",
+        "Molecular Biology"
+      ],
+      "research_keywords": [
+        "immunology",
+        "cell"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Institute of Science, University of Mumbai, India Ph. D. Cancer Research Institute, University of Mumbai, India Postdoctoral Research Section on Molecular Genetics of Immunity, Laboratory of Molecular Growth Regulation, National Institute for Child Health and Human Development (NICHD), National Institutes of Health (NIH), USA."
+        ],
+        "postdoc_experience": [
+          "M. Sc. Institute of Science, University of Mumbai, India Ph. D. Cancer Research Institute, University of Mumbai, India Postdoctoral Research Section on Molecular Genetics of Immunity, Laboratory of Molecular Growth Regulation, National Institute for Child Health and Human Development (NICHD), National Institutes of Health (NIH), USA."
+        ],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "Mid-career scientist Award from Indian immunology Society (IIS).",
+          "year": "",
+          "category": "Award"
+        },
+        {
+          "award": "Ramalingaswami Re-entry Fellowship 2020-2021 of the Department of Biotechnology (DBT), Govt. of India.",
+          "year": "2020",
+          "category": "Fellowship"
+        }
+      ],
+      "group_members": "Ramya Venkataraman, Dr. Yadhu Sharma, Ajay Kumar, Anshul Kushwaha, Rajkumar Mane, Ajay Bansal, Monika",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-prafullakumar-b-tailor",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Prafullakumar B. Tailor specializes in Dendritic cell Biology, Innate Immunity, Interferon regulatory factors (IRF), Toll like receptors (TLRs), Transcription Regulation of DC differentiation, Applied Immunology.",
+      "career_level": "Mid Career",
+      "research_focus_breadth": 3
+    },
+    {
+      "faculty_id": "dr_chhuttan_lal_meena_profile",
+      "name": "Dr. Chhuttan Lal Meena",
+      "email": "cl.meena@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Chemical Biology & Structural Biology",
+      "research_interest": "Our research integrates medicinal chemistry and target-based drug design to develop novel therapeutics, with a particular focus on peptides and small organic molecules. We employ a multidisciplinary approach that combines synthetic chemistry, in silico modelling, and biological evaluation.\nKey Techniques:\nPeptide and Organic Synthesis: Solid-phase and solution-phase synthesis of linear and cyclic peptides, including head-to-tail cyclization, partial cyclization, and chemical modifications to generate diverse peptide libraries. Computational Drug Design: Molecular docking and molecular dynamics (MD) simulations to predict and refine target-ligand interactions. Comprehensive analysis using 1H/13C NMR, DEPT, optical rotation, UV spectroscopy, LC-MS, and HRMS for structural confirmation and purity assessment. Biological and Biophysical Assays: Ligand-receptor and enzyme-based assays, including biochemical and biophysical evaluations of activity. X-ray crystallography (in collaboration) to elucidate target-ligand structures at atomic resolution.\nResearch Goal:\nThis project is focused on the design and optimization of peptide-based libraries and small-molecule scaffolds to modulate clinically relevant biological targets. The overarching aim is to develop novel antimicrobial agents, vaccine adjuvants, cancer therapeutics, and gene-targeting platforms. A major thrust of this research involves the use of artificial oligonucleotide-based systems particularly peptide nucleic acids (PNAs) as antimicrobial agents with mechanisms distinct from those of existing antibiotics, offering the potential for complete eradication of harmful microbial infections.\nOur lab includes the development of artificial nucleobase-containing PNAs and PNA mimics that function as sequence-specific inhibitors of double-stranded DNA or pre-mRNA, acting through antisense or antigene mechanisms. These synthetic oligonucleotides enable precise manipulation of gene function within cells, opening new avenues for the treatment of a wide range of diseases. Notably, we have discovered novel hybrid nucleobases, hypothesizing that these structural innovations can be harnessed to selectively interfere with essential bacterial gene expression. The current project will synthesize short artificial oligonucleotides incorporating these hybrid nucleobases, with the goal of developing next-generation PNA-based antibiotics targeting bacterial transcription and translation pathways critical for survival.",
+      "research_areas": [
+        "Immunology",
+        "Computational Biology",
+        "Molecular Biology",
+        "Biochemistry",
+        "Infectious Diseases",
+        "Structural Biology",
+        "Vaccine Development",
+        "Drug Discovery"
+      ],
+      "research_keywords": [
+        "enzyme",
+        "antimicrobial",
+        "nmr",
+        "computational",
+        "gene",
+        "drug",
+        "vaccine",
+        "x-ray",
+        "crystallography",
+        "dna",
+        "cancer"
+      ],
+      "techniques_methods": [
+        "crystallography",
+        "molecular dynamics",
+        "nmr"
+      ],
+      "qualifications": {
+        "degrees": [
+          "Ph. D"
+        ],
+        "institutions": [
+          "M.S. National Institute of Pharmaceutical Education and Research, Mohali, India . National Institute of Pharmaceutical Education and Research, Mohali, India Post Doctoral Research National Chemical Laboratory, Pune, Maharashtra, India. Washington Universityin St. Louis, MO. USA."
+        ],
+        "postdoc_experience": [],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "2006: Engineering and Technology Fellowship awards, University Grant Commission New Delhi, India",
+          "year": "2006",
+          "category": "Fellowship"
+        },
+        {
+          "award": "2007: Rajiv Gandhi National Fellowship Awards, University Grant Commission New Delhi, India",
+          "year": "2007",
+          "category": "Fellowship"
+        },
+        {
+          "award": "2011: Fulbright-Nehru Doctoral Fellowship award USIEF, NIH/NIDDK, MD, USA",
+          "year": "2011",
+          "category": "Fellowship"
+        }
+      ],
+      "group_members": "Mr. Vineet Singh (Lab assistant)\nMs. Udita Ghosh (PhD Scholar)\nMs. Priyanka Subba (PhD Scholar)\nMs. Nitika Arora (PhD Scholar)",
+      "collaboration_potential": [
+        "Active Research Group",
+        "Computational Collaboration",
+        "Drug Discovery",
+        "Vaccine Development",
+        "Structural Biology",
+        "Clinical Research"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-chhuttan-lal-meena",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Chhuttan Lal Meena specializes in Our research integrates medicinal chemistry and target-based drug design to develop novel therapeutics, with a particular focus on peptides and small organic molecules. We employ a multidisciplinary a...",
+      "career_level": "Senior",
+      "research_focus_breadth": 8
+    },
+    {
+      "faculty_id": "dr_arnab_mukhopadhyay_profile",
+      "name": "Dr. Arnab Mukhopadhyay",
+      "email": "arnab@nii.ac.in",
+      "faculty_status": "current",
+      "department": "Genetics, Cell Signalling & Cancer Biology Faculty of NII",
+      "research_interest": "Longevity, dietary restriction, diet-gene interactions, Insulin-IGF-1 signalling pathway, metabolism, stress response, germline development, reproductive aging, cell signaling, cross-tissue communications.",
+      "research_areas": [
+        "Molecular Biology",
+        "Biochemistry"
+      ],
+      "research_keywords": [
+        "gene",
+        "signaling",
+        "cell"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "University of Delhi, India Ph. D. University of Delhi, India Postdoctoral Research University of Massachusetts Medical School, Worcester, MA, USA."
+        ],
+        "postdoc_experience": [
+          "M. Sc. University of Delhi, India Ph. D. University of Delhi, India Postdoctoral Research University of Massachusetts Medical School, Worcester, MA, USA."
+        ],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "Elected Fellow, Indian National Science Academy (INSA), 2021.",
+          "year": "2021",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Elected Fellow, The National Academy of Sciences (NASI), India, 2019",
+          "year": "2019",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Elected Member of Guha Research Conference (GRC) (2017)",
+          "year": "2017",
+          "category": "Other"
+        },
+        {
+          "award": "JC Bose Fellowship (2023)",
+          "year": "2023",
+          "category": "Fellowship"
+        },
+        {
+          "award": "National Bioscience Award for Career Development (2016), Department of Biotechnology, Govt. of India",
+          "year": "2016",
+          "category": "Award"
+        },
+        {
+          "award": "Ramalingaswami Fellowship (2009-2014), Department of Biotechnology, Govt. of India",
+          "year": "2009",
+          "category": "Fellowship"
+        },
+        {
+          "award": "SERB-Science Technology Award for Research (STAR) award, 2019",
+          "year": "2019",
+          "category": "Award"
+        }
+      ],
+      "group_members": "Umanshi Rautela, Sabnam Sahin Rahman, Simran Motwani, Jasleen Kaur, Sonu Gupta, Pankaj Mahto, Nitika Arora and Shreya Putatunda\nVisiting students : Nafees Ansari, Animesh Kar, Nafees Ansari, Trishna Pani",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/faculty/dr-arnab-mukhopadhyay",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Arnab Mukhopadhyay specializes in Longevity, dietary restriction, diet-gene interactions, Insulin-IGF-1 signalling pathway, metabolism, stress response, germline development, reproductive aging, cell signaling, cross-tissue communicat...",
+      "career_level": "Senior",
+      "research_focus_breadth": 2
+    }
+  ],
+  "statistics": {
+    "total_faculty": 29,
+    "department_distribution": {
+      "Genetics, Cell Signalling & Cancer Biology Faculty of NII": 10,
+      "Chemical Biology & Structural Biology": 11,
+      "Immunity & Infection": 8
+    },
+    "research_area_distribution": {
+      "Cell Biology": 5,
+      "Molecular Biology": 22,
+      "Infectious Diseases": 6,
+      "Malaria Research": 2,
+      "Computational Biology": 7,
+      "Biochemistry": 9,
+      "Structural Biology": 7,
+      "Immunology": 12,
+      "Drug Discovery": 10,
+      "Virology": 2,
+      "General Biology": 5,
+      "Vaccine Development": 5
+    },
+    "career_level_distribution": {
+      "Senior": 12,
+      "Mid Career": 5,
+      "Unknown": 10,
+      "Early Career": 2
+    },
+    "award_categories": {
+      "Other": 15,
+      "Fellowship": 39,
+      "Award": 43,
+      "Early Career": 1
+    },
+    "collaboration_areas": {
+      "Active Research Group": 24,
+      "Clinical Research": 2,
+      "Computational Collaboration": 4,
+      "Structural Biology": 5,
+      "Drug Discovery": 10,
+      "Vaccine Development": 4
+    },
+    "top_keywords": {
+      "protein": 7,
+      "signaling": 4,
+      "pathogen": 1,
+      "tuberculosis": 1,
+      "cellular": 2,
+      "dna": 2,
+      "cancer": 5,
+      "parasite": 2,
+      "simulation": 1,
+      "bioinformatics": 1,
+      "structure": 4,
+      "computational": 4,
+      "intracellular": 1,
+      "inflammation": 2,
+      "modeling": 1,
+      "gene": 4,
+      "drug": 5,
+      "antimicrobial": 2,
+      "folding": 1,
+      "malaria": 1,
+      "vaccine": 2,
+      "antigen": 2,
+      "genomics": 3,
+      "transcriptome": 1,
+      "immune": 1,
+      "cell": 3,
+      "immunology": 4,
+      "nmr": 3,
+      "antibody": 1,
+      "x-ray": 2,
+      "crystallography": 2,
+      "virus": 1,
+      "enzyme": 1
+    },
+    "average_research_breadth": 3.1724137931034484
+  }
+}

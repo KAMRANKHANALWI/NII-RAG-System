@@ -1,0 +1,293 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Narendra Kumar",
+    "email": "narendra@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-narendra-kumar",
+    "research_domain": "Chemical Biology, Biochemistry & Structural Biology",
+    "faculty_status": "current",
+    "search_date": "2025-07-01T14:34:28.520763",
+    "total_publications": 10,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Narendra Kumar, current faculty in Chemical Biology, Biochemistry & Structural Biology at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "29727646",
+      "title": "Improved catalytic properties of a serine hydroxymethyl transferase from Idiomarina loihiensis by site directed mutagenesis.",
+      "authors": [
+        "Ashok Kumar",
+        "Gaobing Wu",
+        "Zuo Wu",
+        "Narendra Kumar",
+        "Ziduo Liu"
+      ],
+      "year": "2018",
+      "journal": "International journal of biological macromolecules",
+      "doi": "10.1016/j.ijbiomac.2018.05.003",
+      "doi_link": "https://doi.org/10.1016/j.ijbiomac.2018.05.003",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29727646",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Improved%20catalytic%20properties%20of%20a%20serine%20hydroxymethyl%20transferase%20from%20Idiomarina%20loihiensis%20by%20site%20directed%20mutagenesis%22",
+      "citations": {
+        "crossref": 10
+      },
+      "abstract": "A novel *glyA* gene was screened from a marine bacterium, *Idiomarina loihiensis* encoding a thermo-stable serine hydroxymethyl transferase (SHMT; 418 AA; 45.4 kDa). The activities of wild type (WT) and mutants were analyzed against d-phenylserine using pyrodoxal-5-phosphate (PLP) as cofactor under optimized conditions. Based on homology modelling and molecular docking, several residues were found that may be able to improve the activity of WT-SHMT. Site directed mutagenesis was conducted. The activity and thermostability of the wild type SHMT was improved by two variants H61G and G132P, which showed a noteworthy change in the thermo-stability and activity as compared to WT. To investigate the mechanism of activity of mutants, we combined two residues into one mutant DUAL. WT showed the optimum activity at 50 °C, whereas H61G, G132P and DUAL had the temperature optima of 55, 60 and 60 °C, respectively. These mutants G132P, H61G and DUAL were quite stable at 45 and 55 °C as compared to WT. Dual mutant was relatively more stable at all tested pH(s) while WT loses its activity in alkaline pH(s). Kinetics studies indicated the 1.52, 2.42 and 4.54 folds increase in the *kcat* value of H61G, G132P and Dual mutants as compared to WT respectively. The molecular docking indicated that hydrophobic interactions are more prominent than hydrogen-bonding and had more influence on ligand binding and active site cavity. The molecular dynamics showed the changed RMSD values for ligand and formation of new hydrogen bonds, hydrophobic interaction which considerably increased the activity and thermo-stability of the mutant proteins as compared to WT. Thus, increased stabilities at higher temperatures and activities can be attributed to new hydrogen bonding, altered active site geometry and increased ligand interactions.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "35128258",
+      "title": "Expression, Purification, and Refolding of Chikungunya Virus Full-Length Envelope E2 Protein along with B-Cell and T-Cell Epitope Analyses Using Immuno-Informatics Approaches.",
+      "authors": [
+        "Manisha Shukla",
+        "Pankaj Chandley",
+        "Suman Tapryal",
+        "Narendra Kumar",
+        "Sulakshana P Mukherjee",
+        "Soma Rohatgi"
+      ],
+      "year": "2022",
+      "journal": "ACS omega",
+      "doi": "10.1021/acsomega.1c05975",
+      "doi_link": "https://doi.org/10.1021/acsomega.1c05975",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35128258",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Expression%2C%20Purification%2C%20and%20Refolding%20of%20Chikungunya%20Virus%20Full-Length%20Envelope%20E2%20Protein%20along%20with%20B-Cell%20and%20T-Cell%20Epitope%20Analyses%20Using%20Immuno-Informatics%20Approaches%22",
+      "citations": {
+        "semantic_scholar": 9
+      },
+      "abstract": "Chikungunya virus (CHIKV) is a mosquito-transmitted alphavirus, which causes severe illness in humans and is responsible for epidemic outbreaks in Africa, Asia, North and South America, and Europe. Despite its increased global prevalence, no licensed vaccines are available to date for treating or preventing CHIKV infection. The envelope E2 protein is one of the promising subunit vaccine candidates against CHIKV. In this study, we describe successful cloning, expression, and purification of CHIKV E2 full-length (E2-FL) and truncated (E2-ΔC and E2-ΔNC) proteins in the *Escherichia coli* expression system. The recombinant E2 proteins were purified from inclusion bodies using Ni-NTA chromatography. Further, we describe a detailed refolding procedure for obtaining the CHIKV E2-FL protein in native conformation, which was confirmed using circular dichroism and Fourier transform infrared spectroscopy. BALB/c mice immunized with the three different E2 proteins exhibited increased E2-specific antibody titers compared to sham-immunized controls, suggesting induction of strong humoral immune response. On analyzing the E2-specific antibody response generated in immunized mice, the CHIKV E2-FL protein was observed to be the most immunogenic among the three different CHIKV E2 antigens used in the study. Our B-cell and T-cell epitope mapping results indicate that the presence of specific immunogenic peptides located in the N-terminal and C-terminal regions of the CHIKV E2-FL protein may contribute to its increased immunogenicity, compared to truncated CHIKV E2 proteins. In summary, our study provides a detailed protocol for expressing, purifying, and refolding of the CHIKV E2-FL protein and provides an understanding of its immunogenic epitopes, which can be exploited for the development of novel multiepitope-based anti-CHIKV vaccine strategies.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "28460065",
+      "title": "SBSPKSv2: structure-based sequence analysis of polyketide synthases and non-ribosomal peptide synthetases.",
+      "authors": [
+        "Shradha Khater",
+        "Money Gupta",
+        "Priyesh Agrawal",
+        "Neetu Sain",
+        "Jyoti Prava",
+        "Priya Gupta",
+        "Mansi Grover",
+        "Narendra Kumar",
+        "Debasisa Mohanty"
+      ],
+      "year": "2017",
+      "journal": "Nucleic acids research",
+      "doi": "10.1093/nar/gkx344",
+      "doi_link": "https://doi.org/10.1093/nar/gkx344",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28460065",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22SBSPKSv2%3A%20structure-based%20sequence%20analysis%20of%20polyketide%20synthases%20and%20non-ribosomal%20peptide%20synthetases%22",
+      "citations": {
+        "crossref": 55
+      },
+      "abstract": "Genome guided discovery of novel natural products has been a promising approach for identification of new bioactive compounds. SBSPKS web-server has been a valuable resource for analysis of polyketide synthase (PKS) and non-ribosomal peptide synthetase (NRPS) gene clusters. We have developed an updated version - SBSPKSv2 which is based on comprehensive analysis of sequence, structure and secondary metabolite chemical structure data from 311 experimentally characterized PKS/NRPS gene clusters with known biosynthetic products. A completely new feature of SBSPKSv2 is the inclusion of features for search in chemical space. It allows the user to compare the chemical structure of a given secondary metabolite to the chemical structures of biosynthetic intermediates and final products. For identification of catalytic domains, SBSPKS now uses profile based searches, which are computationally faster and have high sensitivity. HMM profiles have also been added for a number of new domains and motif information has been used for distinguishing condensation (C), epimerization (E) and cyclization (Cy) domains of NRPS. In summary, the new and updated SBSPKSv2 is a versatile tool for genome mining and analysis of polyketide and non-ribosomal peptide biosynthetic pathways in chemical space. The server is available at: http://www.nii.ac.in/sbspks2.html.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "22539638",
+      "title": "Novel insights into the regulation of malarial calcium-dependent protein kinase 1.",
+      "authors": [
+        "Anwar Ahmed",
+        "Kavita Gaadhe",
+        "Guru Prasad Sharma",
+        "Narendra Kumar",
+        "Mirela Neculai",
+        "Raymond Hui",
+        "Debasisa Mohanty",
+        "Pushkar Sharma"
+      ],
+      "year": "2012",
+      "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "doi": "10.1096/fj.12-203877",
+      "doi_link": "https://doi.org/10.1096/fj.12-203877",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22539638",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Novel%20insights%20into%20the%20regulation%20of%20malarial%20calcium-dependent%20protein%20kinase%201%22",
+      "citations": {
+        "crossref": 24
+      },
+      "abstract": "Calcium-dependent protein kinases (CDPKs) are major effectors of calcium signaling in apicomplexan parasites like Toxoplasma and Plasmodium and control important processes of the parasite life cycle. Despite recently reported crystal structures of Toxoplasma gondii (Tg)CDPKs, several important questions about their regulation remain unanswered. Plasmodium falciparum (Pf)CDPK1 has emerged as a key player in the life cycle of the malaria parasite, as it may be involved in the invasion of the host cells. Molecular modeling and site-directed mutagenesis studies on PfCDPK1 suggested that several residues in the regulatory domain play a dual role, as they seem to contribute to the stabilization of both the active and inactive kinase. Mass spectrometry revealed that PfCDPK1 was autophosphorylated at several sites; some of these were placed at strategic locations and therefore were found to be critical for kinase activation. The N-terminal extension of PfCDPK1 was found to be important for PfCDPK1 activation. Unexpectedly, an ATP binding site in the NTE of PfCDPK1 was identified. Our studies highlight several novel features of PfCDPK1 regulation, which may be shared by other members of the CDPK family. These findings may also aid design of inhibitors against these important targets, which are absent from the host.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "20444870",
+      "title": "SBSPKS: structure based sequence analysis of polyketide synthases.",
+      "authors": [
+        "Swadha Anand",
+        "M V R Prasad",
+        "Gitanjali Yadav",
+        "Narendra Kumar",
+        "Jyoti Shehara",
+        "Md Zeeshan Ansari",
+        "Debasisa Mohanty"
+      ],
+      "year": "2010",
+      "journal": "Nucleic acids research",
+      "doi": "10.1093/nar/gkq340",
+      "doi_link": "https://doi.org/10.1093/nar/gkq340",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20444870",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22SBSPKS%3A%20structure%20based%20sequence%20analysis%20of%20polyketide%20synthases%22",
+      "citations": {
+        "crossref": 161
+      },
+      "abstract": "Polyketide synthases (PKSs) catalyze biosynthesis of a diverse family of pharmaceutically important secondary metabolites. Bioinformatics analysis of sequence and structural features of PKS proteins plays a crucial role in discovery of new natural products by genome mining, as well as in design of novel secondary metabolites by biosynthetic engineering. The availability of the crystal structures of various PKS catalytic and docking domains, and mammalian fatty acid synthase module prompted us to develop SBSPKS software which consists of three major components. Model_3D_PKS can be used for modeling, visualization and analysis of 3D structure of individual PKS catalytic domains, dimeric structures for complete PKS modules and prediction of substrate specificity. Dock_Dom_Anal identifies the key interacting residue pairs in inter-subunit interfaces based on alignment of inter-polypeptide linker sequences to the docking domain structure. In case of modular PKS with multiple open reading frames (ORFs), it can predict the cognate order of substrate channeling based on combinatorial evaluation of all possible interface contacts. NRPS-PKS provides user friendly tools for identifying various catalytic domains in the sequence of a Type I PKS protein and comparing them with experimentally characterized PKS/NRPS clusters cataloged in the backend databases of SBSPKS. SBSPKS is available at http://www.nii.ac.in/sbspks.html.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "20953500",
+      "title": "Structure-based identification of MHC binding peptides: Benchmarking of prediction accuracy.",
+      "authors": [
+        "Narendra Kumar",
+        "Debasisa Mohanty"
+      ],
+      "year": "2010",
+      "journal": "Molecular bioSystems",
+      "doi": "10.1039/c0mb00013b",
+      "doi_link": "https://doi.org/10.1039/c0mb00013b",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20953500",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structure-based%20identification%20of%20MHC%20binding%20peptides%3A%20Benchmarking%20of%20prediction%20accuracy%22",
+      "citations": {
+        "crossref": 7
+      },
+      "abstract": "Identification of MHC binding peptides is essential for understanding the molecular mechanism of immune response. However, most of the prediction methods use motifs/profiles derived from experimental peptide binding data for specific MHC alleles, thus limiting their applicability only to those alleles for which such data is available. In this work we have developed a structure-based method which does not require experimental peptide binding data for training. Our method models MHC-peptide complexes using crystal structures of 170 MHC-peptide complexes and evaluates the binding energies using two well known residue based statistical pair potentials, namely Betancourt-Thirumalai (BT) and Miyazawa-Jernigan (MJ) matrices. Extensive benchmarking of prediction accuracy on a data set of 1654 epitopes from class I and class II alleles available in the SYFPEITHI database indicate that BT pair-potential can predict more than 60% of the known binders in case of 14 MHC alleles with AUC values for ROC curves ranging from 0.6 to 0.9. Similar benchmarking on 29,522 class I and class II MHC binding peptides with known IC(50) values in the IEDB database showed AUC values higher than 0.6 for 10 class I alleles and 9 class II alleles in predictions involving classification of a peptide to be binder or non-binder. Comparison with recently available benchmarking studies indicated that, the prediction accuracy of our method for many of the class I and class II MHC alleles was comparable to the sequence based methods, even if it does not use any experimental data for training. It is also encouraging to note that the ranks of true binding peptides could further be improved, when high scoring peptides obtained from pair potential were re-ranked using all atom forcefield and MM/PBSA method.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "19910306",
+      "title": "Identification of substrates for Ser/Thr kinases using residue-based statistical pair potentials.",
+      "authors": [
+        "Narendra Kumar",
+        "Debasisa Mohanty"
+      ],
+      "year": "2010",
+      "journal": "Bioinformatics (Oxford, England)",
+      "doi": "10.1093/bioinformatics/btp633",
+      "doi_link": "https://doi.org/10.1093/bioinformatics/btp633",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19910306",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Identification%20of%20substrates%20for%20Ser/Thr%20kinases%20using%20residue-based%20statistical%20pair%20potentials%22",
+      "citations": {
+        "semantic_scholar": 16
+      },
+      "abstract": "MOTIVATION: In silico methods are being widely used for identifying substrates for various kinases and deciphering cell signaling networks. However, most of the available phosphorylation site prediction methods use motifs or profiles derived from a known data set of kinase substrates and hence, their applicability is limited to only those kinase families for which experimental substrate data is available. This prompted us to develop a novel multi-scale structure-based approach which does not require training using experimental substrate data. RESULTS: In this work, for the first time, we have used residue-based statistical pair potentials for scoring the binding energy of various substrate peptides in complex with kinases. Extensive benchmarking on Phospho.ELM data set indicate that our method outperforms other structure-based methods and has a prediction accuracy comparable to available sequence-based methods. We also demonstrate that the rank of the true substrate can be further improved, if the high-scoring candidate substrates that are short-listed based on pair potential score, are modeled using all atom forcefield and MM/PBSA approach. SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics Online.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "17478500",
+      "title": "MODPROPEP: a program for knowledge-based modeling of protein-peptide complexes.",
+      "authors": [
+        "Narendra Kumar",
+        "Debasisa Mohanty"
+      ],
+      "year": "2007",
+      "journal": "Nucleic acids research",
+      "doi": "10.1093/nar/gkm266",
+      "doi_link": "https://doi.org/10.1093/nar/gkm266",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17478500",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22MODPROPEP%3A%20a%20program%20for%20knowledge-based%20modeling%20of%20protein-peptide%20complexes%22",
+      "citations": {
+        "semantic_scholar": 27
+      },
+      "abstract": "MODPROPEP is a web server for knowledge-based modeling of protein-peptide complexes, specifically peptides in complex with major histocompatibility complex (MHC) proteins and kinases. The available crystal structures of protein-peptide complexes in PDB are used as templates for modeling peptides of desired sequence in the substrate-binding pocket of MHCs or protein kinases. The substrate peptides are modeled using the same backbone conformation as in the template and the side-chain conformations are obtained by the program SCWRL. MODPROPEP provides a number of user-friendly interfaces for visualizing the structure of the modeled protein-peptide complexes and analyzing the contacts made by the modeled peptide ligand in the substrate-binding pocket of the MHC or protein kinase. Analysis of these specific inter-molecular contacts is crucial for understanding structural basis of the substrate specificity of these two protein families. This software also provides appropriate interfaces for identifying, putative MHC-binding peptides in the sequence of an antigen or phosphorylation sites on the substrate protein of a kinase, by scoring these inter-molecular contacts using residue-based statistical pair potentials. MODPROPEP would complement various available sequence-based programs (SYFPEITHI, SCANSITE, etc.) for predicting substrates of MHCs and protein kinases. The program is available at http://www.nii.res.in/modpropep.html.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "unknown",
+      "title": "Getting Phosphorylated: Is it Necessary to be Solvent Accessible ?",
+      "authors": [
+        "Narendra Kumar",
+        "Nikhil Prakash Damle",
+        "Debasisa Mohanty"
+      ],
+      "year": "2015",
+      "journal": "Proceedings of the Indian National Science Academy",
+      "doi": "https://insa.nic.in/writereaddata/UpLoadedFiles/PINSA/Vol81_2015_2_Art15.pdf",
+      "doi_link": "https://doi.org/https://insa.nic.in/writereaddata/UpLoadedFiles/PINSA/Vol81_2015_2_Art15.pdf",
+      "pubmed_link": "",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Getting%20Phosphorylated%3A%20Is%20it%20Necessary%20to%20be%20Solvent%20Accessible%20%3F%22",
+      "citations": {
+        "crossref": 3
+      },
+      "abstract": "The solvent accessibility of the Ser/Thr/Tyr containing peptide stretches in the substrate proteins of various kinases are likely to play a major role in substrate recognition by various kinases. Even though some of the computational tools make use of the solvent accessibility probabilities for prediction of phosphosites, no systematic analysis has been carried to investigate the solvent accessibilities of known phosphorylation sites. In this study , we have systematically analyzed the solvent accessibilities of serine, threonine and tyrosine containing phosphorylation sites in known substrate proteins by mapping them onto PDB structures, and compared with the accessibilities of sites which are not phosphorylated. The average relative solvent accessible area of phosphorylation site residues was found to be significantly more than their nonphosphorylated counterparts. The difference between phospho and non-phospho residues was statistically significant as judged by Wilcoxon test p-values of 2.20 × 10⁻¹⁶ , 5.07 × 10⁻⁶ and 2.34 × 10⁻⁸ for serine, threonine and tyrosine containing sites respectively. Nonetheless, there are several known phosphorylation sites whose relative accessible surface areas are lower than 10Ų , thus these sites are not accessible on the surface of the substrate protein. MD simulations on representative protein structures suggest that, thermal fluctuations at 300K can significantly enhance the accessibilities of such buried Ser/ Thr/ Tyr containing peptides, thus making them available for phosphorylation. Thus our analysis highlights the fact that, it would be in general difficult to set a deterministic criterion based on accessibility values for identifying potential phosphorylation sites.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "22923291",
+      "title": "EFICAz2.5: application of a high-precision enzyme function predictor to 396 proteomes.",
+      "authors": [
+        "Narendra Kumar",
+        "Jeffrey Skolnick"
+      ],
+      "year": "2012",
+      "journal": "Bioinformatics (Oxford, England)",
+      "doi": "10.1093/bioinformatics/bts510",
+      "doi_link": "https://doi.org/10.1093/bioinformatics/bts510",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22923291",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22EFICAz2.5%3A%20application%20of%20a%20high-precision%20enzyme%20function%20predictor%20to%20396%20proteomes%22",
+      "citations": {
+        "crossref": 59
+      },
+      "abstract": "UNLABELLED: High-quality enzyme function annotation is essential for understanding the biochemistry, metabolism and disease processes of organisms. Previously, we developed a multi-component high-precision enzyme function predictor, EFICAz(2) (enzyme function inference by a combined approach). Here, we present an updated improved version, EFICAz(2.5), that is trained on a significantly larger data set of enzyme sequences and PROSITE patterns. We also present the results of the application of EFICAz(2.5) to the enzyme reannotation of 396 genomes cataloged in the ENSEMBL database. AVAILABILITY: The EFICAz(2.5) server and database is freely available with a use-friendly interface at http://cssb.biology.gatech.edu/EFICAz2.5.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 10,
+    "publications_by_year": {
+      "2022": 1,
+      "2018": 1,
+      "2017": 1,
+      "2015": 1,
+      "2012": 2,
+      "2010": 3,
+      "2007": 1
+    },
+    "top_journals": [
+      "Nucleic acids research",
+      "Bioinformatics (Oxford, England)",
+      "International journal of biological macromolecules",
+      "ACS omega",
+      "FASEB journal : official publication of the Federation of American Societies for Experimental Biology"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 26,
+      "frequent_collaborators": [
+        "Debasisa Mohanty",
+        "Narendra Kumar",
+        "Gaobing Wu",
+        "Zuo Wu",
+        "Ziduo Liu",
+        "Pankaj Chandley",
+        "Suman Tapryal",
+        "Sulakshana P Mukherjee"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "20444870",
+        "title": "SBSPKS: structure based sequence analysis of polyketide synthases.",
+        "citations": 161,
+        "year": "2010"
+      },
+      {
+        "publication_id": "22923291",
+        "title": "EFICAz2.5: application of a high-precision enzyme function predictor to 396 proteomes.",
+        "citations": 59,
+        "year": "2012"
+      },
+      {
+        "publication_id": "28460065",
+        "title": "SBSPKSv2: structure-based sequence analysis of polyketide synthases and non-ribosomal peptide synthetases.",
+        "citations": 55,
+        "year": "2017"
+      }
+    ]
+  }
+}

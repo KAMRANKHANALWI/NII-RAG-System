@@ -1,0 +1,412 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Janendra K Batra",
+    "email": "janendra@nii.res.in",
+    "source_url": "https://www.nii.res.in/en/former-faculty/dr-janendra-k-batra",
+    "research_domain": "Former",
+    "faculty_status": "former",
+    "search_date": "2025-06-27T11:40:36.252019",
+    "total_publications": 16,
+    "last_updated": "2025-06-27",
+    "description": "This document contains a complete list of publications by Dr. Janendra K Batra, former faculty in Former at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "11342552",
+      "title": "Interaction of human pancreatic ribonuclease with human ribonuclease inhibitor. Generation of inhibitor-resistant cytotoxic variants.",
+      "authors": [
+        "D Gaur",
+        "S Swaminathan",
+        "J K Batra"
+      ],
+      "year": "2001",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M102440200",
+      "doi_link": "https://doi.org/10.1074/jbc.M102440200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/11342552",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Interaction%20of%20human%20pancreatic%20ribonuclease%20with%20human%20ribonuclease%20inhibitor.%20Generation%20of%20inhibitor-resistant%20cytotoxic%20variants%22",
+      "citations": {
+        "crossref": 44
+      },
+      "abstract": "Mammalian ribonucleases interact very strongly with the intracellular ribonuclease inhibitor (RI). Eukaryotic cells exposed to mammalian ribonucleases are protected from their cytotoxic action by the intracellular inhibition of ribonucleases by RI. Human pancreatic ribonuclease (HPR) is structurally and functionally very similar to bovine RNase A and interacts with human RI with a high affinity. In the current study, we have investigated the involvement of Lys-7, Gln-11, Asn-71, Asn-88, Gly-89, Ser-90, and Glu-111 in HPR in its interaction with human ribonuclease inhibitor. These contact residues were mutated either individually or in combination to generate mutants K7A, Q11A, N71A, E111A, N88R, G89R, S90R, K7A/E111A, Q11A/E111A, N71A/E111A, K7A/N71A/E111A, Q11A/N71A/E111A, and K7A/Q11A/N71A/E111A. Out of these, eight mutants, K7A, Q11A, N71A, S90R, E111A, Q11A/E111A, N71A/E111A, and K7A/N71A/E111A, showed an ability to evade RI more than the wild type HPR, with the triple mutant K7A/N71A/E111A having the maximum RI resistance. As a result, these variants exhibited higher cytotoxic activity than wild type HPR. The mutation of Gly-89 in HPR produced no change in the sensitivity of HPR for RI, whereas it has been reported that mutating the equivalent residue Gly-88 in RNase A yielded a variant with increased RI resistance and cytotoxicity. Hence, despite its considerable homology with RNase A, HPR shows differences in its interaction with RI. We demonstrate that interaction between human pancreatic ribonuclease and RI can be disrupted by mutating residues that are involved in HPR-RI binding. The inhibitor-resistant cytotoxic HPR mutants should be useful in developing therapeutic molecules.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "10620501",
+      "title": "Inclusion of a furin-sensitive spacer enhances the cytotoxicity of ribotoxin restrictocin containing recombinant single-chain immunotoxins.",
+      "authors": [
+        "A Goyal",
+        "J K Batra"
+      ],
+      "year": "2000",
+      "journal": "The Biochemical journal",
+      "doi": null,
+      "doi_link": "",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/10620501",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Inclusion%20of%20a%20furin-sensitive%20spacer%20enhances%20the%20cytotoxicity%20of%20ribotoxin%20restrictocin%20containing%20recombinant%20single-chain%20immunotoxins%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "Chimaeric toxins have considerable therapeutic potential to treat various malignancies. We have previously used the fungal ribonucleolytic toxin restrictocin to make chimaeric toxins in which the ligand was fused at either the N-terminus or the C-terminus of the toxin. Chimaeric toxins containing ligand at the C-terminus of restrictocin were shown to be more active than those having ligand at the N-terminus of the toxin. Here we describe the further engineering of restrictocin-based chimaeric toxins, anti-TFR(scFv)-restrictocin and restrictocin-anti-TFR(scFv), containing restrictocin and a single chain fragment variable (scFv) of a monoclonal antibody directed at the human transferrin receptor (TFR), to enhance their cell-killing activity. To promote the independent folding of the two proteins in the chimaeric toxin, a linear flexible peptide, Gly-Gly-Gly-Gly-Ser, was inserted between the toxin and the ligand to generate restrictocin-linker-anti-TFR(scFv) and anti-TFR(scFv)-linker-restrictocin. A 12-residue spacer, Thr-Arg-His-Arg-Gln-Pro-Arg-Gly-Trp-Glu-Gln-Leu, containing the recognition site for the protease furin, was incorporated between the toxin and the ligand to generate restrictocin-spacer-anti-TFR(scFv) and anti-TFR(scFv)-spacer-restrictocin. The incorporation of the proteolytically cleavable spacer enhanced the cell-killing activity of both constructs by 2-30-fold depending on the target cell line. However, the introduction of linker improved the cytotoxic activity only for anti-TFR(scFv)-linker-restrictocin. The proteolytically cleavable spacer-containing chimaeric toxins had similar cytotoxic activities irrespective of the location of the ligand on the toxin and they were found to release the restrictocin fragment efficiently on proteolysis in vitro.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "11478878",
+      "title": "Mechanism of specific target recognition and RNA hydrolysis by ribonucleolytic toxin restrictocin.",
+      "authors": [
+        "S K Nayak",
+        "S Bagga",
+        "D Gaur",
+        "D T Nair",
+        "D M Salunke",
+        "J K Batra"
+      ],
+      "year": "2001",
+      "journal": "Biochemistry",
+      "doi": "10.1021/bi010923m",
+      "doi_link": "https://doi.org/10.1021/bi010923m",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/11478878",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mechanism%20of%20specific%20target%20recognition%20and%20RNA%20hydrolysis%20by%20ribonucleolytic%20toxin%20restrictocin%22",
+      "citations": {
+        "crossref": 10
+      },
+      "abstract": "Restrictocin, a member of the fungal ribotoxin family, specifically cleaves a single phosphodiester bond in the 28S rRNA and potently inhibits eukaryotic protein synthesis. Residues Tyr47, His49, Glu95, Phe96, Pro97, Arg120, and His136 have been predicted to form the active site of restrictocin. In this study, we have individually mutated these amino acids to alanine to probe their role in restrictocin structure and function. The role of Tyr47, His49, Arg120, and His136 was further investigated by making additional mutants. Mutating Arg120 or His136 to alanine or the other amino acids rendered the toxin completely inactive, whereas mutating Glu95 to alanine only partially inactivated the toxin. Mutation of Phe96 and Pro97 to Ala had no effect on the activity of restrictocin. The Tyr47 to alanine mutant was inactive in inhibiting protein synthesis, and had a nonspecific ribonuclease activity on 28S rRNA similar to that shown previously for the His49 to Ala mutant. Unlike the His136 to Ala mutant, the double mutants containing Tyr47 or His49 mutated to alanine along with His136 did not compete with restrictocin to cause a significant reduction in the extent of cleavage of 28S rRNA. In a model of restrictocin and a 29-mer RNA substrate complex, residues Tyr47, His49, Glu95, Arg120, and His136 were found to be near the cleavage site on RNA. It is proposed that in restrictocin Glu95 and His136 are directly involved in catalysis, Arg120 is involved in the stabilization of the enzyme-substrate complex, Tyr47 provides structural stability to the active site, and His49 determines the substrate specificity.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "12466280",
+      "title": "The cytotoxic activity of ribosome-inactivating protein saporin-6 is attributed to its rRNA N-glycosidase and internucleosomal DNA fragmentation activities.",
+      "authors": [
+        "Shveta Bagga",
+        "Divya Seth",
+        "Janendra K Batra"
+      ],
+      "year": "2003",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M207389200",
+      "doi_link": "https://doi.org/10.1074/jbc.M207389200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12466280",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20cytotoxic%20activity%20of%20ribosome-inactivating%20protein%20saporin-6%20is%20attributed%20to%20its%20rRNA%20N-glycosidase%20and%20internucleosomal%20DNA%20fragmentation%20activities%22",
+      "citations": {
+        "semantic_scholar": 74
+      },
+      "abstract": "Saporin-6 produced by the plant Saponaria officinalis belongs to the family of single chain ribosome-inactivating proteins. It potently inhibits protein synthesis in eukaryotic cells, by cleaving the N-glycosidic bond of a specific adenine in 28 S rRNA, which results in the cell death. Saporin-6 has also been shown to be active on DNA and induces apoptosis. In the current study, we have investigated the roles of rRNA depurination and the activity of saporin-6 on genomic DNA in its cytotoxic activity. The role of putative active site residues, Tyr(72), Tyr(120), Glu(176), Arg(179), and Trp(208), and two invariant residues, Tyr(16) and Arg(24), proposed to be important for structural stability of saporin-6, has been investigated in its catalytic and cytotoxic activity. These residues were mutated to alanine to generate seven mutants, Y16A, R24A, Y72A, Y120A, E176A, R179A, and W208A. We show that for the RNA N-glycosidase activity of saporin-6, residues Tyr(16), Tyr(72), and Arg(179) are absolutely critical; Tyr(120) and Glu(176) can be partially dispensed with, whereas Trp(208) and Arg(24) do not appear to be involved in this activity. The residues Tyr(72), Tyr(120), Glu(176), Arg(179), and Trp(208) were found to be essential for the genomic DNA fragmentation activity, whereas residues Tyr(16) and Arg(24) do not appear to be required for the DNA fragmentation. The study shows that saporin-6 possesses two catalytic activities, namely RNA N-glycosidase and genomic DNA fragmentation activity, and for its complete cytotoxic activity both activities are required.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "16831127",
+      "title": "The differential catalytic activity of ribosome-inactivating proteins saporin 5 and 6 is due to a single substitution at position 162.",
+      "authors": [
+        "Paroma Ghosh",
+        "Janendra K Batra"
+      ],
+      "year": "2006",
+      "journal": "The Biochemical journal",
+      "doi": "10.1042/BJ20060895",
+      "doi_link": "https://doi.org/10.1042/BJ20060895",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16831127",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20differential%20catalytic%20activity%20of%20ribosome-inactivating%20proteins%20saporin%205%20and%206%20is%20due%20to%20a%20single%20substitution%20at%20position%20162%22",
+      "citations": {
+        "semantic_scholar": 16
+      },
+      "abstract": "Saporin, a type I ribosome-inactivating protein produced by the soapwort plant Saponaria officinalis belongs to a multigene family that encodes its several isoforms. The saporin seed isoform 6 has significantly higher N-glycosidase and cytotoxic activities compared with the seed isoform 5, although the two have identical active sites. In the present study, we have investigated the contribution of non-conservative amino acid changes outside the active sites of these isoforms towards their differential catalytic activity. The saporin 6 residues Lys134, Leu147, Phe149, Asn162, Thr188 and Asp196 were replaced by the corresponding saporin 5 residues, Gln134, Ser147, Ser149, Asp162, Ile188 and Asn196, to generate six variants of saporin 6, K134Q, L147S, F149S, N162D, T188I and D196N. By functional characterization, we show that the change in amino acid Asn162 in saporin 6 to aspartic acid residue of saporin 5 contributes mainly to the lower catalytic activity of saporin 5 compared with saporin 6. The non-involvement of other non-conservative amino acids in the differential catalytic activity of these isoforms was confirmed with the help of the double mutations N162D/K134Q, N162D/L147S, N162D/F149S, N162D/T188I and N162D/D196N.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "18611444",
+      "title": "Ribosome inactivating protein saporin induces apoptosis through mitochondrial cascade, independent of translation inhibition.",
+      "authors": [
+        "Deepa Sikriwal",
+        "Paroma Ghosh",
+        "Janendra K Batra"
+      ],
+      "year": "2008",
+      "journal": "The international journal of biochemistry & cell biology",
+      "doi": "10.1016/j.biocel.2008.06.004",
+      "doi_link": "https://doi.org/10.1016/j.biocel.2008.06.004",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18611444",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Ribosome%20inactivating%20protein%20saporin%20induces%20apoptosis%20through%20mitochondrial%20cascade%2C%20independent%20of%20translation%20inhibition%22",
+      "citations": {
+        "crossref": 44
+      },
+      "abstract": "Ribosome inactivating proteins (RIPs) are toxic translation inhibitors that kill eukaryotic cells by arresting protein synthesis at the translocation step. Saporin-6, expressed in the seeds of Saponaria officinalis plant, is a type I RIP comprising of a single polypeptide chain. Saporin is a specific RNA N-glycosidase and it removes a specific adenine residue from a conserved loop of the large rRNA of eukaryotic cells. Saporin-6 is one of the most potent of several isoforms of saporin, obtained from different tissues of the Saponaria plant. In addition to potently inhibiting translation, saporin has been also shown to induce cell death by apoptosis in different cellular models. To elucidate the mechanism of apoptosis induction by saporin, we have investigated the apoptotic pathway triggered by saporin. We have also analyzed whether the inhibition of protein synthesis by the toxin is the trigger for induction of apoptosis. We demonstrate that saporin-6 induces caspase-dependent apoptosis in U937 cells via the mitochondrial or intrinsic pathway. Unlike many other toxins the catalytic N-glycosidase activity of saporin is not required for apoptosis induction, and the apoptosis onset occurs before any significant inhibition of protein synthesis ensues.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "19016865",
+      "title": "Mycobacterium tuberculosis ClpC1: characterization and role of the N-terminal domain in its function.",
+      "authors": [
+        "Narayani P Kar",
+        "Deepa Sikriwal",
+        "Parthasarathi Rath",
+        "Rakesh K Choudhary",
+        "Janendra K Batra"
+      ],
+      "year": "2008",
+      "journal": "The FEBS journal",
+      "doi": "10.1111/j.1742-4658.2008.06738.x",
+      "doi_link": "https://doi.org/10.1111/j.1742-4658.2008.06738.x",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19016865",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mycobacterium%20tuberculosis%20ClpC1%3A%20characterization%20and%20role%20of%20the%20N-terminal%20domain%20in%20its%20function%22",
+      "citations": {
+        "crossref": 38
+      },
+      "abstract": "Caseinolytic protein, ClpC is a general stress protein which belongs to the heat shock protein HSP100 family of molecular chaperones. Some of the Clp group proteins have been identified as having a role in the pathogenesis of many bacteria. The Mycobacterium tuberculosis genome demonstrates the presence of a ClpC homolog, ClpC1. M. tuberculosis ClpC1 is an 848-amino acid protein, has two repeat sequences at its N-terminus and contains all the determinants to be classified as a member of the HSP100 family. In this study, we overexpressed, purified and functionally characterized M. tuberculosis ClpC1. Recombinant M. tuberculosis ClpC1 showed an inherent ATPase activity, and prevented protein aggregation. Furthermore, to investigate the contribution made by the N-terminal repeats of ClpC1 to its functional activity, two deletion variants, ClpC1Delta1 and ClpC1Delta2, lacking N-terminal repeat I and N-terminal repeat I along with the linker between N-terminal repeats I and II, respectively were generated. Neither deletion affected the ATPase activity. However, ClpC1Delta1 was structurally altered, less stable and was unable to prevent protein aggregation. Compared with wild-type protein, ClpC1Delta2 was more active in preventing protein aggregation and displayed higher ATPase activity at high pH values and temperatures. The study demonstrates that M. tuberculosis ClpC1 manifests chaperone activity in the absence of any adaptor protein and only one of the two N-terminal repeats is sufficient for the chaperone activity. Also, an exposed repeat II makes the protein more stable and functionally more active.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "21408145",
+      "title": "Functional role of glutamine 28 and arginine 39 in double stranded RNA cleavage by human pancreatic ribonuclease.",
+      "authors": [
+        "Md Tabish Rehman",
+        "Punyatirtha Dey",
+        "Md Imtaiyaz Hassan",
+        "Faizan Ahmad",
+        "Janendra K Batra"
+      ],
+      "year": "2011",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0017159",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0017159",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21408145",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Functional%20role%20of%20glutamine%2028%20and%20arginine%2039%20in%20double%20stranded%20RNA%20cleavage%20by%20human%20pancreatic%20ribonuclease%22",
+      "citations": {
+        "crossref": 14
+      },
+      "abstract": "Human pancreatic ribonuclease (HPR), a member of RNase A superfamily, has a high activity on double stranded (ds) RNA. By virtue of this activity HPR appears to be involved in the host-defense against pathogenic viruses. To delineate the mechanism of dsRNA cleavage by HPR, we have investigated the role of glutamine 28 and arginine 39 of HPR in its activity on dsRNA. A non-basic residue glycine 38, earlier shown to be important for dsRNA cleavage by HPR was also included in the study in the context of glutamine 28 and arginine 39. Nine variants of HPR respectively containing Q28A, Q28L, R39A, G38D, Q28A/R39A, Q28L/R39A, Q28A/G38D, R39A/G38D and Q28A/G38D/R39A mutations were generated and functionally characterized. The far-UV CD-spectral analysis revealed all variants, except R39A, to have structures similar to that of HPR. The catalytic activity of all HPR variants on single stranded RNA substrate was similar to that of HPR, whereas on dsRNA, the catalytic efficiency of all single residue variants, except for the Q28L, was significantly reduced. The dsRNA cleavage activity of R39A/G38D and Q28A/G38D/R39A variants was most drastically reduced to 4% of that of HPR. The variants having reduced dsRNA cleavage activity also had reduction in their dsDNA melting activity and thermal stability. Our results indicate that in HPR both glutamine 28 and arginine 39 are important for the cleavage of dsRNA. Although these residues are not directly involved in catalysis, both arginine 39 and glutamine 28 appear to be facilitating a productive substrate-enzyme interaction during the dsRNA cleavage by HPR.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "22581709",
+      "title": "An insertion in loop L7 of human eosinophil-derived neurotoxin is crucial for its antiviral activity.",
+      "authors": [
+        "Deepa Sikriwal",
+        "Divya Seth",
+        "Shama Parveen",
+        "Anu Malik",
+        "Shobha Broor",
+        "Janendra K Batra"
+      ],
+      "year": "2012",
+      "journal": "Journal of cellular biochemistry",
+      "doi": "10.1002/jcb.24187",
+      "doi_link": "https://doi.org/10.1002/jcb.24187",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22581709",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22An%20insertion%20in%20loop%20L7%20of%20human%20eosinophil-derived%20neurotoxin%20is%20crucial%20for%20its%20antiviral%20activity%22",
+      "citations": {
+        "crossref": 17
+      },
+      "abstract": "The human eosinophil granule ribonuclease, eosinophil-derived neurotoxin (EDN) has been shown to have antiviral activity against respiratory syncytial virus-B (RSV-B). Other closely related and more active RNases such as RNase A, onconase, and RNase k6 do not have any antiviral activity. A remarkable unique feature of EDN is a nine-residue insertion in its carboxy-terminal loop, L7 which is not present in RNase A, and differs in sequence from the corresponding loop in another eosinophil RNase, eosinophil cationic protein (ECP). ECP has a much lower antiviral activity as compared to EDN. The current study probed the role of loop L7 of EDN in its antiviral activity. Three residues in loop L7, Arg117, Pro120, and Gln122, which diverge between EDN, ECP, and RNase A, were mutated to alanine alone and in combination to generate single, double, and triple mutants. These mutants, despite having RNase activity had decreased antiviral activity towards RSV suggesting the involvement of loop L7 in the interaction of EDN with RSV. It appears that the mutations in loop L7 disrupt the interaction of protein with the viral capsid, thereby inhibiting its entry into the virions. The study demonstrates that besides the RNase activity, loop L7 is another important determinant for the antiviral activity of EDN.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "23284674",
+      "title": "The C-terminus of ClpC1 of Mycobacterium tuberculosis is crucial for its oligomerization and function.",
+      "authors": [
+        "Divya Bajaj",
+        "Janendra K Batra"
+      ],
+      "year": "2012",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0051261",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0051261",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23284674",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20C-terminus%20of%20ClpC1%20of%20Mycobacterium%20tuberculosis%20is%20crucial%20for%20its%20oligomerization%20and%20function%22",
+      "citations": {
+        "semantic_scholar": 8
+      },
+      "abstract": "Mycobacterium tuberculosis ClpC1 is a member of the Hsp100/Clp AAA+ family of ATPases. The primary sequence of ClpC1 contains two N-terminal domains and two nucleotide binding domains (NBD). The second NBD has a long C-terminal sub-domain containing several motifs important for substrate interaction. Generally, ClpC proteins are highly conserved, however presence of C-terminal domains of variable lengths is a remarkable difference in ClpC from different species. In this study, we constructed deletion mutants at the C-terminus of M. tuberculosis ClpC1 to determine its role in the structure and function of the protein. In addition, a deletion mutant having the two conserved N-terminal domains deleted was also constructed to investigate the role of these domains in M. tuberculosis ClpC1 function. The N-terminal domains were found to be dispensable for the formation of oligomeric structure, and ATPase and chaperone activities. However, deletions beyond a specific region in the C-terminus of the ClpC1 resulted in oligomerization defects and loss of chaperonic activity of the protein without affecting its ATPase activity. The truncated mutants, defective in oligomerization were also found to have lost the chaperonic activity, showing the formation of oligomer to be required for the chaperonic activity of M. tuberculosis ClpC1. The current study has identified a region in the C-terminus of M. tuberculosis ClpC1 which is essential for its oligomerization and in turn its function.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "25709025",
+      "title": "Ribotoxin restrictocin manifests anti-HIV-1 activity through its specific ribonuclease activity.",
+      "authors": [
+        "Santosh K Yadav",
+        "Janendra K Batra"
+      ],
+      "year": "2015",
+      "journal": "International journal of biological macromolecules",
+      "doi": "10.1016/j.ijbiomac.2015.01.062",
+      "doi_link": "https://doi.org/10.1016/j.ijbiomac.2015.01.062",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25709025",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Ribotoxin%20restrictocin%20manifests%20anti-HIV-1%20activity%20through%20its%20specific%20ribonuclease%20activity%22",
+      "citations": {
+        "semantic_scholar": 6
+      },
+      "abstract": "Restrictocin, a highly specific ribonuclease produced by Aspergillus restrictus, cleaves a single phosphodiester bond in a universally conserved stem and loop structure termed sarcin/ricin loop within the large ribosomal RNA of all organisms. In the current study, we demonstrate restrictocin to manifest anti-HIV-1 activity in two model cell systems. Using two mutants of restrictocin, we further show that the anti-HIV-1 activity of restrictocin is due to its specific ribonucleolytic activity. The study suggests that restrictocin is able to recognize region(s) within HIV-1 genome as its target. Restrictocin appears to have potential as a therapeutic antiviral agent against HIV-1.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "26442450",
+      "title": "Role of DnaK in HspR-HAIR interaction of Mycobacterium tuberculosis.",
+      "authors": [
+        "Priyanka Parijat",
+        "Janendra K Batra"
+      ],
+      "year": "2015",
+      "journal": "IUBMB life",
+      "doi": "10.1002/iub.1438",
+      "doi_link": "https://doi.org/10.1002/iub.1438",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26442450",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Role%20of%20DnaK%20in%20HspR-HAIR%20interaction%20of%20Mycobacterium%20tuberculosis%22",
+      "citations": {
+        "crossref": 12
+      },
+      "abstract": "Heat shock proteins (Hsps) are a highly conserved family of proteins. The regulation of expression of Hsps in Mycobacterium tuberculosis, is regulated both positively and negatively by alternate sigma factors and transcriptional DNA repressors, respectively. HspR is a negative regulator of expression of hsps, DnaK, ClpB, and Acr2 in M. tuberculosis. In this study, we expressed the M. tuberculosis HspR (MtHspR) in E. coli, and functionally characterized it. MtHspR independently bound to its putative cognate DNA, the HAIR element. MtHspR was found to exist in a dynamic mixture of dimeric and monomeric protein and presence of salt led to the formation of trimers which lacked the DNA binding activity. MtHspR was found to be heat stable with a Tm of 66°C. HspR-HAIR binding was stable upto 60°C suggesting that MtHspR is not the heat stress sensor. Mycobacterial DnaK was found to interact directly with MtHspR-HAIR complex in vitro in an ATP independent manner. The DnaK-HspR-HAIR binding pattern altered at high temperatures in the presence of aggregated α-casein substrate, suggesting that DnaK may indirectly be responding to heat stress in a feedback loop mechanism.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "26804985",
+      "title": "Insight into the role of histidine in RNR motif of protein component of RNase P of M. tuberculosis in catalysis.",
+      "authors": [
+        "Alla Singh",
+        "Anup K Ramteke",
+        "Tariq Afroz",
+        "Janendra K Batra"
+      ],
+      "year": "2016",
+      "journal": "IUBMB life",
+      "doi": "10.1002/iub.1472",
+      "doi_link": "https://doi.org/10.1002/iub.1472",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26804985",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Insight%20into%20the%20role%20of%20histidine%20in%20RNR%20motif%20of%20protein%20component%20of%20RNase%20P%20of%20M.%20tuberculosis%20in%20catalysis%22",
+      "citations": {
+        "crossref": 3
+      },
+      "abstract": "RNase P, a ribonucleoprotein endoribonuclease, is involved in the 5' end processing of pre-tRNAs, with its RNA component being the catalytic subunit. It is an essential enzyme. All bacterial RNase Ps have one RNA and one protein component. A conserved RNR motif in bacterial RNase P protein components is involved in their interaction with the RNA component. In this work, we have reconstituted the RNase P of M. tuberculosis in vitro and investigated the role of a histidine in the RNR motif in its catalysis. We expressed the protein and RNA components of mycobacterial RNase P in E. coli, purified them, and reconstituted the holoenzyme in vitro. The histidine in RNR motif was mutated to alanine and asparagine by site-directed mutagenesis. The RNA component alone showed activity on pre-tRNA(ala) substrate at high magnesium concentrations. The RNA and protein components associated together to manifest catalytic activity at low magnesium concentrations. The histidine 67 in the RNR motif of M. tuberculosis RNase P protein component was found to be important for the catalytic activity and stability of the enzyme. Generally, the RNase P of M. tuberculosis functions like other bacterial enzymes. The histidine in the RNR motif of M. tuberculosis appears to be able to substitute optimally for asparagine found in the majority of the protein components of other bacterial RNase P enzymes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "27088505",
+      "title": "Influence of Conformation of M. tuberculosis RNase P Protein Subunit on Its Function.",
+      "authors": [
+        "Alla Singh",
+        "Shah Ubaid-ullah",
+        "Anup K Ramteke",
+        "Janendra K Batra"
+      ],
+      "year": "2016",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0153798",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0153798",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27088505",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Influence%20of%20Conformation%20of%20M.%20tuberculosis%20RNase%20P%20Protein%20Subunit%20on%20Its%20Function%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "RNase P is an essential enzyme that processes 5' end leader sequence of pre-tRNA to generate mature tRNA. The bacterial RNase Ps contain a RNA subunit and one protein subunit, where the RNA subunit contains the catalytic activity. The protein subunit which lacks any catalytic activity, relaxes the ionic requirements for holoenzyme reaction and is indispensable for pre-tRNA cleavage in vivo. In the current study, we reconstituted the M. tuberculosis RNase P holoenzyme in vitro. We prepared the RNase P protein through two different strategies that differ in the conditions under which the recombinant M. tuberculosis protein, expressed in E. coli was purified. The mycobacterial RNase P protein which was purified under native conditions subsequent to isolation from inclusion bodies and in vitro renaturation, was capable of cleaving pre-tRNA specifically without the requirement of RNase P RNA. However, the preparation that was purified under denaturing conditions and refolded subsequently lacked any inherent pre-tRNA processing activity and cleaved the substrate only as a component of the holoenzyme with the RNA subunit. We found that the two RNase P protein preparations attained alternative conformations and differed with respect to their stability as well.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "27417238",
+      "title": "Functional role of putative critical residues in Mycobacterium tuberculosis RNase P protein.",
+      "authors": [
+        "Alla Singh",
+        "Shah Ubaid-Ullah",
+        "Janendra K Batra"
+      ],
+      "year": "2016",
+      "journal": "The international journal of biochemistry & cell biology",
+      "doi": "10.1016/j.biocel.2016.07.006",
+      "doi_link": "https://doi.org/10.1016/j.biocel.2016.07.006",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27417238",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Functional%20role%20of%20putative%20critical%20residues%20in%20Mycobacterium%20tuberculosis%20RNase%20P%20protein%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "RNase P is involved in processing the 5' end of pre-tRNA molecules. Bacterial RNase P contains a catalytic RNA subunit and a protein subunit. In this study, we have analyzed the residues in RNase P protein of M. tuberculosis that differ from the residues generally conserved in other bacterial RNase Ps. The residues investigated in the current study include the unique residues, Val27, Ala70, Arg72, Ala77, and Asp124, and also Phe23 and Arg93 which have been found to be important in the function of RNase P protein components of other bacteria. The selected residues were individually mutated either to those present in other bacterial RNase P protein components at respective positions or in some cases to alanine. The wild type and mutant M. tuberculosis RNase P proteins were expressed in E. coli, purified, used to reconstitute holoenzymes with wild type RNA component in vitro, and functionally characterized. The Phe23Ala and Arg93Ala mutants showed very poor catalytic activity when reconstituted with the RNA component. The catalytic activity of holoenzyme with Val27Phe, Ala70Lys, Arg72Leu and Arg72Ala was also significantly reduced, whereas with Ala77Phe and Asp124Ser the activity of holoenzyme was similar to that with the wild type protein. Although the mutants did not suffer from any binding defects, Val27Phe, Ala70Lys, Arg72Ala and Asp124Ser were less tolerant towards higher temperatures as compared to the wild type protein. The Km of Val27Phe, Ala70Lys, Arg72Ala and Ala77Phe were >2-fold higher than that of the wild type, indicating the substituted residues to be involved in substrate interaction. The study demonstrates that residues Phe23, Val27 and Ala70 are involved in substrate interaction, while Arg72 and Arg93 interact with other residues within the protein to provide it a functional conformation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "33486742",
+      "title": "Antimicrobial Activity of Human Eosinophil Granule Proteins.",
+      "authors": [
+        "Anu Chopra",
+        "Janendra K Batra"
+      ],
+      "year": "2021",
+      "journal": "Methods in molecular biology (Clifton, N.J.)",
+      "doi": "10.1007/978-1-0716-1095-4_20",
+      "doi_link": "https://doi.org/10.1007/978-1-0716-1095-4_20",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33486742",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Antimicrobial%20Activity%20of%20Human%20Eosinophil%20Granule%20Proteins%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "Eosinophils secrete a number of proinflammatory mediators that include cytokines, chemokines, and granule proteins which are responsible for the initiation and maintenance of inflammatory responses. The eosinophil granule proteins, ECP, EDN, MBP, and EPO, possess antimicrobial activity against bacteria, helminths, protozoa, and viruses. In this chapter, we describe various assays used to detect and quantitate the antimicrobial activities of eosinophil granule proteins, particularly ECP and EDN. We have taken a model organism for each assay and described the method for antiviral, antihelminthic, antiprotozoan, and antibacterial activity of purified eosinophil granule proteins.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 16,
+    "publications_by_year": {
+      "2021": 1,
+      "2016": 3,
+      "2015": 2,
+      "2012": 2,
+      "2011": 1,
+      "2008": 2,
+      "2006": 1,
+      "2003": 1,
+      "2001": 2,
+      "2000": 1
+    },
+    "top_journals": [
+      "PloS one",
+      "The Journal of biological chemistry",
+      "The Biochemical journal",
+      "The international journal of biochemistry & cell biology",
+      "IUBMB life"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 22,
+      "frequent_collaborators": [
+        "Janendra K Batra",
+        "J K Batra",
+        "Divya Seth",
+        "Anup K Ramteke",
+        "S Swaminathan",
+        "S Bagga",
+        "D Gaur",
+        "D T Nair"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "12466280",
+        "title": "The cytotoxic activity of ribosome-inactivating protein saporin-6 is attributed to its rRNA N-glycosidase and internucleosomal DNA fragmentation activities.",
+        "citations": 74,
+        "year": "2003"
+      },
+      {
+        "publication_id": "11342552",
+        "title": "Interaction of human pancreatic ribonuclease with human ribonuclease inhibitor. Generation of inhibitor-resistant cytotoxic variants.",
+        "citations": 44,
+        "year": "2001"
+      },
+      {
+        "publication_id": "18611444",
+        "title": "Ribosome inactivating protein saporin induces apoptosis through mitochondrial cascade, independent of translation inhibition.",
+        "citations": 44,
+        "year": "2008"
+      }
+    ]
+  }
+}

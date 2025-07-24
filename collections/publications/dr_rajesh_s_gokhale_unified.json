@@ -1,0 +1,527 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Rajesh S. Gokhale",
+    "email": "rsg@nii.ac.in, rsg@nii.res.in",
+    "source_url": "https://www.nii.res.in/en/former-faculty/dr-rajesh-s-gokhale",
+    "research_domain": "Former",
+    "faculty_status": "former",
+    "search_date": "2025-07-02T00:00:00.000000",
+    "total_publications": 15,
+    "last_updated": "2025-07-02",
+    "description": "This document contains a complete list of publications by Dr. Rajesh S. Gokhale, former faculty in Former at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "39163475",
+      "title": "Distinct melanocyte subpopulations defined by stochastic expression of proliferation or maturation programs enable a rapid and sustainable pigmentation response.",
+      "authors": [
+        "Ayush Aggarwal",
+        "Ayesha Nasreen",
+        "Babita Sharma",
+        "Sarthak Sahoo",
+        "Keerthic Aswin",
+        "Mohammed Faruq",
+        "Rajesh Pandey",
+        "Mohit K Jolly",
+        "Abhyudai Singh",
+        "Rajesh S Gokhale",
+        "Vivek T Natarajan"
+      ],
+      "year": "2024",
+      "journal": "PLoS biology",
+      "doi": "10.1371/journal.pbio.3002776",
+      "doi_link": "https://doi.org/10.1371/journal.pbio.3002776",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39163475",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Distinct%20melanocyte%20subpopulations%20defined%20by%20stochastic%20expression%20of%20proliferation%20or%20maturation%20programs%20enable%20a%20rapid%20and%20sustainable%20pigmentation%20response%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "The ultraviolet (UV) radiation triggers a pigmentation response in human skin, wherein, melanocytes rapidly activate divergent maturation and proliferation programs. Using single-cell sequencing, we demonstrate that these 2 programs are segregated in distinct subpopulations in melanocytes of human and zebrafish skin. The coexistence of these 2 cell states in cultured melanocytes suggests possible cell autonomy. Luria-Delbrück fluctuation test reveals that the initial establishment of these states is stochastic. Tracking of pigmenting cells ascertains that the stochastically acquired state is faithfully propagated in the progeny. A systemic approach combining single-cell multi-omics (RNA+ATAC) coupled to enhancer mapping with H3K27 acetylation successfully identified state-specific transcriptional networks. This comprehensive analysis led to the construction of a gene regulatory network (GRN) that under the influence of noise, establishes a bistable system of pigmentation and proliferation at the population level. This GRN recapitulates melanocyte behaviour in response to external cues that reinforce either of the states. Our work highlights that inherent stochasticity within melanocytes establishes dedicated states, and the mature state is sustained by selective enhancers mark through histone acetylation. While the initial cue triggers a proliferation response, the continued signal activates and maintains the pigmenting subpopulation via epigenetic imprinting. Thereby our study provides the basis of coexistence of distinct populations which ensures effective pigmentation response while preserving the self-renewal capacity.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "39137024",
+      "title": "A hepatocyte-specific transcriptional program driven by Rela and Stat3 exacerbates experimental colitis in mice by modulating bile synthesis.",
+      "authors": [
+        "Jyotsna",
+        "Binayak Sarkar",
+        "Mohit Yadav",
+        "Alvina Deka",
+        "Manasvini Markandey",
+        "Priyadarshini Sanyal",
+        "Perumal Nagarajan",
+        "Nilesh Gaikward",
+        "Vineet Ahuja",
+        "Debasisa Mohanty",
+        "Soumen Basak",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2024",
+      "journal": "eLife",
+      "doi": "10.7554/eLife.93273",
+      "doi_link": "https://doi.org/10.7554/eLife.93273",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39137024",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20hepatocyte-specific%20transcriptional%20program%20driven%20by%20Rela%20and%20Stat3%20exacerbates%20experimental%20colitis%20in%20mice%20by%20modulating%20bile%20synthesis%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "Hepatic factors secreted by the liver promote homeostasis and are pivotal for maintaining the liver-gut axis. Bile acid metabolism is one such example wherein, bile acid synthesis occurs in the liver and its biotransformation happens in the intestine. Dysfunctional interactions between the liver and the intestine stimulate varied pathological outcomes through its bidirectional portal communication. Indeed, aberrant bile acid metabolism has been reported in inflammatory bowel disease (IBD). However, the molecular mechanisms underlying these crosstalks that perpetuate intestinal permeability and inflammation remain obscure. Here, we identify a novel hepatic gene program regulated by Rela and Stat3 that accentuates the inflammation in an acute experimental colitis model. Hepatocyte-specific ablation of Rela and Stat3 reduces the levels of primary bile acids in both the liver and the gut and shows a restricted colitogenic phenotype. On supplementation of chenodeoxycholic acid (CDCA), knock-out mice exhibit enhanced colitis-induced alterations. This study provides persuasive evidence for the development of multi-organ strategies for treating IBD and identifies a hepatocyte-specific Rela-Stat3 network as a promising therapeutic target.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "38528556",
+      "title": "Predictors and outcomes of withholding and withdrawal of life-sustaining treatments in intensive care units in Singapore: a multicentre observational study.",
+      "authors": [
+        "Clare Fong",
+        "Wern Lunn Kueh",
+        "Sennen Jin Wen Lew",
+        "Benjamin Choon Heng Ho",
+        "Yu-Lin Wong",
+        "Yie Hui Lau",
+        "Yew Woon Chia",
+        "Hui Ling Tan",
+        "Ying Hao Christopher Seet",
+        "Wen Ting Siow",
+        "Graeme MacLaren",
+        "Rohit Agrawal",
+        "Tian Jin Lim",
+        "Shir Lynn Lim",
+        "Toon Wei Lim",
+        "Vui Kian Ho",
+        "Chai Rick Soh",
+        "Duu Wen Sewa",
+        "Chian Min Loo",
+        "Faheem Ahmed Khan",
+        "Chee Keat Tan",
+        "Roshni Sadashiv Gokhale",
+        "Chuin Siau",
+        "Noelle Louise Siew Hua Lim",
+        "Chik-Foo Yim",
+        "Jonathen Venkatachalam",
+        "Kumaresh Venkatesan",
+        "Naville Chi Hock Chia",
+        "Mei Fong Liew",
+        "Guihong Li",
+        "Li Li",
+        "Su Mon Myat",
+        "Zena Zena",
+        "Shuling Zhuo",
+        "Ling Ling Yueh",
+        "Caroline Shu Fang Tan",
+        "Jing Ma",
+        "Siew Lian Yeo",
+        "Yiong Huak Chan",
+        "Jason Phua"
+      ],
+      "year": "2024",
+      "journal": "Journal of intensive care",
+      "doi": "10.1186/s40560-024-00725-3",
+      "doi_link": "https://doi.org/10.1186/s40560-024-00725-3",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38528556",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Predictors%20and%20outcomes%20of%20withholding%20and%20withdrawal%20of%20life-sustaining%20treatments%20in%20intensive%20care%20units%20in%20Singapore%3A%20a%20multicentre%20observational%20study%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "BACKGROUND: Clinical practice guidelines on limitation of life-sustaining treatments (LST) in the intensive care unit (ICU), in the form of withholding or withdrawal of LST, state that there is no ethical difference between the two. Such statements are not uniformly accepted worldwide, and there are few studies on LST limitation in Asia. This study aimed to evaluate the predictors and outcomes of withholding and withdrawal of LST in Singapore, focusing on the similarities and differences between the two approaches. METHODS: This was a multicentre observational study of patients admitted to 21 adult ICUs across 9 public hospitals in Singapore over an average of three months per year from 2014 to 2019. The primary outcome measures were withholding and withdrawal of LST (cardiopulmonary resuscitation, invasive mechanical ventilation, and vasopressors/inotropes). The secondary outcome measure was hospital mortality. Multivariable generalised mixed model analysis was used to identify independent predictors for withdrawal and withholding of LST and if LST limitation predicts hospital mortality. RESULTS: There were 8907 patients and 9723 admissions. Of the former, 80.8% had no limitation of LST, 13.0% had LST withheld, and 6.2% had LST withdrawn. Common independent predictors for withholding and withdrawal were increasing age, absence of chronic kidney dialysis, greater dependence in activities of daily living, cardiopulmonary resuscitation before ICU admission, higher Acute Physiology and Chronic Health Evaluation (APACHE) II score, and higher level of care in the first 24 h of ICU admission. Additional predictors for withholding included being of Chinese race, the religions of Hinduism and Islam, malignancy, and chronic liver failure. The additional predictor for withdrawal was lower hospital paying class (with greater government subsidy for hospital bills). Hospital mortality in patients without LST limitation, with LST withholding, and with LST withdrawal was 10.6%, 82.1%, and 91.8%, respectively (p < 0.001). Withholding (odds ratio 13.822, 95% confidence interval 9.987-19.132) and withdrawal (odds ratio 38.319, 95% confidence interval 24.351-60.298) were both found to be independent predictors of hospital mortality on multivariable analysis. CONCLUSIONS: Differences in the independent predictors of withholding and withdrawal of LST exist. Even after accounting for baseline characteristics, both withholding and withdrawal of LST independently predict hospital mortality. Later mortality in patients who had LST withdrawn compared to withholding suggests that the decision to withdraw may be at the point when medical futility is recognised.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "37927554",
+      "title": "Pigmented skin exhibits accelerated wound healing compared to the nonpigmented skin in Guinea pig model.",
+      "authors": [
+        "Rohit Gupta",
+        "Anshu Priya",
+        "Manish Chowdhary",
+        "Vineeta V Batra",
+        "Jyotsna",
+        "Perumal Nagarajan",
+        "Rajesh S Gokhale",
+        "Archana Singh"
+      ],
+      "year": "2023",
+      "journal": "iScience",
+      "doi": "10.1016/j.isci.2023.108159",
+      "doi_link": "https://doi.org/10.1016/j.isci.2023.108159",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37927554",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Pigmented%20skin%20exhibits%20accelerated%20wound%20healing%20compared%20to%20the%20nonpigmented%20skin%20in%20Guinea%20pig%20model%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "This study investigated and compared the wound healing kinetics of pigmented (PG) and non-pigmented (NP) skin in guinea pigs, focusing on histological and transcriptional changes. Full-thickness wounds created on PG and NP skin were evaluated at various time points post-injury. Fontana-Masson staining and ultrastructural analysis suggested the presence of melanin and melanosomes in PG skin, which coincided with an upregulation of melanogenic genes cKIT, TYR, and DCT. On day 9 post-wound, PG skin exhibited a rapid transition from the inflammatory to proliferative phase, which correlated with the reappearance of epidermal pigmentation whereas the NP skin exhibited a delayed neo-epidermis formation. Furthermore, the study revealed that melanocyte-derived growth factors (conditioned media) positively regulated keratinocyte migration while inhibiting fibroblast differentiation. These effects were more prominent in tyrosine-treated (hyperpigmented) melanocyte-CM as was TGF- β expression. These findings provide valuable insights into the mechanisms underlying skin repair and pigmentation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "37697436",
+      "title": "Sustained pigmentation causes DNA damage and invokes translesion polymerase Polκ for repair in melanocytes.",
+      "authors": [
+        "Madeeha Ghazi",
+        "Shivangi Khanna",
+        "Yogaspoorthi Subramaniam",
+        "Jeyashri Rengaraju",
+        "Farina Sultan",
+        "Iti Gupta",
+        "Kanupriya Sharma",
+        "Sudhir Chandna",
+        "Rajesh S Gokhale",
+        "Vivek T Natarajan"
+      ],
+      "year": "2023",
+      "journal": "Nucleic acids research",
+      "doi": "10.1093/nar/gkad704",
+      "doi_link": "https://doi.org/10.1093/nar/gkad704",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37697436",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Sustained%20pigmentation%20causes%20DNA%20damage%20and%20invokes%20translesion%20polymerase%20Pol%CE%BA%20for%20repair%20in%20melanocytes%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "Melanin protects skin cells from ultraviolet radiation-induced DNA damage. However, intermediates of eumelanin are highly reactive quinones that are potentially genotoxic. In this study, we systematically investigate the effect of sustained elevation of melanogenesis and map the consequent cellular repair response of melanocytes. Pigmentation increases γH2AX foci, DNA abasic sites, causes replication stress and invokes translesion polymerase Polκ in primary human melanocytes, as well as mouse melanoma cells. Confirming the causal link, CRISPR-based genetic ablation of tyrosinase results in depigmented cells with low Polκ levels. During pigmentation, Polκ activates replication stress response and keeps a check on uncontrolled proliferation of cells harboring melanin-damaged DNA. The mutational landscape observed in human melanoma could in part explain the error-prone bypass of DNA lesions by Polκ, whose absence would lead to genome instability. Thereby, translesion polymerase Polκ is a critical response of pigmenting melanocytes to combat melanin-induced DNA alterations. Our study illuminates the dark side of melanin and identifies (eu)melanogenesis as a key missing link between tanning response and mutagenesis, mediated via the necessary evil translesion polymerase, Polκ.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "37693336",
+      "title": "Findings from a decade of experience following implementation of a Rapid Response System into an Asian hospital.",
+      "authors": [
+        "Augustine Tee",
+        "Bryan Peide Choo",
+        "Roshni Sadashiv Gokhale",
+        "Xiqin Wang",
+        "Mashithah Mansor",
+        "Hong Choon Oh",
+        "Daryl Jones"
+      ],
+      "year": "2023",
+      "journal": "Resuscitation plus",
+      "doi": "10.1016/j.resplu.2023.100461",
+      "doi_link": "https://doi.org/10.1016/j.resplu.2023.100461",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37693336",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Findings%20from%20a%20decade%20of%20experience%20following%20implementation%20of%20a%20Rapid%20Response%20System%20into%20an%20Asian%20hospital%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "AIM: Rapid response systems (RRS) are present in many acute hospitals in western nations but are not widely adopted in Asia. The influence of healthcare culture and the effect of implementing an RRS over time are infrequently reported. We describe the introduction a RRS into a Singaporean hospital and the barriers encountered. The efferent limb activation rates, cardiac arrest rates and unplanned intensive care unit (ICU) admissions are trended over eleven years. METHODS: We conducted a retrospective observational study using prospectively collected data derived from administrative and Medical Emergency Team (MET) databases. RESULTS: The RRS used a MET with a single parameter track and trigger and physician led efferent limb. Barriers encountered included clinical leadership buy-in, assembling and equipping the efferent team, maintaining a non-punitive mindset, improving accessibility to MET and communicating the impact of the MET. Over an 11-year period with 488,252 hospital admissions, MET activation rates increased from 1.6/1000 admissions (2009) to 14.1/1000 admissions (2019). Code blue activations and unplanned ICU admission rates decreased from 2.9 to 1.7 and from 8.8 to 2.0/1000 admissions, respectively over the 11 years. There were associations between increasing MET activation rate and reduction in code blue activations (p = 0.013) and unplanned medical ICU admission rates (p = 0.001). CONCLUSION: Implementing, sustaining and continued improvement of an RRS in Singapore is possible despite challenges encountered. With increasing activation rates over a decade, there were reductions in cardiac arrest rates and unplanned medical ICU admissions.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "37524010",
+      "title": "Synthesis, biological evaluation and docking studies of silicon incorporated diarylpyrroles as MmpL3 inhibitors: An effective strategy towards development of potent anti-tubercular agents.",
+      "authors": [
+        "N Vasudevan",
+        "Zenia Motiwala",
+        "Remya Ramesh",
+        "Sachin B Wagh",
+        "Rahul D Shingare",
+        "Revansiddha Katte",
+        "Amitesh Anand",
+        "Sushil Choudhary",
+        "Ajay Kumar",
+        "Rajesh S Gokhale",
+        "Kiran A Kulkarni",
+        "D Srinivasa Reddy"
+      ],
+      "year": "2023",
+      "journal": "European journal of medicinal chemistry",
+      "doi": "10.1016/j.ejmech.2023.115633",
+      "doi_link": "https://doi.org/10.1016/j.ejmech.2023.115633",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37524010",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Synthesis%2C%20biological%20evaluation%20and%20docking%20studies%20of%20silicon%20incorporated%20diarylpyrroles%20as%20MmpL3%20inhibitors%3A%20An%20effective%20strategy%20towards%20development%20of%20potent%20anti-tubercular%20agents%22",
+      "citations": {
+        "crossref": 5
+      },
+      "abstract": "Growing global demand for new molecules to treat tuberculosis has created an urgent need to develop novel strategies to combat the menace. BM212 related compounds were found to be potent anti-TB agents and they inhibit mycolic acid transporter, MmpL3, a known potent drug target from Mycobacterium tuberculosis. In order to enhance their inhibitory potency, several silicon analogues of diarylpyrroles related to BM212 were designed, synthesized, and evaluated for anti-tubercular activities. In Alamar blue assay, most of the silicon-incorporated compounds were found to be more potent than the parent compound (BM212), against Mycobacterium tuberculosis (MIC = 1.7 μM, H37Rv). Docking results from the crystal structure of MmpL3 and silicon analogues as pharmacophore model also strongly correlate with the biological assays and suggest that the incorporation of silicon in the inhibitor scaffold could enhance their potency by stabilizing the hydrophobic residues at the binding pocket. The best docking hit, compound 12 showed an MIC of 0.1 μM against H37Rv with an acceptable in vitro ADME profile and excellent selectivity index. Overall, the present study indicates that, the designed silicon analogues, especially compound 12 could be a good inhibitor for an intrinsically flexible drug-binding pocket of MmpL3 and has potential for further development as anti-tubercular agents.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "36861621",
+      "title": "The use of protocolised sedation to reduce benzodiazepine use and improve sedation practices in a medical intensive care unit in Singapore.",
+      "authors": [
+        "Roshni Sadashiv Gokhale",
+        "Ian Wee",
+        "Tan Poh Choo",
+        "Michelle See",
+        "Siau Chuin"
+      ],
+      "year": "2024",
+      "journal": "Singapore medical journal",
+      "doi": "10.4103/singaporemedj.SMJ-2021-060",
+      "doi_link": "https://doi.org/10.4103/singaporemedj.SMJ-2021-060",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36861621",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20use%20of%20protocolised%20sedation%20to%20reduce%20benzodiazepine%20use%20and%20improve%20sedation%20practices%20in%20a%20medical%20intensive%20care%20unit%20in%20Singapore%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "36535361",
+      "title": "Whole-Exome Sequencing of Vitiligo Lesions Indicates Lower Burden of Somatic Variations: Implications in Risk for Nonmelanoma Skin Cancers.",
+      "authors": [
+        "Iti Gupta",
+        "Shambhavi Shankrit",
+        "Kiran Narta",
+        "Madeeha Ghazi",
+        "Ritika Grover",
+        "Rajesh Pandey",
+        "Hemanta Kumar Kar",
+        "Shruti M Menon",
+        "Aayush Gupta",
+        "Vamsi K Yenamandra",
+        "Archana Singh",
+        "Mitali Mukerji",
+        "Arijit Mukhopadhyay",
+        "Rajni Rani",
+        "Rajesh S Gokhale",
+        "Debasis Dash",
+        "Vivek T Natarajan"
+      ],
+      "year": "2023",
+      "journal": "The Journal of investigative dermatology",
+      "doi": "10.1016/j.jid.2022.11.018",
+      "doi_link": "https://doi.org/10.1016/j.jid.2022.11.018",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36535361",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Whole-Exome%20Sequencing%20of%20Vitiligo%20Lesions%20Indicates%20Lower%20Burden%20of%20Somatic%20Variations%3A%20Implications%20in%20Risk%20for%20Nonmelanoma%20Skin%20Cancers%22",
+      "citations": {
+        "crossref": 6
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "36507669",
+      "title": "Respiratory Quinone Switches from Menaquinone to Polyketide Quinone during the Development Cycle in Streptomyces sp. Strain MNU77",
+      "authors": [
+        "Kritee Mehdiratta",
+        "Sonam Nain",
+        "Meenakshi Sharma",
+        "Shubham Singh",
+        "Sonali Srivastava",
+        "Bhushan Dilip Dhamale",
+        "Debasisa Mohanty",
+        "Siddhesh S Kamat",
+        "Vivek T Natarajan",
+        "Rakesh Sharma",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2023",
+      "journal": "Microbiology spectrum",
+      "doi": "10.1128/spectrum.02597-22",
+      "doi_link": "https://doi.org/10.1128/spectrum.02597-22",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36507669",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Respiratory%20Quinone%20Switches%20from%20Menaquinone%20to%20Polyketide%20Quinone%20during%20the%20Development%20Cycle%20in%20Streptomyces%20sp.%20Strain%20MNU77%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "Type III polyketide synthases (PKSs) found across Streptomyces species are primarily known for synthesis of a vast repertoire of clinically and industrially relevant secondary metabolites. However, our understanding of the functional relevance of these bioactive metabolites in Streptomyces physiology is still limited. Recently, a role of type III PKS harboring gene cluster in producing alternate electron carrier, polyketide quinone (PkQ) was established in a related member of the Actinobacteria, Mycobacteria, highlighting the critical role these secondary metabolites play in primary cellular metabolism of the producer organism. Here, we report the developmental stage-specific transcriptional regulation of homologous type III PKS containing gene cluster in freshwater Streptomyces sp. strain MNU77. Gene expression analysis revealed the type III PKS gene cluster to be stringently regulated, with significant upregulation observed during the dormant sporulation stage of Streptomyces sp. MNU77. In contrast, the expression levels of only known electron carrier, menaquinone biosynthetic genes were interestingly found to be downregulated. Our liquid chromatography-high-resolution mass spectrometry (LC-HRMS) analysis of a metabolite extract from the Streptomyces sp. MNU77 spores also showed 10 times more metabolic abundance of PkQs than menaquinones. Furthermore, through heterologous complementation studies, we demonstrate that Streptomyces sp. MNU77 type III PKS rescues a respiratory defect of the Mycobacterium smegmatis type III PKS deletion mutant. Together, our studies reveal that freshwater Streptomyces sp. MNU77 robustly produces novel PkQs during the sporulation stage, suggesting utilization of PkQs as alternate electron carriers across Actinobacteria during dormant hypoxic conditions. IMPORTANCE The complex developmental life cycle of Streptomyces sp. mandates efficient cellular respiratory reconfiguration for a smooth transition from aerated nutrient-rich vegetative hyphal growth to the hypoxic-dormant sporulation stage. Polyketide quinones (PkQs) have recently been identified as a class of alternate electron carriers from a related member of the Actinobacteria, Mycobacteria, that facilitates maintenance of membrane potential in oxygen-deficient niches. Our studies with the newly identified freshwater Streptomyces sp. strain MNU77 show conditional transcriptional upregulation and metabolic abundance of PkQs in the spore state of the Streptomyces life cycle. In parallel, the levels of menaquinones, the only known Streptomyces electron carrier, were downregulated, suggesting deployment of PkQs as universal electron carriers in low-oxygen, unfavorable conditions across the Actinobacteria family.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "35650699",
+      "title": "Characteristics, risk factors and outcomes of critically ill patients with active TB.",
+      "authors": [
+        "N Y F Sieow",
+        "J T K Goh",
+        "R S Gokhale",
+        "Y H Tan"
+      ],
+      "year": "2022",
+      "journal": "The international journal of tuberculosis and lung disease : the official journal of the International Union against Tuberculosis and Lung Disease",
+      "doi": "10.5588/ijtld.21.0723",
+      "doi_link": "https://doi.org/10.5588/ijtld.21.0723",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35650699",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Characteristics%2C%20risk%20factors%20and%20outcomes%20of%20critically%20ill%20patients%20with%20active%20TB%22",
+      "citations": {
+        "crossref": 3
+      },
+      "abstract": "BACKGROUND: TB continues to impose a significant healthcare burden despite advancement in diagnostics and increased availability of effective antimicrobials. Recent years have seen a resurgence of the disease in association with increasing life expectancy and use of immunosuppressive therapy. Mortality remains high in TB patients requiring admission to critical care units.METHODS: We conducted a retrospective study in two public hospitals to determine factors associated with mortality in patients with TB requiring critical care admission. All patients aged ≥21 years with a diagnosis of active TB involving any organ system at the time of a critical care admission were eligible. The primary outcome measure was 30-day mortality.RESULTS: Over the study period of 4 years, 148 patients were identified. Overall 30-day mortality was 36.5%. Based on multivariate analysis, factors which independently correlated with 30-day mortality include higher APACHE II (Acute Physiology and Chronic Health Evaluation II) score, acid-fast bacilli smear positivity, initiation of anti-TB treatment prior to critical care admission and need for renal replacement therapy.CONCLUSION: TB in critically ill patients continues to be associated with significant mortality. The factors identified to be associated with poor survival outcomes in our study were largely related to greater disease burden and potential for suboptimal treatment.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "35584084",
+      "title": "Temporal analysis of melanogenesis identifies fatty acid metabolism as key skin pigment regulator.",
+      "authors": [
+        "Farina Sultan",
+        "Reelina Basu",
+        "Divya Murthy",
+        "Manisha Kochar",
+        "Kuldeep S Attri",
+        "Ayush Aggarwal",
+        "Pooja Kumari",
+        "Pooja Dnyane",
+        "Jyoti Tanwar",
+        "Rajender K Motiani",
+        "Archana Singh",
+        "Chetan Gadgil",
+        "Neel Sarovar Bhavesh",
+        "Pankaj K Singh",
+        "Vivek T Natarajan",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2022",
+      "journal": "PLoS biology",
+      "doi": "10.1371/journal.pbio.3001634",
+      "doi_link": "https://doi.org/10.1371/journal.pbio.3001634",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35584084",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Temporal%20analysis%20of%20melanogenesis%20identifies%20fatty%20acid%20metabolism%20as%20key%20skin%20pigment%20regulator%22",
+      "citations": {
+        "semantic_scholar": 12
+      },
+      "abstract": "Therapeutic methods to modulate skin pigmentation has important implications for skin cancer prevention and for treating cutaneous hyperpigmentary conditions. Towards defining new potential targets, we followed temporal dynamics of melanogenesis using a cell-autonomous pigmentation model. Our study elucidates 3 dominant phases of synchronized metabolic and transcriptional reprogramming. The melanogenic trigger is associated with high MITF levels along with rapid uptake of glucose. The transition to pigmented state is accompanied by increased glucose channelisation to anabolic pathways that support melanosome biogenesis. SREBF1-mediated up-regulation of fatty acid synthesis results in a transient accumulation of lipid droplets and enhancement of fatty acids oxidation through mitochondrial respiration. While this heightened bioenergetic activity is important to sustain melanogenesis, it impairs mitochondria lately, shifting the metabolism towards glycolysis. This recovery phase is accompanied by activation of the NRF2 detoxication pathway. Finally, we show that inhibitors of lipid metabolism can resolve hyperpigmentary conditions in a guinea pig UV-tanning model. Our study reveals rewiring of the metabolic circuit during melanogenesis, and fatty acid metabolism as a potential therapeutic target in a variety of cutaneous diseases manifesting hyperpigmentary phenotype.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "35203350",
+      "title": "Mitofusin-2 Negatively Regulates Melanogenesis by Modulating Mitochondrial ROS Generation.",
+      "authors": [
+        "Jyoti Tanwar",
+        "Suman Saurav",
+        "Reelina Basu",
+        "Jaya Bharti Singh",
+        "Anshu Priya",
+        "Maitreyee Dutta",
+        "Uma Santhanam",
+        "Manoj Joshi",
+        "Stephen Madison",
+        "Archana Singh",
+        "Nirmala Nair",
+        "Rajesh S Gokhale",
+        "Rajender K Motiani"
+      ],
+      "year": "2022",
+      "journal": "Cells",
+      "doi": "10.3390/cells11040701",
+      "doi_link": "https://doi.org/10.3390/cells11040701",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35203350",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mitofusin-2%20Negatively%20Regulates%20Melanogenesis%20by%20Modulating%20Mitochondrial%20ROS%20Generation%22",
+      "citations": {
+        "semantic_scholar": 16
+      },
+      "abstract": "Inter-organellar communication is emerging as one of the most crucial regulators of cellular physiology. One of the key regulators of inter-organellar communication is Mitofusin-2 (MFN2). MFN2 is also involved in mediating mitochondrial fusion-fission dynamics. Further, it facilitates mitochondrial crosstalk with the endoplasmic reticulum, lysosomes and melanosomes, which are lysosome-related organelles specialized in melanin synthesis within melanocytes. However, the role of MFN2 in regulating melanocyte-specific cellular function, i.e., melanogenesis, remains poorly understood. Here, using a B16 mouse melanoma cell line and primary human melanocytes, we report that MFN2 negatively regulates melanogenesis. Both the transient and stable knockdown of MFN2 leads to enhanced melanogenesis, which is associated with an increase in the number of mature (stage III and IV) melanosomes and the augmented expression of key melanogenic enzymes. Further, the ectopic expression of MFN2 in MFN2-silenced cells leads to the complete rescue of the phenotype at the cellular and molecular levels. Mechanistically, MFN2-silencing elevates mitochondrial reactive-oxygen-species (ROS) levels which in turn increases melanogenesis. ROS quenching with the antioxidant N-acetyl cysteine (NAC) reverses the MFN2-knockdown-mediated increase in melanogenesis. Moreover, MFN2 expression is significantly lower in the darkly pigmented primary human melanocytes in comparison to lightly pigmented melanocytes, highlighting a potential contribution of lower MFN2 levels to higher physiological pigmentation. Taken together, our work establishes MFN2 as a novel negative regulator of melanogenesis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "35193957",
+      "title": "Kupyaphores are zinc homeostatic metallophores required for colonization of Mycobacterium tuberculosis",
+      "authors": [
+        "Kritee Mehdiratta",
+        "Shubham Singh",
+        "Sachin Sharma",
+        "Rashmi S Bhosale",
+        "Rahul Choudhury",
+        "Dattatraya P Masal",
+        "Alzu Manocha",
+        "Bhushan Dilip Dhamale",
+        "Naseem Khan",
+        "Vivekanand Asokachandran",
+        "Pooja Sharma",
+        "Melanie Ikeh",
+        "Amanda C Brown",
+        "Tanya Parish",
+        "Anil K Ojha",
+        "Joy Sarojini Michael",
+        "Mohammed Faruq",
+        "Guruprasad R Medigeshi",
+        "Debasisa Mohanty",
+        "D Srinivasa Reddy",
+        "Vivek T Natarajan",
+        "Siddhesh S Kamat",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2022",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.2110293119",
+      "doi_link": "https://doi.org/10.1073/pnas.2110293119",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35193957",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Kupyaphores%20are%20zinc%20homeostatic%20metallophores%20required%20for%20colonization%20of%20Mycobacterium%20tuberculosis%22",
+      "citations": {
+        "crossref": 32
+      },
+      "abstract": "Mycobacterium tuberculosis (Mtb) endures a combination of metal scarcity and toxicity throughout the human infection cycle, contributing to complex clinical manifestations. Pathogens counteract this paradoxical dysmetallostasis by producing specialized metal trafficking systems. Capture of extracellular metal by siderophores is a widely accepted mode of iron acquisition, and Mtb iron-chelating siderophores, mycobactin, have been known since 1965. Currently, it is not known whether Mtb produces zinc scavenging molecules. Here, we characterize low-molecular-weight zinc-binding compounds secreted and imported by Mtb for zinc acquisition. These molecules, termed kupyaphores, are produced by a 10.8 kbp biosynthetic cluster and consists of a dipeptide core of ornithine and phenylalaninol, where amino groups are acylated with isonitrile-containing fatty acyl chains. Kupyaphores are stringently regulated and support Mtb survival under both nutritional deprivation and intoxication conditions. A kupyaphore-deficient Mtb strain is unable to mobilize sufficient zinc and shows reduced fitness upon infection. We observed early induction of kupyaphores in Mtb-infected mice lungs after infection, and these metabolites disappeared after 2 wk. Furthermore, we identify an Mtb-encoded isonitrile hydratase, which can possibly mediate intracellular zinc release through covalent modification of the isonitrile group of kupyaphores. Mtb clinical strains also produce kupyaphores during early passages. Our study thus uncovers a previously unknown zinc acquisition strategy of Mtb that could modulate host-pathogen interactions and disease outcome.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "34625756",
+      "title": "Association between lung compliance phenotypes and mortality in COVID-19 patients with acute respiratory distress syndrome.",
+      "authors": [
+        "Ser Hon Puah",
+        "Matthew Edward Cove",
+        "Jason Phua",
+        "Amit Kansal",
+        "Jonathen Venkatachalam",
+        "Vui Kian Ho",
+        "Duu Wen Sewa",
+        "Roshni Sadashiv Gokhale",
+        "Mei Fong Liew",
+        "Benjamin Choon Heng Ho",
+        "Jensen Jiansheng Ng",
+        "John A Abisheganaden",
+        "Yee Sin Leo",
+        "Barnaby Edward Young",
+        "David Chien Lye",
+        "Tsin Wen Yeo"
+      ],
+      "year": "2021",
+      "journal": "Annals of the Academy of Medicine, Singapore",
+      "doi": "10.47102/annals-acadmedsg.2021129",
+      "doi_link": "https://doi.org/10.47102/annals-acadmedsg.2021129",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34625756",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Association%20between%20lung%20compliance%20phenotypes%20and%20mortality%20in%20COVID-19%20patients%20with%20acute%20respiratory%20distress%20syndrome%22",
+      "citations": {
+        "semantic_scholar": 10
+      },
+      "abstract": "INTRODUCTION: Acute respiratory distress syndrome (ARDS) in COVID-19 is associated with a high mortality rate, though outcomes of the different lung compliance phenotypes are unclear. We aimed to measure lung compliance and examine other factors associated with mortality in COVID-19 patients with ARDS. METHODS: Adult patients with COVID-19 ARDS who required invasive mechanical ventilation at 8 hospitals in Singapore were prospectively enrolled. Factors associated with both mortality and differences between high (<40mL/cm H RESULTS: A total of 102 patients with COVID-19 who required invasive mechanical ventilation were analysed; 15 (14.7%) did not survive. Non-survivors were older (median 70 years, interquartile range [IQR] 67-75 versus median 61 years, IQR 52-66;  CONCLUSION: COVID-19 ARDS patients with higher compliance on the day of intubation and a longitudinal decrease over time had a higher risk of death.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 15,
+    "publications_by_year": {
+      "2024": 4,
+      "2023": 6,
+      "2022": 4,
+      "2021": 1
+    },
+    "top_journals": [
+      "PLoS biology",
+      "eLife",
+      "Journal of intensive care",
+      "iScience",
+      "Nucleic acids research"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 153,
+      "frequent_collaborators": [
+        "Rajesh S Gokhale",
+        "Vivek T Natarajan",
+        "Archana Singh",
+        "Debasisa Mohanty",
+        "Roshni Sadashiv Gokhale",
+        "Mohammed Faruq",
+        "Rajesh Pandey",
+        "Perumal Nagarajan"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "35193957",
+        "title": "Kupyaphores are zinc homeostatic metallophores required for colonization of Mycobacterium tuberculosis",
+        "citations": 32,
+        "year": "2022"
+      }
+    ]
+  }
+}

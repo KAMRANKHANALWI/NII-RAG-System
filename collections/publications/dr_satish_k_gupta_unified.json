@@ -1,0 +1,295 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Satish K. Gupta",
+    "email": "skgupta@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/former-faculty/dr-satish-k-gupta",
+    "research_domain": "Former",
+    "faculty_status": "former",
+    "search_date": "2025-06-28T01:03:37.577026",
+    "total_publications": 10,
+    "last_updated": "2025-06-28",
+    "description": "This document contains a complete list of publications by Dr. Satish K. Gupta, former faculty in Former at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "2579391",
+      "title": "Bioeffective monoclonal antibody against the decapeptide gonadotropin-releasing hormone: reacting determinant and action on ovulation and estrus suppression.",
+      "authors": [
+        "G P Talwar",
+        "S K Gupta",
+        "V Singh",
+        "D Sahal",
+        "K S Iyer",
+        "O Singh"
+      ],
+      "year": "1985",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.82.4.1228",
+      "doi_link": "https://doi.org/10.1073/pnas.82.4.1228",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/2579391",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Bioeffective%20monoclonal%20antibody%20against%20the%20decapeptide%20gonadotropin-releasing%20hormone%3A%20reacting%20determinant%20and%20action%20on%20ovulation%20and%20estrus%20suppression%22",
+      "citations": {
+        "semantic_scholar": 35
+      },
+      "abstract": "A monoclonal antibody generated against the decapeptide gonadotropin-releasing hormone (GnRH) was effective in intercepting the bioactivity of the hormone; it blocked ovulation in rats. The antibody reacted optimally with the native hormone. Substitution of amide at the COOH terminus by a carboxyl group decreased immunoreactivity by a factor of 200. The antibody recognized the amino acid sequences 4-6, 7-10, and 4-10 to a variable degree, which suggests that the epitope has a conformation involving the entire molecule, with the NH2- and COOH-terminal regions probably in proximity. The antibody was also competent to suppress the progression of estrus in dogs, an indication that GnRH may play an inductive role in the reproductive function of dogs.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "7809087",
+      "title": "Somatic mutation of immunoglobulin lambda chains: a segment of the major intron hypermutates as much as the complementarity-determining regions.",
+      "authors": [
+        "A González-Fernández",
+        "S K Gupta",
+        "R Pannell",
+        "M S Neuberger",
+        "C Milstein"
+      ],
+      "year": "1994",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.91.26.12614",
+      "doi_link": "https://doi.org/10.1073/pnas.91.26.12614",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/7809087",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Somatic%20mutation%20of%20immunoglobulin%20lambda%20chains%3A%20a%20segment%20of%20the%20major%20intron%20hypermutates%20as%20much%20as%20the%20complementarity-determining%20regions%22",
+      "citations": {
+        "semantic_scholar": 73
+      },
+      "abstract": "The rate and nature of hypermutation of immunoglobulin genes are of prime importance in the affinity maturation of antibodies. Although a considerable body of information has been gathered for kappa light chains, there is much less data for lambda chains. We have derived a large data base of somatic mutants of mouse lambda 1 light chains from Peyer's patches germinal center B cells. The endogenous lambda 1 genes mutate at a rate comparable to that previously found for a kappa transgene (V kappa ox1). There are intrinsic hot spots of mutation common to both in-frame and out-of-frame rearrangements; these hot spots cluster in hypermutating domains. In contrast to the pattern seen for V kappa Ox1, the hot spot clusters are found not only in complementarity-determining region (CDR)1 but also in CDR2 and CDR3; mutations also cluster in the joining/constant region intron. The differences between the pattern of mutations in V kappa Ox1 and lambda 1 light chains are discussed.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "10611069",
+      "title": "Delineation of a conserved B cell epitope on bonnet monkey (Macaca radiata) and human zona pellucida glycoprotein-B by monoclonal antibodies demonstrating inhibition of sperm-egg binding.",
+      "authors": [
+        "C K Govind",
+        "A Hasegawa",
+        "K Koyama",
+        "S K Gupta"
+      ],
+      "year": "2000",
+      "journal": "Biology of reproduction",
+      "doi": "10.1095/biolreprod62.1.67",
+      "doi_link": "https://doi.org/10.1095/biolreprod62.1.67",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/10611069",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Delineation%20of%20a%20conserved%20B%20cell%20epitope%20on%20bonnet%20monkey%20%28Macaca%20radiata%29%20and%20human%20zona%20pellucida%20glycoprotein-B%20by%20monoclonal%20antibodies%20demonstrating%20inhibition%20of%20sperm-egg%20binding%22",
+      "citations": {
+        "crossref": 39
+      },
+      "abstract": "To circumvent autoimmune oophoritis after immunization with zona pellucida (ZP) glycoproteins, synthetic peptides encompassing B cell epitope(s) and devoid of oophoritogenic T cell epitopes as immunogens have been proposed. In this study, bonnet monkey (Macaca radiata) ZP glycoprotein-B (bmZPB) was expressed as polyhistidine fusion protein in Escherichia coli. Rabbit polyclonal antibodies against recombinant bmZPB (r-bmZPB) significantly inhibited human sperm-oocyte binding. To map B cell epitopes on ZPB, a panel of 7 murine monoclonal antibodies (mAbs) was generated against r-bmZPB. All 7 mAbs, when tested in an indirect immunofluorescence assay, reacted with bonnet monkey ZP, and only 6 recognized human zonae. Monoclonal antibodies MA-809, -811, -813, and -825 showed significant inhibition in the binding of human spermatozoa to human ZP in a hemizona assay. Epitope-mapping studies using multipin peptide synthesis strategy revealed that these 4 mAbs recognized a common epitope corresponding to amino acids (aa) 136-147 (DAPDTDWCDSIP). Competitive binding studies revealed that the synthetic peptide corresponding to the identified epitope (aa 136-147) inhibited the binding of MA-809, -811, -813, and -825 to r-bmZPB in an ELISA and to bonnet monkey ZP in an indirect immunofluorescence assay. The epitopic domain corresponding to aa 136-147 of bmZPB was completely conserved in human ZPB. These studies will further help in designing ZP-based synthetic peptide immunogens incorporating relevant B cell epitope for fertility regulation in humans.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "12443665",
+      "title": "Evaluation of the immunocontraceptive potential of Escherichia coli expressed recombinant non-human primate zona pellucida glycoproteins in homologous animal model.",
+      "authors": [
+        "Chhabi K Govind",
+        "Neelu Srivastava",
+        "Satish K Gupta"
+      ],
+      "year": "2002",
+      "journal": "Vaccine",
+      "doi": "10.1016/s0264-410x(02)00438-3",
+      "doi_link": "https://doi.org/10.1016/s0264-410x(02)00438-3",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12443665",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Evaluation%20of%20the%20immunocontraceptive%20potential%20of%20Escherichia%20coli%20expressed%20recombinant%20non-human%20primate%20zona%20pellucida%20glycoproteins%20in%20homologous%20animal%20model%22",
+      "citations": {
+        "semantic_scholar": 35
+      },
+      "abstract": "In order to evaluate the immunocontraceptive potential of zona pellucida (ZP) glycoproteins, recombinant bonnet monkey (Macaca radiata) zona pellucida glycoprotein-1 (r-bmZP1) and -2 (r-bmZP2) were expressed as polyhistidine fusion proteins in Escherichia coli. Female bonnet monkeys were immunized with the purified r-bmZP1 (n=5) and r-bmZP2 (n=4) conjugated to diphtheria toxoid (DT). Immunization led to generation of antibodies against r-bmZP1, r-bmZP2 and DT as determined by enzyme linked immunosorbent assay. The immunized animals exhibited normal menstrual cyclicity and progesterone profile, except during the summer amenorrhoea. Immunized animals, when mated with males of proven fertility, showed protection from conceiving for cumulative 45 ovulatory cycles in r-bmZP1-DT immunized group and 32 ovulatory cycles in r-bmZP2-DT immunized group. Ovarian histopathology of both the immunized groups revealed the presence of atretic follicles with degenerated oocytes, which may have been the principle cause for the failure of immunized animals to conceive in spite of the decline in either anti-r-bmZP1 or anti-r-bmZP2 antibody titres to background levels. These studies demonstrate, for the first time, that the block of fertility subsequent to immunization with r-bmZP1 and r-bmZP2, in a homologous non-human primate model, may be mediated due to ovarian dysfunction.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "12706677",
+      "title": "Characterization of immune response in mice to plasmid DNA encoding dog zona pellucida glycoprotein-3.",
+      "authors": [
+        "Archana Rath",
+        "Deepika Batra",
+        "Rupinderjeet Kaur",
+        "Sudhanshu Vrati",
+        "Satish K Gupta"
+      ],
+      "year": "2003",
+      "journal": "Vaccine",
+      "doi": "10.1016/s0264-410x(02)00824-1",
+      "doi_link": "https://doi.org/10.1016/s0264-410x(02)00824-1",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12706677",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Characterization%20of%20immune%20response%20in%20mice%20to%20plasmid%20DNA%20encoding%20dog%20zona%20pellucida%20glycoprotein-3%22",
+      "citations": {
+        "semantic_scholar": 14
+      },
+      "abstract": "To investigate the immunogenicity of plasmid DNA encoding dog zona pellucida glycoprotein-3 (dZP3), the cDNA corresponding to dZP3, was cloned in mammalian expression vector VR1020 downstream of tissue plasminogen activator signal sequence under cytomegalovirus promoter (VRdZP3). In vitro transfection of COS-1 mammalian cells with VRdZP3 plasmid DNA led to its cytosolic expression. The expressed dZP3 has an apparent molecular weight of 45kDa as compared to calculated molecular weight of 38.4 kDa, suggesting possible glycosylation. Immunization of male BALB/cJ mice with VRdZP3 plasmid DNA in saline, by electroporation or adsorbed onto gold microcarriers (delivered by gene gun) generated antibody response against Escherichia coli expressed recombinant dZP3 (r-dZP3). Administration of r-dZP3 in saline following immunization with plasmid DNA led to boosting of the antibody response. Although mice immunized with gene gun exhibited highest antibody titres, the differences in the antibody titres seen by the three modes of plasmid DNA delivery were not statistically significant (P>0.05). Interestingly, female mice immunized with VRdZP3 plasmid DNA using gene gun also generated antibodies against r-dZP3. A dominant IgG1 isotype response was observed in mice immunized with VRdZP3 plasmid DNA using gene gun as compared to a mixed IgG1-IgG2a isotype response when delivered in saline or by electroporation. Immunization with VRdZP3 plasmid DNA also generated cell mediated immune response. The antibodies generated by VRdZP3 plasmid DNA recognized dog native zona pellucida. These studies for the first time, demonstrate the feasibility of generating an immune response to ZP3 by DNA vaccine and that the antibodies thus generated recognize native zona pellucida.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "15805145",
+      "title": "Baculovirus-expressed recombinant human zona pellucida glycoprotein-B induces acrosomal exocytosis in capacitated spermatozoa in addition to zona pellucida glycoprotein-C.",
+      "authors": [
+        "Sanchita Chakravarty",
+        "K Suraj",
+        "Satish Kumar Gupta"
+      ],
+      "year": "2005",
+      "journal": "Molecular human reproduction",
+      "doi": "10.1093/molehr/gah165",
+      "doi_link": "https://doi.org/10.1093/molehr/gah165",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15805145",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Baculovirus-expressed%20recombinant%20human%20zona%20pellucida%20glycoprotein-B%20induces%20acrosomal%20exocytosis%20in%20capacitated%20spermatozoa%20in%20addition%20to%20zona%20pellucida%20glycoprotein-C%22",
+      "citations": {
+        "semantic_scholar": 56
+      },
+      "abstract": "To facilitate our understanding of the role of zona pellucida glycoproteins during fertilization in humans, recombinant human zona pellucida glycoprotein-A (hZPA), -B (hZPB) and -C (hZPC) were obtained by using Escherichia coli and baculovirus expression systems. Analysis by SDS-PAGE and Western blot of the Ni-NTA affinity purified recombinant proteins revealed that the baculovirus-expressed hZPA, hZPB and hZPC have an apparent molecular weight of approximately 110, approximately 70-75 and approximately 65 kDa, respectively, as compared to approximately 80, approximately 65 and approximately 50 kDa of the respective E. coli-expressed proteins. Lectin binding studies revealed that the baculovirus-expressed recombinant zona proteins were glycosylated. Major oligosaccharides were represented by strong reactivity with Concanavalin A (mannose alpha 1-3 or mannose alpha 1-6 residues) and Jacalin (alpha-O glycosides of Gal or GalNAc moieties). A significant increase in acrosomal exocytosis was observed when capacitated human sperm were incubated in vitro with baculovirus-expressed hZPB (P=0.0005) and hZPC (P=0.0005) The E. coli-expressed hZPB, hZPC and baculovirus-expressed hZPA failed to induce any significant increase (P>0.05) in acrosome reaction. In contrast to hZPC, the acrosome reaction induced by recombinant hZPB was not inhibited by pertussis toxin. These studies, for the first time, have demonstrated that in humans, ZPB also induces acrosomal exocytosis through a Gi independent pathway.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "19246320",
+      "title": "Functional activity of human ZP3 primary sperm receptor resides toward its C-terminus.",
+      "authors": [
+        "Pankaj Bansal",
+        "Kausiki Chakrabarti",
+        "Satish K Gupta"
+      ],
+      "year": "2009",
+      "journal": "Biology of reproduction",
+      "doi": "10.1095/biolreprod.108.074716",
+      "doi_link": "https://doi.org/10.1095/biolreprod.108.074716",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19246320",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Functional%20activity%20of%20human%20ZP3%20primary%20sperm%20receptor%20resides%20toward%20its%20C-terminus%22",
+      "citations": {
+        "semantic_scholar": 25
+      },
+      "abstract": "Zona pellucida glycoprotein 3 (ZP3) has been ascribed as a putative primary sperm receptor during fertilization in humans. Herein, attempts have been made to delineate the functional domain of human ZP3. ZP3 has been cloned and expressed in a baculovirus expression system as N-terminal fragments (amino acid [aa] residues 1-175 [pAc-ZP3(1-175 aa)] and 23-175 [pBg-ZP3(23-175 aa)]) and as C-terminal fragments (aa residues 214-305 [pBg-ZP3(214-305 aa)] and 214-348 [pBg-ZP3(214-348 aa)]). ZP3 encompassing both N- and C-terminal fragments corresponding to aa residues 1-370 (pAc-ZP3([1-370 aa])) has also been expressed. Lectin-binding analysis with these recombinant proteins revealed the presence of N- and O-linked glycosylation. Significant induction of acrosomal exocytosis was observed when capacitated sperm were incubated with pBg-ZP3(214-348 aa), pBg-ZP3(214-305 aa), and pAc-ZP3(1-370 aa) (P < 0.05), whereas incubation with pAc-ZP3(1-175 aa) and pBg-ZP3(23-175 aa) failed to do so under similar experimental conditions. However, N- and C-terminal fragments labeled with fluorescein isothiocyanate revealed binding to the anterior head of capacitated human spermatozoa. Escherichia coli-expressed ZP3 C-terminal fragments and chemically deglycosylated pBg-ZP3(214-348 aa) failed to induce a significant (P > 0.05) increase in acrosomal exocytosis, suggesting the relevance of glycosylation in imparting functional activity to ZP3 C-terminal fragments. pBg-ZP3(214-348 aa)-mediated induction of acrosomal exocytosis is regulated by G(i) protein, extracellular calcium, GABA(A) [gamma aminobutyric acid (A)] receptor-mediated Cl(-) channel, and T-type voltage-operated calcium channels. Taken together, the results of these studies suggest that the functional activity of human ZP3 resides in its C-terminal domain.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "20504872",
+      "title": "In humans, zona pellucida glycoprotein-1 binds to spermatozoa and induces acrosomal exocytosis.",
+      "authors": [
+        "Anasua Ganguly",
+        "Antonin Bukovsky",
+        "Raj K Sharma",
+        "Pankaj Bansal",
+        "Beena Bhandari",
+        "Satish K Gupta"
+      ],
+      "year": "2010",
+      "journal": "Human reproduction (Oxford, England)",
+      "doi": "10.1093/humrep/deq105",
+      "doi_link": "https://doi.org/10.1093/humrep/deq105",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20504872",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22In%20humans%2C%20zona%20pellucida%20glycoprotein-1%20binds%20to%20spermatozoa%20and%20induces%20acrosomal%20exocytosis%22",
+      "citations": {
+        "semantic_scholar": 54
+      },
+      "abstract": "BACKGROUND: It has been suggested that the zona pellucida (ZP) may mediate species-specific fertilization. In human the ZP is composed of four glycoproteins: ZP1, ZP2, ZP3 and ZP4. In the present study, the expression profile of ZP1 in human oocytes and ovaries, and its role during fertilization, is presented. METHODS: Human ZP1 (amino acid residues 26-551) was cloned and expressed in both non-glycosylated and glycosylated forms and its ability to bind to the capacitated human spermatozoa and to induce acrosomal exocytosis was studied. Monoclonal antibodies (MAbs), specific for human ZP1 and devoid of reactivity with ZP2, ZP3 and ZP4 were generated and used to localize native ZP1 in oocytes and ovarian tissues. RESULTS: The MAbs generated against ZP1 recognized specifically the zona matrix of secondary and antral follicles, ovulated oocytes, atretic follicles and degenerating intravascular oocytes, but failed to react with the Fallopian tube, endometrium, ectocervix and kidney. Escherichia coli and baculovirus-expressed recombinant human ZP1 revealed bands of approximately 75 and approximately 85 kDa, respectively, in western blot. Lectin binding studies revealed the presence of both N- and O-linked glycosylation in baculovirus-expressed ZP1. Fluorescein isothiocyanate-labelled E. coli- and baculovirus-expressed recombinant ZP1 bound to the anterior head of capacitated spermatozoa, however, only baculovirus-expressed ZP1 induced acrosomal exocytosis in capacitated sperm suggesting the importance of glycosylation in mediating the acrosome reaction. The human ZP1-mediated acrosome reaction involved the activation of both T- and L-type voltage-operated calcium channels, but does not activate the G(i)-coupled receptor pathway. Inhibition of protein kinase A and C significantly also reduced the ZP1-mediated induction of the acrosome reaction. CONCLUSION: These studies revealed for the first time that in humans ZP1, in addition to ZP3 and ZP4, binds to capacitated spermatozoa and induces acrosomal exocytosis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "22235337",
+      "title": "AP-1 transcription factors, mucin-type molecules and MMPs regulate the IL-11 mediated invasiveness of JEG-3 and HTR-8/SVneo trophoblastic cells.",
+      "authors": [
+        "Pankaj Suman",
+        "Geeta Godbole",
+        "Ravi Thakur",
+        "Diana M Morales-Prieto",
+        "Deepak N Modi",
+        "Udo R Markert",
+        "Satish K Gupta"
+      ],
+      "year": "2012",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0029745",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0029745",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22235337",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22AP-1%20transcription%20factors%2C%20mucin-type%20molecules%20and%20MMPs%20regulate%20the%20IL-11%20mediated%20invasiveness%20of%20JEG-3%20and%20HTR-8/SVneo%20trophoblastic%20cells%22",
+      "citations": {
+        "semantic_scholar": 30
+      },
+      "abstract": "This study examines the IL-11 mediated activation of downstream signaling and expression of effector molecules to resolve the controversies associated with the IL-11 mediated regulation of the invasiveness of two commonly used trophoblastic cell models viz. JEG-3 and HTR-8/SVneo cells. It has been reported that IL-11 increases the invasiveness of JEG-3 cells while, reduces the invasiveness of HTR-8/SVneo cells. Invasion assay performed simultaneously for both the cell lines confirmed the above findings. In addition, HTR-8/SVneo cells showed a higher basal invasiveness than JEG-3 cells. Western blot showed the IL-11 mediated activation of STAT3(tyr705) and STAT1(tyr701) in both the cell lines. However, IL-11 activated the ERK1/2 phosphorylation in JEG-3 cells but, inhibited it in HTR-8/SVneo cells. Within 10 min of IL-11 treatment, p-STAT3(tyr705) was localized inside the nucleus of both the cell lines but, there was enhanced co-localization of protein inhibitor of activated STAT1/3 (PIAS1/3) and p-STAT3(tyr705) in HTR-8/SVneo cells and not in JEG-3 cells. This could be reason for the poor responsiveness of STAT3 responsive genes like mucin 1 (MUC1) in HTR-8/SVneo cells and not in JEG-3 cells. Further, microarray analysis of the IL-11 treated cells revealed differential responsiveness of JEG-3 as compared to HTR-8/SVneo cells. Several family of genes like activator protein-1 (AP-1) transcription factors (Jun and Fos), mucin-type molecules, MMP23B etc showed enhanced expression in IL-11 treated JEG-3 cells while, there was no response or decrease in their expression in IL-11 treated HTR-8/SVneo cells. Expression of these molecules was confirmed by quantitative RT-PCR. In addition, HTR-8/SVneo cells also showed a significant decrease in the expression of MMP2, MMP3 and MMP9 upon IL-11 treatment. Hence, IL-11 mediated differential activation of signaling and expression of effector molecules is responsible for the differential invasive response of JEG-3 and HTR-8/SVneo cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "23122949",
+      "title": "Leukemia inhibitory factor increases the invasiveness of trophoblastic cells through integrated increase in the expression of adhesion molecules and pappalysin 1 with a concomitant decrease in the expression of tissue inhibitor of matrix metalloproteinases.",
+      "authors": [
+        "Pankaj Suman",
+        "Nachiket Shembekar",
+        "Satish Kumar Gupta"
+      ],
+      "year": "2013",
+      "journal": "Fertility and sterility",
+      "doi": "10.1016/j.fertnstert.2012.10.004",
+      "doi_link": "https://doi.org/10.1016/j.fertnstert.2012.10.004",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23122949",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Leukemia%20inhibitory%20factor%20increases%20the%20invasiveness%20of%20trophoblastic%20cells%20through%20integrated%20increase%20in%20the%20expression%20of%20adhesion%20molecules%20and%20pappalysin%201%20with%20a%20concomitant%20decrease%20in%20the%20expression%20of%20tissue%20inhibitor%20of%20matrix%20metalloproteinases%22",
+      "citations": {
+        "crossref": 35
+      },
+      "abstract": "OBJECTIVE: To identify the invasion-associated molecules during leukemia inhibitory factor-(LIF-)mediated increase in the invasion of trophoblast cells. DESIGN: Experimental study. SETTING: Research institution. PATIENT(S): None. INTERVENTION(S): Cultured trophoblastic HTR-8/SVneo cells were treated with LIF. MAIN OUTCOME MEASURE(S): Matrigel matrix-based invasion assay of HTR-8/SVneo cells. Signaling molecules associated with LIF-mediated increase in invasion were investigated by Western blot, cDNA microarray, quantitative reverse transcriptase polymerase chain reaction, immunofluorescence, immunohistochemistry, and gene silencing by siRNA. RESULT(S): Treatment of HTR-8/SVneo cells with LIF (50 ng/mL) led to a significant increase in invasion. Treatment with LIF also led to an increase in nuclear localization of activated STAT1 and STAT3. Among 237 differentially expressed genes after LIF treatment, expression of pappalysin 1, SERPINB3, podoplanin, integrin β3, ID1, ICAM1, and so on went up, while tissue inhibitor of matrix metalloproteinase 1 (TIMP1), TIMP2, and TIMP3 went down significantly. The presence of several of these proteins has also been demonstrated in human trophoblast cells. Silencing of pappalysin 1 led to a significant reduction in basal as well as LIF-mediated invasiveness of HTR-8/SVneo cells. CONCLUSION(S): Identification of novel molecules associated with a LIF-mediated increase in trophoblastic cell invasion may facilitate our understanding of implantation biology.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 10,
+    "publications_by_year": {
+      "2013": 1,
+      "2012": 1,
+      "2010": 1,
+      "2009": 1,
+      "2005": 1,
+      "2003": 1,
+      "2002": 1,
+      "2000": 1,
+      "1994": 1,
+      "1985": 1
+    },
+    "top_journals": [
+      "Proceedings of the National Academy of Sciences of the United States of America",
+      "Biology of reproduction",
+      "Vaccine",
+      "Molecular human reproduction",
+      "Human reproduction (Oxford, England)"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 28,
+      "frequent_collaborators": [
+        "Satish K Gupta",
+        "S K Gupta",
+        "Satish Kumar Gupta",
+        "V Singh",
+        "D Sahal",
+        "K S Iyer",
+        "O Singh",
+        "R Pannell"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "7809087",
+        "title": "Somatic mutation of immunoglobulin lambda chains: a segment of the major intron hypermutates as much as the complementarity-determining regions.",
+        "citations": 73,
+        "year": "1994"
+      },
+      {
+        "publication_id": "15805145",
+        "title": "Baculovirus-expressed recombinant human zona pellucida glycoprotein-B induces acrosomal exocytosis in capacitated spermatozoa in addition to zona pellucida glycoprotein-C.",
+        "citations": 56,
+        "year": "2005"
+      },
+      {
+        "publication_id": "20504872",
+        "title": "In humans, zona pellucida glycoprotein-1 binds to spermatozoa and induces acrosomal exocytosis.",
+        "citations": 54,
+        "year": "2010"
+      }
+    ]
+  }
+}

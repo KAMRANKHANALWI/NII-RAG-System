@@ -1,0 +1,452 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Agam P. Singh",
+    "email": "singhap@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-agam-p-singh",
+    "research_domain": "Immunity & Infection",
+    "faculty_status": "current",
+    "search_date": "2025-07-01T11:19:04.019834",
+    "total_publications": 15,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Agam P. Singh, current faculty in Immunity & Infection at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "40101454",
+      "title": "Novel, fully human, anti-PfCSP antibodies with potent antimalarial activity using a phage display based strategy.",
+      "authors": [
+        "Sadaf Parveen",
+        "Pragyan Parimita Rath",
+        "Shams Tabrez",
+        "Summaiya Khan",
+        "Pooja Singh",
+        "Shaikh Zikra Arkam",
+        "Sheenam Verma",
+        "Shahnawaz Ahmad",
+        "Susheel K Singh",
+        "Iqbal Taliy Junaid",
+        "Dhiraj Kumar",
+        "Michael Theisen",
+        "Dinesh Gupta",
+        "Asif Mohmmed",
+        "Dinakar M Salunke",
+        "Agam P Singh",
+        "Pawan Malhotra"
+      ],
+      "year": "2025",
+      "journal": "Vaccine",
+      "doi": "10.1016/j.vaccine.2025.126993",
+      "doi_link": "https://doi.org/10.1016/j.vaccine.2025.126993",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40101454",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Novel%2C%20fully%20human%2C%20anti-PfCSP%20antibodies%20with%20potent%20antimalarial%20activity%20using%20a%20phage%20display%20based%20strategy%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "Developing an effective vaccine against malaria remains a prime goal of human health. The circumsporozoite protein (CSP) is a major surface protein of the sporozoites, and is the target of two licensed Plasmodium falciparum malaria vaccines, RTS,S/AS01, named Mosquirix and R21/Matrix-M. However, to improve the standards set by these vaccines we require a second-generation or prophylactic vaccine. Recently, monoclonal antibodies have emerged as essential biopharmaceutical prophylactic vaccines. The present study targeted recombinant Plasmodium falciparum CSP (rPfCSP) with a phage display of human single-fold scFv Tomlinson libraries I+J and picked fourteen scFvs that represented two independent clones after sequencing; CL1 and CL3. These phages were analysed for their binding to rPfCSP. The selected scFvs were cloned in a human IgG1 Fc tag vector, to generate scFv-Fc full-length antibody clones. CL1 bound rPfCSP protein with a KD of 3.8x10-6M and CL3 bound rPfCSP protein with a KD of 5.6 x 10-5 M. These antibodies detected native PfCSP on the sporozoite surface. Molecular docking simulation revealed that rPfCSP residues interacting with CL1 and CL3 were downstream of the repeat region. These antibodies inhibited the sporozoite infectivity into HepG2 cells, similar to a gold standard monoclonal antibody, 2A10. Low-dose passive transfer of the CL1 and CL3 antibodies conferred high-level protection when challenged with PfCSP-Pb transgenic parasites in the mouse infection model. The high in vitro and in vivo efficacies of the CL1 and CL3 antibodies have applications in malaria immunoprophylaxis in protecting travellers and military servicemen or as a therapeutic vaccine in malaria elimination programmes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "38139056",
+      "title": "Reprogramming in Candida albicans Gene Expression Network under Butanol Stress Abrogates Hyphal Development.",
+      "authors": [
+        "Rajesh Anand",
+        "Mohammad Kashif",
+        "Awadhesh Pandit",
+        "Ram Babu",
+        "Agam P Singh"
+      ],
+      "year": "2023",
+      "journal": "International journal of molecular sciences",
+      "doi": "10.3390/ijms242417227",
+      "doi_link": "https://doi.org/10.3390/ijms242417227",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38139056",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Reprogramming%20in%20Candida%20albicans%20Gene%20Expression%20Network%20under%20Butanol%20Stress%20Abrogates%20Hyphal%20Development%22",
+      "citations": {
+        "crossref": 6
+      },
+      "abstract": "Candida albicans is the causative agent of invasive fungal infections. Its hyphae-forming ability is regarded as one of the important virulence factors. To unravel the impact of butanol on Candida albicans, it was placed in O+ve complete human serum with butanol (1% v/v). The Candida transcriptome under butanol stress was then identified by mRNA sequencing. Studies including electron microscopy demonstrated the inhibition of hyphae formation in Candida under the influence of butanol, without any significant alteration in growth rate. The numbers of genes upregulated in the butanol in comparison to the serum alone were 1061 (20 min), 804 (45 min), and 537 (120 min). Candida cells exhibited the downregulation of six hypha-specific transcription factors and the induction of four repressor/regulator genes. Many of the hypha-specific genes exhibited repression in the medium with butanol. The genes related to adhesion also exhibited repression, whereas, among the heat-shock genes, three showed inductions in the presence of butanol. The fungal-specific genes exhibited induction as well as repression in the butanol-treated Candida cells. Furthermore, ten upregulated genes formed the core stress gene set in the presence of butanol. In the gene ontology analysis, enrichment of the processes related to non-coding RNA, ribosome biosynthesis, and metabolism was observed in the induced gene set. On the other side, a few GO biological process terms, including biofilm formation and filamentous growth, were enriched in the repressed gene set. Taken together, under butanol stress, Candida albicans is unable to extend hyphae and shows growth by budding. Many of the genes with perturbed expression may have fitness or virulence attributes and may provide prospective sites of antifungal targets against C. albicans.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "37813288",
+      "title": "Annickia affinis (Exell) Versteegh & Sosef methanol stem bark extract, potent fractions and isolated Berberine alkaloid target both blood and liver stages of malaria parasites.",
+      "authors": [
+        "Nekpen Erhunse",
+        "Surekha Kumari",
+        "Anmol",
+        "Pooja Singh",
+        "Ehimwenma Sheena Omoregie",
+        "Agam Prasad Singh",
+        "Upendra Sharma",
+        "Dinkar Sahal"
+      ],
+      "year": "2024",
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2023.117269",
+      "doi_link": "https://doi.org/10.1016/j.jep.2023.117269",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37813288",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Annickia%20affinis%20%28Exell%29%20Versteegh%20%26%20Sosef%20methanol%20stem%20bark%20extract%2C%20potent%20fractions%20and%20isolated%20Berberine%20alkaloid%20target%20both%20blood%20and%20liver%20stages%20of%20malaria%20parasites%22",
+      "citations": {
+        "crossref": 4
+      },
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Having identified Annickia affinis as the most potent antiplasmodial plant constituent in a hepta-herbal Agbo-iba (HHA) formula commonly used to manage malaria in Benin city, Nigeria, we have in this study attempted to identify the specialized metabolites responsible for antiplasmodial activity of A. affinis through anti-blood stage malaria parasite activity guided isolation of potent molecules from its stem bark methanol extract. After that, phenotypic effects, including stage-specific kill kinetics, were investigated. Further, the crude extract, its potent fractions, and specialized metabolites were also tested against the liver-stage malaria parasite. MATERIALS AND METHODS: A. affinis was subjected to molecular PCR-based analysis to confirm its identity. Thereafter, extraction of its stem bark with methanol was carried out. Alkaloid enriched fractions from this stem bark extract were obtained using the acid-base-solvent extraction method. These alkaloid-enriched fractions were subjected to various chromatographic techniques that led to the isolation of two protoberberine alkaloids identified as berberine and palmatine based on NMR and mass spectrometry analysis. The efficacy of crude extract, fractions and purified alkaloids was tested against the malaria parasite's blood and liver stages, respectively. RESULTS AND DISCUSSION: Annickia affinis methanol extract, fractions, and the isolated protoberberine alkaloids showed excellent antiplasmodial activity with good selectivity against blood-stage malaria parasite. Thus, their IC50 against various strains of the parasite ranged from 0.95 to 18.65 μg/ml, while CC50 against Human embryonic kidney (HEK) and the human hepatoma (HUH-7) cell lines ranged between 10 and > 100 μg/ml. Interestingly, the crude extract and the alkaloid enriched fractions showed promising activity against the liver-stage malaria parasite. Between berberine and palmatine isolated from the potent fractions, only the former showed ∼100% and 90% inhibitions of liver stage parasite at 5 μg/ml and 1 μg/ml, respectively, while the latter showed no inhibition even at 20 μg/ml. CONCLUSION: This study reports that the ethnomedicinal use of HHA to manage malaria can be attributed to the presence of promising antiplasmodial protoberberine alkaloids together with synergistic effects via either enhancement of bioavailability or improved pharmacokinetics by other phytoconstituent(s) coming from other HHA constituent plants. The protoberberine alkaloids isolated have been identified as fast-acting antiplasmodial agents, with activity against all erythrocytic stages of the malaria parasite. Further, A. affinis methanol stembark extract and the protoberberine alkaloid berberine isolated from it also displayed excellent activity (>90% inhibition at 1 μg/ml) against the liver-stage malaria parasite. A. affinis and HHA can thus be useful as both liver-stage prophylactic and blood-stage curative agents.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "36585808",
+      "title": "The nuclear effector ArPEC25 from the necrotrophic fungus Ascochyta rabiei targets the chickpea transcription factor CaβLIM1a and negatively modulates lignin biosynthesis, increasing host susceptibility.",
+      "authors": [
+        "Shreenivas Kumar Singh",
+        "Ankita Shree",
+        "Sandhya Verma",
+        "Kunal Singh",
+        "Kamal Kumar",
+        "Vikas Srivastava",
+        "Ritu Singh",
+        "Samiksha Saxena",
+        "Agam Prasad Singh",
+        "Ashutosh Pandey",
+        "Praveen Kumar Verma"
+      ],
+      "year": "2023",
+      "journal": "The Plant cell",
+      "doi": "10.1093/plcell/koac372",
+      "doi_link": "https://doi.org/10.1093/plcell/koac372",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36585808",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20nuclear%20effector%20ArPEC25%20from%20the%20necrotrophic%20fungus%20Ascochyta%20rabiei%20targets%20the%20chickpea%20transcription%20factor%20Ca%CE%B2LIM1a%20and%20negatively%20modulates%20lignin%20biosynthesis%2C%20increasing%20host%20susceptibility%22",
+      "citations": {
+        "semantic_scholar": 12
+      },
+      "abstract": "Fungal pathogens deploy a barrage of secreted effectors to subvert host immunity, often by evading, disrupting, or altering key components of transcription, defense signaling, and metabolic pathways. However, the underlying mechanisms of effectors and their host targets are largely unexplored in necrotrophic fungal pathogens. Here, we describe the effector protein Ascochyta rabiei PEXEL-like Effector Candidate 25 (ArPEC25), which is secreted by the necrotroph A. rabiei, the causal agent of Ascochyta blight disease in chickpea (Cicer arietinum), and is indispensable for virulence. After entering host cells, ArPEC25 localizes to the nucleus and targets the host LIM transcription factor CaβLIM1a. CaβLIM1a is a transcriptional regulator of CaPAL1, which encodes phenylalanine ammonia lyase (PAL), the regulatory, gatekeeping enzyme of the phenylpropanoid pathway. ArPEC25 inhibits the transactivation of CaβLIM1a by interfering with its DNA-binding ability, resulting in negative regulation of the phenylpropanoid pathway and decreased levels of intermediates of lignin biosynthesis, thereby suppressing lignin production. Our findings illustrate the role of fungal effectors in enhancing virulence by targeting a key defense pathway that leads to the biosynthesis of various secondary metabolites and antifungal compounds. This study provides a template for the study of less explored necrotrophic effectors and their host target functions.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "35890267",
+      "title": "The Multistage Antimalarial Compound Calxinin Perturbates P. falciparum Ca2+ Homeostasis by Targeting a Unique Ion Channel.",
+      "authors": [
+        "Yash Gupta",
+        "Neha Sharma",
+        "Snigdha Singh",
+        "Jesus G Romero",
+        "Vinoth Rajendran",
+        "Reagan M Mogire",
+        "Mohammad Kashif",
+        "Jordan Beach",
+        "Walter Jeske",
+        "Poonam",
+        "Bernhards R Ogutu",
+        "Stefan M Kanzok",
+        "Hoseah M Akala",
+        "Jennifer Legac",
+        "Philip J Rosenthal",
+        "David J Rademacher",
+        "Ravi Durvasula",
+        "Agam P Singh",
+        "Brijesh Rathi",
+        "Prakasha Kempaiah"
+      ],
+      "year": "2022",
+      "journal": "Pharmaceutics",
+      "doi": "10.3390/pharmaceutics14071371",
+      "doi_link": "https://doi.org/10.3390/pharmaceutics14071371",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35890267",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20Multistage%20Antimalarial%20Compound%20Calxinin%20Perturbates%20P.%20falciparum%20Ca2%2B%20Homeostasis%20by%20Targeting%20a%20Unique%20Ion%20Channel%22",
+      "citations": {
+        "semantic_scholar": 9
+      },
+      "abstract": "Malaria elimination urgently needs novel antimalarial therapies that transcend resistance, toxicity, and high costs. Our multicentric international collaborative team focuses on developing multistage antimalarials that exhibit novel mechanisms of action. Here, we describe the design, synthesis, and evaluation of a novel multistage antimalarial compound, 'Calxinin'. A compound that consists of hydroxyethylamine (HEA) and trifluoromethyl-benzyl-piperazine. Calxinin exhibits potent inhibitory activity in the nanomolar range against the asexual blood stages of drug-sensitive (3D7), multidrug-resistant (Dd2), artemisinin-resistant (IPC4912), and fresh Kenyan field isolated Plasmodium falciparum strains. Calxinin treatment resulted in diminished maturation of parasite sexual precursor cells (gametocytes) accompanied by distorted parasite morphology. Further, in vitro liver-stage testing with a mouse model showed reduced parasite load at an IC50 of 79 nM. A single dose (10 mg/kg) of Calxinin resulted in a 30% reduction in parasitemia in mice infected with a chloroquine-resistant strain of the rodent parasite P. berghei. The ex vivo ookinete inhibitory concentration within mosquito gut IC50 was 150 nM. Cellular in vitro toxicity assays in the primary and immortalized human cell lines did not show cytotoxicity. A computational protein target identification pipeline identified a putative P. falciparum membrane protein (Pf3D7_1313500) involved in parasite calcium (Ca2+) homeostasis as a potential Calxinin target. This highly conserved protein is related to the family of transient receptor potential cation channels (TRP-ML). Target validation experiments showed that exposure of parasitized RBCs (pRBCs) to Calxinin induces a rapid release of intracellular Ca2+ from pRBCs; leaving de-calcinated parasites trapped in RBCs. Overall, we demonstrated that Calxinin is a promising antimalarial lead compound with a novel mechanism of action and with potential therapeutic, prophylactic, and transmission-blocking properties against parasites resistant to current antimalarials.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "35670460",
+      "title": "Plasmodium falciparum metacaspase-2 capture its natural substrate in a non-canonical way.",
+      "authors": [
+        "Vandana",
+        "Rajan Pandey",
+        "E Srinivasan",
+        "Inderjeet Kalia",
+        "Agam P Singh",
+        "Ajay Saxena",
+        "R Rajaekaran",
+        "Dinesh Gupta",
+        "Kailash C Pandey"
+      ],
+      "year": "2021",
+      "journal": "Journal of biochemistry",
+      "doi": "10.1093/jb/mvab086",
+      "doi_link": "https://doi.org/10.1093/jb/mvab086",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35670460",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Plasmodium%20falciparum%20metacaspase-2%20capture%20its%20natural%20substrate%20in%20a%20non-canonical%20way%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "Programmed cell death (PCD) is a multi-step process initiated by a set of proteases, which interacts and cleaves diverse proteins, thus modulating their biochemical and cellular functions. In metazoans, PCD is mediated by proteolytic enzymes called caspases, which triggered cell death by proteolysis of human Tudor staphylococcus nuclease (TSN). Non-metazoans lack a close homologue of caspases but possess an ancestral family of cysteine proteases termed 'metacaspases'. Studies supported that metacaspases are involved in PCD, but their natural substrates remain unknown. In this study, we performed the Plasmodium falciparum TSN (PfTSN) cleavage assay using wild and selected mutants of P. falciparum metacaspases-2 (PfMCA-2) in vitro and in vivo. Interestingly, PfMCA-2, cleaved a phylogenetically conserved protein, PfTSN at multiple sites. Deletion or substitution mutation in key interacting residues at the active site, Cys157 and His205 of PfMCA-2, impaired its enzymatic activity with the artificial substrate, z-GRR-AMC. However, the mutant Tyr224A did not affect the activity with z-GRR-AMC but abolished the cleavage of PfTSN. These results indicated that the catalytic dyad, Cys157 and His205 of PfMCA-2 was essential for its enzymatic activity with an artificial substrate, whereas Tyr224 and Cys157 residues were responsible for its interaction with the natural substrate and subsequent degradation of PfTSN. Our results suggested that MCA-2 interacts with TSN substrate in a non-canonical way using non-conserved or conformationally available residues for its binding and cleavage. In future, it would be interesting to explore how this interaction leads to the execution of PCD in the Plasmodium.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "35264080",
+      "title": "Dissecting The role of Plasmodium metacaspase-2 in malaria gametogenesis and sporogony.",
+      "authors": [
+        "Vandana Kumari",
+        "Kona Madhavinadha Prasad",
+        "Inderjeet Kalia",
+        "Gagandeep Sindhu",
+        "Rajnikant Dixit",
+        "Diwan S Rawat",
+        "O P Singh",
+        "Agam P Singh",
+        "Kailash C Pandey"
+      ],
+      "year": "2022",
+      "journal": "Emerging microbes & infections",
+      "doi": "10.1080/22221751.2022.2052357",
+      "doi_link": "https://doi.org/10.1080/22221751.2022.2052357",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35264080",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Dissecting%20The%20role%20of%20Plasmodium%20metacaspase-2%20in%20malaria%20gametogenesis%20and%20sporogony%22",
+      "citations": {
+        "semantic_scholar": 13
+      },
+      "abstract": "The family of apicomplexan specific proteins contains caspases-like proteins called \"metacaspases\". These enzymes are present in the malaria parasite but absent in human; therefore, these can be explored as potential drug targets. We deleted the MCA-2 gene from Plasmodium berghei genome using a gene knockout strategy to decipher its precise function. This study has identified that MCA-2 plays an important role in parasite transmission since it is critical for the formation of gametocytes and for maintaining an appropriate number of infectious sporozoites required for sporogony. It is noticeable that a significant reduction in gametocyte, oocysts, ookinete and sporozoites load along with a delay in hepatocytes invasion were observed in the MCA-2 knockout parasite. Furthermore, a study found the two MCA-2 inhibitory molecules known as C-532 and C-533, which remarkably inhibited the MCA-2 activity, abolished the in vitro parasite growth, and also impaired the transmission cycle of P. falciparum and P. berghei in An. stephensi. Our findings indicate that the deletion of MCA-2 hampers the Plasmodium development during erythrocytic and exo-erythrocytic stages, and its inhibition by C-532 and C-533 critically affects the malaria transmission biology.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "34987497",
+      "title": "Plasmodium berghei-Released Factor, PbTIP, Modulates the Host Innate Immune Responses.",
+      "authors": [
+        "Inderjeet Kalia",
+        "Rajesh Anand",
+        "Afshana Quadiri",
+        "Shreya Bhattacharya",
+        "Bijayalaxmi Sahoo",
+        "Agam Prasad Singh"
+      ],
+      "year": "2021",
+      "journal": "Frontiers in immunology",
+      "doi": "10.3389/fimmu.2021.699887",
+      "doi_link": "https://doi.org/10.3389/fimmu.2021.699887",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34987497",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Plasmodium%20berghei-Released%20Factor%2C%20PbTIP%2C%20Modulates%20the%20Host%20Innate%20Immune%20Responses%22",
+      "citations": {
+        "semantic_scholar": 10
+      },
+      "abstract": "The Plasmodium parasite has to cross various immunological barriers for successful infection. Parasites have evolved mechanisms to evade host immune responses, which hugely contributes to the successful infection and transmission by parasites. One way in which a parasite evades immune surveillance is by expressing molecular mimics of the host molecules in order to manipulate the host responses. In this study, we report a Plasmodium berghei hypothetical protein, PbTIP (PbANKA_124360.0), which is a Plasmodium homolog of the human T-cell immunomodulatory protein (TIP). The latter possesses immunomodulatory activities and suppressed the host immune responses in a mouse acute graft-versus-host disease (GvHD) model. The Plasmodium berghei protein, PbTIP, is expressed on the merozoite surface and exported to the host erythrocyte surface upon infection. It is shed in the blood circulation by the activity of an uncharacterized membrane protease(s). The shed PbTIP could be detected in the host serum during infection. Our results demonstrate that the shed PbTIP exhibits binding on the surface of macrophages and reduces their inflammatory cytokine response while upregulating the anti-inflammatory cytokines such as TGF-β and IL-10. Such manipulated immune responses are observed in the later stage of malaria infection. PbTIP induced Th2-type gene transcript changes in macrophages, hinting toward its potential to regulate the host immune responses against the parasite. Therefore, this study highlights the role of a Plasmodium-released protein, PbTIP, in immune evasion using macrophages, which may represent the critical strategy of the parasite to successfully survive and thrive in its host. This study also indicates the human malaria parasite TIP as a potential diagnostic molecule that could be exploited in lateral flow-based immunochromatographic tests for malaria disease diagnosis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "34880324",
+      "title": "Essential role of a Plasmodium berghei heat shock protein (PBANKA_0938300) in gametocyte development.",
+      "authors": [
+        "Mohammad Kashif",
+        "Afshana Quadiri",
+        "Agam Prasad Singh"
+      ],
+      "year": "2021",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-021-03059-4",
+      "doi_link": "https://doi.org/10.1038/s41598-021-03059-4",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34880324",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Essential%20role%20of%20a%20Plasmodium%20berghei%20heat%20shock%20protein%20%28PBANKA_0938300%29%20in%20gametocyte%20development%22",
+      "citations": {
+        "crossref": 7
+      },
+      "abstract": "The continued existence of Plasmodium parasites in physiologically distinct environments during their transmission in mosquitoes and vertebrate hosts requires effector proteins encoded by parasite genes to provide adaptability. Parasites utilize their robust stress response system involving heat shock proteins for their survival. Molecular chaperones are involved in maintaining protein homeostasis within a cell during stress, protein biogenesis and the formation of protein complexes. Due to their critical role in parasite virulence, they are considered targets for therapeutic interventions. Our results identified a putative P. berghei heat shock protein (HSP) belonging to the HSP40 family (HspJ62), which is abundantly induced upon heat stress and expressed during all parasite stages. To determine the role HspJ62, a gene-disrupted P. berghei transgenic line was developed (ΔHspJ62), which resulted in disruption of gametocyte formation. Such parasites were unable to form subsequent sexual stages because of disrupted gametogenesis, indicating the essential role of HspJ62 in gametocyte formation. Transcriptomic analysis of the transgenic line showed downregulation of a number of genes, most of which were specific to male or female gametocytes. The transcription factor ApiAP2 was also downregulated in ΔHspJ62 parasites. Our findings suggest that the downregulation of ApiAP2 likely disrupts the transcriptional regulation of sexual stage genes, leading to impaired gametogenesis. This finding also highlights the critical role that HspJ62 indirectly plays in the development of P. berghei sexual stages and in facilitating the conversion from the asexual blood stage to the sexual stage. This study characterizes the HspJ62 protein as a fertility factor because parasites lacking it are unable to transmit to mosquitoes. This study adds an important contribution to ongoing research aimed at understanding gametocyte differentiation and formation in parasites. The molecule adds to the list of potential drug targets that can be targeted to inhibit parasite sexual development and consequently parasite transmission.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "34358525",
+      "title": "STK35L1 regulates host cell cycle-related genes and is essential for Plasmodium infection during the liver stage of malaria.",
+      "authors": [
+        "Phulwanti Kumari Sharma",
+        "Inderjeet Kalia",
+        "Vibha Kaushik",
+        "Daniela Brünnert",
+        "Afshana Quadiri",
+        "Mohammad Kashif",
+        "Kirti Raj Chahar",
+        "Akhil Agrawal",
+        "Agam Prasad Singh",
+        "Pankaj Goyal"
+      ],
+      "year": "2021",
+      "journal": "Experimental cell research",
+      "doi": "10.1016/j.yexcr.2021.112764",
+      "doi_link": "https://doi.org/10.1016/j.yexcr.2021.112764",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34358525",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22STK35L1%20regulates%20host%20cell%20cycle-related%20genes%20and%20is%20essential%20for%20Plasmodium%20infection%20during%20the%20liver%20stage%20of%20malaria%22",
+      "citations": {
+        "crossref": 6
+      },
+      "abstract": "Protein kinases of both the parasite and the host are crucial in parasite invasion and survival and might act as drug targets against drug-resistant malaria. STK35L1 was among the top five hits in kinome-wide screening, suggesting its role in malaria's liver stage. However, the role of host STK35L1 in malaria remains elusive. In this study, we found that STK35L1 was highly upregulated during the infection of Plasmodium berghei (P. berghei) in HepG2 cells and mice liver, and knockdown of STK35L1 remarkably suppressed the sporozoites' infection in HepG2 cells. We showed that STAT3 is upregulated and phosphorylated during P. berghei sporozoites' infection, and STAT3 activation is required for both the upregulation of STK35L1 and STAT3. Furthermore, we found that ten cell cycle genes were upregulated in the sporozoite-infected hepatocytes. Knockdown of STK35L1 inhibited the basal expression of these genes except CDKN3 and GTSE1 in HepG2 cells. Thus, we identified STK35L1 as a host kinase that plays an obligatory role in malaria's liver stage and propose that it may serve as a potential drug target against drug-resistant malaria.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "34124905",
+      "title": "Novel Antiplasmodial Compounds Leveraged with Multistage Potency against the Parasite Plasmodium falciparum: In Vitro and In Vivo Evaluations and Pharmacokinetic Studies.",
+      "authors": [
+        "Neha Sharma",
+        "Mohammad Kashif",
+        "Vigyasa Singh",
+        "Diana Fontinha",
+        "Budhaditya Mukherjee",
+        "Dhruv Kumar",
+        "Shailja Singh",
+        "Miguel Prudencio",
+        "Agam P Singh",
+        "Brijesh Rathi"
+      ],
+      "year": "2021",
+      "journal": "Journal of medicinal chemistry",
+      "doi": "10.1021/acs.jmedchem.1c00659",
+      "doi_link": "https://doi.org/10.1021/acs.jmedchem.1c00659",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34124905",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Novel%20Antiplasmodial%20Compounds%20Leveraged%20with%20Multistage%20Potency%20against%20the%20Parasite%20Plasmodium%20falciparum%3A%20In%20Vitro%20and%20In%20Vivo%20Evaluations%20and%20Pharmacokinetic%20Studies%22",
+      "citations": {
+        "semantic_scholar": 12
+      },
+      "abstract": "Hydroxyethylamine (HEA)-based novel compounds were synthesized and their activity against Plasmodium falciparum 3D7 was assessed, identifying a few hits without any apparent toxicity. Hits 5c and 5d also exhibited activity against resistant field strains, PfRKL-9 and PfC580Y. A single dose, 50 mg/Kg, of hits administered to the rodent parasite Plasmodium berghei ANKA exhibited up to 70% reduction in the parasite load. Compound 5d tested in combination with artesunate produced an additional antiparasitic effect with a prolonged survival period. Additionally, compound 5d showed 50% inhibition against hepatic P. berghei infection at 1.56 ± 0.56 μM concentration. This compound also considerably delayed the progression of transmission stages, ookinete and oocyst. Furthermore, the toxicity of 5d assessed in mice supported the normal liver and kidney functions. Altogether, HEA analogues (5a-m), particularly 5d, are nontoxic multistage antiplasmodial agents with therapeutic and transmission-blocking efficacy, along with favorable preliminary pharmacokinetic properties.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "33823306",
+      "title": "Conserved Plasmodium Protein (PF3D7_0406000) of Unknown Function: In-silico Analysis and Cellular Localization.",
+      "authors": [
+        "Isha Pandey",
+        "Afshana Quadiri",
+        "Ishan Wadi",
+        "C R Pillai",
+        "Agam P Singh",
+        "Ashis Das"
+      ],
+      "year": "2021",
+      "journal": "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",
+      "doi": "10.1016/j.meegid.2021.104848",
+      "doi_link": "https://doi.org/10.1016/j.meegid.2021.104848",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33823306",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Conserved%20Plasmodium%20Protein%20%28PF3D7_0406000%29%20of%20Unknown%20Function%3A%20In-silico%20Analysis%20and%20Cellular%20Localization%22",
+      "citations": {
+        "crossref": 3
+      },
+      "abstract": "In spite of a decrease in malaria cases, the threat of malaria due to Plasmodium falciparum still prevails. The sequencing of Plasmodium falciparum reveals that approximately 60% of the Plasmodium genes code for hypothetical/putative proteins. Here we report an in silico characterization and localization of one such protein. This was encoded by one of the hub genes, in a weighted gene co-expression based systems network, from in-vivo samples of patients suffering from uncomplicated malaria or complicated malaria disease like jaundice and jaundice with renal failure. Interestingly, the protein PF3D7_0406000 (PFD0300w) is classified as a conserved protein of unknown function and shows no identity with any protein from the human host. The transcriptomic data shows up-regulation of transcripts in cases of malaria induced disease complications. PFD0300w peptide antibody based immunolocalization studies using a, gametocyte producing P. falciparum strain RKL-9, shows presence of the protein in the cytoplasm of both asexual and sexual stage parasites.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "33467515",
+      "title": "Pathogenic Pore Forming Proteins of Plasmodium Triggers the Necrosis of Endothelial Cells Attributed to Malaria Severity.",
+      "authors": [
+        "Abhishek Shivappagowdar",
+        "Swati Garg",
+        "Akriti Srivastava",
+        "Rahul S Hada",
+        "Inderjeet Kalia",
+        "Agam P Singh",
+        "Lalit C Garg",
+        "Soumya Pati",
+        "Shailja Singh"
+      ],
+      "year": "2021",
+      "journal": "Toxins",
+      "doi": "10.3390/toxins13010062",
+      "doi_link": "https://doi.org/10.3390/toxins13010062",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33467515",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Pathogenic%20Pore%20Forming%20Proteins%20of%20Plasmodium%20Triggers%20the%20Necrosis%20of%20Endothelial%20Cells%20Attributed%20to%20Malaria%20Severity%22",
+      "citations": {
+        "crossref": 3
+      },
+      "abstract": "Severe malaria caused by Plasmodium falciparum poses a major global health problem with high morbidity and mortality. P. falciparum harbors a family of pore-forming proteins (PFPs), known as perforin like proteins (PLPs), which are structurally equivalent to prokaryotic PFPs. These PLPs are secreted from the parasites and, they contribute to disease pathogenesis by interacting with host cells. The severe malaria pathogenesis is associated with the dysfunction of various barrier cells, including endothelial cells (EC). Several factors, including PLPs secreted by parasites, contribute to the host cell dysfunction. Herein, we have tested the hypothesis that PLPs mediate dysfunction of barrier cells and might have a role in disease pathogenesis. We analyzed various dysfunctions in barrier cells following rPLP2 exposure and demonstrate that it causes an increase in intracellular Ca2+ levels. Additionally, rPLP2 exposed barrier cells displayed features of cell death, including Annexin/PI positivity, depolarized the mitochondrial membrane potential, and ROS generation. We have further performed the time-lapse video microscopy of barrier cells and found that the treatment of rPLP2 triggers their membrane blebbing. The cytoplasmic localization of HMGB1, a marker of necrosis, further confirmed the necrotic type of cell death. This study highlights the role of parasite factor PLP in endothelial dysfunction and provides a rationale for the design of adjunct therapies against severe malaria.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "35517081",
+      "title": "Potent in vivo antimalarial activity of water-soluble artemisinin nano-preparations.",
+      "authors": [
+        "Praveesh Valissery",
+        "Roshni Thapa",
+        "Jyoti Singh",
+        "Deepak Gaur",
+        "Jaydeep Bhattacharya",
+        "Agam Prasad Singh",
+        "Suman Kumar Dhar"
+      ],
+      "year": "2020",
+      "journal": "RSC advances",
+      "doi": "10.1039/d0ra05597b",
+      "doi_link": "https://doi.org/10.1039/d0ra05597b",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35517081",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Potent%20in%20vivo%20antimalarial%20activity%20of%20water-soluble%20artemisinin%20nano-preparations%22",
+      "citations": {
+        "crossref": 11
+      },
+      "abstract": "Artemisinin is a remarkable compound whose derivatives and combinations with multiple drugs have been utilized at the forefront of malaria treatment. However, the inherent issues of the parent compound such as poor bioavailability, short serum half-life, and high first-pass metabolism partially limit further applications of this drug. In this study, we enhanced the aqueous phase solubility of artemisinin by encapsulating it in two nanocarriers based on the polymer polycaprolactone (ART-PCL) and lipid-based Large Unilamellar Vesicles (ART-LIPO) respectively. Both nanoformulations exhibit in vitro parasite killing activity against Plasmodium falciparum with the ART-LIPO performing at comparable efficacy to the control drug solubilized in ethanol. These water-soluble formulations showed potent in vivo antimalarial activity as well in the mouse model of malaria at equivalent doses of the parent drug. Additionally, the artemisinin-PCL nanoformulation used in combination with either pyrimethamine or chloroquine increased the survival of the Plasmodium berghei infected mice for more than 34 days and effectively cured the mice of the infection. We highlight the potential for polymer and liposome-based nanocarriers in improving not only the aqueous phase solubility of artemisinin but also concomitantly retaining its therapeutic efficacy in vivo as well.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "32973208",
+      "title": "Establishment of a stable transfection method in Babesia microti and identification of a novel bidirectional promoter of Babesia microti.",
+      "authors": [
+        "Dabbu Kumar Jaijyan",
+        "Kavitha Govindasamy",
+        "Jyoti Singh",
+        "Shreya Bhattacharya",
+        "Agam Prasad Singh"
+      ],
+      "year": "2020",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-020-72489-3",
+      "doi_link": "https://doi.org/10.1038/s41598-020-72489-3",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32973208",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Establishment%20of%20a%20stable%20transfection%20method%20in%20Babesia%20microti%20and%20identification%20of%20a%20novel%20bidirectional%20promoter%20of%20Babesia%20microti%22",
+      "citations": {
+        "crossref": 13
+      },
+      "abstract": "Babesia microti, an emerging human pathogen, is primarily transmitted through a bite of an infected tick and blood transfusions in human. Stable transfection technique has been reported in many protozoan parasites over the past few years. However, in vivo transient and stable transfection method has not been established for Babesia microti. Here, for the first time, we present a method of transient as well as stable transfection of the Babesia microti (B. microti) in the in vivo conditions. We have identified a novel promoter of B. microti. We also demonstrated that Plasmodium berghei DHFR promoter is recognized and functional in B. microti. We show that BM-CTQ41297 promoter control the expression of two genes, which are present on either side and thus represents a bi-functional promoter in B. microti. The predicted promoter activity values using Promoter 2.0 program is higher for BM- CTQ41297 promoter than strong promoters such as β-actin, ef-1β, and many other promoters. Furthermore, we discovered a non-essential locus for the genetic manipulation of the parasite, allowing us to stably integrate foreign genes; GFP, mCherry, into the B. microti. The transfection using an electroporation method and genetic manipulation of B. microti is now achievable and it is possible to obtain transfected viable parasites under in vivo growing conditions. The growth curve analysis of transfected and WT B. microti are similar indicating no defects in the transgenic parasites. This study will enable other researchers in understanding the B. microti biology, host modulation and diverse parasite developmental stages using reverse genetics and holds great potential to identify novel drug targets and vaccine development.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 15,
+    "publications_by_year": {
+      "2025": 1,
+      "2024": 1,
+      "2023": 2,
+      "2022": 2,
+      "2021": 7,
+      "2020": 2
+    },
+    "top_journals": [
+      "Scientific reports",
+      "Vaccine",
+      "International journal of molecular sciences",
+      "Journal of ethnopharmacology",
+      "The Plant cell"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 91,
+      "frequent_collaborators": [
+        "Agam P Singh",
+        "Agam Prasad Singh",
+        "Mohammad Kashif",
+        "Inderjeet Kalia",
+        "Afshana Quadiri",
+        "Pooja Singh",
+        "Dinesh Gupta",
+        "Brijesh Rathi"
+      ]
+    },
+    "highest_cited_papers": []
+  }
+}

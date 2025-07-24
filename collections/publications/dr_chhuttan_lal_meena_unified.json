@@ -1,0 +1,753 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Chhuttan Lal Meena",
+    "email": "cl.meena@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-chhuttan-lal-meena",
+    "research_domain": "Chemical Biology, Biochemistry & Structural Biology",
+    "faculty_status": "current",
+    "search_date": "2025-07-01T14:34:28.520763",
+    "total_publications": 27,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Chhuttan Lal Meena, current faculty in Chemical Biology, Biochemistry & Structural Biology at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "40092747",
+      "title": "Amelioration of Glutamate-induced Toxicity by a New Thyrotropin-releasing Hormone (TRH) Analogue PYR-l-(2,5-Dibromo)-His-l-ProNH2.",
+      "authors": [
+        "Mallikarjuna R Sunkara",
+        "Jitendra N Singh",
+        "C L Meena",
+        "A B Pant",
+        "Rahul Jain",
+        "Shyam S Sharma"
+      ],
+      "year": "2025",
+      "journal": "Annals of neurosciences",
+      "doi": "10.1177/09727531241305505",
+      "doi_link": "https://doi.org/10.1177/09727531241305505",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40092747",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Amelioration%20of%20Glutamate-induced%20Toxicity%20by%20a%20New%20Thyrotropin-releasing%20Hormone%20%28TRH%29%20Analogue%20PYR-l-%282%2C5-Dibromo%29-His-l-ProNH2%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "BACKGROUND: Glutamate has been implicated in the pathophysiology of central nervous system diseases, including stroke. PURPOSE: In this study, the neuroprotective potential of the newly synthesised thyrotropin-releasing hormone (TRH) analogue [Pyr-l-(2,5-dibromo)-His-l-ProNH2; NP-2376] against glutamate-induced injury model were investigated. METHODS: Cortical neurons isolated from neonatal rats were used to evaluate the effects of the NP-2376. Cortical neurons were pre-treated with NP-2376 (6, 12 and 24 h) prior to glutamate (15 mM) exposure. Cell viability was determined by 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) and neutral red uptake (NRU) assay, and oxidative stress by chloromethyl-2,7-dichlorodihydrofluorescein diacetate (DCFH-DA) and glutathione assays. RESULTS: NP-2376 protected against glutamate-induced cortical neuron death and oxidative stress in a dose-dependent manner. CONCLUSIONS: This study demonstrates the neuroprotective potential of TRH analogue NP-2376 against glutamate-induced toxicity, which is attributed to a decrease in oxidative stress.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "37980259",
+      "title": "Beyond the polysaccharide and glycoconjugate vaccines for Streptococcus pneumoniae: Does protein/peptide nanovaccines hold promises?",
+      "authors": [
+        "Hitesh Harsukhbhai Chandpa",
+        "Amulya Kumar Panda",
+        "Chhuttan Lal Meena",
+        "Jairam Meena"
+      ],
+      "year": "2023",
+      "journal": "Vaccine",
+      "doi": "10.1016/j.vaccine.2023.11.020",
+      "doi_link": "https://doi.org/10.1016/j.vaccine.2023.11.020",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37980259",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Beyond%20the%20polysaccharide%20and%20glycoconjugate%20vaccines%20for%20Streptococcus%20pneumoniae%3A%20Does%20protein/peptide%20nanovaccines%20hold%20promises%3F%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "Streptococcus pneumoniae having almost 98 serotypes and being common cause of acute otitis media, pneumonia, bacteremia, meningitis etc., which results in high mortality and morbidity globally. Although vaccines like PCV-13 and PPV-23 are available, some problems like serotype replacement and poor immunogenicity in children, old age and immunocompromised people has been observed. To overcome these drawbacks protein/peptide-based vaccine can be a good strategy as these provides wide serotype coverage. However, immunogenicity of protein subunit vaccines is lower, that issue can be solved by using adjuvants. Recently nanoparticles as an adjuvant for vaccine delivery being used, which has provided not only good immunogenicity but also improved delivery and efficiency of protein-based vaccines. In this review we have discussed the latest advancement of nanoparticles-based protein/peptide vaccine delivery for Streptococcus pneumoniae.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "37851916",
+      "title": "Carbamate-Protected (BOC and O-NB) 2-Aminopyrimidinedione-Based Janus G-C Nucleobase Motifs as Building Blocks for Supramolecular Assembly and Smart Polymers.",
+      "authors": [
+        "Dharmendra Singh",
+        "Durga Lakshmi",
+        "Chhuttan L Meena",
+        "Gamidi Rama Krishna",
+        "Gangadhar J Sanjayan"
+      ],
+      "year": "2023",
+      "journal": "The Journal of organic chemistry",
+      "doi": "10.1021/acs.joc.3c01318",
+      "doi_link": "https://doi.org/10.1021/acs.joc.3c01318",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37851916",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Carbamate-Protected%20%28BOC%20and%20O-NB%29%202-Aminopyrimidinedione-Based%20Janus%20G-C%20Nucleobase%20Motifs%20as%20Building%20Blocks%20for%20Supramolecular%20Assembly%20and%20Smart%20Polymers%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "In this paper, we report \"carbamate protected\" 2-aminopyrimidinedione-based Janus G-C nucleobases (2-APD Janus G-C nucleobases) featuring polymerizable groups and self-complementary triple H-bonding motifs DDA and AAD as building blocks for developing smart polymers and self-healing materials. The carbamate-masked H-bonding motif, cleavable under acidic (BOC group) or photocleavable (O-nitrobenzyl group) conditions, would facilitate the synthesis of smart polymers by alleviating aggregation during polymerization which in turn would exclude self-assembly-assisted solubility issues. Ready accessibility in excellent yields coupled with the possibility for facile introduction of polymerizable groups would make these building blocks excellent candidates for diverse polymerization applications.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "36751095",
+      "title": "Histidinal-Based Potent Antimalarial Agents.",
+      "authors": [
+        "Chhuttan L Meena",
+        "Tejashri Hingamire",
+        "Tanya Gupta",
+        "Bhagyashree Deshmukh",
+        "Krishanpal Karmodiya",
+        "Rakesh Joshi",
+        "Dhanasekaran Shanmugam",
+        "Gangadhar J Sanjayan"
+      ],
+      "year": "2023",
+      "journal": "ChemMedChem",
+      "doi": "10.1002/cmdc.202200709",
+      "doi_link": "https://doi.org/10.1002/cmdc.202200709",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36751095",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Histidinal-Based%20Potent%20Antimalarial%20Agents%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "Herein we report the synthesis and evaluation of peptide-histidinal conjugated drug scaffolds, which have the potential to target the hemoglobin-degrading proteases falcipain-2/3 from the human malaria parasite. Scaffolds with various substitutions were tested for antimalarial activity, and compounds 8 g, 8 h, and 15 exhibited EC50 values of ∼0.018 μM, ∼0.069 μM, and ∼0.02 μM, respectively. Structure-based docking studies on falcipain-2/3 proteases (PDB:2GHU and PDB:3BWK) revealed that compounds 8 g, 8 h, and 15 interact strongly with binding sites of falcipain-2/3 in a substrate-like manner. In silico ADME studies revealed that the molecules of interest showed no or minimal violations of drug-likeness parameters. Further, phenotypic assays revealed that compound 8 g and its biotinylated version inhibit hemoglobin degradation in the parasite food vacuole. The identification of falcipain-2/3 targeting potent inhibitors of the malaria parasite can serve as a starting point for the development of lead compounds as future antimalarial drug candidates.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "34984901",
+      "title": "Janus Cross-links in Supramolecular Networks.",
+      "authors": [
+        "Swagata Mondal",
+        "Jacob J Lessard",
+        "Chhuttan L Meena",
+        "Gangadhar J Sanjayan",
+        "Brent S Sumerlin"
+      ],
+      "year": "2022",
+      "journal": "Journal of the American Chemical Society",
+      "doi": "10.1021/jacs.1c10606",
+      "doi_link": "https://doi.org/10.1021/jacs.1c10606",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34984901",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Janus%20Cross-links%20in%20Supramolecular%20Networks%22",
+      "citations": {
+        "crossref": 38
+      },
+      "abstract": "Thermosets composed of cross-linked polymers demonstrate enhanced thermal, solvent, chemical, and dimensional stability as compared to their non-cross-linked counterparts. However, these often-desirable material properties typically come at the expense of reprocessability, recyclability, and healability. One solution to this challenge comes from the construction of polymers that are reversibly cross-linked. We relied on lessons from Nature to present supramolecular polymer networks comprised of cooperative Janus-faced hydrogen bonded cross-links. A triazine-based guanine-cytosine base (GCB) with two complementary faces capable of self-assembly through three hydrogen bonding sites was incorporated into poly(butyl acrylate) to create a reprocessable and recyclable network. Rheological experiments and dynamic mechanical analysis (DMA) were employed to investigate the flow behavior of copolymers with randomly distributed GCB units of varying incorporation. Our studies revealed that the cooperativity of multiple hydrogen bonding faces yields excellent network integrity evidenced by a rubbery plateau that spanned the widest temperature range yet reported for any supramolecular network. To verify that each Janus-faced motif engages in multiple cross-links, we studied the effects of local concentration of the incorporated GCB units within the polymer chain. Mechanical strength improved by colocalizing the GCB within a block copolymer morphology. This enhanced performance revealed that the number of effective cross-links in the network increased with the local concentration of hydrogen bonding units. Overall, this study demonstrates that cooperative noncovalent interactions introduced through Janus-faced hydrogen bonding moieties confers excellent network stability and predictable viscoelastic flow behavior in supramolecular networks.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "33523657",
+      "title": "Triazine-Based Janus G-C Nucleobase as a Building Block for Self-Assembly, Peptide Nucleic Acids, and Smart Polymers.",
+      "authors": [
+        "Chhuttan L Meena",
+        "Dharmendra Singh",
+        "Bhavya Kizhakeetil",
+        "Manasa Prasad",
+        "Malini George",
+        "Srinu Tothadi",
+        "Gangadhar J Sanjayan"
+      ],
+      "year": "2021",
+      "journal": "The Journal of organic chemistry",
+      "doi": "10.1021/acs.joc.0c02530",
+      "doi_link": "https://doi.org/10.1021/acs.joc.0c02530",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33523657",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Triazine-Based%20Janus%20G-C%20Nucleobase%20as%20a%20Building%20Block%20for%20Self-Assembly%2C%20Peptide%20Nucleic%20Acids%2C%20and%20Smart%20Polymers%22",
+      "citations": {
+        "semantic_scholar": 9
+      },
+      "abstract": "This communication reports on the utility of a triazine-based self-assembling system, reminiscent of a Janus G-C nucleobase, as a building block for developing (1) supramolecular polymers, (2) peptide nucleic acids (PNAs), and (3) smart polymers. The strategically positioned self-complementary triple H-bonding arrays DDA and AAD facilitate efficient self-assembly, leading to a linear supramolecular polymer.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "32920342",
+      "title": "Synthesis and evaluation of thiophene based small molecules as potent inhibitors of Mycobacterium tuberculosis.",
+      "authors": [
+        "Chhuttan L Meena",
+        "Padam Singh",
+        "Ravi P Shaliwal",
+        "Varun Kumar",
+        "Arun Kumar",
+        "Anoop Kumar Tiwari",
+        "Shailendra Asthana",
+        "Ramandeep Singh",
+        "Dinesh Mahajan"
+      ],
+      "year": "2020",
+      "journal": "European journal of medicinal chemistry",
+      "doi": "10.1016/j.ejmech.2020.112772",
+      "doi_link": "https://doi.org/10.1016/j.ejmech.2020.112772",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32920342",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Synthesis%20and%20evaluation%20of%20thiophene%20based%20small%20molecules%20as%20potent%20inhibitors%20of%20Mycobacterium%20tuberculosis%22",
+      "citations": {
+        "crossref": 17
+      },
+      "abstract": "Herein, we report the synthesis and anti-tubercular studies of novel molecules based on thiophene scaffold. We identified two novel small molecules 4a and 4b, which demonstrated 2-fold higher in vitro activity (MIC99: 0.195 μM) compared to first line TB drug, isoniazid (0.39 μM). The identified leads demonstrated additive effect with front line TB drugs (isoniazid, rifampicin and levofloxacin) and synergistic effect with a recently FDA-approved drug, bedaquiline. Mechanistic studies (i) negated the role of Pks13 and (ii) suggested the involvement of KatG in the anti-tubercular activity of these identified leads.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "32094009",
+      "title": "Novel cilengitide-based cyclic RGD peptides as αvβ3 integrin inhibitors.",
+      "authors": [
+        "Chhuttan L Meena",
+        "Dharmendra Singh",
+        "Michael Weinmüller",
+        "Florian Reichart",
+        "Abha Dangi",
+        "Udaya Kiran Marelli",
+        "Stefan Zahler",
+        "Gangadhar J Sanjayan"
+      ],
+      "year": "2020",
+      "journal": "Bioorganic & medicinal chemistry letters",
+      "doi": "10.1016/j.bmcl.2020.127039",
+      "doi_link": "https://doi.org/10.1016/j.bmcl.2020.127039",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32094009",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Novel%20cilengitide-based%20cyclic%20RGD%20peptides%20as%20%CE%B1v%CE%B23%20integrin%20inhibitors%22",
+      "citations": {
+        "crossref": 13
+      },
+      "abstract": "In this letter, we report a series of five new RGD-containing cyclic peptides as potent inhibitors to αvβ3 integrin protein. We have incorporated various unnatural lipophilic amino acids into the cyclic RGD framework of cilengitide, which is selective for αvβ3 integrin. All the newly synthesized cyclic peptides were evaluated in vitrosolid phase binding assay and investigated for their bindingbehaviourtowards integrin subtypes. All the cyclic peptides were synthesized in excellent yield following solution-phase coupling strategy. The cyclic RGD peptides 1a-e exhibited IC50 of 9.9, 5.5, 72, 11 and 3.3 nM, respectively, towardsαvβ3 integrin protein. This finding offers further opportunities for the introduction unusual amino acids into the cyclic peptide framework of cilengitide.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "31285226",
+      "title": "NU-6027 Inhibits Growth of Mycobacterium tuberculosis by Targeting Protein Kinase D and Protein Kinase G.",
+      "authors": [
+        "Saqib Kidwai",
+        "Rania Bouzeyen",
+        "Sohini Chakraborti",
+        "Neha Khare",
+        "Sumana Das",
+        "Tannu Priya Gosain",
+        "Assirbad Behura",
+        "Chhuttan Lal Meena",
+        "Rohan Dhiman",
+        "Makram Essafi",
+        "Avinash Bajaj",
+        "Deepak Kumar Saini",
+        "Narayanaswamy Srinivasan",
+        "Dinesh Mahajan",
+        "Ramandeep Singh"
+      ],
+      "year": "2019",
+      "journal": "Antimicrobial agents and chemotherapy",
+      "doi": "10.1128/AAC.00996-19",
+      "doi_link": "https://doi.org/10.1128/AAC.00996-19",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31285226",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22NU-6027%20Inhibits%20Growth%20of%20Mycobacterium%20tuberculosis%20by%20Targeting%20Protein%20Kinase%20D%20and%20Protein%20Kinase%20G%22",
+      "citations": {
+        "crossref": 32
+      },
+      "abstract": "Tuberculosis (TB) is a global health concern, and this situation has further worsened due to the emergence of drug-resistant strains and the failure of BCG vaccine to impart protection. There is an imperative need to develop highly sensitive, specific diagnostic tools, novel therapeutics, and vaccines for the eradication of TB. In the present study, a chemical screen of a pharmacologically active compound library was performed to identify antimycobacterial compounds. The phenotypic screen identified a few novel small-molecule inhibitors, including NU-6027, a known CDK-2 inhibitor. We demonstrate that NU-6027 inhibits Mycobacterium bovis BCG growth in vitro and also displayed cross-reactivity with Mycobacterium tuberculosis protein kinase D (PknD) and protein kinase G (PknG). Comparative structural and sequence analysis along with docking simulation suggest that the unique binding site stereochemistry of PknG and PknD accommodates NU-6027 more favorably than other M. tuberculosis Ser/Thr protein kinases. Further, we also show that NU-6027 treatment induces the expression of proapoptotic genes in macrophages. Finally, we demonstrate that NU-6027 inhibits M. tuberculosis growth in both macrophage and mouse tissues. Taken together, these results indicate that NU-6027 can be optimized further for the development of antimycobacterial agents.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "27810782",
+      "title": "Effect of L-pGlu-(1-benzyl)-l-His-l-Pro-NH2 against in-vitro and in-vivo models of cerebral ischemia and associated neurological disorders.",
+      "authors": [
+        "Satyendra K Rajput",
+        "Arun K Sharma",
+        "Chhuttan L Meena",
+        "Aditya B Pant",
+        "Rahul Jain",
+        "Shyam S Sharma"
+      ],
+      "year": "2016",
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "doi": "10.1016/j.biopha.2016.10.059",
+      "doi_link": "https://doi.org/10.1016/j.biopha.2016.10.059",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27810782",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Effect%20of%20L-pGlu-%281-benzyl%29-l-His-l-Pro-NH2%20against%20in-vitro%20and%20in-vivo%20models%20of%20cerebral%20ischemia%20and%20associated%20neurological%20disorders%22",
+      "citations": {
+        "crossref": 5
+      },
+      "abstract": "Central nervous system plays a vital role in regulation of most of biological functions which are abnormally affected in various disorders including cerebral ischemia, Alzheimer's and Parkinson's (AD and PD) worldwide. Cerebral stroke is an extremely fatal and one of the least comprehensible neurological disorders due to limited availability of prospective clinical approaches and therapeutics. Since, some endogenous peptides like thyrotropin-releasing hormone have shown substantial neuroprotective potential, hence present study evaluates the newer thyrotropin-releasing hormone (TRH) analogue L-pGlu-(1-benzyl)-l-His-l-Pro-NH2 for its neuroprotective effects against oxygen glucose deprivation (OGD), glutamate and H2O2 induced injury in pheochromocytoma cell lines (PC-12 cells) and in-vivo ischemic injury in mice. Additionally, the treatment was further analyzed with respect to models of AD and PD in mice. Cerebral ischemia was induced by clamping both bilateral common carotid arteries for ten minutes. Treatment was administered to the mice five minute after restoration of blood supply to brain. Consequential changes in neurobehavioural, biochemical and histological parameters were assessed after a week. L-pGlu-(1-benzyl)-l-His-l-Pro-NH2 showed significant reduction in glutamate, H2O2 and OGD -induced cell death in concentration and time dependent manner. Moreover, L-pGlu-(1-benzyl)-l-His-l-Pro-NH2 resulted in a substantial reduction in CA1 (Cornus Ammonis 1) hippocampal neuronal cell death, inflammatory cytokines, TNF-α, IL-6 and oxidative stress in hippocampus. In addition, L-pGlu-(1-benzyl)-l-His-l-Pro-NH2 was found to be protective in two acute models of AD and PD as well these findings demonstrate the neuroprotective potential of L-pGlu-(1-benzyl)-l-His-l-Pro-NH2 in cerebral ischemia and other diseases, which may be mediated through reduction of excitotoxicity, oxidative stress and inflammation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "26854379",
+      "title": "Synthesis and biology of ring-modified l-Histidine containing thyrotropin-releasing hormone (TRH) analogues.",
+      "authors": [
+        "Chhuttan L Meena",
+        "Avinash Thakur",
+        "Prajwal P Nandekar",
+        "Shyam S Sharma",
+        "Abhay T Sangamwar",
+        "Rahul Jain"
+      ],
+      "year": "2016",
+      "journal": "European journal of medicinal chemistry",
+      "doi": "10.1016/j.ejmech.2016.01.038",
+      "doi_link": "https://doi.org/10.1016/j.ejmech.2016.01.038",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26854379",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Synthesis%20and%20biology%20of%20ring-modified%20l-Histidine%20containing%20thyrotropin-releasing%20hormone%20%28TRH%29%20analogues%22",
+      "citations": {
+        "crossref": 8
+      },
+      "abstract": "Thyrotropin-releasing hormone (TRH) analogues bearing halogen groups (Cl, Br and I) at the C-2 and/or C-5 position, and the alkyl group (CH3, C2H5, C3H7, CH2C6H5) at the N-1 position of the imidazole ring of the central histidine residue were synthesized and evaluated for the receptor binding, calcium mobilization (FLIPR), and IP-1 assay at the HEK mTRHR1 and HEK mTRHR2 expressing cell lines. The most promising analogue 7k showed 925-fold selectivity for HEK mTRH-R2 receptor subtype in the IP-1 assay, 272-fold selectivity for HEK mTRH-R2 receptor subtype in the FLIPR assay, and 21-fold receptor binding specificity at HEK TRH-R2 receptor subtype. The peptide 7k was evaluated in vitro in a brain membrane competitive binding assay, and for stability analysis in the presence of TRH-DE, in vivo. The analogue 7k showed decrease in the sleeping time by more than 76% in a pentobarbital-induced sleeping assay, and showed comparatively less elevation in the TSH level in the blood, in vivo. The computational homology modeling of TRH-R1 and TRH-R2 and docking study with the most potent peptide 7k provide impetus to design CNS specific TRH analogues.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "26216015",
+      "title": "Synthesis of CNS active thyrotropin-releasing hormone (TRH)-like peptides: Biological evaluation and effect on cognitive impairment induced by cerebral ischemia in mice.",
+      "authors": [
+        "Chhuttan L Meena",
+        "Avinash Thakur",
+        "Prajwal P Nandekar",
+        "Abhay T Sangamwar",
+        "Shyam S Sharma",
+        "Rahul Jain"
+      ],
+      "year": "2015",
+      "journal": "Bioorganic & medicinal chemistry",
+      "doi": "10.1016/j.bmc.2015.07.022",
+      "doi_link": "https://doi.org/10.1016/j.bmc.2015.07.022",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26216015",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Synthesis%20of%20CNS%20active%20thyrotropin-releasing%20hormone%20%28TRH%29-like%20peptides%3A%20Biological%20evaluation%20and%20effect%20on%20cognitive%20impairment%20induced%20by%20cerebral%20ischemia%20in%20mice%22",
+      "citations": {
+        "semantic_scholar": 14
+      },
+      "abstract": "Thyrotropin-releasing hormone (TRH)-like peptides were synthesized by replacing critical histidine and pGlu residues in the native peptide. The peptides were evaluated in vitro for receptor binding activity assay and in the cell functional assay; the peptides exhibit selective basal signaling agonist behavior toward TRH-R2. For example, peptides 8a, 8b, 8c, 8 f, 8 h, 8 l and 12 d activated TRH-R2 with potency (EC50) of 0.53 μM, 0.048 μM, 0.05 μM, 0.006 μM, 0.31 μM, 0.034 μM and 0.004 μM, respectively. In contrast for signaling activation of TRH-R1, the same peptide required higher concentration of 19.35 μM, 3.98 μM, 2.54 μM, 0.287 μM, 11.28 μM, 0.986 μM and 0.944 μM, respectively. The results showed that peptides were 36.5, 82.9, 50.8, 47.8, 36.3, 32.6 and 235-fold selective to TRH-R2 receptor subtype. The peptides were investigated for CNS activity at 10 μmol/kg in pentobarbital-induced sleep assay study. Peptides 8c (16.5 ± 1.4 min) and 8l (16.5 ± 2.1 min) displayed excellent CNS activity. In an in vivo study, peptide 8c did not cause significant change in the rat plasma TSH levels. The peptide 8c was further investigated for neuroprotective potential, and significantly reduced infracts volume and neurological score in the focal cerebral ischemia model in mice. Peptide 8c also significantly lowered MDA levels, indicating reduction of oxidative and enhanced percentage cell survival in CA1 region, when compared to ischemic brain.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "26191403",
+      "title": "Discovery of a low affinity thyrotropin-releasing hormone (TRH)-like peptide that exhibits potent inhibition of scopolamine-induced memory impairment in mice.",
+      "authors": [
+        "Chhuttan L Meena",
+        "Shubdha Ingole",
+        "Satyendra Rajpoot",
+        "Avinash Thakur",
+        "Prajwal P Nandeker",
+        "Abhay T Sangamwar",
+        "Shyam S Sharma",
+        "Rahul Jain"
+      ],
+      "year": "2015",
+      "journal": "RSC advances",
+      "doi": "10.1039/c5ra06935a",
+      "doi_link": "https://doi.org/10.1039/c5ra06935a",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26191403",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Discovery%20of%20a%20low%20affinity%20thyrotropin-releasing%20hormone%20%28TRH%29-like%20peptide%20that%20exhibits%20potent%20inhibition%20of%20scopolamine-induced%20memory%20impairment%20in%20mice%22",
+      "citations": {
+        "crossref": 5
+      },
+      "abstract": "TRH-like peptides were synthesized in which the critical N-terminus residue L-pGlu was replaced with various heteroaromatic rings, and the central residue histidine with 1-alkyl-L-histidines. All synthesized TRH-like peptides were evaluated in vitro as agonists in HEK mTRH-R1 and HEK mTRH-R2 cell lines, an expressing receptor binding assay (IC50), and cell signaling assay (EC50). The analeptic potential of the synthesized peptides was evaluated in vivo by using the antagonism of a pentobarbital-induced sleeping time. The peptides 6a, 6c and 6e were found to activate TRH-R2 with potencies (EC50) of 0.002 μM, 0.28 μM and 0.049 μM, respectively. In contrast, for signaling activation of TRH-R1, the same peptides required higher concentration of 0.414 μM, 50 μM and 19.1 μM, respectively in the FLIPR assay. The results showed that these peptides were 207, 178 and 389-fold selective towards TRH-R2 receptor subtype. In the antagonism of a pentobarbital-induced sleeping time assay, peptide 6c showed a 58.5% reduction in sleeping time. The peptide 6c exhibited high stability in rat blood plasma, a superior effect on the scopolamine-induced cognition impairment mice model, safe effects on the cardiovascular system, and general behavior using a functional observation battery (FOB).",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "25178856",
+      "title": "Intestinal transport of TRH analogs through PepT1: the role of in silico and in vitro modeling.",
+      "authors": [
+        "Pravin Bagul",
+        "Kailas S Khomane",
+        "Siddharth S Kesharwani",
+        "Preeti Pragyan",
+        "Prajwal P Nandekar",
+        "Chhuttan Lal Meena",
+        "Arvind K Bansal",
+        "Rahul Jain",
+        "Kulbhushan Tikoo",
+        "Abhay T Sangamwar"
+      ],
+      "year": "2014",
+      "journal": "Journal of molecular recognition : JMR",
+      "doi": "10.1002/jmr.2385",
+      "doi_link": "https://doi.org/10.1002/jmr.2385",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25178856",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Intestinal%20transport%20of%20TRH%20analogs%20through%20PepT1%3A%20the%20role%20of%20in%20silico%20and%20in%20vitro%20modeling%22",
+      "citations": {
+        "semantic_scholar": 5
+      },
+      "abstract": "The present study involves molecular docking, molecular dynamics (MD) simulation studies, and Caco-2 cell monolayer permeability assay to investigate the effect of structural modifications on PepT1-mediated transport of thyrotropin releasing hormone (TRH) analogs. Molecular docking of four TRH analogs was performed using a homology model of human PepT1 followed by subsequent MD simulation studies. Caco-2 cell monolayer permeability studies of four TRH analogs were performed at apical to basolateral and basolateral to apical directions. Inhibition experiments were carried out using Gly-Sar, a typical PepT1 substrate, to confirm the PepT1-mediated transport mechanism of TRH analogs. Papp of the four analogs follows the order: NP-1894 < NP-2378 < NP-1896 < NP-1895. Higher absorptive transport was observed in the case of TRH analogs, indicating the possibility of a carrier-mediated transport mechanism. Further, the significant inhibition of the uptake of Gly-Sar by TRH analogs confirmed the PepT1-mediated transport mechanism. Glide docking scores of all the four analogues were in good agreement with their transport rates, suggesting the role of substrate binding affinity in the PepT1-mediated transport of TRH analogs. MD simulation studies revealed that the polar interactions with amino acid residues present in the active site are primarily responsible for substrate binding, and a downward trend was observed with the increase in bulkiness at the N-histidyl moiety of TRH analogs.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "23378686",
+      "title": "Assessment of left ventricular diastolic dysfunction in sub-clinical hypothyroidism.",
+      "authors": [
+        "C L Meena",
+        "R D Meena",
+        "Rajani Nawal",
+        "V K Meena",
+        "Anju Bharti",
+        "L P Meena"
+      ],
+      "year": "2012",
+      "journal": "Acta informatica medica : AIM : journal of the Society for Medical Informatics of Bosnia & Herzegovina : casopis Drustva za medicinsku informatiku BiH",
+      "doi": "10.5455/aim.2012.20.21-218-220",
+      "doi_link": "https://doi.org/10.5455/aim.2012.20.21-218-220",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23378686",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Assessment%20of%20left%20ventricular%20diastolic%20dysfunction%20in%20sub-clinical%20hypothyroidism%22",
+      "citations": {
+        "crossref": 11
+      },
+      "abstract": "BACKGROUND: Adverse cardiovascular effect of hypothyroidism has been identified in many studies. Early identification of patients with sub-clinical hypothyroidism may lead to early treatment and thereby favourable effect on cardiovascular morbidity and mortality. OBJECTIVES: To find out the association of sub clinical hypothyroidism and left ventricular dysfunction and also to find out relationship between systolic and diastolic dysfunction in these patients. MATERIAL AND METHODS: A total 30 cases of sub clinical hypothyroidism along with 15 age sex matched healthy control subjects were included in study. Serum TSH, T4, T3 hormone level was measured and those who were found to have sub-clinical hypothyroidism underwent for 2DEcho. RESULTS: Significant reduction in peak early filling velocity (PE) (p<0.001) and early filling time velocity integral (Ei) (p<0.001). Ratio of early and late peak velocities (PE/PA) (p<0.001), ratio of time velocity integral of early and atrial filling (Ei/Ai) (p<0.001) and ratio of the early peak to average velocity (PE/M) (p<0.001) were also reduced. Mean EF was 54.9± 5.55 as compared to 55.7 ± 3.46 of control subjects with a T.value of 0.48 ,however there was significant diastolic dysfunction in case of hypothyroid patients (mean Ei/Ai = 1.35 ± 0.53) as compared to control group subjects (mean Ei/AI = 2.11 ± 0.26) with a T value of 5.22. CONCLUSION: Sub-clinical hypothyroidism showed significant diastolic dysfunction in the absence of significant impairment of systolic function.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "23250707",
+      "title": "Effect of counterions on physicochemical properties of prazosin salts.",
+      "authors": [
+        "Lokesh Kumar",
+        "Chhuttan Lal Meena",
+        "Yogesh B Pawar",
+        "Banrida Wahlang",
+        "Kulbhushan Tikoo",
+        "Rahul Jain",
+        "Arvind K Bansal"
+      ],
+      "year": "2013",
+      "journal": "AAPS PharmSciTech",
+      "doi": "10.1208/s12249-012-9889-x",
+      "doi_link": "https://doi.org/10.1208/s12249-012-9889-x",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23250707",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Effect%20of%20counterions%20on%20physicochemical%20properties%20of%20prazosin%20salts%22",
+      "citations": {
+        "crossref": 12
+      },
+      "abstract": "This study evaluated the effect of counterions on the physicochemical properties of prazosin salts. Salt forms of prazosin, namely, mesylate, besylate, tosylate, camsylate, oxalate, and maleate, were prepared and compared with the marketed anhydrous and polyhydrate forms of prazosin hydrochloride. Physicochemical characterization was performed in the order of crystallinity, hygroscopicity, solubility, and stability to select the optimal salt(s). Permeability study in Caco-2 cell lines and in vivo bioavailability study in rat model were investigated to ascertain their biopharmaceutical advantage. All salt forms were crystalline, nonhygroscopic (except the anhydrous hydrochloride salt), and had solubility in the range of 0.2 to 1.6 mg/ml. All salts were physically and chemically stable at 40°C/75% relative humidity, but degraded in UV-visible light, except the anhydrous hydrochloride salt. Prazosin mesylate was selected as the optimal salt, as it possessed higher solubility, permeability, and bioavailability, compared to the commercial hydrochloride salts. Hydrochloride salt is reported to have poor bioavailability that is partially attributed to its low solubility and extensive common-ion effect in the gastric region. Factors like hydrophilicity of the counterion, hydration state of the salt, and melting point of the salt contribute to the physicochemical properties of the salts. This study has implications in the selection of an optimal salt form for prazosin, which is suitable for further development.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "22779445",
+      "title": "Mechanistic insights into PEPT1-mediated transport of a novel antiepileptic, NP-647.",
+      "authors": [
+        "Kailas S Khomane",
+        "Prajwal P Nandekar",
+        "Banrida Wahlang",
+        "Pravin Bagul",
+        "Naeem Shaikh",
+        "Yogesh B Pawar",
+        "Chhuttan Lal Meena",
+        "Abhay T Sangamwar",
+        "Rahul Jain",
+        "K Tikoo",
+        "Arvind K Bansal"
+      ],
+      "year": "2012",
+      "journal": "Molecular pharmaceutics",
+      "doi": "10.1021/mp200672d",
+      "doi_link": "https://doi.org/10.1021/mp200672d",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22779445",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mechanistic%20insights%20into%20PEPT1-mediated%20transport%20of%20a%20novel%20antiepileptic%2C%20NP-647%22",
+      "citations": {
+        "crossref": 17
+      },
+      "abstract": "The present study, in general, is aimed to uncover the properties of the transport mechanism or mechanisms responsible for the uptake of NP-647 into Caco-2 cells and, in particular, to understand whether it is a substrate for the intestinal oligopeptide transporter, PEPT1 (SLC15A1). NP-647 showed a carrier-mediated, saturable transport with Michaelis-Menten parameters K(m) = 1.2 mM and V(max) = 2.2 μM/min. The effect of pH, sodium ion (Na(+)), glycylsarcosine and amoxicillin (substrates of PEPT1), and sodium azide (Na(+)/K(+)-ATPase inhibitor) on the flux rate of NP-647 was determined. Molecular docking and molecular dynamics simulation studies were carried out to investigate molecular interactions of NP-647 with transporter using homology model of human PEPT1. The permeability coefficient (P(appCaco-2)) of NP-647 (32.5 × 10(-6) cm/s) was found to be four times higher than that of TRH. Results indicate that NP-647 is transported into Caco-2 cells by means of a carrier-mediated, proton-dependent mechanism that is inhibited by Gly-Sar and amoxicillin. In turn, NP-647 also inhibits the uptake of Gly-Sar into Caco-2 cells and, together, this evidence suggests that PEPT1 is involved in the process. Docking and molecular dynamics simulation studies indicate high affinity of NP-647 toward PEPT1 binding site as compared to TRH. High permeability of NP-647 over TRH is attributed to its increased hydrophobicity which increases its affinity toward PEPT1 by interacting with the hydrophobic pocket of the transporter through hydrophobic forces.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "22037285",
+      "title": "L-pGlu-(2-propyl)-L-His-L-ProNH₂ attenuates 4-aminopyridine-induced epileptiform activity and sodium current: a possible action of new thyrotropin-releasing hormone analog for its anticonvulsant potential.",
+      "authors": [
+        "N Sah",
+        "S K Rajput",
+        "J N Singh",
+        "C L Meena",
+        "R Jain",
+        "S K Sikdar",
+        "S S Sharma"
+      ],
+      "year": "2011",
+      "journal": "Neuroscience",
+      "doi": "10.1016/j.neuroscience.2011.10.008",
+      "doi_link": "https://doi.org/10.1016/j.neuroscience.2011.10.008",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22037285",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22L-pGlu-%282-propyl%29-L-His-L-ProNH%E2%82%82%20attenuates%204-aminopyridine-induced%20epileptiform%20activity%20and%20sodium%20current%3A%20a%20possible%20action%20of%20new%20thyrotropin-releasing%20hormone%20analog%20for%20its%20anticonvulsant%20potential%22",
+      "citations": {
+        "crossref": 21
+      },
+      "abstract": "L-PGlu-(2-propyl)-L-His-L-ProNH₂ (NP-647) is a CNS active thyrotropin-releasing hormone (TRH) analog with potential application in various CNS disorders including seizures. In the present study, mechanism of action for protective effect of NP-647 was explored by studying role of NP-647 on epileptiform activity and sodium channels by using patch-clamp methods. Epileptiform activity was induced in subicular pyramidal neurons of hippocampal slice of rat by perfusing 4-aminopyridine (4-AP) containing Mg⁺²-free normal artificial cerebrospinal fluid (nACSF). Increase in mean firing frequency was observed after perfusion of 4-AP and zero Mg⁺² (2.10±0.47 Hz) as compared with nACSF (0.12±0.08 Hz). A significant decrease in mean firing frequency (0.61±0.22 Hz), mean frequency of epileptiform events (0.03±0.02 Hz vs. 0.22±0.05 Hz of 4-AP+0 Mg), and average number of action potentials in paroxysmal depolarization shift-burst (2.54±1.21 Hz vs. 8.16±0.88 Hz of 4-AP+0 Mg) was observed. A significant reduction in peak dV/dt (246±19 mV ms⁻¹ vs. 297±18 mV ms⁻¹ of 4-AP+0 Mg) and increase (1.332±0.018 ms vs. 1.292±0.019 ms of 4-AP+0 Mg) in time required to reach maximum depolarization were observed indicating role of sodium channels. Concentration-dependent depression of sodium current was observed after exposure to dorsal root ganglion neurons to NP-647. NP-647 at different concentrations (1, 3, and 10 μM) depressed sodium current (15±0.5%, 50±2.6%, and 75±0.7%, respectively). However, NP-647 did not show change in the peak sodium current in CNa18 cells. Results of present study demonstrated potential of NP-647 in the inhibition of epileptiform activity by inhibiting sodium channels indirectly.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "22017410",
+      "title": "Novel thyrotropin-releasing hormone analogs: a patent review.",
+      "authors": [
+        "Kailas S Khomane",
+        "Chhuttan L Meena",
+        "Rahul Jain",
+        "Arvind K Bansal"
+      ],
+      "year": "2011",
+      "journal": "Expert opinion on therapeutic patents",
+      "doi": "10.1517/13543776.2011.623127",
+      "doi_link": "https://doi.org/10.1517/13543776.2011.623127",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22017410",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Novel%20thyrotropin-releasing%20hormone%20analogs%3A%20a%20patent%20review%22",
+      "citations": {
+        "crossref": 50
+      },
+      "abstract": "INTRODUCTION: The potential therapeutic applications of thyrotropin-releasing hormone (TRH) have attracted attention, based on its broad-spectrum neuropharmacological action rather than its endocrine properties. These central nervous system (CNS)-mediated effects provide the rationale for use of TRH and its analogs in the treatment of brain and spinal injury, and CNS disorders like schizophrenia, Alzheimer's disease, epilepsy, amyotrophic lateral sclerosis, Parkinson's disease, depression, shock and ischemia. AREAS COVERED: This review summarizes the patent literature and advances in the discovery and development of novel TRH analogs over the past 20 years. It provides a comprehensive overview of the development of new TRH analogs, giving emphasis to their pharmaceutical profile. EXPERT OPINION: The use of TRH in the treatment of various CNS disorders has been proven clinically. However, TRH itself is a poor drug candidate due to its short plasma half-life (5 min), poor biopharmaceutical properties (low intestinal and CNS permeability) and endocrine side effect. Nevertheless, researchers have come up with metabolically stable, more potent and selective TRH analogs and prodrugs. Taltirelin, one of the TRH analogs, has been approved under the trade name of Ceredist(®) in Japan for the treatment of spinocerebellar degeneration. Several other TRH analogs are in various stages of preclinical or clinical development.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "21515320",
+      "title": "Protective effects of L-pGlu-(2-propyl)-L-His-L-ProNH2, a newer thyrotropin releasing hormone analog in in vitro and in vivo models of cerebral ischemia.",
+      "authors": [
+        "Satyendra Kumar Rajput",
+        "Maqsood Ahmad Siddiqui",
+        "Vivek Kumar",
+        "Chhuttan Lal Meena",
+        "Aditya Bhushan Pant",
+        "Rahul Jain",
+        "Shyam Sunder Sharma"
+      ],
+      "year": "2011",
+      "journal": "Peptides",
+      "doi": "10.1016/j.peptides.2011.04.006",
+      "doi_link": "https://doi.org/10.1016/j.peptides.2011.04.006",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21515320",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Protective%20effects%20of%20L-pGlu-%282-propyl%29-L-His-L-ProNH2%2C%20a%20newer%20thyrotropin%20releasing%20hormone%20analog%20in%20in%20vitro%20and%20in%20vivo%20models%20of%20cerebral%20ischemia%22",
+      "citations": {
+        "crossref": 17
+      },
+      "abstract": "In the present study, the newly synthesized TRH analog (L-pGlu-(2-propyl)-L-His-l-ProNH(2); NP-647) was evaluated for its effects in in vitro (oxygen glucose deprivation (OGD)-, glutamate- and H(2)O(2)-induced injury in PC-12 cells) and in vivo (transient global ischemia) models of cerebral ischemic injury. PC-12 cells were subjected to oxygen and glucose deprivation for 6h. Exposure of NP-647 was given before and during OGD. In glutamate and H(2)O(2) induced injury, exposure of NP-647 was given 1, 6 and 24h prior to exposure of glutamate and H(2)O(2) exposure. NP-647, per se found to be non-toxic in 1-100μM concentrations. NP-647 showed protection against OGD at the 1 and 10μM. The concentration-dependent protection was observed in H(2)O(2)- and glutamate-induced cellular injury. In in vivo studies, NP-647 treatment showed protection of hippocampal (CA1) neuronal damage in transient global ischemia in mice and subsequent improvement in memory retention was observed using passive avoidance retention test. Moreover, administration of NP-647 resulted in decrease in inflammatory cytokines TNF-α and IL-6 as well as lipid peroxidation. These results suggest potential of NP-647 in the treatment of cerebral ischemia and its neuroprotective effect may be attributed to reduction of excitotoxicity, oxidative stress and inflammation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper21",
+      "publication_id": "21302359",
+      "title": "Synthesis, receptor binding, and CNS pharmacological studies of new thyrotropin-releasing hormone (TRH) analogues.",
+      "authors": [
+        "Vikramdeep Monga",
+        "Chhuttan L Meena",
+        "Satyendra Rajput",
+        "Chandrashekhar Pawar",
+        "Shyam S Sharma",
+        "Xinping Lu",
+        "Marvin C Gershengorn",
+        "Rahul Jain"
+      ],
+      "year": "2011",
+      "journal": "ChemMedChem",
+      "doi": "10.1002/cmdc.201000481",
+      "doi_link": "https://doi.org/10.1002/cmdc.201000481",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21302359",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Synthesis%2C%20receptor%20binding%2C%20and%20CNS%20pharmacological%20studies%20of%20new%20thyrotropin-releasing%20hormone%20%28TRH%29%20analogues%22",
+      "citations": {
+        "crossref": 9
+      },
+      "abstract": "As part of our search for selective and CNS-active thyrotropin-releasing hormone (TRH) analogues, we synthesized a set of 44 new analogues in which His and pGlu residues were modified or replaced. The analogues were evaluated as agonists at TRH-R1 and TRH-R2 in cells in vitro, and in vivo in mice for analeptic and anticonvulsant activities. Several analogues bound to TRH-R1 and TRH-R2 with good to moderate affinities, and are full agonists at both receptor subtypes. Specifically, analogue 21 a (R=CH3) exhibited binding affinities (Ki values) of 0.17 μM for TRH-R1 and 0.016 μM for TRH-R2; it is 10-fold less potent than TRH in binding to TRH-R1 and equipotent with TRH in binding to TRH-R2. Compound 21 a, the most selective agonist, activated TRH-R2 with a potency (EC50 value) of 0.0021 μM, but activated TRH-R1 at EC50=0.05 μM, and exhibited 24-fold selectivity for TRH-R2 over TRH-R1. The newly synthesized TRH analogues were also evaluated in vivo to assess their potencies in antagonism of barbiturate-induced sleeping time, and several analogues displayed potent analeptic activity. Specifically, analogues 21 a,b and 22 a,b decreased sleeping time by nearly 50% more than TRH. These analogues also displayed potent anticonvulsant activity and provided significant protection against PTZ-induced seizures, but failed to provide any protection in MES-induced seizures at 10 μmol kg(-1). The results of this study provide evidence that TRH analogues that show selectivity for TRH-R2 over TRH-R1 possess potent CNS activity.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper22",
+      "publication_id": "21185925",
+      "title": "NP-647, a novel TRH analogue: investigating physicochemical parameters critical for its oral and parenteral delivery.",
+      "authors": [
+        "Kailas Khomane",
+        "Lokesh Kumar",
+        "Chhuttan Lal Meena",
+        "Rahul Jain",
+        "Arvind Bansal"
+      ],
+      "year": "2011",
+      "journal": "International journal of pharmaceutics",
+      "doi": "10.1016/j.ijpharm.2010.12.025",
+      "doi_link": "https://doi.org/10.1016/j.ijpharm.2010.12.025",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21185925",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22NP-647%2C%20a%20novel%20TRH%20analogue%3A%20investigating%20physicochemical%20parameters%20critical%20for%20its%20oral%20and%20parenteral%20delivery%22",
+      "citations": {
+        "crossref": 15
+      },
+      "abstract": "NP-647 (L-pGlu-(2-propyl)-L-His-L-ProNH(2)) is a novel thyrotropin releasing hormone (TRH) analogue, with potential antiepileptic activity. In the present study, the physicochemical parameters of NP-647, including its solid state properties, dissociation constant, partition coefficient, solubility (intrinsic solubility and pH-solubility profile) and stability (gastrointestinal enzymatic stability, pH-stability profile and temperature stability) were investigated for their criticality for oral and parenteral delivery. NP-647 was characterized as amorphous material having glass transition temperature of 66.73 °C at 50% RH. It was found very hygroscopic with deliquescent in nature. pK(a) of the compound, as determined using potentiometric titration, was found to be 7.2 ± 0.02 (basic). Intrinsic solubility and pH-solubility behavior were determined using dissolution titration template method. NP-647 has intrinsic solubility of 2.4 ± 0.01 mg mL(-1). Partition/distribution studies indicate that NP-647 has a low log P (-1.07 ± 0.06) and log D(7.4) (-1.20 ± 0.02), characteristic of hydrophilic molecule. It was found most stable in tartrate buffer of pH of 5.0. Arrhenius plot of NP-647 suggest its half life of ∼ 3.2 years and shelf life of ∼ 6 months. These studies conclude that amorphous nature of NP-647 with deliquescent property will be critical in its solid oral dosage formulation and need to be investigated further.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper23",
+      "publication_id": "22469219",
+      "title": "Atorvastatin calcium.",
+      "authors": [
+        "Vishal M Sonje",
+        "Lokesh Kumar",
+        "Chhuttan Lal Meena",
+        "Gunjan Kohli",
+        "Vibha Puri",
+        "Rahul Jain",
+        "Arvind K Bansal",
+        "Harry G Brittain"
+      ],
+      "year": "2010",
+      "journal": "Profiles of drug substances, excipients, and related methodology",
+      "doi": "10.1016/S1871-5125(10)35001-1",
+      "doi_link": "https://doi.org/10.1016/S1871-5125(10)35001-1",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22469219",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Atorvastatin%20calcium%22",
+      "citations": {
+        "crossref": 27
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper24",
+      "publication_id": "19833480",
+      "title": "Neuropharmacological profile of L-pGlu-(1-benzyl)-L-His-L-ProNH2, a newer thyrotropin-releasing hormone analog: effects on seizure models, sodium current, cerebral blood flow and behavioral parameters.",
+      "authors": [
+        "Satyendra Kumar Rajput",
+        "Jitendra Narain Singh",
+        "Shubhada Ingole",
+        "Gaurav Jain",
+        "Navneet Kaur",
+        "Vikramdeep Monga",
+        "Chhuttan Lal Meena",
+        "Rahul Jain",
+        "Shyam Sunder Sharma"
+      ],
+      "year": "2009",
+      "journal": "Epilepsy research",
+      "doi": "10.1016/j.eplepsyres.2009.09.007",
+      "doi_link": "https://doi.org/10.1016/j.eplepsyres.2009.09.007",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19833480",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Neuropharmacological%20profile%20of%20L-pGlu-%281-benzyl%29-L-His-L-ProNH2%2C%20a%20newer%20thyrotropin-releasing%20hormone%20analog%3A%20effects%20on%20seizure%20models%2C%20sodium%20current%2C%20cerebral%20blood%20flow%20and%20behavioral%20parameters%22",
+      "citations": {
+        "crossref": 8
+      },
+      "abstract": "In the present study, L-pGlu-(1-benzyl)-L-His-L-ProNH(2) (NP-355), a newer CNS active thyrotropin-releasing hormone (TRH) analog was evaluated for its antiepileptic potential. NP-355 (5, 10 and 20 micromol/kg; i.v.) pretreatment significantly delayed onset and reduced the frequency of convulsions in pentylenetetrazole-induced seizures. NP-355 was also found to be protective against picrotoxin- and kainic acid-induced seizures. Maximum electroshock-induced seizures were not protected even at 20 micromol/kg in mice. Effects of NP-355 on functional observation battery did not exhibit any undesirable effects. Moreover, the antiepileptic activity produced by NP-355 was observed without significantly altering mean arterial blood pressure. NP-355 significantly increases the CBF to 17+/-3% as compared to saline (6+/-2%). NP-355 (100, 300 and 1000 microM) produces a concentration-dependent depression (16%, 63% and 77%, respectively) of the peak sodium current. NP-355 did not alter neurobehavioral parameters. This study demonstrates that NP-355 has potential antiepileptic activity and devoid of undesirable effects.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper25",
+      "publication_id": "22469174",
+      "title": "Chapter 4 fexofenadine hydrochloride.",
+      "authors": [
+        "Lokesh Kumar",
+        "Md Shahnwaj Alam",
+        "Chhuttan Lal Meena",
+        "Rahul Jain",
+        "Arvind K Bansal"
+      ],
+      "year": "2009",
+      "journal": "Profiles of drug substances, excipients, and related methodology",
+      "doi": "10.1016/S1871-5125(09)34004-2",
+      "doi_link": "https://doi.org/10.1016/S1871-5125(09)34004-2",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22469174",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Chapter%204%20fexofenadine%20hydrochloride%22",
+      "citations": {
+        "semantic_scholar": 14
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper26",
+      "publication_id": "18991632",
+      "title": "Chemistry and biology of thyrotropin-releasing hormone (TRH) and its analogs.",
+      "authors": [
+        "Vikramdeep Monga",
+        "Chhuttan L Meena",
+        "Navneet Kaur",
+        "Rahul Jain"
+      ],
+      "year": "2008",
+      "journal": "Current medicinal chemistry",
+      "doi": "10.2174/092986708786242912",
+      "doi_link": "https://doi.org/10.2174/092986708786242912",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18991632",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Chemistry%20and%20biology%20of%20thyrotropin-releasing%20hormone%20%28TRH%29%20and%20its%20analogs%22",
+      "citations": {
+        "crossref": 48
+      },
+      "abstract": "Thyrotropin-releasing hormone (TRH), a hypothalamic orally active neuropeptide, has been manifested in a wide range of biological responses. Besides its central role in regulating the pituitary-thyroid axis by simulating the release of thyrotropin, TRH has considerable influence on the activity of a number of neurobiological systems. Due to the therapeutic potential of TRH to treat several CNS maladies, the development of CNS-selective and metabolically stable TRH analogs is an area of interest. TRH is known to elicit its biological response through two G-protein coupled receptors for TRH (namely, TRH-R1 and TRH-R2). The distinct distribution of TRH receptors in tissues has provided opportunity to discover receptor subtype-specific analogs, which would demonstrate high CNS activities, and are completely free of hormonal activities. In this review, an in-depth analysis of the chemistry and biology of TRH and its analogs is provided. Recent discoveries of TRH-R2 selective analogs, TRH super agonists, metabolically stable TRH analogs, and targeted delivery of TRH analogs have been also discussed.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper27",
+      "publication_id": "18952198",
+      "title": "Antiepileptic potential and behavioral profile of L-pGlu-(2-propyl)-L-His-L-ProNH2, a newer thyrotropin-releasing hormone analog.",
+      "authors": [
+        "Satyendra Kumar Rajput",
+        "Srinivasan Krishnamoorthy",
+        "Chandrasekhar Pawar",
+        "Navneet Kaur",
+        "Vikramdeep Monga",
+        "Chhuttan Lal Meena",
+        "Rahul Jain",
+        "Shyam S Sharma"
+      ],
+      "year": "2009",
+      "journal": "Epilepsy & behavior : E&B",
+      "doi": "10.1016/j.yebeh.2008.10.006",
+      "doi_link": "https://doi.org/10.1016/j.yebeh.2008.10.006",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18952198",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Antiepileptic%20potential%20and%20behavioral%20profile%20of%20L-pGlu-%282-propyl%29-L-His-L-ProNH2%2C%20a%20newer%20thyrotropin-releasing%20hormone%20analog%22",
+      "citations": {
+        "crossref": 23
+      },
+      "abstract": "Thyrotropin-releasing hormone (TRH) and its analogs have a number of neurobiological functions and therapeutic uses in disorders of the central nervous system. In this study, the newly synthesized TRH analogs were evaluated for central nervous system activity in pentobarbital-induced sleeping in mice. The most potent TRH analog (L-pGlu-(2-propyl)-L-His-L-ProNH(2) coded as NP-647) was evaluated for its antiepileptic potential in various seizure models in mice in comparison with TRH. Intravenous pretreatment with NP-647 (10 and 20 micromol/kg body wt) significantly delayed the onset and reduced the frequency of convulsions in the pentylenetetrazole model, but not in the maximum electroshock seizure model. Also, it was found to be protective against picrotoxin- and kainic acid-induced seizures. However, NP-647 did not significantly affect theophylline-induced seizures. Further study of the effect of NP-647 on locomotor activity and a functional observational battery revealed that it did not significantly exhibit any undesirable effects as compared with vehicle and TRH. NP-647 did not significantly affect cerebral blood flow, whereas the native peptide TRH markedly increased cerebral blood flow. Furthermore, NP-647 exerted antiepileptic activity without significantly altering plasma thyroid-stimulating hormone levels and mean arterial blood pressure. This suggests that NP-647 is more selective for central nervous system activity and devoid of hormonal and cerebrovascular system effects. In contrast, TRH exhibited cardiac and endocrine effects as marked by significant elevation in mean arterial blood pressure and plasma thyroid-stimulating hormone levels. This study demonstrates that NP-647 has potential antiepileptic activity devoid of undesirable effects and, thus, can be exploited for the prevention and treatment of epilepsy.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 27,
+    "publications_by_year": {
+      "2025": 1,
+      "2023": 3,
+      "2022": 1,
+      "2021": 1,
+      "2020": 2,
+      "2019": 1,
+      "2016": 2,
+      "2015": 2,
+      "2014": 1,
+      "2013": 1,
+      "2012": 2,
+      "2011": 5,
+      "2010": 1,
+      "2009": 3,
+      "2008": 1
+    },
+    "top_journals": [
+      "The Journal of organic chemistry",
+      "ChemMedChem",
+      "European journal of medicinal chemistry",
+      "Profiles of drug substances, excipients, and related methodology",
+      "Annals of neurosciences"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 98,
+      "frequent_collaborators": [
+        "Rahul Jain",
+        "Chhuttan Lal Meena",
+        "Shyam S Sharma",
+        "Chhuttan L Meena",
+        "Arvind K Bansal",
+        "Gangadhar J Sanjayan",
+        "Abhay T Sangamwar",
+        "Prajwal P Nandekar"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "22017410",
+        "title": "Novel thyrotropin-releasing hormone analogs: a patent review.",
+        "citations": 50,
+        "year": "2011"
+      },
+      {
+        "publication_id": "18991632",
+        "title": "Chemistry and biology of thyrotropin-releasing hormone (TRH) and its analogs.",
+        "citations": 48,
+        "year": "2008"
+      },
+      {
+        "publication_id": "34984901",
+        "title": "Janus Cross-links in Supramolecular Networks.",
+        "citations": 38,
+        "year": "2022"
+      }
+    ]
+  }
+}

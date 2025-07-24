@@ -1,0 +1,1609 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Debasisa Mohanty",
+    "email": "deb@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-debasisa-mohanty",
+    "research_domain": "Chemical Biology, Biochemistry & Structural Biology",
+    "faculty_status": "current",
+    "search_date": "2025-07-01T11:19:04.019834",
+    "total_publications": 67,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Debasisa Mohanty, current faculty in Chemical Biology, Biochemistry & Structural Biology at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "40125545",
+      "title": "Machine learning-based approach for identification of new resistance associated mutations from whole genome sequences of Mycobacterium tuberculosis.",
+      "authors": [
+        "Ankita Pal",
+        "Debasisa Mohanty"
+      ],
+      "year": "2025",
+      "journal": "Bioinformatics advances",
+      "doi": "10.1093/bioadv/vbaf050",
+      "doi_link": "https://doi.org/10.1093/bioadv/vbaf050",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40125545",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Machine%20learning-based%20approach%20for%20identification%20of%20new%20resistance%20associated%20mutations%20from%20whole%20genome%20sequences%20of%20Mycobacterium%20tuberculosis%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "MOTIVATION: Currently available methods for the prediction of genotypic drug resistance in Mycobacterium tuberculosis are mostly based on the identification of known resistance associated mutations (RAMs). However, the prediction accuracy is limited by the incomplete knowledge of RAMs. RESULTS: Whole genome sequences with known phenotypic drug resistance profiles have been utilized to train XGBoost and ANN classifiers for 5 first-line and 8 second-line tuberculosis drugs. Benchmarking on a completely independent dataset from CRyPTIC database revealed that our method has high sensitivity (90%-95%) and specificity (94%-99%) for five first-line drugs and robust performance for six second-line drugs with a sensitivity of 77%-89% at over 95% specificity. An explainable AI method, SHapley Additive exPlanations, has successfully identified resistance mutations for each drug in a completely automated way. This approach could not only identify known resistance associated mutations in agreement with the WHO mutation catalogue, but also predicted >100 other potential resistance associated mutations for 13 antibiotics in new genes outside the known resistance loci. Identification of new resistance markers opens up the opportunity for the discovery of novel mechanisms of drug resistance. AVAILABILITY AND IMPLEMENTATION: Our prediction method has been implemented as TB-AMRpred webserver and command line tool, available freely at http://www.nii.ac.in/TB-AMRpred.html and https://github.com/Ankitapal1995/TB-AMRprd.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "40073863",
+      "title": "Distinct features of a peripheral T helper subset that drives the B cell response in dengue virus infection.",
+      "authors": [
+        "Asgar Ansari",
+        "Shilpa Sachan",
+        "Jatin Ahuja",
+        "Sureshkumar Venkadesan",
+        "Bhushan Nikam",
+        "Vinod Kumar",
+        "Shweta Jain",
+        "Bhanu Pratap Singh",
+        "Poonam Coshic",
+        "Kapil Sikka",
+        "Naveet Wig",
+        "Alessandro Sette",
+        "Daniela Weiskopf",
+        "Debasisa Mohanty",
+        "Manish Soneja",
+        "Nimesh Gupta"
+      ],
+      "year": "2025",
+      "journal": "Cell reports",
+      "doi": "10.1016/j.celrep.2025.115366",
+      "doi_link": "https://doi.org/10.1016/j.celrep.2025.115366",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40073863",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Distinct%20features%20of%20a%20peripheral%20T%20helper%20subset%20that%20drives%20the%20B%20cell%20response%20in%20dengue%20virus%20infection%22",
+      "citations": {
+        "crossref": 4
+      },
+      "abstract": "Dengue-virus-induced humoral immunity can increase the risk of severe disease, but the factors influencing this response are poorly understood. Here, we investigate the contribution of CD4",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "39862468",
+      "title": "HgutMgene-Miner: In silico genome mining tool for deciphering the drug-metabolizing potential of human gut microbiome.",
+      "authors": [
+        "Sana Amir",
+        "Manish Kumar",
+        "Vikas Kumar",
+        "Debasisa Mohanty"
+      ],
+      "year": "2025",
+      "journal": "Computers in biology and medicine",
+      "doi": "10.1016/j.compbiomed.2025.109679",
+      "doi_link": "https://doi.org/10.1016/j.compbiomed.2025.109679",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39862468",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22HgutMgene-Miner%3A%20In%20silico%20genome%20mining%20tool%20for%20deciphering%20the%20drug-metabolizing%20potential%20of%20human%20gut%20microbiome%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "The biotransformation of drugs by enzymes from the human microbiome can produce active or inactive products, impacting the bioactivity and function of these drugs inside the human host. However, understanding the biotransformation reactions of drug molecules catalyzed by bacterial enzymes in human microbiota is still limited. Hence, to characterize drug utilization capabilities across all the microbial phyla inside the human gut, we have used a knowledge-based approach to develop HgutMgene-Miner software which predicts xenobiotic metabolizing enzymes (XMEs) through genome mining. HgutMgene-Miner derives its predictive power from the MicrobiomeMetDB database, which systematically catalogs all known biotransformation reactions of xenobiotics and primary metabolites mediated by host-associated microbial enzymes. Over 10,000 isolate genomes from 830 different bacterial species found in the Unified Human Gastrointestinal Genome (UHGG) collection have been analyzed by HgutMgene-Miner. This led to the identification of 89,377 xenobiotic metabolizing enzymes (XMEs) across 13 phyla, with the greatest diversity in Bacteroidota, Firmicutes_A, Firmicutes, and Proteobacteria. Bacteroides, Clostridium, and Alitsipes were found to be the richest genera, while Actinomyces were found to encode the fewest XMEs, primarily metabolizing Diclofenac, a nonsteroidal anti-inflammatory drug. Overall, we discovered XMEs in 220 genera, exceeding the number experimentally reported in fewer than 10 genera. Notably, Eggerthella lenta's cgr2 involved in Digoxin inactivation was identified in very distant Holdemania genera, likewise Clostridium leptum's nitroreductase, involved in Nitrazepam metabolism, was found in Fusobacterium. These findings highlight the extensive and diverse distribution of XMEs across microbial taxa.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "39781515",
+      "title": "SProtFP: a machine learning-based method for functional classification of small ORFs in prokaryotes.",
+      "authors": [
+        "Akshay Khanduja",
+        "Debasisa Mohanty"
+      ],
+      "year": "2025",
+      "journal": "NAR genomics and bioinformatics",
+      "doi": "10.1093/nargab/lqae186",
+      "doi_link": "https://doi.org/10.1093/nargab/lqae186",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39781515",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22SProtFP%3A%20a%20machine%20learning-based%20method%20for%20functional%20classification%20of%20small%20ORFs%20in%20prokaryotes%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "Small proteins (≤100 amino acids) play important roles across all life forms, ranging from unicellular bacteria to higher organisms. In this study, we have developed SProtFP which is a machine learning-based method for functional annotation of prokaryotic small proteins into selected functional categories. SProtFP uses independent artificial neural networks (ANNs) trained using a combination of physicochemical descriptors for classifying small proteins into antitoxin type 2, bacteriocin, DNA-binding, metal-binding, ribosomal protein, RNA-binding, type 1 toxin and type 2 toxin proteins. We have also trained a model for identification of small open reading frame (smORF)-encoded antimicrobial peptides (AMPs). Comprehensive benchmarking of SProtFP revealed an average area under the receiver operator curve (ROC-AUC) of 0.92 during 10-fold cross-validation and an ROC-AUC of 0.94 and 0.93 on held-out balanced and imbalanced test sets. Utilizing our method to annotate bacterial isolates from the human gut microbiome, we could identify thousands of remote homologs of known small protein families and assign putative functions to uncharacterized proteins. This highlights the utility of SProtFP for large-scale functional annotation of microbiome datasets, especially in cases where sequence homology is low. SProtFP is freely available at http://www.nii.ac.in/sprotfp.html and can be combined with genome annotation tools such as ProsmORF-pred to uncover the functional repertoire of novel small proteins in bacteria.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "39660955",
+      "title": "SG-ML-PLAP: A structure-guided machine learning-based scoring function for protein-ligand binding affinity prediction.",
+      "authors": [
+        "Sapna Pal",
+        "Ankita Pal",
+        "Debasisa Mohanty"
+      ],
+      "year": "2025",
+      "journal": "Protein science : a publication of the Protein Society",
+      "doi": "10.1002/pro.5257",
+      "doi_link": "https://doi.org/10.1002/pro.5257",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39660955",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22SG-ML-PLAP%3A%20A%20structure-guided%20machine%20learning-based%20scoring%20function%20for%20protein-ligand%20binding%20affinity%20prediction%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "Computational methods to predict binding affinity of protein-ligand complex have been used extensively to design inhibitors for proteins selected as drug targets. In recent years machine learning (ML) is being increasingly used for design of drugs/inhibitors. However, ranking compounds as per their experimental binding affinity has remained a major challenge. Therefore, it is necessary to develop ML-based scoring function (MLSF) for predicting the binding affinity of protein-ligand complexes. In this work, protein-ligand interaction features, namely, extended connectivity interaction fingerprints (ECIF), derived from the PDBbind dataset have been used to build ML models for binding affinity prediction. The benchmarking has been done on the Comparative Assessment of Scoring Functions (CASF) dataset and also by predicting the binding affinity of unseen protein-ligand complexes which have structural features different from those present in the training dataset. Furthermore, an improvement in the performance of MLSF on the redocked CASF complexes generated by AutoDock Vina software was seen when the training set consisting of crystal structures was supplemented with redocked protein-ligand complexes. The MLSF trained on crystal structures alone using a combination of ECIF and VINA features also predicted binding affinities of crystal as well as docked complexes with high accuracy. Overall, the MLSF developed in this work shows improved performance compared to conventional SFs and several other MLSFs. It will be a valuable resource for identifying novel inhibitors by structure-based virtual screening protocols. The proposed MLSF SG-ML-PLAP (Structure-Guided Machine-Learning-based Protein-Ligand Affinity Predictor) is freely accessible as a webserver, http://www.nii.ac.in/sg-ml-plap.html.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "39137024",
+      "title": "A hepatocyte-specific transcriptional program driven by Rela and Stat3 exacerbates experimental colitis in mice by modulating bile synthesis.",
+      "authors": [
+        "Jyotsna",
+        "Binayak Sarkar",
+        "Mohit Yadav",
+        "Alvina Deka",
+        "Manasvini Markandey",
+        "Priyadarshini Sanyal",
+        "Perumal Nagarajan",
+        "Nilesh Gaikward",
+        "Vineet Ahuja",
+        "Debasisa Mohanty",
+        "Soumen Basak",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2024",
+      "journal": "eLife",
+      "doi": "10.7554/eLife.93273",
+      "doi_link": "https://doi.org/10.7554/eLife.93273",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39137024",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20hepatocyte-specific%20transcriptional%20program%20driven%20by%20Rela%20and%20Stat3%20exacerbates%20experimental%20colitis%20in%20mice%20by%20modulating%20bile%20synthesis%22",
+      "citations": {
+        "crossref": 2
+      },
+      "abstract": "Hepatic factors secreted by the liver promote homeostasis and are pivotal for maintaining the liver-gut axis. Bile acid metabolism is one such example wherein, bile acid synthesis occurs in the liver and its biotransformation happens in the intestine. Dysfunctional interactions between the liver and the intestine stimulate varied pathological outcomes through its bidirectional portal communication. Indeed, aberrant bile acid metabolism has been reported in inflammatory bowel disease (IBD). However, the molecular mechanisms underlying these crosstalks that perpetuate intestinal permeability and inflammation remain obscure. Here, we identify a novel hepatic gene program regulated by Rela and Stat3 that accentuates the inflammation in an acute experimental colitis model. Hepatocyte-specific ablation of Rela and Stat3 reduces the levels of primary bile acids in both the liver and the gut and shows a restricted colitogenic phenotype. On supplementation of chenodeoxycholic acid (CDCA), knock-out mice exhibit enhanced colitis-induced alterations. This study provides persuasive evidence for the development of multi-organ strategies for treating IBD and identifies a hepatocyte-specific Rela-Stat3 network as a promising therapeutic target.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "36988160",
+      "title": "ProsmORF-pred: a machine learning-based method for the identification of small ORFs in prokaryotic genomes.",
+      "authors": [
+        "Akshay Khanduja",
+        "Manish Kumar",
+        "Debasisa Mohanty"
+      ],
+      "year": "2023",
+      "journal": "Briefings in bioinformatics",
+      "doi": "10.1093/bib/bbad101",
+      "doi_link": "https://doi.org/10.1093/bib/bbad101",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36988160",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22ProsmORF-pred%3A%20a%20machine%20learning-based%20method%20for%20the%20identification%20of%20small%20ORFs%20in%20prokaryotic%20genomes%22",
+      "citations": {
+        "semantic_scholar": 6
+      },
+      "abstract": "Small open reading frames (smORFs) encoding proteins less than 100 amino acids (aa) are known to be important regulators of key cellular processes. However, their computational identification remains a challenge. Based on a comprehensive analysis of known prokaryotic small ORFs, we have developed the ProsmORF-pred resource which uses a machine learning (ML)-based method for prediction of smORFs in the prokaryotic genome sequences. ProsmORF-pred consists of two ML models, one for initiation site recognition in nucleic acid sequences upstream of putative start codons and the other uses translated amino acid sequences to decipher functional protein like sequences. The nucleotide sequence-based initiation site recognition model has been trained using longer ORFs (>100 aa) in the same genome while the ML model for identification of protein like sequences has been trained using annotated smORFs from Escherichia coli. Comprehensive benchmarking of ProsmORF-pred reveals that its performance is comparable to other state-of-the-art approaches on the annotated smORF set derived from 32 prokaryotic genomes. Its performance is distinctly superior to other tools like PRODIGAL and RANSEPS for prediction of newly identified smORFs which have a length range of 10-30 aa, where prediction of smORFs has been a major challenge. Apart from identification of smORFs in genomic sequences, ProsmORF-pred can also aid in functional annotation of the predicted smORFs based on sequence similarity and genomic neighbourhood similarity searches in ProsmORFDB, a well-curated database of known smORFs. ProsmORF-pred along with its backend database ProsmORFDB is available as a user-friendly web server (http://www.nii.ac.in/prosmorfpred.html).",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "36507669",
+      "title": "Respiratory Quinone Switches from Menaquinone to Polyketide Quinone during the Development Cycle in ",
+      "authors": [
+        "Kritee Mehdiratta",
+        "Sonam Nain",
+        "Meenakshi Sharma",
+        "Shubham Singh",
+        "Sonali Srivastava",
+        "Bhushan Dilip Dhamale",
+        "Debasisa Mohanty",
+        "Siddhesh S Kamat",
+        "Vivek T Natarajan",
+        "Rakesh Sharma",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2023",
+      "journal": "Microbiology spectrum",
+      "doi": "10.1128/spectrum.02597-22",
+      "doi_link": "https://doi.org/10.1128/spectrum.02597-22",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36507669",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Respiratory%20Quinone%20Switches%20from%20Menaquinone%20to%20Polyketide%20Quinone%20during%20the%20Development%20Cycle%20in%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "Type III polyketide synthases (PKSs) found across ",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "35753700",
+      "title": "Pf-Phospho: a machine learning-based phosphorylation sites prediction tool for Plasmodium proteins.",
+      "authors": [
+        "Priya Gupta",
+        "Sureshkumar Venkadesan",
+        "Debasisa Mohanty"
+      ],
+      "year": "2022",
+      "journal": "Briefings in bioinformatics",
+      "doi": "10.1093/bib/bbac249",
+      "doi_link": "https://doi.org/10.1093/bib/bbac249",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35753700",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Pf-Phospho%3A%20a%20machine%20learning-based%20phosphorylation%20sites%20prediction%20tool%20for%20Plasmodium%20proteins%22",
+      "citations": {
+        "crossref": 5
+      },
+      "abstract": "Even though several in silico tools are available for prediction of the phosphorylation sites for mammalian, yeast or plant proteins, currently no software is available for predicting phosphosites for Plasmodium proteins. However, the availability of significant amount of phospho-proteomics data during the last decade and advances in machine learning (ML) algorithms have opened up the opportunities for deciphering phosphorylation patterns of plasmodial system and developing ML-based phosphosite prediction tools for Plasmodium. We have developed Pf-Phospho, an ML-based method for prediction of phosphosites by training Random Forest classifiers using a large data set of 12 096 phosphosites of Plasmodium falciparum and Plasmodium bergei. Of the 12 096 known phosphosites, 75% of sites have been used for training/validation of the classifier, while remaining 25% have been used as completely unseen test data for blind testing. It is encouraging to note that Pf-Phospho can predict the kinase-independent phosphosites with 84% sensitivity, 75% specificity and 78% precision. In addition, it can also predict kinase-specific phosphosites for five plasmodial kinases-PfPKG, Plasmodium falciparum, PfPKA, PfPK7 and PbCDPK4 with high accuracy. Pf-Phospho (http://www.nii.ac.in/pfphospho.html) outperforms other widely used phosphosite prediction tools, which have been trained using mammalian phosphoproteome data. It also has been integrated with other widely used resources such as PlasmoDB, MPMP, Pfam and recently available ML-based predicted structures by AlphaFold2. Currently, Pf-phospho is the only bioinformatics resource available for ML-based prediction of phospho-signaling networks of Plasmodium and is a user-friendly platform for integrative analysis of phospho-signaling along with metabolic and protein-protein interaction networks.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "35709874",
+      "title": "Allosteric regulation of the inactive to active state conformational transition in CDPK1 protein of Plasmodium falciparum.",
+      "authors": [
+        "Priya Gupta",
+        "Debasisa Mohanty"
+      ],
+      "year": "2022",
+      "journal": "International journal of biological macromolecules",
+      "doi": "10.1016/j.ijbiomac.2022.06.065",
+      "doi_link": "https://doi.org/10.1016/j.ijbiomac.2022.06.065",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35709874",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Allosteric%20regulation%20of%20the%20inactive%20to%20active%20state%20conformational%20transition%20in%20CDPK1%20protein%20of%20Plasmodium%20falciparum%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "The aim of the current study is to investigate the role of the CAD domain in the activation mechanism of calcium dependent protein kinase-1 of Plasmodium falciparum (PfCDPK1) and explore the possibility of allosteric inhibition of this kinase. PfCDPK1 belongs to CDPK family of apicomplexan kinases which have a C-terminal CAD domain. Microsecond scale MD simulations were performed on modeled structures of complete PfCDPK1 and its kinase domain alone. The simulations revealed that in absence of CAD the salt bridge between Glu116 in αC-helix and Lys85 in β3-sheet of kinase breaks after 200 ns resulting in inactive conformation of the kinase, but the salt bridge stays intact in the complete protein stabilizing it in active conformation. These results highlight the novel CAD mediated allosteric stabilization of the crucial salt bridge which is a hallmark of active conformation of kinase domains. The mechanistic details of the allosteric activation revealed by our study, opens up the possibility for design of allosteric inhibitors of PfCDPK1 kinase by disrupting the kinase:CAD interactions. Using a combination of machine learning and structure-based in silico screening, we have identified novel PPI modulators for allosteric inactivation of PfCDPK1 kinase.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "35193957",
+      "title": "Kupyaphores are zinc homeostatic metallophores required for colonization of ",
+      "authors": [
+        "Kritee Mehdiratta",
+        "Shubham Singh",
+        "Sachin Sharma",
+        "Rashmi S Bhosale",
+        "Rahul Choudhury",
+        "Dattatraya P Masal",
+        "Alzu Manocha",
+        "Bhushan Dilip Dhamale",
+        "Naseem Khan",
+        "Vivekanand Asokachandran",
+        "Pooja Sharma",
+        "Melanie Ikeh",
+        "Amanda C Brown",
+        "Tanya Parish",
+        "Anil K Ojha",
+        "Joy Sarojini Michael",
+        "Mohammed Faruq",
+        "Guruprasad R Medigeshi",
+        "Debasisa Mohanty",
+        "D Srinivasa Reddy",
+        "Vivek T Natarajan",
+        "Siddhesh S Kamat",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2022",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.2110293119",
+      "doi_link": "https://doi.org/10.1073/pnas.2110293119",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35193957",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Kupyaphores%20are%20zinc%20homeostatic%20metallophores%20required%20for%20colonization%20of%22",
+      "citations": {
+        "crossref": 32
+      },
+      "abstract": "",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "34633768",
+      "title": "Development of a Novel Pharmacophore Model Guided by the Ensemble of Waters and Small Molecule Fragments Bound to SARS-CoV-2 Main Protease.",
+      "authors": [
+        "Pawan Kumar",
+        "Debasisa Mohanty"
+      ],
+      "year": "2022",
+      "journal": "Molecular informatics",
+      "doi": "10.1002/minf.202100178",
+      "doi_link": "https://doi.org/10.1002/minf.202100178",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34633768",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Development%20of%20a%20Novel%20Pharmacophore%20Model%20Guided%20by%20the%20Ensemble%20of%20Waters%20and%20Small%20Molecule%20Fragments%20Bound%20to%20SARS-CoV-2%20Main%20Protease%22",
+      "citations": {
+        "crossref": 2
+      },
+      "abstract": "Recent fragment-based drug design efforts have generated huge amounts of information on water and small molecule fragment binding sites on SARS-CoV-2 M",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "33972022",
+      "title": "RiPPMiner-Genome: A Web Resource for Automated Prediction of Crosslinked Chemical Structures of RiPPs by Genome Mining.",
+      "authors": [
+        "Priyesh Agrawal",
+        "Sana Amir",
+        "Deepak",
+        "Drishtee Barua",
+        "Debasisa Mohanty"
+      ],
+      "year": "2021",
+      "journal": "Journal of molecular biology",
+      "doi": "10.1016/j.jmb.2021.166887",
+      "doi_link": "https://doi.org/10.1016/j.jmb.2021.166887",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33972022",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22RiPPMiner-Genome%3A%20A%20Web%20Resource%20for%20Automated%20Prediction%20of%20Crosslinked%20Chemical%20Structures%20of%20RiPPs%20by%20Genome%20Mining%22",
+      "citations": {
+        "semantic_scholar": 28
+      },
+      "abstract": "RiPPMiner-Genome is a unique bioinformatics resource for identifying Biosynthetic Gene Clusters (BGC) for RiPPs (Ribosomally Synthesized and Post-translationally Modified Peptides) and automated prediction of crosslinked chemical structures of RiPPs starting from genomic sequences. It is a major update of the RiPPMiner webserver, which used only peptide sequence of RiPP precursors as input for predicting RiPP class and crosslinked chemical structures. Other major improvements are, machine learning (ML) based identification of correct RiPP precursor peptide from among multiple small ORFs (Open Reading Frames) in a BGC, prediction of the cleavage site and cross-links in thiopeptides and identification of non-crosslinked modified residues in lanthipeptides. It has been benchmarked on a dataset of 204 experimentally characterized RiPP BGCs. RiPPMiner-Genome also facilitates visualization of the RiPP BGCs and depiction of the chemical structure of crosslinked RiPP. It also has an interface for searching characterized RiPPs, similar to the predicted core peptide sequence or crosslinked chemical structure.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "33839740",
+      "title": "SMMPPI: a machine learning-based approach for prediction of modulators of protein-protein interactions and its application for identification of novel inhibitors for RBD:hACE2 interactions in SARS-CoV-2.",
+      "authors": [
+        "Priya Gupta",
+        "Debasisa Mohanty"
+      ],
+      "year": "2021",
+      "journal": "Briefings in bioinformatics",
+      "doi": "10.1093/bib/bbab111",
+      "doi_link": "https://doi.org/10.1093/bib/bbab111",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33839740",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22SMMPPI%3A%20a%20machine%20learning-based%20approach%20for%20prediction%20of%20modulators%20of%20protein-protein%20interactions%20and%20its%20application%20for%20identification%20of%20novel%20inhibitors%20for%20RBD%3AhACE2%20interactions%20in%20SARS-CoV-2%22",
+      "citations": {
+        "semantic_scholar": 23
+      },
+      "abstract": "Small molecule modulators of protein-protein interactions (PPIs) are being pursued as novel anticancer, antiviral and antimicrobial drug candidates. We have utilized a large data set of experimentally validated PPI modulators and developed machine learning classifiers for prediction of new small molecule modulators of PPI. Our analysis reveals that using random forest (RF) classifier, general PPI Modulators independent of PPI family can be predicted with ROC-AUC higher than 0.9, when training and test sets are generated by random split. The performance of the classifier on data sets very different from those used in training has also been estimated by using different state of the art protocols for removing various types of bias in division of data into training and test sets. The family-specific PPIM predictors developed in this work for 11 clinically important PPI families also have prediction accuracies of above 90% in majority of the cases. All these ML-based predictors have been implemented in a freely available software named SMMPPI for prediction of small molecule modulators for clinically relevant PPIs like RBD:hACE2, Bromodomain_Histone, BCL2-Like_BAX/BAK, LEDGF_IN, LFA_ICAM, MDM2-Like_P53, RAS_SOS1, XIAP_Smac, WDR5_MLL1, KEAP1_NRF2 and CD4_gp120. We have identified novel chemical scaffolds as inhibitors for RBD_hACE PPI involved in host cell entry of SARS-CoV-2. Docking studies for some of the compounds reveal that they can inhibit RBD_hACE2 interaction by high affinity binding to interaction hotspots on RBD. Some of these new scaffolds have also been found in SARS-CoV-2 viral growth inhibitors reported recently; however, it is not known if these molecules inhibit the entry phase.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "33010151",
+      "title": "A machine learning-based method for prediction of macrocyclization patterns of polyketides and non-ribosomal peptides.",
+      "authors": [
+        "Priyesh Agrawal",
+        "Debasisa Mohanty"
+      ],
+      "year": "2021",
+      "journal": "Bioinformatics (Oxford, England)",
+      "doi": "10.1093/bioinformatics/btaa851",
+      "doi_link": "https://doi.org/10.1093/bioinformatics/btaa851",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33010151",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20machine%20learning-based%20method%20for%20prediction%20of%20macrocyclization%20patterns%20of%20polyketides%20and%20non-ribosomal%20peptides%22",
+      "citations": {
+        "semantic_scholar": 11
+      },
+      "abstract": "MOTIVATION: Even though genome mining tools have successfully identified large numbers of non-ribosomal peptide synthetase (NRPS) and polyketide synthase (PKS) biosynthetic gene clusters (BGCs) in bacterial genomes, currently no tool can predict the chemical structure of the secondary metabolites biosynthesized by these BGCs. Lack of algorithms for predicting complex macrocyclization patterns of linear PK/NRP biosynthetic intermediates has been the major bottleneck in deciphering the final bioactive chemical structures of PKs/NRPs by genome mining. RESULTS: Using a large dataset of known chemical structures of macrocyclized PKs/NRPs, we have developed a machine learning (ML) algorithm for distinguishing the correct macrocyclization pattern of PKs/NRPs from the library of all theoretically possible cyclization patterns. Benchmarking of this ML classifier on completely independent datasets has revealed ROC-AUC and PR-AUC values of 0.82 and 0.81, respectively. This cyclization prediction algorithm has been used to develop SBSPKSv3, a genome mining tool for completely automated prediction of macrocyclized structures of NRPs/PKs. SBSPKSv3 has been extensively benchmarked on a dataset of over 100 BGCs with known PKs/NRPs products. AVAILABILITY AND IMPLEMENTATION: The macrocyclization prediction pipeline and all the datasets used in this study are freely available at http://www.nii.ac.in/sbspks3.html. SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics online.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "30874556",
+      "title": "LipidII interaction with specific residues of Mycobacterium tuberculosis PknB extracytoplasmic domain governs its optimal activation.",
+      "authors": [
+        "Prabhjot Kaur",
+        "Marvin Rausch",
+        "Basanti Malakar",
+        "Uchenna Watson",
+        "Nikhil P Damle",
+        "Yogesh Chawla",
+        "Sandhya Srinivasan",
+        "Kanika Sharma",
+        "Tanja Schneider",
+        "Gagan Deep Jhingan",
+        "Deepak Saini",
+        "Debasisa Mohanty",
+        "Fabian Grein",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2019",
+      "journal": "Nature communications",
+      "doi": "10.1038/s41467-019-09223-9",
+      "doi_link": "https://doi.org/10.1038/s41467-019-09223-9",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30874556",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22LipidII%20interaction%20with%20specific%20residues%20of%20Mycobacterium%20tuberculosis%20PknB%20extracytoplasmic%20domain%20governs%20its%20optimal%20activation%22",
+      "citations": {
+        "semantic_scholar": 53
+      },
+      "abstract": "The Mycobacterium tuberculosis kinase PknB is essential for growth and survival of the pathogen in vitro and in vivo. Here we report the results of our efforts to elucidate the mechanism of regulation of PknB activity. The specific residues in the PknB extracytoplasmic domain that are essential for ligand interaction and survival of the bacterium are identified. The extracytoplasmic domain interacts with mDAP-containing LipidII, and this is abolished upon mutation of the ligand-interacting residues. Abrogation of ligand-binding or sequestration of the ligand leads to aberrant localization of PknB. Contrary to the prevailing hypothesis, abrogation of ligand-binding is linked to activation loop hyperphosphorylation, and indiscriminate hyperphosphorylation of PknB substrates as well as other proteins, ultimately causing loss of homeostasis and cell death. We propose that the ligand-kinase interaction directs the appropriate localization of the kinase, coupled to stringently controlled activation of PknB, and consequently the downstream processes thereof.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "30563492",
+      "title": "Deciphering evolution of immune recognition in antibodies.",
+      "authors": [
+        "Harmeet Kaur",
+        "Neetu Sain",
+        "Debasisa Mohanty",
+        "Dinakar M Salunke"
+      ],
+      "year": "2018",
+      "journal": "BMC structural biology",
+      "doi": "10.1186/s12900-018-0096-1",
+      "doi_link": "https://doi.org/10.1186/s12900-018-0096-1",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30563492",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Deciphering%20evolution%20of%20immune%20recognition%20in%20antibodies%22",
+      "citations": {
+        "crossref": 4
+      },
+      "abstract": "BACKGROUND: Antibody, the primary effector molecule of the immune system, evolves after initial encounter with the antigen from a precursor form to a mature one to effectively deal with the antigen. Antibodies of a lineage diverge through antigen-directed isolated pathways of maturation to exhibit distinct recognition potential. In the context of evolution in immune recognition, diversity of antigen cannot be ignored. While there are reports on antibody lineage, structural perspective with respect to diverse recognition potential in a lineage has never been studied. Hence, it is crucial to evaluate how maturation leads to topological tailoring within a lineage enabling them to interact with significantly distinct antigens. RESULTS: A data-driven approach was undertaken for the study. Global experimental mouse and human antibody-antigen complex structures from PDB were compiled into a coherent database of germline-linked antibodies bound with distinct antigens. Structural analysis of all lineages showed variations in CDRs of both H and L chains. Observations of conformational adaptation made from analysis of static structures were further evaluated by characterizing dynamics of interaction in two lineages, mouse V CONCLUSIONS: The findings of this study highlight basic structural principles shaping the molecular evolution of a lineage for significantly diverse antigens. Antibodies of a lineage follow different developmental pathways while preserving the imprint of the germline. From the study, it can be generalized that structural diversification of the paratope is an outcome of natural selection of a conformation from an available ensemble, which is further optimized for antigen interaction. The study establishes that starting from a common lineage, antibodies can mature to recognize a wide range of antigens. This hypothesis can be further tested and validated experimentally.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "28499008",
+      "title": "RiPPMiner: a bioinformatics resource for deciphering chemical structures of RiPPs based on prediction of cleavage and cross-links.",
+      "authors": [
+        "Priyesh Agrawal",
+        "Shradha Khater",
+        "Money Gupta",
+        "Neetu Sain",
+        "Debasisa Mohanty"
+      ],
+      "year": "2017",
+      "journal": "Nucleic acids research",
+      "doi": "10.1093/nar/gkx408",
+      "doi_link": "https://doi.org/10.1093/nar/gkx408",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28499008",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22RiPPMiner%3A%20a%20bioinformatics%20resource%20for%20deciphering%20chemical%20structures%20of%20RiPPs%20based%20on%20prediction%20of%20cleavage%20and%20cross-links%22",
+      "citations": {
+        "crossref": 124
+      },
+      "abstract": "Ribosomally synthesized and post-translationally modified peptides (RiPPs) constitute a rapidly growing class of natural products with diverse structures and bioactivities. We have developed RiPPMiner, a novel bioinformatics resource for deciphering chemical structures of RiPPs by genome mining. RiPPMiner derives its predictive power from machine learning based classifiers, trained using a well curated database of more than 500 experimentally characterized RiPPs. RiPPMiner uses Support Vector Machine to distinguish RiPP precursors from other small proteins and classify the precursors into 12 sub-classes of RiPPs. For classes like lanthipeptide, cyanobactin, lasso peptide and thiopeptide, RiPPMiner can predict leader cleavage site and complex cross-links between post-translationally modified residues starting from genome sequences. RiPPMiner can identify correct cross-link pattern in a core peptide from among a very large number of combinatorial possibilities. Benchmarking of prediction accuracy of RiPPMiner on a large lanthipeptide dataset indicated high sensitivity, specificity, accuracy and precision. RiPPMiner also provides interfaces for visualization of the chemical structure, downloading of simplified molecular-input line-entry system and searching for RiPPs having similar sequences or chemical structures. The backend database of RiPPMiner provides information about modification system, precursor sequence, leader and core sequence, modified residues, cross-links and gene cluster for more than 500 experimentally characterized RiPPs. RiPPMiner is available at http://www.nii.ac.in/rippminer.html.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "28460065",
+      "title": "SBSPKSv2: structure-based sequence analysis of polyketide synthases and non-ribosomal peptide synthetases.",
+      "authors": [
+        "Shradha Khater",
+        "Money Gupta",
+        "Priyesh Agrawal",
+        "Neetu Sain",
+        "Jyoti Prava",
+        "Priya Gupta",
+        "Mansi Grover",
+        "Narendra Kumar",
+        "Debasisa Mohanty"
+      ],
+      "year": "2017",
+      "journal": "Nucleic acids research",
+      "doi": "10.1093/nar/gkx344",
+      "doi_link": "https://doi.org/10.1093/nar/gkx344",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28460065",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22SBSPKSv2%3A%20structure-based%20sequence%20analysis%20of%20polyketide%20synthases%20and%20non-ribosomal%20peptide%20synthetases%22",
+      "citations": {
+        "semantic_scholar": 46
+      },
+      "abstract": "Genome guided discovery of novel natural products has been a promising approach for identification of new bioactive compounds. SBSPKS web-server has been a valuable resource for analysis of polyketide synthase (PKS) and non-ribosomal peptide synthetase (NRPS) gene clusters. We have developed an updated version - SBSPKSv2 which is based on comprehensive analysis of sequence, structure and secondary metabolite chemical structure data from 311 experimentally characterized PKS/NRPS gene clusters with known biosynthetic products. A completely new feature of SBSPKSv2 is the inclusion of features for search in chemical space. It allows the user to compare the chemical structure of a given secondary metabolite to the chemical structures of biosynthetic intermediates and final products. For identification of catalytic domains, SBSPKS now uses profile based searches, which are computationally faster and have high sensitivity. HMM profiles have also been added for a number of new domains and motif information has been used for distinguishing condensation (C), epimerization (E) and cyclization (Cy) domains of NRPS. In summary, the new and updated SBSPKSv2 is a versatile tool for genome mining and analysis of polyketide and non-ribosomal peptide biosynthetic pathways in chemical space. The server is available at: http://www.nii.ac.in/sbspks2.html.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "28076679",
+      "title": "Molecular Dynamics Simulations for Deciphering the Structural Basis of Recognition of Pre-let-7 miRNAs by LIN28.",
+      "authors": [
+        "Chhaya Sharma",
+        "Debasisa Mohanty"
+      ],
+      "year": "2017",
+      "journal": "Biochemistry",
+      "doi": "10.1021/acs.biochem.6b00837",
+      "doi_link": "https://doi.org/10.1021/acs.biochem.6b00837",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28076679",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Molecular%20Dynamics%20Simulations%20for%20Deciphering%20the%20Structural%20Basis%20of%20Recognition%20of%20Pre-let-7%20miRNAs%20by%20LIN28%22",
+      "citations": {
+        "crossref": 6
+      },
+      "abstract": "LIN28 protein inhibits biogenesis of miRNAs belonging to the let-7 family by binding to precursor forms of miRNAs. Overexpression of LIN28 and low levels of let-7 miRNAs are associated with several forms of cancer cells. We have performed multiple explicit solvent molecular dynamics simulations ranging from 200 to 500 ns in length on different isoforms of preE-let-7 in complex with LIN28 and also in isolation to identify structural features and key specificity-determining residues (SDRs) that are important for the inhibitory role of LIN28. Our simulations suggest that a conserved structural feature of the loop regions of preE-let-7 miRNAs is more important for LIN28 recognition than sequence conservation among members of the let-7 family or the presence of the GGAG motif in the 3' region. The loop region consisting of a minimum of five nucleotides helps pre-miRNAs to acquire a conformation ideal for binding to LIN28, but pre-let-7c-2 prefers a conformation with a three-nucleotide loop. Thus, our simulations provide a theoretical rationale for the recent experimental observation of the escape of LIN28-mediated repression by pre-let-7c-2. The essential structural and sequence features highlighted in this study might aid in designing synthetic small molecule inhibitors for modulating LIN28-let-7 interaction in malignant cells. We have also identified crucial SDRs of the LIN28-preE-let-7 complex involving 13 residues of LIN28 and 10 residues of the pre-miRNA. On the basis of the conservation profile of these 13 SDRs, we have identified 10 novel proteins that are not annotated as LIN28 like but are similar in sequence, domain, or fold level to LIN28.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper21",
+      "publication_id": "27928938",
+      "title": "Sequence- and structure-based analysis of proteins involved in miRNA biogenesis.",
+      "authors": [
+        "Chhaya Sharma",
+        "Debasisa Mohanty"
+      ],
+      "year": "2018",
+      "journal": "Journal of biomolecular structure & dynamics",
+      "doi": "10.1080/07391102.2016.1269687",
+      "doi_link": "https://doi.org/10.1080/07391102.2016.1269687",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27928938",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Sequence-%20and%20structure-based%20analysis%20of%20proteins%20involved%20in%20miRNA%20biogenesis%22",
+      "citations": {
+        "crossref": 4
+      },
+      "abstract": "miRNA biogenesis is a multistage process for the generation of a mature miRNA and involves several different proteins. In this work, we have carried out both sequence- and structure-based analysis for crucial proteins involved in miRNA biogenesis, namely Dicer, Drosha, Argonaute (Ago), and Exportin-5 to understand evolution of these proteins in animal kingdom and also to identify key sequence and structural features that are determinants of their function. Our analysis reveals that in animals the miRNA biogenesis pathway first originated in molluscs. The phylogeny of Dicer and Ago indicated evolution through gene duplication followed by sequence divergence that resulted in functional divergence. Our detailed structural analysis also revealed that RIIIDb domains of Drosha and Dicer, share significant similarity in sequence, structure, and substrate-binding pocket. On the other hand, PAZ domains of Dicer and Ago show only conservation of the substrate-binding pockets in the catalytic sites despite significant divergence in sequence and overall structure. Based on a comparative structural analysis of all four human Ago proteins (hAgo1-4) and their known biochemical activity, we have also attempted to identify key residues in Ago2 which are responsible for the unique slicer activity of hAgo2 among all isoforms. We have identified six key residues in N domain of hAgo2, which are located far away from the catalytic pocket, but might be playing a major role in slicer activity of hAgo2 protein because of their involvement in mRNA binding.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper22",
+      "publication_id": "27655048",
+      "title": "modPDZpep: a web resource for structure based analysis of human PDZ-mediated interaction networks.",
+      "authors": [
+        "Neetu Sain",
+        "Debasisa Mohanty"
+      ],
+      "year": "2016",
+      "journal": "Biology direct",
+      "doi": "10.1186/s13062-016-0151-4",
+      "doi_link": "https://doi.org/10.1186/s13062-016-0151-4",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27655048",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22modPDZpep%3A%20a%20web%20resource%20for%20structure%20based%20analysis%20of%20human%20PDZ-mediated%20interaction%20networks%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "BACKGROUND: PDZ domains recognize short sequence stretches usually present in C-terminal of their interaction partners. Because of the involvement of PDZ domains in many important biological processes, several attempts have been made for developing bioinformatics tools for genome-wide identification of PDZ interaction networks. Currently available tools for prediction of interaction partners of PDZ domains utilize machine learning approach. Since, they have been trained using experimental substrate specificity data for specific PDZ families, their applicability is limited to PDZ families closely related to the training set. These tools also do not allow analysis of PDZ-peptide interaction interfaces. RESULTS: We have used a structure based approach to develop modPDZpep, a program to predict the interaction partners of human PDZ domains and analyze structural details of PDZ interaction interfaces. modPDZpep predicts interaction partners by using structural models of PDZ-peptide complexes and evaluating binding energy scores using residue based statistical pair potentials. Since, it does not require training using experimental data on peptide binding affinity, it can predict substrates for diverse PDZ families. Because of the use of simple scoring function for binding energy, it is also fast enough for genome scale structure based analysis of PDZ interaction networks. Benchmarking using artificial as well as real negative datasets indicates good predictive power with ROC-AUC values in the range of 0.7 to 0.9 for a large number of human PDZ domains. Another novel feature of modPDZpep is its ability to map novel PDZ mediated interactions in human protein-protein interaction networks, either by utilizing available experimental phage display data or by structure based predictions. CONCLUSIONS: In summary, we have developed modPDZpep, a web-server for structure based analysis of human PDZ domains. It is freely available at http://www.nii.ac.in/modPDZpep.html or http://202.54.226.235/modPDZpep.html . REVIEWERS: This article was reviewed by Michael Gromiha and Zoltán Gáspári.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper23",
+      "publication_id": "27526776",
+      "title": "Understanding the molecular basis of substrate binding specificity of PTB domains.",
+      "authors": [
+        "Neetu Sain",
+        "Garima Tiwari",
+        "Debasisa Mohanty"
+      ],
+      "year": "2016",
+      "journal": "Scientific reports",
+      "doi": "10.1038/srep31418",
+      "doi_link": "https://doi.org/10.1038/srep31418",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27526776",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Understanding%20the%20molecular%20basis%20of%20substrate%20binding%20specificity%20of%20PTB%20domains%22",
+      "citations": {
+        "crossref": 7
+      },
+      "abstract": "Protein-protein interactions mediated by phosphotyrosine binding (PTB) domains play a crucial role in various cellular processes. In order to understand the structural basis of substrate recognition by PTB domains, multiple explicit solvent atomistic simulations of 100ns duration have been carried out on 6 PTB-peptide complexes with known binding affinities. MM/PBSA binding energy values calculated from these MD trajectories and residue based statistical pair potential score show good correlation with the experimental dissociation constants. Our analysis also shows that the modeled structures of PTB domains can be used to develop less compute intensive residue level statistical pair potential based approaches for predicting interaction partners of PTB domains.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper24",
+      "publication_id": "29062931",
+      "title": "",
+      "authors": [
+        "Shradha Khater",
+        "Swadha Anand",
+        "Debasisa Mohanty"
+      ],
+      "year": "2016",
+      "journal": "Synthetic and systems biotechnology",
+      "doi": "10.1016/j.synbio.2016.03.001",
+      "doi_link": "https://doi.org/10.1016/j.synbio.2016.03.001",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29062931",
+      "scholar_link": "",
+      "citations": {
+        "crossref": 36
+      },
+      "abstract": "",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper25",
+      "publication_id": "26249842",
+      "title": "Deciphering the Molecular Basis of Functional Divergence in AMPylating Enzymes by Molecular Dynamics Simulations and Structure Guided Phylogeny.",
+      "authors": [
+        "Shradha Khater",
+        "Debasisa Mohanty"
+      ],
+      "year": "2015",
+      "journal": "Biochemistry",
+      "doi": "10.1021/acs.biochem.5b00351",
+      "doi_link": "https://doi.org/10.1021/acs.biochem.5b00351",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26249842",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Deciphering%20the%20Molecular%20Basis%20of%20Functional%20Divergence%20in%20AMPylating%20Enzymes%20by%20Molecular%20Dynamics%20Simulations%20and%20Structure%20Guided%20Phylogeny%22",
+      "citations": {
+        "crossref": 8
+      },
+      "abstract": "The Fic domain was recently shown to catalyze AMPylation-the transfer of AMP from ATP to hydroxyl side chains of diverse eukaryotic proteins, ranging from RhoGTPases to chaperon BiP. We have carried out a series of explicit solvent molecular dynamics (MD) simulations up to 1 μs duration on the apo, holo, and substrate/product bound IbpA Fic domain (IbpAFic2). Simulations on holo-IbpAFic2 revealed that binding of Mg(2+) to α and β phosphates is crucial for preserving catalytically important contacts involving ATP. Comparative analysis of the MD trajectories demonstrated how binding of ATP allosterically induces conformational changes in the distal switch II binding region of Fic domains thereby aiding in substrate recognition. Our simulations have also identified crucial aromatic-aromatic interactions which stabilize the orientation of the catalytic histidine for inline nucleophilic attack during AMPylation, thus providing a structural basis for the evolutionary conservation of these aromatic residue pairs in Fic domains. On the basis of analysis of interacting interface residue pairs that persist over the microsecond trajectory, we identified a tetrapeptide stretch involved in substrate recognition. The structure-based genome-wide search revealed a distinct conservation pattern for this segment in different Fic subfamilies, further supporting its proposed role in substrate recognition. In addition, combined use of simulations and phylogenetic analysis has helped in the discovery of a new subfamily of Fic proteins that harbor a conserved Lys/Arg in place of the inhibitory Glu of the regulatory helix. We propose the novel possibility of auto-enhancement of AMPylation activity in this new subfamily via the movement of regulatory helix, in contrast to auto-inhibition seen in most Fic proteins.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper26",
+      "publication_id": "26039278",
+      "title": "In silico identification of AMPylating enzymes and study of their divergent evolution.",
+      "authors": [
+        "Shradha Khater",
+        "Debasisa Mohanty"
+      ],
+      "year": "2015",
+      "journal": "Scientific reports",
+      "doi": "10.1038/srep10804",
+      "doi_link": "https://doi.org/10.1038/srep10804",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26039278",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22In%20silico%20identification%20of%20AMPylating%20enzymes%20and%20study%20of%20their%20divergent%20evolution%22",
+      "citations": {
+        "crossref": 34
+      },
+      "abstract": "AMPylation is a novel post-translational modification (PTM) involving covalent attachment of an AMP moiety to threonine/tyrosine side chains of a protein. AMPylating enzymes belonging to three different families, namely Fic/Doc, GS-ATase and DrrA have been experimentally characterized. Involvement of these novel enzymes in a myriad of biological processes makes them interesting candidates for genome-wide search. We have used SVM and HMM to develop a computational protocol for identification of AMPylation domains and their classification into various functional subfamilies catalyzing AMPylation, deAMPylation, phosphorylation and phosphocholine transfer. Our analysis has not only identified novel PTM catalyzing enzymes among unannotated proteins, but has also revealed how this novel enzyme family has evolved to generate functional diversity by subtle changes in sequence/structures of the proteins. Phylogenetic analysis of Fic/Doc has revealed three new isofunctional subfamilies, thus adding to their functional divergence. Also, frequent occurrence of Fic/Doc proteins on highly mobile and unstable genomic islands indicated their evolution via extensive horizontal gene transfers. On the other hand phylogenetic analyses indicate lateral evolution of GS-ATase family and an early duplication event responsible for AMPylation and deAMPylation activity of GS-ATase. Our analysis also reveals molecular basis of substrate specificity of DrrA proteins.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper27",
+      "publication_id": "25931459",
+      "title": "novPTMenzy: a database for enzymes involved in novel post-translational modifications.",
+      "authors": [
+        "Shradha Khater",
+        "Debasisa Mohanty"
+      ],
+      "year": "2015",
+      "journal": "Database : the journal of biological databases and curation",
+      "doi": "10.1093/database/bav039",
+      "doi_link": "https://doi.org/10.1093/database/bav039",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25931459",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22novPTMenzy%3A%20a%20database%20for%20enzymes%20involved%20in%20novel%20post-translational%20modifications%22",
+      "citations": {
+        "crossref": 3
+      },
+      "abstract": "With the recent discoveries of novel post-translational modifications (PTMs) which play important roles in signaling and biosynthetic pathways, identification of such PTM catalyzing enzymes by genome mining has been an area of major interest. Unlike well-known PTMs like phosphorylation, glycosylation, SUMOylation, no bioinformatics resources are available for enzymes associated with novel and unusual PTMs. Therefore, we have developed the novPTMenzy database which catalogs information on the sequence, structure, active site and genomic neighborhood of experimentally characterized enzymes involved in five novel PTMs, namely AMPylation, Eliminylation, Sulfation, Hydroxylation and Deamidation. Based on a comprehensive analysis of the sequence and structural features of these known PTM catalyzing enzymes, we have created Hidden Markov Model profiles for the identification of similar PTM catalyzing enzymatic domains in genomic sequences. We have also created predictive rules for grouping them into functional subfamilies and deciphering their mechanistic details by structure-based analysis of their active site pockets. These analytical modules have been made available as user friendly search interfaces of novPTMenzy database. It also has a specialized analysis interface for some PTMs like AMPylation and Eliminylation. The novPTMenzy database is a unique resource that can aid in discovery of unusual PTM catalyzing enzymes in newly sequenced genomes. Database URL: http://www.nii.ac.in/novptmenzy.html",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper28",
+      "publication_id": "25062915",
+      "title": "Genome-wide search for eliminylating domains reveals novel function for BLES03-like proteins.",
+      "authors": [
+        "Shradha Khater",
+        "Debasisa Mohanty"
+      ],
+      "year": "2014",
+      "journal": "Genome biology and evolution",
+      "doi": "10.1093/gbe/evu161",
+      "doi_link": "https://doi.org/10.1093/gbe/evu161",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25062915",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Genome-wide%20search%20for%20eliminylating%20domains%20reveals%20novel%20function%20for%20BLES03-like%20proteins%22",
+      "citations": {
+        "crossref": 2
+      },
+      "abstract": "Bacterial phosphothreonine lyases catalyze a novel posttranslational modification involving formation of dehydrobutyrine/dehyroalanine by β elimination of the phosphate group of phosphothreonine or phosphoserine residues in their substrate proteins. Though there is experimental evidence for presence of dehydro amino acids in human proteins, no eukaryotic homologs of these lyases have been identified as of today. A comprehensive genome-wide search for identifying phosphothreonine lyase homologs in eukaryotes was carried out. Our fold-based search revealed structural and catalytic site similarity between bacterial phosphothreonine lyases and BLES03 (basophilic leukemia-expressed protein 03), a human protein with unknown function. Ligand induced conformational changes similar to bacterial phosphothreonine lyases, and movement of crucial arginines in the loop region to the catalytic pocket upon binding of phosphothreonine-containing peptides was seen during docking and molecular dynamics studies. Genome-wide search for BLES03 homologs using sensitive profile-based methods revealed their presence not only in eukaryotic classes such as chordata and fungi but also in bacterial and archaebacterial classes. The synteny of these archaebacterial BLES03-like proteins was remarkably similar to that of type IV lantibiotic synthetases which harbor LanL-like phosphothreonine lyase domains. Hence, context-based analysis reinforced our earlier sequence/structure-based prediction of phosphothreonine lyase catalytic function for BLES03. Our in silico analysis has revealed that BLES03-like proteins with previously unknown function are novel eukaryotic phosphothreonine lyases involved in biosynthesis of dehydro amino acids, whereas their bacterial and archaebacterial counterparts might be involved in biosynthesis of natural products similar to lantibiotics.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper29",
+      "publication_id": "24988180",
+      "title": "Mechanism of autophosphorylation of mycobacterial PknB explored by molecular dynamics simulations.",
+      "authors": [
+        "Nikhil P Damle",
+        "Debasisa Mohanty"
+      ],
+      "year": "2014",
+      "journal": "Biochemistry",
+      "doi": "10.1021/bi500245v",
+      "doi_link": "https://doi.org/10.1021/bi500245v",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24988180",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mechanism%20of%20autophosphorylation%20of%20mycobacterial%20PknB%20explored%20by%20molecular%20dynamics%20simulations%22",
+      "citations": {
+        "crossref": 10
+      },
+      "abstract": "Mycobacterial Ser/Thr kinase, PknB, is essential for the growth of the pathogen. Unphosphorylated PknB is catalytically inactive, and its activation requires autophosphorylation of Thr residues on the activation loop. Autophosphorylation can in principle take place via two distinct mechanisms. Intermolecular trans autophosphorylation involves dimerization and phosphorylation of the activation loop of one chain in the catalytic pocket of the other chain. On the other hand, intramolecular cis autophosphorylation involves phosphorylation of the activation loop of the kinases in its own catalytic pocket within a monomer. On the basis of the crystal structure of PknB in the front-to-front dimeric form, it is currently believed that activation of PknB involves trans autophosphorylation. However, because of the lack of coordinates of the activation loop in the crystal structures, atomic details of the conformational changes associated with activation are yet to be deciphered. Therefore, to understand the conformational transitions associated with activation via autophosphorylation, a series of explicit solvent molecular dynamics simulations with a duration of 1 μs have been performed on each of the phosphorylated and nonphosphorylated forms of the PknB catalytic domain in monomeric and dimeric states. Simulations on phosphorylated PknB revealed a differential network of crucial electrostatic and hydrophobic residues that stabilize the phosphorylated form in the active conformation. Interestingly, in our simulations on nonphosphorylated monomers, the activation loop was observed to fold into its own active site, thereby opening the novel possibility of activation through intramolecular cis autophosphorylation. Thus, our simulations suggest that autophosphorylation of PknB might also involve cis initiation followed by trans amplification as reported for other eukaryotic kinases based on recent reaction kinetics studies.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper30",
+      "publication_id": "24593775",
+      "title": "Structure-based multiscale approach for identification of interaction partners of PDZ domains.",
+      "authors": [
+        "Garima Tiwari",
+        "Debasisa Mohanty"
+      ],
+      "year": "2014",
+      "journal": "Journal of chemical information and modeling",
+      "doi": "10.1021/ci400627y",
+      "doi_link": "https://doi.org/10.1021/ci400627y",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24593775",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structure-based%20multiscale%20approach%20for%20identification%20of%20interaction%20partners%20of%20PDZ%20domains%22",
+      "citations": {
+        "crossref": 7
+      },
+      "abstract": "PDZ domains are peptide recognition modules which mediate specific protein-protein interactions and are known to have a complex specificity landscape. We have developed a novel structure-based multiscale approach which identifies crucial specificity determining residues (SDRs) of PDZ domains from explicit solvent molecular dynamics (MD) simulations on PDZ-peptide complexes and uses these SDRs in combination with knowledge-based scoring functions for proteomewide identification of their interaction partners. Multiple explicit solvent simulations ranging from 5 to 50 ns duration have been carried out on 28 PDZ-peptide complexes with known binding affinities. MM/PBSA binding energy values calculated from these simulations show a correlation coefficient of 0.755 with the experimental binding affinities. On the basis of the SDRs of PDZ domains identified by MD simulations, we have developed a simple scoring scheme for evaluating binding energies for PDZ-peptide complexes using residue based statistical pair potentials. This multiscale approach has been benchmarked on a mouse PDZ proteome array data set by calculating the binding energies for 217 different substrate peptides in binding pockets of 64 different mouse PDZ domains. Receiver operating characteristic (ROC) curve analysis indicates that, the area under curve (AUC) values for binder vs nonbinder classification by our structure based method is 0.780. Our structure based method does not require experimental PDZ-peptide binding data for training.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper31",
+      "publication_id": "24574117",
+      "title": "Deciphering kinase-substrate relationships by analysis of domain-specific phosphorylation network.",
+      "authors": [
+        "Nikhil Prakash Damle",
+        "Debasisa Mohanty"
+      ],
+      "year": "2014",
+      "journal": "Bioinformatics (Oxford, England)",
+      "doi": "10.1093/bioinformatics/btu112",
+      "doi_link": "https://doi.org/10.1093/bioinformatics/btu112",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24574117",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Deciphering%20kinase-substrate%20relationships%20by%20analysis%20of%20domain-specific%20phosphorylation%20network%22",
+      "citations": {
+        "crossref": 15
+      },
+      "abstract": "MOTIVATION: In silico prediction of site-specific kinase-substrate relationships (ssKSRs) is crucial for deciphering phosphorylation networks by linking kinomes to phosphoproteomes. However, currently available predictors for ssKSRs give rise to a large number of false-positive results because they use only a short sequence stretch around phosphosite as determinants of kinase specificity and do not consider the biological context of kinase-substrate recognition. RESULTS: Based on the analysis of domain-specific kinase-substrate relationships, we have constructed a domain-level phosphorylation network that implicitly incorporates various contextual factors. It reveals preferential phosphorylation of specific domains by certain kinases. These novel correlations have been implemented in PhosNetConstruct, an automated program for predicting target kinases for a substrate protein. PhosNetConstruct distinguishes cognate kinase-substrate pairs from a large number of non-cognate combinations. Benchmarking on independent datasets using various statistical measures demonstrates the superior performance of PhosNetConstruct over ssKSR-based predictors. AVAILABILITY AND IMPLEMENTATION: PhosNetConstruct is freely available at http://www.nii.ac.in/phosnetconstruct.html.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper32",
+      "publication_id": "23951139",
+      "title": "An in silico analysis of the binding modes and binding affinities of small molecule modulators of PDZ-peptide interactions.",
+      "authors": [
+        "Garima Tiwari",
+        "Debasisa Mohanty"
+      ],
+      "year": "2013",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0071340",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0071340",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23951139",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22An%20in%20silico%20analysis%20of%20the%20binding%20modes%20and%20binding%20affinities%20of%20small%20molecule%20modulators%20of%20PDZ-peptide%20interactions%22",
+      "citations": {
+        "crossref": 18
+      },
+      "abstract": "Inhibitors of PDZ-peptide interactions have important implications in a variety of biological processes including treatment of cancer and Parkinson's disease. Even though experimental studies have reported characterization of peptidomimetic inhibitors of PDZ-peptide interactions, the binding modes for most of them have not been characterized by structural studies. In this study we have attempted to understand the structural basis of the small molecule-PDZ interactions by in silico analysis of the binding modes and binding affinities of a set of 38 small molecules with known K(i) or K(d) values for PDZ2 and PDZ3 domains of PSD-95 protein. These two PDZ domains show differential selectivity for these compounds despite having a high degree of sequence similarity and almost identical peptide binding pockets. Optimum binding modes for these ligands for PDZ2 and PDZ3 domains were identified by using a novel combination of semi-flexible docking and explicit solvent molecular dynamics (MD) simulations. Analysis of the binding modes revealed most of the peptidomimectic ligands which had high K(i) or K(d) moved away from the peptide binding pocket, while ligands with high binding affinities remained in the peptide binding pocket. The differential specificities of the PDZ2 and PDZ3 domains primarily arise from differences in the conformation of the loop connecting βB and βC strands, because this loop interacts with the N-terminal chemical moieties of the ligands. We have also computed the MM/PBSA binding free energy values for these 38 compounds with both the PDZ domains from multiple 5 ns MD trajectories on each complex i.e. a total of 228 MD trajectories of 5 ns length each. Interestingly, computational binding free energies show good agreement with experimental binding free energies with a correlation coefficient of approximately 0.6. Thus our study demonstrates that combined use of docking and MD simulations can help in identification of potent inhibitors of PDZ-peptide complexes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper33",
+      "publication_id": "22803697",
+      "title": "Prediction of inter domain interactions in modular polyketide synthases by docking and correlated mutation analysis.",
+      "authors": [
+        "Gitanjali Yadav",
+        "Swadha Anand",
+        "Debasisa Mohanty"
+      ],
+      "year": "2013",
+      "journal": "Journal of biomolecular structure & dynamics",
+      "doi": "10.1080/07391102.2012.691342",
+      "doi_link": "https://doi.org/10.1080/07391102.2012.691342",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22803697",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Prediction%20of%20inter%20domain%20interactions%20in%20modular%20polyketide%20synthases%20by%20docking%20and%20correlated%20mutation%20analysis%22",
+      "citations": {
+        "crossref": 3
+      },
+      "abstract": "Polyketide synthases (PKSs) are huge multi-enzymatic protein complexes involved in the biosynthesis of one of the largest families of bioactive natural products, namely polyketides. The specificity of interactions between various catalytic domains of these megasynthases is one of the pivotal factors which control the precise order in which the extender units are joined during the biosynthetic process. Hence, understanding the molecular details of protein-protein interactions in the PKS megasynthases would be crucial for rational design of novel polyketides by domain swapping experiments involving engineered combinations of PKS catalytic domains. We have developed a computational method for exploring the binding interface between two proteins, and used it to identify the interacting residue pairs, which govern the specificity of recognition between acyl carrier protein (ACP) domain and two core catalytic domains, namely the ketosynthase (KS) and acyl transferase (AT). Both of these domain interactions i.e. the KS-ACP and the AT-ACP, are likely to play a major role in channelling of substrates and control of specificity during polyketide biosynthesis. The method, called interface scan, uses a combination of geometric docking and evolutionary information for the identification of the most appropriate mode of association between two proteins. The parameters of interface scan have been standardized based on analysis of contacts in the crystal structure of ACP in complex with ACP synthase (AcpS). Many of the contacts predicted for PKS domains are in agreement with available experiments.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper34",
+      "publication_id": "22798073",
+      "title": "Retrobiosynthetic approach delineates the biosynthetic pathway and the structure of the acyl chain of mycobacterial glycopeptidolipids.",
+      "authors": [
+        "Archana Vats",
+        "Anil Kumar Singh",
+        "Raju Mukherjee",
+        "Tarun Chopra",
+        "Madhu Sudhan Ravindran",
+        "Debasisa Mohanty",
+        "Dipankar Chatterji",
+        "Jean-Marc Reyrat",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2012",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M112.384966",
+      "doi_link": "https://doi.org/10.1074/jbc.M112.384966",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22798073",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Retrobiosynthetic%20approach%20delineates%20the%20biosynthetic%20pathway%20and%20the%20structure%20of%20the%20acyl%20chain%20of%20mycobacterial%20glycopeptidolipids%22",
+      "citations": {
+        "crossref": 18
+      },
+      "abstract": "Glycopeptidolipids (GPLs) are dominant cell surface molecules present in several non-tuberculous and opportunistic mycobacterial species. GPLs from Mycobacterium smegmatis are composed of a lipopeptide core unit consisting of a modified C(26)-C(34) fatty acyl chain that is linked to a tetrapeptide (Phe-Thr-Ala-alaninol). The hydroxyl groups of threonine and terminal alaninol are further modified by glycosylations. Although chemical structures have been reported for 16 GPLs from diverse mycobacteria, there is still ambiguity in identifying the exact position of the hydroxyl group on the fatty acyl chain. Moreover, the enzymes involved in the biosynthesis of the fatty acyl component are unknown. In this study we show that a bimodular polyketide synthase in conjunction with a fatty acyl-AMP ligase dictates the synthesis of fatty acyl chain of GPL. Based on genetic, biochemical, and structural investigations, we determine that the hydroxyl group is present at the C-5 position of the fatty acyl component. Our retrobiosynthetic approach has provided a means to understand the biosynthesis of GPLs and also resolve the long-standing debate on the accurate structure of mycobacterial GPLs.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper35",
+      "publication_id": "22639887",
+      "title": "Modeling holo-ACP:DH and holo-ACP:KR complexes of modular polyketide synthases: a docking and molecular dynamics study.",
+      "authors": [
+        "Swadha Anand",
+        "Debasisa Mohanty"
+      ],
+      "year": "2012",
+      "journal": "BMC structural biology",
+      "doi": "10.1186/1472-6807-12-10",
+      "doi_link": "https://doi.org/10.1186/1472-6807-12-10",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22639887",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Modeling%20holo-ACP%3ADH%20and%20holo-ACP%3AKR%20complexes%20of%20modular%20polyketide%20synthases%3A%20a%20docking%20and%20molecular%20dynamics%20study%22",
+      "citations": {
+        "crossref": 17
+      },
+      "abstract": "BACKGROUND: Modular polyketide synthases are multifunctional megasynthases which biosynthesize a variety of secondary metabolites using various combinations of dehydratase (DH), ketoreductase (KR) and enoyl-reductase (ER) domains. During the catalysis of various reductive steps these domains act on a substrate moiety which is covalently attached to the phosphopantetheine (P-pant) group of the holo-Acyl Carrier Protein (holo-ACP) domain, thus necessitating the formation of holo-ACP:DH and holo-ACP:KR complexes. Even though three dimensional structures are available for DH, KR and ACP domains, no structures are available for DH or KR domains in complex with ACP or substrate moieties. Since Ser of holo-ACP is covalently attached to a large phosphopantetheine group, obtaining complexes involving holo-ACP by standard protein-protein docking has been a difficult task. RESULTS: We have modeled the holo-ACP:DH and holo-ACP:KR complexes for identifying specific residues on DH and KR domains which are involved in interaction with ACP, phosphopantetheine and substrate moiety. A novel combination of protein-protein and protein-ligand docking has been used to first model complexes involving apo-ACP and then dock the phosphopantetheine and substrate moieties using covalent connectivity between ACP, phosphopantetheine and substrate moiety as constraints. The holo-ACP:DH and holo-ACP:KR complexes obtained from docking have been further refined by restraint free explicit solvent MD simulations to incorporate effects of ligand and receptor flexibilities. The results from 50 ns MD simulations reveal that substrate enters into a deep tunnel in DH domain while in case of KR domain the substrate binds a shallow surface exposed cavity. Interestingly, in case of DH domain the predicted binding site overlapped with the binding site in the inhibitor bound crystal structure of FabZ, the DH domain from E.Coli FAS. In case of KR domain, the substrate binding site identified by our simulations was in proximity of the known stereo-specificity determining residues. CONCLUSIONS: We have modeled the holo-ACP:DH and holo-ACP:KR complexes and identified the specific residues on DH and KR domains which are involved in interaction with ACP, phosphopantetheine and substrate moiety. Analysis of the conservation profile of binding pocket residues in homologous sequences of DH and KR domains indicated that, these results can also be extrapolated to reductive domains of other modular PKS clusters.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper36",
+      "publication_id": "22539638",
+      "title": "Novel insights into the regulation of malarial calcium-dependent protein kinase 1.",
+      "authors": [
+        "Anwar Ahmed",
+        "Kavita Gaadhe",
+        "Guru Prasad Sharma",
+        "Narendra Kumar",
+        "Mirela Neculai",
+        "Raymond Hui",
+        "Debasisa Mohanty",
+        "Pushkar Sharma"
+      ],
+      "year": "2012",
+      "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "doi": "10.1096/fj.12-203877",
+      "doi_link": "https://doi.org/10.1096/fj.12-203877",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22539638",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Novel%20insights%20into%20the%20regulation%20of%20malarial%20calcium-dependent%20protein%20kinase%201%22",
+      "citations": {
+        "crossref": 24
+      },
+      "abstract": "Calcium-dependent protein kinases (CDPKs) are major effectors of calcium signaling in apicomplexan parasites like Toxoplasma and Plasmodium and control important processes of the parasite life cycle. Despite recently reported crystal structures of Toxoplasma gondii (Tg)CDPKs, several important questions about their regulation remain unanswered. Plasmodium falciparum (Pf)CDPK1 has emerged as a key player in the life cycle of the malaria parasite, as it may be involved in the invasion of the host cells. Molecular modeling and site-directed mutagenesis studies on PfCDPK1 suggested that several residues in the regulatory domain play a dual role, as they seem to contribute to the stabilization of both the active and inactive kinase. Mass spectrometry revealed that PfCDPK1 was autophosphorylated at several sites; some of these were placed at strategic locations and therefore were found to be critical for kinase activation. The N-terminal extension of PfCDPK1 was found to be important for PfCDPK1 activation. Unexpectedly, an ATP binding site in the NTE of PfCDPK1 was identified. Our studies highlight several novel features of PfCDPK1 regulation, which may be shared by other members of the CDPK family. These findings may also aid design of inhibitors against these important targets, which are absent from the host.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper37",
+      "publication_id": "22357944",
+      "title": "RECQL4 is essential for the transport of p53 to mitochondria in normal human cells in the absence of exogenous stress.",
+      "authors": [
+        "Siddharth De",
+        "Jyoti Kumari",
+        "Richa Mudgal",
+        "Priyanka Modi",
+        "Shruti Gupta",
+        "Kazunobu Futami",
+        "Hideyuki Goto",
+        "Noralane M Lindor",
+        "Yasuhiro Furuichi",
+        "Debasisa Mohanty",
+        "Sagar Sengupta"
+      ],
+      "year": "2012",
+      "journal": "Journal of cell science",
+      "doi": "10.1242/jcs.101501",
+      "doi_link": "https://doi.org/10.1242/jcs.101501",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22357944",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22RECQL4%20is%20essential%20for%20the%20transport%20of%20p53%20to%20mitochondria%20in%20normal%20human%20cells%20in%20the%20absence%20of%20exogenous%20stress%22",
+      "citations": {
+        "crossref": 71
+      },
+      "abstract": "Mutations in RECQL4 helicase are associated with Rothmund-Thomson syndrome (RTS). A subset of RTS patients is predisposed to cancer and is sensitive to DNA damaging agents. The enhanced sensitivity of cells from RTS patients correlates with the accumulation of transcriptionally active nuclear p53. We found that in untreated normal human cells these two nuclear proteins, p53 and RECQL4, instead colocalize in the mitochondrial nucleoids. RECQL4 accumulates in mitochondria in all phases of the cell cycle except S phase and physically interacts with p53 only in the absence of DNA damage. p53-RECQL4 binding leads to the masking of the nuclear localization signal of p53. The N-terminal 84 amino acids of RECQL4 contain a mitochondrial localization signal, which causes the localization of RECQL4-p53 complex to the mitochondria. RECQL4-p53 interaction is disrupted after stress, allowing p53 translocation to the nucleus. In untreated normal cells RECQL4 optimizes de novo replication of mtDNA, which is consequently decreased in fibroblasts from RTS patients. Wild-type RECQL4-complemented RTS cells show relocalization of both RECQL4 and p53 to the mitochondria, loss of p53 activation, restoration of de novo mtDNA replication and resistance to different types of DNA damage. In cells expressing Δ84 RECQL4, which cannot translocate to mitochondria, all the above functions are compromised. The recruitment of p53 to the sites of de novo mtDNA replication is also regulated by RECQL4. Thus these findings elucidate the mechanism by which p53 is regulated by RECQL4 in unstressed normal cells and also delineates the mitochondrial functions of the helicase.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper38",
+      "publication_id": "22292951",
+      "title": "Molecular dynamics simulations on pars intercerebralis major peptide-C (PMP-C) reveal the role of glycosylation and disulfide bonds in its enhanced structural stability and function.",
+      "authors": [
+        "Sandeep Kaushik",
+        "Debasisa Mohanty",
+        "Avadhesha Surolia"
+      ],
+      "year": "2012",
+      "journal": "Journal of biomolecular structure & dynamics",
+      "doi": "10.1080/073911012010525026",
+      "doi_link": "https://doi.org/10.1080/073911012010525026",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22292951",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Molecular%20dynamics%20simulations%20on%20pars%20intercerebralis%20major%20peptide-C%20%28PMP-C%29%20reveal%20the%20role%20of%20glycosylation%20and%20disulfide%20bonds%20in%20its%20enhanced%20structural%20stability%20and%20function%22",
+      "citations": {
+        "crossref": 8
+      },
+      "abstract": "Fucosylation of Thr 9 in pars intercerebralis major peptide-C (PMP-C) enhances its structural stability and functional ability as a serine protease inhibitor. In order to understand the role of disulfide bonds and glycosylation on the structure and function of PMP-C, we have carried out multiple explicit solvent molecular dynamics (MD) simulations on fucosylated and non-fucosylated forms of PMP-C, both in the presence and absence of the disulfide bonds. Our simulations revealed that there were no significant structural changes in the native disulfide bonded forms of PMP-C due to fucosylation. On the other hand, the non-fucosylated form of PMP-C without disulfide bonds showed larger deviations from the starting structure than the fucosylated form. However, the structural deviations were restricted to the terminal regions while core β-sheet retained its hydrogen bonded structure even in absence of disulfide bonds as well as fucosylation. Interestingly, fucosylation of disulfide bonded native PMP-C led to a decreased thermal flexibility in the residue stretch 29-32 which is known to interact with the active site of the target proteases. Our analysis revealed that disulfide bonds covalently connect the residue stretch 29-32 to the central β-sheet of PMP-C and using a novel network of side chain interactions and disulfide bonds fucosylation at Thr 9 is altering the flexibility of the stretch 29-32 located at a distal site. Thus, our simulations explain for the first time, how presence of disulfide bonds between conserved cysteines and fucosylation enhance the function of PMP-C as a protease inhibitor.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper39",
+      "publication_id": "22282160",
+      "title": "Inter-domain movements in polyketide synthases: a molecular dynamics study.",
+      "authors": [
+        "Swadha Anand",
+        "Debasisa Mohanty"
+      ],
+      "year": "2012",
+      "journal": "Molecular bioSystems",
+      "doi": "10.1039/c2mb05425f",
+      "doi_link": "https://doi.org/10.1039/c2mb05425f",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22282160",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Inter-domain%20movements%20in%20polyketide%20synthases%3A%20a%20molecular%20dynamics%20study%22",
+      "citations": {
+        "semantic_scholar": 8
+      },
+      "abstract": "Insights into the structure and dynamics of modular polyketide synthases (PKS) are essential for understanding the mechanistic details of the biosynthesis of a large number of pharmaceutically important secondary metabolites. The crystal structures of the KS-AT di-domain from erythromycin synthase have revealed the relative orientation of various catalytic domains in a minimal PKS module. However, the relatively large distance between catalytic centers of KS and AT domains in the static structure has posed certain intriguing questions regarding mechanistic details of substrate transfer during polyketide biosynthesis. In order to investigate the role of inter-domain movements in substrate channeling, we have carried out a series of explicit solvent MD simulations for time periods ranging from 10 to 15 ns on the KS-AT di-domain and its sub-fragments. Analyses of these MD trajectories have revealed that both the catalytic domains and the structured inter-domain linker region remain close to their starting structures. Inter-domain movements at KS-linker and linker-AT interfaces occur around hinge regions which connect the structured linker region to the catalytic domains. The KS-linker interface was found to be more flexible compared to the linker-AT interface. However, inter-domain movements observed during the timescale of our simulations do not significantly reduce the distance between catalytic centers of KS and AT domains for facilitating substrate channeling. Based on these studies and prediction of intrinsic disorder we propose that the intrinsically unstructured linker stretch preceding the ACP domain might be facilitating movement of ACP domains to various catalytic centers.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper40",
+      "publication_id": "21931666",
+      "title": "Two functionally distinctive phosphopantetheinyl transferases from amoeba Dictyostelium discoideum.",
+      "authors": [
+        "Divya R Nair",
+        "Ratna Ghosh",
+        "Alzu Manocha",
+        "Debasisa Mohanty",
+        "Shweta Saran",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2011",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0024262",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0024262",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21931666",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Two%20functionally%20distinctive%20phosphopantetheinyl%20transferases%20from%20amoeba%20Dictyostelium%20discoideum%22",
+      "citations": {
+        "crossref": 4
+      },
+      "abstract": "The life cycle of Dictyostelium discoideum is proposed to be regulated by expression of small metabolites. Genome sequencing studies have revealed a remarkable array of genes homologous to polyketide synthases (PKSs) that are known to synthesize secondary metabolites in bacteria and fungi. A crucial step in functional activation of PKSs involves their post-translational modification catalyzed by phosphopantetheinyl transferases (PPTases). PPTases have been recently characterized from several bacteria; however, their relevance in complex life cycle of protozoa remains largely unexplored. Here we have identified and characterized two phosphopantetheinyl transferases from D. discoideum that exhibit distinct functional specificity. DiAcpS specifically modifies a stand-alone acyl carrier protein (ACP) that possesses a mitochondrial import signal. DiSfp in contrast is specific to Type I multifunctional PKS/fatty acid synthase proteins and cannot modify the stand-alone ACP. The mRNA of two PPTases can be detected during the vegetative as well as starvation-induced developmental pathway and the disruption of either of these genes results in non-viable amoebae. Our studies show that both PPTases play an important role in Dictyostelium biology and provide insight into the importance of PPTases in lower eukaryotes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper41",
+      "publication_id": "21601529",
+      "title": "Fatty acyl-AMP ligases and polyketide synthases are unique enzymes of lipid biosynthetic machinery in Mycobacterium tuberculosis.",
+      "authors": [
+        "Debasisa Mohanty",
+        "Rajan Sankaranarayanan",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2011",
+      "journal": "Tuberculosis (Edinburgh, Scotland)",
+      "doi": "10.1016/j.tube.2011.04.006",
+      "doi_link": "https://doi.org/10.1016/j.tube.2011.04.006",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21601529",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Fatty%20acyl-AMP%20ligases%20and%20polyketide%20synthases%20are%20unique%20enzymes%20of%20lipid%20biosynthetic%20machinery%20in%20Mycobacterium%20tuberculosis%22",
+      "citations": {
+        "crossref": 20
+      },
+      "abstract": "The cell envelope of Mycobacterium tuberculosis (Mtb) possesses a repertoire of unusual lipids that are believed to play an important role in pathogenesis. In this review, we specifically focus on computational, biochemical and structural studies in lipid biosynthesis that have established functional role of polyketide synthases (PKSs) and fatty acyl-AMP ligases (FAALs). Mechanistic and structural studies with FAALs suggest that this group of proteins may have evolved from omnipresent fatty acyl-CoA ligases (FACLs). FAALs activate fatty acids as acyl-adenylates and transfer them on to the PKSs which then produce unusual acyl chains that are the components of mycobacterial lipids. FAALs are a newly discovered family of enzymes; whereas involvement of PKSs in lipid metabolism was not known prior to their discovery in Mtb. Since Mtb genome contains multiple homologs of FAALs and PKSs and owing to the conserved reaction mechanism and overlapping substrate specificity; there is tempting opportunity to develop 'systemic drugs' against these enzymes as anti-tuberculosis agents.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper42",
+      "publication_id": "21432931",
+      "title": "Role of glycosylation in structure and stability of Erythrina corallodendron lectin (EcorL): a molecular dynamics study.",
+      "authors": [
+        "Sandeep Kaushik",
+        "Debasisa Mohanty",
+        "Avadhesha Surolia"
+      ],
+      "year": "2011",
+      "journal": "Protein science : a publication of the Protein Society",
+      "doi": "10.1002/pro.578",
+      "doi_link": "https://doi.org/10.1002/pro.578",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21432931",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Role%20of%20glycosylation%20in%20structure%20and%20stability%20of%20Erythrina%20corallodendron%20lectin%20%28EcorL%29%3A%20a%20molecular%20dynamics%20study%22",
+      "citations": {
+        "crossref": 22
+      },
+      "abstract": "The effect of glycosylation on structure and stability of glycoproteins has been a topic of considerable interest. In this work, we have investigated the solution conformation of the oligosaccharide and its effect on the structure and stability of the glycoprotein by carrying out a series of long Molecular dynamics (MD) simulations on glycosylated Erythrina corallodendron lectin (EcorL) and nonglycosylated recombinant Erythrina corallodendron lectin (rEcorL). Our results indicate that, despite the similarity in overall three dimensional structures, glycosylated EcorL has lesser nonpolar solvent accessible surface area compared to nonglycosylated EcorL. This might explain the experimental observation of higher thermodynamic stability for glycosylated EcorL compared to nonglycosylated EcorL. Analysis of the simulation results indicates that, dynamic view of interactions between protein residues and oligosaccharide is entirely different from the static picture seen in the crystal structure. The oligosaccharide moiety had dynamically stable interactions with Lys 55 and Tyr 53, both of which are separated in sequence from the site of glycosylation, Asn 17. It is possible that glycosylation helps in forming long-range contacts between amino acids, which are separated in sequence and thus provides a folding nucleus. Thus our simulations not only reveal the conformations sampled by the oligosaccharide, but also provide novel insights into possible molecular mechanisms by which glycosylation can help in folding of the glycoprotein by formation of folding nucleus involving specific contacts with the oligosaccharide moiety.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper43",
+      "publication_id": "20953500",
+      "title": "Structure-based identification of MHC binding peptides: Benchmarking of prediction accuracy.",
+      "authors": [
+        "Narendra Kumar",
+        "Debasisa Mohanty"
+      ],
+      "year": "2010",
+      "journal": "Molecular bioSystems",
+      "doi": "10.1039/c0mb00013b",
+      "doi_link": "https://doi.org/10.1039/c0mb00013b",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20953500",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structure-based%20identification%20of%20MHC%20binding%20peptides%3A%20Benchmarking%20of%20prediction%20accuracy%22",
+      "citations": {
+        "crossref": 7
+      },
+      "abstract": "Identification of MHC binding peptides is essential for understanding the molecular mechanism of immune response. However, most of the prediction methods use motifs/profiles derived from experimental peptide binding data for specific MHC alleles, thus limiting their applicability only to those alleles for which such data is available. In this work we have developed a structure-based method which does not require experimental peptide binding data for training. Our method models MHC-peptide complexes using crystal structures of 170 MHC-peptide complexes and evaluates the binding energies using two well known residue based statistical pair potentials, namely Betancourt-Thirumalai (BT) and Miyazawa-Jernigan (MJ) matrices. Extensive benchmarking of prediction accuracy on a data set of 1654 epitopes from class I and class II alleles available in the SYFPEITHI database indicate that BT pair-potential can predict more than 60% of the known binders in case of 14 MHC alleles with AUC values for ROC curves ranging from 0.6 to 0.9. Similar benchmarking on 29,522 class I and class II MHC binding peptides with known IC(50) values in the IEDB database showed AUC values higher than 0.6 for 10 class I alleles and 9 class II alleles in predictions involving classification of a peptide to be binder or non-binder. Comparison with recently available benchmarking studies indicated that, the prediction accuracy of our method for many of the class I and class II MHC alleles was comparable to the sequence based methods, even if it does not use any experimental data for training. It is also encouraging to note that the ranks of true binding peptides could further be improved, when high scoring peptides obtained from pair potential were re-ranked using all atom forcefield and MM/PBSA method.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper44",
+      "publication_id": "20719863",
+      "title": "Chk1-dependent constitutive phosphorylation of BLM helicase at serine 646 decreases after DNA damage.",
+      "authors": [
+        "Sarabpreet Kaur",
+        "Priyanka Modi",
+        "Vivek Srivastava",
+        "Richa Mudgal",
+        "Shweta Tikoo",
+        "Prateek Arora",
+        "Debasisa Mohanty",
+        "Sagar Sengupta"
+      ],
+      "year": "2010",
+      "journal": "Molecular cancer research : MCR",
+      "doi": "10.1158/1541-7786.MCR-10-0233",
+      "doi_link": "https://doi.org/10.1158/1541-7786.MCR-10-0233",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20719863",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Chk1-dependent%20constitutive%20phosphorylation%20of%20BLM%20helicase%20at%20serine%20646%20decreases%20after%20DNA%20damage%22",
+      "citations": {
+        "crossref": 24
+      },
+      "abstract": "BLM helicase, the protein mutated in Bloom syndrome, is involved in signal transduction cascades after DNA damage. BLM is phosphorylated on multiple residues by different kinases either after stress induction or during mitosis. Here, we have provided evidence that both Chk1 and Chk2 phosphorylated the NH(2)-terminal 660 amino acids of BLM. An internal region within the DExH motif of BLM negatively regulated the Chk1/Chk2-dependent NH(2)-terminal phosphorylation event. Using in silico analysis involving the Chk1 structure and its known substrate specificity, we predicted that Chk1 should preferentially phosphorylate BLM on serine 646 (Ser(646)). The prediction was validated in vitro by phosphopeptide analysis on BLM mutants and in vivo by usage of a newly generated phosphospecific polyclonal antibody. We showed that the phosphorylation at Ser(646) on BLM was constitutive and decreased rapidly after exposure to DNA damage. This resulted in the diminished interaction of BLM with nucleolin and PML isoforms, and consequently decreased BLM accumulation in the nucleolus and PML nuclear bodies. Instead, BLM relocalized to the sites of DNA damage and bound with the damage sensor protein, Nbs1. Mutant analysis confirmed that the binding to nucleolin and PML isoforms required Ser(646) phosphorylation. These results indicated that Chk1-mediated phosphorylation on BLM at Ser(646) might be a determinant for regulating subnuclear localization and could act as a marker for the activation status of BLM in response to DNA damage.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper45",
+      "publication_id": "20444870",
+      "title": "SBSPKS: structure based sequence analysis of polyketide synthases.",
+      "authors": [
+        "Swadha Anand",
+        "M V R Prasad",
+        "Gitanjali Yadav",
+        "Narendra Kumar",
+        "Jyoti Shehara",
+        "Md Zeeshan Ansari",
+        "Debasisa Mohanty"
+      ],
+      "year": "2010",
+      "journal": "Nucleic acids research",
+      "doi": "10.1093/nar/gkq340",
+      "doi_link": "https://doi.org/10.1093/nar/gkq340",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20444870",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22SBSPKS%3A%20structure%20based%20sequence%20analysis%20of%20polyketide%20synthases%22",
+      "citations": {
+        "semantic_scholar": 184
+      },
+      "abstract": "Polyketide synthases (PKSs) catalyze biosynthesis of a diverse family of pharmaceutically important secondary metabolites. Bioinformatics analysis of sequence and structural features of PKS proteins plays a crucial role in discovery of new natural products by genome mining, as well as in design of novel secondary metabolites by biosynthetic engineering. The availability of the crystal structures of various PKS catalytic and docking domains, and mammalian fatty acid synthase module prompted us to develop SBSPKS software which consists of three major components. Model_3D_PKS can be used for modeling, visualization and analysis of 3D structure of individual PKS catalytic domains, dimeric structures for complete PKS modules and prediction of substrate specificity. Dock_Dom_Anal identifies the key interacting residue pairs in inter-subunit interfaces based on alignment of inter-polypeptide linker sequences to the docking domain structure. In case of modular PKS with multiple open reading frames (ORFs), it can predict the cognate order of substrate channeling based on combinatorial evaluation of all possible interface contacts. NRPS-PKS provides user friendly tools for identifying various catalytic domains in the sequence of a Type I PKS protein and comparing them with experimentally characterized PKS/NRPS clusters cataloged in the backend databases of SBSPKS. SBSPKS is available at http://www.nii.ac.in/sbspks.html.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper46",
+      "publication_id": "20105319",
+      "title": "Genome scale prediction of substrate specificity for acyl adenylate superfamily of enzymes based on active site residue profiles.",
+      "authors": [
+        "Pankaj Khurana",
+        "Rajesh S Gokhale",
+        "Debasisa Mohanty"
+      ],
+      "year": "2010",
+      "journal": "BMC bioinformatics",
+      "doi": "10.1186/1471-2105-11-57",
+      "doi_link": "https://doi.org/10.1186/1471-2105-11-57",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20105319",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Genome%20scale%20prediction%20of%20substrate%20specificity%20for%20acyl%20adenylate%20superfamily%20of%20enzymes%20based%20on%20active%20site%20residue%20profiles%22",
+      "citations": {
+        "semantic_scholar": 34
+      },
+      "abstract": "BACKGROUND: Enzymes belonging to acyl:CoA synthetase (ACS) superfamily activate wide variety of substrates and play major role in increasing the structural and functional diversity of various secondary metabolites in microbes and plants. However, due to the large sequence divergence within the superfamily, it is difficult to predict their substrate preference by annotation transfer from the closest homolog. Therefore, a large number of ACS sequences present in public databases lack any functional annotation at the level of substrate specificity. Recently, several examples have been reported where the enzymes showing high sequence similarity to luciferases or coumarate:CoA ligases have been surprisingly found to activate fatty acyl substrates in experimental studies. In this work, we have investigated the relationship between the substrate specificity of ACS and their sequence/structural features, and developed a novel computational protocol for in silico assignment of substrate preference. RESULTS: We have used a knowledge-based approach which involves compilation of substrate specificity information for various experimentally characterized ACS and derivation of profile HMMs for each subfamily. These HMM profiles can accurately differentiate probable cognate substrates from non-cognate possibilities with high specificity (Sp) and sensitivity (Sn) (Sn = 0.91-1.0, Sp = 0.96-1.0) values. Using homologous crystal structures, we identified a limited number of contact residues crucial for substrate recognition i.e. specificity determining residues (SDRs). Patterns of SDRs from different subfamilies have been used to derive predictive rules for correlating them to substrate preference. The power of the SDR approach has been demonstrated by correct prediction of substrates for enzymes which show apparently anomalous substrate preference. Furthermore, molecular modeling of the substrates in the active site has been carried out to understand the structural basis of substrate selection. A web based prediction tool http://www.nii.res.in/pred_acs_substr.html has been developed for automated functional classification of ACS enzymes. CONCLUSIONS: We have developed a novel computational protocol for predicting substrate preference for ACS superfamily of enzymes using a limited number of SDRs. Using this approach substrate preference can be assigned to a large number of ACS enzymes present in various genomes. It can potentially help in rational design of novel proteins with altered substrate specificities.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper47",
+      "publication_id": "19910306",
+      "title": "Identification of substrates for Ser/Thr kinases using residue-based statistical pair potentials.",
+      "authors": [
+        "Narendra Kumar",
+        "Debasisa Mohanty"
+      ],
+      "year": "2010",
+      "journal": "Bioinformatics (Oxford, England)",
+      "doi": "10.1093/bioinformatics/btp633",
+      "doi_link": "https://doi.org/10.1093/bioinformatics/btp633",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19910306",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Identification%20of%20substrates%20for%20Ser/Thr%20kinases%20using%20residue-based%20statistical%20pair%20potentials%22",
+      "citations": {
+        "semantic_scholar": 16
+      },
+      "abstract": "MOTIVATION: In silico methods are being widely used for identifying substrates for various kinases and deciphering cell signaling networks. However, most of the available phosphorylation site prediction methods use motifs or profiles derived from a known data set of kinase substrates and hence, their applicability is limited to only those kinase families for which experimental substrate data is available. This prompted us to develop a novel multi-scale structure-based approach which does not require training using experimental substrate data. RESULTS: In this work, for the first time, we have used residue-based statistical pair potentials for scoring the binding energy of various substrate peptides in complex with kinases. Extensive benchmarking on Phospho.ELM data set indicate that our method outperforms other structure-based methods and has a prediction accuracy comparable to available sequence-based methods. We also demonstrate that the rank of the true substrate can be further improved, if the high-scoring candidate substrates that are short-listed based on pair potential score, are modeled using all atom forcefield and MM/PBSA approach. SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics Online.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper48",
+      "publication_id": "19465400",
+      "title": "RegAnalyst: a web interface for the analysis of regulatory motifs, networks and pathways.",
+      "authors": [
+        "Deepak Sharma",
+        "Debasisa Mohanty",
+        "Avadhesha Surolia"
+      ],
+      "year": "2009",
+      "journal": "Nucleic acids research",
+      "doi": "10.1093/nar/gkp388",
+      "doi_link": "https://doi.org/10.1093/nar/gkp388",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19465400",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22RegAnalyst%3A%20a%20web%20interface%20for%20the%20analysis%20of%20regulatory%20motifs%2C%20networks%20and%20pathways%22",
+      "citations": {
+        "crossref": 12
+      },
+      "abstract": "RegAnalyst is a user-friendly web interface that integrates MoPP (Motif Prediction Program), MyPatternFinder (pattern detection tool) and MycoRegDB (mycobacterial promoter and regulatory elements database). Since motif discovery is a challenging task, numerous tools have been developed over the past few years. Strikingly, the existing programs were not successful in detecting the known consensus in all mycobacterial (epitomizing degenerate) datasets even in the absence of noise and their performance was further reduced in the presence of noise. Consequently, MoPP, a de novo and greedy (for degeneracy) 'inexact' word-based tool that is tailored to enumerate significantly conserved degenerate oligonucleotide motifs was developed. Benchmarking on datasets from MycoRegDB and SCPD (http://rulai.cshl.edu/SCPD/) indicate that MoPP (i) consistently outperforms other motif discovery tools on highly degenerate as well as less degenerate datasets and (ii) successfully detects completely degenerate motifs (with no two instances of a pattern being exactly the same) even in the presence of noise. We have also developed another accessory program, MyPatternFinder, that scans a given sequence or genome to find exact or approximate matches to a query motif of any length identified by MoPP or any other user-defined motif. RegAnalyst will be a valuable tool for in silico analysis of regulatory networks and can be accessed at http://www.nii.ac.in/~deepak/RegAnalyst.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper49",
+      "publication_id": "19360130",
+      "title": "Towards prediction of metabolic products of polyketide synthases: an in silico analysis.",
+      "authors": [
+        "Gitanjali Yadav",
+        "Rajesh S Gokhale",
+        "Debasisa Mohanty"
+      ],
+      "year": "2009",
+      "journal": "PLoS computational biology",
+      "doi": "10.1371/journal.pcbi.1000351",
+      "doi_link": "https://doi.org/10.1371/journal.pcbi.1000351",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19360130",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Towards%20prediction%20of%20metabolic%20products%20of%20polyketide%20synthases%3A%20an%20in%20silico%20analysis%22",
+      "citations": {
+        "crossref": 76
+      },
+      "abstract": "Sequence data arising from an increasing number of partial and complete genome projects is revealing the presence of the polyketide synthase (PKS) family of genes not only in microbes and fungi but also in plants and other eukaryotes. PKSs are huge multifunctional megasynthases that use a variety of biosynthetic paradigms to generate enormously diverse arrays of polyketide products that posses several pharmaceutically important properties. The remarkable conservation of these gene clusters across organisms offers abundant scope for obtaining novel insights into PKS biosynthetic code by computational analysis. We have carried out a comprehensive in silico analysis of modular and iterative gene clusters to test whether chemical structures of the secondary metabolites can be predicted from PKS protein sequences. Here, we report the success of our method and demonstrate the feasibility of deciphering the putative metabolic products of uncharacterized PKS clusters found in newly sequenced genomes. Profile Hidden Markov Model analysis has revealed distinct sequence features that can distinguish modular PKS proteins from their iterative counterparts. For iterative PKS proteins, structural models of iterative ketosynthase (KS) domains have revealed novel correlations between the size of the polyketide products and volume of the active site pocket. Furthermore, we have identified key residues in the substrate binding pocket that control the number of chain extensions in iterative PKSs. For modular PKS proteins, we describe for the first time an automated method based on crucial intermolecular contacts that can distinguish the correct biosynthetic order of substrate channeling from a large number of non-cognate combinatorial possibilities. Taken together, our in silico analysis provides valuable clues for formulating rules for predicting polyketide products of iterative as well as modular PKS clusters. These results have promising potential for discovery of novel natural products by genome mining and rational design of novel natural products.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper50",
+      "publication_id": "19182784",
+      "title": "Mechanistic and functional insights into fatty acid activation in Mycobacterium tuberculosis.",
+      "authors": [
+        "Pooja Arora",
+        "Aneesh Goyal",
+        "Vivek T Natarajan",
+        "Eerappa Rajakumara",
+        "Priyanka Verma",
+        "Radhika Gupta",
+        "Malikmohamed Yousuf",
+        "Omita A Trivedi",
+        "Debasisa Mohanty",
+        "Anil Tyagi",
+        "Rajan Sankaranarayanan",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2009",
+      "journal": "Nature chemical biology",
+      "doi": "10.1038/nchembio.143",
+      "doi_link": "https://doi.org/10.1038/nchembio.143",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19182784",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mechanistic%20and%20functional%20insights%20into%20fatty%20acid%20activation%20in%20Mycobacterium%20tuberculosis%22",
+      "citations": {
+        "semantic_scholar": 129
+      },
+      "abstract": "The recent discovery of fatty acyl-AMP ligases (FAALs) in Mycobacterium tuberculosis (Mtb) provided a new perspective of fatty acid activation. These proteins convert fatty acids to the corresponding adenylates, which are intermediates of acyl-CoA-synthesizing fatty acyl-CoA ligases (FACLs). Presently, it is not evident how obligate pathogens such as Mtb have evolved such new themes of functional versatility and whether the activation of fatty acids to acyladenylates could indeed be a general mechanism. Here, based on elucidation of the first structure of an FAAL protein and by generating loss-of-function and gain-of-function mutants that interconvert FAAL and FACL activities, we demonstrate that an insertion motif dictates formation of acyladenylate. Because FAALs in Mtb are crucial nodes in the biosynthetic network of virulent lipids, inhibitors directed against these proteins provide a unique multipronged approach to simultaneously disrupting several pathways.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper51",
+      "publication_id": "18950525",
+      "title": "In silico analysis of methyltransferase domains involved in biosynthesis of secondary metabolites.",
+      "authors": [
+        "Mohd Zeeshan Ansari",
+        "Jyoti Sharma",
+        "Rajesh S Gokhale",
+        "Debasisa Mohanty"
+      ],
+      "year": "2008",
+      "journal": "BMC bioinformatics",
+      "doi": "10.1186/1471-2105-9-454",
+      "doi_link": "https://doi.org/10.1186/1471-2105-9-454",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18950525",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22In%20silico%20analysis%20of%20methyltransferase%20domains%20involved%20in%20biosynthesis%20of%20secondary%20metabolites%22",
+      "citations": {
+        "crossref": 75
+      },
+      "abstract": "BACKGROUND: Secondary metabolites biosynthesized by polyketide synthase (PKS) and nonribosomal peptide synthetase (NRPS) family of enzymes constitute several classes of therapeutically important natural products like erythromycin, rapamycin, cyclosporine etc. In view of their relevance for natural product based drug discovery, identification of novel secondary metabolite natural products by genome mining has been an area of active research. A number of different tailoring enzymes catalyze a variety of chemical modifications to the polyketide or nonribosomal peptide backbone of these secondary metabolites to enhance their structural diversity. Therefore, development of powerful bioinformatics methods for identification of these tailoring enzymes and assignment of their substrate specificity is crucial for deciphering novel secondary metabolites by genome mining. RESULTS: In this work, we have carried out a comprehensive bioinformatics analysis of methyltransferase (MT) domains present in multi functional type I PKS and NRPS proteins encoded by PKS/NRPS gene clusters having known secondary metabolite products. Based on the results of this analysis, we have developed a novel knowledge based computational approach for detecting MT domains present in PKS and NRPS megasynthases, delineating their correct boundaries and classifying them as N-MT, C-MT and O-MT using profile HMMs. Analysis of proteins in nr database of NCBI using these class specific profiles has revealed several interesting examples, namely, C-MT domains in NRPS modules, N-MT domains with significant homology to C-MT proteins, and presence of NRPS/PKS MTs in association with other catalytic domains. Our analysis of the chemical structures of the secondary metabolites and their site of methylation suggested that a possible evolutionary basis for the presence of a novel class of N-MT domains with significant homology to C-MT proteins could be the close resemblance of the chemical structures of the acceptor substrates, as in the case of pyochelin and yersiniabactin. These two classes of MTs recognize similar acceptor substrates, but transfer methyl groups to N and C positions on these substrates. CONCLUSION: We have developed a novel knowledge based computational approach for identifying MT domains present in type I PKS and NRPS multifunctional enzymes and predicting their site of methylation. Analysis of nr database using this approach has revealed presence of several novel MT domains. Our analysis has also given interesting insight into the evolutionary basis of the novel substrate specificities of these MT proteins.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper52",
+      "publication_id": "18849415",
+      "title": "The role of metal ions in substrate recognition and stability of concanavalin A: a molecular dynamics study.",
+      "authors": [
+        "Sandeep Kaushik",
+        "Debasisa Mohanty",
+        "Avadhesha Surolia"
+      ],
+      "year": "2009",
+      "journal": "Biophysical journal",
+      "doi": "10.1529/biophysj.108.134601",
+      "doi_link": "https://doi.org/10.1529/biophysj.108.134601",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18849415",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20role%20of%20metal%20ions%20in%20substrate%20recognition%20and%20stability%20of%20concanavalin%20A%3A%20a%20molecular%20dynamics%20study%22",
+      "citations": {
+        "crossref": 42
+      },
+      "abstract": "The binding of carbohydrate substrates to concanavalin A (Canavalia ensiformis agglutinin (ConA)) is essential for its interaction with various glycoproteins. Even though metal ions are known to control the sugar binding ability of legume lectins, the interplay between sugar and metal ion binding to ConA has not been elucidated in a detailed manner at the atomic level. We have carried out long, explicit solvent molecular dynamics simulations for tetrameric, dimeric, and monomeric forms of ConA in both the presence and absence of trimannoside and metal ions. Detailed analyses of these trajectories for various oligomeric forms under different environmental conditions have revealed dynamic conformational changes associated with the demetalization of ConA. We found that demetalization of ConA leads to large conformational changes in the ion binding loop, with some of the loop residues moving as far as 17 A with respect to their positions in the native trimannoside and metal ion-bound crystal structure. However, the ?-sheet core of the protein remains relatively unperturbed. In addition, the high mobility of the ion binding loop results in drifting of the substrates in the absence of bound metal ions. These simulations provide a theoretical rationale for previous experimental observations regarding the abolition of the sugar binding ability upon demetalization. We also found that the amino acid stretches of ConA, having high B-factor values in the crystal structure, show relatively greater mobility in the simulations. The overall agreement of the results of our simulations with various experimental studies suggests that the force field parameters and length of simulations used in our study are adequate to mimic the dynamic structural changes in the ConA protein.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper53",
+      "publication_id": "18613748",
+      "title": "Novel intermolecular iterative mechanism for biosynthesis of mycoketide catalyzed by a bimodular polyketide synthase.",
+      "authors": [
+        "Tarun Chopra",
+        "Srijita Banerjee",
+        "Sarika Gupta",
+        "Gitanjali Yadav",
+        "Swadha Anand",
+        "Avadhesha Surolia",
+        "Rajendra P Roy",
+        "Debasisa Mohanty",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2008",
+      "journal": "PLoS biology",
+      "doi": "10.1371/journal.pbio.0060163",
+      "doi_link": "https://doi.org/10.1371/journal.pbio.0060163",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18613748",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Novel%20intermolecular%20iterative%20mechanism%20for%20biosynthesis%20of%20mycoketide%20catalyzed%20by%20a%20bimodular%20polyketide%20synthase%22",
+      "citations": {
+        "crossref": 31
+      },
+      "abstract": "In recent years, remarkable versatility of polyketide synthases (PKSs) has been recognized; both in terms of their structural and functional organization as well as their ability to produce compounds other than typical secondary metabolites. Multifunctional Type I PKSs catalyze the biosynthesis of polyketide products by either using the same active sites repetitively (iterative) or by using these catalytic domains only once (modular) during the entire biosynthetic process. The largest open reading frame in Mycobacterium tuberculosis, pks12, was recently proposed to be involved in the biosynthesis of mannosyl-beta-1-phosphomycoketide (MPM). The PKS12 protein contains two complete sets of modules and has been suggested to synthesize mycoketide by five alternating condensations of methylmalonyl and malonyl units by using an iterative mode of catalysis. The bimodular iterative catalysis would require transfer of intermediate chains from acyl carrier protein domain of module 2 to ketosynthase domain of module 1. Such bimodular iterations during PKS biosynthesis have not been characterized and appear unlikely based on recent understanding of the three-dimensional organization of these proteins. Moreover, all known examples of iterative PKSs so far characterized involve unimodular iterations. Based on cell-free reconstitution of PKS12 enzymatic machinery, in this study, we provide the first evidence for a novel \"modularly iterative\" mechanism of biosynthesis. By combination of biochemical, computational, mutagenic, analytical ultracentrifugation and atomic force microscopy studies, we propose that PKS12 protein is organized as a large supramolecular assembly mediated through specific interactions between the C- and N-terminus linkers. PKS12 protein thus forms a modular assembly to perform repetitive condensations analogous to iterative proteins. This novel intermolecular iterative biosynthetic mechanism provides new perspective to our understanding of polyketide biosynthetic machinery and also suggests new ways to engineer polyketide metabolites. The characterization of novel molecular mechanisms involved in biosynthesis of mycobacterial virulent lipids has opened new avenues for drug discovery.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper54",
+      "publication_id": "18252726",
+      "title": "Dissecting the functional role of polyketide synthases in Dictyostelium discoideum: biosynthesis of the differentiation regulating factor 4-methyl-5-pentylbenzene-1,3-diol.",
+      "authors": [
+        "Ratna Ghosh",
+        "Arush Chhabra",
+        "Pallavi A Phatale",
+        "Subodh K Samrat",
+        "Jyoti Sharma",
+        "Anuradha Gosain",
+        "Debasisa Mohanty",
+        "Shweta Saran",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2008",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M709588200",
+      "doi_link": "https://doi.org/10.1074/jbc.M709588200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18252726",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Dissecting%20the%20functional%20role%20of%20polyketide%20synthases%20in%20Dictyostelium%20discoideum%3A%20biosynthesis%20of%20the%20differentiation%20regulating%20factor%204-methyl-5-pentylbenzene-1%2C3-diol%22",
+      "citations": {
+        "crossref": 37
+      },
+      "abstract": "Dictyostelium discoideum exhibits the largest repository of polyketide synthase (PKS) proteins of all known genomes. However, the functional relevance of these proteins in the biology of this organism remains largely obscure. On the basis of computational, biochemical, and gene expression studies, we propose that the multifunctional Dictyostelium PKS (DiPKS) protein DiPKS1 could be involved in the biosynthesis of the differentiation regulating factor 4-methyl-5-pentylbenzene-1,3-diol (MPBD). Our cell-free reconstitution studies of a novel acyl carrier protein Type III PKS didomain from DiPKS1 revealed a crucial role of protein-protein interactions in determining the final biosynthetic product. Whereas the Type III PKS domain by itself primarily produces acyl pyrones, the presence of the interacting acyl carrier protein domain modulates the catalytic activity to produce the alkyl resorcinol scaffold of MPBD. Furthermore, we have characterized an O-methyltransferase (OMT12) from Dictyostelium with the capability to modify this resorcinol ring to synthesize a variant of MPBD. We propose that such a modification in vivo could in fact provide subtle variations in biological function and specificity. In addition, we have performed systematic computational analysis of 45 multidomain PKSs, which revealed several unique features in DiPKS proteins. Our studies provide a new perspective in understanding mechanisms by which metabolic diversity could be generated by combining existing functional scaffolds.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper55",
+      "publication_id": "17935970",
+      "title": "Versatility of polyketide synthases in generating metabolic diversity.",
+      "authors": [
+        "Rajesh S Gokhale",
+        "Rajan Sankaranarayanan",
+        "Debasisa Mohanty"
+      ],
+      "year": "2007",
+      "journal": "Current opinion in structural biology",
+      "doi": "10.1016/j.sbi.2007.08.021",
+      "doi_link": "https://doi.org/10.1016/j.sbi.2007.08.021",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17935970",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Versatility%20of%20polyketide%20synthases%20in%20generating%20metabolic%20diversity%22",
+      "citations": {
+        "crossref": 62
+      },
+      "abstract": "Polyketide synthases (PKSs) form a large family of multifunctional proteins involved in the biosynthesis of diverse classes of natural products. Architecturally at least three different types of PKSs have been discovered in the microbial world and recent years have revealed tremendous versatility of PKSs, both in terms of their structural and functional organization and in their ability to produce compounds other than typical secondary metabolites. Mycobacterium tuberculosis exploits polyketide biosynthetic enzymes to synthesize complex lipids, many of which are essential for its survival. The functional significance of the large repertoire of PKSs in Dictyostelium discoideum, perhaps in producing developmental regulating factors, is emerging. Recently determined structures of fatty acid synthases (FASs) and PKSs now provide an opportunity to delineate the mechanistic and structural basis of polyketide biosynthetic machinery.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper56",
+      "publication_id": "17478506",
+      "title": "PAR-3D: a server to predict protein active site residues.",
+      "authors": [
+        "Kshama Goyal",
+        "Debasisa Mohanty",
+        "Shekhar C Mande"
+      ],
+      "year": "2007",
+      "journal": "Nucleic acids research",
+      "doi": "10.1093/nar/gkm252",
+      "doi_link": "https://doi.org/10.1093/nar/gkm252",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17478506",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22PAR-3D%3A%20a%20server%20to%20predict%20protein%20active%20site%20residues%22",
+      "citations": {
+        "crossref": 30
+      },
+      "abstract": "PAR-3D (http://sunserver.cdfd.org.in:8080/protease/PAR_3D/index.html) is a web-based tool that exploits the fact that relative juxtaposition of active site residues is a conserved feature in functionally related protein families. The server uses previously calculated and stored values of geometrical parameters of a set of known proteins (training set) for prediction of active site residues in a query protein structure. PAR-3D stores motifs for different classes of proteases, the ten glycolytic pathway enzymes and metal-binding sites. The server accepts the structures in the pdb format. The first step during the prediction is the extraction of probable active site residues from the query structure. Spatial arrangement of the probable active site residues is then determined in terms of geometrical parameters. These are compared with stored geometries of the different motifs. Its speed and efficiency make it a beneficial tool for structural genomics projects, especially when the biochemical function of the protein has not been characterized.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper57",
+      "publication_id": "17478500",
+      "title": "MODPROPEP: a program for knowledge-based modeling of protein-peptide complexes.",
+      "authors": [
+        "Narendra Kumar",
+        "Debasisa Mohanty"
+      ],
+      "year": "2007",
+      "journal": "Nucleic acids research",
+      "doi": "10.1093/nar/gkm266",
+      "doi_link": "https://doi.org/10.1093/nar/gkm266",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17478500",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22MODPROPEP%3A%20a%20program%20for%20knowledge-based%20modeling%20of%20protein-peptide%20complexes%22",
+      "citations": {
+        "crossref": 32
+      },
+      "abstract": "MODPROPEP is a web server for knowledge-based modeling of protein-peptide complexes, specifically peptides in complex with major histocompatibility complex (MHC) proteins and kinases. The available crystal structures of protein-peptide complexes in PDB are used as templates for modeling peptides of desired sequence in the substrate-binding pocket of MHCs or protein kinases. The substrate peptides are modeled using the same backbone conformation as in the template and the side-chain conformations are obtained by the program SCWRL. MODPROPEP provides a number of user-friendly interfaces for visualizing the structure of the modeled protein-peptide complexes and analyzing the contacts made by the modeled peptide ligand in the substrate-binding pocket of the MHC or protein kinase. Analysis of these specific inter-molecular contacts is crucial for understanding structural basis of the substrate specificity of these two protein families. This software also provides appropriate interfaces for identifying, putative MHC-binding peptides in the sequence of an antigen or phosphorylation sites on the substrate protein of a kinase, by scoring these inter-molecular contacts using residue-based statistical pair potentials. MODPROPEP would complement various available sequence-based programs (SYFPEITHI, SCANSITE, etc.) for predicting substrates of MHCs and protein kinases. The program is available at http://www.nii.res.in/modpropep.html.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper58",
+      "publication_id": "17389997",
+      "title": "Versatile polyketide enzymatic machinery for the biosynthesis of complex mycobacterial lipids.",
+      "authors": [
+        "Rajesh S Gokhale",
+        "Priti Saxena",
+        "Tarun Chopra",
+        "Debasisa Mohanty"
+      ],
+      "year": "2007",
+      "journal": "Natural product reports",
+      "doi": "10.1039/b616817p",
+      "doi_link": "https://doi.org/10.1039/b616817p",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17389997",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Versatile%20polyketide%20enzymatic%20machinery%20for%20the%20biosynthesis%20of%20complex%20mycobacterial%20lipids%22",
+      "citations": {
+        "crossref": 91
+      },
+      "abstract": "The cell envelope of Mycobacterium tuberculosis (Mtb) is a treasure house of a variety of biologically active molecules with fascinating architectures. The decoding of the genetic blueprint of Mtb in recent years has provided the impetus for dissecting the metabolic pathways involved in the biosynthesis of lipidic metabolites. The focus of the Highlight is to emphasize the functional role of polyketide synthase (PKS) proteins in the biosynthesis of complex mycobacterial lipids. The catalytic as well as mechanistic versatility of PKS. in generating metabolic diversity and the significance of recently discovered fatty acyl-AMP ligases in establishing \"biochemical crosstalk\" between fatty acid synthases (FASs) and PKSs is described. The phenotypic heterogeneity and remodeling of the mycobacterial cell wall in its aetiopathogenesis is discussed.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper59",
+      "publication_id": "16461464",
+      "title": "A genetic locus required for iron acquisition in Mycobacterium tuberculosis.",
+      "authors": [
+        "R Krithika",
+        "Uttara Marathe",
+        "Priti Saxena",
+        "Mohd Zeeshan Ansari",
+        "Debasisa Mohanty",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2006",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.0507924103",
+      "doi_link": "https://doi.org/10.1073/pnas.0507924103",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16461464",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20genetic%20locus%20required%20for%20iron%20acquisition%20in%20Mycobacterium%20tuberculosis%22",
+      "citations": {
+        "crossref": 114
+      },
+      "abstract": "Mycobactins are a family of membrane-associated siderophores required for Mycobacterium tuberculosis to adapt to its intracellular habitat. These lipophilic siderophores have been recently shown to directly acquire intracellular iron through lipid trafficking. Despite tremendous progress in understanding the assembly-line enzymology of the siderophore biosynthesis, the genes as well as the mechanistic and biochemical principles involved in producing membrane-associated siderophores have not been investigated. Here, we report a biosynthetic locus that incorporates variety of aliphatic chains on the mycobactin skeleton. Cell-free reconstitution studies demonstrate that these acyl chains are directly transferred from a carrier protein on to the epsilon-amino group of lysine residue by an unidentified Rv1347c gene product. The unsaturation in the lipidic chain is produced by a novel acyl-acyl carrier protein dehydrogenase, which, in contrast to the conventional acyl-CoA dehydrogenases, is involved in the biosynthetic pathway. MbtG protein then performs the final N6-hydroxylation step. Genome-wide analysis revealed homologues of N-acyl transferase and MbtG in other pathogenic bacteria. Because iron plays a key role in the development of infectious diseases, the biosynthetic pathway described here represents an attractive target for developing new antibacterial agents.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper60",
+      "publication_id": "15984864",
+      "title": "Promiscuous fatty acyl CoA ligases produce acyl-CoA and acyl-SNAC precursors for polyketide biosynthesis.",
+      "authors": [
+        "Pooja Arora",
+        "Archana Vats",
+        "Priti Saxena",
+        "Debasisa Mohanty",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2005",
+      "journal": "Journal of the American Chemical Society",
+      "doi": "10.1021/ja052991s",
+      "doi_link": "https://doi.org/10.1021/ja052991s",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15984864",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Promiscuous%20fatty%20acyl%20CoA%20ligases%20produce%20acyl-CoA%20and%20acyl-SNAC%20precursors%20for%20polyketide%20biosynthesis%22",
+      "citations": {
+        "crossref": 37
+      },
+      "abstract": "The study of bioactive natural products has undergone rapid advancement with the cloning and sequencing of large number of gene clusters and the concurrent progress to manipulate complex biosynthetic systems in heterologous hosts. The genetic reconstitution necessitates that the heterologous hosts possess substrate pools that could be coordinately supplied for biosynthesis. Polyketide synthases (PKS) utilize acyl-coenzyme A (CoA) precursors and synthesize polyketides by repetitive decarboxylative condensations. Here we show that acyl-CoA ligases, which belong to a large family of acyl-activating enzymes, possess potential to produce varied starter CoA precursors that could be utilized in polyketide biosynthesis. Incidentally, such protein domains have been recognized in several PKS and nonribosomal peptide synthetase gene clusters. Our studies with mycobacterial fatty acyl-CoA ligases (FACLs) show remarkable tolerance to activate a variety of fatty acids that contain modifications at alpha, beta, omega, and omega-nu positions. This substrate flexibility extends further such that these proteins also efficiently utilize N-acetyl cysteamine, the shorter acceptor terminal portion of CoASH, to produce acyl-SNACs. We show that the in situ generated acyl-CoAs and acyl-SNACs could be channeled to types I and -III PKS systems to produce new metabolites. Together, the promiscuous activity of FACL and PKSs provides new opportunities to expand the repertoire of natural products.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper61",
+      "publication_id": "15980457",
+      "title": "SEARCHGTr: a program for analysis of glycosyltransferases involved in glycosylation of secondary metabolites.",
+      "authors": [
+        "Pankaj Kamra",
+        "Rajesh S Gokhale",
+        "Debasisa Mohanty"
+      ],
+      "year": "2005",
+      "journal": "Nucleic acids research",
+      "doi": "10.1093/nar/gki449",
+      "doi_link": "https://doi.org/10.1093/nar/gki449",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15980457",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22SEARCHGTr%3A%20a%20program%20for%20analysis%20of%20glycosyltransferases%20involved%20in%20glycosylation%20of%20secondary%20metabolites%22",
+      "citations": {
+        "crossref": 35
+      },
+      "abstract": "SEARCHGTr is a web-based software for the analysis of glycosyltransferases (GTrs) involved in the biosynthesis of a variety of pharmaceutically important compounds like adriamycin, erythromycin, vancomycin etc. This software has been developed based on a comprehensive analysis of sequence/structural features of 102 GTrs of known specificity from 52 natural product biosynthetic gene clusters. SEARCHGTr is a powerful tool that correlates sequences of GTrs to the chemical structures of their corresponding substrates. This software indicates the donor/acceptor specificity and also identifies putative substrate binding residues. In addition, it provides interfaces to other public databases like GENBANK, SWISS-PROT, CAZY, PDB, PDBSum and PUBMED for extracting various information on GTrs homologous to the query sequence. SEARCHGTr would provide new dimension to our previously developed bioinformatics tool NRPS-PKS. Together, these tools facilitate comprehensive computational analysis of proteins involved in biosynthesis of aglycone core and its downstream glycosylations. Apart from presenting opportunities for rational design of novel natural products, these tools would assist in the identification of biosynthetic products of secondary metabolite gene clusters found in newly sequenced genomes. SEARCHGTr can be accessed at http://www.nii.res.in/searchgtr.html.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper62",
+      "publication_id": "15749014",
+      "title": "Dissecting the mechanism and assembly of a complex virulence mycobacterial lipid.",
+      "authors": [
+        "Omita A Trivedi",
+        "Pooja Arora",
+        "Archana Vats",
+        "Mohd Zeeshan Ansari",
+        "Rashmi Tickoo",
+        "Vijayalakshmi Sridharan",
+        "Debasisa Mohanty",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2005",
+      "journal": "Molecular cell",
+      "doi": "10.1016/j.molcel.2005.02.009",
+      "doi_link": "https://doi.org/10.1016/j.molcel.2005.02.009",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15749014",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Dissecting%20the%20mechanism%20and%20assembly%20of%20a%20complex%20virulence%20mycobacterial%20lipid%22",
+      "citations": {
+        "crossref": 137
+      },
+      "abstract": "Mycobacterium tuberculosis cell envelope is a treasure house of biologically active lipids of fascinating molecular architecture. Although genetic studies have alluded to an array of genes in biosynthesis of complex lipids, their mechanistic, structural, and biochemical principles have not been investigated. Here, we have dissected the molecular logic underlying the biosynthesis of a virulence lipid phthiocerol dimycocerosate (PDIM). Cell-free reconstitution studies demonstrate that polyketide synthases, which are usually involved in the biosynthesis of secondary metabolites, are responsible for generating complex lipids in mycobacteria. We show that PapA5 protein directly transfers the protein bound mycocerosic acid analogs on phthiocerol to catalyze the final esterification step. Based on precise identification of biological functions of proteins from Pps cluster, we have rationally produced a nonmethylated variant of mycocerosate esters. Apart from elucidating mechanisms that generate chemical heterogeneity with PDIMs, this study also presents an attractive approach to explore host-pathogen interactions by altering mycobacterial surface coat.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper63",
+      "publication_id": "15215420",
+      "title": "NRPS-PKS: a knowledge-based resource for analysis of NRPS/PKS megasynthases.",
+      "authors": [
+        "Mohd Zeeshan Ansari",
+        "Gitanjali Yadav",
+        "Rajesh S Gokhale",
+        "Debasisa Mohanty"
+      ],
+      "year": "2004",
+      "journal": "Nucleic acids research",
+      "doi": "10.1093/nar/gkh359",
+      "doi_link": "https://doi.org/10.1093/nar/gkh359",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15215420",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22NRPS-PKS%3A%20a%20knowledge-based%20resource%20for%20analysis%20of%20NRPS/PKS%20megasynthases%22",
+      "citations": {
+        "semantic_scholar": 294
+      },
+      "abstract": "NRPS-PKS is web-based software for analysing large multi-enzymatic, multi-domain megasynthases that are involved in the biosynthesis of pharmaceutically important natural products such as cyclosporin, rifamycin and erythromycin. NRPS-PKS has been developed based on a comprehensive analysis of the sequence and structural features of several experimentally characterized biosynthetic gene clusters. The results of these analyses have been organized as four integrated searchable databases for elucidating domain organization and substrate specificity of nonribosomal peptide synthetases and three types of polyketide synthases. These databases work as the backend of NRPS-PKS and provide the knowledge base for predicting domain organization and substrate specificity of uncharacterized NRPS/PKS clusters. Benchmarking on a large set of biosynthetic gene clusters has demonstrated that, apart from correct identification of NRPS and PKS domains, NRPS-PKS can also predict specificities of adenylation and acyltransferase domains with reasonably high accuracy. These features of NRPS-PKS make it a valuable resource for identification of natural products biosynthesized by NRPS/PKS gene clusters found in newly sequenced genomes. The training and test sets of gene clusters included in NRPS-PKS correlate information on 307 open reading frames, 2223 functional protein domains, 68 starter/extender precursors and their specific recognition motifs, and also the chemical structure of 101 natural products from four different families. NRPS-PKS is a unique resource which provides a user-friendly interface for correlating chemical structures of natural products with the domains and modules in the corresponding nonribosomal peptide synthetases or polyketide synthases. It also provides guidelines for domain/module swapping as well as site-directed mutagenesis experiments to engineer biosynthesis of novel natural products. NRPS-PKS can be accessed at http://www.nii.res.in/nrps-pks.html.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper64",
+      "publication_id": "15042094",
+      "title": "Enzymic activation and transfer of fatty acids as acyl-adenylates in mycobacteria.",
+      "authors": [
+        "Omita A Trivedi",
+        "Pooja Arora",
+        "Vijayalakshmi Sridharan",
+        "Rashmi Tickoo",
+        "Debasisa Mohanty",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2004",
+      "journal": "Nature",
+      "doi": "10.1038/nature02384",
+      "doi_link": "https://doi.org/10.1038/nature02384",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15042094",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Enzymic%20activation%20and%20transfer%20of%20fatty%20acids%20as%20acyl-adenylates%20in%20mycobacteria%22",
+      "citations": {
+        "crossref": 249
+      },
+      "abstract": "The metabolic repertoire in nature is augmented by generating hybrid metabolites from a limited set of gene products. In mycobacteria, several unique complex lipids are produced by the combined action of fatty acid synthases and polyketide synthases (PKSs), although it is not clear how the covalently sequestered biosynthetic intermediates are transferred from one enzymatic complex to another. Here we show that some of the 36 annotated fadD genes, located adjacent to the PKS genes in the Mycobacterium tuberculosis genome, constitute a new class of long-chain fatty acyl-AMP ligases (FAALs). These proteins activate long-chain fatty acids as acyl-adenylates, which are then transferred to the multifunctional PKSs for further chain extension. This mode of activation and transfer of fatty acids is contrary to the previously described universal mechanism involving the formation of acyl-coenzyme A thioesters. Similar mechanisms may operate in the biosynthesis of other lipid-containing metabolites and could have implications in engineering novel hybrid products.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper65",
+      "publication_id": "12941968",
+      "title": "A new family of type III polyketide synthases in Mycobacterium tuberculosis.",
+      "authors": [
+        "Priti Saxena",
+        "Gitanjali Yadav",
+        "Debasisa Mohanty",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2003",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M306714200",
+      "doi_link": "https://doi.org/10.1074/jbc.M306714200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12941968",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20new%20family%20of%20type%20III%20polyketide%20synthases%20in%20Mycobacterium%20tuberculosis%22",
+      "citations": {
+        "semantic_scholar": 111
+      },
+      "abstract": "The Mycobacterium tuberculosis genome has revealed a remarkable array of polyketide synthases (PKSs); however, no polyketide product has been isolated thus far. Most of the PKS genes have been implicated in the biosynthesis of complex lipids. We report here the characterization of two novel type III PKSs from M. tuberculosis that are involved in the biosynthesis of long-chain alpha-pyrones. Measurement of steady-state kinetic parameters demonstrated that the catalytic efficiency of PKS18 protein was severalfold higher for long-chain acyl-coenzyme A substrates as compared with the small-chain precursors. The specificity of PKS18 and PKS11 proteins toward long-chain aliphatic acyl-coenzyme A (C12 to C20) substrates is unprecedented in the chalcone synthase (CHS) family of condensing enzymes. Based on comparative modeling studies, we propose that these proteins might have evolved by fusing the catalytic machinery of CHS and beta-ketoacyl synthases, the two evolutionarily related members with conserved thiolase fold. The mechanistic and structural importance of several active site residues, as predicted by our structural model, was investigated by performing site-directed mutagenesis. The functional identification of diverse catalytic activity in mycobacterial type III PKSs provide a fascinating example of metabolite divergence in CHS-like proteins.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper66",
+      "publication_id": "12824387",
+      "title": "SEARCHPKS: A program for detection and analysis of polyketide synthase domains.",
+      "authors": [
+        "Gitanjali Yadav",
+        "Rajesh S Gokhale",
+        "Debasisa Mohanty"
+      ],
+      "year": "2003",
+      "journal": "Nucleic acids research",
+      "doi": "10.1093/nar/gkg607",
+      "doi_link": "https://doi.org/10.1093/nar/gkg607",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12824387",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22SEARCHPKS%3A%20A%20program%20for%20detection%20and%20analysis%20of%20polyketide%20synthase%20domains%22",
+      "citations": {
+        "crossref": 99
+      },
+      "abstract": "SEARCHPKS is a software for detection and analysis of polyketide synthase (PKS) domains in a polypeptide sequence. Modular polyketide synthases are unusually large multi-enzymatic multi-domain megasynthases, which are involved in the biosynthesis of pharmaceutically important natural products using an assembly-line mechanism. This program facilitates easy identification of various PKS domains and modules from a given polypeptide sequence. In addition, it also predicts the specificity of the potential acyltransferase domains for various starter and extender precursor units. SEARCHPKS is a user-friendly tool for correlating polyketide chemical structures with the organization of domains and modules in the corresponding modular polyketide synthases. This program also allows the user to extensively analyze and assess the sequence homology of various polyketide synthase domains, thus providing guidelines for carrying out domain and module swapping experiments. SEARCHPKS can also aid in identification of polyketide products made by PKS clusters found in newly sequenced genomes. The computational approach used in SEARCHPKS is based on a comprehensive analysis of various characterized clusters of modular polyketide synthases compiled in PKSDB, a database of modular polyketide synthases. SEARCHPKS can be accessed at http://www.nii.res.in/searchpks.html.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper67",
+      "publication_id": "12691745",
+      "title": "Computational approach for prediction of domain organization and substrate specificity of modular polyketide synthases.",
+      "authors": [
+        "Gitanjali Yadav",
+        "Rajesh S Gokhale",
+        "Debasisa Mohanty"
+      ],
+      "year": "2003",
+      "journal": "Journal of molecular biology",
+      "doi": "10.1016/s0022-2836(03)00232-8",
+      "doi_link": "https://doi.org/10.1016/s0022-2836(03)00232-8",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12691745",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Computational%20approach%20for%20prediction%20of%20domain%20organization%20and%20substrate%20specificity%20of%20modular%20polyketide%20synthases%22",
+      "citations": {
+        "semantic_scholar": 211
+      },
+      "abstract": "Modular polyketide synthases (PKSs) are large multi-enzymatic, multi-domain megasynthases, which are involved in the biosynthesis of a class of pharmaceutically important natural products, namely polyketides. These enzymes harbor a set of repetitive active sites termed modules and the domains present in each module dictate the chemical moiety that would add to a growing polyketide chain. This modular logic of biosynthesis has been exploited with reasonable success to produce several novel compounds by genetic manipulation. However, for harnessing their vast potential of combinatorial biosynthesis, it is essential to develop knowledge based in silico approaches for correlating the sequence and domain organization of PKSs to their polyketide products. In this work, we have carried out extensive sequence analysis of experimentally characterized PKS clusters to develop an automated computational protocol for unambiguous identification of various PKS domains in a polypeptide sequence. A structure based approach has been used to identify the putative active site residues of acyltransferase (AT) domains, which control the specificities for various starter and extender units during polyketide biosynthesis. On the basis of the analysis of the active site residues and molecular modelling of substrates in the active site of representative AT domains, we have identified a crucial residue that is likely to play a major role in discriminating between malonate and methylmalonate during selection of extender groups by this domain. Structural modelling has also explained the experimentally observed chiral preference of AT domain in substrate selection. This computational protocol has been used to predict the domain organization and substrate specificity for PKS clusters from various microbial genomes. The results of our analysis as well as the computational tools for prediction of domain organization and substrate specificity have been organized in the form of a searchable computerized database (PKSDB). PKSDB would serve as a valuable tool for identification of polyketide products biosynthesized by uncharacterized PKS clusters. This database can also provide guidelines for rational design of experiments to engineer novel polyketides.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 67,
+    "publications_by_year": {
+      "2025": 5,
+      "2024": 1,
+      "2023": 2,
+      "2022": 4,
+      "2021": 3,
+      "2019": 1,
+      "2018": 2,
+      "2017": 3,
+      "2016": 3,
+      "2015": 3,
+      "2014": 4,
+      "2013": 2,
+      "2012": 6,
+      "2011": 3,
+      "2010": 5,
+      "2009": 4,
+      "2008": 3,
+      "2007": 4,
+      "2006": 1,
+      "2005": 3,
+      "2004": 2,
+      "2003": 3
+    },
+    "top_journals": [
+      "Nucleic acids research",
+      "Briefings in bioinformatics",
+      "Bioinformatics (Oxford, England)",
+      "Biochemistry",
+      "Journal of biomolecular structure & dynamics"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 132,
+      "frequent_collaborators": [
+        "Debasisa Mohanty",
+        "Rajesh S Gokhale",
+        "Avadhesha Surolia",
+        "Gitanjali Yadav",
+        "Vivek T Natarajan",
+        "Neetu Sain",
+        "Narendra Kumar",
+        "Swadha Anand"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "15215420",
+        "title": "NRPS-PKS: a knowledge-based resource for analysis of NRPS/PKS megasynthases.",
+        "citations": 294,
+        "year": "2004"
+      },
+      {
+        "publication_id": "15042094",
+        "title": "Enzymic activation and transfer of fatty acids as acyl-adenylates in mycobacteria.",
+        "citations": 249,
+        "year": "2004"
+      },
+      {
+        "publication_id": "12691745",
+        "title": "Computational approach for prediction of domain organization and substrate specificity of modular polyketide synthases.",
+        "citations": 211,
+        "year": "2003"
+      }
+    ]
+  }
+}

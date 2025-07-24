@@ -1,0 +1,29 @@
+[
+  {
+    "content": "# Directors Page\n\nDr. Debasisa Mohanty(Director)E-mail:director[at]nii[dot]ac[dot]inPhone : 011-26717102 & 26717103\n\nDr. Debasisa Mohanty was appointed as Director of the institute on 23rd August 2022. He has been a faculty at NII since October 1998 and was holding the post of Staff Scientist VII prior to his appointment as Director. Dr. Mohanty obtained his M.Sc. degree in Physics from IIT, Kanpur in 1988 and joined the Ph.D. program in computational biophysics at Molecular Biophysics Unit (MBU), IISc, Bangalore. After completion of Ph.D. in 1994, Dr. Mohanty worked as a postdoctoral fellow at Hebrew University of Jerusalem, Israel and Scripps Research Institute, La Jolla, CA, USA during 1995 to 1998. Dr. Mohanty joined NII, New Delhi in October 1998 to lead a research group in Bioinformatics and Computational Biology.\n\nDr. Mohanty is elected fellow of National Academy of Sciences (India), Indian Academy of Science, Bangalore, Indian National Science Academy, New Delhi and member of Guha Research Conference (GRC). He is also recipient of National Bioscience Award, Rajib Goyal young scientist prize in life science and Samanta Chandrashekhar Award (Govt. of Odisha).\n\nDr. Mohanty has been member of taskforces of DST, SERB, MeiTY in the area of Biophysics and Bioinformatics. He is currently a member of the Application Development (Biological Sciences) group of National Supercomputing Mission (NSM), member of SCAG-INSACOG, member of executive committee of Indian Biological Data Center (IBDC) and chair of Technical Expert Committee of DBT on Theoretical & Computational Biology (Bioinformatics, AI & Big Data)./nHis research at NII is focused on development of structural bioinformatics and atomistic simulation methods for addressing questions in the area of host-pathogen interactions and disease biology. He has been working on use of data driven in silico approaches for deciphering the evolutionarily conserved features which govern the structure, substrate specificity and interaction networks of biomolecular systems. These conserved principles are utilized for developing novel computational approaches for identifying novel biosynthetic pathways, protein-protein interaction networks, regulatory networks, disease associated mutations and new drug targets by genome analysis. The various computational methods developed using this data driven approach have been utilized for analysis/prediction of metabolic, signaling and regulatory networks associated with pathogenic organisms likeMycobacterium tuberculosisandPlasmodium falciparum, deciphering molecular basis of disease association of human microbiome and elucidating role of disease associated SNPs in human genome. Analysis of host-pathogen interactions, decoding structural basis of disease associated mutations, identification of novel drug targets and design of virtual screening strategies for them have been the major emphasis of various projects. While structural bioinformatics and advanced atomistic simulations have been the major methodologies used by Mohanty’s group, during the last few years machine learning (ML) approaches are being increasingly utilized when sufficient volume of well curated experimental data are available for training the ML classifiers. Applications of machine learning in identification of microbiome associated bioactive molecules and in silico screening of large compound libraries for inhibitor design has been a major theme of recent projects.\n\nMore details are available at 👉Debasisa Mohanty\n\n[Debasisa Mohanty](http://www.nii.res.in/en/faculty/dr-debasisa-mohanty)",
+    "metadata": {
+      "title": "Directors Page",
+      "source": "https://www.nii.res.in/en/directors-page",
+      "section": "NII Directors Page Section",
+      "description": "This Document is about the NII Directors Page",
+      "date_scraped": "2025-04-30"
+    }
+  },
+  {
+    "content": {
+    "name": "Dr. Debasisa Mohanty",
+    "email": "deb@nii.ac.in",
+    "qualifications": "M. Sc. Indian Institute of Technology, Kanpur Ph. D. Indian Institute of Science, Bangalore Postdoctoral Research Hebrew University, Jerusalem, Israel The Scripps Research Institute, La Jolla, USA",
+    "research_interest": "Research Interest:\nBioinformatics & Computational Biophysics; Prediction of structure and function of proteins;\nIn silico\nanalysis of genomes; Computer simulation of biomolecular systems",
+    "group_members": "Group Members:\nBhushan Dilip Dhamale, Sana Amir, Akshay Khanduja, Ankita Pal, Sapna Pal, Sureshkumar V(RCB-NII), Shweta Mahapatra, Vikas Kumar, Dr. Sanjeet Kumar Mahtha, Apratim Kumar Pandey, Sumeet Kumar Yadav.",
+    "awards": "Awards:\n• Fellow of Indian Academy of Science (Elected in 2012)\n• Fellow of Indian National Science Academy (Elected in 2013)\n• Fellow of The National Academy of Sciences, India, Allahabad (Elected in 2008)\n• National Bioscience Career Development Award (2009)\n• Rajib Goyal Young Scientist Prize in Life Sciences (2007)\n• Samanta Chandrashekhar Award (2005) by Orissa Bigyan Academy (DST, Govt. of Orissa)"
+    },
+    "metadata": {
+      "title": "Directors Page",
+      "source": "https://www.nii.res.in/en/directors-page",
+      "section": "NII Directors Page Section",
+      "description": "This Document is about the NII Directors Page",
+      "date_scraped": "2025-04-30"
+    }
+  }
+]

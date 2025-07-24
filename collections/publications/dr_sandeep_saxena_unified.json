@@ -1,0 +1,530 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Sandeep Saxena",
+    "email": "sandeep@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/former-faculty/dr-sandeep-saxena",
+    "research_domain": "Former",
+    "faculty_status": "former",
+    "search_date": "2025-07-01T14:34:28.520763",
+    "total_publications": 20,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Sandeep Saxena, former faculty in Former at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "40384765",
+      "title": "Serum pro-brain natriuretic peptide correlates with optical coherence tomography indices in diabetic retinopathy.",
+      "authors": [
+        "Shivani Chaturvedi",
+        "Sandeep Saxena",
+        "Apjit Kaur",
+        "Pramod Kumar",
+        "Shivani Pandey",
+        "Abbas Ali Mahdi",
+        "Levent Akduman"
+      ],
+      "year": "2025",
+      "journal": "Molecular vision",
+      "doi": null,
+      "doi_link": "",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40384765",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Serum%20pro-brain%20natriuretic%20peptide%20correlates%20with%20optical%20coherence%20tomography%20indices%20in%20diabetic%20retinopathy%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "PURPOSE: Serum pro-brain natriuretic peptide (BNP) is a 108-amino-acid prohormone that inhibits vascular endothelial growth factor (VEGF) secretion, protecting pericytes from cell death and decreasing retinal vascularization. The purpose of this study was to investigate the correlation of serum pro-BNP with optical coherence tomography (OCT) indices in diabetic retinopathy. METHODS: This cross-sectional study investigated 96 consecutive subjects aged between 40 and 65 years: controls n = 24, no diabetic retinopathy (NoDR) n = 24, non-proliferative diabetic retinopathy (NPDR) n = 24, and proliferative diabetic retinopathy (PDR) n = 24. Same-day analysis of blood samples for serum pro-BNP levels was performed and spectral-domain OCT (SD-OCT) was used to measure the following OCT indices: OCT angiography (OCTA) superficial vessel density (SVD), deep vessel density (DVD), and foveal avascular zone (FAZ); OCT retinal nerve fiber layer (RNFL); and OCT ganglion cell analysis (GCA). RESULTS: The mean serum pro-BNP levels for the control, NoDR, NPDR, and PDR groups were 14.07 ± 11.51, 27.35 ± 11.81, 280.44 ± 106.13, and 122.33 ± 43.66 pg/ml, respectively. The mean values of the various OCT parameters correlated with serum pro-BNP were OCTA SVD (r = - 0.360), OCTA DVD (r = 0.408), OCTA FAZ (r = 0.475), OCT RNFL (r = - 0.215) and OCT GCA (r = - 0.285; p<0.001). CONCLUSIONS: The serum pro-BNP levels were higher in the NPDR group than in the NoDR group and much lower in the PDR group than in the NPDR group, reflecting a lowering of the protective barrier. These results correlated with the changes in various OCT indices.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "40243083",
+      "title": "Advanced glycation end products are biomolecular biomarkers for proliferative diabetic retinopathy.",
+      "authors": [
+        "Nibha Mishra",
+        "Sandeep Saxena",
+        "Rajendra K Shukla",
+        "Anshul Tiwari"
+      ],
+      "year": "2025",
+      "journal": "Indian journal of ophthalmology",
+      "doi": "10.4103/IJO.IJO_2115_24",
+      "doi_link": "https://doi.org/10.4103/IJO.IJO_2115_24",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40243083",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Advanced%20glycation%20end%20products%20are%20biomolecular%20biomarkers%20for%20proliferative%20diabetic%20retinopathy%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "The present study examines the role of advanced glycation end products (AGEs) as biomolecular biomarkers for proliferative diabetic retinopathy (PDR). A cross-sectional study with a total of 80 consecutive cases of type 2 diabetes mellitus (DM) was divided into no retinopathy (NoDR) ( n = 20), non-proliferative diabetic retinopathy (NPDR) ( n = 20), PDR ( n = 20), and controls ( n = 20). AGEs were assessed by assay of N-carboxymethyl-lysine (Nε-CML). Nε- CML was evaluated using receiver operating characteristic curve (ROC) curve analysis, and the area under curve (AUC) was determined. The mean levels of Nε-CML were 31.3 ± 21.2 ng/mL, 73.9 ± 35.0 ng/mL, 91.2 ± 66.7 ng/mL, and 132.0 ± 84.0 ng/mL in control, NoDR, NPDR, and PDR, respectively. On analysis of variance (ANOVA), the Ne-CML level was significantly different between the study groups (control, NoDR, NPDR, and PDR) ( P < 0.001). Best-corrected visual acuity decreased with disease progression and increased levels of Ne-CML ( P < 0.001). On AUC analysis, the following values were obtained NoDR = 0.67, NPDR = 0.69, and PDR = 0.84, showing that AGEs are the most sensitive biomarkers for PDR in DR. AGEs serve as biomolecular biomarkers for PDR and can indicate disease conversion from NPDR to PDR. They are new-age tools of translational medicine.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "40132937",
+      "title": "Identification of a novel pathogenic variant in the LPL gene in lipaemia retinalis in an infant.",
+      "authors": [
+        "Shilpi Arya",
+        "Sandeep Saxena"
+      ],
+      "year": "2025",
+      "journal": "BMJ case reports",
+      "doi": "10.1136/bcr-2024-259965",
+      "doi_link": "https://doi.org/10.1136/bcr-2024-259965",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40132937",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Identification%20of%20a%20novel%20pathogenic%20variant%20in%20the%20LPL%20gene%20in%20lipaemia%20retinalis%20in%20an%20infant%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "An infant presented to the paediatric emergency department of our tertiary care centre, with failure to thrive and frequent vomiting for the past 2 days. Venous blood samples appeared pale pink. Bedside smartphone-assisted fundus examination revealed a bilateral salmon-coloured retina with creamy vasculature, suggesting lipaemia retinalis. Serum triglyceride levels of 12 100.7 mg/dL were observed. Exome sequencing confirmed the diagnosis. A novel homozygous missense variant p.Cys 291Tyr (c.872G>A) pathogenic variant in exon 6 of the lipoprotein lipase (LPL) gene was discovered. The infant was advised to undergo dietary modification and to follow-up regularly. At 1 year follow-up, the child was thriving on a low-fat diet. However, fundus examination findings persisted.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "40123240",
+      "title": "Unravelling advanced glycation end products as emerging therapeutic targets in diabetic retinopathy management.",
+      "authors": [
+        "Sandeep Saxena",
+        "Nibha Mishra",
+        "Gemmy Cheung",
+        "Srinivas R Sadda"
+      ],
+      "year": "2025",
+      "journal": "European journal of ophthalmology",
+      "doi": "10.1177/11206721251328562",
+      "doi_link": "https://doi.org/10.1177/11206721251328562",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40123240",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Unravelling%20advanced%20glycation%20end%20products%20as%20emerging%20therapeutic%20targets%20in%20diabetic%20retinopathy%20management%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "Diabetes mellitus, characterized by chronic hyperglycemia, is a rapidly growing global health concern with an anticipated prevalence of 700 million by 2045. Diabetic retinopathy (DR), a major complication, is the leading cause of vision loss in working-age adults worldwide. Neurovascular units (NVUs), comprising neurons, glial cells, and vessels, maintain retinal homeostasis, and their impairment is considered a primary pathological change in early DR. While glycemic control is conventionally assessed by hemoglobin A1c (HbA1c), studies suggest additional factors influencing DR risk beyond equivalent HbA1c levels. Chronic hyperglycemia triggers neurovascular impairment through advanced glycation end-products (AGEs), inflammation, and oxidative stress. AGEs, accumulating irreversibly, play a crucial role in DR and other diabetic complications. Therapeutic interventions targeting AGEs, both endogenous and exogenous, are gaining traction, offering potential avenues to preserve NVU function. Existing drugs such as pioglitazone, angiotensin II receptor blockers, ACE inhibitors, calcium channel blockers, and statins, along with natural compounds like benfotiamine and cinnamon bark extract, show promise as anti-AGE strategies. This multifaceted approach presents a paradigm shift in early diabetic retinopathy treatment, with ongoing research focusing on refining these strategies for improved management.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "40084285",
+      "title": "Serum pro-brain natriuretic peptide correlates with optical coherence tomography indices in diabetic retinopathy.",
+      "authors": [
+        "Shivani Chaturvedi",
+        "Sandeep Saxena",
+        "Apjit Kaur",
+        "Pramod Kumar",
+        "Shivani Pandey",
+        "Abbas Ali Mahdi",
+        "Levent Akduman"
+      ],
+      "year": "2025",
+      "journal": "Molecular vision",
+      "doi": null,
+      "doi_link": "",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40084285",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Serum%20pro-brain%20natriuretic%20peptide%20correlates%20with%20optical%20coherence%20tomography%20indices%20in%20diabetic%20retinopathy%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "PURPOSE: Serum pro-brain natriuretic peptide (BNP) is a 108-amino-acid prohormone that inhibits vascular endothelial growth factor (VEGF) secretion, protecting pericytes from cell death and decreasing retinal vascularization. The purpose of this study was to investigate the correlation of serum pro-BNP with optical coherence tomography (OCT) indices in diabetic retinopathy. METHODS: This cross-sectional study investigated 96 consecutive subjects aged between 40 and 65 years: controls n = 24, no diabetic retinopathy (NoDR) n = 24, non-proliferative diabetic retinopathy (NPDR) n = 24, and proliferative diabetic retinopathy (PDR) n = 24. Same-day analysis of blood samples for serum pro-BNP levels was performed and spectral-domain OCT (SD-OCT) was used to measure the following OCT indices: OCT angiography (OCTA) superficial vessel density (SVD), deep vessel density (DVD), and foveal avascular zone (FAZ); OCT retinal nerve fiber layer (RNFL); and OCT ganglion cell analysis (GCA). RESULTS: The mean serum pro-BNP levels for the control, NoDR, NPDR, and PDR groups were 14.07 ± 11.51, 27.35 ± 11.81, 280.44 ± 106.13, and 122.33 ± 43.66 pg/ml, respectively. The mean values of the various OCT parameters correlated with serum pro-BNP were OCTA SVD (r = - 0.360), OCTA DVD (r = 0.408), OCTA FAZ (r = 0.475), OCT RNFL (r = - 0.215) and OCT GCA (r = - 0.285; p<0.001). CONCLUSIONS: The serum pro-BNP levels were higher in the NPDR group than in the NoDR group and much lower in the PDR group than in the NPDR group, reflecting a lowering of the protective barrier. These results correlated with the changes in various OCT indices.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "39846620",
+      "title": "The Ellipsoid Zone Is a Structural Biomarker for Visual Outcomes in Diabetic Macular Edema and Macular Hole Management.",
+      "authors": [
+        "Shivani Chaturvedi",
+        "Amisha Paul",
+        "Samya Singh",
+        "Levent Akduman",
+        "Sandeep Saxena"
+      ],
+      "year": "2025",
+      "journal": "Vision (Basel, Switzerland)",
+      "doi": "10.3390/vision9010004",
+      "doi_link": "https://doi.org/10.3390/vision9010004",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39846620",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20Ellipsoid%20Zone%20Is%20a%20Structural%20Biomarker%20for%20Visual%20Outcomes%20in%20Diabetic%20Macular%20Edema%20and%20Macular%20Hole%20Management%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "OBJECTIVES: The goal was to study the ellipsoid zone (EZ) as a structural biomarker for final visual outcomes after pharmacological intervention in center-involving diabetic macular edema (DME) and surgical intervention for full-thickness macular holes (FTMHs). METHODS: This was a tertiary care center-based retrospective study. After sample size calculations, data from 64 consecutive cases were collected, with subjects aged between 40 and 60 years. Thirty-two cases of DME with anti-vascular endothelial growth factor (VEGF) therapy and 32 cases of FTMHs with successful macular hole surgery (MHS) were studied. Spectral-domain optical coherence tomography (SD-OCT) data were collected. Measurements of EZ defects documented at the time of presentation and 12 weeks after intervention were analyzed using the caliper function of the machine. EZ restoration was graded, and a Pearson correlation analysis was performed. RESULTS: Mean logMAR VA decreased after intravitreal therapy (IVT) from 1.12 ± 0.22 pre-intervention to 0.81 ± 0.41 post-intervention and after MHS, from 1.05 + 0.25 to 0.62 + 0.11 (p < 0.001). EZ disruption reduced from 73.4% to 19.4% after IVT and from 67% to 19.3% after MHS. DME and MHS postoperative visual acuity and residual EZ defect were observed to have a statistically significant linear correlation (r = 0.794, p < 0.001 and r = 0.894, p < 0.001, respectively). The EZ was found to be an excellent structural biomarker for final BCVA (area under curve = 0.95 for DME and 1.00 for MHS). CONCLUSION: Notable EZ restoration results were obtained from pharmacological and surgical interventions. The EZ proves to be a critical structural biomarker for predicting visual outcomes in center-involving DME and MHS.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "39141486",
+      "title": "Retinal photoreceptor ellipsoid zone is a structural biomarker for visual outcome after successful macular hole surgery: A novel grading system-based study.",
+      "authors": [
+        "Samya Singh",
+        "Sandeep Saxena",
+        "Carsten H Meyer",
+        "Aman Chandra",
+        "Levent Akduman"
+      ],
+      "year": "2025",
+      "journal": "Indian journal of ophthalmology",
+      "doi": "10.4103/IJO.IJO_1031_24",
+      "doi_link": "https://doi.org/10.4103/IJO.IJO_1031_24",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39141486",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Retinal%20photoreceptor%20ellipsoid%20zone%20is%20a%20structural%20biomarker%20for%20visual%20outcome%20after%20successful%20macular%20hole%20surgery%3A%20A%20novel%20grading%20system-based%20study%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "PURPOSE: To develop a novel external limiting membrane (ELM) and ellipsoid zone (EZ) restoration-based grading system after successful macular hole surgery (MHS) and to evaluate EZ as a structural biomarker for the final visual outcome. METHODS: In a tertiary care center-based retrospective study, 34 consecutive cases of successful MHS for full-thickness macular holes (FTMHs) were included. Spectral domain optical coherence tomography (SD-OCT) cross-sectional analysis was performed on preoperative and postoperative data of weeks 1, 4, 12, and 24, respectively. Sequential measurements of FTMH size, ELM and EZ defect were performed using the caliper function of SD-OCT. MHS was uniquely graded as grade 0: persistence of ELM and EZ defect; grade 1: partial or complete restoration of ELM with shortening of EZ defect; and grade 2: complete restoration of ELM and EZ. Data were statistically analyzed on Statistical Package for the Social Sciences software-version 24. RESULTS: MHS was graded as grade 0 ( n = 8), grade 1 ( n = 15), and grade 2 ( n = 11). Best corrected visual activity (BCVA) was found to be 1.13 ± 0.19 in grade 0, 0.59 ± 0.09 in grade 1, and 0.26 ± 0.06 in grade 2. One-way analysis of variance showed improvement in final BCVA among the three grades ( P < 0.001) Postoperative visual acuity and residual EZ defect had a statistically significant linear correlation ( r = 0.899, P < 0.001). EZ was found to be an excellent structural biomarker for final BCVA (area under the curve = 0.99). CONCLUSION: Successful MHS is associated with better visual outcomes in eyes with restored EZ. ELM restoration preceded EZ regeneration. MHS novel grading system is physician friendly, incorporates pathoanatomic aspects, and correlates well with visual outcomes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "38973163",
+      "title": "Review of computer-assisted diagnosis model to classify follicular lymphoma histology.",
+      "authors": [
+        "Pranshu Saxena",
+        "Sahil Kumar Aggarwal",
+        "Amit Sinha",
+        "Sandeep Saxena",
+        "Arun Kumar Singh"
+      ],
+      "year": "2024",
+      "journal": "Cell biochemistry and function",
+      "doi": "10.1002/cbf.4088",
+      "doi_link": "https://doi.org/10.1002/cbf.4088",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38973163",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Review%20of%20computer-assisted%20diagnosis%20model%20to%20classify%20follicular%20lymphoma%20histology%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "The field of image processing is experiencing significant advancements to support professionals in analyzing histological images obtained from biopsies. The primary objective is to enhance the process of diagnosis and prognostic evaluations. Various forms of cancer can be diagnosed by employing different segmentation techniques followed by postprocessing approaches that can identify distinct neoplastic areas. Using computer approaches facilitates a more objective and efficient study of experts. The progressive advancement of histological image analysis holds significant importance in modern medicine. This paper provides an overview of the current advances in segmentation and classification approaches for images of follicular lymphoma. This research analyzes the primary image processing techniques utilized in the various stages of preprocessing, segmentation of the region of interest, classification, and postprocessing as described in the existing literature. The study also examines the strengths and weaknesses associated with these approaches. Additionally, this study encompasses an examination of validation procedures and an exploration of prospective future research roads in the segmentation of neoplasias.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "38661271",
+      "title": "Off-label use of intravitreal bevacizumab: A global conundrum.",
+      "authors": [
+        "Samya Singh",
+        "Sandeep Saxena",
+        "Levent Akduman",
+        "Carsten H Meyer"
+      ],
+      "year": "2024",
+      "journal": "Indian journal of ophthalmology",
+      "doi": "10.4103/IJO.IJO_2166_23",
+      "doi_link": "https://doi.org/10.4103/IJO.IJO_2166_23",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38661271",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Off-label%20use%20of%20intravitreal%20bevacizumab%3A%20A%20global%20conundrum%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "Bevacizumab is a monoclonal, humanized, full-length antibody targeting vascular endothelial growth factor(VEGF-A), known for its anti-angiogenic properties. The off-label use of bevacizumab has stirred legal, financial, industrial, and ethical complexities. With its potential to treat diverse ocular conditions, this commentary delves into the multifaceted dimensions of bevacizumab's off-label utilization, encompassing clinical trials, regulatory frameworks, safety considerations, comparative effectiveness, and economic implications.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "38530568",
+      "title": "Efficacy, Safety and Immunogenicity of Sun's Ranibizumab Biosimilar in Neovascular Age-Related Macular Degeneration: A Phase 3, Double-Blind Comparative Study.",
+      "authors": [
+        "Asim K Ghosh",
+        "Usha S Nikumbh",
+        "Chaitanya K Shukla",
+        "Rohit S Laul",
+        "Abhishek Dixit",
+        "Santosh K Mahapatra",
+        "Sameera Nayak",
+        "Urmil M Shah",
+        "Sandeep Parwal",
+        "Narendran Venkatapathy",
+        "Natasha Radhakrishnan",
+        "Anup Kelgaonkar",
+        "Sandeep Saxena",
+        "Divyansh Mishra",
+        "Vivek Pravin Dave",
+        "Perwez Khan",
+        "Manojkumar R Saswade",
+        "Malli S Shantilal",
+        "Kim Ramasamy",
+        "Smitha Sreekanta",
+        "Mandodari Rajurkar",
+        "Maulik Doshi",
+        "Sapan Behera",
+        "Piyush Patel",
+        "Shilpi Dhawan",
+        "Lalit Lakhwani"
+      ],
+      "year": "2024",
+      "journal": "Ophthalmology and therapy",
+      "doi": "10.1007/s40123-024-00883-5",
+      "doi_link": "https://doi.org/10.1007/s40123-024-00883-5",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38530568",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Efficacy%2C%20Safety%20and%20Immunogenicity%20of%20Sun%27s%20Ranibizumab%20Biosimilar%20in%20Neovascular%20Age-Related%20Macular%20Degeneration%3A%20A%20Phase%203%2C%20Double-Blind%20Comparative%20Study%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "INTRODUCTION: The study aimed to evaluate comparability in terms of efficacy, safety and immunogenicity of Sun's ranibizumab biosimilar with reference ranibizumab in patients with neovascular age-related macular degeneration (nAMD). METHODS: This prospective, randomised, double-blind, two-group, parallel-arm, multicentre, phase 3 comparative study included patients with nAMD ≥ 50 years, randomised (in a 2:1 ratio) in a double-blind manner to receive 0.5 mg (0.05 mL) intravitreal injection of either Sun's ranibizumab or reference ranibizumab in the study eye every 4 weeks until week 16 (total of four doses). RESULTS: Primary endpoint results demonstrated equivalence in the proportion of patients who lost fewer than 15 letters from baseline best-corrected visual acuity (BCVA) to the end of week 16 (99% of patients in Sun's ranibizumab and 100% in reference ranibizumab; p > 0.9999), with the proportional difference (90% confidence interval) at -1% (-2.51, +0.61) lying within a pre-specified equivalence margin. Visual acuity improved by 15 or more letters in 43% of Sun's ranibizumab group and 37% of the reference ranibizumab group (p = 0.4267). The mean increase in BCVA was 15.7 letters in Sun's ranibizumab group and 14.6 letters in the reference ranibizumab group (p < 0.001 within both groups and p = 0.5275 between groups). The mean change in central macular thickness was comparable between groups (p = 0.7946). Anti-ranibizumab antibodies were found in one patient of the reference ranibizumab group, while neutralising antibodies were not found in any patients. Both products were well tolerated. CONCLUSION: Sun's ranibizumab biosimilar is found to be therapeutically equivalent to reference ranibizumab in patients with nAMD. There were no additional safety or immunogenicity concerns. TRIAL REGISTRATION: CTRI/2020/09/027629, registered on 07 September 2020.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "38273687",
+      "title": "Retinal artery occlusion: Novel insights.",
+      "authors": [
+        "Samya Singh",
+        "Sandeep Saxena",
+        "Jagjit S Gilhotra"
+      ],
+      "year": "2024",
+      "journal": "Indian journal of ophthalmology",
+      "doi": "10.4103/IJO.IJO_1065_23",
+      "doi_link": "https://doi.org/10.4103/IJO.IJO_1065_23",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38273687",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Retinal%20artery%20occlusion%3A%20Novel%20insights%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "38131588",
+      "title": "Pathoanatomical aspects of macular hole closure: Emerging concepts.",
+      "authors": [
+        "Sandeep Saxena",
+        "Samya Singh",
+        "Carsten H Meyer"
+      ],
+      "year": "2024",
+      "journal": "Indian journal of ophthalmology",
+      "doi": "10.4103/IJO.IJO_1763_23",
+      "doi_link": "https://doi.org/10.4103/IJO.IJO_1763_23",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38131588",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Pathoanatomical%20aspects%20of%20macular%20hole%20closure%3A%20Emerging%20concepts%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "37812062",
+      "title": "Breast cancer: A comparative review for breast cancer detection using machine learning techniques.",
+      "authors": [
+        "Mohd Jawed Khan",
+        "Arun Kumar Singh",
+        "Razia Sultana",
+        "Pankaj Pratap Singh",
+        "Asif Khan",
+        "Sandeep Saxena"
+      ],
+      "year": "2023",
+      "journal": "Cell biochemistry and function",
+      "doi": "10.1002/cbf.3868",
+      "doi_link": "https://doi.org/10.1002/cbf.3868",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37812062",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Breast%20cancer%3A%20A%20comparative%20review%20for%20breast%20cancer%20detection%20using%20machine%20learning%20techniques%22",
+      "citations": {
+        "semantic_scholar": 21
+      },
+      "abstract": "Breast cancer is the most common cancer among women globally and presents a significant challenge due to its rising incidence and fatality rates. Factors such as cultural, socioeconomic, and educational barriers contribute to inadequate awareness and access to healthcare services, often leading to delayed diagnoses and poor patient outcomes. Furthermore, fostering a collaborative approach among healthcare providers, policymakers, and community leaders is crucial in addressing this critical women's health issue, reducing mortality rates, alleviating, and the overall burden of breast cancer. The main goal of this review is to explore various techniques of machine learning algorithms to examine high accuracy and early detection of breast cancer for the safe health of women.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "37322692",
+      "title": "Unraveling the perplexities of choroidal rupture.",
+      "authors": [
+        "Samya Singh",
+        "Sandeep Saxena"
+      ],
+      "year": "2023",
+      "journal": "Indian journal of ophthalmology",
+      "doi": "10.4103/IJO.IJO_326_23",
+      "doi_link": "https://doi.org/10.4103/IJO.IJO_326_23",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37322692",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Unraveling%20the%20perplexities%20of%20choroidal%20rupture%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "37202989",
+      "title": "Surgery for macular hole with retinal detachment: An enigma.",
+      "authors": [
+        "Shilpi Arya",
+        "Levent Akduman",
+        "Sandeep Saxena"
+      ],
+      "year": "2023",
+      "journal": "Indian journal of ophthalmology",
+      "doi": "10.4103/IJO.IJO_247_23",
+      "doi_link": "https://doi.org/10.4103/IJO.IJO_247_23",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37202989",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Surgery%20for%20macular%20hole%20with%20retinal%20detachment%3A%20An%20enigma%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "36607417",
+      "title": "Impact of inter-ethnic anatomical findings on current surgical outcome, established biomarkers, and future artificial intelligence algorithms.",
+      "authors": [
+        "Carsten H Meyer",
+        "Sandeep Saxena"
+      ],
+      "year": "2023",
+      "journal": "Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie",
+      "doi": "10.1007/s00417-022-05951-9",
+      "doi_link": "https://doi.org/10.1007/s00417-022-05951-9",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36607417",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Impact%20of%20inter-ethnic%20anatomical%20findings%20on%20current%20surgical%20outcome%2C%20established%20biomarkers%2C%20and%20future%20artificial%20intelligence%20algorithms%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "36575598",
+      "title": "Anti-Vegf therapy leads to an improvement in grade of retinal pigment epithelium alterations on single layer retinal pigment epithelium map in diabetic macular edema.",
+      "authors": [
+        "Sandeep Saxena",
+        "Malvika Singh",
+        "Anupriya Chaubey",
+        "Akshay Mohan",
+        "Somnath De",
+        "Apjit Kaur",
+        "Jagjit S Gilhotra",
+        "Carsten H Meyer",
+        "Levent Akduman"
+      ],
+      "year": "2023",
+      "journal": "European journal of ophthalmology",
+      "doi": "10.1177/11206721221146581",
+      "doi_link": "https://doi.org/10.1177/11206721221146581",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36575598",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Anti-Vegf%20therapy%20leads%20to%20an%20improvement%20in%20grade%20of%20retinal%20pigment%20epithelium%20alterations%20on%20single%20layer%20retinal%20pigment%20epithelium%20map%20in%20diabetic%20macular%20edema%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "PURPOSE: In bovine retinal pigment epithelium (RPE) cells, increased secretion of vascular endothelial growth factor (VEGF) has a positive linear association with proliferation of RPE. Spectral domain optical coherence tomography (SD-OCT) based improvement in grades of topographic retinal pigment epithelium alterations (RPE-A), were evaluated after intravitreal anti-VEGF therapy, in diabetic macular edema (DME), for the first time. METHODS: A tertiary care center-based, prospective study. Forty-four consecutive patients, 40-65 years of age with type 2 diabetes mellitus (DM) with DME, were administered three doses of anti-VEGF therapy at monthly intervals. Pre- and post-intervention SD-OCT was done and central sub field thickness (CST), cube average thickness (CAT) and topographic grades of RPE-A were assessed using single layer RPE map (SL-RPE) as; Grade 0: No alterations, Grade 1: Alteration in two quadrants, Grade 2: Alteration in more than two quadrants. RESULTS: CST decreased from 354.2 ± 16.0 µm pre-intervention to 233.2 ± 7.9 µm post-intervention. CAT reduced from 340.6 ± 6.5 µm pre-intervention to 274.1 ± 5.1 µm post-intervention. Significant improvement in grades of RPE-A pre- v/s post-intervention were observed. (Grade 0: 0 v/s 39; Grade 1: 17 v/s 3; Grade 2: 27 v/s 2) (p < 0.001). CONCLUSION: Anti-VEGF therapy is associated with an improvement in grades of RPE-A in DME.The study was registered with the Clinical Trial Registry of India (CTRI/2019/03/018135).",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "35169159",
+      "title": "E2F1-induced lncRNA, EMSLR regulates lncRNA LncPRESS1.",
+      "authors": [
+        "Priyanka Priyanka",
+        "Madhur Sharma",
+        "Sanjeev Das",
+        "Sandeep Saxena"
+      ],
+      "year": "2022",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-022-06154-2",
+      "doi_link": "https://doi.org/10.1038/s41598-022-06154-2",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35169159",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22E2F1-induced%20lncRNA%2C%20EMSLR%20regulates%20lncRNA%20LncPRESS1%22",
+      "citations": {
+        "semantic_scholar": 9
+      },
+      "abstract": "E2F1 induces hundreds of protein-coding genes influencing diverse signaling pathways but much less is known about its non-coding RNA targets. For identifying E2F1-dependent oncogenic long non-coding RNAs (lncRNAs), we carried out genome-wide transcriptome analysis and discovered an lncRNA, EMSLR, which is induced both in lung adenocarcinoma (LUAD) and lung squamous cell carcinoma (LUSC). EMSLR depletion blocks the cells in G1 phase and inhibits the clonogenic ability indicating that it is essential for the tumor-related phenotypes. We discovered that EMSLR represses the promoter activity of another lncRNA, LncPRESS1, which is located 6.9 kb upstream of EMSLR and they display an inverse expression pattern in lung cancer cell lines. Depletion of C-MYC results in downregulation of EMSLR and simultaneous upregulation of EMSLR target LncPRESS1, exemplifying how C-MYC and E2F1 signal transduction pathways control the network of lncRNA genes to modulate cell proliferation and differentiation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "35142205",
+      "title": "Higher Levels of Serum Ionic Calcium are Associated with Macular Edema in Patients with Diabetic Retinopathy.",
+      "authors": [
+        "Ankita",
+        "Sandeep Saxena",
+        "Mohammad K Ahmad",
+        "Dwividendra K Nim",
+        "Abbas A Mahdi",
+        "Apjit Kaur",
+        "Shashi K Bhasker",
+        "Pavol Vesely",
+        "Jana Stefanickova",
+        "Luis Rodrigo",
+        "Peter Kruzliak",
+        "Vladimir Krasnik"
+      ],
+      "year": "2022",
+      "journal": "Clinical laboratory",
+      "doi": "10.7754/Clin.Lab.2021.210505",
+      "doi_link": "https://doi.org/10.7754/Clin.Lab.2021.210505",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35142205",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Higher%20Levels%20of%20Serum%20Ionic%20Calcium%20are%20Associated%20with%20Macular%20Edema%20in%20Patients%20with%20Diabetic%20Retinopathy%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "BACKGROUND: The aim was to study the association of serum total calcium, ionic calcium, and magnesium with increases in macular thickness parameters and photoreceptor ellipsoid zone (EZ) disruption in diabetic macular edema (DME). METHODS: This study is a tertiary care center based observational cross-sectional study with sixty-six consecutive cases, divided into 3 groups of 22 cases each with no diabetic retinopathy (No DR), non-proliferative diabetic retinopathy (NPDR), and proliferative diabetic retinopathy (PDR) and a control group of 22 healthy controls. Best corrected visual acuity (BCVA) was measured on logMAR scale. Central subfield thickness (CST), cube average thickness (CAT), and EZ disruption were assessed using spectral-domain optical coherence tomography (SD-OCT). Serum total calcium, ionic calcium, and magnesium were measured using standard protocol. Data was analyzed statistically. RESULTS: Significant correlation was found between the increase in CST and the increase in serum total calcium and serum ionic calcium. Increase in CAT was significantly correlated with an increase in serum total calcium, serum ionic calcium, and a decrease in serum magnesium. Grades of EZ disruption and logMAR BCVA were also found to be significantly positively associated with serum total calcium and ionic calcium and negatively with serum magnesium. CONCLUSIONS: Increased levels of serum ionic calcium and decreased levels of serum magnesium are associated with an increase in macular thickness and EZ disruption in DME.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "34708772",
+      "title": "Elevated advanced glycation end products are associated with subfoveal ellipsoid zone disruption in diabetic macular edema.",
+      "authors": [
+        "Nibha Mishra",
+        "Malvika Singh",
+        "Rajendra K Singh",
+        "Sandeep Saxena"
+      ],
+      "year": "2021",
+      "journal": "Indian journal of ophthalmology",
+      "doi": "10.4103/ijo.IJO_1244_21",
+      "doi_link": "https://doi.org/10.4103/ijo.IJO_1244_21",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34708772",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Elevated%20advanced%20glycation%20end%20products%20are%20associated%20with%20subfoveal%20ellipsoid%20zone%20disruption%20in%20diabetic%20macular%20edema%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "PURPOSE: Advanced glycation end products (AGEs), due to increased production and a slow turnover rate, serve as mediators of \"metabolic memory\" even after the resolution of hyperglycemia. A prospective study was undertaken to evaluate the association of AGEs with subfoveal ellipsoid zone (EZ) disruption in diabetic macular edema (DME). METHODS: A tertiary-care-center-based cross-sectional study included 40 consecutive cases with DME and 20 healthy controls in the age group of 40-65 years. All the study subjects underwent spectral-domain optical coherence tomography (SD-OCT) for cross-sectional imaging of the retina. The EZ was defined as a hyperreflective band below the external limiting membrane. The disruption of EZ was graded as intact EZ and disrupted EZ. Serum AGEs were assessed by assay of Nε-carboxymethyl-lysine (Nε-CML) using the standard protocol. Data were analyzed statistically. RESULTS: Subfoveal EZ disruption was noted in 80% (32/40) of the cases of DME. In the cases without EZ disruption, visual acuity (LogMAR VA) was 0.60 ± 0.52, whereas in cases with EZ disruption, LogMAR VA was 0.96 ± 0.56 (P < 0.001). In the cases without EZ disruption, Nε-CML was 94.31 ± 57 ng/mL, whereas in cases with EZ disruption Nε-CML was 120.64 ± 71.98 ng/mL (P < 0.001). CONCLUSION: In DME, increased levels of AGEs are significantly associated with EZ disruption on SD-OCT.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 20,
+    "publications_by_year": {
+      "2025": 7,
+      "2024": 5,
+      "2023": 5,
+      "2022": 2,
+      "2021": 1
+    },
+    "top_journals": [
+      "Indian journal of ophthalmology",
+      "Molecular vision",
+      "European journal of ophthalmology",
+      "Cell biochemistry and function",
+      "BMJ case reports"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 62,
+      "frequent_collaborators": [
+        "Sandeep Saxena",
+        "Levent Akduman",
+        "Apjit Kaur",
+        "Carsten H Meyer",
+        "Pramod Kumar",
+        "Shivani Pandey",
+        "Abbas Ali Mahdi",
+        "Samya Singh"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "37812062",
+        "title": "Breast cancer: A comparative review for breast cancer detection using machine learning techniques.",
+        "citations": 21,
+        "year": "2023"
+      }
+    ]
+  }
+}

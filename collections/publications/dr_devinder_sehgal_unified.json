@@ -1,0 +1,639 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Devinder Sehgal",
+    "email": "devinder@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-devinder-sehgal",
+    "research_domain": "Immunity & Infection",
+    "faculty_status": "current",
+    "search_date": "2025-07-01T14:34:28.520763",
+    "total_publications": 22,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Devinder Sehgal, current faculty in Immunity & Infection at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "39892828",
+      "title": "Complete primer set for amplification and expression of full-length recombinant human monoclonal antibodies from single human B cells.",
+      "authors": [
+        "Sachin Kushwaha",
+        "Varsha Jawahar",
+        "Ajay Kumar",
+        "Lauren Griffin",
+        "Thomas L Rothstein",
+        "Devinder Sehgal",
+        "Naeem Khan"
+      ],
+      "year": "2025",
+      "journal": "Journal of immunological methods",
+      "doi": "10.1016/j.jim.2025.113823",
+      "doi_link": "https://doi.org/10.1016/j.jim.2025.113823",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39892828",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Complete%20primer%20set%20for%20amplification%20and%20expression%20of%20full-length%20recombinant%20human%20monoclonal%20antibodies%20from%20single%20human%20B%20cells%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "Human monoclonal antibodies (mAbs) are an important segment in precision therapeutics. Various methodologies are available for generating them. Recombinant human mAbs expression from sorted single B cells is preferred for its rapid expression using mammalian vectors while maintaining in vivo immunoglobulin (Ig) pairing. The success rate of generating recombinant mAbs from single sorted human B cells directly relies on Ig heavy (IgH) and light (IgL) gene coverage of the PCR primers. Existing primer sets fail to cover all functional human Ig gene rearrangements, exhibit high degeneracy leading to non-specific amplifications and mutations arising from primer mismatch/degeneracy, and require high amplification cycles. Some existing primer sets have high coverage but are not designed for expression as recombinant mAbs. Here, we have designed a primer set to amplify all functional V(D)J transcripts in human B cell repertoire using a nested RT-PCR approach. The resultant amplicons can be cloned into mammalian vectors for expression of recombinant mAb. Non-specific amplifications were minimized using isotype-specific primers for cDNA synthesis and limiting primer degeneracy. We validated the designed primers on single sorted B cells, bulk sorted B cells and peripheral blood mononuclear cells. We were successfully able to amplify paired heavy and light chain transcripts in 38.46 % (80/208) from naive, memory and B1 B cell subsets sorted as single B cells. Paired Ig transcripts from five single B cells were cloned into expression vectors and purified from mammalian cells as recombinant mAbs. Thus, our new primer set offers significant advantages over existing primers as it allows amplification of all functional V(D)J rearrangements, facilitating rapid generation of antigen-specific recombinant antibodies from diverse human B cell repertoires following vaccinations and infections previously inaccessible due to primer limitations.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "39093310",
+      "title": "Antigen-driven Convergent Evolution of Polysaccharide-specific \"DH-less\" B Cells in Glycoconjugate Immunized Mice.",
+      "authors": [
+        "Sachin Kushwaha",
+        "Pratiksha Shome",
+        "Devinder Sehgal"
+      ],
+      "year": "2024",
+      "journal": "ImmunoHorizons",
+      "doi": "10.4049/immunohorizons.2400055",
+      "doi_link": "https://doi.org/10.4049/immunohorizons.2400055",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39093310",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Antigen-driven%20Convergent%20Evolution%20of%20Polysaccharide-specific%20%22DH-less%22%20B%20Cells%20in%20Glycoconjugate%20Immunized%20Mice%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "Glycoconjugate vaccines elicit robust anti-polysaccharide Ab response by recruiting T-cell help. Multiple doses of glycoconjugate vaccine are required to induce long-lasting immunity. The characteristics of anti-polysaccharide Ab response have been reported previously. However, the effect of glycoconjugate booster immunization on anti-polysaccharide and anti-carrier protein Ab repertoire remains poorly understood. In this study, we used clinically relevant pneumococcal capsular polysaccharide type 14 (PCP14) conjugated with cross-reactive material 197 (CRM197) as a model glycoconjugate Ag (PCP14-CRM197). We performed a comprehensive sequence analysis of mouse mAbs generated against PCP14 and CRM197 following immunization with one or three doses of PCP14-CRM197. Analysis of the paired Ig H and L chain transcripts revealed that anti-PCP14 Ab repertoire is extremely restricted. The reoccurrence of five replacement mutations at identical positions in anti-polysaccharide mAbs generated from different mice provided evidence for Ag-driven selection in PCP14-specific B cells. Convergent evolution was observed wherein distinct V(D)J rearrangements resulted in identical or nearly identical CDR3 in anti-PCP14 mAbs. Abs that lacked DH encoded amino acids dominated the anti-PCP14 Ab response. In contrast, anti-CRM197 Ab response was quite diverse, with fewer mutations compared with the anti-PCP14 mAbs, suggesting that conjugation of the polysaccharide to a carrier protein interferes with the development of carrier protein-specific Ab responses. Our findings provide molecular insights into the maturation of Ab responses driven by booster doses of glycoconjugate. This has fundamental implications for the design of glycoconjugate vaccines, especially where the development of Ab response against the carrier protein is also crucial.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "36508467",
+      "title": "A broadly neutralizing monoclonal antibody overcomes the mutational landscape of emerging SARS-CoV-2 variants of concern.",
+      "authors": [
+        "Hilal Ahmad Parray",
+        "Naveen Narayanan",
+        "Sonal Garg",
+        "Zaigham Abbas Rizvi",
+        "Tripti Shrivastava",
+        "Sachin Kushwaha",
+        "Janmejay Singh",
+        "Praveenkumar Murugavelu",
+        "Anbalagan Anantharaj",
+        "Farha Mehdi",
+        "Nisha Raj",
+        "Shivam Singh",
+        "Jyotsna Dandotiya",
+        "Asha Lukose",
+        "Deepti Jamwal",
+        "Sandeep Kumar",
+        "Adarsh K Chiranjivi",
+        "Samridhi Dhyani",
+        "Nitesh Mishra",
+        "Sanjeev Kumar",
+        "Kamini Jakhar",
+        "Sudipta Sonar",
+        "Anil Kumar Panchal",
+        "Manas Ranjan Tripathy",
+        "Shirlie Roy Chowdhury",
+        "Shubbir Ahmed",
+        "Sweety Samal",
+        "Shailendra Mani",
+        "Sankar Bhattacharyya",
+        "Supratik Das",
+        "Subrata Sinha",
+        "Kalpana Luthra",
+        "Gaurav Batra",
+        "Devinder Sehgal",
+        "Guruprasad R Medigeshi",
+        "Chandresh Sharma",
+        "Amit Awasthi",
+        "Pramod Kumar Garg",
+        "Deepak T Nair",
+        "Rajesh Kumar"
+      ],
+      "year": "2022",
+      "journal": "PLoS pathogens",
+      "doi": "10.1371/journal.ppat.1010994",
+      "doi_link": "https://doi.org/10.1371/journal.ppat.1010994",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36508467",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20broadly%20neutralizing%20monoclonal%20antibody%20overcomes%20the%20mutational%20landscape%20of%20emerging%20SARS-CoV-2%20variants%20of%20concern%22",
+      "citations": {
+        "semantic_scholar": 9
+      },
+      "abstract": "The emergence of new variants of SARS-CoV-2 necessitates unremitting efforts to discover novel therapeutic monoclonal antibodies (mAbs). Here, we report an extremely potent mAb named P4A2 that can neutralize all the circulating variants of concern (VOCs) with high efficiency, including the highly transmissible Omicron. The crystal structure of the P4A2 Fab:RBD complex revealed that the residues of the RBD that interact with P4A2 are a part of the ACE2-receptor-binding motif and are not mutated in any of the VOCs. The pan coronavirus pseudotyped neutralization assay confirmed that the P4A2 mAb is specific for SARS-CoV-2 and its VOCs. Passive administration of P4A2 to K18-hACE2 transgenic mice conferred protection, both prophylactically and therapeutically, against challenge with VOCs. Overall, our data shows that, the P4A2 mAb has immense therapeutic potential to neutralize the current circulating VOCs. Due to the overlap between the P4A2 epitope and ACE2 binding site on spike-RBD, P4A2 may also be highly effective against a number of future variants.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "32668306",
+      "title": "Effect of N-terminal poly histidine-tag on immunogenicity of Streptococcus pneumoniae surface protein SP0845.",
+      "authors": [
+        "Mamta Singh",
+        "Hema Sori",
+        "Rahul Ahuja",
+        "Jairam Meena",
+        "Devinder Sehgal",
+        "Amulya Kumar Panda"
+      ],
+      "year": "2020",
+      "journal": "International journal of biological macromolecules",
+      "doi": "10.1016/j.ijbiomac.2020.07.056",
+      "doi_link": "https://doi.org/10.1016/j.ijbiomac.2020.07.056",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32668306",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Effect%20of%20N-terminal%20poly%20histidine-tag%20on%20immunogenicity%20of%20Streptococcus%20pneumoniae%20surface%20protein%20SP0845%22",
+      "citations": {
+        "semantic_scholar": 21
+      },
+      "abstract": "SP0845, a pneumococcal surface protein and a potential candidate vaccine for Streptococcus pneumoniae infection, was used to evaluate the role of histidine affinity tag on its biophysical properties and immunogenicity. The protein was expressed in E. coli with and without histidine affinity tag and purified to homogeneity. Size exclusion chromatographic studies revealed that tag free SP0845 was mainly monomeric in solution whereas, histidine tagged SP0845 stayed predominantly in an oligomeric form. Histidine-tagged SP0845 have higher β sheet content than the tag free protein. Removal of histidine tag increased the α-helical content of SP0845 from 35% to 46%. Histidine tagged SP0845 elicited higher serum antibody titer in comparison to the tag free SP0845 in mice. Effect of alum in improving the immunogenicity of tagged SP0845 was low in comparison to that observed with tag free protein. Immunogenicity of tag free SP0845 was enhanced by delivering it using polylactide polymeric particles. The presence of histidine tag thus influences the secondary structure and immunogenicity of protein and need careful consideration before use.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "31816377",
+      "title": "In vitro and in vivo characterization of the interaction, proinflammatory, immunomodulatory and antigenic properties of capsular polysaccharide from Streptococcus pneumoniae serotype 1.",
+      "authors": [
+        "Nitika Kaushal",
+        "Sujata Kumari",
+        "Hina Jhelum",
+        "Devinder Sehgal"
+      ],
+      "year": "2020",
+      "journal": "International journal of biological macromolecules",
+      "doi": "10.1016/j.ijbiomac.2019.12.022",
+      "doi_link": "https://doi.org/10.1016/j.ijbiomac.2019.12.022",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31816377",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22In%20vitro%20and%20in%20vivo%20characterization%20of%20the%20interaction%2C%20proinflammatory%2C%20immunomodulatory%20and%20antigenic%20properties%20of%20capsular%20polysaccharide%20from%20Streptococcus%20pneumoniae%20serotype%201%22",
+      "citations": {
+        "crossref": 6
+      },
+      "abstract": "Pneumococcal capsular polysaccharide (PCP) is the major virulence determinant of Streptococcus pneumoniae (pneumococcus). Strains devoid of the capsule are avirulent or highly attenuated. PCP is present in soluble form and on pneumococci in infected individuals. The present study was undertaken to study the interaction of PCP from serotype 1 (PCP1) with immune cells, and its proinflammatory, immunomodulatory and antigenic properties. Binding of PCP1 to the surface of immune cells led to proinflammatory cytokine production which was not cell line or cytokine restricted. HEK293T transfectants expressing TLR1 and TLR2 produced IL-8 upon stimulation with PCP1, untransfected cells did not do so. PCP1 failed to induce TNF-α production from RAW264.7 cells when pre-incubated with a TLR2 blocking antibody. The surface binding of PCP1 was abrogated in the presence of TLR2 blocking antibody. PCP1 failed to bind TLR2 deficient RAW264.7 cells and induce TNF-α production. Unlike PCP1, alkali-treated PCP1 failed to stimulate RAW264.7 cells to produce TNF-α indicating the importance of alkali-sensitive moieties like O-acetyl groups. Alkali-treated PCP1 elicited lower anti-PCP1 antibody response. Mice experiments suggested that alkali-sensitive groups are significant target of protective antibodies in PCP1 immunized mice. Our findings demonstrate that PCP1 is an important modulator of immune response against pneumococci.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "31282873",
+      "title": "Structural insights into the substrate specificity of SP_0149, the substrate-binding protein of a methionine ABC transporter from Streptococcus pneumoniae.",
+      "authors": [
+        "Bhavya Jha",
+        "Rajan Vyas",
+        "Jaya Bhushan",
+        "Devinder Sehgal",
+        "Bichitra Kumar Biswal"
+      ],
+      "year": "2019",
+      "journal": "Acta crystallographica. Section F, Structural biology communications",
+      "doi": "10.1107/S2053230X19009038",
+      "doi_link": "https://doi.org/10.1107/S2053230X19009038",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31282873",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structural%20insights%20into%20the%20substrate%20specificity%20of%20SP_0149%2C%20the%20substrate-binding%20protein%20of%20a%20methionine%20ABC%20transporter%20from%20Streptococcus%20pneumoniae%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "Successful pathogenesis is a cumulative effect of the virulence factors of a pathogen and its capability to efficiently utilize the available nutrients from the host. Streptococcus pneumoniae, a Gram-positive opportunistic pathogen, may either reside asymptomatically as a nasopharyngeal commensal inside the human host or cause lethal diseases, including pneumonia, meningitis and sepsis. S. pneumoniae is known to acquire methionine (Met) from its host through a Met importer. Here, the crystal structure of the substrate-binding protein (SBP; SP_0149) of an ABC importer with Met bound is reported at a resolution of 1.95 Å. The three-dimensional structure of SBP shows that it is composed of two distinct domains, each consisting of a mixed β-sheet flanked by helices. The substrate, Met, is bound in the central part of the interface between the two domains. The overall structure of SP_0149 resembles those of SBPs from other reported bacterial Met and Gly-Met dipeptide transporters. However, a detailed analysis of these structures shows notable variations in the amino-acid composition of the substrate-binding pockets of the SP_0149-Met and GmpC-Gly-Met structures. In particular, SP_0149 harbors Thr212 and Tyr114, whereas the corresponding residues in GmpC are Gly and Val. This difference is likely to be the underlying basis for their differential substrate specificity. In summary, the structure of the SP_0149-Met complex provides insights into the transport function of SP_0149 and its interactions with methionine. It opens up avenues for the rational design of inhibitors of SP_0149 through a structure-mediated approach.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "29789571",
+      "title": "A novel extracellular vesicle-associated endodeoxyribonuclease helps Streptococcus pneumoniae evade neutrophil extracellular traps and is required for full virulence.",
+      "authors": [
+        "Hina Jhelum",
+        "Hema Sori",
+        "Devinder Sehgal"
+      ],
+      "year": "2018",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-018-25865-z",
+      "doi_link": "https://doi.org/10.1038/s41598-018-25865-z",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29789571",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20novel%20extracellular%20vesicle-associated%20endodeoxyribonuclease%20helps%20Streptococcus%20pneumoniae%20evade%20neutrophil%20extracellular%20traps%20and%20is%20required%20for%20full%20virulence%22",
+      "citations": {
+        "semantic_scholar": 58
+      },
+      "abstract": "Streptococcus pneumoniae (pneumococcus) is a major bacterial pathogen that causes pneumonia and septicemia in humans. Pneumococci are cleared from the host primarily by antibody dependent opsonophagocytosis by phagocytes like neutrophils. Neutrophils release neutrophil extracellular traps (NETs) on contacting pneumococci. NETs immobilize pneumococci and restrict its dissemination in the host. One of the strategies utilized by pneumococci to evade the host immune response involves use of DNase(s) to degrade NETs. We screened the secretome of autolysin deficient S. pneumoniae to identify novel DNase(s). Zymogram analysis revealed 3 bands indicative of DNase activity. Mass spectrometric analysis led to the identification of TatD as a potential extracellular DNase. Recombinant TatD showed nucleotide sequence-independent endodeoxyribonuclease activity. TatD was associated with extracellular vesicles. Pneumococcal secretome degraded NETs from human neutrophils. Extracellular vesicle fraction from tatD deficient strain showed little NET degrading activity. Recombinant TatD efficiently degraded NETs. tatD deficient pneumococci showed lower bacterial load in lungs, blood and spleen in a murine sepsis model compared to wildtype strain, and showed less severe lung pathology and compromised virulence. This study provides insights into the role of a novel extracellular DNase in evasion of the innate immune system.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "26214513",
+      "title": "Pneumococal Surface Protein A (PspA) Regulates Programmed Death Ligand 1 Expression on Dendritic Cells in a Toll-Like Receptor 2 and Calcium Dependent Manner.",
+      "authors": [
+        "Mohit Vashishta",
+        "Naeem Khan",
+        "Subhash Mehto",
+        "Devinder Sehgal",
+        "Krishnamurthy Natarajan"
+      ],
+      "year": "2015",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0133601",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0133601",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26214513",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Pneumococal%20Surface%20Protein%20A%20%28PspA%29%20Regulates%20Programmed%20Death%20Ligand%201%20Expression%20on%20Dendritic%20Cells%20in%20a%20Toll-Like%20Receptor%202%20and%20Calcium%20Dependent%20Manner%22",
+      "citations": {
+        "semantic_scholar": 10
+      },
+      "abstract": "Pneumonia leads to high mortality in children under the age of five years worldwide, resulting in close to 20 percent of all deaths in this age group. Therefore, investigations into host-pathogen interactions during Streptococcus pneumoniae infection are key in devising strategies towards the development of better vaccines and drugs. To that end, in this study we investigated the role of S. pneumoniae and its surface antigen Pneumococcal surface protein A (PspA) in modulating the expression of co-stimulatory molecule Programmed Death Ligand 1 (PD-L1) expression on dendritic cells (DCs) and the subsequent effects of increased PD-L1 on key defence responses. Our data indicate that stimulation of DCs with PspA increases the surface expression of PD-L1 in a time and dose dependent manner. Characterization of mechanisms involved in PspA induced expression of PD-L1 indicate the involvement of Toll-Like Receptor 2 (TLR2) and calcium homeostasis. While calcium release from intracellular stores positively regulated PD-L1 expression, calcium influx from external milieu negatively regulated PD-L1 expression. Increase in PD-L1 expression, when costimulated with PspA and through TLR2 was higher than when stimulated with PspA or through TLR2. Further, knockdown of TLR2 and the intermediates in the TLR signaling machinery pointed towards the involvement of a MyD88 dependent pathway in PspA induced PD-L1 expression. Incubation of DCs with S. pneumoniae resulted in the up-regulation of PD-L1 expression, while infection with a strain lacking surface PspA failed to do so. Our data also suggests the role of PspA in ROS generation. These results suggest a novel and specific role for PspA in modulating immune responses against S. pneumoniae by regulating PD-L1 expression.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "25689507",
+      "title": "Conserved surface accessible nucleoside ABC transporter component SP0845 is essential for pneumococcal virulence and confers protection in vivo.",
+      "authors": [
+        "Sneha Saxena",
+        "Naeem Khan",
+        "Ruchika Dehinwal",
+        "Ajay Kumar",
+        "Devinder Sehgal"
+      ],
+      "year": "2015",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0118154",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0118154",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25689507",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Conserved%20surface%20accessible%20nucleoside%20ABC%20transporter%20component%20SP0845%20is%20essential%20for%20pneumococcal%20virulence%20and%20confers%20protection%20in%20vivo%22",
+      "citations": {
+        "crossref": 23
+      },
+      "abstract": "Streptococcus pneumoniae is a leading cause of bacterial pneumonia, sepsis and meningitis. Surface accessible proteins of S. pneumoniae are being explored for the development of a protein-based vaccine in order to overcome the limitations of existing polysaccharide-based pneumococcal vaccines. To identify a potential vaccine candidate, we resolved surface-associated proteins of S. pneumoniae TIGR4 strain using two-dimensional gel electrophoresis followed by immunoblotting with antisera generated against whole heat-killed TIGR4. Ten immunoreactive spots were identified by mass spectrometric analysis that included a putative lipoprotein SP0845. Analysis of the inferred amino acid sequence of sp0845 homologues from 36 pneumococcal strains indicated that SP0845 was highly conserved (>98% identity) and showed less than 11% identity with any human protein. Our bioinformatic and functional analyses demonstrated that SP0845 is the substrate-binding protein of an ATP-binding cassette (ABC) transporter that is involved in nucleoside uptake with cytidine, uridine, guanosine and inosine as the preferred substrates. Deletion of the gene encoding SP0845 renders pneumococci avirulent suggesting that it is essential for virulence. Immunoblot analysis suggested that SP0845 is expressed in in vitro grown pneumococci and during mice infection. Immunofluorescence microscopy and flow cytometry data indicated that SP0845 is surface exposed in encapsulated strains and accessible to antibodies. Subcutaneous immunization with recombinant SP0845 induced high titer antibodies in mice. Hyperimmune sera raised against SP0845 promoted killing of encapsulated pneumococcal strains in a blood bactericidal assay. Immunization with SP0845 protected mice from intraperitoneal challenge with heterologous pneumococcal serotypes. Based on its surface accessibility, role in virulence and ability to elicit protective immunity, we propose that SP0845 may be a potential candidate for a protein-based pneumococcal vaccine.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "25410204",
+      "title": "Correlation between in vitro complement deposition and passive mouse protection of anti-pneumococcal surface protein A monoclonal antibodies.",
+      "authors": [
+        "Naeem Khan",
+        "Raies Ahmad Qadri",
+        "Devinder Sehgal"
+      ],
+      "year": "2015",
+      "journal": "Clinical and vaccine immunology : CVI",
+      "doi": "10.1128/CVI.00001-14",
+      "doi_link": "https://doi.org/10.1128/CVI.00001-14",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25410204",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Correlation%20between%20in%20vitro%20complement%20deposition%20and%20passive%20mouse%20protection%20of%20anti-pneumococcal%20surface%20protein%20A%20monoclonal%20antibodies%22",
+      "citations": {
+        "semantic_scholar": 11
+      },
+      "abstract": "The shortcomings of the licensed polysaccharide-based pneumococcal vaccine are driving efforts toward development of a protein-based vaccine that is serotype independent and effective in all age groups. An opsonophagocytic killing assay (OPKA) is used to evaluate the antibody response against polysaccharide-based pneumococcal vaccines. However, the OPKA is not reliable for noncapsular antigens. Thus, there is a need to develop an in vitro surrogate for protection for protein vaccine candidates like pneumococcal surface antigen A (PspA). PspA is a serologically variable cell surface virulence factor. Based on its sequence, PspA has been classified into families 1 (clade 1 and 2), 2 (clades 3, 4 and 5), and 3 (clade 6). Here, we report the characterization of 18 IgG anti-PspA monoclonal antibodies (anti-PspA(hkR36A) MAbs) generated from mice immunized with heat-killed strain R36A (clade 2). An enzyme-linked immunosorbent assay (ELISA)-based analysis of the reactivity of the MAbs with recombinant PspAs from the 6 clades indicated that they were family 1 specific. This was confirmed by flow cytometry using a hyperimmune serum generated against PspA from R36A. Eight MAbs that bind at least one clade 1- and clade 2-expressing strain were evaluated for complement deposition, bactericidal activity, and passive protection. The anti-PspA(hkR36A) MAb-dependent deposition of complement on pneumococci showed a positive correlation with passive protection against strain WU2 (r = 0.8783, P = 0.0041). All of our protective MAbs showed bactericidal activity; however, not all MAbs that exhibited bactericidal activity conferred protection in vivo. The protective MAbs described here can be used to identify conserved protection eliciting B cell epitopes for engineering a superior PspA-based vaccine.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "24631054",
+      "title": "Influences of process and formulation parameters on powder flow properties and immunogenicity of spray dried polymer particles entrapping recombinant pneumococcal surface protein A.",
+      "authors": [
+        "Chakkumkal Anish",
+        "Arun K Upadhyay",
+        "Devinder Sehgal",
+        "Amulya Kumar Panda"
+      ],
+      "year": "2014",
+      "journal": "International journal of pharmaceutics",
+      "doi": "10.1016/j.ijpharm.2014.03.025",
+      "doi_link": "https://doi.org/10.1016/j.ijpharm.2014.03.025",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24631054",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Influences%20of%20process%20and%20formulation%20parameters%20on%20powder%20flow%20properties%20and%20immunogenicity%20of%20spray%20dried%20polymer%20particles%20entrapping%20recombinant%20pneumococcal%20surface%20protein%20A%22",
+      "citations": {
+        "semantic_scholar": 35
+      },
+      "abstract": "Particle size, antigen load and its release characteristic are the three the main attributes of polymer particles based vaccine delivery systems. The present studies focus on the formulation of spray dried polylactide microparticles entrapping pneumococcal surface protein A (PspA). Influence of process variables during polymer particle formation were optimized by using half-factorial design. Feed rate and atomization pressure during spray drying were found to be the most important parameters for achieving uniform size particles. Spray drying of preformed particles from different stages of solvent evaporation method resulted in formation of particle having different porosity and protein release profile. Presence of polyvinyl alcohol in the external aqueous phase not only contributed towards regulating the size of particles but also influenced the burst release of protein from particles. Polymer particles entrapping PspA elicited robust IgG responses both in mice and in rats. Antigen load in microparticles correlated with the antibody titer indicating the maintenance of protein integrity during particle formation using spray drying. Both, process engineering and formulation parameters during spray drying influenced the particles in terms of size, load and antigen release characteristics.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "24446810",
+      "title": "Delivery of polysaccharides using polymer particles: implications on size-dependent immunogenicity, opsonophagocytosis, and protective immunity.",
+      "authors": [
+        "Chakkumkal Anish",
+        "Naeem Khan",
+        "Arun Kumar Upadhyay",
+        "Devinder Sehgal",
+        "Amulya Kumar Panda"
+      ],
+      "year": "2014",
+      "journal": "Molecular pharmaceutics",
+      "doi": "10.1021/mp400589q",
+      "doi_link": "https://doi.org/10.1021/mp400589q",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24446810",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Delivery%20of%20polysaccharides%20using%20polymer%20particles%3A%20implications%20on%20size-dependent%20immunogenicity%2C%20opsonophagocytosis%2C%20and%20protective%20immunity%22",
+      "citations": {
+        "semantic_scholar": 11
+      },
+      "abstract": "Bacterial capsular polysaccharides are components of many modern vaccines, but they are weakly immunogenic. Herein, we describe the delivery of pneumococcal capsular polysaccharide serotype-1 (PCP-1) in polylactide polymeric particles to enhance its immunogenicity. Immunization with PCP-1-entrapped particles elicited long-term memory antibody responses from a single intramuscular injection. PCP-1-entrapped nanoparticles (NPs) elicited significantly higher anti-PCP-1 IgG responses than that observed with soluble and microparticles (MPs) formulations. Delivering PCP-1 and pneumococcal proteins in same particles did not improve the IgG response. The sera of animals immunized with PCP-1-entrapped particles promoted efficient opsonophagocytosis of pneumococci by macrophages. Single-dose immunization with PCP-1-entrapped particles conferred a long-term serotype-specific protection against lethal pneumococcal challenge. The higher immunogenicity of PCP-1 nanoparticles showed correlation with enhanced uptake by antigen-presenting cells. The results highlight the potential of polymeric nanoparticles as an efficient means of presenting polysaccharide antigens to the immune system.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "23042694",
+      "title": "A bioorthogonal chemoenzymatic strategy for defined protein dendrimer assembly.",
+      "authors": [
+        "Kanchan Gupta",
+        "Shikha Singh",
+        "Kallol Gupta",
+        "Naeem Khan",
+        "Devinder Sehgal",
+        "V Haridas",
+        "Rajendra P Roy"
+      ],
+      "year": "2012",
+      "journal": "Chembiochem : a European journal of chemical biology",
+      "doi": "10.1002/cbic.201200559",
+      "doi_link": "https://doi.org/10.1002/cbic.201200559",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23042694",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20bioorthogonal%20chemoenzymatic%20strategy%20for%20defined%20protein%20dendrimer%20assembly%22",
+      "citations": {
+        "semantic_scholar": 19
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "22102025",
+      "title": "Crystallization and preliminary X-ray diffraction studies of sortase A from Streptococcus pneumoniae.",
+      "authors": [
+        "Anurag Misra",
+        "Tora Biswas",
+        "Sreetama Das",
+        "Uttara Marathe",
+        "Devinder Sehgal",
+        "Rajendra P Roy",
+        "Ramakumar Suryanarayanarao"
+      ],
+      "year": "2011",
+      "journal": "Acta crystallographica. Section F, Structural biology and crystallization communications",
+      "doi": "10.1107/S1744309111029952",
+      "doi_link": "https://doi.org/10.1107/S1744309111029952",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22102025",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Crystallization%20and%20preliminary%20X-ray%20diffraction%20studies%20of%20sortase%20A%20from%20Streptococcus%20pneumoniae%22",
+      "citations": {
+        "semantic_scholar": 4
+      },
+      "abstract": "Sortases are cell-membrane-anchored cysteine transpeptidases that are essential for the assembly and anchoring of cell-surface adhesins in Gram-positive bacteria. Thus, they play critical roles in virulence, infection and colonization by pathogens. Sortases have been classified into four types based on their primary sequence and the target-protein motifs that they recognize. All Gram-positive bacteria express a class A housekeeping sortase (SrtA). Sortase A from Streptococcus pneumoniae (NP_358691) has been crystallized in two crystal forms. Diamond-shaped crystals of ΔN(59)SrtA diffracted to 4.0 Å resolution and belonged to a tetragonal system with unit-cell parameters a = b = 122.8, c = 86.5 Å, α = β = γ = 90°, while rod-shaped crystals of ΔN(81)SrtA diffracted to 2.91 Å resolution and belonged to the monoclinic space group P2(1) with unit-cell parameters a = 66.8, b = 103.47, c = 74.79 Å, α = γ = 90, β = 115.65°. The Matthews coefficient (V(M) = 2.77 Å(3) Da(-1)) with ~56% solvent content suggested the presence of four molecules in the asymmetric unit for ΔN(81)SrtA. Also, a multi-copy search using a monomer as a probe in the molecular-replacement method resulted in the successful location of four sortase molecules in the asymmetric unit, with statistics R = 41.61, R(free) = 46.44, correlation coefficient (CC) = 64.31, CC(free) = 57.67.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "21795797",
+      "title": "Cloning, overexpression, purification, crystallization, and preliminary X-ray studies of SP_0149, the substrate binding protein of an ABC transporter from Streptococcus pneumoniae.",
+      "authors": [
+        "Jaya Bhushan",
+        "Rajan Vyas",
+        "Tripti Sharma",
+        "Devinder Sehgal",
+        "Bichitra Kumar Biswal"
+      ],
+      "year": "2011",
+      "journal": "Acta crystallographica. Section F, Structural biology and crystallization communications",
+      "doi": "10.1107/S1744309111018422",
+      "doi_link": "https://doi.org/10.1107/S1744309111018422",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21795797",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Cloning%2C%20overexpression%2C%20purification%2C%20crystallization%2C%20and%20preliminary%20X-ray%20studies%20of%20SP_0149%2C%20the%20substrate%20binding%20protein%20of%20an%20ABC%20transporter%20from%20Streptococcus%20pneumoniae%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "A truncated (29 residues from the N-terminus) and N-terminal His-tagged form of SP_0149 from pneumococcal strain ATCC BAA-334 was overexpressed and purified to homogeneity using affinity and gel-filtration chromatography. Diffraction quality crystals were grown at 293 K using the hanging-drop vapour-diffusion technique. X-ray diffraction data were collected to 2.3 Å resolution from a single-crystal that belonged to the orthorhombic space group P2(1)2(1)2(1) with the unit-cell parameters a=54.56, b=75.61, c=75.52 Å. The calculated values of the Matthews coefficient assuming one molecule (with calculated molecular weight of 30 400 Da) in the crystal asymmetric unit and the corresponding solvent content were 2.56 Å3 Da(-1) and 52.0%, respectively.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "20516532",
+      "title": "Evidence-based National Vaccine Policy.",
+      "authors": [
+        "Y Madhavi",
+        "Jacob M Puliyel",
+        "Joseph L Mathew",
+        "N Raghuram",
+        "Anant Phadke",
+        "Mira Shiva",
+        "S Srinivasan",
+        "Yash Paul",
+        "R N Srivastava",
+        "A Parthasarathy",
+        "Sunil Gupta",
+        "Udaykumar Ranga",
+        "V Vijaya Lakshmi",
+        "Nayana Joshi",
+        "Indira Nath",
+        "C M Gulhati",
+        "Prabir Chatterjee",
+        "Anuradha Jain",
+        "Ritu Priya",
+        "Rajib Dasgupta",
+        "S Sridhar",
+        "Gopal Dabade",
+        "K M Gopakumar",
+        "Dinesh Abrol",
+        "M R Santhosh",
+        "Sadhana Srivastava",
+        "S Visalakshi",
+        "Anurag Bhargava",
+        "N B Sarojini",
+        "Devinder Sehgal",
+        "Sakthivel Selvaraj",
+        "D Banerji"
+      ],
+      "year": "2010",
+      "journal": "The Indian journal of medical research",
+      "doi": null,
+      "doi_link": "",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20516532",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Evidence-based%20National%20Vaccine%20Policy%22",
+      "citations": {
+        "semantic_scholar": 21
+      },
+      "abstract": "India has over a century old tradition of development and production of vaccines. The Government rightly adopted self-sufficiency in vaccine production and self-reliance in vaccine technology as its policy objectives in 1986. However, in the absence of a full-fledged vaccine policy, there have been concerns related to demand and supply, manufacture vs. import, role of public and private sectors, choice of vaccines, new and combination vaccines, universal vs. selective vaccination, routine immunization vs. special drives, cost-benefit aspects, regulatory issues, logistics etc. The need for a comprehensive and evidence based vaccine policy that enables informed decisions on all these aspects from the public health point of view brought together doctors, scientists, policy analysts, lawyers and civil society representatives to formulate this policy paper for the consideration of the Government. This paper evolved out of the first ever ICMR-NISTADS national brainstorming workshop on vaccine policy held during 4-5 June, 2009 in New Delhi, and subsequent discussions over email for several weeks, before being adopted unanimously in the present form.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "19380805",
+      "title": "Molecular dissection of antibody responses against pneumococcal surface protein A: evidence for diverse DH-less heavy chain gene usage and avidity maturation.",
+      "authors": [
+        "Soma Rohatgi",
+        "Debjani Dutta",
+        "Suhail Tahir",
+        "Devinder Sehgal"
+      ],
+      "year": "2009",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.0803254",
+      "doi_link": "https://doi.org/10.4049/jimmunol.0803254",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19380805",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Molecular%20dissection%20of%20antibody%20responses%20against%20pneumococcal%20surface%20protein%20A%3A%20evidence%20for%20diverse%20DH-less%20heavy%20chain%20gene%20usage%20and%20avidity%20maturation%22",
+      "citations": {
+        "semantic_scholar": 29
+      },
+      "abstract": "Immunization of human volunteers with a single dose of pneumococcal surface protein A (PspA) stimulates broad cross-reactive Abs to heterologous PspA molecules that, when transferred, protect mice from fatal infection with Streptococcus pneumoniae. In this study, we report the molecular characterization of 36 mouse mAbs generated against the extracellular domain of PspA (PspA(3-286)) from strain R36A. Abs to PspA(3-286) were encoded by diverse V(H) and V(kappa) families/genes. The H chain CDR3 and L chain CDR3 lengths were 3-13 (7.8 +/- 0.5) and 8-9 (8.7 +/- 0.2) codons, respectively. Unexpectedly, seven hybridomas expressed H chains that lack D(H) gene-derived amino acids. Nontemplate-encoded addition(s) were observed in the H chain expressed in six of these seven hybridomas; Palindromic addition(s) were absent. Absence of D(H) gene-derived amino acids did not prevent anti-PspA(3-286) mAbs from attaining average relative avidity. Avidity maturation occurred during primary IgG anti-PspA(3-286) polyclonal Ab response in PspA(3-286)- and R36A-immunized mice. Compared with PspA(3-286)-immunized mice, the relative avidity of the primary polyclonal IgG Abs was higher in R36A immunized mice on days 72, 86, and 100. Two pairs of clonally related hybridomas were observed. D(H) genes expressed in the majority (75.9%) of the hybridomas used reading frame 3. Analysis of replacement/silent mutation ratio in the CDR and framework regions provided evidence for Ag-driven selection in 11 mAbs. Based on epitope localization experiments, the mAbs were classified into 12 independent groups. ELISA additivity assay indicated that members within a group recognized topographically related epitopes. This study provides molecular insights into the biology of D(H)-less Abs.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "18926828",
+      "title": "Systematic design and testing of nested (RT-)PCR primers for specific amplification of mouse rearranged/expressed immunoglobulin variable region genes from small number of B cells.",
+      "authors": [
+        "Soma Rohatgi",
+        "Parul Ganju",
+        "Devinder Sehgal"
+      ],
+      "year": "2008",
+      "journal": "Journal of immunological methods",
+      "doi": "10.1016/j.jim.2008.09.017",
+      "doi_link": "https://doi.org/10.1016/j.jim.2008.09.017",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18926828",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Systematic%20design%20and%20testing%20of%20nested%20%28RT-%29PCR%20primers%20for%20specific%20amplification%20of%20mouse%20rearranged/expressed%20immunoglobulin%20variable%20region%20genes%20from%20small%20number%20of%20B%20cells%22",
+      "citations": {
+        "semantic_scholar": 50
+      },
+      "abstract": "The aim of this study was to develop a highly specific and sensitive (RT-)PCR capable of potentially amplifying the rearranged/expressed VH and VL gene belonging to any mouse immunoglobulin V gene family from a single or a small number of B cells. A database of germline immunoglobulin sequences was used to design 112 primers for a nested (RT-)PCR based strategy to cover all VH, VL, JH, JL, CH and CL gene families/genes from C57BL/6 and BALB/c mice. 93.7% of the primers had 4-fold or less, while 71.4% had no degeneracy. The proportions of germline V genes to which the primers bind with no, up to 1 and up to 2 mismatches are 59.7%, 84.1% and 94.9%, respectively. Most but not all V gene family specific primers designed allow amplification of full-length V genes. The nested primers permit PCR amplification of rearranged V genes belonging to all VH and VL gene families from splenocyte genomic DNA. The V gene family-specific nature of the primers was experimentally confirmed for randomly selected 6 VH and 6 Vkappa families, and all Vlambda genes. The broad V gene family coverage of our primer set was experimentally validated by amplifying the rearranged/expressed VH and VL genes from splenocytes and a panel of 38 hybridomas under conditions where primer mixes and genomic DNA or total RNA was used as starting template. We observed no or low-level cross-family priming. Pooled constant region specific primers allowed efficient RT-PCR amplification of H and L chain isotypes. The expressed VH and VL genes belonging to different V gene families RT-PCR amplified from a mixture of hybridomas in a representative manner. We successfully amplified the expressed VH and Vkappa gene from a single hybridoma cell by RT-PCR and from 10-15 microdissected B cells by genomic PCR. This, first of its kind, comprehensive set of highly sensitive and specific nested primers that provide broad V gene family coverage will open up new avenues and opportunities to study various aspects of mouse B cell biology.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "15507672",
+      "title": "Demonstration that mast cells, T cells, and B cells bearing the activating kit mutation D816V occur in clusters within the marrow of patients with mastocytosis.",
+      "authors": [
+        "Marcia L Taylor",
+        "Devinder Sehgal",
+        "Mark Raffeld",
+        "Harold Obiakor",
+        "Cem Akin",
+        "Rose G Mage",
+        "Dean D Metcalfe"
+      ],
+      "year": "2004",
+      "journal": "The Journal of molecular diagnostics : JMD",
+      "doi": "10.1016/S1525-1578(10)60529-6",
+      "doi_link": "https://doi.org/10.1016/S1525-1578(10)60529-6",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15507672",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Demonstration%20that%20mast%20cells%2C%20T%20cells%2C%20and%20B%20cells%20bearing%20the%20activating%20kit%20mutation%20D816V%20occur%20in%20clusters%20within%20the%20marrow%20of%20patients%20with%20mastocytosis%22",
+      "citations": {
+        "semantic_scholar": 44
+      },
+      "abstract": "Mastocytosis is characterized by focal heterotypic clusters of mast cells and lymphocytes in the bone marrow and by a somatically acquired activating Kit mutation, D816V. The relationship of the occurrence of this mutation to the heterotypic clusters of mast cells and lymphocytes in bone marrow is unknown. We hypothesized that these two unique features of mastocytosis were related. To explore this hypothesis, laser capture microdissected mast cells, B cells, and T cells, from both lesional and non-lesional areas of bone marrow biopsy tissues from patients with mastocytosis, were examined for the D816V mutation in their DNA, using HinfI restriction digestion of nested PCR products amplified from extracts of dissected cells. The D816V mutation was detected in mast cells, B cells, and T cells from lesional but not non-lesional areas of bone marrow tissues. B cells obtained from lesional areas of tissue were also assessed for clonality and were found to at least represent an oligoclonal population. Thus, mast cells and lymphocytes within focal aggregates in the bone marrow of those with mastocytosis are more frequently positive for the codon 816 activating mutation. Further, the B cell population is oligoclonal, suggesting that clonal proliferation is unlikely to be the basis of clustering.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "15067055",
+      "title": "Analysis of mutational lineage trees from sites of primary and secondary Ig gene diversification in rabbits and chickens.",
+      "authors": [
+        "Ramit Mehr",
+        "Hanna Edelman",
+        "Devinder Sehgal",
+        "Rose Mage"
+      ],
+      "year": "2004",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.172.8.4790",
+      "doi_link": "https://doi.org/10.4049/jimmunol.172.8.4790",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15067055",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Analysis%20of%20mutational%20lineage%20trees%20from%20sites%20of%20primary%20and%20secondary%20Ig%20gene%20diversification%20in%20rabbits%20and%20chickens%22",
+      "citations": {
+        "semantic_scholar": 37
+      },
+      "abstract": "Lineage trees of mutated rearranged Ig V region sequences in B lymphocyte clones often serve to qualitatively illustrate claims concerning the dynamics of affinity maturation. In this study, we use a novel method for analyzing lineage tree shapes, using terms from graph theory to quantify the differences between primary and secondary diversification in rabbits and chickens. In these species, Ig gene diversification starts with rearrangement of a single (in chicken) or a few (in rabbit) V(H) genes. Somatic hypermutation and gene conversion contribute to primary diversification in appendix of young rabbits or in bursa of Fabricius of embryonic and young chickens and to secondary diversification during immune responses in germinal centers (GCs). We find that, at least in rabbits, primary diversification appears to occur at a constant rate in the appendix, and the type of Ag-specific selection seen in splenic GCs is absent. This supports the view that a primary repertoire is being generated within the expanding clonally related B cells in appendix of young rabbits and emphasizes the important role that gut-associated lymphoid tissues may play in early development of mammalian immune repertoires. Additionally, the data indicate a higher rate of hypermutation in rabbit and chicken GCs, such that the balance between hypermutation and selection tends more toward mutation and less toward selection in rabbit and chicken compared with murine GCs.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper21",
+      "publication_id": "12069414",
+      "title": "A comparison of hydraulic and laser capture microdissection methods for collection of single B cells, PCR, and sequencing of antibody VDJ.",
+      "authors": [
+        "Harold Obiakor",
+        "Devinder Sehgal",
+        "Joseph F Dasso",
+        "Robert F Bonner",
+        "Arash Malekafzali",
+        "Rose G Mage"
+      ],
+      "year": "2002",
+      "journal": "Analytical biochemistry",
+      "doi": "10.1006/abio.2002.5671",
+      "doi_link": "https://doi.org/10.1006/abio.2002.5671",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12069414",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20comparison%20of%20hydraulic%20and%20laser%20capture%20microdissection%20methods%20for%20collection%20of%20single%20B%20cells%2C%20PCR%2C%20and%20sequencing%20of%20antibody%20VDJ%22",
+      "citations": {
+        "semantic_scholar": 23
+      },
+      "abstract": "During the development of B lymphocytes, a series of gene rearrangements assemble the sequences that encode immunoglobulin heavy and light chains (VDJ). Earlier studies of VDJ sequence diversification during expansion of cells in splenic or appendix germinal centers used hydraulic micromanipulation (HM) to collect single B cells for PCR amplification of rearranged antibody heavy and light chain genes. PCR products were directly sequenced without a cloning step. Hydraulic micromanipulation is a very tedious method. Once capability to collect single cells by laser capture microdissection (LCM) was developed, we modified previous tissue staining and fixation methods so that we could collect cells from a given stained tissue section by HM and LCM and directly compare our success rates using these two methods. Cells were alkaline lysed and after two rounds of nested PCR products were recovered and directly sequenced. Because each rearrangement of genomic DNA that occurs to form the immunoglobulin heavy-chain-encoding sequence in developing B cells is unique, this system allowed us to verify our success rate in recovering single lymphocytes from tissue sections and amplifying a single allele. The methods developed have now made LCM an efficient alternative to HM for the collection of single B cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper22",
+      "publication_id": "12023335",
+      "title": "Distinct clonal Ig diversification patterns in young appendix compared to antigen-specific splenic clones.",
+      "authors": [
+        "Devinder Sehgal",
+        "Harold Obiakor",
+        "Rose G Mage"
+      ],
+      "year": "2002",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.168.11.5424",
+      "doi_link": "https://doi.org/10.4049/jimmunol.168.11.5424",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12023335",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Distinct%20clonal%20Ig%20diversification%20patterns%20in%20young%20appendix%20compared%20to%20antigen-specific%20splenic%20clones%22",
+      "citations": {
+        "crossref": 29
+      },
+      "abstract": "The young rabbit appendix is a dynamic site for primary B cell repertoire development. To study diversification patterns during clonal expansion, we collected single appendix B cells from 3- to 9-wk-old rabbits and sequenced rearranged H and L chain genes. Single cells obtained by hydraulic micromanipulation or laser capture microdissection were lysed, PCR amplified, and products directly sequenced. Gene conversion-like changes occurred in rearranged H and L chain sequences by 3-4 wk of age. Somatic mutations were found in the D regions that lack known conversion donors and probably also occurred in the V genes. A few small sets of clonally related appendix B cells were found at 3-5 wk; by 5.5 wk, some larger clones were recovered. The diversification patterns in the clones from appendix were strikingly different from those found previously in splenic germinal centers where an immunizing Ag was driving the expansion and selection process toward high affinity. Clonally related appendix B cells developed different amino acid sequences in each complementarity-determining region (CDR) including CDR3, whereas dominant clones from spleen underwent few changes in CDR3. The variety of combining sites generated by diversification within individual clones suggests that at least some clonal expansion and selection, known to require normal gut flora, may be driven through indirect effects of microbial components rather than solely by their recognition as specific foreign Ags. This diversity of combining sites within B cell clones supports the proposed role of appendix in generating the preimmune repertoire.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 22,
+    "publications_by_year": {
+      "2025": 1,
+      "2024": 1,
+      "2022": 1,
+      "2020": 2,
+      "2019": 1,
+      "2018": 1,
+      "2015": 3,
+      "2014": 2,
+      "2012": 1,
+      "2011": 2,
+      "2010": 1,
+      "2009": 1,
+      "2008": 1,
+      "2004": 2,
+      "2002": 2
+    },
+    "top_journals": [
+      "Journal of immunology (Baltimore, Md. : 1950)",
+      "Journal of immunological methods",
+      "International journal of biological macromolecules",
+      "PloS one",
+      "Acta crystallographica. Section F, Structural biology and crystallization communications"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 112,
+      "frequent_collaborators": [
+        "Devinder Sehgal",
+        "Naeem Khan",
+        "Amulya Kumar Panda",
+        "Rose G Mage",
+        "Ajay Kumar",
+        "Hema Sori",
+        "Rajan Vyas",
+        "Bichitra Kumar Biswal"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "29789571",
+        "title": "A novel extracellular vesicle-associated endodeoxyribonuclease helps Streptococcus pneumoniae evade neutrophil extracellular traps and is required for full virulence.",
+        "citations": 58,
+        "year": "2018"
+      },
+      {
+        "publication_id": "18926828",
+        "title": "Systematic design and testing of nested (RT-)PCR primers for specific amplification of mouse rearranged/expressed immunoglobulin variable region genes from small number of B cells.",
+        "citations": 50,
+        "year": "2008"
+      },
+      {
+        "publication_id": "15507672",
+        "title": "Demonstration that mast cells, T cells, and B cells bearing the activating kit mutation D816V occur in clusters within the marrow of patients with mastocytosis.",
+        "citations": 44,
+        "year": "2004"
+      }
+    ]
+  }
+}

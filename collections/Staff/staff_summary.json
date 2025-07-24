@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "total_staff": 280,
+    "last_updated": "2025-07-03",
+    "data_collection_date": "2025-07-03T17:40:36.353930",
+    "staff_categories": [
+      "Faculty",
+      "Technical Staff",
+      "Administrative Staff",
+      "Supporting Staff",
+      "Library Staff",
+      "Other"
+    ],
+    "source_files": [
+      "staff_contact.json",
+      "staff.json"
+    ]
+  },
+  "statistics": {
+    "total_staff": 280,
+    "by_category": {
+      "Supporting Staff": 49,
+      "Technical Staff": 54,
+      "Other": 112,
+      "Faculty": 21,
+      "Administrative Staff": 27,
+      "Scientific Staff & Core Infrastructure": 17
+    },
+    "with_contact_info": 137,
+    "faculty_count": 38,
+    "email_available": 118,
+    "extension_available": 134
+  },
+  "quick_stats": {
+    "total_staff": 280,
+    "by_category": {
+      "Supporting Staff": 49,
+      "Technical Staff": 54,
+      "Other": 112,
+      "Faculty": 21,
+      "Administrative Staff": 27,
+      "Scientific Staff & Core Infrastructure": 17
+    },
+    "contact_coverage": {
+      "with_email": 118,
+      "with_extension": 134,
+      "complete_contact": 137
+    }
+  }
+}

@@ -1,0 +1,1097 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Sarika Gupta",
+    "email": "sarika@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-sarika-gupta",
+    "research_domain": "Chemical Biology, Biochemistry & Structural Biology",
+    "faculty_status": "current",
+    "search_date": "2025-07-01T14:34:28.520763",
+    "total_publications": 40,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Sarika Gupta, current faculty in Chemical Biology, Biochemistry & Structural Biology at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "40441521",
+      "title": "Osteocalcin modulates Abeta42 aggregation to aid in amyloid reduction in mouse models of Alzheimer's disease.",
+      "authors": [
+        "Viji Vijayan",
+        "Ibrar Ahmad Siddique",
+        "Sakshi Gupta",
+        "Evanka Madan Chopra",
+        "Navya Raj",
+        "Avadhesha Surolia",
+        "Sarika Gupta"
+      ],
+      "year": "2025",
+      "journal": "Experimental neurology",
+      "doi": "10.1016/j.expneurol.2025.115322",
+      "doi_link": "https://doi.org/10.1016/j.expneurol.2025.115322",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40441521",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Osteocalcin%20modulates%20Abeta42%20aggregation%20to%20aid%20in%20amyloid%20reduction%20in%20mouse%20models%20of%20Alzheimer%27s%20disease%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "Alzheimer's disease (AD) is a progressive neurodegenerative disease characterized by overexpression of amyloid-beta in the brain, particularly the toxic Abeta-42 form. Recent studies have identified osteocalcin, a peptide traditionally associated with bone, to modulate cognitive function in the AD brain. Osteocalcin exists in two forms: the undercarboxylated (uOC) and carboxylated (cOC) forms. This study investigates the role of uOC in modulating Abeta42 aggregation and its potential therapeutic implications for AD. Administration of uOC, but not cOC, improved both spatial learning and exploratory behavior of 5xFAD transgenic Alzheimer mice. Further investigation showed that uOC reduced the level of insoluble Abeta42 in the brain and increased the level of soluble Abeta42. There was increase in mRNA levels of CD36 in uOC treated 5xFAD transgenic brain alongside upregulation of neuroprotectants like Adipoq and Ahsg (fetuin). We explored the mechanisms underlying the influence of uOC on Aβ42 dynamics and understood that uOC interacts with Glu residues to form non-toxic early tube-like intermediates (A-O) before advancing to late mature Abeta42 fibrils. These intermediates enable Abeta42 uptake by glial cells by upregulating the cell surface expression of CD36 and reducing TNF-alpha production. Collectively, the study sheds light on the fact that uOC modulates Abeta42 dynamics and this interaction is warranted for Abeta42 uptake and clearance. The study provides a novel dimension for the treatment of amyloid disorders like AD.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "40290201",
+      "title": "Study of Risk Factors Associated with Bad Outcome among Pediatric Patients with Tubercular Bacterial Meningitis.",
+      "authors": [
+        "Sarika Gupta",
+        "Akanksha D Srivastava"
+      ],
+      "year": "2025",
+      "journal": "Journal of global infectious diseases",
+      "doi": "10.4103/jgid.jgid_161_24",
+      "doi_link": "https://doi.org/10.4103/jgid.jgid_161_24",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40290201",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Study%20of%20Risk%20Factors%20Associated%20with%20Bad%20Outcome%20among%20Pediatric%20Patients%20with%20Tubercular%20Bacterial%20Meningitis%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "INTRODUCTION: The study aimed to evaluate the risk factors linked to poor outcomes in pediatric patients diagnosed with tubercular bacterial meningitis (TBM). METHODS: A retrospective cohort study was conducted at King George's Medical University in India, focusing on children diagnosed with TBM (n = 514) over a 5-year period from 2019 to 2023. The study evaluates various aspects of TBM in this population, including clinical presentation, diagnostic methods, and outcomes. Statistical analyses for the study were conducted using SPSS version 16.0 (SPSS, Chicago, IL, USA). RESULTS: Out of a total of 514 patients with TBM, 98 (19.1%) patients experienced a poor outcome. Multivariate analysis identified several factors associated with a poor outcome: age over 5 years (B = 0.829, P = 0.002, odds ratio [OR] = 2.291, 95% confidence interval [CI]: 1.344-3.904), altered consciousness (B = 1.040, P < 0.001, OR = 2.829, 95% CI: 1.686-4.747), a cerebrospinal fluid (CSF)-to-plasma glucose ratio <50% (B = -0.892, P = 0.001, OR = 0.410, 95% CI: 0.244-0.688), hydrocephalus (B = 1.050, P = 0.003, OR = 2.857, 95% CI: 1.417-5.760), and lack of Bacille Calmette-Guerin (BCG) immunization (B = 1.291, P < 0.001, OR = 3.638, 95% CI: 2.150-6.156). CONCLUSION: The study identified key risk factors for poor outcomes in childhood TBM, including age over 5 years, high CSF protein levels, coma, hydrocephalus, and inadequate BCG immunization. These factors underline the severity of childhood TBM as a public health issue and emphasize the need for timely initiation of antituberculosis therapy.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "40275534",
+      "title": "Bacillus coagulans ameliorates inflammatory bone loss in post-menopausal osteoporosis via modulating the \"Gut-Immune-Bone\" axis.",
+      "authors": [
+        "Leena Sapra",
+        "Chaman Saini",
+        "Pradyumna K Mishra",
+        "Bhavuk Garg",
+        "Sarika Gupta",
+        "Vikrant Manhas",
+        "Rupesh K Srivastava"
+      ],
+      "year": "2025",
+      "journal": "Gut microbes",
+      "doi": "10.1080/19490976.2025.2492378",
+      "doi_link": "https://doi.org/10.1080/19490976.2025.2492378",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40275534",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Bacillus%20coagulans%20ameliorates%20inflammatory%20bone%20loss%20in%20post-menopausal%20osteoporosis%20via%20modulating%20the%20%22Gut-Immune-Bone%22%20axis%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "Osteoporosis is a systemic skeletal disease that leads to lower bone mineral density and intensifies the risk of unexpected fractures. Recently, our group reported that numerical defect in the frequencies of Bregs along with their compromised tendency to produce IL-10 cytokine further aggravates inflammatory bone loss in post-menopausal osteoporosis (PMO). Dysbiosis induced mucosal injury and leaky gut are the predominant contributors involved in the progression of inflammatory diseases including PMO. Furthermore, several evidence suggest that gut microbial composition plays a crucial role in the development and differentiation of Bregs. Nevertheless, the potential role of dysbiotic gut microbiota (GM) and Bregs under estrogen deficient PMO conditions has never been deciphered. Here, we evaluated the role of GM in the onset and progression of PMO along with its role in modulating the anti-osteoporotic potential of Bregs. We found that enhancement in the endotoxin producing bacteria and concomitant reduction in the short chain fatty acids producing bacteria, both under pre-clinical and clinical osteoporotic condition augment inflammatory bone loss. This suggests that dysbiosis of GM potentially exacerbates bone deterioration under estrogen deficient PMO conditions. Remarkably, supplementation of probiotic Bacillus coagulans significantly improved the bone mineral density, bone strength, and bone microarchitecture by modulating the anti-osteoclastogenic, immunosuppressive and immunomodulatory potential of Bregs. The present study delves deeper into the role of immune homeostasis (\"Breg-Treg-Th17\" cell axis) and GM profile in the pathophysiology of PMO. Altogether, findings of the present study open novel therapeutic avenues, suggesting restoration of GM composition as one of the viable therapeutic options in mitigating inflammatory bone loss under PMO conditions via modulating the \"Gut-Immune-Bone\" axis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "40104113",
+      "title": "A combination of systemic mannitol and mannitol modified polyester nanoparticles for caveolae-mediated gene delivery to the brain.",
+      "authors": [
+        "Betsy Reshma Gilbert",
+        "Chirag Miglani",
+        "Arundhati Karmakar",
+        "Muneesh Pal",
+        "Vysakh C Chandran",
+        "Sarika Gupta",
+        "Asish Pal",
+        "Munia Ganguli"
+      ],
+      "year": "2025",
+      "journal": "Molecular therapy. Nucleic acids",
+      "doi": "10.1016/j.omtn.2025.102480",
+      "doi_link": "https://doi.org/10.1016/j.omtn.2025.102480",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40104113",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20combination%20of%20systemic%20mannitol%20and%20mannitol%20modified%20polyester%20nanoparticles%20for%20caveolae-mediated%20gene%20delivery%20to%20the%20brain%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "Overcoming the blood-brain barrier (BBB) remains a significant challenge for nucleic acid delivery to the brain. We have explored a combination of mannitol-modified poly (β-amino ester) (PBAE) nanoparticles and systemic mannitol injection for crossing the BBB. We incorporated mannitol in the PBAE polymer for caveolae targeting and selected monomers that may help avoid delivery to the liver. We also induced caveolae at the BBB through systemic mannitol injection in order to create an opportunity for the caveolae-targeting nanoparticles (M30 D90) containing plasmid DNA to cross the BBB. When a clinically relevant dose was administered intravenously in this caveolae induction model, M30 D90 demonstrated significant transgene expression of a reporter plasmid in the brain, with selective uptake by neuronal cells and minimal liver accumulation. We demonstrate that caveolae modulation using systemic mannitol administration and caveolae targeting using designed nanoparticles are necessary for efficient delivery to the brain. This delivery platform offers a simple, scalable, and controlled delivery solution and holds promise for treating brain diseases with functional targets.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "40067054",
+      "title": "Chest X-Ray Features of Drug Resistance Tuberculosis in Pediatric Population; A Prospective Study in High-Endemic Area.",
+      "authors": [
+        "Sarika Gupta",
+        "Harshika Khanna",
+        "Vidushi Gupta",
+        "Naba Kumar Barman",
+        "Anit Parihar",
+        "Surya Kant"
+      ],
+      "year": "2025",
+      "journal": "Pediatric pulmonology",
+      "doi": "10.1002/ppul.71039",
+      "doi_link": "https://doi.org/10.1002/ppul.71039",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40067054",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Chest%20X-Ray%20Features%20of%20Drug%20Resistance%20Tuberculosis%20in%20Pediatric%20Population%3B%20A%20Prospective%20Study%20in%20High-Endemic%20Area%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "OBJECTIVE: To identify chest X-ray (CXR) characteristic of Pediatric pulmonary drug-resistant tuberculosis (DRTB) in comparison to drug sensitive tuberculosis (DSTB) for early identification and treatment of DRTB. METHODS: This was a prospective cross-sectional study in which CXR patterns of DS and DR patients aged 1 month to 18 years were categorized into different variants including pleural effusion, cavity lesion, hilar or mediastinal lymph node (LN), consolidation, pneumothorax, pericardial effusion, miliary TB, nodular shadow, and collapse. The consensus between the pulmonary physician and radiologist was measured using weighted kappa test. Adjusted logistic regression analysis was used to identify DRTB suggestive CXR pattern. RESULTS: From June 1, 2022 to May 31, 2023, 237 pulmonary TB subjects were recruited. Out of 175 DSTB subjects, 47 were below the age of 12 and 128 were above the age of 12. 62 were microbiologically confirmed DRTB where 12 were below the age of 12 and 50 were above the age of 12. Cavitary TB lesions (p = 0.001) and Consolidation (p = 0.003) were found significant in DR patients. Adjusting for age, gender, socioeconomic status DRTB was associated with cavity lesion (OR = 2.62; 95% CI = 1.39-4.93; p = 0.001) and consolidation (OR = 2.29; 95% CI = 1.27-4.14; p = 0.003). CONCLUSION: We conclude that presence of cavitary lesion or consolidation in \"presumptive\" or \"probable\" DRTB patients should alert pediatricians. Our findings suggest that these DR suggestive CXR pattern can guide for early start of therapy while awaiting microbiological report.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "39976440",
+      "title": "Orientia tsutsugamushi alters the intranuclear balance of cullin-1 and c-MYC to inhibit apoptosis.",
+      "authors": [
+        "Paige E Allen",
+        "Haley E Adcox",
+        "Thomas E Siff",
+        "Sarika Gupta",
+        "Jason R Hunt",
+        "Jason A Carlyon"
+      ],
+      "year": "2025",
+      "journal": "Infection and immunity",
+      "doi": "10.1128/iai.00559-24",
+      "doi_link": "https://doi.org/10.1128/iai.00559-24",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39976440",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Orientia%20tsutsugamushi%20alters%20the%20intranuclear%20balance%20of%20cullin-1%20and%20c-MYC%20to%20inhibit%20apoptosis%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "Cullin-1 (Cul1), a cullin-RING ubiquitin ligase component, represses c-MYC activity in the nucleus. Orientia tsutsugamushi causes the potentially fatal rickettsiosis, scrub typhus. The obligate intracellular bacterium encodes an arsenal of ankyrin repeat-containing effectors (Anks), many of which carry a eukaryotic-like F-box motif that binds Cul1. O. tsutsugamushi reduces Cul1 levels in the nucleus. This phenomenon is not due to an alteration in Cul1 neddylation but is bacterial burden- and protein synthesis-dependent. Five of the 11 Anks capable of binding Cul1 (Ank1, Ank5, Ank6, Ank9, Ank17) sequester it in the cytoplasm when each is ectopically expressed. Ank1 and Ank6 proteins with alanine substitutions in their F-boxes that render them unable to bind Cul1 cannot exclude Cul1 from the nucleus. Coincident with the reduction of Cul1 in the nuclei of Orientia-infected cells, c-MYC nuclear levels are elevated, and Cul1 target genes are differentially expressed. Several of these genes regulate apoptosis. The resistance of O. tsutsugamushi-infected cells to staurosporine-induced apoptosis is recapitulated in uninfected cells expressing Ank1 or Ank6 but not alanine-substituted versions thereof that cannot bind Cul1. Other F-box-containing Anks that cannot bind or exclude Cul1 from the nucleus also fail to confer resistance to apoptosis. Overall, O. tsutsugamushi modulates the Cul1:c-MYC intranuclear balance as an anti-apoptotic strategy that is functionally linked to a subset of its F-box-containing Anks.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "39899196",
+      "title": "A Situational Analysis and an Untapped Opportunity for Tackling Challenges Associated with Coverage of Tuberculosis Preventive Treatment: A Multi-Centric Study in India.",
+      "authors": [
+        "Amber Kumar",
+        "Akash Ranjan Singh",
+        "Praveen Anand",
+        "Dhruvendra Pandey",
+        "Sarika Gupta",
+        "Lalitha K",
+        "Inder Puri",
+        "BrajRaj S Gosh",
+        "Manjeet Singh Chalga",
+        "Manjula Singh",
+        "TPT Team"
+      ],
+      "year": "2025",
+      "journal": "Indian journal of pediatrics",
+      "doi": "10.1007/s12098-024-05364-y",
+      "doi_link": "https://doi.org/10.1007/s12098-024-05364-y",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39899196",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20Situational%20Analysis%20and%20an%20Untapped%20Opportunity%20for%20Tackling%20Challenges%20Associated%20with%20Coverage%20of%20Tuberculosis%20Preventive%20Treatment%3A%20A%20Multi-Centric%20Study%20in%20India%22",
+      "citations": {
+        "crossref": 3
+      },
+      "abstract": "OBJECTIVES: To assesses the coverage, adherence, reasons for non-initiation and non-completion of tuberculosis preventive treatment (TPT) among household child contacts (HHCC) of pulmonary tuberculosis (TB). METHODS: This cross-sectional study was conducted across eight sites in India. Estimated sample size was 200 per site. Information was collected through record review and house-to-house visits of HHCCs of notified pulmonary TB cases during January to March 2022. Coverage and adherence was assessed by proportion of eligible HHCC initiated and completed TPT, respectively. RESULTS: Of 2554 HHCCs eligible for TPT, initiation and completion rate was 34% and 22%, respectively. Across the sites the median time to conduct home visit was 14 d (IQR 9, 22) and TPT initiation was 7 d (IQR 1, 21). Reasons for the non-initiation were no information provided by paramedical workers (82%), information provided by paramedical workers but TPT was not given (19%), parents felt it's not important (9%), and fear of side-effects (3%). Reasons for non-completion were: TPT received for less than six months (from healthcare providers) (54%), advised for the lesser duration TPT by the doctors (4%), parents felt completion was not important (32%), parents' fear of side-effects or myth (5%), and HHCC complained of side-effect (0.7%). CONCLUSIONS: Inadequate emphasis on home visits leads to TPT initiation in only one-third and completion in less than one-fourth of eligible HHCCs. This poor coverage was primarily due to the health system related issues. Rarely reported TPT side-effects highlighted its safety.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "39399159",
+      "title": "Targeting the osteoclastogenic cytokine IL-9 as a novel immunotherapeutic strategy in mitigating inflammatory bone loss in post-menopausal osteoporosis.",
+      "authors": [
+        "Leena Sapra",
+        "Chaman Saini",
+        "Shivani Sharma",
+        "Dibyani Nanda",
+        "Aishwarya Nilakhe",
+        "Naibedya Chattopadhyay",
+        "Avtar Singh Meena",
+        "Pradyumna K Mishra",
+        "Sarika Gupta",
+        "Bhavuk Garg",
+        "Vikrant Manhas",
+        "Rupesh K Srivastava"
+      ],
+      "year": "2024",
+      "journal": "JBMR plus",
+      "doi": "10.1093/jbmrpl/ziae120",
+      "doi_link": "https://doi.org/10.1093/jbmrpl/ziae120",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39399159",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Targeting%20the%20osteoclastogenic%20cytokine%20IL-9%20as%20a%20novel%20immunotherapeutic%20strategy%20in%20mitigating%20inflammatory%20bone%20loss%20in%20post-menopausal%20osteoporosis%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "Recent discoveries have established the pivotal role of IL-9-secreting immune cells in a wide spectrum of inflammatory and autoimmune diseases. However, little is known about how IL-9 contributes to the etiology of inflammatory bone loss in PMO. We observed that IL-9 has a pathological impact on inflammatory bone loss in ovariectomized (Ovx) mice. Our in vivo temporal kinetics analysis revealed that estrogen deprivation enhanced the production of IL-9 from Th cells (majorly Th9 and Th17). Both our ex vivo and in vivo studies corroborated these findings in Ovx mice, as estrogen diminishes the potential of Th9 cells to produce IL-9. Mechanistically, Th9 cells in an IL-9-dependent manner enhance osteoclastogenesis and thus could establish themselves as a novel osteoclastogenic Th cell subset. Therapeutically neutralizing/blocking IL-9 improves bone health by inhibiting the differentiation and function of osteoclasts, Th9, and Th17 cells along with maintaining gut integrity in Ovx mice. Post-menopausal osteoporotic patients have increased IL-9-secreting Th9 cells, which may suggest a potential role for IL-9 in the development of osteoporosis. Collectively, our study identifies IL-9-secreting Th9 cells as a driver of bone loss with attendant modulation of gut-immune-bone axis, which implies IL-9-targeted immunotherapies as a potential strategy for the management and treatment of inflammatory bone loss observed in PMO.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "39394963",
+      "title": "A novel ER stress regulator ARL6IP5 induces reticulophagy to ameliorate the prion burden.",
+      "authors": [
+        "Kajal Kamble",
+        "Ujjwal Kumar",
+        "Harsh Aahra",
+        "Mohit Yadav",
+        "Sumnil Bhola",
+        "Sarika Gupta"
+      ],
+      "year": "2025",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2024.2410670",
+      "doi_link": "https://doi.org/10.1080/15548627.2024.2410670",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39394963",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20novel%20ER%20stress%20regulator%20ARL6IP5%20induces%20reticulophagy%20to%20ameliorate%20the%20prion%20burden%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "Prion disease is a fatal and infectious neurodegenerative disorder caused by the trans-conformation conversion of PRNP/PrPC to PRNP/PrPSc. Accumulated PRNP/PrPSc-induced ER stress causes chronic unfolded protein response (UPR) activation, which is one of the fundamental steps in prion disease progression. However, the role of various ER-resident proteins in prion-induced ER stress is elusive. This study demonstrated that ARL6IP5 is compensatory upregulated in response to chronically activated UPR in the cellular prion disease model (RML-ScN2a). Furthermore, overexpression of ARL6IP5 overcomes ER stress by lowering the expression of chronically activated UPR pathway proteins. We discovered that ARL6IP5 induces reticulophagy to reduce the PRNP/PrPSc burden by releasing ER stress. Conversely, the knockdown of ARL6IP5 leads to inefficient macroautophagic/autophagic flux and elevated PRNP/PrPSc burden. Our study also uncovered that ARL6IP5-induced reticulophagy depends on Ca2+-mediated AMPK activation and can induce 3 MA-inhibited autophagic flux. The detailed mechanistic study revealed that ARL6IP5-induced reticulophagy involves interaction with soluble reticulophagy receptor CALCOCO1 and lysosomal marker LAMP1, leading to degradation in lysosomes. Here, we delineate the role of ARL6IP5 as a novel ER stress regulator and reticulophagy inducer that can effectively reduce the misfolded PRNP/PrPSc burden. Our research opens up a new avenue of selective autophagy in prion disease and represents a potential therapeutic target.Abbreviations: ARL6IP5: ADP ribosylation factor-like GTPase 6 interacting protein 5; AMPK: adenosine 5'-monophosphate (AMP)-activated protein kinase; CALCOCO1: calcium binding and coiled-coil domain 1; CQ: chloroquine; DAPI: 4'6-diamino-2-phenylindole; ER: endoplasmic reticulum; ERPHS: reticulophagy/ER-phagy sites; KD: knockdown; KD-CON: knockdown control; LAMP1: lysosomal-associated membrane protein 1; MAP1LC3/LC3, microtubule-associated protein 1 light chain 3; MTOR: mechanistic target of rapamycin kinase; MβCD: methyl beta cyclodextrin; 3 MA: 3-methyladenine; OE: overexpression; OE-CON: empty vector control; PrDs: prion diseases; PRNP/PrPC: cellular prion protein (Kanno blood group); PRNP/PrPSc: infectious scrapie misfolded PRNP; Tm: tunicamycin; UPR: unfolded protein response; UPS: ubiquitin-proteasome system.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "39321332",
+      "title": "Nanobiocatalysis: Approach and Applications in Drug Development and Sensing.",
+      "authors": [
+        "Sarika Gupta",
+        "Meenu Kumari",
+        "Koyel Panja",
+        "Priyanka Bajaj",
+        "Kalpana Nagpal"
+      ],
+      "year": "2025",
+      "journal": "Critical reviews in therapeutic drug carrier systems",
+      "doi": "10.1615/CritRevTherDrugCarrierSyst.2024051171",
+      "doi_link": "https://doi.org/10.1615/CritRevTherDrugCarrierSyst.2024051171",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39321332",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Nanobiocatalysis%3A%20Approach%20and%20Applications%20in%20Drug%20Development%20and%20Sensing%22",
+      "citations": {
+        "crossref": 3
+      },
+      "abstract": "Enzymes play a pivotal role in the human body, but their potential is not limited to just that. Scientists have successfully modified these enzymes as nanobiocatalysts or nanozymes for industrial or commercial use, either in the food, medicine, biotech or even textile industries. These nanobiocatalysts and nanozymes offer several advantages over enzymes, like better stability, improved shelf-life, increased percentage yield, and reuse potential, which is very difficult with normal enzymes. The various techniques of NBC synthesis using immobilization techniques like adsorption, covalent binding, affinity immobilization, and entrapment methods are briefly discussed. The enzymes are either entrapped or adsorbed on the nanocarrier matrices, which can be nanofibers, nanoporous carriers, or nanocontainers as nanobiocatalysts. We also highlight the challenges the nanobiocatalyst overcomes in the industrial production of some drugs like sitagliptin, montelukast, pregabalin, and atorvastatin. Also, the inactivation of an organophosphate or opioid poisoning treating agent, SSOPOX nanohybrid, is discussed in this paper. Nanozymes are intrinsic enzyme-like compounds, and they also show wide application in themselves. Their GQD/AGNP nanohybrid shows antibacterial potential; they can also be utilized in optical sensing to detect small molecules, ions, nucleic acids, proteins, and cancer cells. In this paper, various applications of these NBCs have been discussed, and their potential applications with examples are also mentioned. Nanoenzymes can address targeted drug delivery via the controlled release of drugs to increase the efficacy of anticancer drugs that minimize damage to healthy tissue or cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "39220899",
+      "title": "Dissecting the natural phytochemical diversity of carrot roots with its colour using high performance liquid chromatography and UV-Visible spectrophotometry.",
+      "authors": [
+        "Acharya Balkrishna",
+        "Monali Joshi",
+        "Sarika Gupta",
+        "M Priya Rani",
+        "Jyotish Srivastava",
+        "Pardeep Nain",
+        "Anurag Varshney"
+      ],
+      "year": "2024",
+      "journal": "Heliyon",
+      "doi": "10.1016/j.heliyon.2024.e35918",
+      "doi_link": "https://doi.org/10.1016/j.heliyon.2024.e35918",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39220899",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Dissecting%20the%20natural%20phytochemical%20diversity%20of%20carrot%20roots%20with%20its%20colour%20using%20high%20performance%20liquid%20chromatography%20and%20UV-Visible%20spectrophotometry%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "The research provides insights into the phytoconstituents of black, orange and red carrots (Daucus carota subsp. Sativus (Hoffm.) Schübl. & G. Martens), a highly nutritious food crop widely appreciated across age groups. Recognising carrots as a repository of health-promoting compounds, our study employs UV-Visible spectrophotometric and HPLC methods to discern significant variations in bioactive components among carrot varieties. Black carrots emerge as potent contenders, displaying the highest levels of total phenolics (2660 ± 2.29 mg GAE/100 g F W.), total flavonoids (831 ± 1.74 mg QE/100 g F W.), proanthocyanins (10910 ± 1.11 mg CE/100 g F W.), and tannins (713 ± 0.84 mg/100 g F W.). Red carrots, conversely, showcase higher anthocyanin content (6870 ± 1.85 mg CyGE/100 g F W.) by UV-Vis spectrophotometry. Additionally, orange carrots exhibit heightened β-carotene levels, confirmed at 0.03 μg/mg through HPLC. HPLC analysis unveils substantial chlorogenic acid variability (1.29 μg/mg) in black carrots, accompanied by the discovery of unique compounds such as cryptochlorogenic acid (0.05 μg/mg), caffeic acid (0.01 μg/mg), ferulic acid (0.11 μg/mg), methyl caffeate (0.01 μg/mg), and quercetin (0.02 μg/mg), marking the first detection of methyl caffeate in black carrots. The analytical methodology was meticulously validated encompassing optimal parameters such as linearity, precision, limit of detection, limit of quantification, accuracy, and robustness, within the range. In conclusion, our study underscores the health benefits of black carrots due to their rich polyphenolic content and endorses orange carrots for elevated β-carotene levels. These findings contribute to a deeper understanding of the diverse phytoconstituents in carrots, aid in informed dietary choices for improved health.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "38607324",
+      "title": "Cell-Mediated Immune Response Against Mycobacterium tuberculosis and Its Potential Therapeutic Impact.",
+      "authors": [
+        "Harshika Khanna",
+        "Sarika Gupta",
+        "Yasmeen Sheikh"
+      ],
+      "year": "2024",
+      "journal": "Journal of interferon & cytokine research : the official journal of the International Society for Interferon and Cytokine Research",
+      "doi": "10.1089/jir.2024.0030",
+      "doi_link": "https://doi.org/10.1089/jir.2024.0030",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38607324",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Cell-Mediated%20Immune%20Response%20Against%20Mycobacterium%20tuberculosis%20and%20Its%20Potential%20Therapeutic%20Impact%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "Cell-mediated immune response is critical for Mycobacterium tuberculosis (M.tb) control. Understanding of pathophysiology and role played by different cell mediators is essential for vaccine development and better management of patients with M.tb. A complex array of cytokines and chemokines are involved in the immune response against M.tb; however, their relative contribution in protection remains to be further explored. The purpose of this review is to summarize the current understanding regarding the cytokine and chemokine profiles in M.tb infection in order to assist research in the field to pursue new direction in prevention and control. We have also summarized recent findings on vaccine trials that have been developed and or are under trials that are targeting these molecules.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "38602547",
+      "title": "Exploring laccase: a sustainable enzymatic solution for the paper recycling domain.",
+      "authors": [
+        "Sheetal Pandey",
+        "Sarika Gupta"
+      ],
+      "year": "2024",
+      "journal": "Archives of microbiology",
+      "doi": "10.1007/s00203-024-03927-3",
+      "doi_link": "https://doi.org/10.1007/s00203-024-03927-3",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38602547",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Exploring%20laccase%3A%20a%20sustainable%20enzymatic%20solution%20for%20the%20paper%20recycling%20domain%22",
+      "citations": {
+        "crossref": 7
+      },
+      "abstract": "The global advocacy of resource conservation and waste management emphasizes the significance of sustainable practices, particularly in sectors such as paper manufacturing and recycling. Currently, conventional chemical methods are predominant for paper production, necessitating the use of substantial amount of toxic chemicals. This chemical-intensive approach compromises the recycled fiber quality, generates hazardous effluent causing serious ecological threats which triggers regulatory complexities for the mills. To address these challenges modern research suggests adopting sustainable eco-friendly practices such as employing enzymes. This review aims to explore the applicability of 'laccase' enzyme for paper recycling, investigating its properties and contribution to improved recycling practices. By delving into the potential application of laccase integration into the papermaking process, this article sheds light on the limitations inherent in traditional methods surmounted within both research and translational landscapes. Culture and process optimization studies, supporting the technological improvements and the future prospects have been documented.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "38512073",
+      "title": "Diabetes: a review of its pathophysiology, and advanced methods of mitigation.",
+      "authors": [
+        "Sarika Gupta",
+        "Nitin Sharma",
+        "Sandeep Arora",
+        "Saurabh Verma"
+      ],
+      "year": "2024",
+      "journal": "Current medical research and opinion",
+      "doi": "10.1080/03007995.2024.2333440",
+      "doi_link": "https://doi.org/10.1080/03007995.2024.2333440",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38512073",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Diabetes%3A%20a%20review%20of%20its%20pathophysiology%2C%20and%20advanced%20methods%20of%20mitigation%22",
+      "citations": {
+        "semantic_scholar": 9
+      },
+      "abstract": "Diabetes mellitus (DM) is a long-lasting metabolic non-communicable disease often characterized by an increase in the level of glucose in the blood or hyperglycemia. Approximately, 415 million people between the ages of 20 and 79 years had DM in 2015 and this figure will rise by 200 million by 2040. In a study conducted by CARRS, it's been found that in Delhi the prevalence of diabetes is around 27% and for prediabetic cases, it is more than 46%. The disease DM can be both short-term and long-term and is often associated with one or more diseases like cardiovascular disease, liver disorder, or kidney malfunction. Early identification of diabetes may help avoid catastrophic repercussions because untreated DM can result in serious complications. Diabetes' primary symptoms are persistently high blood glucose levels, frequent urination, increased thirst, and increased hunger. Therefore, DM is classified into four major categories, namely, Type 1, Type 2, Gestational diabetes, and secondary diabetes. There are various oral and injectable formulations available in the market like insulin, biguanides, sulphonylureas, etc. for the treatment of DM. Recent attention can be given to the various nano approaches undertaken for the treatment, diagnosis, and management of diabetes mellitus. Various nanoparticles like Gold Nanoparticles, carbon nanomaterials, and metallic nanoparticles are some of the approaches mentioned in this review. Besides nanotechnology, artificial intelligence (AI) has also found its application in diabetes care. AI can be used for screening the disease, helping in decision-making, predictive population-level risk stratification, and patient self-management tools. Early detection and diagnosis of diabetes also help the patient avoid expensive treatments later in their life with the help of IoT (internet of medical things) and machine learning models. These tools will help healthcare physicians to predict the disease early. Therefore, the Nano drug delivery system along with AI tools holds a very bright future in diabetes care.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "38383683",
+      "title": "Emergence of slip-ideal-slip behavior in tip-links serve as force filters of sound in hearing.",
+      "authors": [
+        "Nisha Arora",
+        "Jagadish P Hazra",
+        "Sandip Roy",
+        "Gaurav K Bhati",
+        "Sarika Gupta",
+        "K P Yogendran",
+        "Abhishek Chaudhuri",
+        "Amin Sagar",
+        "Sabyasachi Rakshit"
+      ],
+      "year": "2024",
+      "journal": "Nature communications",
+      "doi": "10.1038/s41467-024-45423-8",
+      "doi_link": "https://doi.org/10.1038/s41467-024-45423-8",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38383683",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Emergence%20of%20slip-ideal-slip%20behavior%20in%20tip-links%20serve%20as%20force%20filters%20of%20sound%20in%20hearing%22",
+      "citations": {
+        "semantic_scholar": 4
+      },
+      "abstract": "Tip-links in the inner ear convey force from sound and trigger mechanotransduction. Here, we present evidence that tip-links (collectively as heterotetrameric complexes of cadherins) function as force filters during mechanotransduction. Our force-clamp experiments reveal that the tip-link complexes show slip-ideal-slip bond dynamics. At low forces, the lifetime of the tip-link complex drops monotonically, indicating slip-bond dynamics. The ideal bond, rare in nature, is seen in an intermediate force regime where the survival of the complex remains constant over a wide range. At large forces, tip-links follow a slip bond and dissociate entirely to cut-off force transmission. In contrast, the individual tip-links (heterodimers) display slip-catch-slip bonds to the applied forces. While with a phenotypic mutant, we showed the importance of the slip-catch-slip bonds in uninterrupted hearing, our coarse-grained Langevin dynamics simulations demonstrated that the slip-ideal-slip bonds emerge as a collective feature from the slip-catch-slip bonds of individual tip-links.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "38231424",
+      "title": "Chemical characteristics, morphology and source apportionment of PM10 over National Capital Region (NCR) of India.",
+      "authors": [
+        "Rubiya Banoo",
+        "Sarika Gupta",
+        "Ranu Gadi",
+        "Anit Dawar",
+        "Narayanasamy Vijayan",
+        "Tuhin Kumar Mandal",
+        "Sudhir Kumar Sharma"
+      ],
+      "year": "2024",
+      "journal": "Environmental monitoring and assessment",
+      "doi": "10.1007/s10661-023-12281-8",
+      "doi_link": "https://doi.org/10.1007/s10661-023-12281-8",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38231424",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Chemical%20characteristics%2C%20morphology%20and%20source%20apportionment%20of%20PM10%20over%20National%20Capital%20Region%20%28NCR%29%20of%20India%22",
+      "citations": {
+        "crossref": 9
+      },
+      "abstract": "The present study frames the physico-chemical characteristics and the source apportionment of PM10 over National Capital Region (NCR) of India using the receptor model's Positive Matrix Factorization (PMF) and Principal Momponent Mnalysis/Absolute Principal Component Score-Multilinear Regression (PCA/APCS-MLR). The annual average mass concentration of PM10 over the urban site of Faridabad, IGDTUW-Delhi and CSIR-NPL of NCR-Delhi were observed to be 195 ± 121, 275 ± 141 and 209 ± 81 µg m-3, respectively. Carbonaceous species (organic carbon (OC), elemental carbon (EC) and water-soluble organic carbon (WSOC)), elemental constituents (Al, Ti, Na, Mg, Cr, Mn, Fe, Cu, Zn, Br, Ba, Mo Pb) and water-soluble ionic components (F-, Cl-, SO42-, NO3-, NH4+, Na+, K+, Mg2+, Ca2+) of PM10 were entrenched to the receptor models to comprehend the possible sources of PM10. The PMF assorted sources over Faridabad were soil dust (SD 15%), industrial emission (IE 14%), vehicular emission (VE 19%), secondary aerosol (SA 23%) and sodium magnesium salt (SMS 17%). For IGDTUW-Delhi, the sources were SD (16%), VE (19%), SMS (18%), IE (11%), SA (27%) and VE + IE (9%). Emission sources like SD (24%), IE (8%), SMS (20%), VE + IE (12%), VE (15%) and SA + BB (21%) were extracted over CSIR-NPL, New Delhi, which are quite obvious towards the sites. PCA/APCS-MLR quantified the similar sources with varied percentage contribution. Additionally, catalogue the Conditional Bivariate Probability Function (CBPF) for directionality of the local source regions and morphology as spherical, flocculent and irregular were imaged using a Field Emission-Scanning Electron Microscope (FE-SEM).",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "38045809",
+      "title": "Polyherbal formulation PL02 alleviates pain, inflammation, and subchondral bone deterioration in an osteoarthritis rodent model.",
+      "authors": [
+        "Prabhat Upadhyay",
+        "Diya Kalra",
+        "Aishwarya Shrikant Nilakhe",
+        "Vijay Aggrawal",
+        "Sarika Gupta"
+      ],
+      "year": "2023",
+      "journal": "Frontiers in nutrition",
+      "doi": "10.3389/fnut.2023.1217051",
+      "doi_link": "https://doi.org/10.3389/fnut.2023.1217051",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38045809",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Polyherbal%20formulation%20PL02%20alleviates%20pain%2C%20inflammation%2C%20and%20subchondral%20bone%20deterioration%20in%20an%20osteoarthritis%20rodent%20model%22",
+      "citations": {
+        "semantic_scholar": 4
+      },
+      "abstract": "INTRODUCTION: Osteoarthritis (OA) is a debilitating disease with significant personal and socioeconomic burdens worldwide. METHODS: To address this, we developed a multitargeted formulation called PL02, which includes standardized extracts of Rosa canina L, Hippophae rhamnoides, and collagen peptide. We tested the pharmacological efficacy of PL02 in a rodent model of OA induced by Monosodium iodoacetate (MIA). RESULTS: Our results demonstrate that oral administration of PL02 has antioxidant effects by down-regulating NOS, reduces pain-related behavior, and mitigates inflammation by inhibiting IL-1b and TNF-α production, as well as downregulating CGRP1 and COX-II. PL02 also exhibits anti-catabolic and chondroprotective activity by significantly downregulating MMP13 and upregulating BCL2. Additionally, PL02 demonstrates chondrogenic activity by significantly upregulating SOX-9 (a master regulator of chondrogenesis), Coll-I, and aggrecan, which are major components of articular cartilage. Furthermore, PL02 prevents microarchitectural deterioration of subchondral bone. CONCLUSION: Overall, PL02 is an orally active, multi-targeted therapy that not only alleviates pain and inflammation but also effectively halts cartilage and subchondral bone deterioration. It represents a safe and promising candidate for the treatment and management of OA.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "37767948",
+      "title": "Bidirectional Effect of Triphala on Modulating Gut-Brain Axis to Improve Cognition in the Murine Model of Alzheimer's Disease.",
+      "authors": [
+        "Prabhat Upadhyay",
+        "Anurag Tyagi",
+        "Sakshi Agrawal",
+        "Anil Kumar",
+        "Sarika Gupta"
+      ],
+      "year": "2024",
+      "journal": "Molecular nutrition & food research",
+      "doi": "10.1002/mnfr.202300104",
+      "doi_link": "https://doi.org/10.1002/mnfr.202300104",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37767948",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Bidirectional%20Effect%20of%20Triphala%20on%20Modulating%20Gut-Brain%20Axis%20to%20Improve%20Cognition%20in%20the%20Murine%20Model%20of%20Alzheimer%27s%20Disease%22",
+      "citations": {
+        "crossref": 5
+      },
+      "abstract": "SCOPE: The emerging role of gut microbiota and their metabolites in the modulation of the gut-brain axis has received much attention as a new hope for the treatment of hard-to-treat chronic neurodegenerative diseases like Alzheimer's disease. The naturally occurring polyphenols can restore the gut-brain axis by modulating gut microbiota and brain neurotransmitters. The Indian traditional medicine Triphala, a rich source of polyphenols, has been used on humans based on Prakriti or disease conditions for many years. METHODS AND RESULTS: In this study, the dual mode (morning and evening) action of Triphala is used to provide scientific evidence of its superior preventive and therapeutic efficacy in C57BL/6 and 5xFAD, APP/PS1 transgenic mouse model of Alzheimer's disease. The study observes that Triphala treatment has significantly improved cognitive function, by modulating the APP pathway, reducing inflammation, and restoring the gut-brain axis by increasing the gut microbiota phyla of Bacteroides, Proteobacteria, Actinobacteria, etc., involved in maintaining the gut homeostasis. CONCLUSIONS: The study paves a new path for using dual modes of Triphala alone or in combination to treat incurable AD.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "37756635",
+      "title": "Albumin Nanoparticles Surface Decorated with a Tumor-Homing Peptide Help in Selective Killing of Triple-Negative Breast Cancer Cells.",
+      "authors": [
+        "Simanti Pal",
+        "Betsy Reshma G",
+        "Franklin Pulikkottil Mohny",
+        "Srirupa Gupta Choudhury",
+        "Arundhati Karmakar",
+        "Sarika Gupta",
+        "Munia Ganguli"
+      ],
+      "year": "2023",
+      "journal": "ACS applied materials & interfaces",
+      "doi": "10.1021/acsami.3c11561",
+      "doi_link": "https://doi.org/10.1021/acsami.3c11561",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37756635",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Albumin%20Nanoparticles%20Surface%20Decorated%20with%20a%20Tumor-Homing%20Peptide%20Help%20in%20Selective%20Killing%20of%20Triple-Negative%20Breast%20Cancer%20Cells%22",
+      "citations": {
+        "crossref": 9
+      },
+      "abstract": "In this article, we describe a method of delivery of doxorubicin using a novel tumor-homing peptide-based albumin nanoparticle system to triple-negative breast cancer cells (TNBC). The absence and reduced expression of the hormone (estrogen, progesterone) and HER2 (human epidermal growth factor 2) receptors, respectively, render TNBC patients nonsusceptible to different available targeted therapies. These peptide-modified nanoparticles could be taken up by TNBC cells more effectively than their bare counterparts. The drug-loaded peptide-modified nanoparticles achieved an optimal but crucial balance between cell killing in cancerous cells and cell survival in the noncancerous ones. This appears to be because of different routes of entry and subsequent fate of the bare and peptide-modified nanoparticles in cancerous and noncancerous cells. In a TNBC mouse model, the peptide-modified system fared better than the free drug in mounting an antitumor response while not being toxic systemically.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "37701772",
+      "title": "Overlapping imaging features between miscarriage of a low-lying gestational sac and cervical ectopic pregnancy.",
+      "authors": [
+        "Jessica Teoh",
+        "Sumathi Rajendran",
+        "Sarika Gupta"
+      ],
+      "year": "2023",
+      "journal": "Australasian journal of ultrasound in medicine",
+      "doi": "10.1002/ajum.12337",
+      "doi_link": "https://doi.org/10.1002/ajum.12337",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37701772",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Overlapping%20imaging%20features%20between%20miscarriage%20of%20a%20low-lying%20gestational%20sac%20and%20cervical%20ectopic%20pregnancy%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "Early pregnancy ultrasound must satisfy objective criteria to make a safe diagnosis of miscarriage. The differential diagnosis of low-lying gestational sac includes cervical stage of miscarriage and cervical and caesarean scar ectopic pregnancies. Misdiagnosis can lead to significant maternal morbidity. We describe a pregnancy in a 36-year-old primiparous woman where ultrasound findings of a low-lying gestation sac satisfied criteria for miscarriage; however, dilatation and curettage of pregnancy contents resulted in brisk cervical bleeding. Ultrasound at 6 weeks 6 days of gestation showed an intra-uterine pregnancy of uncertain viability. Repeat scan after 11 days confirmed miscarriage based on an absence of interval progression between scans and no embryonic heartbeat. The collapsed gestational sac (GS) was seen at the level of the internal os with decidual reaction and peri-trophoblastic blood flow. Inferior to the sac, minimally vascular trophoblastic appearing tissue was beginning to distend the upper cervical canal: the sliding sign was positive for the GS and negative for the upper cervical contents. Cervical stroma was clearly seen circumferential to the distending tissue. The patient underwent dilatation and curettage of the uterus complicated by 2000 ml haemorrhage requiring blood transfusion and medical and surgical management with intra-cavitary placement of a Foley catheter. Histopathology confirmed pregnancy tissue with the disruption of cervical epithelium but no true invasion. The patient was counselled to attend a specialist obstetric imaging facility for an early dating ultrasound in future pregnancies. The current body of literature does not describe cases of low-lying gestation sac miscarriage with high-risk features of trophoblastic extension into the cervical canal. We suggest maintaining a high index of suspicion and excluding differential diagnoses as the majority of women have no risk factors for ectopic pregnancy. These cases should be recommended for surgical management.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper21",
+      "publication_id": "37470961",
+      "title": "Pulmonary Tuberculosis in Severely Malnourished Children Admitted to Nutrition Rehabilitation Centers: A Multicenter Study.",
+      "authors": [
+        "Manjula Singh",
+        "Bhavna Dhingra",
+        "Bipra Bishnu",
+        "Dhruvendra Pandey",
+        "Praveen K Anand",
+        "Sarika Gupta",
+        "Vidyanand Ravi Das",
+        "Nitin Dhochak",
+        "S K Kabra",
+        "NRC Group"
+      ],
+      "year": "2024",
+      "journal": "Indian journal of pediatrics",
+      "doi": "10.1007/s12098-023-04723-5",
+      "doi_link": "https://doi.org/10.1007/s12098-023-04723-5",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37470961",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Pulmonary%20Tuberculosis%20in%20Severely%20Malnourished%20Children%20Admitted%20to%20Nutrition%20Rehabilitation%20Centers%3A%20A%20Multicenter%20Study%22",
+      "citations": {
+        "crossref": 2
+      },
+      "abstract": "OBJECTIVES: To identify prevalence of pulmonary tuberculosis (TB) in severely malnourished children admitted to nutritional rehabilitation centers. METHODS: A multicenter cross-sectional study involving 41 nutrition rehabilitation centres (NRCs) across India was carried out to document prevalence of pulmonary tuberculosis in acute severe malnourished children admitted in NRCs. After training of the NRC staff to follow algorithm provided by national tuberculosis elimination program, children admitted to NRCs were screened for pulmonary tuberculosis. RESULTS: A total of 4356 children were enrolled across all the sites. Gastric aspirate for Cartridge based nucleic acid amplification test (CBNAAT), tuberculin skin test (TST) and X-ray film of chest were done in more than 99% of enrolled subjects. A total of 189 children (4.3%) had pulmonary tuberculosis. Eighty-seven (1.99%) were microbiologically confirmed by positive CBNAAT. On multivariate analysis, only significant association was with history of contact with TB patient in family. CONCLUSIONS: The present results suggest that a significant proportion (>4%) of children admitted in NRCs suffer from pulmonary tuberculosis. It is feasible to improve diagnosis of tuberculosis as a whole and microbiologically confirmed TB.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper22",
+      "publication_id": "37446626",
+      "title": "Design, Synthesis, Molecular Docking Study and Biological Evaluation of Novel γ-Carboline Derivatives of Latrepirdine (Dimebon) as Potent Anticancer Agents.",
+      "authors": [
+        "Ramakrishna Voggu",
+        "Arundhati Karmakar",
+        "Venkat Swamy Puli",
+        "V Surendra Babu Damerla",
+        "Padma Mogili",
+        "P Amaladass",
+        "Sridhar Chidara",
+        "Kalyan Kumar Pasunooti",
+        "Sarika Gupta"
+      ],
+      "year": "2023",
+      "journal": "Molecules (Basel, Switzerland)",
+      "doi": "10.3390/molecules28134965",
+      "doi_link": "https://doi.org/10.3390/molecules28134965",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37446626",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Design%2C%20Synthesis%2C%20Molecular%20Docking%20Study%20and%20Biological%20Evaluation%20of%20Novel%20%CE%B3-Carboline%20Derivatives%20of%20Latrepirdine%20%28Dimebon%29%20as%20Potent%20Anticancer%20Agents%22",
+      "citations": {
+        "crossref": 7
+      },
+      "abstract": "A series of novel γ-Carboline derivatives were designed and synthesized using the Suzuki coupling reaction to identify the leads for the activity against cancer. Interestingly, these compounds were tested for their anticancer activity against the cell lines, particularly human cancer cell lines MCF7 (breast), A549 (lung), SiHa (cervix), and Colo-205 (colon). Most of the γ-Carboline derivatives showed potent inhibitory activity in four cancer cell lines, according to in vitro anticancer activity screening. Two compounds, specifically LP-14 and LP-15, showed superior activity in cancer cell lines among the γ-Carboline derivatives from LP-1 to LP-16. Additionally, the compound LP-14, LP-15 and Etoposide carried out molecular docking studies on human topoisomerase II beta in complex with DNA and Etoposide (PDB ID: 3QX3). The docking studies' results showed that the derivative LP-15 was strongly bound with the receptor amino acid residues, including Glu477 and DC8 compared with the marked drug Etoposide.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper23",
+      "publication_id": "37445677",
+      "title": "ARL6IP5 Ameliorates α-Synuclein Burden by Inducing Autophagy via Preventing Ubiquitination and Degradation of ATG12.",
+      "authors": [
+        "Ibrar Siddique",
+        "Kajal Kamble",
+        "Sakshi Gupta",
+        "Kavita Solanki",
+        "Sumnil Bhola",
+        "Nuzhat Ahsan",
+        "Sarika Gupta"
+      ],
+      "year": "2023",
+      "journal": "International journal of molecular sciences",
+      "doi": "10.3390/ijms241310499",
+      "doi_link": "https://doi.org/10.3390/ijms241310499",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37445677",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22ARL6IP5%20Ameliorates%20%CE%B1-Synuclein%20Burden%20by%20Inducing%20Autophagy%20via%20Preventing%20Ubiquitination%20and%20Degradation%20of%20ATG12%22",
+      "citations": {
+        "crossref": 11
+      },
+      "abstract": "Recent advanced studies in neurodegenerative diseases have revealed several links connecting autophagy and neurodegeneration. Autophagy is the major cellular degradation process for the removal of toxic protein aggregates responsible for neurodegenerative diseases. More than 30 autophagy-related proteins have been identified as directly participating in the autophagy process. Proteins regulating the process of autophagy are much more numerous and unknown. To address this, in our present study, we identified a novel regulator (ARL6IP5) of neuronal autophagy and showed that the level of ARL6IP5 decreases in the brain with age and in Parkinson's disease in mice and humans. Moreover, a cellular model of PD (Wild type and A53T mutant α-synuclein overexpression) has also shown decreased levels of ARL6IP5. ARL6IP5 overexpression reduces α-synuclein aggregate burden and improves cell survival in an A53T model of Parkinson's disease. Interestingly, detailed mechanistic studies revealed that ARL6IP5 is an autophagy inducer. ARL6IP5 enhances Rab1-dependent autophagosome initiation and elongation by stabilizing free ATG12. We report for the first time that α-synuclein downregulates ARL6IP5 to inhibit autophagy-dependent clearance of toxic aggregates that exacerbate neurodegeneration.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper24",
+      "publication_id": "37385519",
+      "title": "Dual mode of Triphala in the reversal of cognition through gut restoration in antibiotic mediated prolonged dysbiosis condition in 5XFAD mice.",
+      "authors": [
+        "Prabhat Upadhyay",
+        "Sarika Gupta"
+      ],
+      "year": "2023",
+      "journal": "Experimental neurology",
+      "doi": "10.1016/j.expneurol.2023.114473",
+      "doi_link": "https://doi.org/10.1016/j.expneurol.2023.114473",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37385519",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Dual%20mode%20of%20Triphala%20in%20the%20reversal%20of%20cognition%20through%20gut%20restoration%20in%20antibiotic%20mediated%20prolonged%20dysbiosis%20condition%20in%205XFAD%20mice%22",
+      "citations": {
+        "crossref": 9
+      },
+      "abstract": "The emerging role of gut-brain axis decoding recently created a new hope for investigating the biological and physiological basis of neurodegenerative disorders and other neurological problems. In this context, we used the bidirectional polyphenols-rich Triphala against the antibiotics cocktail-treated 5XFAD mice to decode the gut-brain axis. After 60 days of orally given Triphala and Antibiotics, the treated group showed significant improvement in the cognitive parameters in the behavioral study Morris water and Y maze. The Triphala treated group showed the neurogenesis, reduced level of amyloid beta in serum, and amyloid precursor protein, mRNA expression in the brain of mice. The serum level and mRNA expression of anti-inflammatory and antioxidant activity were also studied. Simultaneously, the Triphala-treated group showed improved gut transition time and increased butyrate levels in feces. The 16 s rRNA analysis of the V3-V4 region of feces DNA showed more presence of disease-modifying bacteria like Bacteriodetes and Verrucomicrobiota by the percentage of 31 and 23%. The reduction level in percentage abundance of Cyanobacteria indicated the effect of Triphala against AD. The availabilities of these bacteria, and the reversal of cognitive parameters in the AD mice, showed the promising effect of Triphala for treating neurodegenerative disorders.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper25",
+      "publication_id": "37289866",
+      "title": "Taurine deficiency as a driver of aging.",
+      "authors": [
+        "Parminder Singh",
+        "Kishore Gollapalli",
+        "Stefano Mangiola",
+        "Daniela Schranner",
+        "Mohd Aslam Yusuf",
+        "Manish Chamoli",
+        "Sting L Shi",
+        "Bruno Lopes Bastos",
+        "Tripti Nair",
+        "Annett Riermeier",
+        "Elena M Vayndorf",
+        "Judy Z Wu",
+        "Aishwarya Nilakhe",
+        "Christina Q Nguyen",
+        "Michael Muir",
+        "Michael G Kiflezghi",
+        "Anna Foulger",
+        "Alex Junker",
+        "Jack Devine",
+        "Kunal Sharan",
+        "Shankar J Chinta",
+        "Swati Rajput",
+        "Anand Rane",
+        "Philipp Baumert",
+        "Martin Schönfelder",
+        "Francescopaolo Iavarone",
+        "Giorgia di Lorenzo",
+        "Swati Kumari",
+        "Alka Gupta",
+        "Rajesh Sarkar",
+        "Costerwell Khyriem",
+        "Amanpreet S Chawla",
+        "Ankur Sharma",
+        "Nazan Sarper",
+        "Naibedya Chattopadhyay",
+        "Bichitra K Biswal",
+        "Carmine Settembre",
+        "Perumal Nagarajan",
+        "Kimara L Targoff",
+        "Martin Picard",
+        "Sarika Gupta",
+        "Vidya Velagapudi",
+        "Anthony T Papenfuss",
+        "Alaattin Kaya",
+        "Miguel Godinho Ferreira",
+        "Brian K Kennedy",
+        "Julie K Andersen",
+        "Gordon J Lithgow",
+        "Abdullah Mahmood Ali",
+        "Arnab Mukhopadhyay",
+        "Aarno Palotie",
+        "Gabi Kastenmüller",
+        "Matt Kaeberlein",
+        "Henning Wackerhage",
+        "Bhupinder Pal",
+        "Vijay K Yadav"
+      ],
+      "year": "2023",
+      "journal": "Science (New York, N.Y.)",
+      "doi": "10.1126/science.abn9257",
+      "doi_link": "https://doi.org/10.1126/science.abn9257",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37289866",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Taurine%20deficiency%20as%20a%20driver%20of%20aging%22",
+      "citations": {
+        "crossref": 247
+      },
+      "abstract": "Aging is associated with changes in circulating levels of various molecules, some of which remain undefined. We find that concentrations of circulating taurine decline with aging in mice, monkeys, and humans. A reversal of this decline through taurine supplementation increased the health span (the period of healthy living) and life span in mice and health span in monkeys. Mechanistically, taurine reduced cellular senescence, protected against telomerase deficiency, suppressed mitochondrial dysfunction, decreased DNA damage, and attenuated inflammaging. In humans, lower taurine concentrations correlated with several age-related diseases and taurine concentrations increased after acute endurance exercise. Thus, taurine deficiency may be a driver of aging because its reversal increases health span in worms, rodents, and primates and life span in worms and rodents. Clinical trials in humans seem warranted to test whether taurine deficiency might drive aging in humans.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper26",
+      "publication_id": "37264275",
+      "title": "Evidence-Based Guidelines for the Management of Allergic Bronchopulmonary Aspergillosis (ABPA) in Children and Adolescents with Asthma.",
+      "authors": [
+        "Joseph L Mathew",
+        "Ketan Kumar",
+        "Sheetal Agrawal",
+        "Sanjay Bafna",
+        "Sonia Bhatt",
+        "Pallab Chatterjee",
+        "N S Chithambaram",
+        "Rashmi Ranjan Das",
+        "Hema Gupta",
+        "Sarika Gupta",
+        "Kana Ram Jat",
+        "Pawan Kalyan",
+        "Rashmi Kapoor",
+        "Hardeep Kaur",
+        "Jasmeet Kaur",
+        "Satnam Kaur",
+        "Suhas P Kulkarni",
+        "Amber Kumar",
+        "Sanjiv Singh Rawat",
+        "Vivek Saxena",
+        "Anita Singh",
+        "Somu Sivabalan",
+        "Shetanshu Srivastava",
+        "Anshula Tayal"
+      ],
+      "year": "2023",
+      "journal": "Indian journal of pediatrics",
+      "doi": "10.1007/s12098-023-04592-y",
+      "doi_link": "https://doi.org/10.1007/s12098-023-04592-y",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37264275",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Evidence-Based%20Guidelines%20for%20the%20Management%20of%20Allergic%20Bronchopulmonary%20Aspergillosis%20%28ABPA%29%20in%20Children%20and%20Adolescents%20with%20Asthma%22",
+      "citations": {
+        "crossref": 19
+      },
+      "abstract": "BACKGROUND: Allergic bronchopulmonary aspergillosis (ABPA) frequently complicates asthma. There is urgent need to develop evidence-based guidelines for the management of ABPA in children. The Evidence Based Guideline Development Group (EBGDG) of the Indian Academy of Pediatrics (IAP) National Respiratory Chapter (NRC) addressed this need. METHODS: The EBGDG shortlisted clinical questions relevant to the management of ABPA in asthma. For each question, the EBGDG undertook a systematic, step-wise evidence search for existing guidelines, followed by systematic reviews, followed by primary research studies. The evidence was collated, critically appraised, and synthesized. The EBGDG worked through the Evidence to Decision (EtD) framework, to formulate recommendations, using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach. RESULTS: Seven clinical questions were prioritized, and the following recommendations formulated. (1) Children with poorly controlled asthma should be investigated for ABPA (conditional recommendation, moderate certainty of evidence). (2) Low dose steroid therapy regimen (0.5 mg/kg/d for the first 2 wk, followed by a progressive tapering) is preferable to higher dose regimens (conditional recommendation, very low certainty of evidence). (3) Oral steroid regimens longer than 16 wk (including tapering), should not be used (conditional recommendation, very low certainty of evidence). (4) Antifungals may or may not be added to steroid therapy as the evidence was neither in favour nor against (conditional recommendation, low certainty of evidence). (5) For clinicians using antifungal agents, the EBGDG recommends against using voriconazole instead of itraconazole (conditional recommendation, very low certainty of evidence). (6) No evidence-based recommendation could be framed for using pulse steroid therapy in preference to conventional steroid therapy. (7) Immunotherapy with biologicals including omalizumab or dupilumab is not recommended (conditional recommendation, very low certainty of evidence). CONCLUSIONS: This evidence-based guideline can be used by healthcare providers in diverse clinical settings.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper27",
+      "publication_id": "37100576",
+      "title": "Effect of time, temperature and pH on Mycobacterium tuberculosis culture positivity of gastric aspirate: An experimental study.",
+      "authors": [
+        "Rajeev Sharma",
+        "Suruchi Shukla",
+        "Urmila Singh",
+        "Sarika Gupta",
+        "Amita Jain"
+      ],
+      "year": "2023",
+      "journal": "The Indian journal of tuberculosis",
+      "doi": "10.1016/j.ijtb.2022.04.009",
+      "doi_link": "https://doi.org/10.1016/j.ijtb.2022.04.009",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37100576",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Effect%20of%20time%2C%20temperature%20and%20pH%20on%20Mycobacterium%20tuberculosis%20culture%20positivity%20of%20gastric%20aspirate%3A%20An%20experimental%20study%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "BACKGROUND: The culture of gastric aspirate (GA) has been used for bacteriological confirmation of pulmonary tuberculosis in children and patients who are unable to expectorate. Sodium bicarbonate neutralization of gastric aspirates is commonly recommended to increase culture positivity. We aim to study Mycobacterium tuberculosis (MTB) culture positivity of GA collected from confirmed case of pulmonary tuberculosis after storing it at different temperature, pH & time. METHODS: GA specimens from 865 patients of either sex predominately non-expectorating children/adults with suspected pulmonary TB were collected. Gastric lavage was performed in the morning after an overnight fasting (at least 6hrs fasting). The GA specimens were tested by CBNAAT (GeneXpert) and AFB microscopy & those who were positive on CBNAAT were further processed with MTB culture on Growth Indicator Tube (MGIT™) culture. pH neutralized and non-neutralized CBNAAT positive GA specimens were culture within 2 hours of collection and 24 hours after storage at 4 °C & room temperature. RESULTS: MTB was detected in 6.8% of collected GA specimens by CBNAAT. Culture positivity of neutralized GA specimens when processed within 2 hours of collection, was higher compared to paired non-neutralized GA specimens. Neutralized GA specimens had higher contamination rate than non-neutralized GA specimens. Storage of GA specimens at $Deg C had better culture yield than those stored at room temperature. CONCLUSION: Early neutralization of acid in Gastric aspirate (GA) is essential for better culture positivity of M. tuberculosis (MTB). If there is a delay in processing GA, it should be kept at 4 °C after neutralization; however, positivity decreases with time.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper28",
+      "publication_id": "36436012",
+      "title": "Elucidating the antifungal activity and mechanism of action of bioactive phytochemicals against fungal dermatitis isolates.",
+      "authors": [
+        "Tanya Bhayana",
+        "Sarika Gupta"
+      ],
+      "year": "2023",
+      "journal": "Archives of dermatological research..",
+      "doi": "10.1007/s00403-022-02475-4",
+      "doi_link": "https://doi.org/10.1007/s00403-022-02475-4",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36436012",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Elucidating%20the%20antifungal%20activity%20and%20mechanism%20of%20action%20of%20bioactive%20phytochemicals%20against%20fungal%20dermatitis%20isolates%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "Dermatophytosis has been the most common cause of superficial fungal infections which invade the keratinized tissues of body such as nail, hair, and skin, respectively. Although these infections are treatable and many commercial drugs are available that can be applied topically (clotrimazole, fluconazole, itraconazole, miconazole, voriconazole) on the infected areas but they have very low efficacy and has high probability of relapse. To increase the efficacy of treatment, the patient receives supplementary oral medicines for prolong duration that leads to hepatotoxicity. Previously, it has been reported that some wild medicinal plants possess antifungal capacity due to the presence of bioactive molecules. In present study, these phytochemicals (viz. tannins, saponins, alkaloids, flavonoids) derived from three test plants [Acacia nilotica (babul), Catharanthus roseus (sadabahar) and Ricinus communis (Arandi)] are used as sources of direct medicinal agents to develop an antidermatophytic drug formulation against the clinical fungal isolates associated with affected population. The mechanism of their antifungal potential of partially purified phytochemicals were analyzed using agar well diffusion method, food inhibition assessment and DNA cleavage analysis. The data revealed that the alkaloids are the most potent component possessing antifungal property that is recommended to be used to formulate topical ointment for the dermatophytic infection after competent regulatory approvals. This can be used as promising source of alternative treatment approach and as a competent substitute for chemically synthesized hepatotoxic drugs that are available in market.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper29",
+      "publication_id": "36162737",
+      "title": "AdipoRon induces AMPK activation and ameliorates Alzheimer's like pathologies and associated cognitive impairment in APP/PS1 mice.",
+      "authors": [
+        "Mayuri Khandelwal",
+        "Kapil Manglani",
+        "Prabhat Upadhyay",
+        "Mohammad Azad",
+        "Sarika Gupta"
+      ],
+      "year": "2022",
+      "journal": "Neurobiology of disease",
+      "doi": "10.1016/j.nbd.2022.105876",
+      "doi_link": "https://doi.org/10.1016/j.nbd.2022.105876",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36162737",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22AdipoRon%20induces%20AMPK%20activation%20and%20ameliorates%20Alzheimer%27s%20like%20pathologies%20and%20associated%20cognitive%20impairment%20in%20APP/PS1%20mice%22",
+      "citations": {
+        "crossref": 38
+      },
+      "abstract": "Alzheimer's disease (AD) is a progressive devastating neurodegenerative disorder characterized by extracellular amyloid beta (Aβ42) plaque formation, hyperphosphorylation of tau protein leading to intracellular neurofibrillary tangle formation. Recently discovered hallmark features responsible for AD pathogenesis are neuronal insulin resistance, dysregulation in adiponectin and AMPK signaling. The presence of adiponectin and its receptor in the brain with its unique anti-diabetic effects and association with neurodegenerative diseases has raised our interest in exploring orally active small molecule adiponectin receptor agonist, AdipoRon. To date, all the available drugs for the treatment of AD provides symptomatic relief and do not stall the progression of the disease. Indeed, it is becoming increasingly apparent to find appropriate targets. Here, we attempt to shed lights on adiponectin receptor agonist, AdipoRon and its downstream molecular targets in reducing disease pathogenesis and insulin resistance. In brain, AdipoRon induced AMPK activation, increased insulin sensitivity, reduced amyloid beta plaque deposition and improved cognitive impairment. Levels of BACE were also downregulated while LDLR, APOE and neprilysin were upregulated promoting amyloid beta clearance from brain. AdipoRon further reduced the chronic inflammatory marker, GFAP and improved synaptic markers PSD-95 and synaptophysin in APP/PS1 mice. Our in-vitro studies further confirmed the potential role of AdipoRon in improving insulin sensitivity by increasing GLUT 4 translocation, glucose uptake and insulin signaling under hyperinsulinemic condition. Our findings suggest that AdipoRon could be a promising lead in the future treatment strategies in the development of effective AD treatment.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper30",
+      "publication_id": "35957972",
+      "title": "Protective manifestation of herbonanoceuticals as antifungals: A possible drug candidate for dermatophytic infection.",
+      "authors": [
+        "Anusha Sharma",
+        "Sarika Gupta"
+      ],
+      "year": "2022",
+      "journal": "Health science reports",
+      "doi": "10.1002/hsr2.775",
+      "doi_link": "https://doi.org/10.1002/hsr2.775",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35957972",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Protective%20manifestation%20of%20herbonanoceuticals%20as%20antifungals%3A%20A%20possible%20drug%20candidate%20for%20dermatophytic%20infection%22",
+      "citations": {
+        "semantic_scholar": 11
+      },
+      "abstract": "BACKGROUND AND AIMS: Fungal dermatophytosis or Tinea is a predominance in about 20%-25% of all total world populations. Dermatophyte infections are mainly caused by fungi belonging to Trichophyton, Epidermophyton, and Microsporum genera along with some other fungi. This epidemiological distribution may change with migration, lifestyle, immunosuppressive state, drug therapy, and socioeconomic conditions. METHODS: The present review indicated the bioefficacy of herbal and herbonanoconjugate as safe management of fungal dermatophytic infection. RESULTS: It also emphasized the action mechanism as fungicidal and fungistatic with different harmful impacts indicating the need for alternative therapeutics. Simultaneously, the herbal and herbonanoconjugate approaches proved better to manage the prevalence of hepatotoxicity, nephrotoxicity, nausea, altered taste, anemia, GI upsets, hair loss, and so forth. due to conventional oral treatment approaches. CONCLUSION: Adoption of the remedial approach can be recommended after preclinical trials' approval as a safe treatment.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper31",
+      "publication_id": "35781616",
+      "title": "Pediatric DR-TB: A Neglected Epidemic.",
+      "authors": [
+        "Sarika Gupta",
+        "Ajay K Verma",
+        "Surya Kant"
+      ],
+      "year": "2022",
+      "journal": "Indian journal of pediatrics",
+      "doi": "10.1007/s12098-022-04290-1",
+      "doi_link": "https://doi.org/10.1007/s12098-022-04290-1",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35781616",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Pediatric%20DR-TB%3A%20A%20Neglected%20Epidemic%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper32",
+      "publication_id": "35759679",
+      "title": "Near-Infrared Fluorescent Probes as Imaging and Theranostic Modalities for Amyloid-Beta and Tau Aggregates in Alzheimer's Disease.",
+      "authors": [
+        "Himanshu Rai",
+        "Sarika Gupta",
+        "Saroj Kumar",
+        "Jian Yang",
+        "Sushil K Singh",
+        "Chongzhao Ran",
+        "Gyan Modi"
+      ],
+      "year": "2022",
+      "journal": "Journal of medicinal chemistry",
+      "doi": "10.1021/acs.jmedchem.1c01619",
+      "doi_link": "https://doi.org/10.1021/acs.jmedchem.1c01619",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35759679",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Near-Infrared%20Fluorescent%20Probes%20as%20Imaging%20and%20Theranostic%20Modalities%20for%20Amyloid-Beta%20and%20Tau%20Aggregates%20in%20Alzheimer%27s%20Disease%22",
+      "citations": {
+        "crossref": 55
+      },
+      "abstract": "A person suspected of having Alzheimer's disease (AD) is clinically diagnosed for the presence of principal biomarkers, especially misfolded amyloid-beta (Aβ) and tau proteins in the brain regions. Existing radiotracer diagnostic tools, such as PET imaging, are expensive and have limited availability for primary patient screening and pre-clinical animal studies. To change the status quo, small-molecular near-infrared (NIR) probes have been rapidly developed, which may serve as an inexpensive, handy imaging tool to comprehend the dynamics of pathogenic progression in AD and assess therapeutic efficacy in vivo. This Perspective summarizes the biochemistry of Aβ and tau proteins and then focuses on structurally diverse NIR probes with coverages of their spectroscopic properties, binding affinity toward Aβ and tau species, and theranostic effectiveness. With the summarized information and perspective discussions, we hope that this paper may serve as a guiding tool for designing novel in vivo imaging fluoroprobes with theranostic capabilities in the future.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper33",
+      "publication_id": "35726816",
+      "title": "Melanocyte Adhesion and Apoptosis in Vitiligo: Linking Puzzle Blocks.",
+      "authors": [
+        "Niharika Srivastava",
+        "Sarika Gupta",
+        "Davinder Parsad"
+      ],
+      "year": "2023",
+      "journal": "Current molecular medicine",
+      "doi": "10.2174/1566524022666220621125552",
+      "doi_link": "https://doi.org/10.2174/1566524022666220621125552",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35726816",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Melanocyte%20Adhesion%20and%20Apoptosis%20in%20Vitiligo%3A%20Linking%20Puzzle%20Blocks%22",
+      "citations": {
+        "crossref": 5
+      },
+      "abstract": "Vitiligo is the utmost common depigmenting condition consequential from melanocyte loss from the basal layer of the epidermis. Vitiligo disease mostly affects dark-skinned races and makes them more sensitive to UV radiation. It is also linked with some autoimmune diseases and various psychosocial difficulties. Melanocyte loss leads to depigmentation in vitiligo, is a major concern over decades, and even affects an individual's day-to-day life severely. All the theories, including autoimmune, autocytotoxic, and neural, collectively decipher either prime impact on the melanogenesis inhibition or deficient adhesion inspired melanocytes disappearance. Previously it has been described that melanocyte loss in vitiligo patients is caused by defective adhesion. Melanocyte death by apoptosis mainly occurs due to melanocyte detachment or migration from the basal layer and further followed by transepidermal migration. Various cell surface molecules, i.e., cell adhesion molecules (CAMs) in affiliation with neighbouring cells and extracellular matrix (ECM), encompass a typical cell adhesion process. All these ECM molecules along with transcription factors, help in the survival and maintenance of pigmentary cells/melanocytes. Therefore, in this issue, we have tried to compile the literature available on melanocyte detachment/apoptosis in ECM due to the alteration in adhesion molecules and matrix metalloproteinases (MMPs) driven by known/unknown transcription factors.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper34",
+      "publication_id": "35520140",
+      "title": "Role of processing parameters in CVD grown crystalline monolayer MoSe2.",
+      "authors": [
+        "Girija Shankar Papanai",
+        "Krishna Rani Sahoo",
+        "Betsy Reshma G",
+        "Sarika Gupta",
+        "Bipin Kumar Gupta"
+      ],
+      "year": "2022",
+      "journal": "RSC advances",
+      "doi": "10.1039/d2ra00387b",
+      "doi_link": "https://doi.org/10.1039/d2ra00387b",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35520140",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Role%20of%20processing%20parameters%20in%20CVD%20grown%20crystalline%20monolayer%20MoSe2%22",
+      "citations": {
+        "semantic_scholar": 4
+      },
+      "abstract": "The quality of as-synthesized monolayers plays a significant role in atomically thin semiconducting transition metal dichalcogenides (TMDCs) to determine the electronic and optical properties. For designing optoelectronic devices, exploring the effect of processing parameters on optical properties is a prerequisite. In this view, we present the influence of processing parameters on the lattice and quasiparticle dynamics of monolayer MoSe2. The lab-built chemical vapour deposition (CVD) setup is used to synthesize monolayer MoSe2 flakes with varying shapes, including sharp triangle (ST), truncated triangle (TT), hexagon, and rough edge circle (REC). In particular, the features of as-synthesized monolayer MoSe2 flakes are examined using Raman and photoluminescence (PL) spectroscopy. Raman spectra reveal that the frequency difference between the A1g and E1 2g peaks is >45 cm-1 in all the monolayer samples. PL spectroscopy also shows that the synthesized MoSe2 flakes are monolayer in nature with a direct band gap in the range of 1.50-1.58 eV. Furthermore, the variation in the direct band gap is analyzed using the spectral weight of quasiparticles in PL emission, where the intensity ratio {I(A0)/I(A-)} and trion binding energy are found to be ∼1.1-5.0 and ∼23.1-47.5 meV in different monolayer MoSe2 samples. Hence, these observations manifest that the processing parameters make a substantial contribution in tuning the vibrational and excitonic properties.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper35",
+      "publication_id": "35435726",
+      "title": "Functional Characterization of Non-Ankyrin Repeat Domains of Orientia tsutsugamushi Ank Effectors Reveals Their Importance for Molecular Pathogenesis.",
+      "authors": [
+        "Sarika Gupta",
+        "Jason R Hunt",
+        "Haley E Adcox",
+        "Shelby E Andersen",
+        "Jacob J Gumpf",
+        "Ryan S Green",
+        "Andrea R Beyer",
+        "Sean M Evans",
+        "Lauren VieBrock",
+        "Curtis B Read",
+        "Mary M Weber",
+        "Jason A Carlyon"
+      ],
+      "year": "2022",
+      "journal": "Infection and immunity",
+      "doi": "10.1128/iai.00628-21",
+      "doi_link": "https://doi.org/10.1128/iai.00628-21",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35435726",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Functional%20Characterization%20of%20Non-Ankyrin%20Repeat%20Domains%20of%20Orientia%20tsutsugamushi%20Ank%20Effectors%20Reveals%20Their%20Importance%20for%20Molecular%20Pathogenesis%22",
+      "citations": {
+        "crossref": 9
+      },
+      "abstract": "Orientia tsutsugamushi is a genetically intractable obligate intracellular bacterium, causes scrub typhus, and has one of the largest known armamentariums of ankyrin repeat-containing effectors (Anks). Most have a C-terminal F-box presumed to interact with the SCF ubiquitin ligase complex primarily based on their ability to bind overexpressed Skp1. Whether all F-box-containing Anks bind endogenous SCF components and the F-box residues essential for such interactions has gone unexplored. Many O. tsutsugamushi Ank F-boxes occur as part of a PRANC (pox protein repeats of ankyrin-C-terminal) domain. Roles of the non-F-box portion of the PRANC and intervening sequence region (ISR) that links the ankyrin repeat and F-box/PRANC domains are unknown. The functional relevance of these effectors' non-ankyrin repeat domains was investigated. The F-box was necessary for Flag-tagged versions of most F-box-containing Anks to precipitate endogenous Skp1, Cul1, and/or Rbx1, while the ISR and PRANC were dispensable. Ank toxicity in yeast was predominantly F-box dependent. Interrogations of Ank1, Ank5, and Ank6 established that L1, P2, E4, I9, and D17 of the F-box consensus are key for binding native SCF components and for Ank1 and Ank6 to inhibit NF-κB. The ISR is also essential for Ank1 and Ank6 to impair NF-κB. Ectopically expressed Ank1 and Ank6 lacking the ISR or having a mutagenized F-box incapable of binding SCF components performed as dominant-negative inhibitors to block O. tsutsugamushi NF-κB modulation. This study advances knowledge of O. tsutsugamushi Ank functional domains and offers an approach for validating their roles in infection.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper36",
+      "publication_id": "35435350",
+      "title": "Assessment of prevailing practices for identification of tuberculosis in children admitted in nutritional rehabilitation centres: A multicentre study.",
+      "authors": [
+        "Manjula Singh",
+        "Bhavna Dhingra",
+        "Bipra Bishnu",
+        "Dhruvendra Pandey",
+        "Praveen K Anand",
+        "Sarika Gupta",
+        "Vidyanand Ravi Das",
+        "Parul Kodan",
+        "Sushil Kumar Kabra"
+      ],
+      "year": "2021",
+      "journal": "The Indian journal of medical research",
+      "doi": "10.4103/ijmr.IJMR_2555_20",
+      "doi_link": "https://doi.org/10.4103/ijmr.IJMR_2555_20",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35435350",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Assessment%20of%20prevailing%20practices%20for%20identification%20of%20tuberculosis%20in%20children%20admitted%20in%20nutritional%20rehabilitation%20centres%3A%20A%20multicentre%20study%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "BACKGROUND & OBJECTIVES: To eliminate tuberculosis (TB), the National TB Elimination Programme (NTEP) has given an algorithm for diagnosis and treatment of TB in children. This study was carried out to assess the prevailing practices to identify TB in severely malnourished children admitted to various nutrition rehabilitation centres (NRCs). METHODS: A retrospective chart review of 41 NRCs across five States having a maximum number of NRCs was carried out. Details of children admitted to the NRCs and the investigations carried out in the form of obtaining X-ray film, tuberculin skin test (TST) and gastric aspirate for cartridge-based nucleic acid amplification test (CBNAAT) for diagnosis of TB over three months were collected. RESULTS: A total of 2121 children with severe acute malnourished (SAM) across 41 NRCs (Bhopal, Jodhpur, Patna, Kolkata, Lucknow and Ratlam) were evaluated. X-ray of the chest was done in 473 (22%), TST was done in 135 (6%) and gastric aspirate was collected in 56 (3%) children. CBNAAT was done in only 56 SAM children. Ten children among those screened were confirmed to have pulmonary TB and were linked to treatment as per the National TB guidelines. INTERPRETATION & CONCLUSIONS: Although NTEP suggests universal screening of all malnourished children admitted in the NRCs, but the prevailing practices indicate that the NRCs are grossly under-utilizing molecular diagnostic tests for diagnosis of TB. There is a gap between prevailing practices and suggested guidelines for the identification of TB in children admitted in the NRCs.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper37",
+      "publication_id": "35167010",
+      "title": "Guillain-Barré Syndrome with Normal Nerve Conduction Study Associated with COVID-19 Infection in a Child.",
+      "authors": [
+        "Tooba Qamar",
+        "Sunil Kumar",
+        "Sarika Gupta",
+        "Shally Awasthi"
+      ],
+      "year": "2022",
+      "journal": "Indian journal of pediatrics",
+      "doi": "10.1007/s12098-022-04097-0",
+      "doi_link": "https://doi.org/10.1007/s12098-022-04097-0",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35167010",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Guillain-Barr%C3%A9%20Syndrome%20with%20Normal%20Nerve%20Conduction%20Study%20Associated%20with%20COVID-19%20Infection%20in%20a%20Child%22",
+      "citations": {
+        "semantic_scholar": 5
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper38",
+      "publication_id": "34760731",
+      "title": "Geo-Mapping of Early Childhood Caries Risk: A Community Oriented Preventive Oral Health Promotional Approach.",
+      "authors": [
+        "Pragya Pandey",
+        "Manish K Singh",
+        "Diksha Singh",
+        "Sarika Gupta"
+      ],
+      "year": "2021",
+      "journal": "Journal of family medicine and primary care",
+      "doi": "10.4103/jfmpc.jfmpc_358_21",
+      "doi_link": "https://doi.org/10.4103/jfmpc.jfmpc_358_21",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34760731",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Geo-Mapping%20of%20Early%20Childhood%20Caries%20Risk%3A%20A%20Community%20Oriented%20Preventive%20Oral%20Health%20Promotional%20Approach%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "CONTEXT: Given the uneven distribution of dental caries, there is an exigent need for a database of dental caries and its spatial distribution for better planning and efficient delivery of health promotional and preventive programs. Geo-mapping is a helpful tool for policy makers/administrators for efficient allocation of limited resources. AIMS: To geo-map spatial distribution of caries risk in preschoolers of Lucknow and to identify associated predisposing factors. SETTINGS AND DESIGN: A cross-sectional study was done among 1000 preschool children (3-5 years of age) attending pediatrics, outpatient department at a medical college in Lucknow, Uttar Pradesh. METHODS AND MATERIAL: Children were enrolled using the systematic random sampling. Each child was geo-coded with respect to his/her residence, clinically examined for dental caries and given a Decayed Missing Filled Tooth (DMFT) index score. A pre-tested questionnaire was used to collect socio-demographic data. Caries prevalence was geo-mapped using color codes. STATISTICAL ANALYSIS USED: Median DMFT scores were compared using Mann-Whitney and Kruskal-Wallis test. QQ plot/Shapiro-Wilk's test was used to check the normality of data. RESULTS: Prevalence of caries was found to be 76%. 10% children had DMFT score of 4 and more. A significant difference in distribution of DMFT score was observed for gender, income levels and between wards. Wards closer to the center of Lucknow district had a higher prevalence of caries. CONCLUSIONS: Geo-mapping of caries prevalence gives a quick visual glance of specific areas vulnerable to caries and help deliver specific tailor-made services.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper39",
+      "publication_id": "34619542",
+      "title": "Role of neuroimaging in children with first unprovoked seizure: A prospective observational study.",
+      "authors": [
+        "Manisha Verma",
+        "Chandrakanta Kumar",
+        "Areesha Alam",
+        "Rashmi Kumar",
+        "Sciddhartha Koonwar",
+        "Sarika Gupta",
+        "Anit Parihar"
+      ],
+      "year": "2021",
+      "journal": "Epilepsy & behavior : E&B",
+      "doi": "10.1016/j.yebeh.2021.108317",
+      "doi_link": "https://doi.org/10.1016/j.yebeh.2021.108317",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34619542",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Role%20of%20neuroimaging%20in%20children%20with%20first%20unprovoked%20seizure%3A%20A%20prospective%20observational%20study%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "OBJECTIVE: To evaluate the incidence and type of neuroimaging abnormalities in first unprovoked seizure (FUS) in children. To investigate the association of neuroimaging abnormalities with clinical variables. METHODS: A prospective observational study enrolled children aged 6 months-14 years with FUS over one year at a tertiary-care teaching hospital, Northern India and subjected them to neuroimaging. Factors associated with abnormal neuroimaging were assessed using Chi square/Fischer Exact test. RESULTS: Out of 115 cases, 40 (34.8%) had abnormal neuroimaging. Frequent findings were inflammatory granuloma (70%) including Neurocysticercosis (NCC) (40%), ill-defined granuloma, calcified nodule and tuberculoma followed by white matter signal alterations. Inflammatory granuloma was significantly associated with age >2 years and focal seizures. Calcified nodule was more common in children >10 years. Other neuro-abnormalities like cerebral atrophy, gliosis, infarcts, and white matter changes were significantly prevalent with generalized seizures, perinatal asphyxia, and developmental delay. CONCLUSION: High prevalence of abnormalities in FUS, especially focal seizures, due to NCC warrants neuroimaging in all children with FUS in India.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper40",
+      "publication_id": "34481338",
+      "title": "Further SAR studies on natural template based neuroprotective molecules for the treatment of Alzheimer's disease.",
+      "authors": [
+        "Yash Pal Singh",
+        "Gauri Shankar",
+        "Shagufta Jahan",
+        "Gourav Singh",
+        "Navneet Kumar",
+        "Atanu Barik",
+        "Prabhat Upadhyay",
+        "Lovejit Singh",
+        "Kajal Kamble",
+        "Gireesh Kumar Singh",
+        "Sanjay Tiwari",
+        "Prabha Garg",
+        "Sarika Gupta",
+        "Gyan Modi"
+      ],
+      "year": "2021",
+      "journal": "Bioorganic & medicinal chemistry",
+      "doi": "10.1016/j.bmc.2021.116385",
+      "doi_link": "https://doi.org/10.1016/j.bmc.2021.116385",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34481338",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Further%20SAR%20studies%20on%20natural%20template%20based%20neuroprotective%20molecules%20for%20the%20treatment%20of%20Alzheimer%27s%20disease%22",
+      "citations": {
+        "crossref": 28
+      },
+      "abstract": "In our earlier paper, we described ferulic acid (FA) template based novel series of multifunctional cholinesterase (ChE) inhibitors for the management of AD. This report has further extended the structure-activity relationship (SAR) studies of this series of molecules in a calibrated manner to improve upon the ChEs inhibition and antioxidant property to identify the novel potent multifunctional molecules. To investigate the effect of replacement of phenylpiperazine ring with benzylpiperazine, increase in the linker length between FA and substituted phenyl ring, and replacement of indole moiety with tryptamine on this molecular template, three series of novel molecules were developed. All synthesized compounds were tested for their acetyl and butyryl cholinestrases (AChE and BChE) inhibitory properties. Enzyme inhibition and PAS binding studies identified compound 13b as a lead molecule with potent inhibitor property towards AChE/BChE (AChE IC50 = 0.96 ± 0.14 µM, BChE IC50 = 1.23 ± 0.23 µM) compared to earlier identified lead molecule EJMC-G (AChE IC50 = 5.74 ± 0.13 μM, BChE IC50 = 14.05 ± 0.10 μM, respectively). Molecular docking and dynamics studies revealed that 13b fits well into the active sites of AChE and BChE, forming stable and strong interactions with key residues Trp86, Ser125, Glu202, Trp 286, Phe295, Tyr 337 in AChE, and with Trp 82, Gly115, Tyr128, and Ser287 in BChE. The compound, 13b was found to be three times more potent antioxidant in a DPPH assay (IC50 = 20.25 ± 0.26 µM) over the earlier identified EJMC-B (IC50 = 61.98 ± 0.30 µM) and it also was able to chelate iron. Co-treatment of 13b with H2O2, significantly attenuated and reversed H2O2-induced toxicity in the SH-SY5Y cells. The parallel artificial membrane permeability assay-blood brain barrier (PAMPA-BBB) revealed that 13b could cross BBB efficiently. Finally, the in-vivo efficacy of 13b at dose of 10 mg/kg in scopolamine AD model has been demonstrated. The present study strongly suggests that the naturally inspired multifunctional molecule 13b may behave as a potential novel therapeutic agent for AD management.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 40,
+    "publications_by_year": {
+      "2025": 9,
+      "2024": 9,
+      "2023": 11,
+      "2022": 7,
+      "2021": 4
+    },
+    "top_journals": [
+      "Indian journal of pediatrics",
+      "Experimental neurology",
+      "Infection and immunity",
+      "Journal of global infectious diseases",
+      "Gut microbes"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 212,
+      "frequent_collaborators": [
+        "Sarika Gupta",
+        "Arundhati Karmakar",
+        "Dhruvendra Pandey",
+        "Sakshi Gupta",
+        "Chaman Saini",
+        "Pradyumna K Mishra",
+        "Bhavuk Garg",
+        "Vikrant Manhas"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "37289866",
+        "title": "Taurine deficiency as a driver of aging.",
+        "citations": 247,
+        "year": "2023"
+      },
+      {
+        "publication_id": "35759679",
+        "title": "Near-Infrared Fluorescent Probes as Imaging and Theranostic Modalities for Amyloid-Beta and Tau Aggregates in Alzheimer's Disease.",
+        "citations": 55,
+        "year": "2022"
+      },
+      {
+        "publication_id": "36162737",
+        "title": "AdipoRon induces AMPK activation and ameliorates Alzheimer's like pathologies and associated cognitive impairment in APP/PS1 mice.",
+        "citations": 38,
+        "year": "2022"
+      }
+    ]
+  }
+}

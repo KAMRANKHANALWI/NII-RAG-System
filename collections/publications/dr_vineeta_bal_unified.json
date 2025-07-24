@@ -1,0 +1,1790 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Vineeta Bal",
+    "email": "vineeta@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/former-faculty/dr-vineeta-bal",
+    "research_domain": "Former",
+    "faculty_status": "former",
+    "search_date": "2025-07-02T00:00:00.000000",
+    "total_publications": 59,
+    "last_updated": "2025-07-02",
+    "description": "This document contains a complete list of publications by Dr. Vineeta Bal, former faculty in Former at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "38482152",
+      "title": "Immunogenicity of SARS-CoV-2 vaccines BBV152 (COVAXIN®) and ChAdOx1 nCoV-19 (COVISHIELD™) in seronegative and seropositive individuals in India: a multicentre, nonrandomised observational study.",
+      "authors": [
+        "Mangaiarkarasi S Asokan",
+        "Roshni Florina Joan",
+        "Sudhir Babji",
+        "Girish Dayma",
+        "Prajitha Nadukkandy",
+        "Vinutha Subrahmanyam",
+        "Archana Pandey",
+        "Girish Malagi",
+        "Pooja Arya",
+        "Vibhuti Mahajan",
+        "Jayateerth Bhavikatti",
+        "Ketakee Pawar",
+        "Aishwarya Thorat",
+        "Priyanki Shah",
+        "Ramakrishna B Goud",
+        "Bishnudeo Roy",
+        "Shon Rajukutty",
+        "Sushil Immanuel",
+        "Dhiraj Agarwal",
+        "Sankhanil Saha",
+        "Akshatha Shivaraj",
+        "Patricia Panikulam",
+        "Rajeshwari Shome",
+        "Shah-E-Jahan Gulzar",
+        "Anusmrithi U Sharma",
+        "Ajinkya Naik",
+        "Shruti Talashi",
+        "Madhuri Belekar",
+        "Ritu Yadav",
+        "Poornima Khude",
+        "Mamatha V",
+        "Sudarshan Shivalingaiah",
+        "Urmila Deshmukh",
+        "Chinmayee Bhise",
+        "Manjiri Joshi",
+        "Leeberk Raja Inbaraj",
+        "Sindhulina Chandrasingh",
+        "Aurnab Ghose",
+        "Colin Jamora",
+        "Anandi S Karumbati",
+        "Varadharajan Sundaramurthy",
+        "Avita Johnson",
+        "Naveen Ramesh",
+        "Nirutha Chetan",
+        "Chaitra Parthiban",
+        "Asma Ahmed",
+        "Srabanti Rakshit",
+        "Vasista Adiga",
+        "George D'souza",
+        "Vinay Rale",
+        "Carolin Elizabeth George",
+        "Jacob John",
+        "Anand Kawade",
+        "Akanksha Chaturvedi",
+        "Anu Raghunathan",
+        "Mary Dias",
+        "Anand Bhosale",
+        "Padinjat Raghu",
+        "L S Shashidhara",
+        "Annapurna Vyakarnam",
+        "Vineeta Bal",
+        "Gagandeep Kang",
+        "Satyajit Mayor"
+      ],
+      "year": "2024",
+      "journal": "The Lancet regional health. Southeast Asia",
+      "doi": "10.1016/j.lansea.2024.100361",
+      "doi_link": "https://doi.org/10.1016/j.lansea.2024.100361",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38482152",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Immunogenicity%20of%20SARS-CoV-2%20vaccines%20BBV152%20%28COVAXIN%C2%AE%29%20and%20ChAdOx1%20nCoV-19%20%28COVISHIELD%E2%84%A2%29%20in%20seronegative%20and%20seropositive%20individuals%20in%20India%3A%20a%20multicentre%2C%20nonrandomised%20observational%20study%22",
+      "citations": {
+        "crossref": 5
+      },
+      "abstract": "BACKGROUND: There are limited global data on head-to-head comparisons of vaccine platforms assessing both humoral and cellular immune responses, stratified by pre-vaccination serostatus. The COVID-19 vaccination drive for the Indian population in the age group 18-45 years began in April 2021 when seropositivity rates in the general population were rising due to the delta wave of COVID-19 pandemic during April-May 2021. METHODS: Between June 30, 2021, and Jan 28, 2022, we enrolled 691 participants in the age group 18-45 years across four clinical sites in India. In this non-randomised and laboratory blinded study, participants received either two doses of Covaxin® (4 weeks apart) or two doses of Covishield™ (12 weeks apart) as per the national vaccination policy. The primary outcome was the seroconversion rate and the geometric mean titre (GMT) of antibodies against the SARS-CoV-2 spike and nucleocapsid proteins post two doses. The secondary outcome was the frequency of cellular immune responses pre- and post-vaccination. FINDINGS: When compared to pre-vaccination baseline, both vaccines elicited statistically significant seroconversion and binding antibody levels in both seronegative and seropositive individuals. In the per-protocol cohort, Covishield™ elicited higher antibody responses than Covaxin® as measured by seroconversion rate (98.3% vs 74.4%, p < 0.0001 in seronegative individuals; 91.7% vs 66.9%, p < 0.0001 in seropositive individuals) as well as by anti-spike antibody levels against the ancestral strain (GMT 1272.1 vs 75.4 binding antibody units/ml [BAU/ml], p < 0.0001 in seronegative individuals; 2089.07 vs 585.7 BAU/ml, p < 0.0001 in seropositive individuals). As participants at all clinical sites were not recruited at the same time, site-specific immunogenicity was impacted by the timing of vaccination relative to the delta and omicron waves. Surrogate neutralising antibody responses against variants-of-concern including delta and omicron was higher in Covishield™ recipients than in Covaxin® recipients; and in seropositive than in seronegative individuals after both vaccination and asymptomatic infection (omicron variant). T cell responses are reported from only one of the four site cohorts where the vaccination schedule preceded the omicron wave. In seronegative individuals, Covishield™ elicited both CD4+ and CD8+ spike-specific cytokine-producing T cells whereas Covaxin® elicited mainly CD4+ spike-specific T cells. Neither vaccine showed significant post-vaccination expansion of spike-specific T cells in seropositive individuals. INTERPRETATION: Covishield™ elicited immune responses of higher magnitude and breadth than Covaxin® in both seronegative individuals and seropositive individuals, across cohorts representing the pre-vaccination immune history of most of the vaccinated Indian population. FUNDING: Corporate social responsibility (CSR) funding from Hindustan Unilever Limited (HUL) and Unilever India Pvt. Ltd. (UIPL).",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "37288325",
+      "title": "IgA Determines Bacterial Composition in the Gut.",
+      "authors": [
+        "Suman Gupta",
+        "Sneh Lata Gupta",
+        "Aashima Singh",
+        "Neelam Oswal",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Anna George",
+        "Srijani Basu"
+      ],
+      "year": "2023",
+      "journal": "Crohn's & colitis 360",
+      "doi": "10.1093/crocol/otad030",
+      "doi_link": "https://doi.org/10.1093/crocol/otad030",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37288325",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22IgA%20Determines%20Bacterial%20Composition%20in%20the%20Gut%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "BACKGROUND: Classically, IgA in the gut prevents the invasion of microorganisms to systemic organs through the process of neutralization and immune exclusion. Interestingly, recent reports suggest that IgA might help in biofilm formation and promote bacterial growth inside the intestine. METHODS: In this study, we used flow cytometry, ELISA, and chemical models of colitis to test whether the quality and quantity of IgA can select for bacterial persistence in the gut. RESULTS: We found that members of Proteobacteria, such as γ-Proteobacteria and SFB, are preferentially coated by IgA in WT mice. In the partial absence of either T-dependent or -independent IgA responses, there are no significant differences in the frequency of bacteria coated with IgA in mice. However, Rag-/- mice that lack all antibodies had a severe reduction in Proteobacteria and were resistant to DSS-induced colitis, suggesting that secretory IgA might be essential for differential retention of these taxa in the mouse gut. Rag-/- littermates in the F2 generation generated from (B6 × Rag-/-) F1 mice acquired the underrepresented bacteria taxa such as γ-Proteobacteria through vertical transmission of flora. They died soon after weaning, possibly due to the acquired flora. Additionally, continued exposure of Rag-/- mice to B6 flora by cohousing mice led to the acquisition of γ-Proteobacteria and mortality. CONCLUSIONS: Together, our results indicate that host survival in the complete absence of an IgA response necessitates the exclusion of specific bacterial taxa from the gut microbiome.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "36555660",
+      "title": "Differential Regulation of Two Arms of mTORC1 Pathway Fine-Tunes Global Protein Synthesis in Resting B Lymphocytes.",
+      "authors": [
+        "Gagan Dev",
+        "Amanpreet Singh Chawla",
+        "Suman Gupta",
+        "Vineeta Bal",
+        "Anna George",
+        "Satyajit Rath",
+        "G Aneeshkumar Arimbasseri"
+      ],
+      "year": "2022",
+      "journal": "International journal of molecular sciences",
+      "doi": "10.3390/ijms232416017",
+      "doi_link": "https://doi.org/10.3390/ijms232416017",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36555660",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Differential%20Regulation%20of%20Two%20Arms%20of%20mTORC1%20Pathway%20Fine-Tunes%20Global%20Protein%20Synthesis%20in%20Resting%20B%20Lymphocytes%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "Protein synthesis is tightly regulated by both gene-specific and global mechanisms to match the metabolic and proliferative demands of the cell. While the regulation of global protein synthesis in response to mitogen or stress signals is relatively well understood in multiple experimental systems, how different cell types fine-tune their basal protein synthesis rate is not known. In a previous study, we showed that resting B and T lymphocytes exhibit dramatic differences in their metabolic profile, with implications for their post-activation function. Here, we show that resting B cells, despite being quiescent, exhibit increased protein synthesis in vivo as well as ex vivo. The increased protein synthesis in B cells is driven by mTORC1, which exhibits an intermediate level of activation in these cells when compared with resting T cells and activated B cells. A comparative analysis of the transcriptome and translatome of these cells indicates that the genes encoding the MHC Class II molecules and their chaperone CD74 are highly translated in B cells. These data suggest that the translatome of B cells shows enrichment for genes associated with antigen processing and presentation. Even though the B cells exhibit higher mTORC1 levels, they prevent the translational activation of TOP mRNAs, which are mostly constituted by ribosomal proteins and other translation factors, by upregulating 4EBP1 levels. This mechanism may keep the protein synthesis machinery under check while enabling higher levels of translation in B cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "33576153",
+      "title": "Transient systemic inflammation in adult male mice results in underweight progeny.",
+      "authors": [
+        "Sushama Rokade",
+        "Manoj Upadhya",
+        "Dattatray S Bhat",
+        "Nishikant Subhedar",
+        "Chittaranjan S Yajnik",
+        "Aurnab Ghose",
+        "Satyajit Rath",
+        "Vineeta Bal"
+      ],
+      "year": "2021",
+      "journal": "American journal of reproductive immunology (New York, N.Y. : 1989)",
+      "doi": "10.1111/aji.13401",
+      "doi_link": "https://doi.org/10.1111/aji.13401",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33576153",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Transient%20systemic%20inflammation%20in%20adult%20male%20mice%20results%20in%20underweight%20progeny%22",
+      "citations": {
+        "crossref": 14
+      },
+      "abstract": "PROBLEM: While the testes represent an immune-privileged organ, there is evidence that systemic inflammation is accompanied by local inflammatory responses. We therefore examined whether transient systemic inflammation caused any inflammatory and functional consequences in murine testes. METHOD OF STUDY: Using a single systemic administration of Toll-like receptor (TLR) agonists [lipopolysaccharide (LPS) or peptidoglycan (PG) or polyinosinic-polycytidylic acid (polyIC)] in young adult male mice, we assessed testicular immune-inflammatory landscape and reproductive functionality. RESULTS: Our findings demonstrated a significant induction of testicular TNF-α, IL-1β and IL-6 transcripts within 24 h of TLR agonist injection. By day 6, these cytokine levels returned to baseline. While there was no change in caudal sperm counts at early time points, eight weeks later, twofold decrease in sperm count and reduced testicular testosterone levels were evident. When these mice were subjected to mating studies, no differences in mating efficiencies or litter sizes were observed compared with controls. Nonetheless, the neonatal weights of progeny from LPS/PG/polyIC-treated sires were significantly lower than controls. Postnatal weight gain up to three weeks was also slower in the progeny of LPS/polyIC-treated sires. Placental weights at 17.5 days post-coitum were significantly lower in females mated to LPS- and polyIC-treated males. Given this likelihood of an epigenetic effect, we found lower testicular levels of histone methyltransferase enzyme, mixed-lineage leukaemia-1, in mice given LPS/PG/polyIC 8 weeks earlier. CONCLUSION: Exposure to transient systemic inflammation leads to transient local inflammation in the testes, with persistent sperm-mediated consequences for foetal development.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "32839313",
+      "title": "Febrile temperature change modulates CD4 T cell differentiation via a TRPV channel-regulated Notch-dependent pathway.",
+      "authors": [
+        "Danish Umar",
+        "Arundhoti Das",
+        "Suman Gupta",
+        "Somdeb Chattopadhyay",
+        "Debayan Sarkar",
+        "Gauri Mirji",
+        "Jeet Kalia",
+        "Gopalakrishnan Aneeshkumar Arimbasseri",
+        "Jeannine Marie Durdik",
+        "Satyajit Rath",
+        "Anna George",
+        "Vineeta Bal"
+      ],
+      "year": "2020",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.1922683117",
+      "doi_link": "https://doi.org/10.1073/pnas.1922683117",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32839313",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Febrile%20temperature%20change%20modulates%20CD4%20T%20cell%20differentiation%20via%20a%20TRPV%20channel-regulated%20Notch-dependent%20pathway%22",
+      "citations": {
+        "semantic_scholar": 31
+      },
+      "abstract": "Fever is a conserved and prominent response to infection. Yet, the issue of how CD4 T cell responses are modulated if they occur at fever temperatures remains poorly addressed. We have examined the priming of naive CD4 T cells in vitro at fever temperatures, and we report notable fever-mediated modulation of their cytokine commitment. When naive CD4 T cells were primed by plate-bound anti-CD3 and anti-CD28 monoclonal antibodies at moderate fever temperature (39 °C), they enhanced commitment to IL4/5/13 (Th2) and away from IFNg (Th1). This was accompanied by up-regulation of the Th2-relevant transcription factor GATA3 and reduction in the Th1-relevant transcription factor Tbet. Fever sensing by CD4 T cells involved transient receptor potential vanilloid cation channels (TRPVs) since TRPV1/TRPV4 antagonism blocked the febrile Th2 switch, while TRPV1 agonists mediated a Th2 switch at 37 °C. The febrile Th2 switch was IL4 independent, but a γ-secretase inhibitor abrogated it, and it was not found in Notch1-null CD4 T cells, identifying the Notch pathway as a major mediator. However, when naive CD4 T cells were primed via antigen and dendritic cells (DCs) at fever temperatures, the Th2 switch was abrogated via increased production of IL12 from DCs at fever temperatures. Thus, immune cells directly sense fever temperatures with likely complex physiological consequences.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "32187647",
+      "title": "A role for cell-autocrine interleukin-2 in regulatory T-cell homeostasis.",
+      "authors": [
+        "Amanpreet Singh Chawla",
+        "Jasneet Kaur Khalsa",
+        "Atika Dhar",
+        "Suman Gupta",
+        "Danish Umar",
+        "Gopalakrishnan Aneeshkumar Arimbasseri",
+        "Vineeta Bal",
+        "Anna George",
+        "Satyajit Rath"
+      ],
+      "year": "2020",
+      "journal": "Immunology",
+      "doi": "10.1111/imm.13194",
+      "doi_link": "https://doi.org/10.1111/imm.13194",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32187647",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20role%20for%20cell-autocrine%20interleukin-2%20in%20regulatory%20T-cell%20homeostasis%22",
+      "citations": {
+        "semantic_scholar": 17
+      },
+      "abstract": "Activated T-cells make both interleukin-2 (IL2) and its high-affinity receptor component CD25. Regulatory CD4 T-cells (Treg cells) do not make IL2, and the IL2-CD25 circuit is considered a paracrine circuit crucial in their generation and maintenance. Yet, all T-cells are capable of making IL2 at some stage during differentiation, making a cell-intrinsic autocrine circuit additionally possible. When we re-visited experiments with mixed bone marrow chimeras using a wide range of ratios of wild-type (WT) and IL2-/- genotype progenitors, we found that, as expected, thymic Treg cells were almost equivalent between WT and IL2-/- genotypes at ratios with WT prominence. However, at WT-limiting ratios, the IL2-/- genotype showed lower thymic Treg frequencies, indicating a role for cell-intrinsic autocrine IL2 in thymic Treg generation under IL2-limiting conditions. Further, peripheral IL2-/- naive CD4 T-cells showed poor conversion to inducible Tregs (pTregs) both in vivo and in vitro, again indicating a significant role for cell-intrinsic autocrine IL2 in their generation. Peripherally, the IL2-/- genotype was less prominent at all WT:IL2-/- ratios among both thymic Tregs (tTregs) and pTregs, adoptively transferred IL2-/- Tregs showed poorer survival than WT Tregs did, and RNA-seq analysis of WT and IL2-/- Tregs showed interesting differences in the T-cell receptor and transforming growth factor-beta-bone morphogenetic protein-JNK pathways between them, suggesting a non-titrating role for cell-intrinsic autocrine IL2 in Treg programming. These data indicate that cell-intrinsic autocrine IL2 plays significant roles in Treg generation and maintenance.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "31611580",
+      "title": "Characterization of biological variation of peripheral blood immune cytome in an Indian cohort.",
+      "authors": [
+        "Parna Kanodia",
+        "Gurvinder Kaur",
+        "Poonam Coshic",
+        "Kabita Chatterjee",
+        "Teresa Neeman",
+        "Anna George",
+        "Satyajit Rath",
+        "Vineeta Bal",
+        "Savit B Prabhu"
+      ],
+      "year": "2019",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-019-51294-7",
+      "doi_link": "https://doi.org/10.1038/s41598-019-51294-7",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31611580",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Characterization%20of%20biological%20variation%20of%20peripheral%20blood%20immune%20cytome%20in%20an%20Indian%20cohort%22",
+      "citations": {
+        "crossref": 6
+      },
+      "abstract": "Immune parameters show characteristic normal baseline levels and variance in the population. We characterised the degree of inter-individual and within-individual variation over one-year time period in 33 immune cell subsets by flow cytometry in peripheral blood mononuclear cells from 43 healthy young adult volunteers. Our analysis revealed that immune subsets that showed low variability between individuals also showed low short-term fluctuations within-individuals, as well as concordance in siblings. However, when baseline levels and degree of fluctuation were considered together, individuals failed to cluster into discreet groups. Together, the data reveal complex inter-relationships between immune subsets in individuals, and provide insights into the observed heterogeneity between individuals and between multiple immune subsets.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "31554891",
+      "title": "Role of NF-kappaB2-p100 in regulatory T cell homeostasis and activation.",
+      "authors": [
+        "Atika Dhar",
+        "Meenakshi Chawla",
+        "Somdeb Chattopadhyay",
+        "Neelam Oswal",
+        "Danish Umar",
+        "Suman Gupta",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Anna George",
+        "G Aneeshkumar Arimbasseri",
+        "Soumen Basak"
+      ],
+      "year": "2019",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-019-50454-z",
+      "doi_link": "https://doi.org/10.1038/s41598-019-50454-z",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31554891",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Role%20of%20NF-kappaB2-p100%20in%20regulatory%20T%20cell%20homeostasis%20and%20activation%22",
+      "citations": {
+        "crossref": 16
+      },
+      "abstract": "The immunological roles of the nuclear factor-kappaB (NF-κB) pathway are mediated via the canonical components in immune responses and via non-canonical components in immune organogenesis and homeostasis, although the two components are capable of crosstalk. Regulatory CD4 T cells (Tregs) are homeostatically functional and represent an interesting potential meeting point of these two NF-κB components. We show that mice deficient in the non-canonical NF-κB component gene Nfkb2 (p100) had normal thymic development and suppressive function of Tregs. However, they had enhanced frequencies of peripheral 'effector-phenotype' Tregs (eTregs). In bi-parental chimeras of wild-type (WT) and Nfkb2-/- mice, the Nfkb2-/- genotype was over-represented in Tregs, with a further increase in the relative prominence of eTregs. Consistent with distinct properties of eTregs, the Nfkb2-/- genotype was more prominent in Tregs in extra-lymphoid tissues such as liver in the bi-parental chimeras. The Nfkb2-/- Tregs also displayed greater survival, activation and proliferation in vivo. These Nfkb2-/- Tregs showed higher nuclear NF-κB activity mainly comprising of RelB-containing dimers, in contrast to the prominence of cRel- and RelA-containing dimers in WT Tregs. Since p100 is an inhibitor of RelB activation as well as a participant as cleaved p52 in RelB nuclear activity, we tested bi-parental chimeras of WT and Relb-/- mice, and found normal frequencies of Relb-/- Tregs and eTregs in these chimeric mice. Our findings confirm and extend recent data, and indicate that p100 normally restrains RelB-mediated Treg activation, and in the absence of p100, p50-RelB dimers can contribute to Treg activation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "31318442",
+      "title": "Functionally significant metabolic differences between B and T lymphocyte lineages.",
+      "authors": [
+        "Jasneet Kaur Khalsa",
+        "Amanpreet Singh Chawla",
+        "Savit B Prabhu",
+        "Mukti Vats",
+        "Atika Dhar",
+        "Gagan Dev",
+        "Nabanita Das",
+        "Sandip Mukherjee",
+        "Shalini Tanwar",
+        "Hridesh Banerjee",
+        "Jeannine Marie Durdik",
+        "Vineeta Bal",
+        "Anna George",
+        "Satyajit Rath",
+        "Gopalakrishnan Aneeshkumar Arimbasseri"
+      ],
+      "year": "2019",
+      "journal": "Immunology",
+      "doi": "10.1111/imm.13098",
+      "doi_link": "https://doi.org/10.1111/imm.13098",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31318442",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Functionally%20significant%20metabolic%20differences%20between%20B%20and%20T%20lymphocyte%20lineages%22",
+      "citations": {
+        "crossref": 26
+      },
+      "abstract": "Activation of B and T lymphocytes leads to major remodelling of the metabolic landscape of the cells enabling their post-activation functions. However, naive B and T lymphocytes also show metabolic differences, and the genesis, nature and functional significance of these differences are not yet well understood. Here we show that resting B-cells appeared to have lower energy demands than resting T-cells as they consumed lower levels of glucose and fatty acids and produced less ATP. Resting B-cells are more dependent on OXPHOS, while T-cells show more dependence on aerobic glycolysis. However, despite an apparently higher energy demand, T lineage cells showed lower rates of protein synthesis than equivalent B lineage stages. These metabolic differences between the two lineages were established early during lineage differentiation, and were functionally significant. Higher levels of protein synthesis in B-cells were associated with increased synthesis of MHC class II molecules and other proteins associated with antigen internalization, transport and presentation. The combination of higher energy demand and lower protein synthesis in T-cells was consistent with their higher ATP-dependent motility. Our data provide an integrated perspective of the metabolic differences and their functional implications between the B and T lymphocyte lineages.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "31215020",
+      "title": "Gut IgA abundance in adult life is a major determinant of resistance to dextran sodium sulfate-colitis and can compensate for the effects of inadequate maternal IgA received by neonates.",
+      "authors": [
+        "Suman Gupta",
+        "Srijani Basu",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Anna George"
+      ],
+      "year": "2019",
+      "journal": "Immunology",
+      "doi": "10.1111/imm.13091",
+      "doi_link": "https://doi.org/10.1111/imm.13091",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31215020",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Gut%20IgA%20abundance%20in%20adult%20life%20is%20a%20major%20determinant%20of%20resistance%20to%20dextran%20sodium%20sulfate-colitis%20and%20can%20compensate%20for%20the%20effects%20of%20inadequate%20maternal%20IgA%20received%20by%20neonates%22",
+      "citations": {
+        "crossref": 20
+      },
+      "abstract": "Studies with gene-deficient and gnotobiotic mice have identified many host and microbial factors that contribute to induced colitis, but information on whether specific factors determine susceptibility under more physiological conditions is lacking. Using wild-type strains that differ in their IgA response but harbor a diverse gut microbiome, we found that the IgA-high strain CBA/CaJ (CBA) is resistant to acute colitis induced with dextran sodium sulfate (DSS), unlike the IgA-low strain C57BL/6 (B6). Resistance was associated with extensive IgA-coating of fecal bacteria, lower fecal bacterial loads and greater abundance of barrier-protective transcripts in colonic tissues under homeostatic conditions. Fecal microbial transplant (FT) experiments revealed that disease induction in B6 mice was associated with a cohort of bacteria that are not targeted by IgA. However, CBA mice continued to be resistant to colitis induction following FTs from B6 mice, indicating that they are able to contain such colitogenic members. In support of a role for bacterial exclusion in resistance, oral administration of immunoglobulins decreased DSS-induced disease in B6 mice. In F",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "30945073",
+      "title": "Altered Peripheral Blood Leucocyte Phenotype and Responses in Healthy Individuals with Homozygous Deletion of FHR1 and FHR3 Genes.",
+      "authors": [
+        "Angika Bhasym",
+        "Bahadur Singh Gurjar",
+        "Savit Prabhu",
+        "Mamta Puraswani",
+        "Priyanka Khandelwal",
+        "Himanshi Saini",
+        "Savita Saini",
+        "Priyadarshini Chatterjee",
+        "Vineeta Bal",
+        "Anna George",
+        "Poonam Coshic",
+        "Gopal Patidar",
+        "Pankaj Hari",
+        "Aditi Sinha",
+        "Arvind Bagga",
+        "Satyajit Rath",
+        "Prasenjit Guchhait"
+      ],
+      "year": "2019",
+      "journal": "Journal of clinical immunology",
+      "doi": "10.1007/s10875-019-00619-2",
+      "doi_link": "https://doi.org/10.1007/s10875-019-00619-2",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30945073",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Altered%20Peripheral%20Blood%20Leucocyte%20Phenotype%20and%20Responses%20in%20Healthy%20Individuals%20with%20Homozygous%20Deletion%20of%20FHR1%20and%20FHR3%20Genes%22",
+      "citations": {
+        "semantic_scholar": 8
+      },
+      "abstract": "A homozygous 83-kb deletion encompassing the genes for complement factor-H-related proteins 1 and 3 (FHR 1, FHR3) is known as a risk factor for some immune inflammatory disorders. However, the functional relevance of this FHR1/3 deletion is relatively unexplored. Globally, healthy populations of all ethnic groups tested show an 8-10% prevalence of homozygosity for this deletion polymorphism. We have begun to compare the peripheral leucocyte phenotype and functionality between FHR1/3-/- and FHR1/3+/+ healthy adult individuals. We report that the two groups show significant differences in their peripheral blood innate leucocyte subset composition, although the adaptive immune subsets are similar between them. Specifically, FHR1/3-/- individuals show higher frequencies of patrolling monocytes and lower frequencies of classical monocytes than FHR1/3+/+ individuals. Similarly, FHR1/3-/- individuals show higher frequencies of plasmacytoid dendritic cells (pDCs) and lower frequencies of myeloid DCs (mDCs) than FHR1/3+/+ individuals. Notably, classical monocytes specifically showed cell-surface-associated factor H (FH), and cells from the FHR1/3-/- group had somewhat higher surface-associated FH levels than those from FHR1/3+/+ individuals. FHR1/3-/- monocytes also showed elevated secretion of TNF-α, IL-1β, and IL-10 in response to TLR7/8 or TLR4 ligands. Similarly, FHR1/3-/- mDCs and pDCs showed modest but evident hyper-responsiveness to TLR ligands. Our findings, that the FHR1/3-/- genotype is associated with significant alterations of both the relative prominence and the functioning of monocyte and DC subsets, may be relevant in understanding the mechanism underlying the association of the genotype with immune inflammatory disorders.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "30557341",
+      "title": "Cell-intrinsic regulation of peripheral memory-phenotype T cell frequencies.",
+      "authors": [
+        "Amanpreet Singh Chawla",
+        "Parna Kanodia",
+        "Ankur Mukherjee",
+        "Vaibhav Jain",
+        "Gurvinder Kaur",
+        "Poonam Coshic",
+        "Kabita Chatterjee",
+        "Nitya Wadhwa",
+        "Uma Chandra Mouli Natchu",
+        "Shailaja Sopory",
+        "Shinjini Bhatnagar",
+        "Partha P Majumder",
+        "Anna George",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Savit B Prabhu"
+      ],
+      "year": "2018",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0200227",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0200227",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30557341",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Cell-intrinsic%20regulation%20of%20peripheral%20memory-phenotype%20T%20cell%20frequencies%22",
+      "citations": {
+        "crossref": 2
+      },
+      "abstract": "Memory T and B lymphocyte numbers are thought to be regulated by recent and cumulative microbial exposures. We report here that memory-phenotype lymphocyte frequencies in B, CD4 and CD8 T-cells in 3-monthly serial bleeds from healthy young adult humans were relatively stable over a 1-year period, while Plasmablast frequencies were not, suggesting that recent environmental exposures affected steady state levels of recently activated but not of memory lymphocyte subsets. Frequencies of memory B and CD4 T cells were not correlated, suggesting that variation in them was unlikely to be determined by cumulative antigenic exposures. Immunophenotyping of adult siblings showed high concordance in memory, but not of recently activated lymphocyte subsets. To explore the possibility of cell-intrinsic regulation of T cell memory, we screened effector memory-phenotype T cell (TEM) frequencies in common independent inbred mice strains. Using two pairs from these strains that differed predominantly in either CD4 TEM and/or CD8 TEM frequencies, we constructed bi-parental bone marrow chimeras in F1 recipient mice, and found that memory T cell frequencies in recipient mice were determined by donor genotypes. Together, these data suggest cell-autonomous determination of memory T niche size, and suggest mechanisms maintaining immune variability.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "30556901",
+      "title": "Correlation of cell-surface CD8 levels with function, phenotype and transcriptome of naive CD8 T cells.",
+      "authors": [
+        "Renu Balyan",
+        "Rupali Gund",
+        "Amanpreet Singh Chawla",
+        "Satyajeet P Khare",
+        "Saurabh J Pradhan",
+        "Sanket Rane",
+        "Sanjeev Galande",
+        "Jeannine Marie Durdik",
+        "Anna George",
+        "Vineeta Bal",
+        "Satyajit Rath"
+      ],
+      "year": "2019",
+      "journal": "Immunology",
+      "doi": "10.1111/imm.13036",
+      "doi_link": "https://doi.org/10.1111/imm.13036",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30556901",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Correlation%20of%20cell-surface%20CD8%20levels%20with%20function%2C%20phenotype%20and%20transcriptome%20of%20naive%20CD8%20T%20cells%22",
+      "citations": {
+        "crossref": 6
+      },
+      "abstract": "We have previously demonstrated co-receptor level-associated functional heterogeneity in apparently homogeneous naive peripheral CD4 T cells, dependent on MHC-mediated tonic signals. Maturation pathways can differ between naive CD4 and naive CD8 cells, so we tested whether the latter showed similar co-receptor level-associated functional heterogeneity. We report that, when either polyclonal and T-cell receptor (TCR)-transgenic monoclonal peripheral naive CD8 T cells from young mice were separated into CD8",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "30444901",
+      "title": "Differences in multiple immune parameters between Indian and U.S. infants.",
+      "authors": [
+        "Deepak K Rathore",
+        "Tyson H Holmes",
+        "Kari C Nadeau",
+        "Pratima Mittal",
+        "Achla Batra",
+        "Yael Rosenberg-Hasson",
+        "Shailaja Sopory",
+        "Rohit Gupta",
+        "Harish K Chellani",
+        "Kailash C Aggarwal",
+        "Vineeta Bal",
+        "Uma Chandra Mouli Natchu",
+        "Shinjini Bhatnagar",
+        "Morvarid Tavassoli",
+        "Deirdre J Lyell",
+        "Satyajit Rath",
+        "Nitya Wadhwa",
+        "Holden T Maecker"
+      ],
+      "year": "2018",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0207297",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0207297",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30444901",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Differences%20in%20multiple%20immune%20parameters%20between%20Indian%20and%20U.S.%20infants%22",
+      "citations": {
+        "crossref": 7
+      },
+      "abstract": "To compare immune phenotypes across two geographic and ethnic communities, we examined umbilical cord blood by flow cytometry and Luminex in parallel cohorts of 53 newborns from New Delhi, India, and 46 newborns from Stanford, California. We found that frequencies of a B cell subset suggested to be B-1-like, and serum IgM concentration were both significantly higher in the Stanford cohort, independent of differences in maternal age. While serum IgA levels were also significantly higher in the Stanford cohort, IgG1, IgG2, and IgG4 were significantly higher in the New Delhi samples. We found that neutrophils, plasmacytoid dendritic cells, CD8+ T cells, and total T cells were higher in the U.S. cohort, while dendritic cells, patrolling monocytes (CD14dimCD16+), natural killer cells, CD4+ T cells, and naïve B cells were higher in the India cohort. Within the India cohort, we also identified cell types whose frequency was positively or negatively predictive of occurrence of infection(s) in the first six months of life. Monocytes, total T cells, and memory CD4+ T cells were most prominent in having an inverse relationship with infection. We suggest that these data provide impetus for follow-up studies linking phenotypic differences to environmental versus genetic factors, and to infection outcomes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "29485195",
+      "title": "Characterization of genetic predisposition and autoantibody profile in atypical haemolytic-uraemic syndrome.",
+      "authors": [
+        "Bahadur Singh Gurjar",
+        "Tholu Manikanta Sriharsha",
+        "Angika Bhasym",
+        "Savit Prabhu",
+        "Mamta Puraswani",
+        "Priyanka Khandelwal",
+        "Himanshi Saini",
+        "Savita Saini",
+        "Anita Kamra Verma",
+        "Priyadarshini Chatterjee",
+        "Prasenjit Guchhait",
+        "Vineeta Bal",
+        "Anna George",
+        "Satyajit Rath",
+        "Arvind Sahu",
+        "Amita Sharma",
+        "Pankaj Hari",
+        "Aditi Sinha",
+        "Arvind Bagga"
+      ],
+      "year": "2018",
+      "journal": "Immunology",
+      "doi": "10.1111/imm.12916",
+      "doi_link": "https://doi.org/10.1111/imm.12916",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29485195",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Characterization%20of%20genetic%20predisposition%20and%20autoantibody%20profile%20in%20atypical%20haemolytic-uraemic%20syndrome%22",
+      "citations": {
+        "semantic_scholar": 16
+      },
+      "abstract": "We previously reported that Indian paediatric patients with atypical haemolytic-uraemic syndrome (aHUS) showed high frequencies of anti-complement factor H (FH) autoantibodies that are correlated with homozygous deletion of the genes for FH-related proteins 1 and 3 (FHR1 and FHR3) (FHR1/3",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "29088218",
+      "title": "Effector/memory CD4 T cells making either Th1 or Th2 cytokines commonly co-express T-bet and GATA-3.",
+      "authors": [
+        "Arundhoti Das",
+        "Vidya Ranganathan",
+        "Danish Umar",
+        "Shipra Thukral",
+        "Anna George",
+        "Satyajit Rath",
+        "Vineeta Bal"
+      ],
+      "year": "2017",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0185932",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0185932",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29088218",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Effector/memory%20CD4%20T%20cells%20making%20either%20Th1%20or%20Th2%20cytokines%20commonly%20co-express%20T-bet%20and%20GATA-3%22",
+      "citations": {
+        "crossref": 12
+      },
+      "abstract": "Naïve CD4 T (NCD4T) cells post-activation undergo programming for inducible production of cytokines leading to generation of memory cells with various functions. Based on cytokine based polarization of NCD4T cells in vitro, programming for either 'Th1' (interferon-gamma [IFNg]) or 'Th2' (interleukin [IL]-4/5/13) cytokines is thought to occur via mutually exclusive expression and functioning of T-bet or GATA-3 transcription factors (TFs). However, we show that a high proportion of mouse and human memory-phenotype CD4 T (MCD4T) cells generated in vivo which expressed either Th1 or Th2 cytokines commonly co-expressed T-bet and GATA-3. While T-bet levels did not differ between IFNg-expressing and IL-4/5/13-expressing MCD4T cells, GATA-3 levels were higher in the latter. These observations were also confirmed in MCD4T cells from FVB/NJ or aged C57BL/6 or IFNg-deficient mice. While MCD4T cells from these strains showed greater Th2 commitment than those from young C57BL/6 mice, pattern of co-expression of TF was similar. Effector T cells generated in vivo following immunization also showed TF co-expression in Th1 or Th2 cytokine producing cells. We speculated that the difference in TF expression pattern of MCD4T cells generated in vivo and those generated in cytokine polarized cultures in vitro could be due to relative absence of polarizing conditions during activation in vivo. We tested this by NCD4T cell activation in non-polarizing conditions in vitro. Anti-CD3 and anti-CD28-mediated priming of polyclonal NCD4T cells in vitro without polarizing milieu generated cells that expressed either IFNg or IL-4/5/13 but not both, yet both IFNg- and IL-4/5/13-expressing cells showed upregulation of both TFs. We also tested monoclonal T cell populations activated in non-polarizing conditions. TCR-transgenic NCD4T cells primed in vitro by cognate peptide in non-polarizing conditions which expressed either IFNg or IL-4/5/13 also showed a high proportion of cells co-expressing TFs, and their cytokine commitment varied depending on genetic background or priming conditions, without altering pattern of TF co-expression. Thus, the model of mutually antagonistic differentiation programs driven by mutually exclusively expressed T-bet or GATA-3 does not completely explain natural CD4 T cell priming outcomes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "29061763",
+      "title": "A TNF-p100 pathway subverts noncanonical NF-κB signaling in inflamed secondary lymphoid organs.",
+      "authors": [
+        "Tapas Mukherjee",
+        "Budhaditya Chatterjee",
+        "Atika Dhar",
+        "Sachendra S Bais",
+        "Meenakshi Chawla",
+        "Payel Roy",
+        "Anna George",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Soumen Basak"
+      ],
+      "year": "2017",
+      "journal": "The EMBO journal",
+      "doi": "10.15252/embj.201796919",
+      "doi_link": "https://doi.org/10.15252/embj.201796919",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29061763",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20TNF-p100%20pathway%20subverts%20noncanonical%20NF-%CE%BAB%20signaling%20in%20inflamed%20secondary%20lymphoid%20organs%22",
+      "citations": {
+        "crossref": 27
+      },
+      "abstract": "Lymphotoxin-beta receptor (LTβR) present on stromal cells engages the noncanonical NF-κB pathway to mediate RelB-dependent expressions of homeostatic chemokines, which direct steady-state ingress of naïve lymphocytes to secondary lymphoid organs (SLOs). In this pathway, NIK promotes partial proteolysis of p100 into p52 that induces nuclear translocation of the RelB NF-κB heterodimers. Microbial infections often deplete homeostatic chemokines; it is thought that infection-inflicted destruction of stromal cells results in the downregulation of these chemokines. Whether inflammation ",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "29022109",
+      "title": "Interaction of CD80 with Neph1: a potential mechanism of podocyte injury.",
+      "authors": [
+        "Bhavya Khullar",
+        "Renu Balyan",
+        "Neelam Oswal",
+        "Nidhi Jain",
+        "Amita Sharma",
+        "Malik Z Abdin",
+        "Arvind Bagga",
+        "Shinjini Bhatnagar",
+        "Nitya Wadhwa",
+        "Uma Chandra Mouli Natchu",
+        "Anna George",
+        "Satyajit Rath",
+        "Vineeta Bal",
+        "Shailaja Sopory"
+      ],
+      "year": "2018",
+      "journal": "Clinical and experimental nephrology",
+      "doi": "10.1007/s10157-017-1489-3",
+      "doi_link": "https://doi.org/10.1007/s10157-017-1489-3",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29022109",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Interaction%20of%20CD80%20with%20Neph1%3A%20a%20potential%20mechanism%20of%20podocyte%20injury%22",
+      "citations": {
+        "crossref": 22
+      },
+      "abstract": "BACKGROUND: The induction of CD80 on podocytes has been shown in animal models of podocyte injury and in certain cases of nephrotic syndrome. In a lipopolysaccharide (LPS)-induced mouse model of albuminuria, we have recently shown a signalling axis of LPS-myeloid cell activation-TNFα production-podocyte CD80 induction-albuminuria. Therefore, in this report, we investigated the cellular and molecular consequences of TNFα addition and CD80 expression on cultured podocytes. METHODS: A murine podocyte cell line was used for TNFα treatment and for over-expressing CD80. Expression and localization of various podocyte proteins was analysed by reverse transcriptase-polymerase chain reaction, western blotting and immunofluorescence. HEK293 cells were used to biochemically characterize interactions. RESULTS: Podocytes treated with LPS in vitro did not cause CD80 upregulation but TNFα treatment was associated with an increase in CD80 levels, actin derangement and poor wound healing. Podocytes stably expressing CD80 showed actin derangement and co-localization with Neph1. CD80 and Neph1 interaction was confirmed by pull down assays of CD80 and Neph1 transfected in HEK293 cells. CONCLUSION: Addition of TNFα to podocytes causes CD80 upregulation, actin reorganization and podocyte injury. Overexpressed CD80 and Neph1 interact via their extracellular domain. This interaction implies a mechanism of slit diaphragm disruption and possible use of small molecules that disrupt CD80-Neph1 interaction as a potential for treatment of nephrotic syndrome associated with CD80 upregulation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "28746783",
+      "title": "CD73 expression identifies a subset of IgM",
+      "authors": [
+        "Lucas D'Souza",
+        "Sneh Lata Gupta",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Anna George"
+      ],
+      "year": "2017",
+      "journal": "Immunology",
+      "doi": "10.1111/imm.12800",
+      "doi_link": "https://doi.org/10.1111/imm.12800",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28746783",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22CD73%20expression%20identifies%20a%20subset%20of%20IgM%22",
+      "citations": {
+        "semantic_scholar": 12
+      },
+      "abstract": "B-cell memory was long characterized as isotype-switched, somatically mutated and germinal centre (GC)-derived. However, it is now clear that the memory pool is a complex mixture that includes unswitched and unmutated cells. Further, expression of CD73, CD80 and CD273 has allowed the categorization of B-cell memory into multiple subsets, with combinatorial expression of the markers increasing with GC progression, isotype-switching and acquisition of somatic mutations. We have extended these findings to determine whether these markers can be used to identify IgM memory phenotypically as arising from T-dependent versus T-independent responses. We report that CD73 expression identifies a subset of antigen-experienced IgM",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "28378771",
+      "title": "Mediation of transitional B cell maturation in the absence of functional Bruton's tyrosine kinase.",
+      "authors": [
+        "Shalini Tanwar",
+        "Atika Dhar",
+        "Vineeth Varanasi",
+        "Tapas Mukherjee",
+        "Ramanamurthy Boppana",
+        "Soumen Basak",
+        "Vineeta Bal",
+        "Anna George",
+        "Satyajit Rath"
+      ],
+      "year": "2017",
+      "journal": "Scientific reports",
+      "doi": "10.1038/srep46029",
+      "doi_link": "https://doi.org/10.1038/srep46029",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28378771",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mediation%20of%20transitional%20B%20cell%20maturation%20in%20the%20absence%20of%20functional%20Bruton%27s%20tyrosine%20kinase%22",
+      "citations": {
+        "semantic_scholar": 6
+      },
+      "abstract": "X-linked immune-deficient (Xid) mice, carrying a mutation in Bruton's tyrosine kinase (Btk), have multiple B cell lineage differentiation defects. We now show that, while Xid mice showed only mild reduction in the frequency of the late transitional (T2) stage of peripheral B cells, the defect became severe when the Xid genotype was combined with either a CD40-null, a TCRbeta-null or an MHC class II (MHCII)-null genotype. Purified Xid T1 and T2 B cells survived poorly in vitro compared to wild-type (WT) cells. BAFF rescued WT but not Xid T1 and T2 B cells from death in culture, while CD40 ligation equivalently rescued both. Xid transitional B cells ex vivo showed low levels of the p100 protein substrate for non-canonical NF-kappaB signalling. In vitro, CD40 ligation induced equivalent activation of the canonical but not of the non-canonical NF-kappaB pathway in Xid and WT T1 and T2 B cells. CD40 ligation efficiently rescued p100-null T1 B cells from neglect-induced death in vitro. These data indicate that CD40-mediated signals, likely from CD4 T cells, can mediate peripheral transitional B cell maturation independent of Btk and the non-canonical NF-kappaB pathway, and thus contribute to the understanding of the complexities of peripheral B cell maturation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper21",
+      "publication_id": "28151989",
+      "title": "CD8 T cells protect adult naive mice from JEV-induced morbidity via lytic function.",
+      "authors": [
+        "Nidhi Jain",
+        "Neelam Oswal",
+        "Amanpreet Singh Chawla",
+        "Tanvi Agrawal",
+        "Moanaro Biswas",
+        "Sudhanshu Vrati",
+        "Satyajit Rath",
+        "Anna George",
+        "Vineeta Bal",
+        "Guruprasad R Medigeshi"
+      ],
+      "year": "2017",
+      "journal": "PLoS neglected tropical diseases",
+      "doi": "10.1371/journal.pntd.0005329",
+      "doi_link": "https://doi.org/10.1371/journal.pntd.0005329",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28151989",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22CD8%20T%20cells%20protect%20adult%20naive%20mice%20from%20JEV-induced%20morbidity%20via%20lytic%20function%22",
+      "citations": {
+        "semantic_scholar": 28
+      },
+      "abstract": "Following Japanese encephalitis virus (JEV) infection neutralizing antibodies are shown to provide protection in a significant proportion of cases, but not all, suggesting additional components of immune system might also contribute to elicit protective immune response. Here we have characterized the role of T cells in offering protection in adult mice infected with JEV. Mice lacking α/β-T cells (TCRβ-null) are highly susceptible and die over 10-18 day period as compared to the wild-type (WT) mice which are resistant. This is associated with high viral load, higher mRNA levels of proinflammatory cytokines and breach in the blood-brain-barrier (BBB). Infected WT mice do not show a breach in BBB; however, in contrast to TCRβ-null, they show the presence of T cells in the brain. Using adoptive transfer of cells with specific genetic deficiencies we see that neither the presence of CD4 T cells nor cytokines such as IL-4, IL-10 or interferon-gamma have any significant role in offering protection from primary infection. In contrast, we show that CD8 T cell deficiency is more critical as absence of CD8 T cells alone increases mortality in mice infected with JEV. Further, transfer of T cells from beige mice with defects in granular lytic function into TCRβ-null mice shows poor protection implicating granule-mediated target cell lysis as an essential component for survival. In addition, for the first time we report that γ/δ-T cells also make significant contribution to confer protection from JEV infection. Our data show that effector CD8 T cells play a protective role during primary infection possibly by preventing the breach in BBB and neuronal damage.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper22",
+      "publication_id": "28100678",
+      "title": "Modulation of Naive CD8 T Cell Response Features by Ligand Density, Affinity, and Continued Signaling via Internalized TCRs.",
+      "authors": [
+        "Renu Balyan",
+        "Rupali Gund",
+        "Chitra Ebenezer",
+        "Jasneet Kaur Khalsa",
+        "Divya Anna Verghese",
+        "Thyagarajan Krishnamurthy",
+        "Anna George",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Ashutosh Chaudhry"
+      ],
+      "year": "2017",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.1600083",
+      "doi_link": "https://doi.org/10.4049/jimmunol.1600083",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28100678",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Modulation%20of%20Naive%20CD8%20T%20Cell%20Response%20Features%20by%20Ligand%20Density%2C%20Affinity%2C%20and%20Continued%20Signaling%20via%20Internalized%20TCRs%22",
+      "citations": {
+        "crossref": 23
+      },
+      "abstract": "T cell response magnitudes increase with increasing antigenic dosage. However, it is unclear whether ligand density only modulates the proportions of responding ligand-specific T cells or also alters responses at the single cell level. Using brief (3 h) exposure of TCR-transgenic mouse CD8 T cells in vitro to varying densities of cognate peptide-MHC ligand followed by ligand-free culture in IL-2, we found that ligand density determined the frequencies of responding cells but not the expression levels of the early activation marker molecule, CD69. Cells with low glucose uptake capacity and low protein synthesis rates were less ligand-sensitive, implicating metabolic competence in the response heterogeneity of CD8 T cell populations. Although most responding cells proliferated, ligand density was associated with time of entry into proliferation and with the extent of cell surface TCR downmodulation. TCR internalization was associated, regardless of the ligand density, with rapidity of c-myc induction, loss of the cell cycle inhibitor p27kip1, metabolic reprogramming, and cell cycle entry. A low affinity peptide ligand behaved, regardless of ligand density, like a low density, high affinity ligand in all these parameters. Inhibition of signaling after ligand exposure selectively delayed proliferation in cells with internalized TCRs. Finally, internalized TCRs continued to signal and genetic modification of TCR internalization and trafficking altered the duration of signaling in a T cell hybridoma. Together, our findings indicate that heterogeneity among responding CD8 T cell populations in their ability to respond to TCR-mediated stimulation and internalize TCRs mediates detection of ligand density or affinity, contributing to graded response magnitudes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper23",
+      "publication_id": "27610624",
+      "title": "Comparison of Human Neonatal and Adult Blood Leukocyte Subset Composition Phenotypes.",
+      "authors": [
+        "Savit B Prabhu",
+        "Deepak K Rathore",
+        "Deepa Nair",
+        "Anita Chaudhary",
+        "Saimah Raza",
+        "Parna Kanodia",
+        "Shailaja Sopory",
+        "Anna George",
+        "Satyajit Rath",
+        "Vineeta Bal",
+        "Reva Tripathi",
+        "Siddharth Ramji",
+        "Aruna Batra",
+        "Kailash C Aggarwal",
+        "Harish K Chellani",
+        "Sugandha Arya",
+        "Nidhi Agarwal",
+        "Umesh Mehta",
+        "Uma Chandra Mouli Natchu",
+        "Nitya Wadhwa",
+        "Shinjini Bhatnagar"
+      ],
+      "year": "2016",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0162242",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0162242",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27610624",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Comparison%20of%20Human%20Neonatal%20and%20Adult%20Blood%20Leukocyte%20Subset%20Composition%20Phenotypes%22",
+      "citations": {
+        "crossref": 63
+      },
+      "abstract": "The human peripheral leukocyte subset composition depends on genotype variation and pre-natal and post-natal environmental influence diversity. We quantified this composition in adults and neonates, and compared the median values and dispersal ranges of various subsets in them. We confirmed higher frequencies of monocytes and regulatory T cells (Tregs), similar frequencies of neutrophils, and lower frequencies of CD8 T cells, NKT cells, B1 B cells and gamma-delta T cells in neonatal umbilical cord blood. Unlike previous reports, we found higher frequencies of eosinophils and B cells, higher CD4:CD8 ratios, lower frequencies of T cells and iNKT cells, and similar frequencies of CD4 T cells and NK cells in neonates. We characterized monocyte subsets and dendritic cell (DC) subsets in far greater detail than previously reported, using recently described surface markers and gating strategies and observed that neonates had lower frequencies of patrolling monocytes and lower myeloid dendritic cell (mDC):plasmacytoid DC (pDC) ratios. Our data contribute to South Asian reference values for these parameters. We found that dispersal ranges differ between different leukocyte subsets, suggesting differential determination of variation. Further, some subsets were more dispersed in adults than in neonates suggesting influences of postnatal sources of variation, while some show the opposite pattern suggesting influences of developmental process variation. Together, these data and analyses provide interesting biological possibilities for future exploration.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper24",
+      "publication_id": "27342845",
+      "title": "Constitutive CD40 Signaling Calibrates Differentiation Outcomes in Responding B Cells via Multiple Molecular Pathways.",
+      "authors": [
+        "Srijani Basu",
+        "Sheetal Kaw",
+        "Lucas D'Souza",
+        "Tushar Vaidya",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Anna George"
+      ],
+      "year": "2016",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.1600077",
+      "doi_link": "https://doi.org/10.4049/jimmunol.1600077",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27342845",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Constitutive%20CD40%20Signaling%20Calibrates%20Differentiation%20Outcomes%20in%20Responding%20B%20Cells%20via%20Multiple%20Molecular%20Pathways%22",
+      "citations": {
+        "crossref": 6
+      },
+      "abstract": "CD40 signaling during B cell activation is known to inhibit terminal differentiation and promote memory generation. Blimp-1 is essential for efficient plasma cell (PC) generation, and although CD40 signaling is known to inhibit Blimp-1 induction during B cell activation, the mechanisms involved have been unclear. We report that CD40 signaling induces miR-125b that targets Blimp-1 transcripts, and increases amounts of the ubiquitin ligase Hrd1 that targets BLIMP-1 protein for proteasomal degradation. CD40 signaling also inhibits the early unfolded protein response (UPR) of activated B cells that precedes the induction of terminal differentiation, and Hrd1 feeds into this pathway by targeting the core UPR component IRE-1α. Strikingly, CD40 signaling in the absence of BCR- or TLR-ligation also repressed Blimp-1 transcripts, suggesting that noncognate ligation of CD40 via T-B interactions may repress Blimp-1 in vivo. In support of this, we find that naive B cells purified from CD40-CD154 interaction-deficient mice express higher amounts of Blimp-1 and lower amounts of microRNAs and Hrd1. Higher basal amounts of Blimp-1 in naive CD40(-/-) B cells correlate with an increased tendency of the cells to undergo terminal differentiation upon LPS stimulation. Conversely, a 24-h exposure to CD40 ligation during LPS stimulation of wild-type B cells is sufficient to inhibit PC generation. The data show that CD40-mediated inhibition of PC generation is via engagement of multiple pathways that involve repression of Blimp-1 and inhibition of the UPR that prepares cells to become professional secretors. They also show that constitutive CD40 signaling in vivo involving bystander T-B interactions can calibrate B cell differentiation outcomes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper25",
+      "publication_id": "27125280",
+      "title": "TLR-mediated albuminuria needs TNFα-mediated cooperativity between TLRs present in hematopoietic tissues and CD80 present on non-hematopoietic tissues in mice.",
+      "authors": [
+        "Nidhi Jain",
+        "Bhavya Khullar",
+        "Neelam Oswal",
+        "Balaji Banoth",
+        "Prashant Joshi",
+        "Balachandran Ravindran",
+        "Subrat Panda",
+        "Soumen Basak",
+        "Anna George",
+        "Satyajit Rath",
+        "Vineeta Bal",
+        "Shailaja Sopory"
+      ],
+      "year": "2016",
+      "journal": "Disease models & mechanisms",
+      "doi": "10.1242/dmm.023440",
+      "doi_link": "https://doi.org/10.1242/dmm.023440",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27125280",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22TLR-mediated%20albuminuria%20needs%20TNF%CE%B1-mediated%20cooperativity%20between%20TLRs%20present%20in%20hematopoietic%20tissues%20and%20CD80%20present%20on%20non-hematopoietic%20tissues%20in%20mice%22",
+      "citations": {
+        "crossref": 9
+      },
+      "abstract": "Transient albuminuria induced by pathogen-associated molecular patterns (PAMPs) in mice through engagement of Toll-like receptors (TLRs) is widely studied as a partial model for some forms of human nephrotic syndrome (NS). In addition to TLRs, CD80 has been shown to be essential for PAMP-mediated albuminuria. However, the mechanistic relationships between TLRs, CD80 and albuminuria remain unclear. Here, we show that albuminuria and CD80-uria induced in mice by many TLR ligands are dependent on the expression of TLRs and their downstream signalling intermediate MyD88 exclusively in hematopoietic cells and, conversely, on CD80 expression exclusively in non-hematopoietic cells. TNFα is crucial for TLR-mediated albuminuria and CD80-uria, and induces CD80 expression in cultured renal podocytes. IL-10 from hematopoietic cells ameliorates TNFα production, albuminuria and CD80-uria but does not prevent TNFα-mediated induction of podocyte CD80 expression. Chitohexaose, a small molecule originally of parasite origin, mediates TLR4-dependent anti-inflammatory responses, and blocks TLR-mediated albuminuria and CD80-uria through IL-10. Thus, TNFα is a prominent mediator of renal CD80 induction and resultant albuminuria in this model, and small molecules modulating TLR-mediated inflammatory activation might have contributory or adjunct therapeutic potential in some contexts of NS development.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper26",
+      "publication_id": "25898362",
+      "title": "Underweight full-term Indian neonates show differences in umbilical cord blood leukocyte phenotype: a cross-sectional study.",
+      "authors": [
+        "Deepak K Rathore",
+        "Deepa Nair",
+        "Saimah Raza",
+        "Savita Saini",
+        "Reeta Singh",
+        "Amit Kumar",
+        "Reva Tripathi",
+        "Siddarth Ramji",
+        "Aruna Batra",
+        "Kailash C Aggarwal",
+        "Harish K Chellani",
+        "Sugandha Arya",
+        "Neerja Bhatla",
+        "Vinod K Paul",
+        "Ramesh Aggarwal",
+        "Nidhi Agarwal",
+        "Umesh Mehta",
+        "Shailaja Sopory",
+        "Uma Chandra Mouli Natchu",
+        "Shinjini Bhatnagar",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Nitya Wadhwa"
+      ],
+      "year": "2015",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0123589",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0123589",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25898362",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Underweight%20full-term%20Indian%20neonates%20show%20differences%20in%20umbilical%20cord%20blood%20leukocyte%20phenotype%3A%20a%20cross-sectional%20study%22",
+      "citations": {
+        "crossref": 9
+      },
+      "abstract": "BACKGROUND: While infections are a major cause of neonatal mortality in India even in full-term neonates, this is an especial problem in the large proportion (~20%) of neonates born underweight (or small-for-gestational-age; SGA). One potential contributory factor for this susceptibility is the possibility that immune system maturation may be affected along with intrauterine growth retardation. METHODS: In order to examine the possibility that differences in immune status may underlie the susceptibility of SGA neonates to infections, we enumerated the frequencies and concentrations of 22 leukocyte subset populations as well as IgM and IgA levels in umbilical cord blood from full-term SGA neonates and compared them with values from normal-weight (or appropriate-for-gestational-age; AGA) full-term neonates. We eliminated most SGA-associated risk factors in the exclusion criteria so as to ensure that AGA-SGA differences, if any, would be more likely to be associated with the underweight status itself. RESULTS: An analysis of 502 such samples, including 50 from SGA neonates, showed that SGA neonates have significantly fewer plasmacytoid dendritic cells (pDCs), a higher myeloid DC (mDC) to pDC ratio, more natural killer (NK) cells, and higher IgM levels in cord blood in comparison with AGA neonates. Other differences were also observed such as tendencies to lower CD4:CD8 ratios and greater prominence of inflammatory monocytes, mDCs and neutrophils, but while some of them had substantial differences, they did not quite reach the standard level of statistical significance. CONCLUSIONS: These differences in cellular lineages of the immune system possibly reflect stress responses in utero associated with growth restriction. Increased susceptibility to infections may thus be linked to complex immune system dysregulation rather than simply retarded immune system maturation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper27",
+      "publication_id": "25528158",
+      "title": "Peripheral residence of naïve CD4 T cells induces MHC class II-dependent alterations in phenotype and function.",
+      "authors": [
+        "Sanket Rane",
+        "Rituparna Das",
+        "Vidya Ranganathan",
+        "Savit Prabhu",
+        "Arundhoti Das",
+        "Hamid Mattoo",
+        "Jeannine Marie Durdik",
+        "Anna George",
+        "Satyajit Rath",
+        "Vineeta Bal"
+      ],
+      "year": "2014",
+      "journal": "BMC biology",
+      "doi": "10.1186/s12915-014-0106-0",
+      "doi_link": "https://doi.org/10.1186/s12915-014-0106-0",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25528158",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Peripheral%20residence%20of%20na%C3%AFve%20CD4%20T%20cells%20induces%20MHC%20class%20II-dependent%20alterations%20in%20phenotype%20and%20function%22",
+      "citations": {
+        "crossref": 6
+      },
+      "abstract": "BACKGROUND: As individual naïve CD4 T lymphocytes circulate in the body after emerging from the thymus, they are likely to have individually varying microenvironmental interactions even in the absence of stimulation via specific target recognition. It is not clear if these interactions result in alterations in their activation, survival and effector programming. Naïve CD4 T cells show unimodal distribution for many phenotypic properties, suggesting that the variation is caused by intrinsic stochasticity, although underlying variation due to subsets created by different histories of microenvironmental interactions remains possible. To explore this possibility, we began examining the phenotype and functionality of naïve CD4 T cells differing in a basic unimodally distributed property, the CD4 levels, as well as the causal origin of these differences. RESULTS: We examined separated CD4hi and CD4lo subsets of mouse naïve CD4 cells. CD4lo cells were smaller with higher CD5 levels and lower levels of the dual-specific phosphatase (DUSP)6-suppressing micro-RNA miR181a, and responded poorly with more Th2-skewed outcomes. Human naïve CD4lo and CD4hi cells showed similar differences. Naïve CD4lo and CD4hi subsets of thymic single-positive CD4 T cells did not show differences whereas peripheral naïve CD4lo and CD4hi subsets of T cell receptor (TCR)-transgenic T cells did. Adoptive transfer-mediated parking of naïve CD4 cells in vivo lowered CD4 levels, increased CD5 and reactive oxygen species (ROS) levels and induced hyporesponsiveness in them, dependent, at least in part, on availability of major histocompatibility complex class II (MHCII) molecules. ROS scavenging or DUSP inhibition ameliorated hyporesponsiveness. Naïve CD4 cells from aged mice showed lower CD4 levels and cell sizes, higher CD5 levels, and hyporesponsiveness and Th2-skewing reversed by DUSP inhibition. CONCLUSIONS: Our data show that, underlying a unimodally distributed property, the CD4 level, there are subsets of naïve CD4 cells that vary in the time spent in the periphery receiving MHCII-mediated signals and show resultant alteration of phenotype and functionality via ROS and DUSP activity. Our findings also suggest the feasibility of potential pharmacological interventions for improved CD4 T cell responses during vaccination of older people via either anti-oxidant or DUSP inhibitor small molecules.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper28",
+      "publication_id": "24482285",
+      "title": "CD40 signaling drives B lymphocytes into an intermediate memory-like state, poised between naïve and plasma cells.",
+      "authors": [
+        "Mala Upadhyay",
+        "G Krishna Priya",
+        "P Ramesh",
+        "M B Madhavi",
+        "Satyajit Rath",
+        "Vineeta Bal",
+        "Anna George",
+        "Tushar Vaidya"
+      ],
+      "year": "2014",
+      "journal": "Journal of cellular physiology",
+      "doi": "10.1002/jcp.24572",
+      "doi_link": "https://doi.org/10.1002/jcp.24572",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24482285",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22CD40%20signaling%20drives%20B%20lymphocytes%20into%20an%20intermediate%20memory-like%20state%2C%20poised%20between%20na%C3%AFve%20and%20plasma%20cells%22",
+      "citations": {
+        "crossref": 9
+      },
+      "abstract": "Immunological memory comprising of antigen-specific B and T cells contributes to the acquisition of long-term resistance to pathogens. Interactions between CD40 on B cells and CD40L on T cells are responsible for several aspects of acquired immune responses including generation of memory B cells. In order to gain insights into events leading to memory B cell formation, we analyzed the genome-wide expression profile of murine naive B cells stimulated in the presence of anti-CD40. We have identified over 8,000 genes whose expression is altered minimally 1.5-fold at least at one time point over a 3-day time course. The array analysis indicates that changes in expression level of maximum number of these genes occur within 24 h of anti-CD40 treatment. In parallel, we have studied the events following CD40 ligation by examining the expression of known regulators of naive B cell to plasma cell transition, including Pax5 and BLIMP1. The expression profile of these regulatory genes indicates firstly, that CD40 signaling activates naïve B cells to a phenotype that is intermediate between the naive and plasma cell stages of the B cell differentiation. Secondly, the major known regulator of plasma cell differentiation, BLIMP1, gets irreversibly downregulated upon anti-CD40 treatment. Additionally, our data reveal that CD40 signaling mediated BLIMP1 downregulation occurs by non-Pax5/non-Bcl6 dependent mechanisms, indicating novel mechanisms at work that add to the complexity of understanding of B cell master regulatory molecules like BLIMP1 and Pax5.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper29",
+      "publication_id": "24441790",
+      "title": "Inducible nitric oxide synthase is a major intermediate in signaling pathways for the survival of plasma cells.",
+      "authors": [
+        "Ankur S Saini",
+        "Gautam N Shenoy",
+        "Satyajit Rath",
+        "Vineeta Bal",
+        "Anna George"
+      ],
+      "year": "2014",
+      "journal": "Nature immunology",
+      "doi": "10.1038/ni.2806",
+      "doi_link": "https://doi.org/10.1038/ni.2806",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24441790",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Inducible%20nitric%20oxide%20synthase%20is%20a%20major%20intermediate%20in%20signaling%20pathways%20for%20the%20survival%20of%20plasma%20cells%22",
+      "citations": {
+        "semantic_scholar": 53
+      },
+      "abstract": "While a number of extrinsic factors are known to promote the survival of plasma cells (PCs), the signaling intermediates involved remain poorly characterized. Here we identified inducible nitric oxide synthase (iNOS) as an intermediate that supported the survival of PCs. PCs deficient in iNOS (Nos2(-/-) PCs) showed enhanced death in vitro, after transfer into congenic adoptive hosts, and in chimeras made with wild-type and Nos2(-/-) bone marrow. The iNOS-mediated protection involved activation of protein kinase G and modulation of endoplasmic reticulum stress components. Activation of caspases was also diminished. We found that iNOS was required for PCs to respond to some prosurvival mediators associated with bone marrow stromal cells and that at least one mediator, interleukin 6, fed directly into this pathway by inducing iNOS.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper30",
+      "publication_id": "24434315",
+      "title": "T cell ageing: effects of age on development, survival & function.",
+      "authors": [
+        "Nasir Salam",
+        "Sanket Rane",
+        "Rituparna Das",
+        "Matthew Faulkner",
+        "Rupali Gund",
+        "Usha Kandpal",
+        "Virginia Lewis",
+        "Hamid Mattoo",
+        "Savit Prabhu",
+        "Vidya Ranganathan",
+        "Jeannine Durdik",
+        "Anna George",
+        "Satyajit Rath",
+        "Vineeta Bal"
+      ],
+      "year": "2013",
+      "journal": "The Indian journal of medical research",
+      "doi": null,
+      "doi_link": "",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24434315",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22T%20cell%20ageing%3A%20effects%20of%20age%20on%20development%2C%20survival%20%26%20function%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "Age associated decline of the immune system continues to be a major health concern. All components of innate and adaptive immunity are adversely affected to lesser or greater extent by ageing resulting in an overall decline of immunocompetence. As a result in the aged population, there is increased susceptibility to infection, poor responses to vaccination, and increased incidence of autoreactivity. There is an increasing focus on the role of T cells during ageing because of their impact on the overall immune responses. A steady decline in the production of fresh naïve T cells, more restricted T cell receptor (TCR) repertoire and weak activation of T cells are some of the effects of ageing. In this review we summarize our present understanding of the effects of ageing on naïve CD4 T cells and potential approaches for therapeutic interventions to restore protective immunity in the aged population.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper31",
+      "publication_id": "24434313",
+      "title": "Role of apoptosis-inducing factor (Aif) in the T cell lineage.",
+      "authors": [
+        "Savit B Prabhu",
+        "Jasneet K Khalsa",
+        "Hridesh Banerjee",
+        "Abhishek Das",
+        "Smita Srivastava",
+        "Hamid R Mattoo",
+        "Krishnamurthy Thyagarajan",
+        "Shalini Tanwar",
+        "Deepika S Das",
+        "Subeer S Majumdar",
+        "Anna George",
+        "Vineeta Bal",
+        "Jeannine M Durdik",
+        "Satyajit Rath"
+      ],
+      "year": "2013",
+      "journal": "The Indian journal of medical research",
+      "doi": null,
+      "doi_link": "",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24434313",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Role%20of%20apoptosis-inducing%20factor%20%28Aif%29%20in%20the%20T%20cell%20lineage%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "Multiple checkpoints regulating finely balanced death-versus-survival decisions characterize both thymic development and peripheral homeostasis of T lymphocytes. While exploring the mechanisms of T cell death involved at various stages during the life of a T cell, we have observed and reported a variety of non-redundant roles for apoptosis inducing factor (Aif), a mitochondrial flavoprotein. Aif is ubiquitously expressed in all cell lineages and functions as an NADH oxidase in its mitochondrial location. It is released following the mitochondrial death signals, whereupon it translocates to the nucleus, binds to DNA and causes large-scale DNA fragmentation. During T cell development, Aif is important for developing thymocytes to navigate the double negative (DN)3 to DN4 transition (beta-selection), via its oxidoreductase property which protects the rapidly proliferating cells from death due to reactive oxygen species (ROS). In peripheral mature T cells, Aif deficiency leads to an increased susceptibility of T cell blasts to activation induced cell death (AICD), possibly mediated by its antioxidant function, and decreased sensitivity to neglect-induced death (NID). Thus, Aif seems to have pro-apoptotic and anti-apoptotic roles in the same lineage in different contexts and at different stages. Surprisingly, in the closely related B lymphocyte lineage, Aif deficiency does not result in any abnormality. These findings generate the possibility of specific T cell dysfunction in human disease caused by Aif deficiency, as well as in mitochondriopathies due to other causes. Also, these data raise questions regarding the basis of lineage-specific consequences of the dysfunction/deficiency of apparently ubiquitous molecules.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper32",
+      "publication_id": "24088957",
+      "title": "Prompt plasma exchanges and immunosuppressive treatment improves the outcomes of anti-factor H autoantibody-associated hemolytic uremic syndrome in children.",
+      "authors": [
+        "Aditi Sinha",
+        "Ashima Gulati",
+        "Savita Saini",
+        "Caroline Blanc",
+        "Aarti Gupta",
+        "Bahadur Singh Gurjar",
+        "Himanshi Saini",
+        "Shambhuprasad T Kotresh",
+        "Uma Ali",
+        "Divya Bhatia",
+        "Alpana Ohri",
+        "Manish Kumar",
+        "Indira Agarwal",
+        "Sanjeev Gulati",
+        "Kanav Anand",
+        "M Vijayakumar",
+        "Rajiv Sinha",
+        "Sidharth Sethi",
+        "Maud Salmona",
+        "Anna George",
+        "Vineeta Bal",
+        "Geetika Singh",
+        "Amit K Dinda",
+        "Pankaj Hari",
+        "Satyajit Rath",
+        "Marie-Agnes Dragon-Durey",
+        "Arvind Bagga"
+      ],
+      "year": "2014",
+      "journal": "Kidney international",
+      "doi": "10.1038/ki.2013.373",
+      "doi_link": "https://doi.org/10.1038/ki.2013.373",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24088957",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Prompt%20plasma%20exchanges%20and%20immunosuppressive%20treatment%20improves%20the%20outcomes%20of%20anti-factor%20H%20autoantibody-associated%20hemolytic%20uremic%20syndrome%20in%20children%22",
+      "citations": {
+        "crossref": 175
+      },
+      "abstract": "Antibodies to complement factor H are an uncommon cause of hemolytic uremic syndrome (HUS). Information on clinical features and outcomes in children is limited. In order to explore this we studied a multicenter cohort of 138 Indian children with anti-complement factor H antibody associated HUS, constituting 56% of patients with HUS. Antibody titers were high (mean 7054 AU/ml) and correlated inversely with levels of complement C3, but not complement factor H. Homozygous deletion of the CFHR1 gene was found in 60 of 68 patients. Therapies included dialysis in 119 children, 105 receiving plasma exchanges and 26 intravenous immunoglobulin. Induction immunosuppression consisted of 87 children receiving prednisolone with or without intravenous cyclophosphamide or rituximab. Antibody titers fell significantly following plasma exchanges and increased during relapses. Adverse outcome (stage 4-5 CKD or death) was seen in 36 at 3 months and 41 by last follow up, with relapse in 14 of 122 available children. Significant independent risk factors for adverse outcome were an antibody titer over 8000 AU/ml, low C3 and delay in plasma exchange. Combined plasma exchanges and induction immunosuppression resulted in significantly improved renal survival: one adverse outcome prevented for every 2.6 patients treated. Maintenance immunosuppressive therapy, of prednisolone with either mycophenolate mofetil or azathioprine, significantly reduced the risk of relapses. Thus, prompt use of immunosuppressive agents and plasma exchanges are useful for improving outcomes in pediatric patients with anti-complement factor H-associated HUS.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper33",
+      "publication_id": "22869892",
+      "title": "A role for apoptosis-inducing factor in T cell development.",
+      "authors": [
+        "Hridesh Banerjee",
+        "Abhishek Das",
+        "Smita Srivastava",
+        "Hamid R Mattoo",
+        "Krishnamurthy Thyagarajan",
+        "Jasneet Kaur Khalsa",
+        "Shalini Tanwar",
+        "Deepika Sharma Das",
+        "Subeer S Majumdar",
+        "Anna George",
+        "Vineeta Bal",
+        "Jeannine M Durdik",
+        "Satyajit Rath"
+      ],
+      "year": "2012",
+      "journal": "The Journal of experimental medicine",
+      "doi": "10.1084/jem.20110306",
+      "doi_link": "https://doi.org/10.1084/jem.20110306",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22869892",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20role%20for%20apoptosis-inducing%20factor%20in%20T%20cell%20development%22",
+      "citations": {
+        "crossref": 15
+      },
+      "abstract": "Apoptosis-inducing factor (Aif) is a mitochondrial flavoprotein that regulates cell metabolism and survival in many tissues. We report that aif-hypomorphic harlequin (Hq) mice show thymic hypocellularity and a cell-autonomous thymocyte developmental block associated with apoptosis at the β-selection stage, independent of T cell receptor β recombination. No abnormalities are observed in the B cell lineage. Transgenes encoding wild-type or DNA-binding-deficient mutant Aif rectify the thymic defect, but a transgene encoding oxidoreductase activity-deficient mutant Aif does not. The Hq thymic block is reversed in vivo by antioxidant treatment, and Hq T but not B lineage cells show enhanced oxidative stress. Thus, Aif, a ubiquitous protein, serves a lineage-specific nonredundant antiapoptotic role in the T cell lineage by regulating reactive oxygen species during thymic β-selection.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper34",
+      "publication_id": "22675203",
+      "title": "Recruitment of memory B cells to lymph nodes remote from the site of immunization requires an inflammatory stimulus.",
+      "authors": [
+        "Gautam N Shenoy",
+        "Priyadarshini Chatterjee",
+        "Sheetal Kaw",
+        "Snigdha Mukherjee",
+        "Deepak K Rathore",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Anna George"
+      ],
+      "year": "2012",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.1102814",
+      "doi_link": "https://doi.org/10.4049/jimmunol.1102814",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22675203",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Recruitment%20of%20memory%20B%20cells%20to%20lymph%20nodes%20remote%20from%20the%20site%20of%20immunization%20requires%20an%20inflammatory%20stimulus%22",
+      "citations": {
+        "semantic_scholar": 16
+      },
+      "abstract": "Successful recall Ab responses require recruitment of quiescent memory B cells to secondary lymphoid organs. However, the cellular dynamics of memory cells responding to local antigenic challenge at lymphoid sites distal from the initial Ag encounter are not well understood. We show in this study that memory B cells generated following s.c. immunization in one footpad generate secondary responses to soluble Ag given i.p. but not to Ag given s.c. in the contralateral footpad unless LPS is coadministered. Memory B cells do not express CD62L, and CD62L(-ve) cells cannot enter lymph nodes unless LPS-mediated inflammation is induced there. Functional TLR4 is required on the B cells, as well as on non-B cells, in the lymph node to achieve full recruitment. Furthermore, splenectomized mice fail to respond to such inflammatory s.c. challenge in contralateral footpads, unlike lymphadenectomized mice lacking the original draining lymph nodes. Splenectomized mice also fail to respond to i.p. challenge with soluble Ag. Together, these data indicate that, unlike the central memory pool of T cells, which circulates through resting lymph nodes, the majority of long-lived memory B cells are spleen resident and require inflammatory signals for mounting recall responses at distal challenge sites.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper35",
+      "publication_id": "22654663",
+      "title": "Chitohexaose activates macrophages by alternate pathway through TLR4 and blocks endotoxemia.",
+      "authors": [
+        "Santosh K Panda",
+        "Sunil Kumar",
+        "Nitin C Tupperwar",
+        "Tushar Vaidya",
+        "Anna George",
+        "Satyajit Rath",
+        "Vineeta Bal",
+        "Balachandran Ravindran"
+      ],
+      "year": "2012",
+      "journal": "PLoS pathogens",
+      "doi": "10.1371/journal.ppat.1002717",
+      "doi_link": "https://doi.org/10.1371/journal.ppat.1002717",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22654663",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Chitohexaose%20activates%20macrophages%20by%20alternate%20pathway%20through%20TLR4%20and%20blocks%20endotoxemia%22",
+      "citations": {
+        "crossref": 81
+      },
+      "abstract": "Sepsis is a consequence of systemic bacterial infections leading to hyper activation of immune cells by bacterial products resulting in enhanced release of mediators of inflammation. Endotoxin (LPS) is a major component of the outer membrane of Gram negative bacteria and a critical factor in pathogenesis of sepsis. Development of antagonists that inhibit the storm of inflammatory molecules by blocking Toll like receptors (TLR) has been the main stay of research efforts. We report here that a filarial glycoprotein binds to murine macrophages and human monocytes through TLR4 and activates them through alternate pathway and in the process inhibits LPS mediated classical activation which leads to inflammation associated with endotoxemia. The active component of the nematode glycoprotein mediating alternate activation of macrophages was found to be a carbohydrate residue, Chitohexaose. Murine macrophages and human monocytes up regulated Arginase-1 and released high levels of IL-10 when incubated with chitohexaose. Macrophages of C3H/HeJ mice (non-responsive to LPS) failed to get activated by chitohexaose suggesting that a functional TLR4 is critical for alternate activation of macrophages also. Chitohexaose inhibited LPS induced production of inflammatory molecules TNF-α, IL-1β and IL-6 by macropahges in vitro and in vivo in mice. Intraperitoneal injection of chitohexaose completely protected mice against endotoxemia when challenged with a lethal dose of LPS. Furthermore, Chitohexaose was found to reverse LPS induced endotoxemia in mice even 6/24/48 hrs after its onset. Monocytes of subjects with active filarial infection displayed characteristic alternate activation markers and were refractory to LPS mediated inflammatory activation suggesting an interesting possibility of subjects with filarial infections being less prone to develop of endotoxemia. These observations that innate activation of alternate pathway of macrophages by chtx through TLR4 has offered novel opportunities to cell biologists to study two mutually exclusive activation pathways of macrophages being mediated through a single receptor.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper36",
+      "publication_id": "22327079",
+      "title": "Modulation of antigen presentation and B cell receptor signaling in B cells of beige mice.",
+      "authors": [
+        "Priyadarshini Chatterjee",
+        "Ritesh Kumar Tiwari",
+        "Satyajit Rath",
+        "Vineeta Bal",
+        "Anna George"
+      ],
+      "year": "2012",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.1101527",
+      "doi_link": "https://doi.org/10.4049/jimmunol.1101527",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22327079",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Modulation%20of%20antigen%20presentation%20and%20B%20cell%20receptor%20signaling%20in%20B%20cells%20of%20beige%20mice%22",
+      "citations": {
+        "crossref": 13
+      },
+      "abstract": "Binding of Ag by B cells leads to signal transduction downstream of the BCR and to delivery of the internalized Ag-BCR complex to lysosomes where the Ag is processed and presented on MHC class II molecules. T cells that recognize the peptide-MHC complexes provide cognate help to B cells in the form of costimulatory signals and cytokines. Recruitment of T cell help shapes the Ab response by facilitating isotype switching and somatic hypermutation, and promoting the generation of memory cells and long-lived plasma cells. We have used the beige (Bg) mouse, which is deficient in endosome biogenesis, to evaluate the effect of potentially altered Ag presentation in shaping the humoral response. We show that movement of the endocytosed Ag-BCR complex to lysosomes is delayed in Bg B cells and leads to relatively poorer stimulation of Ag-specific T cells. Nevertheless, this does not affect Bg B cell activation or proliferation when competing with wild-type B cells for limiting T cell help in vitro. Interestingly, Bg B cells show more prolonged phosphorylation of signaling intermediates after BCR ligation and proliferate better to low levels of BCR cross-linking. Primary Ab responses are similar in both strains, but memory responses and plasma cell frequencies in bone marrow are higher in Bg mice. Further, Bg B cells mount a higher primary Ab response when competing with wild-type cells in vivo. Thus, the intensity and duration of BCR signaling may play a more important part in shaping B cell responses than early Ag presentation for T cell help.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper37",
+      "publication_id": "21193961",
+      "title": "Role of Bruton's tyrosine kinase in macrophage apoptosis.",
+      "authors": [
+        "Anupriya Khare",
+        "Bharathi Viswanathan",
+        "Rupali Gund",
+        "Nidhi Jain",
+        "Balachandran Ravindran",
+        "Anna George",
+        "Satyajit Rath",
+        "Vineeta Bal"
+      ],
+      "year": "2011",
+      "journal": "Apoptosis : an international journal on programmed cell death",
+      "doi": "10.1007/s10495-010-0569-6",
+      "doi_link": "https://doi.org/10.1007/s10495-010-0569-6",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21193961",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Role%20of%20Bruton%27s%20tyrosine%20kinase%20in%20macrophage%20apoptosis%22",
+      "citations": {
+        "semantic_scholar": 19
+      },
+      "abstract": "Macrophages and polymorphonuclear cells (PMNs) rapidly respond to microbial and immune inflammatory stimuli and die during these responses. We have shown earlier that many macrophage and PMN functions are compromised in x-linked immunodeficient (Xid) mice with functional deficiency in Bruton's tyrosine kinase (Btk). We now report that Btk-deficient macrophages show enhanced susceptibility to apoptotic death on exposure to the microbial and immune inflammatory signals bacterial lipopolysaccharide (LPS) and interferon-gamma (IFNγ) in vitro. In vivo in mixed bone marrow (BM) chimeras Btk deficiency leads primarily to loss of peripheral macrophage numbers without affecting BM development, suggesting a role of inflammation-induced apoptosis in regulating macrophage life span. Surprisingly, Btk deficiency does not affect macrophage apoptosis induced by DNA damage or CD95 engagement. Reactive nitrogen and oxygen species also do not contribute to inflammation-induced apoptosis, but apoptotic process involves loss of mitochondrial potential, shows increased activation of caspase 9 and enhanced loss of Bcl-xL. The lack of pro-survival signaling through the Btk-phosphotidylinositol 3-kinase-Akt pathway, and persistent MEK signaling, lead to enhanced death in Btk-deficient macrophages only downstream of inflammatory triggers. These data underline the complex role of Btk in the regulation of macrophage survival and function.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper38",
+      "publication_id": "20974987",
+      "title": "Inhibition of terminal differentiation of B cells mediated by CD27 and CD40 involves signaling through JNK.",
+      "authors": [
+        "Shuchismita Satpathy",
+        "Gautam N Shenoy",
+        "Sheetal Kaw",
+        "Tushar Vaidya",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Anna George"
+      ],
+      "year": "2010",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.0903229",
+      "doi_link": "https://doi.org/10.4049/jimmunol.0903229",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20974987",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Inhibition%20of%20terminal%20differentiation%20of%20B%20cells%20mediated%20by%20CD27%20and%20CD40%20involves%20signaling%20through%20JNK%22",
+      "citations": {
+        "semantic_scholar": 10
+      },
+      "abstract": "B cells responding to cognate Ag in vivo undergo clonal expansion that is followed by differentiation into Ab-secreting plasma cells or into quiescent restimulable memory. Both these events occur in the germinal center and require that cells exit from proliferation, but the signals that lead to one or the other of these mutually exclusive differentiation pathways have not been definitively characterized. Previous experiments have shown that signals transduced through the TNFRs CD27 and CD40 at the time of B cell stimulation in vitro or in vivo can influence this cell fate decision by inhibiting terminal differentiation and promoting memory. In this study, we show that the PIQED domain of the cytoplasmic tail of murine CD27 and the adapter molecule TNFR-associated factor 2 are involved in this effect. Using pharmacological inhibitors of signaling intermediates, we identify JNK as being necessary and sufficient for the observed inhibition of terminal differentiation. While JNK is involved downstream of CD40, inhibition of the MEK pathway can also partially restore plasma cell generation, indicating that both signaling intermediates may be involved. We also show that inhibition of induction of IFN regulatory factor 4 and B lymphocyte induced maturation protein 1 are downstream events common to both receptors.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper39",
+      "publication_id": "20831385",
+      "title": "A superantigen interacts with leishmanial infection in antigen-presenting cells to regulate cytokine commitment of responding CD4 T cells.",
+      "authors": [
+        "Vineeth Varanasi",
+        "Hamid Mattoo",
+        "Nitin C Tupperwar",
+        "Krishnamurthy Thyagarajan",
+        "Abhishek Das",
+        "Ramesh Kumar",
+        "Vineeta Bal",
+        "Tushar Vaidya",
+        "Anna George",
+        "Satyajit Rath"
+      ],
+      "year": "2010",
+      "journal": "The Journal of infectious diseases",
+      "doi": "10.1086/656366",
+      "doi_link": "https://doi.org/10.1086/656366",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20831385",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20superantigen%20interacts%20with%20leishmanial%20infection%20in%20antigen-presenting%20cells%20to%20regulate%20cytokine%20commitment%20of%20responding%20CD4%20T%20cells%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "Germ-line retroviral insertions in vertebrate genomes are implicated in the modulation of host immune responses. We demonstrate that CBA/J mice, which carry the proviral integrants mammary tumor virus locus 6 (Mtv6) and mammary tumor virus locus 7 (Mtv7), are less resistant to infection with the protozoan pathogen Leishmania major compared with closely related but Mtv6-negative and Mtv7-negative CBA/CaJ mice. Although both strains generated comparable L. major-specific CD4 T cell frequencies, T cells from CBA/J mice made much less interferon γ (IFN-γ). L. major-infected CBA/CaJ dendritic cells primed L. major-specific and allospecific IFN-γ-producing CD4 T cells better in vivo and in vitro, respectively, than CBA/J dendritic cells did. L. major susceptibility appeared to be associated with Mtv7, and v-Sag-7 superantigen expression and L. major infection together reduced the ability of an antigen-presenting cell line to prime alloresponder CD4 T cells for IFN-γ commitment. These data show that an endogenous superantigen can interact with L. major infection to alter antigen-presenting cell properties and modulate T cell cytokine commitment, with implications for human susceptibility to infectious diseases.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper40",
+      "publication_id": "19748905",
+      "title": "Naive CD4 T cells from aged mice show enhanced death upon primary activation.",
+      "authors": [
+        "Hamid Mattoo",
+        "Matthew Faulkner",
+        "Usha Kandpal",
+        "Rituparna Das",
+        "Virginia Lewis",
+        "Anna George",
+        "Satyajit Rath",
+        "Jeannine M Durdik",
+        "Vineeta Bal"
+      ],
+      "year": "2009",
+      "journal": "International immunology",
+      "doi": "10.1093/intimm/dxp094",
+      "doi_link": "https://doi.org/10.1093/intimm/dxp094",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19748905",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Naive%20CD4%20T%20cells%20from%20aged%20mice%20show%20enhanced%20death%20upon%20primary%20activation%22",
+      "citations": {
+        "semantic_scholar": 22
+      },
+      "abstract": "Poor T cell immunity is one of the many defects seen in elderly humans and aged (Ad) mice. We report that naive CD4 T cells from aged mice (ANCD4 cells) showed greater apoptosis upon primary activation than those from young (Yg) mice, with loss of mitochondrial membrane potential, poor activation of Rel family transcription factors and increased DNA damage. Their ability to enhance glycolysis, produce lactate and induce autophagy following activation was also compromised. ANCD4 cells remained susceptible to death beyond first cell division. Activated ANCD4 cells also showed poor transition to a 'central memory' (CM) CD44(high), CD62L(high) phenotype in vitro. This correlated with low proportions of CM cells in Ad mice in vivo. Functionally, too, IFN-gamma responses recalled from T cells of immunized Ad mice, poor to begin with, worsened with time as compared with Yg mice. Thus, ANCD4 cells handle activation-associated stress very poorly due to multiple defects, possibly contributing to poor formation of long-lasting memory.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper41",
+      "publication_id": "19620308",
+      "title": "HIV-1 Nef promotes endocytosis of cell surface MHC class II molecules via a constitutive pathway.",
+      "authors": [
+        "Ashutosh Chaudhry",
+        "Divya Anna Verghese",
+        "Suman Ranjan Das",
+        "Shahid Jameel",
+        "Anna George",
+        "Vineeta Bal",
+        "Satyajit Mayor",
+        "Satyajit Rath"
+      ],
+      "year": "2009",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.0804014",
+      "doi_link": "https://doi.org/10.4049/jimmunol.0804014",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19620308",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22HIV-1%20Nef%20promotes%20endocytosis%20of%20cell%20surface%20MHC%20class%20II%20molecules%20via%20a%20constitutive%20pathway%22",
+      "citations": {
+        "crossref": 21
+      },
+      "abstract": "HIV-1 Nef has been reported to disrupt MHC class II (MHCII)-mediated Ag presentation by a dual strategy that comprises a reduction in cell surface levels of peptide-loaded mature MHCII molecules and a up-regulation of immature MHCII molecules. We show that Nef achieves relocation of MHCII away from the cell surface in monocytic cells by both delaying its transport to the cell surface and by accelerating endocytic removal of cell surface MHCII to a lysosomal compartment. Nef-induced MHCII endocytosis is cholesterol-sensitive but clathrin- and dynamin-independent. Internalized MHCII molecules traverse the early endosomal system and colocalize with pinocytic cargo before reaching lysosomes. Nef-triggered MHCII endocytosis requires Rab5 activity and lyst function, whereas lysosomal trafficking of internalized MHCII molecules requires Rab7 activity. We further show that a similar pathway can remove peptide-MHCII complexes from the surface of monocytic cells not expressing Nef. Our data suggest that Nef uses mechanisms involved in normal MHCII recycling and turnover to mediate the delivery of cell surface MHCII to a lysosomal destination. Thus, Nef-mediated endocytosis of MHCII provides a novel perspective on the regulation of normal MHCII trafficking.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper42",
+      "publication_id": "18764822",
+      "title": "HIV-1 Nef induces a Rab11-dependent routing of endocytosed immune costimulatory proteins CD80 and CD86 to the Golgi.",
+      "authors": [
+        "Ashutosh Chaudhry",
+        "Suman Ranjan Das",
+        "Shahid Jameel",
+        "Anna George",
+        "Vineeta Bal",
+        "Satyajit Mayor",
+        "Satyajit Rath"
+      ],
+      "year": "2008",
+      "journal": "Traffic (Copenhagen, Denmark)",
+      "doi": "10.1111/j.1600-0854.2008.00802.x",
+      "doi_link": "https://doi.org/10.1111/j.1600-0854.2008.00802.x",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18764822",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22HIV-1%20Nef%20induces%20a%20Rab11-dependent%20routing%20of%20endocytosed%20immune%20costimulatory%20proteins%20CD80%20and%20CD86%20to%20the%20Golgi%22",
+      "citations": {
+        "crossref": 29
+      },
+      "abstract": "The Nef protein of HIV-1 removes the immune costimulatory proteins CD80 and CD86 from the cell surface by a unique clathrin- and dynamin-independent, actin-based endocytic pathway that deploys coupled activation of c-src and Rac. In this study, we show that, similar to major histocompatibility complex class I (MHCI), Nef subsequently reroutes CD80 and CD86 to the Golgi region. However, not only are CD80/CD86 internalized by a different mechanism from MHCI but also the vesicular pathway of Golgi delivery for CD80/CD86 is distinct from that employed for MHCI. While MHCI passes through early endosomal and sorting compartments marked by Rab5/early embryonic antigen 1 and ADP ribosylation factor 6, respectively, CD80 and CD86 enter endocytic vesicles that do not acquire conventional early endosomal markers but remain accessible to fluid probes. Rather than being delivered to preexisting Rab11-positive recycling compartments, these vesicles recruit Rab11 de novo. Rab11 activity is also necessary for the delivery of CD80/CD86 in these transitional vesicles to the Golgi region. These data reveal an unusual pathway of endocytic vesicular traffic to the Golgi and its recruitment in a viral immune evasion strategy.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper43",
+      "publication_id": "18005680",
+      "title": "A two-pronged mechanism for HIV-1 Nef-mediated endocytosis of immune costimulatory molecules CD80 and CD86.",
+      "authors": [
+        "Ashutosh Chaudhry",
+        "Suman Ranjan Das",
+        "Shahid Jameel",
+        "Anna George",
+        "Vineeta Bal",
+        "Satyajit Mayor",
+        "Satyajit Rath"
+      ],
+      "year": "2007",
+      "journal": "Cell host & microbe",
+      "doi": "10.1016/j.chom.2007.01.001",
+      "doi_link": "https://doi.org/10.1016/j.chom.2007.01.001",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18005680",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20two-pronged%20mechanism%20for%20HIV-1%20Nef-mediated%20endocytosis%20of%20immune%20costimulatory%20molecules%20CD80%20and%20CD86%22",
+      "citations": {
+        "semantic_scholar": 48
+      },
+      "abstract": "The Nef protein of HIV-1 mediates immune evasion by relocating major histocompatibility complex (MHC) molecules and the immune costimulatory molecules CD80 and CD86 away from the monocytic cell surface. We describe a two-pronged mechanism by which Nef removes CD80 and CD86 from the cell surface. While MHCI, CD80, and CD86 are all internalized via a dynamin-independent pathway, the endocytic mechanism used for costimulatory molecules is distinct from MHCI relocation. Nef expression results in the activation and actin-dependent translocation of Src kinase to the cell periphery. At the cell surface, Src promotes Rac activation via TIAM, a guanine nucleotide exchange factor for Rac. Nef also binds to the cytosolic tails of CD80 and CD86, triggering their endocytosis via Rac-based actin polymerization. These data reveal the use of an unusual molecular mechanism triggered in the host cell by HIV to affect its viral immune evasion strategy and suggest approaches for its subversion.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper44",
+      "publication_id": "17617569",
+      "title": "Apoptosis-inducing factor regulates death in peripheral T cells.",
+      "authors": [
+        "Smita Srivastava",
+        "Hridesh Banerjee",
+        "Ashutosh Chaudhry",
+        "Anupriya Khare",
+        "Apurva Sarin",
+        "Anna George",
+        "Vineeta Bal",
+        "Jeannine M Durdik",
+        "Satyajit Rath"
+      ],
+      "year": "2007",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.179.2.797",
+      "doi_link": "https://doi.org/10.4049/jimmunol.179.2.797",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17617569",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Apoptosis-inducing%20factor%20regulates%20death%20in%20peripheral%20T%20cells%22",
+      "citations": {
+        "crossref": 14
+      },
+      "abstract": "Apoptosis-inducing factor (Aif) is a mitochondrial flavoprotein with multiple roles in apoptosis as well as in cellular respiration and redox regulation. The harlequin (Hq) mouse strain carries an aif locus modification causing reduced Aif expression. We demonstrate that activated CD4(+) and CD8(+) peripheral T cells from Hq mice show resistance to neglect-induced death (NID) triggered by growth factor withdrawal, but not to death induced by multiple agents that trigger DNA damage. Aif translocates to the nucleus in cells undergoing NID, and, in Hq T cell blasts, resistance to NID is associated with reduced cytosolic release of mitochondrial cytochrome c, implicating Aif in this event. In contrast, Hq T cell blasts express higher levels of CD95L, demonstrating increased susceptibility to activation-induced cell death (AICD) and apoptosis triggered by hydrogen peroxide. Superoxide scavenging protects from AICD in wild-type, but not Hq, T cell blasts, suggesting that Aif plays a crucial superoxide-scavenging role to regulate T cell AICD. Finally, the altered pattern of death susceptibility is reproduced by siRNA-mediated reduction of Aif expression in normal T cells. Thus, Aif serves nonredundant roles, both proapoptotic and antiapoptotic, in activated peripheral T cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper45",
+      "publication_id": "16552710",
+      "title": "A role for the Hsp90 molecular chaperone family in antigen presentation to T lymphocytes via major histocompatibility complex class II molecules.",
+      "authors": [
+        "Deepa Rajagopal",
+        "Vineeta Bal",
+        "Satyajit Mayor",
+        "Anna George",
+        "Satyajit Rath"
+      ],
+      "year": "2006",
+      "journal": "European journal of immunology",
+      "doi": "10.1002/eji.200535326",
+      "doi_link": "https://doi.org/10.1002/eji.200535326",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16552710",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20role%20for%20the%20Hsp90%20molecular%20chaperone%20family%20in%20antigen%20presentation%20to%20T%20lymphocytes%20via%20major%20histocompatibility%20complex%20class%20II%20molecules%22",
+      "citations": {
+        "semantic_scholar": 46
+      },
+      "abstract": "The heat shock protein (HSP) Hsp90 is known to chaperone cytosolic peptides for MHC class I (MHCI)-restricted antigen presentation to T lymphocytes. We now demonstrate a role for Hsp90 activity in presentation of antigens on MHCII. Treatment of mouse antigen-presenting cells (APC) with the pharmacological Hsp90 inhibitor, geldanamycin, inhibited MHCII-mediated presentation of endocytosed and cytosolic proteins as well as synthetic peptides to specific T cells. Ectopic expression of human Hsp90 in APC enhanced MHCII-mediated antigen presentation. Further, pharmacological Hsp90 inhibition reduced, while retroviral Hsp90 overexpression enhanced, the levels of stable compact MHCII heterodimers correlating with the antigen presentation phenotype. Pharmacological inhibition of Hsp90 activity in IFN-gamma-treated APC resulted in severe abrogation of MHCII-restricted presentation of cytosolic antigen, but only partially inhibited exogenous antigen presentation. Our data suggest a major role for Hsp90 activity in MHCII-mediated antigen presentation pathways, and implicate IFN-gamma-inducible Hsp90-independent mechanisms.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper46",
+      "publication_id": "16177101",
+      "title": "The Nef protein of HIV-1 induces loss of cell surface costimulatory molecules CD80 and CD86 in APCs.",
+      "authors": [
+        "Ashutosh Chaudhry",
+        "Suman Ranjan Das",
+        "Amjad Hussain",
+        "Satyajit Mayor",
+        "Anna George",
+        "Vineeta Bal",
+        "Shahid Jameel",
+        "Satyajit Rath"
+      ],
+      "year": "2005",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.175.7.4566",
+      "doi_link": "https://doi.org/10.4049/jimmunol.175.7.4566",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16177101",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20Nef%20protein%20of%20HIV-1%20induces%20loss%20of%20cell%20surface%20costimulatory%20molecules%20CD80%20and%20CD86%20in%20APCs%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "The Nef protein of HIV-1 is essential for its pathogenicity and is known to down-regulate MHC expression on infected cell surfaces. We now show that Nef also redistributes the costimulatory molecules CD80 and CD86 away from the cell surface in the human monocytic U937 cell line as well as in mouse macrophages and dendritic cells. Furthermore, HIV-1-infected U937 cells and human blood-derived macrophages show a similar loss of cell surface CD80 and CD86. Nef colocalizes with MHC class I (MHCI), CD80, and CD86 in intracellular compartments, and binds to both mouse and human CD80 and CD86. Some Nef mutants defective in MHCI down-modulation, including one from a clinical isolate, remain capable of down-modulating CD80 and CD86. Nef-mediated loss of surface CD80/CD86 is functionally significant, because it leads to compromised activation of naive T cells. This novel immunomodulatory role of Nef may be of potential importance in explaining the correlations of macrophage-tropism and Nef with HIV-1 pathogenicity and immune evasion.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper47",
+      "publication_id": "16081787",
+      "title": "Lack of ICAM-1 on APCs during T cell priming leads to poor generation of central memory cells.",
+      "authors": [
+        "Neetha Parameswaran",
+        "Radhakrishnan Suresh",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Anna George"
+      ],
+      "year": "2005",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.175.4.2201",
+      "doi_link": "https://doi.org/10.4049/jimmunol.175.4.2201",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16081787",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Lack%20of%20ICAM-1%20on%20APCs%20during%20T%20cell%20priming%20leads%20to%20poor%20generation%20of%20central%20memory%20cells%22",
+      "citations": {
+        "semantic_scholar": 53
+      },
+      "abstract": "ICAM-1/LFA-1 interactions are known to enhance T cell/APC interactions and to promote T cell activation and cytokine secretion. We have analyzed the consequences of ICAM-1-mediated signaling on the generation of memory T cell subsets. We report that lack of ICAM-1 on APCs, but not on T cells, leads to poor T cell activation and proliferation in vitro and in vivo, and that the defect can be compensated by Ag dose, exogenous IL-2, additional costimulation, and by increasing responder T cell density on APCs. ICAM-1-null mice do not respond to immunization with OVA peptide, but immunization with OVA or with Salmonella typhimurium leads to good T cell proliferation 7-10 days later, and clearance of a challenge infection is equivalent to that of wild-type mice. However, when followed over time, recall proliferation and antibacterial immunity decay rapidly in ICAM-1-null mice, while recall cytokine responses are unaffected. The decline in immunity is not related to poor survival of T cells activated on ICAM-1-null APCs, or to poor generation of effectors in ICAM-1-null mice. Phenotypic analysis of T cells stimulated on ICAM-1-null APCs reveals preferential generation of CD44(high) CD62L(low) effector memory cells (T(EM)) over CD44(high) CD62L(high) central memory cells (T(CM)). Further, while the proportion of naive:memory T cells is similar in unmanipulated wild-type and ICAM-1-null mice, there is an accumulation of T(EM) cells, and a high T(EM):T(CM) ratio in aging ICAM-1-null mice. Together, the data indicate that signaling through LFA-1 during T cell activation may be involved in commitment to a proliferation-competent memory pool.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper48",
+      "publication_id": "15347856",
+      "title": "Diversity & overlap in the mechanisms of processing protein antigens for presentation to T cells.",
+      "authors": [
+        "Deepa Rajagopal",
+        "Vineeta Bal",
+        "Anna George",
+        "Satyajit Rath"
+      ],
+      "year": "2004",
+      "journal": "The Indian journal of medical research",
+      "doi": null,
+      "doi_link": "",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15347856",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Diversity%20%26%20overlap%20in%20the%20mechanisms%20of%20processing%20protein%20antigens%20for%20presentation%20to%20T%20cells%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "The immune system needs to recognise target protein antigens from pathogens residing in both extracellular and intracellular locations. Intricate proteolytic processing events that follow antigen/ pathogen encounter provide the immune system with a complex display of a heterogeneous peptide mix, instrumental in the initiation of T cell immune responses, and allow the separation of extracellular and intracellular pathogen identification. However, recent evidence shows that this conventional dimorphism in the proteolytic processing of endogenous versus internalised antigen is less restrictive than originally recognized. The events that constitute the conventional major histocompatibility complex (MHC)-restricted processing pathways are accompanied by interesting deviations that provide novel adjuncts for the processing machinery to gain access to antigen in varied intracellular locations. This review discusses these aspects of classical and non-classical processing pathways for MHC-restricted protein presentation, which play significant roles in both optimising and diversifying the peptide repertoire available for immune recognition.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper49",
+      "publication_id": "15316082",
+      "title": "The pathway for MHCII-mediated presentation of endogenous proteins involves peptide transport to the endo-lysosomal compartment.",
+      "authors": [
+        "Aadish Dani",
+        "Ashutosh Chaudhry",
+        "Paushali Mukherjee",
+        "Deepa Rajagopal",
+        "Sumeena Bhatia",
+        "Anna George",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Satyajit Mayor"
+      ],
+      "year": "2004",
+      "journal": "Journal of cell science",
+      "doi": "10.1242/jcs.01288",
+      "doi_link": "https://doi.org/10.1242/jcs.01288",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15316082",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20pathway%20for%20MHCII-mediated%20presentation%20of%20endogenous%20proteins%20involves%20peptide%20transport%20to%20the%20endo-lysosomal%20compartment%22",
+      "citations": {
+        "crossref": 64
+      },
+      "abstract": "Antigen-presenting cells (APCs) are expected to present peptides from endocytosed proteins via major histocompatibility complex (MHC) class II (MHCII) molecules to T cells. However, a large proportion of peptides purified from MHCII molecules are derived from cytosolic self-proteins making the pathway of cytosolic peptide loading onto MHCII of critical relevance in the regulation of immune self-tolerance. We show that peptides derived from cytoplasmic proteins either introduced or expressed in the cytoplasm are first detectable as MHCII-peptide complexes in LAMP-1(+) lysosomes, prior to their delivery to the cell surface. These peptide-MHC complexes are formed in a variety of APCs, including peritoneal macrophages, dendritic cells, and B cells, and are able to activate T cells. This process requires invariant chain (Ii)-dependent sorting of MHCII to the lysosome and the activity of the molecular chaperone H-2M. This pathway is independent of the ER resident peptide transporter complex TAP and does not take place by cross-presentation from neighbouring cells. In conjunction with our earlier results showing that these peptides are derived by cytosolic processing via the proteasome, these observations provide evidence for a ubiquitous route for peptide transport into the lysosome for the efficient presentation of endogenous and cytoplasmic proteins to CD4 T cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper50",
+      "publication_id": "15213121",
+      "title": "Oral tolerance in T cells is accompanied by induction of effector function in lymphoid organs after systemic immunization.",
+      "authors": [
+        "Neetha Parameswaran",
+        "Devadoss John Samuvel",
+        "Ramesh Kumar",
+        "Sangeeta Thatai",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Anna George"
+      ],
+      "year": "2004",
+      "journal": "Infection and immunity",
+      "doi": "10.1128/IAI.72.7.3803-3811.2004",
+      "doi_link": "https://doi.org/10.1128/IAI.72.7.3803-3811.2004",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15213121",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Oral%20tolerance%20in%20T%20cells%20is%20accompanied%20by%20induction%20of%20effector%20function%20in%20lymphoid%20organs%20after%20systemic%20immunization%22",
+      "citations": {
+        "semantic_scholar": 11
+      },
+      "abstract": "The physiological ramifications of oral tolerance remain poorly understood. We report here that mice fed ovalbumin (OVA) exhibit oral tolerance to subsequent systemic immunization with OVA in adjuvant, and yet they clear systemic infection with a recombinant OVA-expressing strain of Salmonella enterica serovar Typhimurium better than unfed mice do. Mice fed a sonicated extract of S. enterica serovar Typhimurium are also protected against systemic bacterial challenge, and the protection is Th1 mediated, as feeding enhances clearance in interleukin-4-null (IL-4(-/-)) and IL-10(-/-) mice but not in gamma interferon-null (IFN-gamma(-/-)) mice. When T-cell priming in vivo is tracked temporally in T-cell receptor-transgenic mice fed a single low dose of OVA, CD4 T-cell activation and expansion are restricted largely to mucosal lymphoid organs. However, T cells from spleens and peripheral lymph nodes of fed mice proliferate and secrete IFN-gamma when restimulated with OVA in vitro, indicating the presence of primed T cells in systemic tissues following oral exposure to antigen. Nonetheless, oral tolerance can be observed in the fed mice as reduced recall responses following subsequent systemic immunization with OVA in adjuvant. Soluble OVA administered systemically has similar effects in vivo, and the \"tolerance\" seen in both cases can be partially reversed if the initial priming is made more immunogenic. Together, the results indicate that antigen exposure under poor adjuvantic conditions, whether oral or systemic, may lead to T-cell commitment to effector rather than proliferative capabilities, necessitating a reassessment of therapeutic modalities for induction of oral tolerance in allergic or autoimmune states.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper51",
+      "publication_id": "15199408",
+      "title": "Inducible nitric oxide synthase in T cells regulates T cell death and immune memory.",
+      "authors": [
+        "Monika Vig",
+        "Smita Srivastava",
+        "Usha Kandpal",
+        "Hadassah Sade",
+        "Virginia Lewis",
+        "Apurva Sarin",
+        "Anna George",
+        "Vineeta Bal",
+        "Jeannine M Durdik",
+        "Satyajit Rath"
+      ],
+      "year": "2004",
+      "journal": "The Journal of clinical investigation",
+      "doi": "10.1172/JCI20225",
+      "doi_link": "https://doi.org/10.1172/JCI20225",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15199408",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Inducible%20nitric%20oxide%20synthase%20in%20T%20cells%20regulates%20T%20cell%20death%20and%20immune%20memory%22",
+      "citations": {
+        "semantic_scholar": 123
+      },
+      "abstract": "The progeny of T lymphocytes responding to immunization mostly die rapidly, leaving a few long-lived survivors functioning as immune memory. Thus, control of this choice of death versus survival is critical for immune memory. There are indications that reactive radicals may be involved in this death pathway. We now show that, in mice lacking inducible nitric oxide synthase (iNOS), higher frequencies of both CD4 and CD8 memory T cells persist in response to immunization, even when iNOS(+/+) APCs are used for immunization. Postactivation T cell death by neglect is reduced in iNOS(-/-) T cells, and levels of the antiapoptotic proteins Bcl-2 and Bcl-xL are increased. Inhibitors of the iNOS-peroxynitrite pathway also enhance memory responses and block postactivation death by neglect in both mouse and human T cells. However, early primary immune responses are not enhanced, which suggests that altered survival, rather than enhanced activation, is responsible for the persistent immunity observed. Thus, in primary immune responses, iNOS in activated T cells autocrinely controls their susceptibility to death by neglect to determine the level of persisting CD4 and CD8 T cell memory, and modulation of this pathway can enhance the persistence of immune memory in response to vaccination.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper52",
+      "publication_id": "15117762",
+      "title": "Pleiotropic consequences of Bruton tyrosine kinase deficiency in myeloid lineages lead to poor inflammatory responses.",
+      "authors": [
+        "Anita Mangla",
+        "Anupriya Khare",
+        "Varanasi Vineeth",
+        "Nagesh Narayan Panday",
+        "Asok Mukhopadhyay",
+        "Balachandran Ravindran",
+        "Vineeta Bal",
+        "Anna George",
+        "Satyajit Rath"
+      ],
+      "year": "2004",
+      "journal": "Blood",
+      "doi": "10.1182/blood-2004-01-0207",
+      "doi_link": "https://doi.org/10.1182/blood-2004-01-0207",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15117762",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Pleiotropic%20consequences%20of%20Bruton%20tyrosine%20kinase%20deficiency%20in%20myeloid%20lineages%20lead%20to%20poor%20inflammatory%20responses%22",
+      "citations": {
+        "semantic_scholar": 140
+      },
+      "abstract": "Bruton tyrosine kinase (Btk), a non-receptor-associated tyrosine kinase of the Tec family, appears to participate in many myeloid cell functions. We show that macrophages from X-linked immunodeficient (XID) mice lacking functional Btk cannot generate efficient bursts of reactive oxygen intermediates (ROIs). The induction of apoptotic cell death by inflammatory stimuli is also enhanced in XID macrophages. Phagocytosis of bacterial particles is only marginally affected in them. In vivo, XID mice show reduced severity of inflammatory diseases in models of experimental autoimmune encephalomyelitis (EAE), dextran sulfate sodium (DSS)-induced colitis, and carrageenan-induced acute edema. Also, polymorphonuclear neutrophil granulocytes (PMNs) in XID mice show poor ROI and nitric oxide (NO) induction, along with a reduction in PMN recruitment to peritoneal inflammation. XID mice show reduction in PMN numbers in peripheral blood, and their bone marrow shows a reduction in the numbers of both monocytic and granulocytic lineages, extending to the earliest progenitor populations. Thus, Btk is likely to play a significant role at multiple points during the development and functioning of the myeloid lineages, affecting the outcome of many infectious as well as noninfectious inflammatory events in vivo.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper53",
+      "publication_id": "14634097",
+      "title": "Ligation of CD27 on B cells in vivo during primary immunization enhances commitment to memory B cell responses.",
+      "authors": [
+        "Vanitha S Raman",
+        "Rama S Akondy",
+        "Satyajit Rath",
+        "Vineeta Bal",
+        "Anna George"
+      ],
+      "year": "2003",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.171.11.5876",
+      "doi_link": "https://doi.org/10.4049/jimmunol.171.11.5876",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/14634097",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Ligation%20of%20CD27%20on%20B%20cells%20in%20vivo%20during%20primary%20immunization%20enhances%20commitment%20to%20memory%20B%20cell%20responses%22",
+      "citations": {
+        "crossref": 24
+      },
+      "abstract": "Ligation of CD27 on B cells has been shown to inhibit terminal differentiation of activated murine B cells into plasma cells. We show in this study that this inhibition is accompanied by an enhanced movement of activated B cells toward differentiation into memory cells. Treatment of mice with anti-CD27 during immunization leads to the generation of greater numbers of Ag-binding B cells in draining lymph nodes that persist for longer periods of time, and they contain a greater proportion of cells of a postgerminal center phenotype. Limiting dilution analyses reveal that they contain a higher frequency of cells that can be stimulated to secrete specific IgG, and adoptive transfer experiments confirm that they can generate higher secondary responses in carrier-primed recipients. Remarkably, significant secondary responses are also seen following primary immunization with a T-independent Ag in the presence of anti-CD27, confirming that ligation of CD27 on B cells during priming induces differentiation into the memory lineage. Treatment with anti-CD27 during priming also increases the average affinity of the secondary response, suggesting that high affinity clones generated early in a primary response may normally differentiate preferentially into plasma cells and are rescued from this fate by CD27 ligation. Anti-CD40 treatment shows similar effects in vivo. However, unlike CD27, CD40 coligation also enhances proliferation, survival, and isotype switching of LPS-stimulated B cells, suggesting that the two receptors may enhance commitment to B cell memory by different mechanisms, or that a common mechanism is used through both receptors that does not involve cell cycle control or survival.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper54",
+      "publication_id": "12538696",
+      "title": "Mimicry of native peptide antigens by the corresponding retro-inverso analogs is dependent on their intrinsic structure and interaction propensities.",
+      "authors": [
+        "Deepak T Nair",
+        "Kanwal J Kaur",
+        "Kavita Singh",
+        "Paushali Mukherjee",
+        "Deepa Rajagopal",
+        "Anna George",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Kanury V S Rao",
+        "Dinakar M Salunke"
+      ],
+      "year": "2003",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.170.3.1362",
+      "doi_link": "https://doi.org/10.4049/jimmunol.170.3.1362",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12538696",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mimicry%20of%20native%20peptide%20antigens%20by%20the%20corresponding%20retro-inverso%20analogs%20is%20dependent%20on%20their%20intrinsic%20structure%20and%20interaction%20propensities%22",
+      "citations": {
+        "crossref": 23
+      },
+      "abstract": "Retro-inverso (ri) analogs of model T cell and B cell epitopes were predictively designed as mimics and then assayed for activity to understand the basis of functional ri-antigenic peptide mimicry. ri versions of two MHC class I binding peptide epitopes, one from a vesicular stomatitis virus glycoprotein (VSV(p)) and another from OVA (OVAp), exhibit structural as well as functional mimicry of their native counterparts. The two ri peptides exhibit conformational plasticity and they bind to MHC class I (H-2K(b)) similar to their native counterparts both in silico and in vivo. In fact, ri-OVAp is also presented to an OVAp-specific T cell line in a mode similar to native OVAp. In contrast, the ri version of an immunodominant B cell peptide epitope from a hepatitis B virus protein, PS1, exhibits no structural or functional correlation with its native counterpart. PS1 and its ri analog do not exhibit similar conformational propensities. PS1 is less flexible relative to its ri version. These observed structure-function relationships of the ri-peptide epitopes are consistent with the differences in recognition properties between peptide-MHC vs peptide-Ab binding where, while the recognition of the epitope by MHC is pattern based, the exquisitely specific recognition of Ag by Ab arises from the high complementarity between the Ag and the binding site of the Ab. It is evident that the correlation of conformational and interaction propensities of native L-peptides and their ri counterparts depends both on their inherent structural properties and on their mode of recognition.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper55",
+      "publication_id": "12435816",
+      "title": "Commitment of activated T cells to secondary responsiveness is enhanced by signals mediated by cAMP-dependent protein kinase A-I.",
+      "authors": [
+        "Monika Vig",
+        "Anna George",
+        "Ranjan Sen",
+        "Jeannine Durdik",
+        "Satyajit Rath",
+        "Vineeta Bal"
+      ],
+      "year": "2002",
+      "journal": "Molecular pharmacology",
+      "doi": "10.1124/mol.62.6.1471",
+      "doi_link": "https://doi.org/10.1124/mol.62.6.1471",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12435816",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Commitment%20of%20activated%20T%20cells%20to%20secondary%20responsiveness%20is%20enhanced%20by%20signals%20mediated%20by%20cAMP-dependent%20protein%20kinase%20A-I%22",
+      "citations": {
+        "crossref": 14
+      },
+      "abstract": "Modalities that induce specific differentiation to T cell memory in immune responses are important for vaccine design, but there is a paucity of well characterized molecular pathways useful to target for this purpose. We have shown previously that pentoxifylline (PF), a phosphodiesterase (PDE) inhibitor in common clinical use, enhances the commitment of in vitro allo-primed human T cells to secondary responsiveness, a characteristic crucial for memory T cells, which are key determinants of the longevity of the immune response. We now show that this effect can also be mediated by activation of adenylate cyclase (AC) and involves PDE4, but not PDE3 or PDE7. PF-mediated enhancement of T-cell priming is inhibited by blocking AC, is specifically signaled via cAMP-dependent protein kinase A (PKA) isoform I, and is probably independent of both nuclear factor-kappaB and the mitogen-activated protein kinase cascade. Furthermore, known pharmacological inhibitors of AC or PKA by themselves cannot block T-cell priming in the absence of PF or rolipram (Rm), and enhancement of priming requires the presence of PF only relatively late during a 4-day priming in vitro (at 48-96 h), suggesting that pharmacological extension of cAMP-mediated signaling can bring about an event critical for T cell commitment to memory. Furthermore, PF and Rm prevent induction of caspase activation and apoptosis in anti-CD3-activated human T cells. Together, our data suggest that PKA-I-mediated signals triggered by prolonging the half-life of cAMP induced during T-cell priming increase survival of activated T cells and enhance memory T cell commitment.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper56",
+      "publication_id": "12370357",
+      "title": "Pentoxifylline functions as an adjuvant in vivo to enhance T cell immune responses by inhibiting activation-induced death.",
+      "authors": [
+        "Radhakrishnan Suresh",
+        "Monika Vig",
+        "Sumeena Bhatia",
+        "Eric P B Goodspeed",
+        "Beena John",
+        "Usha Kandpal",
+        "Smita Srivastava",
+        "Anna George",
+        "Ranjan Sen",
+        "Vineeta Bal",
+        "Jeannine M Durdik",
+        "Satyajit Rath"
+      ],
+      "year": "2002",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.169.8.4262",
+      "doi_link": "https://doi.org/10.4049/jimmunol.169.8.4262",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12370357",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Pentoxifylline%20functions%20as%20an%20adjuvant%20in%20vivo%20to%20enhance%20T%20cell%20immune%20responses%20by%20inhibiting%20activation-induced%20death%22",
+      "citations": {
+        "crossref": 22
+      },
+      "abstract": "Modalities for inducing long-lasting immune responses are essential components of vaccine design. Most currently available immunological adjuvants empirically used for this purpose cause some inflammation, limiting clinical acceptability. We show that pentoxifylline (PF), a phosphodiesterase (PDE) inhibitor in common clinical use, enhances long-term persistence of T cell responses, including protective responses to a bacterial immunogen, Salmonella typhimurium, via a cAMP-dependent protein kinase A-mediated effect on T cells if given to mice for a brief period during immunization. PF inhibits activation-mediated loss of superantigen-reactive CD4 as well as CD8 T cells in vivo without significantly affecting their activation, and inhibits activation-induced death and caspase induction in stimulated CD4 as well as CD8 T cells in vitro without preventing the induction of activation markers. Consistent with this ability to prevent activation-induced death in not only CD4 but also CD8 T cells, PF also enhances the persistence of CD8 T cell responses in vivo. Thus, specific inhibition of activation-induced T cell apoptosis transiently during immune priming is likely to enhance the persistence of CD4 and CD8 T cell responses to vaccination, and pharmacological modulators of the cAMP pathway already in clinical use can be used for this purpose as immunological adjuvants.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper57",
+      "publication_id": "12193724",
+      "title": "Role of IL-12-independent and IL-12-dependent pathways in regulating generation of the IFN-gamma component of T cell responses to Salmonella typhimurium.",
+      "authors": [
+        "Beena John",
+        "Deepa Rajagopal",
+        "Achal Pashine",
+        "Satyajit Rath",
+        "Anna George",
+        "Vineeta Bal"
+      ],
+      "year": "2002",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.169.5.2545",
+      "doi_link": "https://doi.org/10.4049/jimmunol.169.5.2545",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12193724",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Role%20of%20IL-12-independent%20and%20IL-12-dependent%20pathways%20in%20regulating%20generation%20of%20the%20IFN-gamma%20component%20of%20T%20cell%20responses%20to%20Salmonella%20typhimurium%22",
+      "citations": {
+        "crossref": 30
+      },
+      "abstract": "Clearance of facultative intracellular pathogens such as Salmonella requires IFN-gamma from CD4 T cells. Mechanisms linking intracellular pathogen recognition with induction of IFN-gamma-producing T cells are still poorly understood. We show in this study that IL-12 is not required for commitment to the IFN-gamma-producing T cell response in infection with Salmonella typhimurium, but is needed for its maintenance. The IL-12-independent signals required for commitment depend on events during the first hour of infection and are related to Ag presentation. Even transient attenuation of Ag presentation early during infection specifically abrogates the IFN-gamma component of the resulting CD4 T cell response. The IL-12 needed for maintenance is also better induced by live rather than dead bacteria in vivo, and this difference is due to specific suppression of IL-12 induction by dead bacteria. Presence of exogenous IL-4 down-modulates IL-12 production by macrophages activated in vitro. Furthermore, macrophages from IL-4-null mice secrete high levels of both IL-12 and IL-18 in response to stimulation in vivo even with dead bacteria, but this does not lead to induction of IFN-gamma-secreting T cells in response to immunization with dead S. typhimurium. Early IL-4 is contributed by triggering of CD4 NK T cells by dead, but not live, bacteria. Thus, Ag presentation-related IL-12-independent events and IL-4-sensitive IL-12-dependent events play crucial complementary roles in the generation of the IFN-gamma-committed CD4 T cell component of the immune response in Salmonella infection.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper58",
+      "publication_id": "11884462",
+      "title": "Macrophage effector functions controlled by Bruton's tyrosine kinase are more crucial than the cytokine balance of T cell responses for microfilarial clearance.",
+      "authors": [
+        "Sangita Mukhopadhyay",
+        "Madhuchhanda Mohanty",
+        "Anita Mangla",
+        "Anna George",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Balachandran Ravindran"
+      ],
+      "year": "2002",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.168.6.2914",
+      "doi_link": "https://doi.org/10.4049/jimmunol.168.6.2914",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/11884462",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Macrophage%20effector%20functions%20controlled%20by%20Bruton%27s%20tyrosine%20kinase%20are%20more%20crucial%20than%20the%20cytokine%20balance%20of%20T%20cell%20responses%20for%20microfilarial%20clearance%22",
+      "citations": {
+        "semantic_scholar": 119
+      },
+      "abstract": "Macrophages from X-linked immunodeficient (xid) mice lacking functional Bruton's tyrosine kinase (Btk) show poor NO induction and enhanced IL-12 induction, and contribute to delayed clearance of injected microfilaria (mf) in vivo. We now show that Btk is involved in other macrophage effector functions, such as bactericidal activity and secretion of proinflammatory cytokines (TNF-alpha, IL-1beta), but not the T cell-directed cytokine IL-12. Induction of some transcriptional regulators of the NF-kappaB family, crucial for the expression of proinflammatory cytokines, is also poor in Btk-deficient macrophages. Thus, Btk appears to be involved in signaling for inducible effector functions, but not APC functions, in macrophages. Furthermore, adoptive transfer of T cells from mf-infected xid or wild-type mice did not alter the course of mf clearance in recipients, mf clearance was unaltered in IFN-gamma-deficient mice, and improved mf clearance was seen only if greater inducibility of IL-12 was accompanied by greater NO secretion from macrophages, as seen in Ity(r) C.D2 mice as compared with congenic Ity(s) BALB/c mice. Thus, delayed mf clearance in xid mice was correlated not with the high IL-12/Th1 phenotype but with low NO induction levels. Also, xid macrophages showed poor toxicity to mf in vitro as compared with wild-type macrophages. Inhibition of NO production blocked this mf cytotoxicity, and an NF-kappaB inhibitor blocked both NO induction and mf cytotoxicity. Thus, Btk is involved in inducing many macrophage effector functions, and delayed mf clearance seen in Btk-deficient xid mice is due to poor NO induction in macrophages, resulting in compromised microfilarial toxicity.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper59",
+      "publication_id": "11842304",
+      "title": "Scavenger receptor-specific allergen delivery elicits IFN-gamma-dominated immunity and directs established TH2-dominated responses to a nonallergic phenotype.",
+      "authors": [
+        "Sumeena Bhatia",
+        "Sangita Mukhopadhyay",
+        "Elizabeth Jarman",
+        "Gillian Hall",
+        "Anna George",
+        "Sandip K Basu",
+        "Satyajit Rath",
+        "Jonathan R Lamb",
+        "Vineeta Bal"
+      ],
+      "year": "2002",
+      "journal": "The Journal of allergy and clinical immunology",
+      "doi": "10.1067/mai.2002.121143",
+      "doi_link": "https://doi.org/10.1067/mai.2002.121143",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/11842304",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Scavenger%20receptor-specific%20allergen%20delivery%20elicits%20IFN-gamma-dominated%20immunity%20and%20directs%20established%20TH2-dominated%20responses%20to%20a%20nonallergic%20phenotype%22",
+      "citations": {
+        "crossref": 11
+      },
+      "abstract": "BACKGROUND: Immunotherapeutic approaches to allergy consist of reliably changing allergen-specific T(H)2 immunity associated with secretion of IL-4, IL-5, and IL-13, along with IgE antibodies in atopic individuals to T(H)1 immunity. Our earlier data show that targeting of protein antigens to antigen-presenting cells (APCs), such as macrophages, by means of scavenger receptors (SRs) results in a pronounced T(H)1 immunity. Here we demonstrate a novel experimental approach for the conversion of T(H)2 immunity to T(H)1 immunity by using SR delivery of allergens. OBJECTIVES: We sought to show that targeting of allergens by means of SRs to APCs triggers T(H)1 immunity and that an established T(H)2 immunity to the Der p 1-immunodominant peptide 111-139 (p1, 111-139) can be modulated to a nonallergic T(H)1 phenotype. METHODS: Analysis of the T cell-derived cytokines IL-4, IL-5, IL-13, and IFN-gamma in response to p1, 111-139 in C57BL/6 mice 7 to 42 days after immunization, measurement of specific antibody responses, eosinophilic infiltrate, and skin hypersensitivity in response to allergen challenge constitute the parameters of in vivo immunity. RESULTS: We show that p1, 111-139, when delivered to APCs by means of SR, elicits a T(H)1-dominant immunity. If it is delivered to APCs either after chemical coupling to SR ligands or by means of mere coadsorption on alum in the presence of an SR ligand, the established T(H)2 immunity can be modified to T(H)1 immunity. CONCLUSIONS: SR-mediated delivery of allergens has immunotherapeutic potential that may be usable in atopic individuals.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 59,
+    "publications_by_year": {
+      "2024": 1,
+      "2023": 1,
+      "2022": 1,
+      "2021": 1,
+      "2020": 2,
+      "2019": 6,
+      "2018": 4,
+      "2017": 6,
+      "2016": 3,
+      "2015": 1,
+      "2014": 4,
+      "2013": 2,
+      "2012": 4,
+      "2011": 1,
+      "2010": 2,
+      "2009": 2,
+      "2008": 1,
+      "2007": 2,
+      "2006": 1,
+      "2005": 2,
+      "2004": 5,
+      "2003": 2,
+      "2002": 5
+    },
+    "top_journals": [
+      "Journal of immunology (Baltimore, Md. : 1950)",
+      "Immunology",
+      "PloS one",
+      "Scientific reports",
+      "The Indian journal of medical research"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 257,
+      "frequent_collaborators": [
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Anna George",
+        "Satyajit Mayor",
+        "Shailaja Sopory",
+        "Jeannine M Durdik",
+        "Neelam Oswal",
+        "Nitya Wadhwa"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "24088957",
+        "title": "Prompt plasma exchanges and immunosuppressive treatment improves the outcomes of anti-factor H autoantibody-associated hemolytic uremic syndrome in children.",
+        "citations": 175,
+        "year": "2014"
+      },
+      {
+        "publication_id": "15117762",
+        "title": "Pleiotropic consequences of Bruton tyrosine kinase deficiency in myeloid lineages lead to poor inflammatory responses.",
+        "citations": 140,
+        "year": "2004"
+      },
+      {
+        "publication_id": "15199408",
+        "title": "Inducible nitric oxide synthase in T cells regulates T cell death and immune memory.",
+        "citations": 123,
+        "year": "2004"
+      }
+    ]
+  }
+}

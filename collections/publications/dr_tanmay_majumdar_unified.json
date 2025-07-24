@@ -1,0 +1,799 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Tanmay Majumdar",
+    "email": "majumdart@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-tanmay-majumdar",
+    "research_domain": "Immunity & Infection",
+    "faculty_status": "current",
+    "search_date": "2025-07-01T14:34:28.520763",
+    "total_publications": 28,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Tanmay Majumdar, current faculty in Immunity & Infection at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "40053448",
+      "title": "Protocol for designing a peptide-based multi-epitope vaccine targeting monkeypox using reverse vaccine technology.",
+      "authors": [
+        "Amit Kumar",
+        "Garima Nagar",
+        "Prithwik Bhowmik",
+        "Geetika Kumari",
+        "Rasmiranjan Muduli",
+        "Mayami Das",
+        "Pritha Chakraborty",
+        "Anupamjeet Kaur",
+        "Kumari Shikha",
+        "Suprabhat Mukherjee",
+        "Rakesh Kundu",
+        "Indrakant Kumar Singh",
+        "Tanmay Majumdar"
+      ],
+      "year": "2025",
+      "journal": "STAR protocols",
+      "doi": "10.1016/j.xpro.2025.103671",
+      "doi_link": "https://doi.org/10.1016/j.xpro.2025.103671",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40053448",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Protocol%20for%20designing%20a%20peptide-based%20multi-epitope%20vaccine%20targeting%20monkeypox%20using%20reverse%20vaccine%20technology%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "Reverse vaccine technology, supported by advancements in immunoinformatics, facilitates the development of multi-epitope vaccines for rapidly evolving pathogens, thereby strengthening the immune defense. Here, we present a protocol for a peptide-based multi-epitope vaccine targeting monkeypox virus (MPXV) using an open-source approach. We describe steps for evaluating physicochemical properties and allergenicity. We then detail procedures for validating pattern recognition receptor (PRR)-binding affinity and stable major histocompatibility complex (MHC) I/II presentation. Molecular dynamics (MD) simulations confirm immune receptor interactions, enhancing vaccine stability. For complete details on the use and execution of this protocol, please refer to Kaur et al.1.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "39561856",
+      "title": "CD36 inhibition corrects lipid-FetuinA mediated insulin secretory defects by preventing intracellular lipid accumulation and inflammation in the pancreatic beta cells.",
+      "authors": [
+        "Samanwita Mandal",
+        "Snehasish Nag",
+        "Oindrila Mukherjee",
+        "Nandita Das",
+        "Priyajit Banerjee",
+        "Tanmay Majumdar",
+        "Satinath Mukhopadhyay",
+        "Kathrin Maedler",
+        "Rakesh Kundu"
+      ],
+      "year": "2025",
+      "journal": "Biochimica et biophysica acta. Molecular basis of disease",
+      "doi": "10.1016/j.bbadis.2024.167580",
+      "doi_link": "https://doi.org/10.1016/j.bbadis.2024.167580",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39561856",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22CD36%20inhibition%20corrects%20lipid-FetuinA%20mediated%20insulin%20secretory%20defects%20by%20preventing%20intracellular%20lipid%20accumulation%20and%20inflammation%20in%20the%20pancreatic%20beta%20cells%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "CD36 is a multifunctional protein involved in long chain fatty acid uptake and immune modulation in different cells. Recently it was reported that increased expression of CD36 is evident in the islets of diabetic obese individuals. In this present study we investigated the role of CD36 in regulating intracellular lipid accumulation and inflammation in beta cells and its implication on secretory dysfunction. Additionally, we have elucidated the potential role of fetuinA, a circulatory glycoprotein and an endogenous ligand of TLR4, for aggravating lipid accumulation and insulin secretory defects in beta cells. MIN6 mouse insulinoma cells when incubated with palmitate and fetuinA together showed activation of TLR4-NFkB inflammatory cascade and increased uptake of palmitate, which was rescued by CD36 functional inhibition or knockdown. Moreover, glucose stimulated insulin secretion was restored with consequent downregulation of IL-1β secretion. TLR4 inhibition also decreased intracellular lipid content with a reduction of CD36, suggesting functional crosstalk between them. At physiological level, excess fetuinA in the islet milieu of HFD fed C57BL/6J mice or exogenous fetuinA administration (i.p.) promoted lipid accumulation in the islets resulting in decreased insulin secretion with increased CD36 expression. Interestingly, CD36 inhibition in HFD mice with a pharmacological inhibitor Salvianolic acid B attenuated inflammation, reduced intracellular lipid accumulation in beta cells and restored insulin secretory function. Therefore, our results suggest that inhibition of CD36 protects beta cells from the derogatory effects of lipid and fetuinA and restores secretory function and can be considered as a therapeutic target for obesity mediated beta cell dysfunction.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "39247273",
+      "title": "Rational design and computational evaluation of a multi-epitope vaccine for monkeypox virus: Insights into binding stability and immunological memory.",
+      "authors": [
+        "Anupamjeet Kaur",
+        "Amit Kumar",
+        "Geetika Kumari",
+        "Rasmiranjan Muduli",
+        "Mayami Das",
+        "Rakesh Kundu",
+        "Suprabhat Mukherjee",
+        "Tanmay Majumdar"
+      ],
+      "year": "2024",
+      "journal": "Heliyon",
+      "doi": "10.1016/j.heliyon.2024.e36154",
+      "doi_link": "https://doi.org/10.1016/j.heliyon.2024.e36154",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39247273",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Rational%20design%20and%20computational%20evaluation%20of%20a%20multi-epitope%20vaccine%20for%20monkeypox%20virus%3A%20Insights%20into%20binding%20stability%20and%20immunological%20memory%22",
+      "citations": {
+        "crossref": 9
+      },
+      "abstract": "Multi-epitope vaccines strategically tackle rapidly mutating viruses by targeting diverse epitopes from different proteins, providing a comprehensive and adaptable immune protection approach for enhanced coverage against various viral variants. This research employs a comprehensive approach that includes the mapping of immune cells activating epitopes derived from the six structural glycoproteins (A29L, A30L, A35R, L1R, M1R, and E8L) of Monkeypox virus (Mpox). A total of 7 T-cells-specific epitopes, 13 B-cells-specific epitopes, and 5 IFN-γ activating epitopes were forecasted within these glycoproteins. The selection process focused on epitopes indicating high immunogenicity and favorable binding affinity with multiple MHC alleles. Following this, a vaccine has been formulated by incorporating the chosen epitopes, alongside adjuvants (PADRE peptide) and various linkers (EAAAK, GPGPG, and AAY). The physicochemical properties and 3D structure of the multi-epitope hybrid vaccine were analysed for characterization. MD simulations were employed to predict the binding stability between the vaccine and various pathogen recognition receptors such as TLRs (TLR1, TLR2, TLR4, and TLR6), as well as both class I and II MHC, achieved through hydrogen bonding and hydrophobic interactions. Through in silico cloning and immune simulation, it was observed that the multi-epitopes vaccine induced a robust memory immune response upon booster doses, forecasting protective immunity upon viral challenge. This protective immunity was characterized by the production of IgM + IgG antibodies, along with release of inflammatory cytokines like IFN-γ, and IL12, and the activation of various immune cells. This study offers valuable insights into the potential of a multi-epitope vaccine targeting the Mpox virus.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "38832829",
+      "title": "Association of Postarrest Hypotension Burden With Unfavorable Neurologic Outcome After Pediatric Cardiac Arrest.",
+      "authors": [
+        "Raymond Liu",
+        "Tanmay Majumdar",
+        "Monique M Gardner",
+        "Ryan Burnett",
+        "Kathryn Graham",
+        "Forrest Beaulieu",
+        "Robert M Sutton",
+        "Vinay M Nadkarni",
+        "Robert A Berg",
+        "Ryan W Morgan",
+        "Alexis A Topjian",
+        "Matthew P Kirschen"
+      ],
+      "year": "2024",
+      "journal": "Critical care medicine",
+      "doi": "10.1097/CCM.0000000000006339",
+      "doi_link": "https://doi.org/10.1097/CCM.0000000000006339",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38832829",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Association%20of%20Postarrest%20Hypotension%20Burden%20With%20Unfavorable%20Neurologic%20Outcome%20After%20Pediatric%20Cardiac%20Arrest%22",
+      "citations": {
+        "crossref": 5
+      },
+      "abstract": "OBJECTIVE: Quantify hypotension burden using high-resolution continuous arterial blood pressure (ABP) data and determine its association with outcome after pediatric cardiac arrest. DESIGN: Retrospective observational study. SETTING: Academic PICU. PATIENTS: Children 18 years old or younger admitted with in-of-hospital or out-of-hospital cardiac arrest who had invasive ABP monitoring during postcardiac arrest care. INTERVENTIONS: None. MEASUREMENTS AND MAIN RESULTS: High-resolution continuous ABP was analyzed up to 24 hours after the return of circulation (ROC). Hypotension burden was the time-normalized integral area between mean arterial pressure (MAP) and fifth percentile MAP for age. The primary outcome was unfavorable neurologic status (pediatric cerebral performance category ≥ 3 with change from baseline) at hospital discharge. Mann-Whitney U tests compared hypotension burden, duration, and magnitude between favorable and unfavorable patients. Multivariable logistic regression determined the association of unfavorable outcomes with hypotension burden, duration, and magnitude at various percentile thresholds from the 5th through 50th percentile for age. Of 140 patients (median age 53 [interquartile range 11-146] mo, 61% male); 63% had unfavorable outcomes. Monitoring duration was 21 (7-24) hours. Using a MAP threshold at the fifth percentile for age, the median hypotension burden was 0.01 (0-0.11) mm Hg-hours per hour, greater for patients with unfavorable compared with favorable outcomes (0 [0-0.02] vs. 0.02 [0-0.27] mm Hg-hr per hour, p < 0.001). Hypotension duration and magnitude were greater for unfavorable compared with favorable patients (0.03 [0-0.77] vs. 0.71 [0-5.01]%, p = 0.003; and 0.16 [0-1.99] vs. 2 [0-4.02] mm Hg, p = 0.001). On logistic regression, a 1-point increase in hypotension burden below the fifth percentile for age (equivalent to 1 mm Hg-hr of burden per hour of recording) was associated with increased odds of unfavorable outcome (adjusted odds ratio [aOR] 14.8; 95% CI, 1.1-200; p = 0.040). At MAP thresholds of 10th-50th percentiles for age, MAP burden below the threshold was greater in unfavorable compared with favorable patients in a dose-dependent manner. CONCLUSIONS: High-resolution continuous ABP data can be used to quantify hypotension burden after pediatric cardiac arrest. The burden, duration, and magnitude of hypotension are associated with unfavorable neurologic outcomes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "38296116",
+      "title": "Vildagliptin inhibits high fat and fetuin-A mediated DPP-4 expression, intracellular lipid accumulation and improves insulin secretory defects in pancreatic beta cells.",
+      "authors": [
+        "Snehasish Nag",
+        "Samanwita Mandal",
+        "Oindrila Mukherjee",
+        "Tanmay Majumdar",
+        "Satinath Mukhopadhyay",
+        "Rakesh Kundu"
+      ],
+      "year": "2024",
+      "journal": "Biochimica et biophysica acta. Molecular basis of disease",
+      "doi": "10.1016/j.bbadis.2024.167047",
+      "doi_link": "https://doi.org/10.1016/j.bbadis.2024.167047",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38296116",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Vildagliptin%20inhibits%20high%20fat%20and%20fetuin-A%20mediated%20DPP-4%20expression%2C%20intracellular%20lipid%20accumulation%20and%20improves%20insulin%20secretory%20defects%20in%20pancreatic%20beta%20cells%22",
+      "citations": {
+        "crossref": 4
+      },
+      "abstract": "Dipeptidyl peptidase-4 (DPP-4), a ubiquitous proteolytic enzyme, inhibits insulin secretion from pancreatic beta cells by inactivating circulating incretin hormones GLP-1 and GIP. High circulating levels of DPP-4 is presumed to compromise insulin secretion in people with type 2 diabetes (T2D). Our group recently reported lipid induced DPP-4 expression in pancreatic beta cells, mediated by the TLR4-NFkB pathway. In the present study, we looked at the role of Vildagliptin on pancreatic DPP-4 inhibition, preservation of islet mass and restoration of insulin secretion. MIN6 mouse insulinoma cells incubated with palmitate and fetuin-A, a proinflammatory organokine associated with insulin resistance, showed activation of TLR4-NFkB pathway, which was rescued on Vildagliptin treatment. In addition, Vildagliptin, by suppressing palmitate-fetuin-A mediated DPP-4 expression in MIN6, prevented the secretion of IL-1beta and fetuin-A in the culture media. DPP-4 siRNA abrogated TLR4-NFkB pathway mediated islet cell inflammation. Vildagliptin also reduced palmitate-fetuin-A mediated intracellular lipid accumulation in MIN6 and isolated islets from high fat fed (HFD) mice as observed by Oil O Red staining with downregulation of CD36 and PPARgamma. Vildagliptin also preserved islet mass and rescued insulin secretory defect in HFD mice. Our results suggest that inhibition of DPP-4 by Vildagliptin protects pancreatic beta cells from the deleterious effects of lipid and fetuin-A, preserves insulin secretory functions and improves hyperglycemia.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "38000461",
+      "title": "Nrf2 inhibition regulates intracellular lipid accumulation in mouse insulinoma cells and improves insulin secretory function.",
+      "authors": [
+        "Alpana Mukhuty",
+        "Samanwita Mandal",
+        "Chandrani Fouzder",
+        "Snehasis Das",
+        "Dipanjan Chattopadhyay",
+        "Tanmay Majumdar",
+        "Rakesh Kundu"
+      ],
+      "year": "2024",
+      "journal": "Molecular and cellular endocrinology",
+      "doi": "10.1016/j.mce.2023.112112",
+      "doi_link": "https://doi.org/10.1016/j.mce.2023.112112",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38000461",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Nrf2%20inhibition%20regulates%20intracellular%20lipid%20accumulation%20in%20mouse%20insulinoma%20cells%20and%20improves%20insulin%20secretory%20function%22",
+      "citations": {
+        "crossref": 4
+      },
+      "abstract": "High amount of fat in the pancreas is linked to poor functioning of β-cells and raises the risk of type 2 diabetes. Here we report the putative role of a circulatory glycoprotein Fetuin-A, a known obesity marker, in promoting lipid accumulation in β-cells and its association with Fatty acid translocase/CD36 for lipid storage culminate in β-cell dysfunction. Additionally, this work reveals regulation of CD36 via Nrf2, a key regulator of oxidative stress, and reduction of lipid accumulation by suppression of Nrf2 that restores β-cell function. Palmitate (0.50 mM) and Fetuin-A (100 μg/mL) exposure showed high levels of intracellular lipid in MIN6 (mouse insulinoma cells) with a concomitant decrease in insulin secretion. This also increased the expression of important lipogenic factors, like CD36, PGC1α, PPARγ, and SREBP1. Flow cytometry analysis of CD36 membrane localization has been corroborated with an increased accumulation of lipids as indicated by Oil-Red-O staining. Immunoblotting and immunofluorescence of Nrf2 indicated its high expression in palmitate-fetuin-A incubation and translocation in the nucleus. Suppression of Nrf2 by siRNA showed a reduced expression of lipogenic genes, ablation of lipid droplets, decrease in the number of apoptotic cells, and restoration of insulin secretion with a corresponding increase of Pdx1, BETA2, and Ins1 gene expression. Our study thus suggested an important aspect of lipid accumulation in the pancreatic β-cells contributing to β-cell dysfunction and demonstrated the role of Fetuin-A in CD36 expression, with a possible way of restoring β-cell function by targeting Nrf2.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "37453569",
+      "title": "Enhanced expression and solubility of main protease (Mpro) of SARS-CoV-2 from E. coli.",
+      "authors": [
+        "Rahul Ahuja",
+        "Anupamjeet Kaur",
+        "Geetika Kumari",
+        "Amit Kumar",
+        "Santosh Kumar",
+        "Atul Kumar Roy",
+        "Tanmay Majumdar"
+      ],
+      "year": "2023",
+      "journal": "Protein expression and purification",
+      "doi": "10.1016/j.pep.2023.106337",
+      "doi_link": "https://doi.org/10.1016/j.pep.2023.106337",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37453569",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Enhanced%20expression%20and%20solubility%20of%20main%20protease%20%28Mpro%29%20of%20SARS-CoV-2%20from%20E.%20coli%22",
+      "citations": {
+        "semantic_scholar": 4
+      },
+      "abstract": "The main protease (Mpro) of SARS-CoV-2 is a essential enzyme that facilitates viral transcription and replication. Furthermore, the conservation of Mpro across different variants and its non-overlapping nature with human proteases make it an appealing target for therapeutic interventions against SARS-CoV-2. Multiple inhibitors specifically target Mpro to mitigate the infection caused by SARS-CoV-2. In the current study, successful cloning and expression of SARS-CoV-2 Mpro were achieved using two E. coli hosts, namely BL21-DE3 and BL21-DE3-RIL. By optimizing the conditions for induction, the expression of Mpro in the soluble fraction of E. coli was improved. Subsequently, Mpro was purified using affinity chromatography, yielding significantly higher quantities from the BL21-DE3-RIL strain compared to the BL21-DE3 strain, with the former producing nearly twice as much as the latter. The purified Mpro was further characterized by mass spectrometry, fluorescence spectroscopy and circular dichroism (CD). Through fluorescence quenching studies, it was discovered that both GC376 and chitosan, which are inhibitors of Mpro, induced structural changes in the purified Mpro protein. This indicates that the protein retained its functional activity even after being expressed in a bacterial host. Further, FRET-based assay highlighted that the enzymatic activity of Mpro was significantly reduced in presence of both GC376 and chitosan. Consequently, the utilization of optimal conditions and the BL21-DE3-RIL bacterial host facilitates the cost-effective production of Mpro on a large scale, enabling high yields. This production approach can be applied for the screening of potent therapeutic drugs, making it a valuable resource for drug development endeavors.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "37385308",
+      "title": "Targeting DPP4-RBD interactions by sitagliptin and linagliptin delivers a potential host-directed therapy against pan-SARS-CoV-2 infections.",
+      "authors": [
+        "Shailendra Mani",
+        "Anupamjeet Kaur",
+        "Kamini Jakhar",
+        "Geetika Kumari",
+        "Sudipta Sonar",
+        "Amit Kumar",
+        "Sudesna Das",
+        "Santosh Kumar",
+        "Vijay Kumar",
+        "Rakesh Kundu",
+        "Anil Kumar Pandey",
+        "Umesh Prasad Singh",
+        "Tanmay Majumdar"
+      ],
+      "year": "2023",
+      "journal": "International journal of biological macromolecules",
+      "doi": "10.1016/j.ijbiomac.2023.125444",
+      "doi_link": "https://doi.org/10.1016/j.ijbiomac.2023.125444",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37385308",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Targeting%20DPP4-RBD%20interactions%20by%20sitagliptin%20and%20linagliptin%20delivers%20a%20potential%20host-directed%20therapy%20against%20pan-SARS-CoV-2%20infections%22",
+      "citations": {
+        "crossref": 11
+      },
+      "abstract": "Highly mutated SARS-CoV-2 is known aetiological factor for COVID-19. Here, we have demonstrated that the receptor binding domain (RBD) of the spike protein can interact with human dipeptidyl peptidase 4 (DPP4) to facilitate virus entry, in addition to the usual route of ACE2-RBD binding. Significant number of residues of RBD makes hydrogen bonds and hydrophobic interactions with α/β-hydrolase domain of DPP4. With this observation, we created a strategy to combat COVID-19 by circumventing the catalytic activity of DPP4 using its inhibitors. Sitagliptin, linagliptin or in combination disavowed RBD to establish a heterodimer complex with both DPP4 and ACE2 which is requisite strategy for virus entry into the cells. Both gliptins not only impede DPP4 activity, but also prevent ACE2-RBD interaction, crucial for virus growth. Sitagliptin, and linagliptin alone or in combination have avidity to impede the growth of pan-SARS-CoV-2 variants including original SARS-CoV-2, alpha, beta, delta, and kappa in a dose dependent manner. However, these drugs were unable to alter enzymatic activity of PLpro and Mpro. We conclude that viruses hijack DPP4 for cell invasion via RBD binding. Impeding RBD interaction with both DPP4 and ACE2 selectively by sitagliptin and linagliptin is an potential strategy for efficiently preventing viral replication.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "36716646",
+      "title": "FFA-Fetuin-A regulates DPP-IV expression in pancreatic beta cells through TLR4-NFkB pathway.",
+      "authors": [
+        "Snehasish Nag",
+        "Samanwita Mandal",
+        "Tanmay Majumdar",
+        "Satinath Mukhopadhyay",
+        "Rakesh Kundu"
+      ],
+      "year": "2023",
+      "journal": "Biochemical and biophysical research communications",
+      "doi": "10.1016/j.bbrc.2023.01.070",
+      "doi_link": "https://doi.org/10.1016/j.bbrc.2023.01.070",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36716646",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22FFA-Fetuin-A%20regulates%20DPP-IV%20expression%20in%20pancreatic%20beta%20cells%20through%20TLR4-NFkB%20pathway%22",
+      "citations": {
+        "semantic_scholar": 7
+      },
+      "abstract": "Dipeptidyl peptidase 4 (DPP-IV) is a ubiquitous proteolytic enzyme that cleaves incretin hormones, such as glucagon-like peptide 1 (GLP1) and gastric inhibitory protein (GIP), leading to reduced glucose stimulated insulin secretion from the pancreatic beta cells. The functionally active enzyme is present in a membrane bound form in several cell types as well as in a soluble form in the circulation. The present report deals with DPP-IV expression and its regulation in the pancreatic beta cells in presence of free fatty acids (FFAs) and Fetuin-A, a circulatory glycoprotein associated with insulin resistance in humans and animals. FFA and Fetuin-A individually or in combination trigger DPP-IV expression in MIN6 cells. Islets isolated from high fat diet fed (HFD) mice (16 weeks) showed higher levels of DPP-IV expression than standard diet (SD) fed mice. Fetuin-A increased DPP-IV expression in HFD mice (4 weeks). Inhibition of TLR4 or NFkB prevented palmitate-Fetuin-A mediated DPP-IV expression in MIN6. It has been seen that Fetuin-A alone also could trigger DPP-IV expression in MIN6 cells via NFkB. Additionally, palmitate treatment exhibited reduced level of soluble DPP-IV in the media of MIN6 culture, which corroborated with the expression pattern of its protease, KLK5 that cleaves and releases the membrane bound DPP-IV into the secretion. Our results demonstrate that FFA-Fetuin-A upregulates DPP-IV expression in the pancreatic beta cells through the TLR4-NFkB pathway.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "34516563",
+      "title": "Characterization of the NiRAN domain from RNA-dependent RNA polymerase provides insights into a potential therapeutic target against SARS-CoV-2.",
+      "authors": [
+        "Abhisek Dwivedy",
+        "Richard Mariadasse",
+        "Mohammed Ahmad",
+        "Sayan Chakraborty",
+        "Deepsikha Kar",
+        "Satish Tiwari",
+        "Sankar Bhattacharyya",
+        "Sudipta Sonar",
+        "Shailendra Mani",
+        "Prafullakumar Tailor",
+        "Tanmay Majumdar",
+        "Jeyaraman Jeyakanthan",
+        "Bichitra Kumar Biswal"
+      ],
+      "year": "2021",
+      "journal": "PLoS computational biology",
+      "doi": "10.1371/journal.pcbi.1009384",
+      "doi_link": "https://doi.org/10.1371/journal.pcbi.1009384",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34516563",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Characterization%20of%20the%20NiRAN%20domain%20from%20RNA-dependent%20RNA%20polymerase%20provides%20insights%20into%20a%20potential%20therapeutic%20target%20against%20SARS-CoV-2%22",
+      "citations": {
+        "crossref": 17
+      },
+      "abstract": "Apart from the canonical fingers, palm and thumb domains, the RNA dependent RNA polymerases (RdRp) from the viral order Nidovirales possess two additional domains. Of these, the function of the Nidovirus RdRp associated nucleotidyl transferase domain (NiRAN) remains unanswered. The elucidation of the 3D structure of RdRp from the severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2), provided the first ever insights into the domain organisation and possible functional characteristics of the NiRAN domain. Using in silico tools, we predict that the NiRAN domain assumes a kinase or phosphotransferase like fold and binds nucleoside triphosphates at its proposed active site. Additionally, using molecular docking we have predicted the binding of three widely used kinase inhibitors and five well characterized anti-microbial compounds at the NiRAN domain active site along with their drug-likeliness. For the first time ever, using basic biochemical tools, this study shows the presence of a kinase like activity exhibited by the SARS-CoV-2 RdRp. Interestingly, a well-known kinase inhibitor- Sorafenib showed a significant inhibition and dampened viral load in SARS-CoV-2 infected cells. In line with the current global COVID-19 pandemic urgency and the emergence of newer strains with significantly higher infectivity, this study provides a new anti-SARS-CoV-2 drug target and potential lead compounds for drug repurposing against SARS-CoV-2.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "33050511",
+      "title": "Impact of Microbiota: A Paradigm for Evolving Herd Immunity against Viral Diseases.",
+      "authors": [
+        "Asha Shelly",
+        "Priya Gupta",
+        "Rahul Ahuja",
+        "Sudeepa Srichandan",
+        "Jairam Meena",
+        "Tanmay Majumdar"
+      ],
+      "year": "2020",
+      "journal": "Viruses",
+      "doi": "10.3390/v12101150",
+      "doi_link": "https://doi.org/10.3390/v12101150",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33050511",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Impact%20of%20Microbiota%3A%20A%20Paradigm%20for%20Evolving%20Herd%20Immunity%20against%20Viral%20Diseases%22",
+      "citations": {
+        "semantic_scholar": 9
+      },
+      "abstract": "Herd immunity is the most critical and essential prophylactic intervention that delivers protection against infectious diseases at both the individual and community level. This process of natural vaccination is immensely pertinent to the current context of a pandemic caused by severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) infection around the globe. The conventional idea of herd immunity is based on efficient transmission of pathogens and developing natural immunity within a population. This is entirely encouraging while fighting against any disease in pandemic circumstances. A spatial community is occupied by people having variable resistance capacity against a pathogen. Protection efficacy against once very common diseases like smallpox, poliovirus or measles has been possible only because of either natural vaccination through contagious infections or expanded immunization programs among communities. This has led to achieving herd immunity in some cohorts. The microbiome plays an essential role in developing the body's immune cells for the emerging competent vaccination process, ensuring herd immunity. Frequency of interaction among microbiota, metabolic nutrients and individual immunity preserve the degree of vaccine effectiveness against several pathogens. Microbiome symbiosis regulates pathogen transmissibility and the success of vaccination among different age groups. Imbalance of nutrients perturbs microbiota and abrogates immunity. Thus, a particular population can become vulnerable to the infection. Intestinal dysbiosis leads to environmental enteropathy (EE). As a consequence, the generation of herd immunity can either be delayed or not start in a particular cohort. Moreover, disparities of the protective response of many vaccines in developing countries outside of developed countries are due to inconsistencies of healthy microbiota among the individuals. We suggested that pan-India poliovirus vaccination program, capable of inducing herd immunity among communities for the last 30 years, may also influence the inception of natural course of heterologous immunity against SARS-CoV-2 infection. Nonetheless, this anamnestic recall is somewhat counterintuitive, as antibody generation against original antigens of SARS-CoV-2 will be subdued due to original antigenic sin.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "30770800",
+      "title": "Tryptophan-kynurenine pathway attenuates β-catenin-dependent pro-parasitic role of STING-TICAM2-IRF3-IDO1 signalosome in Toxoplasma gondii infection.",
+      "authors": [
+        "Tanmay Majumdar",
+        "Shagun Sharma",
+        "Manmohan Kumar",
+        "Md Arafat Hussain",
+        "Namita Chauhan",
+        "Inderjeet Kalia",
+        "Amit Kumar Sahu",
+        "Vipin Singh Rana",
+        "Ruchi Bharti",
+        "Arun Kumar Haldar",
+        "Agam P Singh",
+        "Shibnath Mazumder"
+      ],
+      "year": "2019",
+      "journal": "Cell death & disease",
+      "doi": "10.1038/s41419-019-1420-9",
+      "doi_link": "https://doi.org/10.1038/s41419-019-1420-9",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30770800",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Tryptophan-kynurenine%20pathway%20attenuates%20%CE%B2-catenin-dependent%20pro-parasitic%20role%20of%20STING-TICAM2-IRF3-IDO1%20signalosome%20in%20Toxoplasma%20gondii%20infection%22",
+      "citations": {
+        "crossref": 31
+      },
+      "abstract": "Recent studies have documented the diverse role of host immunity in infection by the protozoan parasite, Toxoplasma gondii. However, the contribution of the β-catenin pathway in this process has not been explored. Here, we show that AKT-mediated phosphorylated β-catenin supports T. gondii multiplication which is arrested in the deficiency of its phosphorylation domain at S552 position. The β-catenin-TCF4 protein complex binds to the promoter region of IRF3 gene and initiates its transcription, which was also abrogated in β-catenin knockout cells. TBK-independent phosphorylation of STING(S366) and its adaptor molecule TICAM2 by phospho-AKT(T308S473) augmented downstream IRF3-dependent IDO1 transcription, which was also dependent on β-catenin. But, proteasomal degradation of IDO1 by its tyrosine phosphorylation (at Y115 and Y253) favoured parasite replication. In absence of IDO1, tryptophan was catabolized into melatonin, which supressed cellular reactive oxygen species (ROS) and boosted parasite growth. Conversely, when tyrosine phosphorylation was abolished by phosphosite mutations, IDO1 escaped its ubiquitin-mediated proteasomal degradation system (UPS) and the stable IDO1 prevented parasite replication by kynurenine synthesis. We propose that T. gondii selectively utilizes tryptophan to produce the antioxidant, melatonin, thus prolonging the survival of infected cells through functional AKT and β-catenin activity for better parasite replication. Stable IDO1 in the presence of IFN-γ catabolized tryptophan into kynurenine, promoting cell death by suppressing phospho-AKT and phospho-β-catenin levels, and circumvented parasite replication. Treatment of infected cells with kynurenine or its analogue, teriflunomide suppressed kinase activity of AKT, and phosphorylation of β-catenin triggering caspase-3 dependent apoptosis of infected cells to inhibit parasite growth. Our results demonstrate that β-catenin regulate phosphorylated STING-TICAM2-IRF3-IDO1 signalosome for a cell-intrinsic pro-parasitic role. We propose that the downstream IRF3-IDO1-reliant tryptophan catabolites and their analogues can act as effective immunotherapeutic molecules to control T. gondii replication by impairing the AKT and β-catenin axis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "29142761",
+      "title": "Aeromonas hydrophila utilizes TLR4 topology for synchronous activation of MyD88 and TRIF to orchestrate anti-inflammatory responses in zebrafish.",
+      "authors": [
+        "Nidhi Srivastava",
+        "Asha Shelly",
+        "Manmohan Kumar",
+        "Archana Pant",
+        "Bhabatosh Das",
+        "Tanmay Majumdar",
+        "Shibnath Mazumder"
+      ],
+      "year": "2017",
+      "journal": "Cell death discovery",
+      "doi": "10.1038/cddiscovery.2017.67",
+      "doi_link": "https://doi.org/10.1038/cddiscovery.2017.67",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29142761",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Aeromonas%20hydrophila%20utilizes%20TLR4%20topology%20for%20synchronous%20activation%20of%20MyD88%20and%20TRIF%20to%20orchestrate%20anti-inflammatory%20responses%20in%20zebrafish%22",
+      "citations": {
+        "crossref": 35
+      },
+      "abstract": "Toll-like receptor 4 (TLR4) plays a critical role in host immunity against Gram-negative bacteria. It transduces signals through two distinct TIR-domain-containing adaptors, MyD88 and TRIF, which function at the plasma membrane and endosomes, respectively. Using zebrafish Aeromonas hydrophila infection model, we demonstrate that synchronization of MyD88 and TRIF dependent pathways is critical for determining the fate of infection. Zebrafish were infected with A. hydrophila, and bacterial recovery studies suggested its effective persistence inside the host. Histopathological assessment elucidates that A. hydrophila did not provoke inflammatory responses in the spleen. Immunofluorescence revealed the presence of TLR4-bound A. hydrophila on the plasma membrane at 3 h post-infection (p.i.), and inside endosomes 1 day p.i. Quantitative PCR studies suggest that TLR4 activates the downstream pathway of MyD88-IRAK4 axis at early stages followed by a shift to TRIF-TRAF6 axis at late stages of infection coupled with fold increase in NFκB. Our results implicated the involvement of p110δ isoform of PI(3)Kinase in this transition. Coupled to this, we noted that the TLR4-TRIF-NFκB axis prompted burgeoned secretion of anti-inflammatory cytokines. We observed that A. hydrophila inhibits endosome maturation and escapes to cytoplasm. Significant downregulation of cytosolic-NLR receptors further suggested that A. hydrophila represses pro-inflammatory responses in cytosol aiding its persistence. Our findings suggest a novel role of 'TLR4 topology' in A. hydrophila-induced pathogenesis. We propose that A. hydrophila manipulates translocation of TLR4 and migrates to endosome, where it triggers TRIF-dependent anti-inflammatory responses, interferes with endosomal maturation and escapes to cytosol. Inside the cytosol, A. hydrophila avoids detection by suppressing NLRs, facilitating its survival and ensuing pathogenesis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "28618273",
+      "title": "STING Requires the Adaptor TRIF to Trigger Innate Immune Responses to Microbial Infection.",
+      "authors": [
+        "Xin Wang",
+        "Tanmay Majumdar",
+        "Patricia Kessler",
+        "Evgeny Ozhegov",
+        "Ying Zhang",
+        "Saurabh Chattopadhyay",
+        "Sailen Barik",
+        "Ganes C Sen"
+      ],
+      "year": "2017",
+      "journal": "Cell host & microbe",
+      "doi": "10.1016/j.chom.2017.05.007",
+      "doi_link": "https://doi.org/10.1016/j.chom.2017.05.007",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28618273",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22STING%20Requires%20the%20Adaptor%20TRIF%20to%20Trigger%20Innate%20Immune%20Responses%20to%20Microbial%20Infection%22",
+      "citations": {
+        "crossref": 11
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "27913791",
+      "title": "Circadian transcription factor BMAL1 regulates innate immunity against select RNA viruses.",
+      "authors": [
+        "Tanmay Majumdar",
+        "Jayeeta Dhar",
+        "Sonal Patel",
+        "Roman Kondratov",
+        "Sailen Barik"
+      ],
+      "year": "2017",
+      "journal": "Innate immunity",
+      "doi": "10.1177/1753425916681075",
+      "doi_link": "https://doi.org/10.1177/1753425916681075",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27913791",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Circadian%20transcription%20factor%20BMAL1%20regulates%20innate%20immunity%20against%20select%20RNA%20viruses%22",
+      "citations": {
+        "crossref": 63
+      },
+      "abstract": "BMAL1 (brain and muscle ARNT-like protein 1, also known as MOP3 or ARNT3) belongs to the family of the basic helix-loop-helix (bHLH)-PAS domain-containing transcription factors, and is a key component of the molecular oscillator that generates circadian rhythms. Here, we report that BMAL1-deficient cells are significantly more susceptible to infection by two major respiratory viruses of the Paramyxoviridae family, namely RSV and PIV3. Embryonic fibroblasts from Bmal1-/- mice produced nearly 10-fold more progeny virus than their wild type controls. These results were supported by animal studies whereby pulmonary infection of RSV produced a more severe disease and morbidity in Bmal1-/-mice. These results show that BMAL1 can regulate cellular innate immunity against specific RNA viruses.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "27631700",
+      "title": "STING Requires the Adaptor TRIF to Trigger Innate Immune Responses to Microbial Infection.",
+      "authors": [
+        "Xin Wang",
+        "Tanmay Majumdar",
+        "Patricia Kessler",
+        "Evgeny Ozhegov",
+        "Ying Zhang",
+        "Saurabh Chattopadhyay",
+        "Sailen Barik",
+        "Ganes C Sen"
+      ],
+      "year": "2016",
+      "journal": "Cell host & microbe",
+      "doi": "10.1016/j.chom.2016.08.002",
+      "doi_link": "https://doi.org/10.1016/j.chom.2016.08.002",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27631700",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22STING%20Requires%20the%20Adaptor%20TRIF%20to%20Trigger%20Innate%20Immune%20Responses%20to%20Microbial%20Infection%22",
+      "citations": {
+        "semantic_scholar": 69
+      },
+      "abstract": "The intracellular microbial nucleic acid sensors, TLR3 and STING, recognize pathogen molecules and signal to activate the interferon pathway. The TIR-domain containing protein TRIF is the sole adaptor of TLR3. Here, we report an essential role for TRIF in STING signaling: various activators of STING could not induce genes in the absence of TRIF. TRIF and STING interacted directly, through their carboxy-terminal domains, to promote STING dimerization, intermembrane translocation, and signaling. Herpes simplex virus (HSV), which triggers the STING signaling pathway and is controlled by it, replicated more efficiently in the absence of TRIF, and HSV-infected TRIF(-/-) mice displayed pronounced pathology. Our results indicate that defective STING signaling may be responsible for the observed genetic association between TRIF mutations and herpes simplex encephalitis in patients.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "25811886",
+      "title": "Induction of interferon-stimulated genes by IRF3 promotes replication of Toxoplasma gondii.",
+      "authors": [
+        "Tanmay Majumdar",
+        "Saurabh Chattopadhyay",
+        "Evgeny Ozhegov",
+        "Jayeeta Dhar",
+        "Ramansu Goswami",
+        "Ganes C Sen",
+        "Sailen Barik"
+      ],
+      "year": "2015",
+      "journal": "PLoS pathogens",
+      "doi": "10.1371/journal.ppat.1004779",
+      "doi_link": "https://doi.org/10.1371/journal.ppat.1004779",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25811886",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Induction%20of%20interferon-stimulated%20genes%20by%20IRF3%20promotes%20replication%20of%20Toxoplasma%20gondii%22",
+      "citations": {
+        "crossref": 31
+      },
+      "abstract": "Innate immunity is the first line of defense against microbial insult. The transcription factor, IRF3, is needed by mammalian cells to mount innate immune responses against many microbes, especially viruses. IRF3 remains inactive in the cytoplasm of uninfected cells; upon virus infection, it gets phosphorylated and then translocates to the nucleus, where it binds to the promoters of antiviral genes and induces their expression. Such genes include type I interferons (IFNs) as well as Interferon Stimulated Genes (ISGs). IRF3-/- cells support enhanced replication of many viruses and therefore, the corresponding mice are highly susceptible to viral pathogenesis. Here, we provide evidence for an unexpected pro-microbial role of IRF3: the replication of the protozoan parasite, Toxoplasma gondii, was significantly impaired in IRF3-/- cells. In exploring whether the transcriptional activity of IRF3 was important for its pro-parasitic function, we found that ISGs induced by parasite-activated IRF3 were indeed essential, whereas type I interferons were not important. To delineate the signaling pathway that activates IRF3 in response to parasite infection, we used genetically modified human and mouse cells. The pro-parasitic signaling pathway, which we termed PISA (Parasite-IRF3 Signaling Activation), activated IRF3 without any involvement of the Toll-like receptor or RIG-I-like receptor pathways, thereby ruling out a role of parasite-derived RNA species in activating PISA. Instead, PISA needed the presence of cGAS, STING, TBK1 and IRF3, indicating the necessity of DNA-triggered signaling. To evaluate the physiological significance of our in vitro findings, IRF3-/- mice were challenged with parasite infection and their morbidity and mortality were measured. Unlike WT mice, the IRF3-/- mice did not support replication of the parasite and were resistant to pathogenesis caused by it. Our results revealed a new paradigm in which the antiviral host factor, IRF3, plays a cell-intrinsic pro-parasitic role.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "25710911",
+      "title": "Canonical wnt signaling in dendritic cells regulates Th1/Th17 responses and suppresses autoimmune neuroinflammation.",
+      "authors": [
+        "Amol Suryawanshi",
+        "Indumathi Manoharan",
+        "Yuan Hong",
+        "Daniel Swafford",
+        "Tanmay Majumdar",
+        "M Mark Taketo",
+        "Balaji Manicassamy",
+        "Pandelakis A Koni",
+        "Muthusamy Thangaraju",
+        "Zuoming Sun",
+        "Andrew L Mellor",
+        "David H Munn",
+        "Santhakumar Manicassamy"
+      ],
+      "year": "2015",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.1402691",
+      "doi_link": "https://doi.org/10.4049/jimmunol.1402691",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25710911",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Canonical%20wnt%20signaling%20in%20dendritic%20cells%20regulates%20Th1/Th17%20responses%20and%20suppresses%20autoimmune%20neuroinflammation%22",
+      "citations": {
+        "crossref": 100
+      },
+      "abstract": "Breakdown in immunological tolerance to self-Ags or uncontrolled inflammation results in autoimmune disorders. Dendritic cells (DCs) play an important role in regulating the balance between inflammatory and regulatory responses in the periphery. However, factors in the tissue microenvironment and the signaling networks critical for programming DCs to control chronic inflammation and promote tolerance are unknown. In this study, we show that wnt ligand-mediated activation of β-catenin signaling in DCs is critical for promoting tolerance and limiting neuroinflammation. DC-specific deletion of key upstream (lipoprotein receptor-related protein [LRP]5/6) or downstream (β-catenin) mediators of canonical wnt signaling in mice exacerbated experimental autoimmune encephalomyelitis pathology. Mechanistically, loss of LRP5/6-β-catenin-mediated signaling in DCs led to an increased Th1/Th17 cell differentiation but reduced regulatory T cell response. This was due to increased production of proinflammatory cytokines and decreased production of anti-inflammatory cytokines such as IL-10 and IL-27 by DCs lacking LRP5/6-β-catenin signaling. Consistent with these findings, pharmacological activation of canonical wnt/β-catenin signaling delayed experimental autoimmune encephalomyelitis onset and diminished CNS pathology. Thus, the activation of canonical wnt signaling in DCs limits effector T cell responses and represents a potential therapeutic approach to control autoimmune neuroinflammation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "25568183",
+      "title": "β-catenin promotes regulatory T-cell responses in tumors by inducing vitamin A metabolism in dendritic cells.",
+      "authors": [
+        "Yuan Hong",
+        "Indumathi Manoharan",
+        "Amol Suryawanshi",
+        "Tanmay Majumdar",
+        "Melinda L Angus-Hill",
+        "Pandelakis A Koni",
+        "Balaji Manicassamy",
+        "Andrew L Mellor",
+        "David H Munn",
+        "Santhakumar Manicassamy"
+      ],
+      "year": "2015",
+      "journal": "Cancer research",
+      "doi": "10.1158/0008-5472.CAN-14-2377",
+      "doi_link": "https://doi.org/10.1158/0008-5472.CAN-14-2377",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25568183",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22%CE%B2-catenin%20promotes%20regulatory%20T-cell%20responses%20in%20tumors%20by%20inducing%20vitamin%20A%20metabolism%20in%20dendritic%20cells%22",
+      "citations": {
+        "crossref": 106
+      },
+      "abstract": "Tumors actively suppress antitumor immunity, creating formidable barriers to successful cancer immunotherapy. The molecular mechanisms underlying tumor-induced immune tolerance are largely unknown. In the present study, we show that dendritic cells (DC) in the tumor microenvironment acquire the ability to metabolize vitamin A to produce retinoic acid (RA), which drives regulatory T-cell responses and immune tolerance. Tolerogenic responses were dependent on induction of vitamin A-metabolizing enzymes via the β-catenin/T-cell factor (TCF) pathway in DCs. Consistent with this observation, DC-specific deletion of β-catenin in mice markedly reduced regulatory T-cell responses and delayed melanoma growth. Pharmacologic inhibition of either vitamin A-metabolizing enzymes or the β-catenin/TCF4 pathway in vivo had similar effects on tumor growth and regulatory T-cell responses. Hence, β-catenin/TCF4 signaling induces local regulatory DC and regulatory T-cell phenotypes via the RA pathway, identifying this pathway as an important target for anticancer immunotherapy.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "23877405",
+      "title": "Viral degradasome hijacks mitochondria to suppress innate immunity.",
+      "authors": [
+        "Ramansu Goswami",
+        "Tanmay Majumdar",
+        "Jayeeta Dhar",
+        "Saurabh Chattopadhyay",
+        "Sudip K Bandyopadhyay",
+        "Valentina Verbovetskaya",
+        "Ganes C Sen",
+        "Sailen Barik"
+      ],
+      "year": "2013",
+      "journal": "Cell research",
+      "doi": "10.1038/cr.2013.98",
+      "doi_link": "https://doi.org/10.1038/cr.2013.98",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23877405",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Viral%20degradasome%20hijacks%20mitochondria%20to%20suppress%20innate%20immunity%22",
+      "citations": {
+        "semantic_scholar": 98
+      },
+      "abstract": "The balance between the innate immunity of the host and the ability of a pathogen to evade it strongly influences pathogenesis and virulence. The two nonstructural (NS) proteins, NS1 and NS2, of respiratory syncytial virus (RSV) are critically required for RSV virulence. Together, they strongly suppress the type I interferon (IFN)-mediated innate immunity of the host cells by degrading or inhibiting multiple cellular factors required for either IFN induction or response pathways, including RIG-I, IRF3, IRF7, TBK1 and STAT2. Here, we provide evidence for the existence of a large and heterogeneous degradative complex assembled by the NS proteins, which we named \"NS-degradasome\" (NSD). The NSD is roughly ∼300-750 kD in size, and its degradative activity was enhanced by the addition of purified mitochondria in vitro. Inside the cell, the majority of the NS proteins and the substrates of the NSD translocated to the mitochondria upon RSV infection. Genetic and pharmacological evidence shows that optimal suppression of innate immunity requires mitochondrial MAVS and mitochondrial motility. Together, we propose a novel paradigm in which the mitochondria, known to be important for the innate immune activation of the host, are also important for viral suppression of the innate immunity.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper21",
+      "publication_id": "22309152",
+      "title": "PRMT1 methylates the single Argonaute of Toxoplasma gondii and is important for the recruitment of Tudor nuclease for target RNA cleavage by antisense guide RNA.",
+      "authors": [
+        "Alla Musiyenko",
+        "Tanmay Majumdar",
+        "Joel Andrews",
+        "Brian Adams",
+        "Sailen Barik"
+      ],
+      "year": "2012",
+      "journal": "Cellular microbiology",
+      "doi": "10.1111/j.1462-5822.2012.01763.x",
+      "doi_link": "https://doi.org/10.1111/j.1462-5822.2012.01763.x",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22309152",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22PRMT1%20methylates%20the%20single%20Argonaute%20of%20Toxoplasma%20gondii%20and%20is%20important%20for%20the%20recruitment%20of%20Tudor%20nuclease%20for%20target%20RNA%20cleavage%20by%20antisense%20guide%20RNA%22",
+      "citations": {
+        "crossref": 34
+      },
+      "abstract": "Argonaute (Ago) plays a central role in RNA interference in metazoans, but its status in lower organisms remains ill-defined. We report on the Ago complex of the unicellular protozoan, Toxoplasma gondii (Tg), an obligatory pathogen of mammalian hosts. The PIWI-like domain of TgAgo lacked the canonical DDE/H catalytic triad, explaining its weak target RNA cleavage activity. However, TgAgo associated with a stronger RNA slicer, a Tudor staphylococcal nuclease (TSN), and with a protein Arg methyl transferase, PRMT1. Mutational analysis suggested that the N-terminal RGG-repeat domain of TgAgo was methylated by PRMT1, correlating with the recruitment of TSN. The slicer activity of TgAgo was Mg(2+)-dependent and required perfect complementarity between the guide RNA and the target. In contrast, the TSN activity was Ca(2+) -dependent and required an imperfectly paired guide RNA. Ago knockout parasites showed essentially normal growth, but in contrast, the PRMT1 knockouts grew abnormally. Chemical inhibition of Arg-methylation also had an anti-parasitic effect. These results suggest that the parasitic PRMT1 plays multiple roles, and its loss affects the recruitment of a more potent second slicer to the parasitic RNA silencing complex, the exact mechanism of which remains to be determined.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper22",
+      "publication_id": "22122448",
+      "title": "Redox-assisted protein folding systems in eukaryotic parasites.",
+      "authors": [
+        "Saikh Jaharul Haque",
+        "Tanmay Majumdar",
+        "Sailen Barik"
+      ],
+      "year": "2012",
+      "journal": "Antioxidants & redox signaling",
+      "doi": "10.1089/ars.2011.4433",
+      "doi_link": "https://doi.org/10.1089/ars.2011.4433",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22122448",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Redox-assisted%20protein%20folding%20systems%20in%20eukaryotic%20parasites%22",
+      "citations": {
+        "crossref": 6
+      },
+      "abstract": "SIGNIFICANCE: The cysteine (Cys) residues of proteins play two fundamentally important roles. They serve as sites of post-translational redox modifications as well as influence the conformation of the protein through the formation of disulfide bonds. RECENT ADVANCES: Redox-related and redox-associated protein folding in protozoan parasites has been found to be a major mode of regulation, affecting myriad aspects of the parasitic life cycle, host-parasite interactions, and the disease pathology. Available genome sequences of various parasites have begun to complement the classical biochemical and enzymological studies of these processes. In this article, we summarize the reversible Cys disulfide (S-S) bond formation in various classes of strategically important parasitic proteins, and its structural consequence and functional relevance. CRITICAL ISSUES: Molecular mechanisms of folding remain under-studied and often disconnected from functional relevance. FUTURE DIRECTIONS: The clinical benefit of redox research will require a comprehensive characterization of the various isoforms and paralogs of the redox enzymes and their concerted effect on the structure and function of the specific parasitic client proteins.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper23",
+      "publication_id": "21795342",
+      "title": "Multiple functional domains and complexes of the two nonstructural proteins of human respiratory syncytial virus contribute to interferon suppression and cellular location.",
+      "authors": [
+        "Samer Swedan",
+        "Joel Andrews",
+        "Tanmay Majumdar",
+        "Alla Musiyenko",
+        "Sailen Barik"
+      ],
+      "year": "2011",
+      "journal": "Journal of virology",
+      "doi": "10.1128/JVI.00413-11",
+      "doi_link": "https://doi.org/10.1128/JVI.00413-11",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21795342",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Multiple%20functional%20domains%20and%20complexes%20of%20the%20two%20nonstructural%20proteins%20of%20human%20respiratory%20syncytial%20virus%20contribute%20to%20interferon%20suppression%20and%20cellular%20location%22",
+      "citations": {
+        "crossref": 79
+      },
+      "abstract": "Human respiratory syncytial virus (RSV), a major cause of severe respiratory diseases, efficiently suppresses cellular innate immunity, represented by type I interferon (IFN), using its two unique nonstructural proteins, NS1 and NS2. In a search for their mechanism, NS1 was previously shown to decrease levels of TRAF3 and IKKε, whereas NS2 interacted with RIG-I and decreased TRAF3 and STAT2. Here, we report on the interaction, cellular localization, and functional domains of these two proteins. We show that recombinant NS1 and NS2, expressed in lung epithelial A549 cells, can form homo- as well as heteromers. Interestingly, when expressed alone, substantial amounts of NS1 and NS2 localized to the nuclei and to the mitochondria, respectively. However, when coexpressed with NS2, as in RSV infection, NS1 could be detected in the mitochondria as well, suggesting that the NS1-NS2 heteromer localizes to the mitochondria. The C-terminal tetrapeptide sequence, DLNP, common to both NS1 and NS2, was required for some functions, but not all, whereas only the NS1 N-terminal region was important for IKKε reduction. Finally, NS1 and NS2 both interacted specifically with host microtubule-associated protein 1B (MAP1B). The contribution of MAP1B in NS1 function was not tested, but in NS2 it was essential for STAT2 destruction, suggesting a role of the novel DLNP motif in protein-protein interaction and IFN suppression.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper24",
+      "publication_id": "21664930",
+      "title": "Complete nucleotide sequence of a quinolone resistance gene (qnrS2) carrying plasmid of Aeromonas hydrophila isolated from fish.",
+      "authors": [
+        "Tanmay Majumdar",
+        "Bhabatosh Das",
+        "Rupak K Bhadra",
+        "Bomba Dam",
+        "Shibnath Mazumder"
+      ],
+      "year": "2011",
+      "journal": "Plasmid",
+      "doi": "10.1016/j.plasmid.2011.05.001",
+      "doi_link": "https://doi.org/10.1016/j.plasmid.2011.05.001",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21664930",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Complete%20nucleotide%20sequence%20of%20a%20quinolone%20resistance%20gene%20%28qnrS2%29%20carrying%20plasmid%20of%20Aeromonas%20hydrophila%20isolated%20from%20fish%22",
+      "citations": {
+        "crossref": 20
+      },
+      "abstract": "Aeromonas hydrophila strain AO1 isolated from an infected fish was found to be resistant to several quinolones. A plasmid isolated from the strain AO1, termed pBRST7.6, was cloned and sequenced and shown to be 7621bp in length with a GC content of 60%. Further analysis confirmed that it contained a gene with 100% identity to qnrS2 genes described in plasmids associated with other Aeromonas species, the product of which usually confers increased resistance to quinolones. The plasmid backbone contained a replication initiation module (repA repC) belonging to the IncQ-family and two genes (mobC and mobB), the products of which are putatively involved in plasmid mobilization. Putative iteron-based origin of replication and characteristic oriT like sequences were also present in the plasmid. The result suggests that Aeromonas spp. carrying plasmids with quinolone resistance genes are potential reservoirs of antimicrobial resistance determinants in the environment.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper25",
+      "publication_id": "20419122",
+      "title": "Identification of host-dependent survival factors for intracellular Mycobacterium tuberculosis through an siRNA screen.",
+      "authors": [
+        "Shilpi Jayaswal",
+        "Md Azhar Kamal",
+        "Raina Dua",
+        "Shashank Gupta",
+        "Tanmay Majumdar",
+        "Gobardhan Das",
+        "Dhiraj Kumar",
+        "Kanury V S Rao"
+      ],
+      "year": "2010",
+      "journal": "PLoS pathogens",
+      "doi": "10.1371/journal.ppat.1000839",
+      "doi_link": "https://doi.org/10.1371/journal.ppat.1000839",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20419122",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Identification%20of%20host-dependent%20survival%20factors%20for%20intracellular%20Mycobacterium%20tuberculosis%20through%20an%20siRNA%20screen%22",
+      "citations": {
+        "semantic_scholar": 111
+      },
+      "abstract": "The stable infection of host macrophages by Mycobacterium tuberculosis (Mtb) involves, and depends on, the attenuation of the diverse microbicidal responses mounted by the host cell. This is primarily achieved through targeted perturbations of the host cellular signaling machinery. Therefore, in view of the dependency of the pathogen on host molecules for its intracellular survival, we wanted to test whether targeting such factors could provide an alternate route for the therapeutic management of tuberculosis. To first identify components of the host signaling machinery that regulate intracellular survival of Mtb, we performed an siRNA screen against all known kinases and phosphatases in murine macrophages infected with the virulent strain, H37Rv. Several validated targets could be identified by this method where silencing led either to a significant decrease, or enhancement in the intracellular mycobacterial load. To further resolve the functional relevance of these targets, we also screened against these identified targets in cells infected with different strains of multiple drug-resistant mycobacteria which differed in terms of their intracellular growth properties. The results obtained subsequently allowed us to filter the core set of host regulatory molecules that functioned independently of the phenotypic variations exhibited by the pathogen. Then, using a combination of both in vitro and in vivo experimentation, we could demonstrate that at least some of these host factors provide attractive targets for anti-TB drug development. These results provide a \"proof-of-concept\" demonstration that targeting host factors subverted by intracellular Mtb provides an attractive and feasible strategy for the development of anti-tuberculosis drugs. Importantly, our findings also emphasize the advantage of such an approach by establishing its equal applicability to infections with Mtb strains exhibiting a range of phenotypic diversifications, including multiple drug-resistance. Thus the host factors identified here may potentially be exploited for the development of anti-tuberculosis drugs.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper26",
+      "publication_id": "19041935",
+      "title": "Virulence plasmid of Aeromonas hydrophila induces macrophage apoptosis and helps in developing systemic infection in mice.",
+      "authors": [
+        "Tanmay Majumdar",
+        "Pritam Chattopadhyay",
+        "Dhira Rani Saha",
+        "Subrato Sau",
+        "Shibnath Mazumder"
+      ],
+      "year": "2009",
+      "journal": "Microbial pathogenesis",
+      "doi": "10.1016/j.micpath.2008.11.002",
+      "doi_link": "https://doi.org/10.1016/j.micpath.2008.11.002",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19041935",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Virulence%20plasmid%20of%20Aeromonas%20hydrophila%20induces%20macrophage%20apoptosis%20and%20helps%20in%20developing%20systemic%20infection%20in%20mice%22",
+      "citations": {
+        "semantic_scholar": 18
+      },
+      "abstract": "Pathogenic Aeromonas hydrophila Strain AO1 bears a 21kb plasmid encoding several virulence determinants. Infection studies revealed that this isolate induced cytotoxicity in BALB/c mice splenic macrophages involving reactive oxygen species generation. DNA gel, Hoechst 33342, annexin-V and TUNEL assay documented macrophage death induced by 21kb plasmid bearing isolates to be apoptotic in nature. Apoptosis induced by the plasmid bearing isolates involved initiator caspase-8 and caspase-9 and executed by effector caspase-3. ELISA revealed the wild-type isolate as weak inducer of pro-inflammatory cytokine IL-1beta. Oral infection with wild-type isolates caused systemic infection in BALB/c mice. With plasmid curing the isolate looses several virulence attributes including cytotoxic potential. The cured isolate induced significant amounts of IL-1beta from infected macrophages, disseminated into Peyer's patches, spleen and liver but never attained the bacterial loads recorded with wild-type isolates and were rapidly cleared. Transformation of 21kb plasmid helped the cured bacteria regain wild-type virulence attributes, apoptotic potential and ability to cause systemic infection in mice. Thus the 21kb plasmid is a virulence factor in mice. It helps in suppressing the production of pro-inflammatory cytokine IL-1beta and induced apoptosis of host macrophages enabling A. hydrophila to evade host immune responses and establish systemic infection in mice.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper27",
+      "publication_id": "17336163",
+      "title": "Sub-lethal concentration of arsenic interferes with the proliferation of hepatocytes and induces in vivo apoptosis in Clarias batrachus L.",
+      "authors": [
+        "Soma Datta",
+        "Dhira Rani Saha",
+        "Debabrata Ghosh",
+        "Tanmay Majumdar",
+        "Shelley Bhattacharya",
+        "Shibnath Mazumder"
+      ],
+      "year": "2007",
+      "journal": "Comparative biochemistry and physiology. Toxicology & pharmacology : CBP",
+      "doi": "10.1016/j.cbpc.2007.01.005",
+      "doi_link": "https://doi.org/10.1016/j.cbpc.2007.01.005",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17336163",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Sub-lethal%20concentration%20of%20arsenic%20interferes%20with%20the%20proliferation%20of%20hepatocytes%20and%20induces%20in%20vivo%20apoptosis%20in%20Clarias%20batrachus%20L%22",
+      "citations": {
+        "crossref": 38
+      },
+      "abstract": "We studied the hepatocellular alterations induced by sub-lethal concentrations (0.50 muM) of arsenic in Indian catfish Clarias batrachus L. Sub-lethal arsenic exposure altered serum aspartate aminotransferase and alkaline phosphatase levels and brought about significant changes in different serum biochemical parameters. Arsenic exposure reduced total hepatocyte protein content and suppressed the proliferation of hepatocytes in a time-dependent manner. Routine histological studies on liver documented arsenic-induced changes characterized by dilated sinusoids, formation of intracellular edema, megalocytosis, vacuolation and appearance of hepatic cells with distorted nuclei. Transmission electron microscopy of hepatocytes further revealed hyperplasia and hypertrophy of mitochondria, development of dilated rough endoplasmic reticulum and changes in peroxisome size with duration of arsenic exposure. Degeneration of mitochondrial cristae and condensation of chromatin was also evident in arsenic-exposed hepatocytes. A significant number of hepatocytes isolated from arsenic-exposed fish stained with annexin V and demonstrated DNA ladder characteristic of apoptosis. Single-cell gel electrophoresis of exposed hepatocytes also revealed the development of comets usually seen in apoptotic cells. Using specific inhibitors it was determined that the arsenic-induced apoptosis of hepatocytes was caspase-mediated, involving the caspase 3 pathway.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper28",
+      "publication_id": "17208455",
+      "title": "An attenuated plasmid-cured strain of Aeromonas hydrophila elicits protective immunity in Clarias batrachus L.",
+      "authors": [
+        "Tanmay Majumdar",
+        "Debabrata Ghosh",
+        "Soma Datta",
+        "Chandan Sahoo",
+        "Joydeb Pal",
+        "Shibnath Mazumder"
+      ],
+      "year": "2007",
+      "journal": "Fish & shellfish immunology",
+      "doi": "10.1016/j.fsi.2006.10.011",
+      "doi_link": "https://doi.org/10.1016/j.fsi.2006.10.011",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17208455",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22An%20attenuated%20plasmid-cured%20strain%20of%20Aeromonas%20hydrophila%20elicits%20protective%20immunity%20in%20Clarias%20batrachus%20L%22",
+      "citations": {
+        "crossref": 9
+      },
+      "abstract": "Wild type Aeromonas hydrophila (Strain AO1) isolated from the lesions of ulcerative disease syndrome (UDS) affected fish bears a 21 kb virulence plasmid. With plasmid curing the isolates became attenuated and failed to induce fatal haemorrhagic ulcers in fish. The objective of the present work was to check the immunogenicity of these plasmid-cured derivatives and determine whether such strains could be used as candidate antigens for eliciting protective immunity to A. hydrophila infections in the Indian catfish Clarias batrachus L. It was observed that the plasmid-cured strains were immunogenic since infection with live plasmid-cured AO1 isolates generated effective T cell responses and led to increase in serum antibacterial agglutinin titres in C. batrachus. Plasmid-cured AO1 strains injected into C. batrachus could disseminate into head kidney (HK) and spleen but never attained the same bacterial loads obtained with wild type AO1 and were cleared rapidly from the host. Immunisation with plasmid-cured bacteria prevented systemic spread and conferred protection against lethal challenge (10 x LD(50)) with wild type A. hydrophila as well as other pathogenic strains of Aeromonas sp. These results demonstrate the potentials of plasmid-cured A. hydrophila derivatives as candidate antigens for eliciting protective immunity in fish and the possibility of using such isolates as shuttle vectors in aquaculture.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 28,
+    "publications_by_year": {
+      "2025": 2,
+      "2024": 4,
+      "2023": 3,
+      "2021": 1,
+      "2020": 1,
+      "2019": 1,
+      "2017": 3,
+      "2016": 1,
+      "2015": 3,
+      "2013": 1,
+      "2012": 2,
+      "2011": 2,
+      "2010": 1,
+      "2009": 1,
+      "2007": 2
+    },
+    "top_journals": [
+      "Biochimica et biophysica acta. Molecular basis of disease",
+      "Cell host & microbe",
+      "PLoS pathogens",
+      "STAR protocols",
+      "Heliyon"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 113,
+      "frequent_collaborators": [
+        "Tanmay Majumdar",
+        "Sailen Barik",
+        "Rakesh Kundu",
+        "Shibnath Mazumder",
+        "Geetika Kumari",
+        "Saurabh Chattopadhyay",
+        "Ganes C Sen",
+        "Anupamjeet Kaur"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "20419122",
+        "title": "Identification of host-dependent survival factors for intracellular Mycobacterium tuberculosis through an siRNA screen.",
+        "citations": 111,
+        "year": "2010"
+      },
+      {
+        "publication_id": "25568183",
+        "title": "β-catenin promotes regulatory T-cell responses in tumors by inducing vitamin A metabolism in dendritic cells.",
+        "citations": 106,
+        "year": "2015"
+      },
+      {
+        "publication_id": "25710911",
+        "title": "Canonical wnt signaling in dendritic cells regulates Th1/Th17 responses and suppresses autoimmune neuroinflammation.",
+        "citations": 100,
+        "year": "2015"
+      }
+    ]
+  }
+}

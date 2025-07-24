@@ -1,0 +1,536 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Lalit C. Garg",
+    "email": "lalit@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/former-faculty/dr-lalit-c-garg",
+    "research_domain": "Former",
+    "faculty_status": "former",
+    "search_date": "2025-07-01T14:34:28.520763",
+    "total_publications": 20,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Lalit C. Garg, former faculty in Former at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "39301901",
+      "title": "Immunogenicity and Neutralization Potential of Recombinant Chimeric Protein Comprising the Catalytic Region of Gp63 of Leishmania and LTB against Leishmania donovani.",
+      "authors": [
+        "Anuja Krishnan",
+        "Gunjan Malik",
+        "Lalit C Garg"
+      ],
+      "year": "2024",
+      "journal": "Protein and peptide letters",
+      "doi": "10.2174/0109298665325330240828115712",
+      "doi_link": "https://doi.org/10.2174/0109298665325330240828115712",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39301901",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Immunogenicity%20and%20Neutralization%20Potential%20of%20Recombinant%20Chimeric%20Protein%20Comprising%20the%20Catalytic%20Region%20of%20Gp63%20of%20Leishmania%20and%20LTB%20against%20Leishmania%20donovani%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "AIM: To study the inhibition potential of antibody against a recombinant chimera comprising of the catalytic epitope of gp63 of Leishmania donovani and B subunit of heat-labile enterotoxin (LTB) in the functional activity of L. donovani. BACKGROUND: Visceral leishmaniasis, caused by the protozoan parasite Leishmania donovani, is a major health problem and causes mortality in tropical regions. Protozoan proteases play a crucial role in the pathogenesis of the disease and in establishing infection by countering the host's innate immune responses, namely complement-mediated lysis and phagocytosis. A surface-bound metalloprotease (gp63) has been reported to be a major virulence factor resulting in the evasion of complement- mediated lysis, cleaving host extracellular and intracellular substrates, resulting in intra- phagolysosomal survival. METHODS: The epitope corresponding to the catalytic motif of gp63 of Leishmania donovani was fused with the B subunit of heat-labile enterotoxin, which is known to be immunogenic. The chimera was cloned to a prokaryotic expression vector and purified using Ni NTA affinity chromatography. Antibodies were generated against the purified fusion protein and analyzed for its ability to bind to the gp63 catalytic motif peptide by ELISA. The effect of fusion protein antibody on the functional activity of gp63 was evaluated by assessing the effect of purified IgGs on the protease activity and complement-mediated lysis of L. donovani promastigotes in vitro. RESULTS: The present study reports that a recombinant chimera of the catalytic epitope of gp63 and B subunit of heat-labile enterotoxin (LTB) of E. coli, a potent adjuvant of humoral response can mount significant immune response towards the catalytic epitope. ELISA and Western blot analysis showed that the anti-fusion protein antiserum could recognize the native gp63. Also, it significantly inhibited the protease activity of promastigotes and subsequently increased complement-mediated lysis of the promastigotes in vitro. CONCLUSION: It could be concluded that the hybrid protein containing catalytic motif L. donovani gp63 protein and carrier protein (LTB) could elicit antibodies that could neutralise the functional activity of gp63 and thus could be a potential candidate for subunit leishmaniasis vaccine.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "35601095",
+      "title": "Metalloprotease Gp63-Targeting Novel Glycoside Exhibits Potential Antileishmanial Activity.",
+      "authors": [
+        "Amrita Chakrabarti",
+        "Chintam Narayana",
+        "Nishant Joshi",
+        "Swati Garg",
+        "Lalit C Garg",
+        "Anand Ranganathan",
+        "Ram Sagar",
+        "Soumya Pati",
+        "Shailja Singh"
+      ],
+      "year": "2022",
+      "journal": "Frontiers in cellular and infection microbiology",
+      "doi": "10.3389/fcimb.2022.803048",
+      "doi_link": "https://doi.org/10.3389/fcimb.2022.803048",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35601095",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Metalloprotease%20Gp63-Targeting%20Novel%20Glycoside%20Exhibits%20Potential%20Antileishmanial%20Activity%22",
+      "citations": {
+        "semantic_scholar": 7
+      },
+      "abstract": "Visceral leishmaniasis (VL) and post kala-azar dermal leishmaniasis (PKDL) affect most of the poor populations worldwide. The current treatment modalities include liposomal formulation or deoxycholate salt of amphotericin B, which has been associated with various complications and severe side effects. Encouraged from the recent marked antimalarial effects from plant-derived glycosides, in this study, we have exploited a green chemistry-based approach to chemically synthesize a library of diverse glycoside derivatives (Gly1-12) and evaluated their inhibitory efficacy against the AG83 strain of Leishmania donovani. Among the synthesized glycosides, the in vitro inhibitory activity of Glycoside-2 (Gly2) (1.13 µM IC50 value) on L. donovani promastigote demonstrated maximum cytotoxicity with ~94% promastigote death as compared to amphotericin B that was taken as a positive control. The antiproliferative effect of Gly2 on promastigote encouraged us to analyze the structure-activity relationship of Gly2 with Gp63, a zinc metalloprotease that majorly localizes at the surface of the promastigote and has a role in its development and multiplication. The result demonstrated the exceptional binding affinity of Gly2 toward the catalytic domain of Gp63. These data were thereafter validated through cellular thermal shift assay in a physiologically relevant cellular environment. Mechanistically, reduced multiplication of promastigotes on treatment with Gly2 induces the destabilization of redox homeostasis in promastigotes by enhancing reactive oxygen species (ROS), coupled with depolarization of the mitochondrial membrane. Additionally, Gly2 displayed strong lethal effects on infectivity and multiplication of amastigote inside the macrophage in the amastigote-macrophage infection model in vitro as compared to amphotericin B treatment. Gp63 is also known to bestow protection against complement-mediated lysis of parasites. Interestingly, Gly2 treatment enhances the complement-mediated lysis of L. donovani promastigotes in serum physiological conditions. In addition, Gly2 was found to be equally effective against the clinical promastigote forms of PKDL strain (IC50 value of 1.97 µM); hence, it could target both VL and PKDL simultaneously. Taken together, this study reports the serendipitous discovery of Gly2 with potent antileishmanial activity and proves to be a novel chemotherapeutic prototype against VL and PKDL.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "35173385",
+      "title": "Molecular docking analysis of Clostridium perfringens beta toxin model with potential inhibitors from the ZINC database.",
+      "authors": [
+        "Amit Kumar Solanki",
+        "Abhishek Acharya",
+        "Himani Kaushik",
+        "Bharti Bhatia",
+        "Lalit C Garg"
+      ],
+      "year": "2021",
+      "journal": "Bioinformation",
+      "doi": "10.6026/97320630017628",
+      "doi_link": "https://doi.org/10.6026/97320630017628",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35173385",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Molecular%20docking%20analysis%20of%20Clostridium%20perfringens%20beta%20toxin%20model%20with%20potential%20inhibitors%20from%20the%20ZINC%20database%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "Beta toxin from Clostridium perfringens after being secreted in gut is capable of causing necrotic enteritis in humans and several other animal species and does not respond to routinely used antibiotics. Therefore, there is a need to design an effective inhibitor for the Clostridium perfringens beta toxin (CPB) using cutting edge drug discovery technologies. Hence, potential CPB inhibitors were identified using computer aided screening of compounds from the ZINC database. Further, we document the molecular docking analysis of Clostridium perfringens beta toxin model (that revealed 4 binding pockets, A-D) with the identified potential inhibitors. We show that ZINC291192 [N-[(1-methylindol-3-yl) methyl eneamino]-7,10-dioxabicyclo[4.4.0]deca-2,4,11-triene-8- carboxamide] has optimal binding features with calculated binding energy of -10.38 kcal/mol and inhibition constant of 24.76 nM for further consideration.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "34914067",
+      "title": "Plasmodium falciparum Antigen Expression in Leishmania Parasite: A Way Forward for Live Attenuated Vaccine Development.",
+      "authors": [
+        "Akriti Srivastava",
+        "Swati Garg",
+        "Sweta Karan",
+        "Shikha Kaushik",
+        "Anand Ranganathan",
+        "Soumya Pati",
+        "Lalit C Garg",
+        "Shailja Singh"
+      ],
+      "year": "2022",
+      "journal": "Methods in molecular biology (Clifton, N.J.)",
+      "doi": "10.1007/978-1-0716-1884-4_28",
+      "doi_link": "https://doi.org/10.1007/978-1-0716-1884-4_28",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34914067",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Plasmodium%20falciparum%20Antigen%20Expression%20in%20Leishmania%20Parasite%3A%20A%20Way%20Forward%20for%20Live%20Attenuated%20Vaccine%20Development%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "Live attenuated vaccines (LAVs) are among the most critical interventions in modern medicine and have already proven their potential to save millions of lives. LAVs are always explored as potential vaccine candidates since they induce an immune response, which is as good as the wild type pathogen. For parasitic diseases, the efficacy of LAVs is still under investigation and needs extensive research to mark their presence in the field. In malaria, live attenuated sporozoites have been evaluated for a vaccine against the liver stage. This vaccine approach is limited due to the highly cumbersome technique of sporozoite isolation and related relapse issues. We have developed a novel vaccine against malaria by expressing Plasmodium falciparum antigens in Leishmania donovani promastigotes. These hybrid, recombinant L. donovani parasites mimicking P. falciparum parasite antigens were analyzed for their anti-malarial efficacy in preclinical studies. We demonstrate the potential of Leishmania spp. parasites in developing an important live vector vaccine against malaria for the induction of protective immune responses. Herein, we describe a method to express malaria parasite antigens in L. donovani promastigotes and analyze its potential for a vaccine against malaria. This methodology can be extended to live, attenuated Leishmania promastigotes parasites to develop LAV against malaria.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "34914066",
+      "title": "A Fast-Track Phenotypic Characterization of Plasmodium falciparum Vaccine Antigens through Lyse-Reseal Erythrocytes Mediated Delivery (LyRED) of RNA Interference for Targeted Translational Repression.",
+      "authors": [
+        "Malabika Chakrabarti",
+        "Swati Garg",
+        "Akshay Munjal",
+        "Sweta Karan",
+        "Soumya Pati",
+        "Lalit C Garg",
+        "Shailja Singh"
+      ],
+      "year": "2022",
+      "journal": "Methods in molecular biology (Clifton, N.J.)",
+      "doi": "10.1007/978-1-0716-1884-4_27",
+      "doi_link": "https://doi.org/10.1007/978-1-0716-1884-4_27",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34914066",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20Fast-Track%20Phenotypic%20Characterization%20of%20Plasmodium%20falciparum%20Vaccine%20Antigens%20through%20Lyse-Reseal%20Erythrocytes%20Mediated%20Delivery%20%28LyRED%29%20of%20RNA%20Interference%20for%20Targeted%20Translational%20Repression%22",
+      "citations": {
+        "crossref": 2
+      },
+      "abstract": "The minimal success of the malaria vaccine with available antigens indicates the need for intensive and accelerated research to identify and characterize new antigens that confer protection against infection, clinical manifestation, and even malaria transmission. Further, the genetic manipulation tools to characterize such antigens are very time-consuming and laborious due to the very low efficiency of transfection in the malaria parasite. Here, we report a human miRNA-mediated translational repression of antigens in Plasmodium falciparum as a fast-track method for understanding and validating their function. In this method, candidate miRNAs are designed based on favorable hybridization energy against a parasite gene, and miRNA mimics are delivered to the parasite by loading them as cargo in the erythrocytes by simple lyse-reseal method. Incubation of the miRNA loaded erythrocytes with purified mature trophozoites or schizonts results in the loaded erythrocytes' infection. The miRNA mimics are translocated to parasites, and the effect of miRNA-mediated translation repression can be monitored within 48-72 h post-invasion. Unlike other transfection based methods, this method is fast, reproducible, and robust. We call this method as lyse-reseal erythrocytes for delivery (LyRED) of miRNA, which is a rapid and straight-forward method providing an efficient alternative to the existing genetic tools for P. falciparum to characterize the function of antigens or genes. The identification of crucial antigens from the different stages of the Plasmodium falciparum life cycle by the miRNA targeting approach can fuel the development of efficacious subunit vaccines against malaria.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "34020083",
+      "title": "Recombinant FimH, a fimbrial tip adhesin of Vibrio parahaemolyticus, elicits mixed T helper cell response and confers protection against Vibrio parahaemolyticus challenge in murine model.",
+      "authors": [
+        "Sweta Karan",
+        "Lalit C Garg",
+        "Devapriya Choudhury",
+        "Aparna Dixit"
+      ],
+      "year": "2021",
+      "journal": "Molecular immunology",
+      "doi": "10.1016/j.molimm.2021.05.005",
+      "doi_link": "https://doi.org/10.1016/j.molimm.2021.05.005",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34020083",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Recombinant%20FimH%2C%20a%20fimbrial%20tip%20adhesin%20of%20Vibrio%20parahaemolyticus%2C%20elicits%20mixed%20T%20helper%20cell%20response%20and%20confers%20protection%20against%20Vibrio%20parahaemolyticus%20challenge%20in%20murine%20model%22",
+      "citations": {
+        "semantic_scholar": 12
+      },
+      "abstract": "Vibrio parahaemolyticus causes vibriosis in wide range of marine organisms, and is responsible for food borne illnesses in humans through consumption of contaminated uncooked/partially cooked seafood. Continued and widespread antibiotics usage to increase the productivity has led to antibiotics resistance development. This has necessitated the need to develop alternative methods to control its infection. Use of safe and effective vaccines against the virulence factors not only protects from infection, it also minimizes antibiotic usage. The colonization of V. parahaemolyticus in the host and disease development requires several adhesins present on the cell surface, and thereby make them attractive vaccine candidates. V. parahaemolyticus produces extracellular type 1 fimbriae that have been shown to play a role in adhesion, biofilm formation and virulence. FimH is one of the minor components of the type 1 fimbriae occurring on its very tip. Being present on the cell surface, it is highly immunogenic, and can be targeted as a potential vaccine candidate. The present study describes the immunogenic and vaccine potential of recombinant V. parahaemolyticus FimH (rVpFimH) expressed in E. coli. Immunization of BALB/c mice with the rVpFimH elicited a strong mixed immune response, T-cell memory (evidenced by antibody isotyping, cytokine profiling and T-cell proliferation assay), and agglutination positive antibodies. FACS analysis and immunogold labeling showed that the polyclonal anti-rVpFimH antibodies were able to recognize the FimH on V. parahaemolyticus cells. In vivo challenge of the rVpFimH-immunized mice with 2×LD50 dose of live bacteria showed one hundred percent survival. Thus, our findings clearly demonstrate the potential of FimH as an effective vaccine candidate against V. parahaemolyticus.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "33582835",
+      "title": "Toxin-antitoxin systems and their medical applications: current status and future perspective.",
+      "authors": [
+        "Akriti Srivastava",
+        "Soumya Pati",
+        "Himani Kaushik",
+        "Shailja Singh",
+        "Lalit C Garg"
+      ],
+      "year": "2021",
+      "journal": "Applied microbiology and biotechnology",
+      "doi": "10.1007/s00253-021-11134-z",
+      "doi_link": "https://doi.org/10.1007/s00253-021-11134-z",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33582835",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Toxin-antitoxin%20systems%20and%20their%20medical%20applications%3A%20current%20status%20and%20future%20perspective%22",
+      "citations": {
+        "crossref": 35
+      },
+      "abstract": "Almost all bacteria synthesize two types of toxins-one for its survival by regulating different cellular processes and another as a strategy to interact with host cells for pathogenesis. Usually, \"bacterial toxins\" are contemplated as virulence factors that harm the host organism. However, toxins produced by bacteria, as a survival strategy against the host, also hamper its cellular processes. To overcome this, the bacteria have evolved with the production of a molecule, referred to as antitoxin, to negate the deleterious effect of the toxin against itself. The toxin and antitoxins are encoded by a two-component toxin-antitoxin (TA) system. The antitoxin, a protein or RNA, sequesters the toxins of the TA system for neutralization within the bacterial cell. In this review, we have described different TA systems of bacteria and their potential medical and biotechnological applications. It is of interest to note that while bacterial toxin-antitoxin systems have been well studied, the TA system in unicellular eukaryotes, though predicted by the investigators, have never been paid the desired attention. In the present review, we have also touched upon the TA system of eukaryotes identified to date. KEY POINTS: Bacterial toxins harm the host and also affect the bacterial cellular processes. The antitoxin produced by bacteria protect it from the toxin's harmful effects. The toxin-antitoxin systems can be targeted for various medical applications.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "33467515",
+      "title": "Pathogenic Pore Forming Proteins of Plasmodium Triggers the Necrosis of Endothelial Cells Attributed to Malaria Severity.",
+      "authors": [
+        "Abhishek Shivappagowdar",
+        "Swati Garg",
+        "Akriti Srivastava",
+        "Rahul S Hada",
+        "Inderjeet Kalia",
+        "Agam P Singh",
+        "Lalit C Garg",
+        "Soumya Pati",
+        "Shailja Singh"
+      ],
+      "year": "2021",
+      "journal": "Toxins",
+      "doi": "10.3390/toxins13010062",
+      "doi_link": "https://doi.org/10.3390/toxins13010062",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33467515",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Pathogenic%20Pore%20Forming%20Proteins%20of%20Plasmodium%20Triggers%20the%20Necrosis%20of%20Endothelial%20Cells%20Attributed%20to%20Malaria%20Severity%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "Severe malaria caused by Plasmodium falciparum poses a major global health problem with high morbidity and mortality. P. falciparum harbors a family of pore-forming proteins (PFPs), known as perforin like proteins (PLPs), which are structurally equivalent to prokaryotic PFPs. These PLPs are secreted from the parasites and, they contribute to disease pathogenesis by interacting with host cells. The severe malaria pathogenesis is associated with the dysfunction of various barrier cells, including endothelial cells (EC). Several factors, including PLPs secreted by parasites, contribute to the host cell dysfunction. Herein, we have tested the hypothesis that PLPs mediate dysfunction of barrier cells and might have a role in disease pathogenesis. We analyzed various dysfunctions in barrier cells following rPLP2 exposure and demonstrate that it causes an increase in intracellular Ca2+ levels. Additionally, rPLP2 exposed barrier cells displayed features of cell death, including Annexin/PI positivity, depolarized the mitochondrial membrane potential, and ROS generation. We have further performed the time-lapse video microscopy of barrier cells and found that the treatment of rPLP2 triggers their membrane blebbing. The cytoplasmic localization of HMGB1, a marker of necrosis, further confirmed the necrotic type of cell death. This study highlights the role of parasite factor PLP in endothelial dysfunction and provides a rationale for the design of adjunct therapies against severe malaria.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "33429054",
+      "title": "Recombinant outer membrane protein OmpC induces protective immunity against Aeromonashydrophila infection in Labeorohita.",
+      "authors": [
+        "Sunita Kumari Yadav",
+        "Pujarini Dash",
+        "Pramoda Kumar Sahoo",
+        "Lalit C Garg",
+        "Aparna Dixit"
+      ],
+      "year": "2021",
+      "journal": "Microbial pathogenesis",
+      "doi": "10.1016/j.micpath.2020.104727",
+      "doi_link": "https://doi.org/10.1016/j.micpath.2020.104727",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33429054",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Recombinant%20outer%20membrane%20protein%20OmpC%20induces%20protective%20immunity%20against%20Aeromonashydrophila%20infection%20in%20Labeorohita%22",
+      "citations": {
+        "semantic_scholar": 51
+      },
+      "abstract": "Aeromonashydrophila is an opportunistic pathogen that causes enormous loss to aquaculture industry. The outer membrane proteins of Aeromonas help in bacterium-host interaction, and are considered to be potential vaccine candidates. In the present study, we evaluated immunogenicity and protective efficacy of recombinant OmpC (rOmpC) of A. hydrophila in Indian major carp, Labeorohita. The rOmpC-vaccinated fish produced specific anti-rOmpC antibodies with a significant antibody titer, and the antisera could specifically detect the rOmpC in the cell lysates of Escherichia coli expressing rOmpC and cross-react with different Aeromonas lysates, indicating the suitability of the anti-rOmpC antisera to detect Aeromonas infection. A significant increase was noted in ceruloplasmin level, myeloperoxidase and anti-protease activities in transient and temporal manner the sera of the rOmpC-immunized fish as compared to PBS-control fish. Higher agglutination- and hemolytic activity titers in the anti-rOmpC antisera indicate stimulation of innate immunity. Expression of immune-related genes comprising various acute phase proteins, cytokines and inflammatory response molecules were modulated in the head kidney of rOmpC-immunized L. rohita. While IgM, IL1β, and TLR-22 were significantly up-regulated at early time points (3 h-72 h), the others showed a transient augmentation at both early and later time points (SOD, lysozymes C and G, NKEF-B, C3, CXCa and TNF-α) in the rOmpC-immunized L. rohita in comparison to PBS-injected controls. These data suggest that the rOmpC-induced immune response is temporally regulated to confer immunity. In vivo challenge of the rOmpC-immunized fish with A. hydrophila showed significantly greater survival when compared to PBS-injected control fish. Thus, our results highlight the immunomodulatory role of rOmpC and demonstrate its protective efficacy in L. rohita, along with the use of anti-rOmpC antisera in detecting Aeromonas infections.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "33214747",
+      "title": "Molecular docking analysis of P2X7 receptor with the beta toxin from Clostridium perfringens.",
+      "authors": [
+        "Amit Kumar Solanki",
+        "Deepak Panwar",
+        "Himani Kaushik",
+        "Lalit C Garg"
+      ],
+      "year": "2020",
+      "journal": "Bioinformation",
+      "doi": "10.6026/97320630016594",
+      "doi_link": "https://doi.org/10.6026/97320630016594",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33214747",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Molecular%20docking%20analysis%20of%20P2X7%20receptor%20with%20the%20beta%20toxin%20from%20Clostridium%20perfringens%22",
+      "citations": {
+        "crossref": 2
+      },
+      "abstract": "Clostridium perfringens beta-toxin (CPB) is linked to necrotic enteritis (over proliferation of bacteria) in several species showing cytotoxic effect on primary porcine endothelial and human precursor immune cells. P2X7 receptor on THP-1 cells is known to bind CPB. This is critical to understand the mechanism of pore formation for effective drug design. The structure of CPB and P2X7 receptor proteins were modeled using standard molecular modeling procedures (I-TASSER and Robetta server). This is followed by protein-protein docking (HADDOCK server) to study their molecular interaction. Interacting residues (19 residues from CPB and 21 residues from P2X7) were identified using the PISA server. Thus, we document the molecular docking analysis of P2X7 receptor with the beta toxin from Clostridium perfringens towards drug design and development of drugs to control necrotic enteritis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "31734809",
+      "title": "Structural-functional characterization of recombinant Apolipoprotein A-I fromLabeo rohitademonstrates heat-resistant antimicrobial activity.",
+      "authors": [
+        "Sweta Karan",
+        "Amruta Mohapatra",
+        "Pramod Kumar Sahoo",
+        "Lalit C Garg",
+        "Aparna Dixit"
+      ],
+      "year": "2020",
+      "journal": "Applied microbiology and biotechnology",
+      "doi": "10.1007/s00253-019-10204-7",
+      "doi_link": "https://doi.org/10.1007/s00253-019-10204-7",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31734809",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structural-functional%20characterization%20of%20recombinant%20Apolipoprotein%20A-I%20fromLabeo%20rohitademonstrates%20heat-resistant%20antimicrobial%20activity%22",
+      "citations": {
+        "semantic_scholar": 10
+      },
+      "abstract": "Apolipoprotein A-I is an anti-inflammatory, antioxidative, cardioprotective, anti-tumorigenic, and anti-diabetic in mammals. Apolipoprotein A-I also regulates innate immune defense mechanisms in vertebrates and invertebrates. Apolipoproteins A-I from mammals and several teleosts display antibacterial activities against Gram negative and Gram positive bacteria. The present study describes strategies to obtain high amounts of soluble purified recombinant Apolipoprotein A-I of Labeo rohita, an Indian major carp (rLrApoA-I). The study also reports its detailed structural and functional characterization i.e. antimicrobial activity against a number of important marine and fresh water bacterial pathogens. The rLrApoA-I was expressed in Escherichia coli BL21(DE3) pLysS expression host as a soluble protein under optimized conditions. The yield of purified rLrApoA-I was ~ 75 mg/L from soluble fraction using metal ion affinity chromatography. The authenticity of the rLrApoA-I was confirmed by MALDI-TOF-MS analysis. The secondary structure analysis showed rLrApoA-I to be predominantly alpha helical, an evolutionary conserved characteristic across mammals and teleosts. The purified rLrApoA-I exhibited antimicrobial activity as evident from inhibition of growth of a number of bacteria namely Aeromonas hydrophila, A. liquefaciens, A. culicicola, A. sobria, Vibrio harveyi, V. parahaemolyticus and Edwardsiella tarda in a dose-dependent manner. Minimum bactericidal concentration for A. liquefaciens, A. culicicola, and A. sobria, was determined to be 25 μg/ml or 0.81 μM whereas for A. hydrophila, E. tarda, V. parahaemolyticus and V. harveyi, it was determined to be 100 μg/ml or 3.23 μM. These data strongly suggest that recombinant ApoA-I from Labeo rohita could play a role in primary defense against fish pathogen. Further, at temperature ≥ 55 °C, though a loss in secondary structure was observed, no effect on its antibacterial activity was observed. This is of significance as the antibacterial activity is not likely to be lost even if the protein is subjected to high temperatures during transport.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "31300915",
+      "title": "Immunization with recombinant fusion of LTB and linear epitope (40-62) of epsilon toxin elicits protective immune response against the epsilon toxin of Clostridium perfringens type D.",
+      "authors": [
+        "Himani Kaushik",
+        "Sachin Kumar Deshmukh",
+        "Amit Kumar Solanki",
+        "Bharti Bhatia",
+        "Archana Tiwari",
+        "Lalit C Garg"
+      ],
+      "year": "2019",
+      "journal": "AMB Express",
+      "doi": "10.1186/s13568-019-0824-3",
+      "doi_link": "https://doi.org/10.1186/s13568-019-0824-3",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31300915",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Immunization%20with%20recombinant%20fusion%20of%20LTB%20and%20linear%20epitope%20%2840-62%29%20of%20epsilon%20toxin%20elicits%20protective%20immune%20response%20against%20the%20epsilon%20toxin%20of%20Clostridium%20perfringens%20type%20D%22",
+      "citations": {
+        "semantic_scholar": 7
+      },
+      "abstract": "Epsilon toxin (Etx) produced by Clostridium perfringens types B and D, a major causative agent of enterotoxaemia causes significant economic losses to animal industry. Conventional vaccines against these pathogens generally employ formalin-inactivated culture supernatants. However, immunization with the culture supernatant and full length toxin subjects the animal to antigenic load and often have adverse effect due to incomplete inactivation of the toxins. In the present study, an epitope-based vaccine against Clostridium perfringens Etx, comprising 40-62 amino acid residues of the toxin in translational fusion with heat labile enterotoxin B subunit (LTB) of E. coli, was evaluated for its protective potential. The ability of the fusion protein rLTB.Etx40-62 to form pentamers and biologically active holotoxin with LTA of E. coli indicated that the LTB present in the fusion protein retained its biological activity. Antigenicity of both the components in the fusion protein was retained as anti-fusion protein antisera detected both the wild type Etx and LTB in Western blot analysis. Immunization of BALB/c mice with the fusion protein resulted in a significant increase in all isotypes, predominantly IgG1, IgG2a and IgG2b. Anti-fusion protein antisera neutralized the cytotoxicity of epsilon toxin both in vitro and in vivo. Thus, the results demonstrate the potential of rLTB.Etx40-62 as a candidate vaccine against C. perfringens.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "29958980",
+      "title": "Modulation of immune response and protective efficacy of recombinant outer-membrane protein F (rOmpF) of Aeromonas hydrophila in Labeo rohita.",
+      "authors": [
+        "Sunita Kumari Yadav",
+        "Pujarini Dash",
+        "Pramoda Kumar Sahoo",
+        "Lalit C Garg",
+        "Aparna Dixit"
+      ],
+      "year": "2018",
+      "journal": "Fish & shellfish immunology",
+      "doi": "10.1016/j.fsi.2018.06.041",
+      "doi_link": "https://doi.org/10.1016/j.fsi.2018.06.041",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29958980",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Modulation%20of%20immune%20response%20and%20protective%20efficacy%20of%20recombinant%20outer-membrane%20protein%20F%20%28rOmpF%29%20of%20Aeromonas%20hydrophila%20in%20Labeo%20rohita%22",
+      "citations": {
+        "crossref": 23
+      },
+      "abstract": "The outer-membrane proteins (OMPs) of Aeromonas hydrophila, an imperative fish pathogen accountable for massive economic losses to aquaculture industry, are found to be immunogenic and considered as potential vaccine candidates. In spite of development in the formulation of vaccine candidates against Aeromonas infection, no commercial preparation has been done so far; in addition, the molecular mechanisms of immunoprotection induced by various vaccine formulations in Indian major carp, Labeo rohita, are little known. The present study was undertaken to evaluate the modulation of immunity and expression of immune-related genes post-rOmpF (recombinant outer-membrane protein of A. hydrophila, a novel vaccine candidate) immunization and protective efficacy after A. hydrophila challenge. The rOmpF-immunized fish showed a variable expression of the immune-related genes, viz. toll-like receptor 22 (TLR), complement component 3 (C3), chemokine (CXCa), tumor necrosis factor-α (TNFα), interleukin 1β (IL-1β), manganese superoxide dismutase (MnSOD) and natural killer enhancing factor (NKEF) in the head kidney tissues, when compared to the control group at different time intervals post-vaccination. A significant increase in serum hemolysin titer, ceruloplasmin level and myeloperoxidase activity was observed on day 140 post immunization. Also, bacterial agglutination titer and antiprotease activity were significantly increased on day 42 post immunization. No significant change was observed in lysozyme activity. Challenge studies with live A. hydrophila on day 140 post-immunization of L. rohita significantly increased the relative percentage survival (∼44%) in the vaccinated group. The results suggest that the rOmpF could be used as a potential vaccine candidate to combat A. hydrophila infection in fish.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "29920342",
+      "title": "Synthesis of peptide based epsilon toxin vaccine by covalent anchoring to tetanus toxoid.",
+      "authors": [
+        "Himani Kaushik",
+        "Aparna Dixit",
+        "Lalit C Garg"
+      ],
+      "year": "2018",
+      "journal": "Anaerobe",
+      "doi": "10.1016/j.anaerobe.2018.06.008",
+      "doi_link": "https://doi.org/10.1016/j.anaerobe.2018.06.008",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29920342",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Synthesis%20of%20peptide%20based%20epsilon%20toxin%20vaccine%20by%20covalent%20anchoring%20to%20tetanus%20toxoid%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "The epsilon toxin (Etx) produced by Clostridium perfringens type B and D causes severe enterotoxaemia associated with a general edema and neurological alterations, leading to subsequent death and is listed as one of the most lethal toxins. Currently employed vaccines against C. perfringens epsilon toxin include toxoid based vaccines. Use of peptide vaccines has become an interesting approach for vaccination after the successful licensing of peptide vaccines against Haemophilus influenza, Neisseria meningitides and Streptococcus pneumonia that have demonstrated the potential and effectiveness of these vaccines. Therefore, the present study was undertaken to develop a peptide based vaccine against epsilon toxin. Peptides were selected on the basis of epitope mapping by making 35 overlapping peptides of 15 amino acid residues in length specific to the primary amino acid sequence of the toxin, with a 7 amino acid residues overlaps between sequential peptides. Chemically synthesized peptides that were recognised by the antibody against the full length epsilon toxin were further assessed for vaccine potential. The selected peptides were chemically conjugated to partially reduced tetanus toxoid (TT) using of N-succinimidyl-3(2-pyridyldithio) propionate. Immunization of BALB/c mice with TT-peptide conjugates by sub-cutaneous route induced sustained high level mixed immune response as analyzed by antibody isotyping. Immunoblot analysis and ELISA clearly indicated generation of Etx-specific antibodies. Further, neutralization studies with the antisera generated against the TT-conjugated peptide(s) demonstrated that the antisera were able to neutralize the lethal dose of epsilon toxin in vitro demonstrating its potential as a promising vaccine candidate against enterotoxaemia.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "28523396",
+      "title": "Clostridium perfringens beta toxin DNA prime-protein boost elicits enhanced protective immune response in mice.",
+      "authors": [
+        "Amit Kumar Solanki",
+        "Bharati Bhatia",
+        "Himani Kaushik",
+        "Sachin K Deshmukh",
+        "Aparna Dixit",
+        "Lalit C Garg"
+      ],
+      "year": "2017",
+      "journal": "Applied microbiology and biotechnology",
+      "doi": "10.1007/s00253-017-8333-2",
+      "doi_link": "https://doi.org/10.1007/s00253-017-8333-2",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28523396",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Clostridium%20perfringens%20beta%20toxin%20DNA%20prime-protein%20boost%20elicits%20enhanced%20protective%20immune%20response%20in%20mice%22",
+      "citations": {
+        "crossref": 8
+      },
+      "abstract": "Clostridium perfringens beta toxin (CPB) is the primary pathogenic factor responsible for necrotic enteritis in sheep, cattle and humans. Owing to rapid progression of the disease, vaccination is the only possible recourse to avoid high mortality in animal farms and huge economic losses. The present study reports evaluation of a cpb gene-based DNA vaccine encoding the beta toxin of C. perfringens with homologous as well as heterologous booster strategy. Immunization strategy employing heterologous booster with heat-inactivated rCPB mounted stronger immune response when compared to that generated by homologous booster. Antibody isotyping and cytokine ELISA demonstrated the immune response to be Th1-biased mixed immune response. While moderate protection of immunized BALB/c and C57BL/6 mice against rCPB challenge was observed with homologous booster strategy, heterologous booster strategy led to complete protection. Thus, beta toxin-based DNA vaccine using the heterologous prime-boosting strategy was able to generate better immune response and conferred greater degree of protection against high of dose rCPB challenge than homologous booster regimen, making it an effective vaccination approach against C. perfringens beta toxin.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "27689097",
+      "title": "Structural and Functional Characterization of Recombinant Interleukin-10 from Indian Major Carp Labeo rohita.",
+      "authors": [
+        "Sweta Karan",
+        "Pujarini Dash",
+        "Himani Kaushik",
+        "Pramoda K Sahoo",
+        "Lalit C Garg",
+        "Aparna Dixit"
+      ],
+      "year": "2016",
+      "journal": "Journal of immunology research",
+      "doi": "10.1155/2016/3962596",
+      "doi_link": "https://doi.org/10.1155/2016/3962596",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27689097",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structural%20and%20Functional%20Characterization%20of%20Recombinant%20Interleukin-10%20from%20Indian%20Major%20Carp%20Labeo%20rohita%22",
+      "citations": {
+        "semantic_scholar": 23
+      },
+      "abstract": "Interleukin-10, an important regulator of both the innate and adaptive immune systems, is a multifunctional major cytokine. Though it is one of the major cytokines, IL-10 from the Indian major carp, Labeo rohita, has not yet been characterized. In the present study, we report large scale production and purification of biologically active recombinant IL-10 of L. rohita (rLrIL-10) using a heterologous expression system and its biophysical and functional characterization. High yield (~70 mg/L) of soluble rLrIL-10 was obtained at shake flask level. The rLrIL-10 was found to exist as a dimer. Far-UV CD spectroscopy showed presence of predominantly alpha helices. The tertiary structure of the purified rLrIL-10 was verified by fluorescence spectroscopy. Two-dimensional gel analysis revealed the presence of six isoforms of the rLrIL-10. The rLrIL-10 was biologically active and its administration significantly reduced serum proinflammatory cytokines, namely, interleukin 1β, TNFα, and IL-8, and augmented the NKEF transcript levels in spleen of L. rohita. Anti-inflammatory role of the rLrIL-10 was further established by inhibition of phagocytosis using NBT reduction assay in vitro. The data indicate that the dimeric alpha helical structure and function of IL-10 of L. rohita as a key regulator of anti-inflammatory response have remained conserved during evolution.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "27379247",
+      "title": "Drug Target Identification and Prioritization for Treatment of Ovine Foot Rot: An In Silico Approach.",
+      "authors": [
+        "Abhishek Acharya",
+        "Lalit C Garg"
+      ],
+      "year": "2016",
+      "journal": "International journal of genomics",
+      "doi": "10.1155/2016/7361361",
+      "doi_link": "https://doi.org/10.1155/2016/7361361",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27379247",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Drug%20Target%20Identification%20and%20Prioritization%20for%20Treatment%20of%20Ovine%20Foot%20Rot%3A%20An%20In%20Silico%20Approach%22",
+      "citations": {
+        "crossref": 10
+      },
+      "abstract": "Ovine foot rot is an infection of the feet of sheep, mainly caused by Dichelobacter nodosus. In its virulent form, it is highly contagious and debilitating, causing significant losses in the form of decline in wool growth and quality and poor fertility. Current methods of treatment are ineffective in complete eradication. Effective antibiotic treatment of foot rot is hence necessary to ensure better outcomes during control phases by reduction in culling count and the possibility of carriers of the infection. Using computational approaches, we have identified a set of 297 proteins that are essential to the D. nodosus and nonhomologous with sheep proteins. These proteins may be considered as potential vaccine candidates or drug targets for designing antibiotics against the bacterium. This core set of drug targets have been analyzed for pathway annotation to identify 67 proteins involved in unique bacterial pathways. Choke-point analysis on the drug targets identified 138 choke-point proteins, 29 involved in unique bacterial pathways. Subcellular localization was also predicted for each target to identify the ones that are membrane associated or secreted extracellularly. In addition, a total of 13 targets were identified that are common in at least 10 pathogenic bacterial species.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "27129781",
+      "title": "PE_PGRS30 of Mycobacterium tuberculosis mediates suppression of proinflammatory immune response in macrophages through its PGRS and PE domains.",
+      "authors": [
+        "Shweta Chatrath",
+        "Vineet Kumar Gupta",
+        "Aparna Dixit",
+        "Lalit C Garg"
+      ],
+      "year": "2016",
+      "journal": "Microbes and infection",
+      "doi": "10.1016/j.micinf.2016.04.004",
+      "doi_link": "https://doi.org/10.1016/j.micinf.2016.04.004",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27129781",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22PE_PGRS30%20of%20Mycobacterium%20tuberculosis%20mediates%20suppression%20of%20proinflammatory%20immune%20response%20in%20macrophages%20through%20its%20PGRS%20and%20PE%20domains%22",
+      "citations": {
+        "semantic_scholar": 25
+      },
+      "abstract": "The success of Mycobacterium tuberculosis as a pathogen relies on its ability to survive inside macrophages and evade host immune mechanisms. M. tuberculosis employs multiple strategies to confer resistance against immune system including inhibition of phago-lysosomal fusion, modulation of cytokine responses and granuloma formation. PE_PGRS proteins, uniquely present in pathogenic mycobacteria, are cell surface molecules that are suggested to interact with host cells. PE_PGRS proteins have also been implicated in its pathogenesis. In the present study, immuno-regulatory property of Rv1651c-encoded PE_PGRS30 protein was explored. Infection of PMA-differentiated human THP-1 macrophages with Mycobacterium smegmatis harbouring pVV(1651c) resulted in reduced production of IL-12, TNF-α and IL-6, as compared to infection with M. smegmatis harbouring the control plasmid pVV16. No differential effect was observed on bacterial persistence inside macrophages or on macrophage mortality upon infection with the two recombinant strains. Infection of THP-1 macrophages with recombinant M. smegmatis expressing deletion variants of PE_PGRS30 indicated that anti-inflammatory function of the protein is possessed by its PGRS and PE domains while the C-terminal domain, when expressed alone, displayed antagonistic effect in terms of TNF-α secretion. These results suggest that PE_PGRS30 interferes with macrophage immune functions important for activation of adaptive T-cell responses.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "25489171",
+      "title": "Genomic cloning and sequence analysis of Interleukin-10 from Labeo rohita.",
+      "authors": [
+        "Sweta Karan",
+        "Himani Kaushik",
+        "Nipun Saini",
+        "Pramod K Sahoo",
+        "Aparna Dixit",
+        "Lalit C Garg"
+      ],
+      "year": "2014",
+      "journal": "Bioinformation",
+      "doi": "10.6026/97320630010623",
+      "doi_link": "https://doi.org/10.6026/97320630010623",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25489171",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Genomic%20cloning%20and%20sequence%20analysis%20of%20Interleukin-10%20from%20Labeo%20rohita%22",
+      "citations": {
+        "semantic_scholar": 9
+      },
+      "abstract": "UNLABELLED: Interleukin-10 (IL-10) is a pleiotropic cytokine and plays an important role in inflammation, immunoregulation and the pathogenesis of various diseases. Therefore, it is our interest to isolate, clone, sequence and characterize IL-10 gene from the fish Labeo rohita (Lr). The gene was amplified using genomic DNA isolated from head kidney with primers designed on conserved sequence homologues of fishes belonging to Cyprinidae family. The gLrIL-10 is 1467 nucleotides long with five exons and four introns sharing the same organization as of mammalian IL-10 genes. An open reading frame of 537 bp was found to encode a putative 179 amino acid protein with a signal peptide of 22 amino acids with conserved signature sequence motif. Sequence analysis showed similarity with the IL-10 from most fresh water fishes of Cyprinidae family. LrIL-10 has 27.2 % identity and 54.95 % similarity with the human IL-10. Sequence analysis followed by phylogenetic studies showed highest identity with Catla catla (98%) followed by Cyprinus carpio (93%), Hypophthalmichthys molitrix (89%) and is distantly related to human, rhesus monkey and frog. These data from primary sequence characterization may be used to further understand transcriptional regulation and functional characterization of LrIL-10 in relation to species-specific molecular immunology. ABBREVIATIONS: IL-10 - Interleukin-10, Lr - Labeo rohita, nt - nucleotides.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "25187678",
+      "title": "Identification of glutamate ABC-Transporter component in Clostridium perfringens as a putative drug target.",
+      "authors": [
+        "Bharti Bhatia",
+        "Sanket Singh Ponia",
+        "Amit Kumar Solanki",
+        "Aparna Dixit",
+        "Lalit C Garg"
+      ],
+      "year": "2014",
+      "journal": "Bioinformation",
+      "doi": "10.6026/97320630010401",
+      "doi_link": "https://doi.org/10.6026/97320630010401",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25187678",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Identification%20of%20glutamate%20ABC-Transporter%20component%20in%20Clostridium%20perfringens%20as%20a%20putative%20drug%20target%22",
+      "citations": {
+        "crossref": 13
+      },
+      "abstract": "Clostridium perfringens is an anaerobic pathogen known to cause vast number of diseases in mammals and birds. Various toxins and hydrolysing enzymes released by the organism are responsible for the necrosis of soft tissues. Due to serious safety issues associated with current vaccines against C. perfringens, there is a need for new drug or vaccine targets. C. perfringens is extremely dependent on its host for nutrition which can be targeted for vaccine development or drug design. Therefore, it is of interest to identify the unique transport systems used by C. perfringens involved in uptake of essential amino acids that are synthesized by the host, so that therapeutic agents can be designed to target the specific transport systems. Use of bioinformatics tools resulted in the identification of a protein component of the glutamate transport system that is not present in the host. Analysis of the conservation profile of the protein domain indicated it to be a glutamate binding protein which also stimulates the ATPase activity of ATP Binding Cassettes (ABC) transporters. Homology modelling of the protein showed two distinct lobes, which is a characteristic of substrate binding proteins. This suggests that the carboxylates of glutamate might be stabilized by electrostatic interactions with basic residues as is observed with other binding proteins. Hence, the homology model of this potential drug target can be employed for in silico docking studies by suitable inhibitors.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 20,
+    "publications_by_year": {
+      "2024": 1,
+      "2022": 3,
+      "2021": 5,
+      "2020": 2,
+      "2019": 1,
+      "2018": 2,
+      "2017": 1,
+      "2016": 3,
+      "2014": 2
+    },
+    "top_journals": [
+      "Bioinformation",
+      "Applied microbiology and biotechnology",
+      "Methods in molecular biology (Clifton, N.J.)",
+      "Protein and peptide letters",
+      "Frontiers in cellular and infection microbiology"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 36,
+      "frequent_collaborators": [
+        "Lalit C Garg",
+        "Aparna Dixit",
+        "Himani Kaushik",
+        "Soumya Pati",
+        "Shailja Singh",
+        "Swati Garg",
+        "Pujarini Dash",
+        "Anand Ranganathan"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "33429054",
+        "title": "Recombinant outer membrane protein OmpC induces protective immunity against Aeromonashydrophila infection in Labeorohita.",
+        "citations": 51,
+        "year": "2021"
+      },
+      {
+        "publication_id": "33582835",
+        "title": "Toxin-antitoxin systems and their medical applications: current status and future perspective.",
+        "citations": 35,
+        "year": "2021"
+      },
+      {
+        "publication_id": "27129781",
+        "title": "PE_PGRS30 of Mycobacterium tuberculosis mediates suppression of proinflammatory immune response in macrophages through its PGRS and PE domains.",
+        "citations": 25,
+        "year": "2016"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1028 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Bichitra K. Biswal",
+    "email": "bbiswal@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-bichitra-k-biswal",
+    "research_domain": "Chemical Biology, Biochemistry & Structural Biology",
+    "faculty_status": "current",
+    "search_date": "2025-07-01T14:34:28.520763",
+    "total_publications": 37,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Bichitra K. Biswal, current faculty in Chemical Biology, Biochemistry & Structural Biology at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "40403899",
+      "title": "Structural and biophysical characterization of PadR family protein Rv0047c of Mycobacterium tuberculosis H37Rv.",
+      "authors": [
+        "Md Samsuddin Ansari",
+        "Muhammad Zohib",
+        "Meera Kumari",
+        "Vikash Yadav",
+        "Ravi Kant Pal",
+        "Sarita Tripathi",
+        "Anupam Jain",
+        "Bichitra Kumar Biswal",
+        "Ashish Arora"
+      ],
+      "year": "2025",
+      "journal": "Journal of structural biology",
+      "doi": "10.1016/j.jsb.2025.108211",
+      "doi_link": "https://doi.org/10.1016/j.jsb.2025.108211",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40403899",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structural%20and%20biophysical%20characterization%20of%20PadR%20family%20protein%20Rv0047c%20of%20Mycobacterium%20tuberculosis%20H37Rv%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "The members of the PadR family of transcriptional regulators are important for cell survival in toxic environments and play an important role in detoxification, pathogenicity, and multi-drug resistance. Rv0047c of Mycobacterium tuberculosis H37Rv is annotated as a PadR family protein. We have characterized the stability and structure of Rv0047c. Rv0047c forms a stable dimer in solution. Its stability is characterized by a thermal melting transition temperature (Tm) of 55.3 °C. The crystal structure of Rv0047c was determined at a resolution of 3.15 Å. The structure indicates the biological unit to be a dimer with each monomer having a characteristic N-terminal winged-helix-turn-helix DNA binding domain and a C-terminal dimerization domain. The N-terminal domain is composed of four helices, α1, α2, α3, and α4 and two beta strands β1 and β2. The C-terminal dimerization domain (CTD) consists two long helices α6 and α7. The two domains are connected by helix α5. A short helical turn (helix αa, residue 89-92), leads to compaction of the α4-α5 loop. Rv0047c exhibits specificity in binding to an upstream region having an inverted repeat sequence. This binding is dependent upon Y18 and Y40 residue of Rv0047c, which are highly conserved among the PadR family. Overall, our results suggest a transcription regulatory role for Rv0047c, similar to other PadR family proteins.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "40358830",
+      "title": "From pharmacophore predictions to pharmaceutical possibilities: an integrated approach to screen M3 selective muscarinic receptor antagonist.",
+      "authors": [
+        "Sirat K Gill",
+        "Swati Kumari",
+        "Bichitra K Biswal",
+        "Badri N Acharya"
+      ],
+      "year": "2025",
+      "journal": "Molecular diversity",
+      "doi": "10.1007/s11030-025-11208-4",
+      "doi_link": "https://doi.org/10.1007/s11030-025-11208-4",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40358830",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22From%20pharmacophore%20predictions%20to%20pharmaceutical%20possibilities%3A%20an%20integrated%20approach%20to%20screen%20M3%20selective%20muscarinic%20receptor%20antagonist%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "Muscarinic Acetylcholine Receptors (mAChR) are located in the central nervous system, peripheral nervous system, nerve synapses, and autonomic ganglia. They are coupled with G-proteins that regulate a range of functions like motor control, cardiac rhythm, smooth muscle contraction-relaxation, and glandular secretions. Muscarinic receptors have five subtypes that span from M1 to M5. Among them, M3 mAChR has gained significant attention as per their involvement in irritable bowel syndrome, over active bladder, and chronic obstructive pulmonary disease. To identify M3 selective antimuscarinic drugs using virtual screening, a five-feature three-dimensional quantitative structure-activity relationship pharmacophore model was generated with 0.962 correlation coefficient and 0.728 root mean square deviation. It was trained such that it passed Fischer's Randomization test at a 99% confidence level. The screened active molecules were calculated for pharmacokinetic properties to define drug-likeliness, and flexibly docked on receptors with a defined binding pocket to reach M3 selective mAChR antagonists. For the leading candidates, calculating Molecular-Mechanics-Generalized-Born Surface Area binding free energy gave the optimal conformer for molecular dynamics studies. The generated frames showed molecule 45255447 (PubChemID) to be most stable at M3 mAChR binding pocket and can be put forward for therapeutic potential through wet lab analysis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "39987731",
+      "title": "Retraction notice to \"Identification of probable inhibitors for the DNA polymerase of the Monkeypox virus through the virtual screening approach\" [Int. J. Biol. Macromol. 229 (2023) 515-528].",
+      "authors": [
+        "Swati Kumari",
+        "Sayan Chakraborty",
+        "Mohammed Ahmad",
+        "Varun Kumar",
+        "Prafullakumar B Tailor",
+        "Bichitra K Biswal"
+      ],
+      "year": "2025",
+      "journal": "International journal of biological macromolecules",
+      "doi": "10.1016/j.ijbiomac.2025.141044",
+      "doi_link": "https://doi.org/10.1016/j.ijbiomac.2025.141044",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39987731",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Retraction%20notice%20to%20%22Identification%20of%20probable%20inhibitors%20for%20the%20DNA%20polymerase%20of%20the%20Monkeypox%20virus%20through%20the%20virtual%20screening%20approach%22%20%5BInt.%20J.%20Biol.%20Macromol.%20229%20%282023%29%20515-528%5D%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "38417748",
+      "title": "Structural and biophysical characterization of PadR family protein Rv1176c of Mycobacterium tuberculosis H37Rv.",
+      "authors": [
+        "Vikash Yadav",
+        "Muhammad Zohib",
+        "Shriya Singh",
+        "Ravi Kant Pal",
+        "Sarita Tripathi",
+        "Anupam Jain",
+        "Bichitra Kumar Biswal",
+        "Arunava Dasgupta",
+        "Ashish Arora"
+      ],
+      "year": "2024",
+      "journal": "International journal of biological macromolecules",
+      "doi": "10.1016/j.ijbiomac.2024.130455",
+      "doi_link": "https://doi.org/10.1016/j.ijbiomac.2024.130455",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38417748",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structural%20and%20biophysical%20characterization%20of%20PadR%20family%20protein%20Rv1176c%20of%20Mycobacterium%20tuberculosis%20H37Rv%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "Rv1176c of Mycobacterium tuberculosis H37Rv belongs to the PadR-s1 subfamily of the PadR family of protein. Rv1176c forms a stable dimer in solution. Its stability is characterized by a thermal melting transition temperature (Tm) of 39.4 °C. The crystal structure of Rv1176c was determined at a resolution of 2.94 Å, with two monomers in the asymmetric unit. Each monomer has a characteristic N-terminal winged-helix-turn-helix DNA-binding domain. Rv1176c C-terminal is a coiled-coil dimerization domain formed of α-helices α5 to α7. In the Rv1176c dimer, there is domain-swapping of the C-terminal domain in comparison to other PadR homologs. In the dimer, there is a long inter-subunit tunnel in which different ligands can bind. Rv1176c was found to bind to the promoter region of its own gene with high specificity. M. smegmatis MC2 155 genome lacks homolog of Rv1176c. Therefore, it was used as a surrogate to characterize the functional role of Rv1176c. Expression of Rv1176c in M. smegmatis MC2 155 cells imparted enhanced tolerance towards oxidative stress. Rv1176c expressing M. smegmatis MC2 155 cells exhibited enhanced intracellular survival in J774A.1 murine macrophage cells. Overall, our studies demonstrate Rv1176c to be a PadR-s1 subfamily transcription factor that can moderate the effect of oxidative stress.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "37860976",
+      "title": "Structural snapshots of Mycobacterium tuberculosis enolase reveal dual mode of 2PG binding and its implication in enzyme catalysis.",
+      "authors": [
+        "Mohammed Ahmad",
+        "Bhavya Jha",
+        "Sucharita Bose",
+        "Satish Tiwari",
+        "Abhisek Dwivedy",
+        "Deepshikha Kar",
+        "Ravikant Pal",
+        "Richard Mariadasse",
+        "Tanya Parish",
+        "Jeyaraman Jeyakanthan",
+        "Kutti R Vinothkumar",
+        "Bichitra Kumar Biswal"
+      ],
+      "year": "2023",
+      "journal": "IUCrJ",
+      "doi": "10.1107/S2052252523008485",
+      "doi_link": "https://doi.org/10.1107/S2052252523008485",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37860976",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structural%20snapshots%20of%20Mycobacterium%20tuberculosis%20enolase%20reveal%20dual%20mode%20of%202PG%20binding%20and%20its%20implication%20in%20enzyme%20catalysis%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "Enolase, a ubiquitous enzyme, catalyzes the reversible conversion of 2-phosphoglycerate (2PG) to phosphoenolpyruvate (PEP) in the glycolytic pathway of organisms of all three domains of life. The underlying mechanism of the 2PG to PEP conversion has been studied in great detail in previous work, however that of the reverse reaction remains to be explored. Here we present structural snapshots of Mycobacterium tuberculosis (Mtb) enolase in apo, PEP-bound and two 2PG-bound forms as it catalyzes the conversion of PEP to 2PG. The two 2PG-bound complex structures differed in the conformation of the bound product (2PG) viz the widely reported canonical conformation and a novel binding pose, which we refer to here as the alternate conformation. Notably, we observed two major differences compared with the forward reaction: the presence of MgB is non-obligatory for the reaction and 2PG assumes an alternate conformation that is likely to facilitate its dissociation from the active site. Molecular dynamics studies and binding free energy calculations further substantiate that the alternate conformation of 2PG causes distortions in both metal ion coordination and hydrogen-bonding interactions, resulting in an increased flexibility of the active-site loops and aiding product release. Taken together, this study presents a probable mechanism involved in PEP to 2PG catalysis that is likely to be mediated by the conformational change of 2PG at the active site.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "37289866",
+      "title": "Taurine deficiency as a driver of aging.",
+      "authors": [
+        "Parminder Singh",
+        "Kishore Gollapalli",
+        "Stefano Mangiola",
+        "Daniela Schranner",
+        "Mohd Aslam Yusuf",
+        "Manish Chamoli",
+        "Sting L Shi",
+        "Bruno Lopes Bastos",
+        "Tripti Nair",
+        "Annett Riermeier",
+        "Elena M Vayndorf",
+        "Judy Z Wu",
+        "Aishwarya Nilakhe",
+        "Christina Q Nguyen",
+        "Michael Muir",
+        "Michael G Kiflezghi",
+        "Anna Foulger",
+        "Alex Junker",
+        "Jack Devine",
+        "Kunal Sharan",
+        "Shankar J Chinta",
+        "Swati Rajput",
+        "Anand Rane",
+        "Philipp Baumert",
+        "Martin Schönfelder",
+        "Francescopaolo Iavarone",
+        "Giorgia di Lorenzo",
+        "Swati Kumari",
+        "Alka Gupta",
+        "Rajesh Sarkar",
+        "Costerwell Khyriem",
+        "Amanpreet S Chawla",
+        "Ankur Sharma",
+        "Nazan Sarper",
+        "Naibedya Chattopadhyay",
+        "Bichitra K Biswal",
+        "Carmine Settembre",
+        "Perumal Nagarajan",
+        "Kimara L Targoff",
+        "Martin Picard",
+        "Sarika Gupta",
+        "Vidya Velagapudi",
+        "Anthony T Papenfuss",
+        "Alaattin Kaya",
+        "Miguel Godinho Ferreira",
+        "Brian K Kennedy",
+        "Julie K Andersen",
+        "Gordon J Lithgow",
+        "Abdullah Mahmood Ali",
+        "Arnab Mukhopadhyay",
+        "Aarno Palotie",
+        "Gabi Kastenmüller",
+        "Matt Kaeberlein",
+        "Henning Wackerhage",
+        "Bhupinder Pal",
+        "Vijay K Yadav"
+      ],
+      "year": "2023",
+      "journal": "Science (New York, N.Y.)",
+      "doi": "10.1126/science.abn9257",
+      "doi_link": "https://doi.org/10.1126/science.abn9257",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37289866",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Taurine%20deficiency%20as%20a%20driver%20of%20aging%22",
+      "citations": {
+        "crossref": 246
+      },
+      "abstract": "Aging is associated with changes in circulating levels of various molecules, some of which remain undefined. We find that concentrations of circulating taurine decline with aging in mice, monkeys, and humans. A reversal of this decline through taurine supplementation increased the health span (the period of healthy living) and life span in mice and health span in monkeys. Mechanistically, taurine reduced cellular senescence, protected against telomerase deficiency, suppressed mitochondrial dysfunction, decreased DNA damage, and attenuated inflammaging. In humans, lower taurine concentrations correlated with several age-related diseases and taurine concentrations increased after acute endurance exercise. Thus, taurine deficiency may be a driver of aging because its reversal increases health span in worms, rodents, and primates and life span in worms and rodents. Clinical trials in humans seem warranted to test whether taurine deficiency might drive aging in humans.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "36736778",
+      "title": "Immunogenicity Evaluation of Thermostable Microparticles Entrapping Receptor Binding Domain of SARS-CoV-2 by Single Point Administration.",
+      "authors": [
+        "Rahul Ahuja",
+        "Sudeepa Srichandan",
+        "Jairam Meena",
+        "Bichitra Kumar Biswal",
+        "Amulya K Panda"
+      ],
+      "year": "2023",
+      "journal": "Journal of pharmaceutical sciences",
+      "doi": "10.1016/j.xphs.2023.01.024",
+      "doi_link": "https://doi.org/10.1016/j.xphs.2023.01.024",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36736778",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Immunogenicity%20Evaluation%20of%20Thermostable%20Microparticles%20Entrapping%20Receptor%20Binding%20Domain%20of%20SARS-CoV-2%20by%20Single%20Point%20Administration%22",
+      "citations": {
+        "crossref": 2
+      },
+      "abstract": "Receptor binding domain (RBD) of SARS-CoV-2 is a prime vaccine target against which neutralizing antibody responses are directed. Purified RBD as a vaccine candidate warrants administration of multiple doses along with adjuvants and use of delivery systems to improve its immunogenicity. The present investigation examines the immunogenicity of RBD delivered by biodegradable polymer particles from single dose administration. Mice upon single point immunization of RBD entrapped microparticles generated improved antibody response. The polymer microparticles showed better temperature stability and could be stored at 37 degrees for one month without any considerable loss of immunogenicity. Further, immunization with microparticles could elicit memory antibody response upon challenge after four months of single dose administration. Thus, using microparticles entrapping RBD as a vaccine candidate confer improved immunogenicity, temperature stability and recall response. These thermostable microparticles seem to be a potentially cost-effective approach which can help in dose reduction, provide a wider access of vaccines and accelerate the end of global pandemic.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "36584781",
+      "title": "Identification of probable inhibitors for the DNA polymerase of the Monkeypox virus through the virtual screening approach.",
+      "authors": [
+        "Swati Kumari",
+        "Sayan Chakraborty",
+        "Mohammed Ahmad",
+        "Varun Kumar",
+        "Prafullakumar B Tailor",
+        "Bichitra K Biswal"
+      ],
+      "year": "2023",
+      "journal": "International journal of biological macromolecules",
+      "doi": "10.1016/j.ijbiomac.2022.12.252",
+      "doi_link": "https://doi.org/10.1016/j.ijbiomac.2022.12.252",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36584781",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Identification%20of%20probable%20inhibitors%20for%20the%20DNA%20polymerase%20of%20the%20Monkeypox%20virus%20through%20the%20virtual%20screening%20approach%22",
+      "citations": {
+        "semantic_scholar": 18
+      },
+      "abstract": "Given the paucity of antiviral treatments for monkeypox disease, caused by the Monkeypox virus (MPXV), there is a pressing need for the development/identification of new drugs to treat the infection. MPXV possesses a linear dsDNA genome that is replicated by a DNA replication complex of which DNA polymerase (DPol) forms an important component. Owing to the importance of DPol in the viral life cycle, identifying/designing small molecules abolishing its function could yield new antivirals. In this study, we first used the AlphaFold artificial intelligence program to model the 3D structure of the MPXV DPol; like the fold of DPol from other organisms, the MPXV DPol structure has the characteristic exonuclease, thumb, palm, and fingers sub-domains arrangement. Subsequently, we have identified several inhibitors through virtual screening of ZINC and antiviral libraries. Molecules with phenyl scaffold along with alanine-based and tetrazole-based molecules showed the best docking score of -8 to -10 kcal/mol. These molecules bind in the palm and fingers sub-domains interface region, which partially overlaps with the DNA binding path. The delineation of DPol/inhibitor interactions showed that majorly active site residues ASP549, ASP753, TYR550, ASN551, SER552, and ASN665 interact with the inhibitors. These compounds exhibit good Absorption, Distribution, Metabolism and Excretion properties.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "35787552",
+      "title": "Identification, structure determination and analysis of Mycobacterium smegmatis acyl-carrier protein synthase (AcpS) crystallized serendipitously.",
+      "authors": [
+        "Indu Bhatia",
+        "Savita Yadav",
+        "Bichitra K Biswal"
+      ],
+      "year": "2022",
+      "journal": "Acta crystallographica. Section F, Structural biology communications",
+      "doi": "10.1107/S2053230X22005738",
+      "doi_link": "https://doi.org/10.1107/S2053230X22005738",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35787552",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Identification%2C%20structure%20determination%20and%20analysis%20of%20Mycobacterium%20smegmatis%20acyl-carrier%20protein%20synthase%20%28AcpS%29%20crystallized%20serendipitously%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "The unintended crystallization of proteins which generally originate from the expression host instead of the target recombinant proteins is periodically reported. Despite the massive technological advances in the field, assigning a structural model to the corresponding diffraction data is not a trivial task. Here, the structure of acyl-carrier protein synthase (AcpS) from Mycobacterium smegmatis (msAcpS), which crystallized inadvertently in an experimental setup to grow crystals of a Mycobacterium tuberculosis protein using M. smegmatis as an expression system, is reported. After numerous unsuccessful attempts to solve the structure of the target protein by the molecular-replacement method no convincing solutions were obtained, indicating that the diffraction data may correspond to a crystal of an artifactual protein, which was finally identified by the Sequence-Independent Molecular replacement Based on Available Databases (SIMBAD) server. The msAcpS structure was solved at 2.27 Å resolution and structural analysis showed an overall conserved fold. msAcpS formed a trimeric structure similar to those of other reported structures of AcpS from various organisms; however, the residues involved in trimer formation are not strictly conserved. An unrelated metal ion (Ni2+), which was possibly incorporated during protein purification, was observed in the proximity of His49 and His116. Structural and sequence differences were observed in the loop connecting the α3 and α4 helices that is responsible for the open and closed conformations of the enzyme. Moreover, the structural analysis of msAcpS augments the current understanding of this enzyme, which plays a crucial role in the functional activation of acyl-carrier proteins in the fatty-acid biosynthesis pathway.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "35715720",
+      "title": "Investigating a putative transcriptional regulatory protein encoded by Rv1719 gene of Mycobacterium tuberculosis.",
+      "authors": [
+        "Manitosh Pandey",
+        "Satish Tiwari",
+        "Sonia Johri",
+        "Bichitra K Biswal",
+        "Chandresh Sharma",
+        "Amit Kumar Pandey"
+      ],
+      "year": "2022",
+      "journal": "The protein journal",
+      "doi": "10.1007/s10930-022-10062-9",
+      "doi_link": "https://doi.org/10.1007/s10930-022-10062-9",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35715720",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Investigating%20a%20putative%20transcriptional%20regulatory%20protein%20encoded%20by%20Rv1719%20gene%20of%20Mycobacterium%20tuberculosis%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "Mycobacterium tuberculosis, the causative agent of tuberculosis, demonstrates immense plasticity with which it adapts to a highly dynamic and hostile host environment. This is facilitated by a web of signalling pathways constantly modulated by a multitude of proteins that regulate the flow of genetic information inside the pathogen. Transcription factors (TFs) belongs to one such family of proteins that modulate the signalling by regulating the abundance of proteins at the transcript level. In the current study, we have characterized the putative transcriptional regulatory protein encoded by the Rv1719 gene of Mycobacterium tuberculosis. This TF belongs to the IclR family of proteins with orthologs found in both bacterial and archaeal species. We cloned the Rv1719 gene into the pET28a expression vector and performed heterologous expression of the recombinant protein with E coli as the host. Further, optimization of the purification protocol by affinity chromatography and characterization of proteins for their functional viability has been demonstrated using various biochemical and/or biophysical approaches. Scale-up of purification yielded approximately 30 mg of ~ 28 kDa protein per litre of culture. In-silico protein domain analysis of Rv1719 protein predicted the presence of the helix-turn-helix (HTH) domain suggesting its ability to bind DNA sequence and modulate transcription; a hallmark of a transcriptional regulatory protein. Further, by performing electrophoretic mobility shift assay (EMSA) we demonstrated that the protein binds to a specific DNA fragment harboring the probable binding site of one of the predicted promoters.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "34516563",
+      "title": "Characterization of the NiRAN domain from RNA-dependent RNA polymerase provides insights into a potential therapeutic target against SARS-CoV-2.",
+      "authors": [
+        "Abhisek Dwivedy",
+        "Richard Mariadasse",
+        "Mohammed Ahmad",
+        "Sayan Chakraborty",
+        "Deepsikha Kar",
+        "Satish Tiwari",
+        "Sankar Bhattacharyya",
+        "Sudipta Sonar",
+        "Shailendra Mani",
+        "Prafullakumar Tailor",
+        "Tanmay Majumdar",
+        "Jeyaraman Jeyakanthan",
+        "Bichitra Kumar Biswal"
+      ],
+      "year": "2021",
+      "journal": "PLoS computational biology",
+      "doi": "10.1371/journal.pcbi.1009384",
+      "doi_link": "https://doi.org/10.1371/journal.pcbi.1009384",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34516563",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Characterization%20of%20the%20NiRAN%20domain%20from%20RNA-dependent%20RNA%20polymerase%20provides%20insights%20into%20a%20potential%20therapeutic%20target%20against%20SARS-CoV-2%22",
+      "citations": {
+        "crossref": 17
+      },
+      "abstract": "Apart from the canonical fingers, palm and thumb domains, the RNA dependent RNA polymerases (RdRp) from the viral order Nidovirales possess two additional domains. Of these, the function of the Nidovirus RdRp associated nucleotidyl transferase domain (NiRAN) remains unanswered. The elucidation of the 3D structure of RdRp from the severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2), provided the first ever insights into the domain organisation and possible functional characteristics of the NiRAN domain. Using in silico tools, we predict that the NiRAN domain assumes a kinase or phosphotransferase like fold and binds nucleoside triphosphates at its proposed active site. Additionally, using molecular docking we have predicted the binding of three widely used kinase inhibitors and five well characterized anti-microbial compounds at the NiRAN domain active site along with their drug-likeliness. For the first time ever, using basic biochemical tools, this study shows the presence of a kinase like activity exhibited by the SARS-CoV-2 RdRp. Interestingly, a well-known kinase inhibitor- Sorafenib showed a significant inhibition and dampened viral load in SARS-CoV-2 infected cells. In line with the current global COVID-19 pandemic urgency and the emergence of newer strains with significantly higher infectivity, this study provides a new anti-SARS-CoV-2 drug target and potential lead compounds for drug repurposing against SARS-CoV-2.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "34288118",
+      "title": "Characterization of a triazole scaffold compound as an inhibitor of Mycobacterium tuberculosis imidazoleglycerol-phosphate dehydratase.",
+      "authors": [
+        "Deepak Kumar",
+        "Bhavya Jha",
+        "Indu Bhatia",
+        "Anam Ashraf",
+        "Abhisek Dwivedy",
+        "Bichitra Kumar Biswal"
+      ],
+      "year": "2022",
+      "journal": "Proteins",
+      "doi": "10.1002/prot.26181",
+      "doi_link": "https://doi.org/10.1002/prot.26181",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34288118",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Characterization%20of%20a%20triazole%20scaffold%20compound%20as%20an%20inhibitor%20of%20Mycobacterium%20tuberculosis%20imidazoleglycerol-phosphate%20dehydratase%22",
+      "citations": {
+        "semantic_scholar": 5
+      },
+      "abstract": "Mycobacterium tuberculosis (Mtb), the causative agent of human tuberculosis (TB), employs ten enzymes including imidazoleglycerol-phosphate dehydratase (IGPD) for de novo biosynthesis of histidine. The absence of histidine-biosynthesis in humans combined with its essentiality for Mtb makes the enzymes of this pathway major anti-TB drug targets. We explored the inhibitory potential of a small molecule β-(1,2,4-Triazole-3-yl)-DL-alanine (DLA) against Mtb IGPD. DLA exhibits an in vitro inhibitory efficacy in the lower micromolar range. Higher-resolution crystal structures of native and substrate-bound Mtb IGPD provided additional structural features of this important drug target. Crystal structure of IGPD-DLA complex at a resolution of 1.75 Å, confirmed that DLA locks down the function of the enzyme by binding in the active site pocket of the IGPD mimicking the substrate-binding mode to a high degree. In our biochemical study, DLA showed an efficient inhibition of Mtb IGPD. Furthermore, DLA also showed bactericidal activity against Mtb and Mycobacterium smegmatis and inhibited their growth in respective culture medium. Importantly, owing to the favorable ADME and physicochemical properties, it serves as an important lead molecule for further derivatizations.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "33932498",
+      "title": "Characterization of putative transcriptional regulator (PH0140) and its distal homologue.",
+      "authors": [
+        "Richard Mariadasse",
+        "Raji Rajmichael",
+        "Abhisek Dwivedy",
+        "Mathimaran Amala",
+        "Mohammed Ahmad",
+        "Nachiappan Mutharasappan",
+        "Bichitra K Biswal",
+        "Jeyaraman Jeyakanthan"
+      ],
+      "year": "2021",
+      "journal": "Cellular signalling",
+      "doi": "10.1016/j.cellsig.2021.110031",
+      "doi_link": "https://doi.org/10.1016/j.cellsig.2021.110031",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33932498",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Characterization%20of%20putative%20transcriptional%20regulator%20%28PH0140%29%20and%20its%20distal%20homologue%22",
+      "citations": {
+        "crossref": 2
+      },
+      "abstract": "In this study, a phylogenetic tree was constructed using 1854 sequences of various Lrp/AnsC (FFRPs) and ArsR proteins from pathogenic and non-pathogenic organisms. Despite having sequence similarities, FFRPs and ArsR proteins functioning differently as a transcriptional regulator and de-repressor in the presence of exogenous amino acids and metal ions, respectively. To understand these functional differences, the structures of various FFRPs and ArsR proteins (134 sequences) were modeled. Several ArsR proteins exhibited high similarity to the FFRPs while in few proteins, unusual structural folds were observed. However, the Helix-turn-Helix (HTH) domains are common among them and the ligand-binding domains are structurally dissimilar suggest the differences in their binding preferences. Despite low sequence conservation, most of these proteins revealed negatively charged surfaces in the active site pockets. Representative structures (PH0140 and TtArsR protein) from FFRPs and ArsR protein families were considered and evaluated for their functional differences using molecular modeling studies. Our earlier study has explained the binding preference of exogenous Tryptophan and the related transcriptional regulatory mechanism of PH0140 protein. In this study, a Cu2+ ion-induced de-repression mechanism of the TtArsR-DNA complex was characterized through docking and molecular dynamics. Further, the proteins were purified and their efficiency for sensing Tryptophan and Cu2+ ions were analyzed using cyclic voltammetry. Overall, the study explores the structural evolution and functional difference of FFRPs and ArsR proteins that present the possibilities of PH0140 and TtArsR as potential bio-sensory molecules.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "33767335",
+      "title": "De novo histidine biosynthesis protects Mycobacterium tuberculosis from host IFN-γ mediated histidine starvation.",
+      "authors": [
+        "Abhisek Dwivedy",
+        "Anam Ashraf",
+        "Bhavya Jha",
+        "Deepak Kumar",
+        "Nisheeth Agarwal",
+        "Bichitra K Biswal"
+      ],
+      "year": "2021",
+      "journal": "Communications biology",
+      "doi": "10.1038/s42003-021-01926-4",
+      "doi_link": "https://doi.org/10.1038/s42003-021-01926-4",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33767335",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22De%20novo%20histidine%20biosynthesis%20protects%20Mycobacterium%20tuberculosis%20from%20host%20IFN-%CE%B3%20mediated%20histidine%20starvation%22",
+      "citations": {
+        "semantic_scholar": 25
+      },
+      "abstract": "Intracellular pathogens including Mycobacterium tuberculosis (Mtb) have evolved with strategies to uptake amino acids from host cells to fulfil their metabolic requirements. However, Mtb also possesses de novo biosynthesis pathways for all the amino acids. This raises a pertinent question- how does Mtb meet its histidine requirements within an in vivo infection setting? Here, we present a mechanism in which the host, by up-regulating its histidine catabolizing enzymes through interferon gamma (IFN-γ) mediated signalling, exerts an immune response directed at starving the bacillus of intracellular free histidine. However, the wild-type Mtb evades this host immune response by biosynthesizing histidine de novo, whereas a histidine auxotroph fails to multiply. Notably, in an IFN-γ-/- mouse model, the auxotroph exhibits a similar extent of virulence as that of the wild-type. The results augment the current understanding of host-Mtb interactions and highlight the essentiality of Mtb histidine biosynthesis for its pathogenesis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "33135673",
+      "title": "Crystal structure of the GDP-bound GTPase domain of Rab5a from Leishmania donovani.",
+      "authors": [
+        "Muhammad Zohib",
+        "Diva Maheshwari",
+        "Ravi Kant Pal",
+        "Stefanie Freitag-Pohl",
+        "Bichitra Kumar Biswal",
+        "Ehmke Pohl",
+        "Ashish Arora"
+      ],
+      "year": "2020",
+      "journal": "Acta crystallographica. Section F, Structural biology communications",
+      "doi": "10.1107/S2053230X20013722",
+      "doi_link": "https://doi.org/10.1107/S2053230X20013722",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33135673",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Crystal%20structure%20of%20the%20GDP-bound%20GTPase%20domain%20of%20Rab5a%20from%20Leishmania%20donovani%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "Eukaryotic Rab5s are highly conserved small GTPase-family proteins that are involved in the regulation of early endocytosis. Leishmania donovani Rab5a regulates the sorting of early endosomes that are involved in the uptake of essential nutrients through fluid-phase endocytosis. Here, the 1.80 Å resolution crystal structure of the N-terminal GTPase domain of L. donovani Rab5a in complex with GDP is presented. The crystal structure determination was enabled by the design of specific single-site mutations and two deletions that were made to stabilize the protein for previous NMR studies. The structure of LdRab5a shows the canonical GTPase fold, with a six-stranded central mixed β-sheet surrounded by five α-helices. The positions of the Switch I and Switch II loops confirm an open conformation, as expected in the absence of the γ-phosphate. However, in comparison to other GTP-bound and GDP-bound homologous proteins, the Switch I region traces a unique disposition in LdRab5a. One magnesium ion is bound to the protein at the GTP-binding site. Molecular-dynamics simulations indicate that the GDP-bound structure exhibits higher stability than the apo structure. The GDP-bound LdRab5a structure presented here will aid in efforts to unravel its interactions with its regulators, including the guanine nucleotide-exchange factor, and will lay the foundation for a structure-based search for specific inhibitors.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "32743211",
+      "title": "Prediction of Small Molecule Inhibitors Targeting the Severe Acute Respiratory Syndrome Coronavirus-2 RNA-dependent RNA Polymerase.",
+      "authors": [
+        "Mohammed Ahmad",
+        "Abhisek Dwivedy",
+        "Richard Mariadasse",
+        "Satish Tiwari",
+        "Deepsikha Kar",
+        "Jeyaraman Jeyakanthan",
+        "Bichitra K Biswal"
+      ],
+      "year": "2020",
+      "journal": "ACS omega",
+      "doi": "10.1021/acsomega.0c02096",
+      "doi_link": "https://doi.org/10.1021/acsomega.0c02096",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32743211",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Prediction%20of%20Small%20Molecule%20Inhibitors%20Targeting%20the%20Severe%20Acute%20Respiratory%20Syndrome%20Coronavirus-2%20RNA-dependent%20RNA%20Polymerase%22",
+      "citations": {
+        "semantic_scholar": 24
+      },
+      "abstract": "The current COVID-19 outbreak warrants the design and development of novel anti-COVID therapeutics. Using a combination of bioinformatics and computational tools, we modelled the 3D structure of the RdRp (RNA-dependent RNA polymerase) of SARS-CoV2 (severe acute respiratory syndrome coronavirus-2) and predicted its probable GTP binding pocket in the active site. GTP is crucial for the formation of the initiation complex during RNA replication. This site was computationally targeted using a number of small molecule inhibitors of the hepatitis C RNA polymerase reported previously. Further optimizations suggested a lead molecule that may prove fruitful in the development of potent inhibitors against the RdRp of SARS-CoV2.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "31282873",
+      "title": "Structural insights into the substrate specificity of SP_0149, the substrate-binding protein of a methionine ABC transporter from Streptococcus pneumoniae.",
+      "authors": [
+        "Bhavya Jha",
+        "Rajan Vyas",
+        "Jaya Bhushan",
+        "Devinder Sehgal",
+        "Bichitra Kumar Biswal"
+      ],
+      "year": "2019",
+      "journal": "Acta crystallographica. Section F, Structural biology communications",
+      "doi": "10.1107/S2053230X19009038",
+      "doi_link": "https://doi.org/10.1107/S2053230X19009038",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31282873",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structural%20insights%20into%20the%20substrate%20specificity%20of%20SP_0149%2C%20the%20substrate-binding%20protein%20of%20a%20methionine%20ABC%20transporter%20from%20Streptococcus%20pneumoniae%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "Successful pathogenesis is a cumulative effect of the virulence factors of a pathogen and its capability to efficiently utilize the available nutrients from the host. Streptococcus pneumoniae, a Gram-positive opportunistic pathogen, may either reside asymptomatically as a nasopharyngeal commensal inside the human host or cause lethal diseases, including pneumonia, meningitis and sepsis. S. pneumoniae is known to acquire methionine (Met) from its host through a Met importer. Here, the crystal structure of the substrate-binding protein (SBP; SP_0149) of an ABC importer with Met bound is reported at a resolution of 1.95 Å. The three-dimensional structure of SBP shows that it is composed of two distinct domains, each consisting of a mixed β-sheet flanked by helices. The substrate, Met, is bound in the central part of the interface between the two domains. The overall structure of SP_0149 resembles those of SBPs from other reported bacterial Met and Gly-Met dipeptide transporters. However, a detailed analysis of these structures shows notable variations in the amino-acid composition of the substrate-binding pockets of the SP_0149-Met and GmpC-Gly-Met structures. In particular, SP_0149 harbors Thr212 and Tyr114, whereas the corresponding residues in GmpC are Gly and Val. This difference is likely to be the underlying basis for their differential substrate specificity. In summary, the structure of the SP_0149-Met complex provides insights into the transport function of SP_0149 and its interactions with methionine. It opens up avenues for the rational design of inhibitors of SP_0149 through a structure-mediated approach.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "30266832",
+      "title": "Structural and functional characterization of the transcriptional regulator Rv3488 of Mycobacterium tuberculosis H37Rv.",
+      "authors": [
+        "Meera Kumari",
+        "Ravi Kant Pal",
+        "Alok K Mishra",
+        "Sarita Tripathi",
+        "Bichitra Kumar Biswal",
+        "Kishore K Srivastava",
+        "Ashish Arora"
+      ],
+      "year": "2018",
+      "journal": "The Biochemical journal",
+      "doi": "10.1042/BCJ20180356",
+      "doi_link": "https://doi.org/10.1042/BCJ20180356",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30266832",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structural%20and%20functional%20characterization%20of%20the%20transcriptional%20regulator%20Rv3488%20of%20Mycobacterium%20tuberculosis%20H37Rv%22",
+      "citations": {
+        "crossref": 14
+      },
+      "abstract": "Rv3488 of Mycobacterium tuberculosis H37Rv has been assigned to the phenolic acid decarboxylase repressor (PadR) family of transcriptional regulators that play key roles in multidrug resistance and virulence of prokaryotes. The binding of cadmium, zinc, and several other metals to Rv3488 was discovered and characterized by isothermal titration calorimetery to be an exothermic process. Crystal structures of apo-Rv3488 and Rv3488 in complex with cadmium or zinc ions were determined by X-ray crystallography. The structure of Rv3488 revealed a dimeric protein with N-terminal winged-helix-turn-helix DNA-binding domains composed of helices α1, α2, α3, and strands β1 and β2, with the dimerization interface being formed of helices α4 and α1. The overall fold of Rv3488 was similar to PadR-s2 and metal sensor transcriptional regulators. In the crystal structure of Rv3488-Cd complex, two octahedrally coordinated Cd2+ ions were present, one for each subunit. The same sites were occupied by zinc ions in the structure of Rv3488-Zn, with two additional zinc ions complexed in one monomer. EMSA studies showed specific binding of Rv3488 with its own 30-bp promoter DNA. The functional role of Rv3488 was characterized by expressing the rv3488 gene under the control of hsp60 promoter in Mycobacterium smegmatis Expression of Rv3488 increased the intracellular survival of recombinant M. smegmatis in murine macrophage cell line J774A.1 and also augmented its tolerance to Cd2+ ions. Overall, the studies show that Rv3488 may have transcription regulation and metal-detoxifying functions and its expression in M. smegmatis increases intracellular survival, perhaps by counteracting toxic metal stress.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "30198900",
+      "title": "The crystal structure of an essential high-temperature requirement protein HtrA1 (Rv1223) from Mycobacterium tuberculosis reveals its unique features.",
+      "authors": [
+        "Khundrakpam Herojit Singh",
+        "Savita Yadav",
+        "Deepak Kumar",
+        "Bichitra Kumar Biswal"
+      ],
+      "year": "2018",
+      "journal": "Acta crystallographica. Section D, Structural biology",
+      "doi": "10.1107/S205979831800952X",
+      "doi_link": "https://doi.org/10.1107/S205979831800952X",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30198900",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20crystal%20structure%20of%20an%20essential%20high-temperature%20requirement%20protein%20HtrA1%20%28Rv1223%29%20from%20Mycobacterium%20tuberculosis%20reveals%20its%20unique%20features%22",
+      "citations": {
+        "crossref": 3
+      },
+      "abstract": "High-temperature requirement A (HtrA) proteins, which are members of the heat-shock-induced serine protease family, are involved in extracytoplasmic protein quality control and bacterial survival strategies under stress conditions, and are associated with the virulence of several pathogens; they are therefore major drug targets. Mycobacterium tuberculosis possesses three putative HtrAs: HtrA1 (Rv1223), HtrA2 (Rv0983) and HtrA3 (Rv0125). Each has a cytoplasmic region, a transmembrane helix and a periplasmic region. Here, the crystal structure of the periplasmic region consisting of a protease domain (PD) and a PDZ domain from an M. tuberculosis HtrA1 mutant (mHtrA1S387A) is reported at 2.7 Å resolution. Although the mHtrA1S387A PD shows structural features similar to those of other HtrAs, its loops, particularly L3 and LA, display different conformations. Loop L3 communicates between the PDs of the trimer and the PDZ domains and undergoes a transition from an active to an inactive conformation, as reported for an equivalent HtrA (DegS). Loop LA, which is responsible for higher oligomer formation owing to its length (50 amino acids) in DegP, is very short in mHtrA1S387A (five amino acids), as in mHtrA2 (also five amino acids), and therefore lacks essential interactions for the formation of higher oligomers. Notably, a well ordered loop known as the insertion clamp in the PDZ domain interacts with the protease domain of the adjacent molecule, which possibly aids in the stabilization of a trimeric functional unit of this enzyme. The three-dimensional structure of mHtrA1S387A presented here will be useful in the design of enzyme-specific antituberculosis inhibitors.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "30198888",
+      "title": "Serendipitous crystallization and structure determination of bacterioferritin from Achromobacter.",
+      "authors": [
+        "Abhisek Dwivedy",
+        "Bhavya Jha",
+        "Khundrakpam Herojit Singh",
+        "Mohammed Ahmad",
+        "Anam Ashraf",
+        "Deepak Kumar",
+        "Bichitra Kumar Biswal"
+      ],
+      "year": "2018",
+      "journal": "Acta crystallographica. Section F, Structural biology communications",
+      "doi": "10.1107/S2053230X18009809",
+      "doi_link": "https://doi.org/10.1107/S2053230X18009809",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30198888",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Serendipitous%20crystallization%20and%20structure%20determination%20of%20bacterioferritin%20from%20Achromobacter%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "Bacterioferritins (Bfrs) are ferritin-like molecules with a hollow spherical 24-mer complex design that are unique to bacterial and archaeal species. They play a critical role in storing iron(III) within the complex at concentrations much higher than the feasible solubility limits of iron(III), thus maintaining iron homeostasis within cells. Here, the crystal structure of bacterioferritin from Achromobacter (Ach Bfr) that crystallized serendipitously during a crystallization attempt of an unrelated mycobacterial protein is reported at 1.95 Å resolution. Notably, Fe atoms were bound to the structure along with a porphyrin ring sandwiched between the subunits of a dimer. Furthermore, the dinuclear ferroxidase center of Ach Bfr has only a single iron bound, in contrast to the two Fe atoms in other Bfrs. The structure of Ach Bfr clearly demonstrates the substitution of a glutamate residue, which is involved in the interaction with the second Fe atom, by a threonine and the consequent absence of another Fe atom there. The iron at the dinuclear center has a tetravalent coordination, while a second iron with a hexavalent coordination was found within the porphyrin ring, generating a heme moiety. Achromobacter spp. are known opportunistic pathogens; this structure enhances the current understanding of their iron metabolism and regulation, and importantly will be useful in the design of small-molecule inhibitors against this protein through a structure-guided approach.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper21",
+      "publication_id": "29752410",
+      "title": "Identification and structural characterization of a histidinol phosphate phosphatase from Mycobacterium tuberculosis.",
+      "authors": [
+        "Bhavya Jha",
+        "Deepak Kumar",
+        "Arun Sharma",
+        "Abhisek Dwivedy",
+        "Ramandeep Singh",
+        "Bichitra Kumar Biswal"
+      ],
+      "year": "2018",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.RA118.002299",
+      "doi_link": "https://doi.org/10.1074/jbc.RA118.002299",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29752410",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Identification%20and%20structural%20characterization%20of%20a%20histidinol%20phosphate%20phosphatase%20from%20Mycobacterium%20tuberculosis%22",
+      "citations": {
+        "crossref": 14
+      },
+      "abstract": "The absence of a histidine biosynthesis pathway in humans, coupled with histidine essentiality for survival of the important human pathogen Mycobacterium tuberculosis (Mtb), underscores the importance of the bacterial enzymes of this pathway as major antituberculosis drug targets. However, the identity of the mycobacterial enzyme that functions as the histidinol phosphate phosphatase (HolPase) of this pathway remains to be established. Here, we demonstrate that the enzyme encoded by the Rv3137 gene, belonging to the inositol monophosphatase (IMPase) family, functions as the Mtb HolPase and specifically dephosphorylates histidinol phosphate. The crystal structure of Rv3137 in apo form enabled us to dissect its distinct structural features. Furthermore, the holo-complex structure revealed that a unique cocatalytic multizinc-assisted mode of substrate binding and catalysis is the hallmark of Mtb HolPase. Interestingly, the enzyme-substrate complex structure unveiled that although monomers possess individual catalytic sites they share a common product-exit channel at the dimer interface. Furthermore, target-based screening against HolPase identified several small-molecule inhibitors of this enzyme. Taken together, our study unravels the missing enzyme link in the Mtb histidine biosynthesis pathway, augments our current mechanistic understanding of histidine production in Mtb, and has helped identify potential inhibitors of this bacterial pathway.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper22",
+      "publication_id": "28515317",
+      "title": "Characterization of a secretory hydrolase from Mycobacterium tuberculosis sheds critical insight into host lipid utilization by M. tuberculosis.",
+      "authors": [
+        "Khundrakpam Herojit Singh",
+        "Bhavya Jha",
+        "Abhisek Dwivedy",
+        "Eira Choudhary",
+        "Arpitha G N",
+        "Anam Ashraf",
+        "Divya Arora",
+        "Nisheeth Agarwal",
+        "Bichitra Kumar Biswal"
+      ],
+      "year": "2017",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M117.794297",
+      "doi_link": "https://doi.org/10.1074/jbc.M117.794297",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28515317",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Characterization%20of%20a%20secretory%20hydrolase%20from%20Mycobacterium%20tuberculosis%20sheds%20critical%20insight%20into%20host%20lipid%20utilization%20by%20M.%20tuberculosis%22",
+      "citations": {
+        "crossref": 34
+      },
+      "abstract": "Mycobacterium tuberculosis causes tuberculosis in humans and predominantly infects alveolar macrophages. To survive inside host lesions and to evade immune surveillance, this pathogen has developed many strategies. For example, M. tuberculosis uses host-derived lipids/fatty acids as nutrients for prolonged persistence within hypoxic host microenvironments. M. tuberculosis imports these metabolites through its respective transporters, and in the case of host fatty acids, a pertinent question arises: does M. tuberculosis have the enzyme(s) for cleavage of fatty acids from host lipids? We show herein that a previously uncharacterized membrane-associated M. tuberculosis protein encoded by Rv2672 is conserved exclusively in actinomycetes, exhibits both lipase and protease activities, is secreted into macrophages, and catalyzes host lipid hydrolysis. In light of these functions, we annotated Rv2672 as mycobacterial secreted hydrolase 1 (Msh1). Furthermore, we found that this enzyme is up-regulated both in an in vitro model of hypoxic stress and in a mouse model of M. tuberculosis infection, suggesting that the pathogen requires Msh1 under hypoxic conditions. Silencing Msh1 expression compromised the ability of M. tuberculosis to proliferate inside lipid-rich foamy macrophages but not under regular culture conditions in vitro, underscoring Msh1's importance for M. tuberculosis persistence in lipid-rich microenvironments. Of note, this is the first report providing insight into the mechanism of host lipid catabolism by an M. tuberculosis enzyme, augmenting our current understanding of how M. tuberculosis meets its nutrient requirements under hypoxic conditions.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper23",
+      "publication_id": "26738801",
+      "title": "Crystal structures of Mycobacterium tuberculosis HspAT and ArAT reveal structural basis of their distinct substrate specificities.",
+      "authors": [
+        "Nazia Nasir",
+        "Avishek Anant",
+        "Rajan Vyas",
+        "Bichitra Kumar Biswal"
+      ],
+      "year": "2016",
+      "journal": "Scientific reports",
+      "doi": "10.1038/srep18880",
+      "doi_link": "https://doi.org/10.1038/srep18880",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26738801",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Crystal%20structures%20of%20Mycobacterium%20tuberculosis%20HspAT%20and%20ArAT%20reveal%20structural%20basis%20of%20their%20distinct%20substrate%20specificities%22",
+      "citations": {
+        "crossref": 16
+      },
+      "abstract": "Aminotransferases of subfamily Iβ, which include histidinol phosphate aminotransferases (HspATs) and aromatic amino acid aminotransferases (ArATs), are structurally similar but possess distinct substrate specificities. This study, encompassing structural and biochemical characterisation of HspAT and ArAT from Mycobacterium tuberculosis demonstrates that the residues lining the substrate binding pocket and N-terminal lid are the primary determinants of their substrate specificities. In mHspAT, hydrophilic residues in the substrate binding pocket and N-terminal lid allow the entry and binding of its preferential substrate, Hsp. On the other hand, the hydrophobic nature of both the substrate binding pocket and the N-terminal lid of mArAT is responsible for the discrimination of a polar substrate such as Hsp, while facilitating the binding of Phe and other aromatic residues such as Tyr and Trp. In addition, the present study delineates the ligand induced conformational rearrangements, providing insights into the plasticity of aminotransferases. Furthermore, the study also demonstrates that the adventitiously bound ligand 2-(N-morpholino)ethanesulfonic acid (MES) is indeed a specific inhibitor of HspAT. These results suggest that previously untapped morpholine-ring scaffold compounds could be explored for the design of new anti-TB agents.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper24",
+      "publication_id": "25005091",
+      "title": "Overexpression, purification, crystallization and structure determination of AspB, a putative aspartate aminotransferase from Mycobacterium tuberculosis.",
+      "authors": [
+        "Deepak Chandra Saroj",
+        "Khundrakpam Herojit Singh",
+        "Avishek Anant",
+        "Bichitra K Biswal"
+      ],
+      "year": "2014",
+      "journal": "Acta crystallographica. Section F, Structural biology communications",
+      "doi": "10.1107/S2053230X14011820",
+      "doi_link": "https://doi.org/10.1107/S2053230X14011820",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25005091",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Overexpression%2C%20purification%2C%20crystallization%20and%20structure%20determination%20of%20AspB%2C%20a%20putative%20aspartate%20aminotransferase%20from%20Mycobacterium%20tuberculosis%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "A recombinant version of a putative aspartate aminotransferase, AspB (encoded by the ORF Rv3565), from Mycobacterium tuberculosis (Mtb) was overexpressed in M. smegmatis and purified to homogeneity using liquid chromatography. Crystals of AspB were grown in a condition consisting of 0.2 M ammonium phosphate monobasic, 0.1 M calcium chloride dihydrate employing the hanging-drop vapour-diffusion method at 298 K. The crystals diffracted to a limit of 2.50 Å resolution and belonged to the orthorhombic space group P2₁2₁2₁, with unit-cell parameters a=93.27, b=98.19, c=198.70 Å. The structure of AspB was solved by the molecular-replacement method using a putative aminotransferase from Silicibacter pomeroyi (PDB entry 3h14) as the search model. The template shares 46% amino-acid sequence identity with Mtb AspB. The crystal asymmetric unit contains four AspB molecules (the Mr of each is 42,035 Da).",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper25",
+      "publication_id": "24311587",
+      "title": "Structures of native, substrate-bound and inhibited forms of Mycobacterium tuberculosis imidazoleglycerol-phosphate dehydratase.",
+      "authors": [
+        "Mohammad Syed Ahangar",
+        "Rajan Vyas",
+        "Nazia Nasir",
+        "Bichitra K Biswal"
+      ],
+      "year": "2013",
+      "journal": "Acta crystallographica. Section D, Biological crystallography",
+      "doi": "10.1107/S0907444913022579",
+      "doi_link": "https://doi.org/10.1107/S0907444913022579",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24311587",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structures%20of%20native%2C%20substrate-bound%20and%20inhibited%20forms%20of%20Mycobacterium%20tuberculosis%20imidazoleglycerol-phosphate%20dehydratase%22",
+      "citations": {
+        "semantic_scholar": 27
+      },
+      "abstract": "Imidazoleglycerol-phosphate dehydratase (IGPD; HisB), which catalyses the conversion of imidazoleglycerol-phosphate (IGP) to imidazoleacetol-phosphate in the histidine biosynthesis pathway, is absent in mammals. This feature makes it an attractive target for herbicide discovery. Here, the crystal structure of Mycobacterium tuberculosis (Mtb) IGPD is reported together with the first crystal structures of substrate-bound and inhibited (by 3-amino-1,2,4-triazole; ATZ) forms of IGPD from any organism. The overall tertiary structure of Mtb IGPD, a four-helix-bundle sandwiched between two four-stranded mixed β-sheets, resembles the three-dimensional structures of IPGD from other organisms; however, Mtb IGPD possesses a unique structural feature: the insertion of a one-turn 310-helix followed by a loop ten residues in length. The functional form of IGPD is 24-meric, exhibiting 432 point-group symmetry. The structure of the IGPD-IGP complex revealed that the imidazole ring of the IGP is firmly anchored between the two Mn atoms, that the rest of the substrate interacts through hydrogen bonds mainly with residues Glu21, Arg99, Glu180, Arg121 and Lys184 which protrude from three separate protomers and that the 24-mer assembly contains 24 catalytic centres. Both the structural and the kinetic data demonstrate that the inhibitor 3-amino-1,2,4-triazole inhibits IGPD competitively.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper26",
+      "publication_id": "23545656",
+      "title": "Sample preparation, crystallization and structure solution of HisC from Mycobacterium tuberculosis.",
+      "authors": [
+        "Nazia Nasir",
+        "Rajan Vyas",
+        "Bichitra K Biswal"
+      ],
+      "year": "2013",
+      "journal": "Acta crystallographica. Section F, Structural biology and crystallization communications",
+      "doi": "10.1107/S1744309113006210",
+      "doi_link": "https://doi.org/10.1107/S1744309113006210",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23545656",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Sample%20preparation%2C%20crystallization%20and%20structure%20solution%20of%20HisC%20from%20Mycobacterium%20tuberculosis%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "Histidinolphosphate aminotransferase (HisC; Rv1600) from Mycobacterium tuberculosis was overexpressed in M. smegmatis and purified to homogeneity using nickel-nitrilotriacetic acid metal-affinity and gel-filtration chromatography. Diffraction-quality crystals suitable for X-ray analysis were grown by the hanging-drop vapour-diffusion technique using 30% polyethylene glycol monomethyl ether 2000 as the precipitant. The crystals belonged to the hexagonal space group P3221, with an unusual high solvent content of 74.5%. X-ray diffraction data were recorded to 3.08 Å resolution from a single crystal using in-house Cu Kα radiation. The structure of HisC was solved by the molecular-replacement method using its Corynebacterium glutamicum counterpart as a search model. HisC is a dimer in the crystal as well as in solution.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper27",
+      "publication_id": "22298023",
+      "title": "Mammalian zona pellucida glycoproteins: structure and function during fertilization.",
+      "authors": [
+        "Satish K Gupta",
+        "Beena Bhandari",
+        "Abhinav Shrestha",
+        "Bichitra K Biswal",
+        "Chetna Palaniappan",
+        "Sudha Saryu Malhotra",
+        "Neha Gupta"
+      ],
+      "year": "2012",
+      "journal": "Cell and tissue research",
+      "doi": "10.1007/s00441-011-1319-y",
+      "doi_link": "https://doi.org/10.1007/s00441-011-1319-y",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22298023",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mammalian%20zona%20pellucida%20glycoproteins%3A%20structure%20and%20function%20during%20fertilization%22",
+      "citations": {
+        "crossref": 89
+      },
+      "abstract": "Zona pellucida (ZP) is a glycoproteinaceous translucent matrix that surrounds the mammalian oocyte and plays a critical role in the accomplishment of fertilization. In humans, it is composed of 4 glycoproteins designated as ZP1, ZP2, ZP3 and ZP4, whereas mouse ZP is composed of ZP1, ZP2 and ZP3 (Zp4 being a pseudogene). In addition to a variable sequence identity of a given zona protein among various species, human ZP1 and ZP4 are paralogs and mature polypeptide chains share an identity of 47%. Employing either affinity purified native or recombinant human zona proteins, it has been demonstrated that ZP1, ZP3 and ZP4 bind to the capacitated human spermatozoa and induce an acrosome reaction, whereas in mice, ZP3 acts as the putative primary sperm receptor. Human ZP2 only binds to acrosome-reacted spermatozoa and thus may be acting as a secondary sperm receptor. In contrast to O-linked glycans of ZP3 in mice, N-linked glycans of human ZP3 and ZP4 are more relevant for induction of the acrosome reaction. Recent studies suggest that Sialyl-Lewis(x) sequence present on both N- and O-glycans of human ZP play an important role in human sperm-egg binding. There are subtle differences in the downstream signaling events associated with ZP3 versus ZP1/ZP4-mediated induction of the acrosome reaction. For example, ZP3 but not ZP1/ZP4-mediated induction of the acrosome reaction is dependent on the activation of the Gi protein-coupled receptor. Thus, various studies suggest that, in contrast to mice, in humans more than one zona protein binds to spermatozoa and induces an acrosome reaction.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper28",
+      "publication_id": "22232166",
+      "title": "Molecular cloning, overexpression, purification, crystallization and preliminary X-ray diffraction studies of histidinol phosphate aminotransferase (HisC2) from Mycobacterium tuberculosis.",
+      "authors": [
+        "Nazia Nasir",
+        "Rajan Vyas",
+        "Chetna Chugh",
+        "Mohammad Syed Ahangar",
+        "Bichitra K Biswal"
+      ],
+      "year": "2012",
+      "journal": "Acta crystallographica. Section F, Structural biology and crystallization communications",
+      "doi": "10.1107/S1744309111045386",
+      "doi_link": "https://doi.org/10.1107/S1744309111045386",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22232166",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Molecular%20cloning%2C%20overexpression%2C%20purification%2C%20crystallization%20and%20preliminary%20X-ray%20diffraction%20studies%20of%20histidinol%20phosphate%20aminotransferase%20%28HisC2%29%20from%20Mycobacterium%20tuberculosis%22",
+      "citations": {
+        "crossref": 6
+      },
+      "abstract": "HisC2 from Mycobacterium tuberculosis was overexpressed in M. smegmatis and purified to homogeneity using nickel-nitrilotriacetic acid metal-affinity and gel-filtration chromatography. Diffraction-quality crystals were grown using the hanging-drop vapour-diffusion technique from a condition consisting of 7 mg ml(-1) HisC2 (in 20 mM Tris pH 8.8, 50 mM NaCl and 5% glycerol), 1 M succinic acid pH 7.0, 0.1 M HEPES pH 7.0 and 1%(w/v) polyethylene glycol monomethyl ether 2000. The crystals belonged to the orthorhombic space group P2(1)2(1)2, with unit-cell parameters a = 255.98, b=77.09, c = 117.97 Å. X-ray diffraction data were recorded to 2.45 Å resolution from a single crystal using the in-house X-ray facility.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper29",
+      "publication_id": "22102255",
+      "title": "HisB from Mycobacterium tuberculosis: cloning, overexpression in Mycobacterium smegmatis, purification, crystallization and preliminary X-ray crystallographic analysis.",
+      "authors": [
+        "Mohammad Syed Ahangar",
+        "Yogesh Khandokar",
+        "Nazia Nasir",
+        "Rajan Vyas",
+        "Bichitra K Biswal"
+      ],
+      "year": "2011",
+      "journal": "Acta crystallographica. Section F, Structural biology and crystallization communications",
+      "doi": "10.1107/S1744309111037201",
+      "doi_link": "https://doi.org/10.1107/S1744309111037201",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22102255",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22HisB%20from%20Mycobacterium%20tuberculosis%3A%20cloning%2C%20overexpression%20in%20Mycobacterium%20smegmatis%2C%20purification%2C%20crystallization%20and%20preliminary%20X-ray%20crystallographic%20analysis%22",
+      "citations": {
+        "crossref": 10
+      },
+      "abstract": "HisB, encoded by open reading frame Rv1601, possesses enzymatic activity as an imidazoleglycerol-phosphate dehydratase in the histidine-biosynthetic pathway of Mycobacterium tuberculosis. A recombinant form of HisB was crystallized in three crystal forms: crystals grown using 20% PEG 1500 as a precipitant belonged to either the cubic space group P432 or the tetragonal space group P4, while an orthorhombic crystal form belonging to space group P2(1)2(1)2 was obtained using 15% PEG 5000 and 10 mM MnCl(2) as precipitant. The structure of HisB in the orthorhombic crystal form was solved by the molecular-replacement method using the crystal structure of its Arabidopsis thaliana counterpart, which shares 47% sequence identity with Rv1601, as the search model.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper30",
+      "publication_id": "21795797",
+      "title": "Cloning, overexpression, purification, crystallization, and preliminary X-ray studies of SP_0149, the substrate binding protein of an ABC transporter from Streptococcus pneumoniae.",
+      "authors": [
+        "Jaya Bhushan",
+        "Rajan Vyas",
+        "Tripti Sharma",
+        "Devinder Sehgal",
+        "Bichitra Kumar Biswal"
+      ],
+      "year": "2011",
+      "journal": "Acta crystallographica. Section F, Structural biology and crystallization communications",
+      "doi": "10.1107/S1744309111018422",
+      "doi_link": "https://doi.org/10.1107/S1744309111018422",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21795797",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Cloning%2C%20overexpression%2C%20purification%2C%20crystallization%2C%20and%20preliminary%20X-ray%20studies%20of%20SP_0149%2C%20the%20substrate%20binding%20protein%20of%20an%20ABC%20transporter%20from%20Streptococcus%20pneumoniae%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "A truncated (29 residues from the N-terminus) and N-terminal His-tagged form of SP_0149 from pneumococcal strain ATCC BAA-334 was overexpressed and purified to homogeneity using affinity and gel-filtration chromatography. Diffraction quality crystals were grown at 293 K using the hanging-drop vapour-diffusion technique. X-ray diffraction data were collected to 2.3 Å resolution from a single-crystal that belonged to the orthorhombic space group P2(1)2(1)2(1) with the unit-cell parameters a=54.56, b=75.61, c=75.52 Å. The calculated values of the Matthews coefficient assuming one molecule (with calculated molecular weight of 30 400 Da) in the crystal asymmetric unit and the corresponding solvent content were 2.56 Å3 Da(-1) and 52.0%, respectively.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper31",
+      "publication_id": "18585390",
+      "title": "The molecular structure of epoxide hydrolase B from Mycobacterium tuberculosis and its complex with a urea-based inhibitor.",
+      "authors": [
+        "Bichitra K Biswal",
+        "Christophe Morisseau",
+        "Grace Garen",
+        "Maia M Cherney",
+        "Craig Garen",
+        "Chunying Niu",
+        "Bruce D Hammock",
+        "Michael N G James"
+      ],
+      "year": "2008",
+      "journal": "Journal of molecular biology",
+      "doi": "10.1016/j.jmb.2008.06.030",
+      "doi_link": "https://doi.org/10.1016/j.jmb.2008.06.030",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18585390",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20molecular%20structure%20of%20epoxide%20hydrolase%20B%20from%20Mycobacterium%20tuberculosis%20and%20its%20complex%20with%20a%20urea-based%20inhibitor%22",
+      "citations": {
+        "semantic_scholar": 46
+      },
+      "abstract": "Mycobacterium tuberculosis (Mtb), the intracellular pathogen that infects macrophages primarily, is the causative agent of the infectious disease tuberculosis in humans. The Mtb genome encodes at least six epoxide hydrolases (EHs A to F). EHs convert epoxides to trans-dihydrodiols and have roles in drug metabolism as well as in the processing of signaling molecules. Herein, we report the crystal structures of unbound Mtb EHB and Mtb EHB bound to a potent, low-nanomolar (IC(50) approximately 19 nM) urea-based inhibitor at 2.1 and 2.4 A resolution, respectively. The enzyme is a homodimer; each monomer adopts the classical alpha/beta hydrolase fold that composes the catalytic domain; there is a cap domain that regulates access to the active site. The catalytic triad, comprising Asp104, His333 and Asp302, protrudes from the catalytic domain into the substrate binding cavity between the two domains. The urea portion of the inhibitor is bound in the catalytic cavity, mimicking, in part, the substrate binding; the two urea nitrogen atoms donate hydrogen bonds to the nucleophilic carboxylate of Asp104, and the carbonyl oxygen of the urea moiety receives hydrogen bonds from the phenolic oxygen atoms of Tyr164 and Tyr272. The phenolic oxygen groups of these two residues provide electrophilic assistance during the epoxide hydrolytic cleavage. Upon inhibitor binding, the binding-site residues undergo subtle structural rearrangement. In particular, the side chain of Ile137 exhibits a rotation of around 120 degrees about its C(alpha)-C(beta) bond in order to accommodate the inhibitor. These findings have not only shed light on the enzyme mechanism but also have opened a path for the development of potent inhibitors with good pharmacokinetic profiles against all Mtb EHs of the alpha/beta type.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper32",
+      "publication_id": "17338641",
+      "title": "Effects of disease-modifying anti-rheumatic drugs (DMARDs) on the activities of rheumatoid arthritis-associated cathepsins K and S.",
+      "authors": [
+        "Enrico Weidauer",
+        "Yoshiyuki Yasuda",
+        "Bichitra K Biswal",
+        "Maia Cherny",
+        "Michael N G James",
+        "Dieter Brömme"
+      ],
+      "year": "2007",
+      "journal": "Biological chemistry",
+      "doi": "10.1515/BC.2007.037",
+      "doi_link": "https://doi.org/10.1515/BC.2007.037",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17338641",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Effects%20of%20disease-modifying%20anti-rheumatic%20drugs%20%28DMARDs%29%20on%20the%20activities%20of%20rheumatoid%20arthritis-associated%20cathepsins%20K%20and%20S%22",
+      "citations": {
+        "crossref": 56
+      },
+      "abstract": "Rheumatoid arthritis is an inflammatory and disabling joint disease affecting 0.5-1.5% of the population. Although various anti-inflammatory (NSAIDs) and disease-modifying (DMARDs) drugs are in clinical use, their precise mechanisms of action are not always defined. In this report, we discuss the effects of widely used DMARDs such as gold derivatives and chloroquine on cathepsins K and S, which have been implicated as critical mediators of inflammation and joint erosion in rheumatoid arthritis. We demonstrate that clinically potent gold derivatives inhibit cathepsins K and S in in vitro and cell-based assays. An X-ray analysis of the gold thiomalate/cathepsin K complex reveals that the inhibitor is bound to the active-site cysteine residue of the protease. Chloroquine, a lysosomotropic agent of lower clinical potency than gold derivatives, inhibits neutral pH-labile cathepsins intracellularly, but does not affect the neutral pH-stable cathepsin S. The potent inhibition of cathepsins implicated in the pathogenesis of rheumatoid arthritis by gold derivatives may explain the therapeutic efficacy of these drugs.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper33",
+      "publication_id": "16880544",
+      "title": "The molecular structure of Rv2074, a probable pyridoxine 5'-phosphate oxidase from Mycobacterium tuberculosis, at 1.6 angstroms resolution.",
+      "authors": [
+        "Bichitra K Biswal",
+        "Karolyn Au",
+        "Maia M Cherney",
+        "Craig Garen",
+        "Michael N G James"
+      ],
+      "year": "2006",
+      "journal": "Acta crystallographica. Section F, Structural biology and crystallization communications",
+      "doi": "10.1107/S1744309106025012",
+      "doi_link": "https://doi.org/10.1107/S1744309106025012",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16880544",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20molecular%20structure%20of%20Rv2074%2C%20a%20probable%20pyridoxine%205%27-phosphate%20oxidase%20from%20Mycobacterium%20tuberculosis%2C%20at%201.6%20angstroms%20resolution%22",
+      "citations": {
+        "crossref": 15
+      },
+      "abstract": "The crystal structure of a conserved hypothetical protein corresponding to open reading frame Rv2074 from Mycobacterium tuberculosis (Mtb) has been solved by the two-wavelength anomalous dispersion method. Refinement of the molecular structure at 1.6 angstroms resolution resulted in an R(work) of 0.178 and an R(free) of 0.204. The crystal asymmetric unit contains an Rv2074 monomer; however, the crystallographic twofold symmetry operation of space group P4(3)2(1)2 generates dimeric Rv2074. Each monomer folds into a six-stranded antiparallel beta-barrel flanked by two alpha-helices. The three-dimensional structure of Rv2074 is very similar to that of Mtb Rv1155, a probable pyridoxine 5'-phosphate oxidase (PNPOx), which corroborates well with the relatively high sequence similarity (52%) between the two. A structural comparison between Rv2074 and Rv1155 revealed that the core structure (a six-stranded beta-barrel) is also well conserved; the major differences between the two lie in the N- and C-termini and in the small helical domain. Two citric acid molecules were observed in the active site of Rv2074, the crystals of which were grown in 0.2 M sodium citrate buffer pH 5.0. The citric acid molecules are bound to Rv2074 by hydrogen-bonding interactions with Thr55, Gln60 and Lys61. One of the two citric acid molecules occupies the same spatial position that corresponds to the position of the phosphate and ribose sugar moieties of the flavin mononucleotide (FMN) in the Mtb Rv1155-FMN, Escherichia coli PNPOx-FMN and human PNPOx-FMN complex structures. Owing to its extensive structural similarity with Mtb Rv1155 and to the E. coli and human PNPOx enzymes, Rv2074 may be involved in the final step in the biosynthesis of pyridoxal 5'-phosphate (PLP; a vitamin B6).",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper34",
+      "publication_id": "16828488",
+      "title": "Non-nucleoside inhibitors binding to hepatitis C virus NS5B polymerase reveal a novel mechanism of inhibition.",
+      "authors": [
+        "Bichitra K Biswal",
+        "Meitian Wang",
+        "Maia M Cherney",
+        "Laval Chan",
+        "Constantin G Yannopoulos",
+        "Darius Bilimoria",
+        "Jean Bedard",
+        "Michael N G James"
+      ],
+      "year": "2006",
+      "journal": "Journal of molecular biology",
+      "doi": "10.1016/j.jmb.2006.05.074",
+      "doi_link": "https://doi.org/10.1016/j.jmb.2006.05.074",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16828488",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Non-nucleoside%20inhibitors%20binding%20to%20hepatitis%20C%20virus%20NS5B%20polymerase%20reveal%20a%20novel%20mechanism%20of%20inhibition%22",
+      "citations": {
+        "crossref": 65
+      },
+      "abstract": "The RNA-dependent RNA polymerase (NS5B) from hepatitis C virus (HCV) is a key enzyme in HCV replication. NS5B is a major target for the development of antiviral compounds directed against HCV. Here we present the structures of three thiophene-based non-nucleoside inhibitors (NNIs) bound non-covalently to NS5B. Each of the inhibitors binds to NS5B non-competitively to a common binding site in the \"thumb\" domain that is approximately 35 Angstroms from the polymerase active site located in the \"palm\" domain. The three compounds exhibit IC(50) values in the range of 270 nM to 307 nM and have common binding features that result in relatively large conformational changes of residues that interact directly with the inhibitors as well as for other residues adjacent to the binding site. Detailed comparisons of the unbound NS5B structure with those having the bound inhibitors present show that residues Pro495 to Arg505 (the N terminus of the \"T\" helix) exhibit some of the largest changes. It has been reported that Pro495, Pro496, Val499 and Arg503 are part of the guanosine triphosphate (GTP) specific allosteric binding site located in close proximity to our binding site. It has also been reported that the introduction of mutations to key residues in this region (i.e. Val499Gly) ablate in vivo sub-genomic HCV RNA replication. The details of NS5B polymerase/inhibitor binding interactions coupled with the observed induced conformational changes provide new insights into the design of novel NNIs of HCV.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper35",
+      "publication_id": "16511284",
+      "title": "Cloning, expression, purification, crystallization and preliminary X-ray studies of epoxide hydrolases A and B from Mycobacterium tuberculosis.",
+      "authors": [
+        "Bichitra K Biswal",
+        "Grace Garen",
+        "Maia M Cherney",
+        "Craig Garen",
+        "Michael N G James"
+      ],
+      "year": "2006",
+      "journal": "Acta crystallographica. Section F, Structural biology and crystallization communications",
+      "doi": "10.1107/S1744309106000637",
+      "doi_link": "https://doi.org/10.1107/S1744309106000637",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16511284",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Cloning%2C%20expression%2C%20purification%2C%20crystallization%20and%20preliminary%20X-ray%20studies%20of%20epoxide%20hydrolases%20A%20and%20B%20from%20Mycobacterium%20tuberculosis%22",
+      "citations": {
+        "crossref": 9
+      },
+      "abstract": "Mycobacterium tuberculosis epoxide hydrolases A and B, corresponding to open reading frames Rv3617 and Rv1938, are detoxification enzymes against epoxides. The recombinant forms of these enzymes have been expressed in Escherichia coli and purified to homogeneity. Diffraction-quality crystals of Rv3617 and Rv1938 were obtained by the hanging-drop vapour-diffusion technique. Crystals of Rv3617 and Rv1938 diffracted to 3.0 and 2.1 A resolution, respectively, at the ALS synchrotron at Berkeley, CA, USA.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper36",
+      "publication_id": "16239726",
+      "title": "Structures of Mycobacterium tuberculosispyridoxine 5'-phosphate oxidase and its complexes with flavin mononucleotide and pyridoxal 5'-phosphate.",
+      "authors": [
+        "Bichitra K Biswal",
+        "Maia M Cherney",
+        "Meitian Wang",
+        "Craig Garen",
+        "Michael N G James"
+      ],
+      "year": "2005",
+      "journal": "Acta crystallographica. Section D, Biological crystallography",
+      "doi": "10.1107/S0907444905026673",
+      "doi_link": "https://doi.org/10.1107/S0907444905026673",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16239726",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structures%20of%20Mycobacterium%20tuberculosispyridoxine%205%27-phosphate%20oxidase%20and%20its%20complexes%20with%20flavin%20mononucleotide%20and%20pyridoxal%205%27-phosphate%22",
+      "citations": {
+        "semantic_scholar": 14
+      },
+      "abstract": "The X-ray crystal structure of a conserved hypothetical protein of molecular weight 16.3 kDa from Mycobacterium tuberculosis corresponding to open reading frame (ORF) Rv1155 has been solved by the multiwavelength anomalous dispersion method and refined at 1.8 A resolution. The crystal structure revealed that Rv1155 is a dimer in the crystal and that each monomer folds into a large and a small domain; the large domain is a six-stranded antiparallel beta-barrel flanked by two small alpha-helices and the small domain is a helix-loop-helix motif. The dimer interface is formed by residues protruding primarily from five of the six beta-strands in each subunit. Based on structural similarity and on ligand binding, it has been established that Rv1155 is a pyridoxine 5'-phosphate oxidase, the Escherichia coli and human counterparts of which catalyse the terminal step in the biosynthesis of pyridoxal 5'-phosphate (PLP), a cofactor used by many enzymes involved in amino-acid metabolism. The structures of flavin mononucleotide (FMN) and pyridoxal 5'-phosphate (PLP) bound separately to Rv1155 have been determined at 2.2 and 1.7 A resolution, respectively. Only one monomer binds non-covalently to one FMN molecule or to one PLP molecule. Arg55 and Lys57 are the key residues making hydrogen bonds and ionic interactions with the phosphate and ribose groups of the FMN molecule, whereas Arg55 and Arg129 provide hydrogen bonds and ionic interactions with the phosphate group of the PLP. Structural comparisons of Rv1155 from M. tuberculosis with its E. coli and human counterparts demonstrate that the core structure is highly conserved and the FMN-binding site is similarly disposed in each of the structures.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper37",
+      "publication_id": "15746101",
+      "title": "Crystal structures of the RNA-dependent RNA polymerase genotype 2a of hepatitis C virus reveal two conformations and suggest mechanisms of inhibition by non-nucleoside inhibitors.",
+      "authors": [
+        "Bichitra K Biswal",
+        "Maia M Cherney",
+        "Meitian Wang",
+        "Laval Chan",
+        "Constantin G Yannopoulos",
+        "Darius Bilimoria",
+        "Olivier Nicolas",
+        "Jean Bedard",
+        "Michael N G James"
+      ],
+      "year": "2005",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M413410200",
+      "doi_link": "https://doi.org/10.1074/jbc.M413410200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15746101",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Crystal%20structures%20of%20the%20RNA-dependent%20RNA%20polymerase%20genotype%202a%20of%20hepatitis%20C%20virus%20reveal%20two%20conformations%20and%20suggest%20mechanisms%20of%20inhibition%20by%20non-nucleoside%20inhibitors%22",
+      "citations": {
+        "crossref": 171
+      },
+      "abstract": "Crystal structures of the RNA-dependent RNA polymerase genotype 2a of hepatitis C virus (HCV) from two crystal forms have been determined. Similar to the three-dimensional structures of HCV polymerase genotype 1b and other known polymerases, the structures of the HCV polymerase genotype 2a in both crystal forms can be depicted in the classical right-hand arrangement with fingers, palm, and thumb domains. The main structural differences between the molecules in the two crystal forms lie at the interface of the fingers and thumb domains. The relative orientation of the thumb domain with respect to the fingers and palm domains and the beta-flap region is altered. Structural analysis reveals that the NS5B polymerase in crystal form I adopts a \"closed\" conformation that is believed to be the active form, whereas NS5B in crystal form II adopts an \"open\" conformation and is thus in the inactive form. In addition, we have determined the structures of two NS5B polymerase/non-nucleoside inhibitor complexes. Both inhibitors bind at a common binding site, which is nearly 35 A away from the polymerase active site and is located in the thumb domain. The binding pocket is predominantly hydrophobic in nature, and the enzyme inhibitor complexes are stabilized by hydrogen bonding and van der Waals interactions. Inhibitors can only be soaked in crystal form I and not in form II; examination of the enzyme-inhibitor complex reveals that the enzyme has undergone a dramatic conformational change from the form I (active) complex to the form II (inactive).",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 37,
+    "publications_by_year": {
+      "2025": 3,
+      "2024": 1,
+      "2023": 4,
+      "2022": 3,
+      "2021": 3,
+      "2020": 2,
+      "2019": 1,
+      "2018": 4,
+      "2017": 1,
+      "2016": 1,
+      "2014": 1,
+      "2013": 2,
+      "2012": 2,
+      "2011": 2,
+      "2008": 1,
+      "2007": 1,
+      "2006": 3,
+      "2005": 2
+    },
+    "top_journals": [
+      "Acta crystallographica. Section F, Structural biology and crystallization communications",
+      "Acta crystallographica. Section F, Structural biology communications",
+      "International journal of biological macromolecules",
+      "The Journal of biological chemistry",
+      "Acta crystallographica. Section D, Biological crystallography"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 142,
+      "frequent_collaborators": [
+        "Bichitra K Biswal",
+        "Bichitra Kumar Biswal",
+        "Rajan Vyas",
+        "Michael N G James",
+        "Abhisek Dwivedy",
+        "Maia M Cherney",
+        "Mohammed Ahmad",
+        "Bhavya Jha"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "37289866",
+        "title": "Taurine deficiency as a driver of aging.",
+        "citations": 246,
+        "year": "2023"
+      },
+      {
+        "publication_id": "15746101",
+        "title": "Crystal structures of the RNA-dependent RNA polymerase genotype 2a of hepatitis C virus reveal two conformations and suggest mechanisms of inhibition by non-nucleoside inhibitors.",
+        "citations": 171,
+        "year": "2005"
+      },
+      {
+        "publication_id": "22298023",
+        "title": "Mammalian zona pellucida glycoproteins: structure and function during fertilization.",
+        "citations": 89,
+        "year": "2012"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1773 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Vijay K. Yadav",
+    "email": "vijay@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/former-faculty/dr-vijay-k-yadav",
+    "research_domain": "Former",
+    "faculty_status": "former",
+    "search_date": "2025-07-02T00:00:00.000000",
+    "total_publications": 59,
+    "last_updated": "2025-07-02",
+    "description": "This document contains a complete list of publications by Dr. Vijay K. Yadav, former faculty in Former at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "40260441",
+      "title": "Analyzing trends and future projections in fodder oats (Avena sativa L.) for quality seed production in India.",
+      "authors": [
+        "Subhash Chand",
+        "Sanjay Kumar",
+        "Ajoy Kumar Roy",
+        "Dunna Vijay",
+        "Bishwa Bhaskar Choudhary",
+        "Indu",
+        "Pradeep Kumar",
+        "Rajiv Kumar Agrawal",
+        "Vijay Kumar Yadav",
+        "Pankaj Kaushal",
+        "Devendra Kumar Yadava",
+        "Ram Vinod Kumar",
+        "Awnindra Kumar Singh",
+        "Shahid Ahmed",
+        "Devendra Ram Malaviya",
+        "Rajesh Kumar Singhal",
+        "Birendra Prasad",
+        "Rahul Kapoor",
+        "Amit Kumar Jha",
+        "Ravish Panchta"
+      ],
+      "year": "2025",
+      "journal": "Frontiers in plant science",
+      "doi": "10.3389/fpls.2025.1525422",
+      "doi_link": "https://doi.org/10.3389/fpls.2025.1525422",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40260441",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Analyzing%20trends%20and%20future%20projections%20in%20fodder%20oats%20%28Avena%20sativa%20L.%29%20for%20quality%20seed%20production%20in%20India%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "Oats (Avena sativa L.) is a multipurpose, popular, nutritionally rich cereal crop widely used for food, feed, and fodder. In India, it is cultivated on nearly 0.25 M ha in the northern, northwestern, and central regions and has recently expanded to the eastern region, mainly for fodder purposes. Breeder seed (BS) production data were collected from the AICRP on Forage Crops and Utilization (FC&U) for a period of 24 years (1998-1999 to 2021-2022). Several fodder oat varieties have been developed and introduced into the seed chain in India over the past 24 years to suit different agro-climatic conditions. However, analysis reveals a narrow genetic base at the varietal level, with a few old and popular varieties (Kent, OS-6, and OS-7) sharing > 70% of the genome in varietal development. To encourage the cultivation of new varieties and replace older ones, adequate BS production is vital to ensure a regular supply of quality seeds for sustainable livestock production, providing nutritious and cost-effective fodder. With a few exceptions, the amount of BS indent and the number of varieties has increased, indicating growing demand and awareness of new varieties. At the institutional level, Indian Grassland and Fodder Research Institute (IGFRI) (Jhansi) contributed the highest to BS production (29.8%), followed by Punjab Agricultural University (PAU) (Ludhiana; 13.7%), AAU (Anand; 10.8%), and G.B. Pant University of Agriculture and Technology (GBPUAT) (Pantnagar; 9.9%). A moderate varietal replacement rate (22.9%) was observed for recently developed varieties (< 5 years) over the past 3 years (2019-2020 to 2021-2022). However, their contribution has significantly increased from 0.2% (2018-2019) to 26.2% (2021-2022). We estimated certified seed production (194,040 q) for 2023-2024 based on the available BS (485.1 q), assuming the seed chain operates at 100% efficiency. This production could cover 0.19 M ha of fodder oats in 2024-2025. The ARIMA model estimated that BS production and the number of varieties in the seed chain would reach 734.2 q and 28, respectively, by 2026-2027. Additionally, breeding approaches and improved management practices for enhanced seed production were discussed, and a roadmap was proposed to meet the demand for quality fodder oat seed in India.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "39967874",
+      "title": "Rapid and relaying deleterious effects of a gastrointestinal pathogen, Citrobacter rodentium, on bone, an extra-intestinal organ.",
+      "authors": [
+        "Kunal Sharan",
+        "Cordelia Brandt",
+        "Mohd Aslam Yusuf",
+        "Parminder Singh",
+        "Namrita Halder",
+        "Madeline E Edwards",
+        "Svvs Ravi Mangu",
+        "Abhilipsa Das",
+        "Amrita Mishra",
+        "Shashi S Kumar",
+        "Amita Sharma",
+        "Alka Gupta",
+        "Xiaowei S Liu",
+        "Edward X Guo",
+        "Umrao R Monani",
+        "Devasena Ponnalagu",
+        "Ivaylo I Ivanov",
+        "Girdhari Lal",
+        "Simon Clare",
+        "Gordon Dougan",
+        "Vijay K Yadav"
+      ],
+      "year": "2025",
+      "journal": "iScience",
+      "doi": "10.1016/j.isci.2025.111802",
+      "doi_link": "https://doi.org/10.1016/j.isci.2025.111802",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39967874",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Rapid%20and%20relaying%20deleterious%20effects%20of%20a%20gastrointestinal%20pathogen%2C%20Citrobacter%20rodentium%2C%20on%20bone%2C%20an%20extra-intestinal%20organ%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "Enteropathogenic infections cause pathophysiological changes in the host but their effects beyond the gastrointestinal tract are undefined. Here, using Citrobacter rodentium infection in mouse, which mimics human diarrheal enteropathogenic Escherichia coli, we show that gastrointestinal infection negatively affects bone remodeling, leading to compromised bone architecture. Transmission of infection through fecal-oral route from Citrobacter rodentium-infected to non-infected mice caused bone loss in non-infected cage mates. Mice with B cell deficiency (Igh6-/- mice) failed to clear C. rodentium infection and exhibited more severe and long-term bone loss compared to WT mice. Unbiased cytokine profiling showed an increase in circulating tumor necrosis factor α (TNFα) levels following Citrobacter rodentium infection, and immunoneutralization of TNFα prevented infection-induced bone loss completely in WT and immunocompromised mice. These findings reveal rapid, relaying, and modifiable effects of enteropathogenic infections on an extraintestinal organ-bone, and provide insights into the mechanism(s) through which these infections affect extraintestinal organ homeostasis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "39956838",
+      "title": "Long-term effect of Bt cottonseed cake on nutrient utilisation, growth performance and health of rams in tropical conditions.",
+      "authors": [
+        "Krishan Kunwar Singh",
+        "Pushpendra Koli",
+        "Sultan Singh",
+        "Vijay Kumar Yadav",
+        "Asim Kumar Misra",
+        "Subhendu Bikas Maity",
+        "P Govindraj",
+        "R Karuppiyan"
+      ],
+      "year": "2025",
+      "journal": "Tropical animal health and production",
+      "doi": "10.1007/s11250-025-04316-8",
+      "doi_link": "https://doi.org/10.1007/s11250-025-04316-8",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39956838",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Long-term%20effect%20of%20Bt%20cottonseed%20cake%20on%20nutrient%20utilisation%2C%20growth%20performance%20and%20health%20of%20rams%20in%20tropical%20conditions%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "Cottonseed cake (CSC) is a cost-effective and important protein source for ruminants. In India, Bt cotton has replaced 96% of non-Bt, making Bt CSC, the predominant byproduct available for animal feeding. While some studies have assessed the effect of Bt genes and proteins on livestock health, no long-term evaluations have been conducted. This study investigated the prolonged effects of feeding Bt cottonseed cake on growth performance, feed intake, and blood parameters in rams, particularly within tropical systems Eighteen male rams were divided into three treatment groups: G1 (0% CSC), G2 (35% non-Bt CSC), and G3 (35% Bt CSC). The results revealed that body weight (30.50 to 30.90 kg), dry matter intake (3.22 to 2.28 kg/100 kg body weight), and nutrient digestibility had non-significant differences among the treatments. The nitrogen (N) intake ranged from 16.87 to 17.20 g/day, and N retention was between 15.74% and 17.38%. Similarly, blood metabolites (plasma protein, creatinine, and superoxide dismutase) were found within the normal range. Semen volume (0.85 to 0.90 mL), sperm count (3475-3500 × 106/mL), and sperm motility (75.2-76.05%) were also within normal ranges. The results of the experiment indicate that no apparent detrimental effects were observed from long-term (320 days) feeding of Bt cottonseed cake at up to 35% in the concentrate mixture for rams.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "39364656",
+      "title": "Taurine/chenodeoxycholic acid ratio as a potential serum biomarker for low vitamin B₁₂ levels in humans.",
+      "authors": [
+        "Madhu Baghel",
+        "Sting L Shi",
+        "Himani Patel",
+        "Vidya Velagapudi",
+        "Abdullah Mahmood Ali",
+        "Vijay K Yadav"
+      ],
+      "year": "2024",
+      "journal": "The British journal of nutrition",
+      "doi": "10.1017/S0007114524002022",
+      "doi_link": "https://doi.org/10.1017/S0007114524002022",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39364656",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Taurine/chenodeoxycholic%20acid%20ratio%20as%20a%20potential%20serum%20biomarker%20for%20low%20vitamin%20B%E2%82%81%E2%82%82%20levels%20in%20humans%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "Deficiency of vitamin B₁₂ (B₁₂ or cobalamin), an essential water-soluble vitamin, leads to neurological damage, which can be irreversible and anaemia, and is sometimes associated with chronic disorders such as osteoporosis and cardiovascular diseases. Clinical tests to detect B₁₂ deficiency lack specificity and sensitivity. Delays in detecting B₁₂ deficiency pose a major threat because the progressive decline in organ functions may go unnoticed until the damage is advanced or irreversible. Here, using targeted unbiased metabolomic profiling in the sera of subjects with low B₁₂ levels v control individuals, we set out to identify biomarker(s) of B₁₂ insufficiency. Metabolomic profiling identified seventy-seven metabolites, and partial least squares discriminant analysis and hierarchical clustering analysis showed a differential abundance of taurine, xanthine, hypoxanthine, chenodeoxycholic acid, neopterin and glycocholic acid in subjects with low B₁₂ levels. Random forest multivariate analysis identified a taurine/chenodeoxycholic acid ratio, with an AUC score of 1, to be the best biomarker to predict low B₁₂ levels. Mechanistic studies using a mouse model of B₁₂ deficiency showed that B₁₂ deficiency reshaped the transcriptomic and metabolomic landscape of the cell, identifying a downregulation of methionine, taurine, urea cycle and nucleotide metabolism and an upregulation of Krebs cycle. Thus, we propose taurine/chenodeoxycholic acid ratio in serum as a potential biomarker of low B₁₂ levels in humans and elucidate using a mouse model of cellular metabolic pathways regulated by B₁₂ deficiency.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "39170533",
+      "title": "Quality seed production scenario of Egyptian clover (Trifolium alexandrinum) in India: A 24-year retrospective analysis.",
+      "authors": [
+        "Subhash Chand",
+        "Ajoy Kumar Roy",
+        "Sanjay Kumar",
+        "Tejveer Singh",
+        "Vijay Kumar Yadav",
+        "Swami Sunil Ramling",
+        "Rajiv Kumar Agrawal",
+        "Devendra Ram Malaviya",
+        "Awnindra Kumar Singh",
+        "Ram Vinod Kumar",
+        "Krishna Kumar Dwivedi",
+        "Amaresh Chandra",
+        "Devendra Kumar Yadava"
+      ],
+      "year": "2024",
+      "journal": "Heliyon",
+      "doi": "10.1016/j.heliyon.2024.e35735",
+      "doi_link": "https://doi.org/10.1016/j.heliyon.2024.e35735",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39170533",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Quality%20seed%20production%20scenario%20of%20Egyptian%20clover%20%28Trifolium%20alexandrinum%29%20in%20India%3A%20A%2024-year%20retrospective%20analysis%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "Egyptian clover/Berseem (Trifolium alexandrinum L.) is the most popular winter leguminous multi-cut fodder crop widely cultivated in the northwest and central parts of India. Quality seed significantly impacts farm productivity, farmers' profitability, and socioeconomic welfare. Foundation and certified seeds enable high-quality seed production, making breeder seed (BS) the most important link in the seed supply chain. In India, berseem BS indent had increased from 1998 - 99 to 2012-13; afterwards, it followed a constant but decreasing trend. Of the 27 notified cultivars, 24 came into the seed supply chain between 1998-1999 and 2021-2022, indicating high varietal availability to stakeholders. The study examines the potential causes of the national decline in BS indent and production and the differences in these figures over time. The highest BS indent was received for the variety JB-1 (276.1 q), followed by BL-10 (205.1 q), Mescavi (165.6 q) and Wardan (153.7 q) from 1998 - 99 to 2021-22. The varietal replacement rate (VRR) is high, 43.30 %, for the varieties that have reached the age of five or less in the recent three years (2019-20 to 2021-22). Additionally, it has been calculated that if the seed chain operates at 100 % efficiency, the BS generated (48.1q) in 2021-22 can cover an area of almost 0.12 million hectares in 2024-25. The study offers an in-depth overview of berseem BS indent and production, an analysis of the difficulties encountered in BS production, and future directions for expanding variety and producing excess BS in the nation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "38228788",
+      "title": "Osteocalcin of maternal and embryonic origins synergize to establish homeostasis in offspring.",
+      "authors": [
+        "Danilo Correa Pinto Junior",
+        "Isabella Canal Delgado",
+        "Haiyang Yang",
+        "Alisson Clemenceau",
+        "André Corvelo",
+        "Giuseppe Narzisi",
+        "Rajeeva Musunuri",
+        "Julian Meyer Berger",
+        "Lauren E Hendricks",
+        "Kazuya Tokumura",
+        "Na Luo",
+        "Hongchao Li",
+        "Franck Oury",
+        "Patricia Ducy",
+        "Vijay K Yadav",
+        "Xiang Li",
+        "Gerard Karsenty"
+      ],
+      "year": "2024",
+      "journal": "EMBO reports",
+      "doi": "10.1038/s44319-023-00031-3",
+      "doi_link": "https://doi.org/10.1038/s44319-023-00031-3",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38228788",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Osteocalcin%20of%20maternal%20and%20embryonic%20origins%20synergize%20to%20establish%20homeostasis%20in%20offspring%22",
+      "citations": {
+        "semantic_scholar": 5
+      },
+      "abstract": "Many physiological osteocalcin-regulated functions are affected in adult offspring of mothers experiencing unhealthy pregnancy. Furthermore, osteocalcin signaling during gestation influences cognition and adrenal steroidogenesis in adult mice. Together these observations suggest that osteocalcin may broadly function during pregnancy to determine organismal homeostasis in adult mammals. To test this hypothesis, we analyzed in unchallenged wildtype and Osteocalcin-deficient, newborn and adult mice of various genotypes and origin maintained on different genetic backgrounds, the functions of osteocalcin in the pancreas, liver and testes and their molecular underpinnings. This analysis revealed that providing mothers are Osteocalcin-deficient, Osteocalcin haploinsufficiency in embryos hampers insulin secretion, liver gluconeogenesis, glucose homeostasis, testes steroidogenesis in adult offspring; inhibits cell proliferation in developing pancreatic islets and testes; and disrupts distinct programs of gene expression in these organs and in the brain. This study indicates that osteocalcin exerts dominant functions in most organs it influences. Furthermore, through their synergistic regulation of multiple physiological functions, osteocalcin of maternal and embryonic origins contributes to the establishment and maintenance of organismal homeostasis in newborn and adult offspring.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "37965034",
+      "title": "Twenty-four years lucerne (Medicago sativa L.) breeder seed production in India: a retrospective study.",
+      "authors": [
+        "Subhash Chand",
+        "Ajoy Kumar Roy",
+        "Tejveer Singh",
+        "Rajiv Kumar Agrawal",
+        "Vijay Kumar Yadav",
+        "Sanjay Kumar",
+        "Devendra Ram Malaviya",
+        "Amaresh Chandra",
+        "Devendra Kumar Yadava"
+      ],
+      "year": "2023",
+      "journal": "Frontiers in plant science",
+      "doi": "10.3389/fpls.2023.1259967",
+      "doi_link": "https://doi.org/10.3389/fpls.2023.1259967",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37965034",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Twenty-four%20years%20lucerne%20%28Medicago%20sativa%20L.%29%20breeder%20seed%20production%20in%20India%3A%20a%20retrospective%20study%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "Lucerne (Medicago sativa L.) is the second most significant winter leguminous fodder crop after berseem in India. Breeder seed (BS) is the first stage of the seed production chain, as it is the base material for producing foundation and certified seeds. In India, lucerne BS demand has been reduced by 85.58% during the last 24 years (1998-1999 to 2021-2022), declining from 2150 kg to 310 kg. Out of 14 varieties released and notified so far, only nine varieties entered the seed chain since 1998-1999. It shows narrow varietal diversification and, hence, needs robust breeding programs towards enriching genetic variability and varietal development. The present study also highlights the disparity in BS demand and production over the years and puts forth the possible reasons behind the reduction in BS demand and production in the country. Out of the nine varieties, the BS demand of Anand-2 (53.11%) was highest, followed by Type-9 (19.44%) and RL-88 (13.60%). Varietal replacement rate (VRR) was found to be moderate, i.e., 23.67% for the varieties having <5 years old age in the last 3 years (2019-2020 to 2021-2022). It has also been estimated that BS produced (233 kg) during 2021-2022 can cover the approximate area of 6,300 ha at farmers' fields in 2024-2025 if the seed chain functions 100%, effectively. The present study provides a holistic overview of lucerne BS demand and production, challenges in BS production, and the way forward to develop more varieties and surplus BS production in the country.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "37645714",
+      "title": "Osteocalcin of maternal and embryonic origins synergize to establish homeostasis in offspring.",
+      "authors": [
+        "Danilo Correa Pinto",
+        "Isabella Canal Delgado",
+        "Haiyang Yang",
+        "Alisson Clemenceau",
+        "André Corvelo",
+        "Giuseppe Narzisi",
+        "Rajeeva Musunuri",
+        "Julian Meyer Berger",
+        "Lauren E Hendricks",
+        "Kazuya Tokumura",
+        "Na Luo",
+        "Hongchao Li",
+        "Franck Oury",
+        "Patricia Ducy",
+        "Vijay K Yadav",
+        "Xiang Li",
+        "Gerard Karsenty"
+      ],
+      "year": "2023",
+      "journal": "bioRxiv : the preprint server for biology",
+      "doi": "10.1101/2023.08.11.552969",
+      "doi_link": "https://doi.org/10.1101/2023.08.11.552969",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37645714",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Osteocalcin%20of%20maternal%20and%20embryonic%20origins%20synergize%20to%20establish%20homeostasis%20in%20offspring%22",
+      "citations": {
+        "semantic_scholar": 5
+      },
+      "abstract": "Many physiological functions regulated by osteocalcin are affected in adult offspring of mothers experiencing an unhealthy pregnancy. Furthermore, osteocalcin signaling during gestation influences cognition and adrenal steroidogenesis in adult mice. Together these observations suggest that osteocalcin functions during pregnancy may be a broader determinant of organismal homeostasis in adult mammals than previously thought. To test this hypothesis, we analyzed in unchallenged wildtype and Osteocalcin -deficient, newborn, and adult mice of various genotypes and origin, and that were maintained on different genetic backgrounds, the functions of osteocalcin in the pancreas, liver and testes and their molecular underpinnings. This analysis revealed that providing mothers are themselves Osteocalcin -deficient, Osteocalcin haploinsufficiency in embryos hampers insulin secretion, liver gluconeogenesis, glucose homeostasis, testes steroidogenesis in adult offspring; inhibits cell proliferation in developing pancreatic islets and testes; and disrupts distinct programs of gene expression in these organs and in the brain. This study indicates that through their synergistic regulation of multiple physiological functions, osteocalcin ofmaternal and embryonic origins contributes to the establishment and maintenance of organismal homeostasis in newborn and adult offspring.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "37638446",
+      "title": "Common Molecular Signatures Between Coronavirus Infection and Alzheimer's Disease Reveal Targets for Drug Development.",
+      "authors": [
+        "Morteza Abyadeh",
+        "Vijay K Yadav",
+        "Alaattin Kaya"
+      ],
+      "year": "2023",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "doi": "10.3233/JAD-230684",
+      "doi_link": "https://doi.org/10.3233/JAD-230684",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37638446",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Common%20Molecular%20Signatures%20Between%20Coronavirus%20Infection%20and%20Alzheimer%27s%20Disease%20Reveal%20Targets%20for%20Drug%20Development%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "BACKGROUND: Cognitive decline is a common consequence of COVID-19, and studies suggest a link between COVID-19 and Alzheimer's disease (AD). However, the molecular mechanisms underlying this association remain unclear. OBJECTIVE: To understand the potential molecular mechanisms underlying the association between COVID-19 and AD development, and identify the potential genetic targets for pharmaceutical approaches to reduce the risk or delay the development of COVID-19-related neurological pathologies. METHODS: We analyzed transcriptome datasets of 638 brain samples using a novel Robust Rank Aggregation method, followed by functional enrichment, protein-protein, hub genes, gene-miRNA, and gene-transcription factor (TF) interaction analyses to identify molecular markers altered in AD and COVID-19 infected brains. RESULTS: Our analyses of frontal cortex from COVID-19 and AD patients identified commonly altered genes, miRNAs and TFs. Functional enrichment and hub gene analysis of these molecular changes revealed commonly altered pathways, including downregulation of the cyclic adenosine monophosphate (cAMP) signaling and taurine and hypotaurine metabolism, alongside upregulation of neuroinflammatory pathways. Furthermore, gene-miRNA and gene-TF network analyses provided potential up- and downstream regulators of identified pathways. CONCLUSION: We found that downregulation of cAMP signaling pathway, taurine metabolisms, and upregulation of neuroinflammatory related pathways are commonly altered in AD and COVID-19 pathogenesis, and may make COVID-19 patients more susceptible to cognitive decline and AD. We also identified genetic targets, regulating these pathways that can be targeted pharmaceutically to reduce the risk or delay the development of COVID-19-related neurological pathologies and AD.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "37398415",
+      "title": "Common molecular signatures between coronavirus infection and Alzheimer's disease reveal targets for drug development.",
+      "authors": [
+        "Morteza Abyadeh",
+        "Vijay K Yadav",
+        "Alaattin Kaya"
+      ],
+      "year": "2023",
+      "journal": "bioRxiv : the preprint server for biology",
+      "doi": "10.1101/2023.06.14.544970",
+      "doi_link": "https://doi.org/10.1101/2023.06.14.544970",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37398415",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Common%20molecular%20signatures%20between%20coronavirus%20infection%20and%20Alzheimer%27s%20disease%20reveal%20targets%20for%20drug%20development%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "Cognitive decline has been reported as a common consequence of COVID-19, and studies have suggested a link between COVID-19 infection and Alzheimer's disease (AD). However, the molecular mechanisms underlying this association remain unclear. To shed light on this link, we conducted an integrated genomic analysis using a novel Robust Rank Aggregation method to identify common transcriptional signatures of the frontal cortex, a critical area for cognitive function, between individuals with AD and COVID-19. We then performed various analyses, including the KEGG pathway, GO ontology, protein-protein interaction, hub gene, gene-miRNA, and gene-transcription factor interaction analyses to identify molecular components of biological pathways that are associated with AD in the brain also show similar changes in severe COVID-19. Our findings revealed the molecular mechanisms underpinning the association between COVID-19 infection and AD development and identified several genes, miRNAs, and TFs that may be targeted for therapeutic purposes. However, further research is needed to investigate the diagnostic and therapeutic applications of these findings.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "37289866",
+      "title": "Taurine deficiency as a driver of aging.",
+      "authors": [
+        "Parminder Singh",
+        "Kishore Gollapalli",
+        "Stefano Mangiola",
+        "Daniela Schranner",
+        "Mohd Aslam Yusuf",
+        "Manish Chamoli",
+        "Sting L Shi",
+        "Bruno Lopes Bastos",
+        "Tripti Nair",
+        "Annett Riermeier",
+        "Elena M Vayndorf",
+        "Judy Z Wu",
+        "Aishwarya Nilakhe",
+        "Christina Q Nguyen",
+        "Michael Muir",
+        "Michael G Kiflezghi",
+        "Anna Foulger",
+        "Alex Junker",
+        "Jack Devine",
+        "Kunal Sharan",
+        "Shankar J Chinta",
+        "Swati Rajput",
+        "Anand Rane",
+        "Philipp Baumert",
+        "Martin Schönfelder",
+        "Francescopaolo Iavarone",
+        "Giorgia di Lorenzo",
+        "Swati Kumari",
+        "Alka Gupta",
+        "Rajesh Sarkar",
+        "Costerwell Khyriem",
+        "Amanpreet S Chawla",
+        "Ankur Sharma",
+        "Nazan Sarper",
+        "Naibedya Chattopadhyay",
+        "Bichitra K Biswal",
+        "Carmine Settembre",
+        "Perumal Nagarajan",
+        "Kimara L Targoff",
+        "Martin Picard",
+        "Sarika Gupta",
+        "Vidya Velagapudi",
+        "Anthony T Papenfuss",
+        "Alaattin Kaya",
+        "Miguel Godinho Ferreira",
+        "Brian K Kennedy",
+        "Julie K Andersen",
+        "Gordon J Lithgow",
+        "Abdullah Mahmood Ali",
+        "Arnab Mukhopadhyay",
+        "Aarno Palotie",
+        "Gabi Kastenmüller",
+        "Matt Kaeberlein",
+        "Henning Wackerhage",
+        "Bhupinder Pal",
+        "Vijay K Yadav"
+      ],
+      "year": "2023",
+      "journal": "Science (New York, N.Y.)",
+      "doi": "10.1126/science.abn9257",
+      "doi_link": "https://doi.org/10.1126/science.abn9257",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37289866",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Taurine%20deficiency%20as%20a%20driver%20of%20aging%22",
+      "citations": {
+        "semantic_scholar": 208
+      },
+      "abstract": "Aging is associated with changes in circulating levels of various molecules, some of which remain undefined. We find that concentrations of circulating taurine decline with aging in mice, monkeys, and humans. A reversal of this decline through taurine supplementation increased the health span (the period of healthy living) and life span in mice and health span in monkeys. Mechanistically, taurine reduced cellular senescence, protected against telomerase deficiency, suppressed mitochondrial dysfunction, decreased DNA damage, and attenuated inflammaging. In humans, lower taurine concentrations correlated with several age-related diseases and taurine concentrations increased after acute endurance exercise. Thus, taurine deficiency may be a driver of aging because its reversal increases health span in worms, rodents, and primates and life span in worms and rodents. Clinical trials in humans seem warranted to test whether taurine deficiency might drive aging in humans.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "36352979",
+      "title": "Prevalence of tobacco-associated oral mucosal lesion in Hazaribagh population: A cross-sectional study.",
+      "authors": [
+        "Anand Choudhary",
+        "Pallavi Kesarwani",
+        "Sagnik Chakrabarty",
+        "Vijay K Yadav",
+        "Parul Srivastava"
+      ],
+      "year": "2022",
+      "journal": "Journal of family medicine and primary care",
+      "doi": "10.4103/jfmpc.jfmpc_1990_21",
+      "doi_link": "https://doi.org/10.4103/jfmpc.jfmpc_1990_21",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36352979",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Prevalence%20of%20tobacco-associated%20oral%20mucosal%20lesion%20in%20Hazaribagh%20population%3A%20A%20cross-sectional%20study%22",
+      "citations": {
+        "semantic_scholar": 10
+      },
+      "abstract": "BACKGROUND: Smoking and chewing tobacco carry significant risks for the development of oral cancer and premalignant lesions. The present study was conducted to find the prevalence of tobacco-related habits in Hazaribagh population and its association with oral mucosal lesion. METHODOLOGY: The present study was carried out on patients who visited the Department of Oral Medicine And Radiology, Hazaribagh College of Dental Sciences And Hospital. A total of 5,000 subjects were screened for tobacco-related habits and associated mucosal changes. Detailed clinical history about tobacco-related habits was obtained. Oral mucosal lesions were screened using the WHO format for diagnosis of oral lesions. The findings were tabulated and analyzed statistically. RESULTS: Of the 5,000 subjects enrolled for the study, 1,085 (21.7%) used tobacco in some forms. Habit of smoking tobacco was present among 273 (25.2%) and using smokeless tobacco among 811 (74.7%) individuals. Tobacco pouch keratosis (46.1%) was found to be most common lesion, followed by oral submucous fibrosis (OSMF) (16.1%), lichenoid reaction (14.1%), smokers palate/melanosis (12.2%), leukoplakia (7.2%), erythroplakia (2.3%), and oral cancer in (2%). CONCLUSION: The results provide insight into prevalent tobacco habits and associated oral mucosal lesions in Hazaribagh population. These may act as baseline data for the formulation of preventive programs and help future studies explore the prevalence of tobacco-associated lesions in vulnerable populations. Current knowledge, including findings from the present study, about the prevalence of tobacco use and various oral lesions associated with it may help primary health care physicians to promote among patients visiting them the awareness about the adverse effects of tobacco consumption and treatment options available for tobacco-related lesions at the early stage.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "36164557",
+      "title": "Generalized rough and fuzzy rough automata for semantic computing.",
+      "authors": [
+        "Swati Yadav",
+        "S P Tiwari",
+        "Mausam Kumari",
+        "Vijay K Yadav"
+      ],
+      "year": "2022",
+      "journal": "International journal of machine learning and cybernetics",
+      "doi": "10.1007/s13042-022-01637-0",
+      "doi_link": "https://doi.org/10.1007/s13042-022-01637-0",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36164557",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Generalized%20rough%20and%20fuzzy%20rough%20automata%20for%20semantic%20computing%22",
+      "citations": {
+        "semantic_scholar": 4
+      },
+      "abstract": "The classical automata, fuzzy finite automata, and rough finite state automata are some formal models of computing used to perform the task of computation and are considered to be the input device. These computational models are valid only for fixed input alphabets for which they are defined and, therefore, are less user-friendly and have limited applications. The semantic computing techniques provide a way to redefine them to improve their scope and applicability. In this paper, the concept of semantically equivalent concepts and semantically related concepts in information about real-world applications datasets are used to introduce and study two new formal models of computations with semantic computing (SC), namely, a rough finite-state automaton for SC and a fuzzy finite rough automaton for SC as extensions of rough finite-state automaton and fuzzy finite-state automaton, respectively, in two different ways. The traditional rough finite-state automata can not deal with situations when external alphabet or semantically equivalent concepts are given as inputs. The proposed rough finite-state automaton for SC can handle such situations and accept such inputs and is shown to have successful real-world applications. Similarly, a fuzzy finite rough automaton corresponding to a fuzzy automaton is also failed to process input alphabet different from their input alphabet, the proposed fuzzy finite rough automaton for SC corresponding to a given fuzzy finite automaton is capable of processing semantically related input, and external input alphabet information from the dataset obtained by real-world applications and provide better user experience and applicability as compared to classical fuzzy finite rough automaton.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "35339804",
+      "title": "Interactome of millet-based food matrices: A review.",
+      "authors": [
+        "Maharishi Tomar",
+        "Rakesh Bhardwaj",
+        "Reetu Verma",
+        "Sumer Pal Singh",
+        "Anil Dahuja",
+        "Veda Krishnan",
+        "Rekha Kansal",
+        "Vijay Kumar Yadav",
+        "Shelly Praveen",
+        "Archana Sachdev"
+      ],
+      "year": "2022",
+      "journal": "Food chemistry",
+      "doi": "10.1016/j.foodchem.2022.132636",
+      "doi_link": "https://doi.org/10.1016/j.foodchem.2022.132636",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35339804",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Interactome%20of%20millet-based%20food%20matrices%3A%20A%20review%22",
+      "citations": {
+        "crossref": 31
+      },
+      "abstract": "Millets are recently being recognized as emerging food ingredients with multifaceted applications. Whole grain flours made from millets, exhibit diverse chemical compositions, starch digestibility and physicochemical properties. A food matrix can be viewed as a section of food microstructure, commonly coinciding with a physical spatial domain that interacts or imparts specific functionalities to a particular food constituent. The complex millet-based food matrices can help individuals to attain nutritional benefits due to the intricate and unique digestive properties of these foods. This review helps to fundamentally understand the binary and ternary interactions of millet-based foods. Nutritional bioavailability and bioaccessibility are also discussed based on additive, synergistic, masking, the antagonistic or neutralizing effect of different food matrix components on each other and the surrounding medium. The molecular basis of these interactions and their effect on important functional attributes like starch retrogradation, gelling, pasting, water, and oil holding capacity is also discussed.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "35222658",
+      "title": "Role of Magnesium Supplementation in Children with West Syndrome: A Randomized Controlled Clinical Trial.",
+      "authors": [
+        "Vijay Kumar Yadav",
+        "Amrita Amrita",
+        "Sunita Yadav",
+        "Rajeev Kumar",
+        "Krishna Kumar Yadav"
+      ],
+      "year": "2022",
+      "journal": "Iranian journal of child neurology",
+      "doi": "10.22037/ijcn.v16i1.30480",
+      "doi_link": "https://doi.org/10.22037/ijcn.v16i1.30480",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35222658",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Role%20of%20Magnesium%20Supplementation%20in%20Children%20with%20West%20Syndrome%3A%20A%20Randomized%20Controlled%20Clinical%20Trial%22",
+      "citations": {
+        "semantic_scholar": 4
+      },
+      "abstract": "OBJECTIVES: West syndrome is a severe epileptic encephalopathy of young age. It is characterized by a clinico-electrical triad of infantile epileptic spasms, regression or arrest of psychomotor development, and hypsarrhythmia. In the last two decades, the large progress in the development of newer antiepileptic drugs has allowed us to have a vast choice of treatment options to control spasms, although they often fail to do so. Thus, there is a need to explore other treatment options. MATERIALS & METHODS: Subjects in this open-labelled randomized control trial were included newly diagnosed children of age between 3 months and 5 years of both genders. A total of 52 children were recruited and randomized into two groups: an intervention group (n=30) and a non-intervention group (n=22). Magnesium sulphate was provided for the intervention group but not for the non-intervention one. Both groups received the rest of the treatments, including adrenocorticotropic hormone and antiepileptic drugs. The follow-up period was three months, at the end of which a per-protocol analysis was performed. RESULTS: There was no significant difference in seizure control and neurodevelopmental outcome between both groups, but electroencephalogram significantly improved in the intervention group compared to the control. Also, the clinical response was better in patients with normal initial serum magnesium levels in the intervention group (p=0.003) than in other patients. CONCLUSION: Magnesium supplementation may be helpful in children with West syndrome.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "34905510",
+      "title": "Embryonic osteocalcin signaling determines lifelong adrenal steroidogenesis and homeostasis in the mouse.",
+      "authors": [
+        "Vijay K Yadav",
+        "Julian M Berger",
+        "Parminder Singh",
+        "Perumal Nagarajan",
+        "Gerard Karsenty"
+      ],
+      "year": "2022",
+      "journal": "The Journal of clinical investigation",
+      "doi": "10.1172/JCI153752",
+      "doi_link": "https://doi.org/10.1172/JCI153752",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34905510",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Embryonic%20osteocalcin%20signaling%20determines%20lifelong%20adrenal%20steroidogenesis%20and%20homeostasis%20in%20the%20mouse%22",
+      "citations": {
+        "semantic_scholar": 11
+      },
+      "abstract": "Through their ability to regulate gene expression in most organs, glucocorticoid (GC) hormones influence numerous physiological processes and are therefore key regulators of organismal homeostasis. In bone, GC hormones inhibit expression of the hormone Osteocalcin for poorly understood reasons. Here, we show that in a classical endocrine feedback loop, osteocalcin in return enhanced the biosynthesis of GC as well as mineralocorticoid hormones (adrenal steroidogenesis) in rodents and primates. Conversely, inactivation of osteocalcin signaling in adrenal glands significantly impaired adrenal growth and steroidogenesis in mice. Embryo-made osteocalcin was necessary for normal Sf1 expression in fetal adrenal cells and adrenal cell steroidogenic differentiation and therefore determined the number of steroidogenic cells present in the adrenal glands of adult animals. Embryonic, not postnatal, osteocalcin also governed adrenal growth, adrenal steroidogenesis, blood pressure, electrolyte equilibrium, and the rise in circulating corticosterone levels during the acute stress response in adult offspring. This osteocalcin-dependent regulation of adrenal development and steroidogenesis occurred even in the absence of a functional hypothalamus/pituitary/adrenal axis and explains why osteocalcin administration during pregnancy promoted adrenal growth and steroidogenesis and improved the survival of adrenocorticotropic hormone signaling-deficient animals. This study reveals that a bone-derived embryonic hormone influences lifelong adrenal functions and organismal homeostasis in the mouse.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "34088945",
+      "title": "Analysis of the ex-vivo transformation of semen, saliva and urine as they dry out using ATR-FTIR spectroscopy and chemometric approach.",
+      "authors": [
+        "Tanurup Das",
+        "Abhimanyu Harshey",
+        "Ankit Srivastava",
+        "Kriti Nigam",
+        "Vijay Kumar Yadav",
+        "Kapil Sharma",
+        "Arun Sharma"
+      ],
+      "year": "2021",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-021-91009-5",
+      "doi_link": "https://doi.org/10.1038/s41598-021-91009-5",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34088945",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Analysis%20of%20the%20ex-vivo%20transformation%20of%20semen%2C%20saliva%20and%20urine%20as%20they%20dry%20out%20using%20ATR-FTIR%20spectroscopy%20and%20chemometric%20approach%22",
+      "citations": {
+        "crossref": 21
+      },
+      "abstract": "The ex-vivo biochemical changes of different body fluids also referred as aging of fluids are potential marker for the estimation of Time since deposition. Infrared spectroscopy has great potential to reveal the biochemical changes in these fluids as previously reported by several researchers. The present study is focused to analyze the spectral changes in the ATR-FTIR spectra of three body fluids, commonly encountered in violent crimes i.e., semen, saliva, and urine as they dry out. The whole analytical timeline is divided into relatively slow phase I due to the major contribution of water and faster Phase II due to significant evaporation of water. Two spectral regions i.e., 3200-3400 cm-1 and 1600-1000 cm-1 are the major contributors to the spectra of these fluids. Several peaks in the spectral region between 1600 and 1000 cm-1 showed highly significant regression equation with a higher coefficient of determination values in Phase II in contrary to the slow passing Phase I. Principal component and Partial Least Square Regression analysis are the two chemometric tool used to estimate the time since deposition of the aforesaid fluids as they dry out. Additionally, this study potentially estimates the time since deposition of an offense from the aging of the body fluids at the early stages after its occurrence as well as works as the precursor for further studies on an extended timeframe.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "33759575",
+      "title": "Maternal vitamin B₁₂ in mice positively regulates bone, but not muscle mass and strength in post-weaning and mature offspring.",
+      "authors": [
+        "Parminder Singh",
+        "Svetalana Telnova",
+        "Bin Zhou",
+        "Abdalla D Mohamed",
+        "Vanessa De Mello",
+        "Henning Wackerhage",
+        "X Edward Guo",
+        "Amulya K Panda",
+        "Vijay K Yadav"
+      ],
+      "year": "2021",
+      "journal": "American journal of physiology. Regulatory, integrative and comparative physiology",
+      "doi": "10.1152/ajpregu.00355.2020",
+      "doi_link": "https://doi.org/10.1152/ajpregu.00355.2020",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33759575",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Maternal%20vitamin%20B%E2%82%81%E2%82%82%20in%20mice%20positively%20regulates%20bone%2C%20but%20not%20muscle%20mass%20and%20strength%20in%20post-weaning%20and%20mature%20offspring%22",
+      "citations": {
+        "crossref": 8
+      },
+      "abstract": "Vitamin B₁₂ deficiency has been shown to affect bone mass in rodents and negatively impact bone formation in humans. In this study using mouse models, we define the effect of B₁₂ supplementation in the wild-type mother and B₁₂ deficiency in a mouse genetic model (Gif-/- mice) during gestation on bone and muscle architecture and mechanical properties in the offspring. Analysis of bones from 4-wk-old offspring of the wild-type mother following vehicle or B₁₂ supplementation during gestation (from embryonic day 0.5 to 20.5) showed an increase in bone mass caused by an isolated increase in bone formation in the B₁₂-supplemented group compared with vehicle controls. Analysis of the effect of B₁₂ deficiency in the mother in a mouse genetic model (Gif-/- mice) on the long bone architecture of the offspring showed a compromised cortical and trabecular bone mass, which was completely prevented by a single injection of B₁₂ in the B₁₂-deficient Gif-/- mothers. Biomechanical analysis of long bones of the offspring born from B₁₂-supplemented wild-type mothers showed an increase in bone strength, and conversely, offspring born from B₁₂-deficient Gif-/- mothers revealed a compromised bone strength, which could be rescued by a single injection of B₁₂ in the B₁₂-deficient Gif-/- mother. Muscle structure and function analysis however revealed no significant effect on muscle mass, structure, and grip strength of B₁₂ deficiency or supplementation in Gif-/- mice compared with littermate controls. Together, these results demonstrate the beneficial effect of maternally derived B₁₂ in the regulation of bone structure and function in the offspring.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "32279580",
+      "title": "Forensic investigation of arson residue by infrared and Raman spectroscopy: From conventional to non-destructive techniques.",
+      "authors": [
+        "Vijay Kumar Yadav",
+        "Kriti Nigam",
+        "Ankit Srivastava"
+      ],
+      "year": "2020",
+      "journal": "Medicine, science, and the law",
+      "doi": "10.1177/0025802420914807",
+      "doi_link": "https://doi.org/10.1177/0025802420914807",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32279580",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Forensic%20investigation%20of%20arson%20residue%20by%20infrared%20and%20Raman%20spectroscopy%3A%20From%20conventional%20to%20non-destructive%20techniques%22",
+      "citations": {
+        "crossref": 14
+      },
+      "abstract": "Arson can result in highly challenging and complicated crime scenes. Much physical evidence undergoes chemical degradation because of the destructive nature of fire, while accelerants either completely burn or evaporate, and may be present in traces within any of the decomposed materials. To identify the original material and the accelerant involved, it is necessary to use advanced analytical techniques. Gas chromatography, with different detectors, is one of the most frequently used instruments in fire debris and accelerant analysis. Among other instruments, capillary electrophoresis and laser-induced thermal desorption Fourier transform mass spectrometry are two major contributors. Vibrational spectroscopy, including infrared absorption and Raman scattering, is one of the major non-destructive tools for the analysis of evidence because of its advantages over other spectroscopic techniques. Most studies involving vibrational spectroscopy (i.e. infrared and Raman spectroscopy) have focused on the identification of commonly found household materials, while very few studies have considered the identification of ignitable liquids. This article reviews studies based on an analysis of fire debris and accelerants by vibrational spectroscopic techniques and considers the limitations and future perspectives of arson investigations in forensic science.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "32078586",
+      "title": "Muscle-derived interleukin 6 increases exercise capacity by signaling in osteoblasts.",
+      "authors": [
+        "Subrata Chowdhury",
+        "Logan Schulz",
+        "Biagio Palmisano",
+        "Parminder Singh",
+        "Julian M Berger",
+        "Vijay K Yadav",
+        "Paula Mera",
+        "Helga Ellingsgaard",
+        "Juan Hidalgo",
+        "Jens Brüning",
+        "Gerard Karsenty"
+      ],
+      "year": "2020",
+      "journal": "The Journal of clinical investigation",
+      "doi": "10.1172/JCI133572",
+      "doi_link": "https://doi.org/10.1172/JCI133572",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32078586",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Muscle-derived%20interleukin%206%20increases%20exercise%20capacity%20by%20signaling%20in%20osteoblasts%22",
+      "citations": {
+        "semantic_scholar": 98
+      },
+      "abstract": "Given the numerous health benefits of exercise, understanding how exercise capacity is regulated is a question of paramount importance. Circulating interleukin 6 (IL-6) levels surge during exercise and IL-6 favors exercise capacity. However, neither the cellular origin of circulating IL-6 during exercise nor the means by which this cytokine enhances exercise capacity has been formally established yet. Here we show through genetic means that the majority of circulating IL-6 detectable during exercise originates from muscle and that to increase exercise capacity, IL-6 must signal in osteoblasts to favor osteoclast differentiation and the release of bioactive osteocalcin in the general circulation. This explains why mice lacking the IL-6 receptor only in osteoblasts exhibit a deficit in exercise capacity of similar severity to the one seen in mice lacking muscle-derived IL-6 (mIL-6), and why this deficit is correctable by osteocalcin but not by IL-6. Furthermore, in agreement with the notion that IL-6 acts through osteocalcin, we demonstrate that mIL-6 promotes nutrient uptake and catabolism into myofibers during exercise in an osteocalcin-dependent manner. Finally, we show that the crosstalk between osteocalcin and IL-6 is conserved between rodents and humans. This study provides evidence that a muscle-bone-muscle endocrine axis is necessary to increase muscle function during exercise in rodents and humans.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper21",
+      "publication_id": "31523009",
+      "title": "Mediation of the Acute Stress Response by the Skeleton.",
+      "authors": [
+        "Julian Meyer Berger",
+        "Parminder Singh",
+        "Lori Khrimian",
+        "Donald A Morgan",
+        "Subrata Chowdhury",
+        "Emilio Arteaga-Solis",
+        "Tamas L Horvath",
+        "Ana I Domingos",
+        "Anna L Marsland",
+        "Vijay Kumar Yadav",
+        "Kamal Rahmouni",
+        "Xiao-Bing Gao",
+        "Gerard Karsenty"
+      ],
+      "year": "2019",
+      "journal": "Cell metabolism",
+      "doi": "10.1016/j.cmet.2019.08.012",
+      "doi_link": "https://doi.org/10.1016/j.cmet.2019.08.012",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31523009",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mediation%20of%20the%20Acute%20Stress%20Response%20by%20the%20Skeleton%22",
+      "citations": {
+        "semantic_scholar": 123
+      },
+      "abstract": "We hypothesized that bone evolved, in part, to enhance the ability of bony vertebrates to escape danger in the wild. In support of this notion, we show here that a bone-derived signal is necessary to develop an acute stress response (ASR). Indeed, exposure to various types of stressors in mice, rats (rodents), and humans leads to a rapid and selective surge of circulating bioactive osteocalcin because stressors favor the uptake by osteoblasts of glutamate, which prevents inactivation of osteocalcin prior to its secretion. Osteocalcin permits manifestations of the ASR to unfold by signaling in post-synaptic parasympathetic neurons to inhibit their activity, thereby leaving the sympathetic tone unopposed. Like wild-type animals, adrenalectomized rodents and adrenal-insufficient patients can develop an ASR, and genetic studies suggest that this is due to their high circulating osteocalcin levels. We propose that osteocalcin defines a bony-vertebrate-specific endocrine mediation of the ASR.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper22",
+      "publication_id": "30971820",
+      "title": "Developmental origin, functional maintenance and genetic rescue of osteoclasts.",
+      "authors": [
+        "Christian E Jacome-Galarza",
+        "Gulce I Percin",
+        "James T Muller",
+        "Elvira Mass",
+        "Tomi Lazarov",
+        "Jiri Eitler",
+        "Martina Rauner",
+        "Vijay K Yadav",
+        "Lucile Crozet",
+        "Mathieu Bohm",
+        "Pierre-Louis Loyher",
+        "Gerard Karsenty",
+        "Claudia Waskow",
+        "Frederic Geissmann"
+      ],
+      "year": "2019",
+      "journal": "Nature",
+      "doi": "10.1038/s41586-019-1105-7",
+      "doi_link": "https://doi.org/10.1038/s41586-019-1105-7",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30971820",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Developmental%20origin%2C%20functional%20maintenance%20and%20genetic%20rescue%20of%20osteoclasts%22",
+      "citations": {
+        "crossref": 384
+      },
+      "abstract": "Osteoclasts are multinucleated giant cells that resorb bone, ensuring development and continuous remodelling of the skeleton and the bone marrow haematopoietic niche. Defective osteoclast activity leads to osteopetrosis and bone marrow failure1-9, whereas excess activity can contribute to bone loss and osteoporosis10. Osteopetrosis can be partially treated by bone marrow transplantation in humans and mice11-18, consistent with a haematopoietic origin of osteoclasts13,16,19 and studies that suggest that they develop by fusion of monocytic precursors derived from haematopoietic stem cells in the presence of CSF1 and RANK ligand1,20. However, the developmental origin and lifespan of osteoclasts, and the mechanisms that ensure maintenance of osteoclast function throughout life in vivo remain largely unexplored. Here we report that osteoclasts that colonize fetal ossification centres originate from embryonic erythro-myeloid progenitors21,22. These erythro-myeloid progenitor-derived osteoclasts are required for normal bone development and tooth eruption. Yet, timely transfusion of haematopoietic-stem-cell-derived monocytic cells in newborn mice is sufficient to rescue bone development in early-onset autosomal recessive osteopetrosis. We also found that the postnatal maintenance of osteoclasts, bone mass and the bone marrow cavity involve iterative fusion of circulating blood monocytic cells with long-lived osteoclast syncytia. As a consequence, parabiosis or transfusion of monocytic cells results in long-term gene transfer in osteoclasts in the absence of haematopoietic-stem-cell chimerism, and can rescue an adult-onset osteopetrotic phenotype caused by cathepsin K deficiency23,24. In sum, our results identify the developmental origin of osteoclasts and a mechanism that controls their maintenance in bones after birth. These data suggest strategies to rescue osteoclast deficiency in osteopetrosis and to modulate osteoclast activity in vivo.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper23",
+      "publication_id": "30797058",
+      "title": "Development and characterization of supramolecular calcitonin assembly and assessment of its interactions with the bone remodelling process.",
+      "authors": [
+        "Kapil Manglani",
+        "Viji Vijayan",
+        "Chandramani Pathak",
+        "Mayuri Khandelwal",
+        "Parminder Singh",
+        "Stalin Chellappa",
+        "Vijay K Yadav",
+        "Avadhesha Surolia",
+        "Sarika Gupta"
+      ],
+      "year": "2019",
+      "journal": "Bone",
+      "doi": "10.1016/j.bone.2019.02.019",
+      "doi_link": "https://doi.org/10.1016/j.bone.2019.02.019",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30797058",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Development%20and%20characterization%20of%20supramolecular%20calcitonin%20assembly%20and%20assessment%20of%20its%20interactions%20with%20the%20bone%20remodelling%20process%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "Osteoporosis is the most common metabolic bone disease, which poses an immense socio-economic burden on the society. Human calcitonin, though safe, is not considered as a therapeutic option because of its high tendency to self-associate to form amyloid fibrils thereby affecting its potency. To circumvent this issue we harnessed the inherent capacity of aggregation and developed an assemblage of human calcitonin monomers, [Supramolecular Calcitonin Assembly (SCAI)], which releases biologically active calcitonin monomers in a sustained manner for a period of at least three weeks. AFM and FT-IR analysis showed that SCA-I is amorphous aggregates of calcitonin monomers. Both SCA-I and monomer released from it demonstrated superior anti-osteoclast activity and proteolytic stability in-vitro. SCA-I upon single injection significantly improved bone formation markers and reduced bone resorption markers in ovariectomized (OVX) rat model of postmenopausal osteoporosis. Micro-CT analysis revealed that calcitonin released from SCA-I exhibits its beneficial effect on cortical bone more profoundly compared to trabecular bone. This study demonstrates that SCA-I is more effective compared to the human calcitonin monomers on osteoclasts and has site-specific effect on bone in a model of post-menopausal osteoporosis. This approach opens up an innovative way to use and study the function of human calcitonin.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper24",
+      "publication_id": "30622275",
+      "title": "Publisher Correction: Serotonin signals through a gut-liver axis to regulate hepatic steatosis.",
+      "authors": [
+        "Wonsuk Choi",
+        "Jun Namkung",
+        "Inseon Hwang",
+        "Hyeongseok Kim",
+        "Ajin Lim",
+        "Hye Jung Park",
+        "Hye Won Lee",
+        "Kwang-Hyub Han",
+        "Seongyeol Park",
+        "Ji-Seon Jeong",
+        "Geul Bang",
+        "Young Hwan Kim",
+        "Vijay K Yadav",
+        "Gerard Karsenty",
+        "Young Seok Ju",
+        "Chan Choi",
+        "Jae Myoung Suh",
+        "Jun Yong Park",
+        "Sangkyu Park",
+        "Hail Kim"
+      ],
+      "year": "2019",
+      "journal": "Nature communications",
+      "doi": "10.1038/s41467-018-08085-x",
+      "doi_link": "https://doi.org/10.1038/s41467-018-08085-x",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30622275",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Publisher%20Correction%3A%20Serotonin%20signals%20through%20a%20gut-liver%20axis%20to%20regulate%20hepatic%20steatosis%22",
+      "citations": {
+        "crossref": 3
+      },
+      "abstract": "The originally published version of this Article contained an error in Figure 2. In panel g, the image of brown adipose tissue from SCD-fed Tph1 GKO mice (top-right) was inadvertently replaced with the equivalent image of SCD-fed WT mice (top-left) during assembly of the figure. This error has now corrected in both the PDF and HTML versions of the Article.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper25",
+      "publication_id": "30610449",
+      "title": "Genetic data for PowerPlex 21™ autosomal and PowerPlex 23 Y-STR™ loci from population of the state of Uttar Pradesh, India.",
+      "authors": [
+        "Ankit Srivastava",
+        "Ramkishan Kumawat",
+        "Shivani Dixit",
+        "Kamlesh Kaitholia",
+        "Divya Shrivastava",
+        "Vijay Kumar Yadav",
+        "Kriti Nigam",
+        "Harsh Sharma",
+        "Veena Ben Trivedi",
+        "Gyaneshwer Chaubey",
+        "Pankaj Shrivastava"
+      ],
+      "year": "2019",
+      "journal": "International journal of legal medicine",
+      "doi": "10.1007/s00414-018-01993-z",
+      "doi_link": "https://doi.org/10.1007/s00414-018-01993-z",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30610449",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Genetic%20data%20for%20PowerPlex%2021%E2%84%A2%20autosomal%20and%20PowerPlex%2023%20Y-STR%E2%84%A2%20loci%20from%20population%20of%20the%20state%20of%20Uttar%20Pradesh%2C%20India%22",
+      "citations": {
+        "semantic_scholar": 36
+      },
+      "abstract": "In the present study, the statistical forensic parameters were evaluated for the loci present in PowerPlex 21 autosomal and PowerPlex 23 Y-STR multiplex systems in 168 unrelated individuals living in the state of Uttar Pradesh, India. The combined discrimination power (CPD) and combined exclusion power (CPE) was 1 and 0.999999 respectively for all 20 autosomal STR loci. Penta E showed the greatest (0.980) and CSF1PO showed the lowest (0.855) power of discrimination in the studied population. The haplotype diversity for 23 Y-STR loci was observed to be 0.999. The study also presents the first global report on polymorphism on D1S1656, D6S1043 and D12S391 autosomal STR loci in the Indian population. The resulting data revealed that these STR multiplex systems are highly polymorphic and can be used for forensic purposes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper26",
+      "publication_id": "30553769",
+      "title": "Deletion of myeloid IRS2 enhances adipose tissue sympathetic nerve function and limits obesity.",
+      "authors": [
+        "Marie-Therese Rached",
+        "Steven J Millership",
+        "Silvia M A Pedroni",
+        "Agharul I Choudhury",
+        "Ana S H Costa",
+        "Darran G Hardy",
+        "Justyna A Glegola",
+        "Elaine E Irvine",
+        "Colin Selman",
+        "Megan C Woodberry",
+        "Vijay K Yadav",
+        "Sanjay Khadayate",
+        "Antonio Vidal-Puig",
+        "Samuel Virtue",
+        "Christian Frezza",
+        "Dominic J Withers"
+      ],
+      "year": "2019",
+      "journal": "Molecular metabolism",
+      "doi": "10.1016/j.molmet.2018.11.010",
+      "doi_link": "https://doi.org/10.1016/j.molmet.2018.11.010",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30553769",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Deletion%20of%20myeloid%20IRS2%20enhances%20adipose%20tissue%20sympathetic%20nerve%20function%20and%20limits%20obesity%22",
+      "citations": {
+        "semantic_scholar": 20
+      },
+      "abstract": "OBJECTIVE: Sympathetic nervous system and immune cell interactions play key roles in the regulation of metabolism. For example, recent convergent studies have shown that macrophages regulate obesity through brown adipose tissue (BAT) activation and beiging of white adipose tissue (WAT) via effects upon local catecholamine availability. However, these studies have raised issues about the underlying mechanisms involved including questions regarding the production of catecholamines by macrophages, the role of macrophage polarization state and the underlying intracellular signaling pathways in macrophages that might mediate these effects. METHODS: To address such issues we generated mice lacking Irs2, which mediates the effects of insulin and interleukin 4, specifically in LyzM expressing cells (Irs2LyzM-/- mice). RESULTS: These animals displayed obesity resistance and preservation of glucose homeostasis on high fat diet feeding due to increased energy expenditure via enhanced BAT activity and WAT beiging. Macrophages per se did not produce catecholamines but Irs2LyzM-/- mice displayed increased sympathetic nerve density and catecholamine availability in adipose tissue. Irs2-deficient macrophages displayed an anti-inflammatory transcriptional profile and alterations in genes involved in scavenging catecholamines and supporting increased sympathetic innervation. CONCLUSIONS: Our studies identify a critical macrophage signaling pathway involved in the regulation of adipose tissue sympathetic nerve function that, in turn, mediates key neuroimmune effects upon systemic metabolism. The insights gained may open therapeutic opportunities for the treatment of obesity.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper27",
+      "publication_id": "30518775",
+      "title": "Generation of a highly efficient and tissue-specific tryptophan hydroxylase 1 knockout mouse model.",
+      "authors": [
+        "Hyeongseok Kim",
+        "Yeong Gi Kim",
+        "Wonsuk Choi",
+        "Joon Ho Moon",
+        "Inseon Hwang",
+        "Kyuho Kim",
+        "Vijay K Yadav",
+        "Gerard Karsenty",
+        "Ji-Seon Jeong",
+        "Hail Kim"
+      ],
+      "year": "2018",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-018-36097-6",
+      "doi_link": "https://doi.org/10.1038/s41598-018-36097-6",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30518775",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Generation%20of%20a%20highly%20efficient%20and%20tissue-specific%20tryptophan%20hydroxylase%201%20knockout%20mouse%20model%22",
+      "citations": {
+        "crossref": 14
+      },
+      "abstract": "Recent studies on tissue-autonomous serotonin (5-hydroxytryptamine [5-HT]) function have identified new roles for 5-HT in peripheral organs. Most of these studies were performed by crossing mice carrying the Tph1tm1Kry allele with tissue specific Cre mice. In the present study, we found that 5-HT production was not completely abolished in Tph1tm1Kry KO mice. The residual 5-HT production in Tph1tm1Kry KO mice is attributed to the expression of a truncated form of TPH1 containing the catalytic domain. Hence, in an effort to obtain mice with a Tph1 null phenotype, we generated mice harboring a new Tph1 floxed allele, Tph1tm1c, targeting exons 5 and 6 which encode the catalytic domain of TPH1. By crossing the new Tph1 floxed mice with villin-Cre or insulin-Cre mice, we observed near-complete ablation of 5-HT production in the intestine and β cells. In conclusion, this improved Tph1 floxed mouse model will serve as useful and accurate tool for analyzing peripheral 5-HT system.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper28",
+      "publication_id": "30446669",
+      "title": "Serotonin signals through a gut-liver axis to regulate hepatic steatosis.",
+      "authors": [
+        "Wonsuk Choi",
+        "Jun Namkung",
+        "Inseon Hwang",
+        "Hyeongseok Kim",
+        "Ajin Lim",
+        "Hye Jung Park",
+        "Hye Won Lee",
+        "Kwang-Hyub Han",
+        "Seongyeol Park",
+        "Ji-Seon Jeong",
+        "Geul Bang",
+        "Young Hwan Kim",
+        "Vijay K Yadav",
+        "Gerard Karsenty",
+        "Young Seok Ju",
+        "Chan Choi",
+        "Jae Myoung Suh",
+        "Jun Yong Park",
+        "Sangkyu Park",
+        "Hail Kim"
+      ],
+      "year": "2018",
+      "journal": "Nature communications",
+      "doi": "10.1038/s41467-018-07287-7",
+      "doi_link": "https://doi.org/10.1038/s41467-018-07287-7",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30446669",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Serotonin%20signals%20through%20a%20gut-liver%20axis%20to%20regulate%20hepatic%20steatosis%22",
+      "citations": {
+        "crossref": 119
+      },
+      "abstract": "Nonalcoholic fatty liver disease (NAFLD) is increasing in worldwide prevalence, closely tracking the obesity epidemic, but specific pharmaceutical treatments for NAFLD are lacking. Defining the key molecular pathways underlying the pathogenesis of NAFLD is essential for developing new drugs. Here we demonstrate that inhibition of gut-derived serotonin synthesis ameliorates hepatic steatosis through a reduction in liver serotonin receptor 2A (HTR2A) signaling. Local serotonin concentrations in the portal blood, which can directly travel to and affect the liver, are selectively increased by high-fat diet (HFD) feeding in mice. Both gut-specific Tph1 knockout mice and liver-specific Htr2a knockout mice are resistant to HFD-induced hepatic steatosis, without affecting systemic energy homeostasis. Moreover, selective HTR2A antagonist treatment prevents HFD-induced hepatic steatosis. Thus, the gut TPH1-liver HTR2A axis shows promise as a drug target to ameliorate NAFLD with minimal systemic metabolic effects.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper29",
+      "publication_id": "28851986",
+      "title": "Skeletal Site-specific Changes in Bone Mass in a Genetic Mouse Model for Human 15q11-13 Duplication Seen in Autism.",
+      "authors": [
+        "Kirsty E Lewis",
+        "Kunal Sharan",
+        "Toru Takumi",
+        "Vijay K Yadav"
+      ],
+      "year": "2017",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-017-09921-8",
+      "doi_link": "https://doi.org/10.1038/s41598-017-09921-8",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28851986",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Skeletal%20Site-specific%20Changes%20in%20Bone%20Mass%20in%20a%20Genetic%20Mouse%20Model%20for%20Human%2015q11-13%20Duplication%20Seen%20in%20Autism%22",
+      "citations": {
+        "semantic_scholar": 19
+      },
+      "abstract": "Children suffering from autism have been reported to have low bone mineral density and increased risk for fracture, yet the cellular origin of the bone phenotype remains unknown. Here we have utilized a mouse model of autism that duplicates 6.3 Mb region of chromosome 7 (Dp/+) corresponding to a region of chromosome 15q11-13, duplication of which is recurrent in humans to characterize the bone phenotype. Paternally inherited Dp/+ (patDp/+) mice showed expected increases in the gene expression in bone, normal postnatal growth and body weight acquisition compared to the littermate controls. Four weeks-old patDp/+ mice develop a low bone mass phenotype in the appendicular but not the axial skeleton compared to the littermate controls. This low bone mass in the mutant mice was secondary to a decrease in the number of osteoblasts and bone formation rate while the osteoclasts remained relatively unaffected. Further in vitro cell culture experiments and gene expression analysis revealed a major defect in the proliferation, differentiation and mineralization abilities of patDp/+ osteoblasts while osteoclast differentiation remained unchanged compared to controls. This study therefore characterizes the structural and cellular bone phenotype in a mouse model of autism that can be further utilized to investigate therapeutic avenues to treat bone fractures in children with autism.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper30",
+      "publication_id": "28512916",
+      "title": "Regulation of bone mass through pineal-derived melatonin-MT2 receptor pathway.",
+      "authors": [
+        "Kunal Sharan",
+        "Kirsty Lewis",
+        "Takahisa Furukawa",
+        "Vijay K Yadav"
+      ],
+      "year": "2017",
+      "journal": "Journal of pineal research",
+      "doi": "10.1111/jpi.12423",
+      "doi_link": "https://doi.org/10.1111/jpi.12423",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28512916",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Regulation%20of%20bone%20mass%20through%20pineal-derived%20melatonin-MT2%20receptor%20pathway%22",
+      "citations": {
+        "semantic_scholar": 97
+      },
+      "abstract": "Tryptophan, an essential amino acid through a series of enzymatic reactions gives rise to various metabolites, viz. serotonin and melatonin, that regulate distinct biological functions. We show here that tryptophan metabolism in the pineal gland favors bone mass accrual through production of melatonin, a pineal-derived neurohormone. Pineal gland-specific deletion of Tph1, the enzyme that catalyzes the first step in the melatonin biosynthesis lead to a decrease in melatonin levels and a low bone mass due to an isolated decrease in bone formation while bone resorption parameters remained unaffected. Skeletal analysis of the mice deficient in MT1 or MT2 melatonin receptors showed a low bone mass in MT2-/- mice while MT1-/- mice had a normal bone mass compared to the WT mice. This low bone mass in the MT2-/- mice was due to an isolated decrease in osteoblast numbers and bone formation. In vitro assays of the osteoblast cultures derived from the MT1-/- and MT2-/- mice showed a cell intrinsic defect in the proliferation, differentiation and mineralization abilities of MT2-/- osteoblasts compared to WT counterparts, and the mutant cells did not respond to melatonin addition. Finally, we demonstrate that daily oral administration of melatonin can increase bone accrual during growth and can cure ovariectomy-induced structural and functional degeneration of bone by specifically increasing bone formation. By identifying pineal-derived melatonin as a regulator of bone mass through MT2 receptors, this study expands the role played by tryptophan derivatives in the regulation of bone mass and underscores its therapeutic relevance in postmenopausal osteoporosis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper31",
+      "publication_id": "26512648",
+      "title": "Integrated Bioinformatics, Environmental Epidemiologic and Genomic Approaches to Identify Environmental and Molecular Links between Endometriosis and Breast Cancer.",
+      "authors": [
+        "Deodutta Roy",
+        "Marisa Morgan",
+        "Changwon Yoo",
+        "Alok Deoraj",
+        "Sandhya Roy",
+        "Vijay Kumar Yadav",
+        "Mohannad Garoub",
+        "Hamza Assaggaf",
+        "Mayur Doke"
+      ],
+      "year": "2015",
+      "journal": "International journal of molecular sciences",
+      "doi": "10.3390/ijms161025285",
+      "doi_link": "https://doi.org/10.3390/ijms161025285",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26512648",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Integrated%20Bioinformatics%2C%20Environmental%20Epidemiologic%20and%20Genomic%20Approaches%20to%20Identify%20Environmental%20and%20Molecular%20Links%20between%20Endometriosis%20and%20Breast%20Cancer%22",
+      "citations": {
+        "crossref": 51
+      },
+      "abstract": "We present a combined environmental epidemiologic, genomic, and bioinformatics approach to identify: exposure of environmental chemicals with estrogenic activity; epidemiologic association between endocrine disrupting chemical (EDC) and health effects, such as, breast cancer or endometriosis; and gene-EDC interactions and disease associations. Human exposure measurement and modeling confirmed estrogenic activity of three selected class of environmental chemicals, polychlorinated biphenyls (PCBs), bisphenols (BPs), and phthalates. Meta-analysis showed that PCBs exposure, not Bisphenol A (BPA) and phthalates, increased the summary odds ratio for breast cancer and endometriosis. Bioinformatics analysis of gene-EDC interactions and disease associations identified several hundred genes that were altered by exposure to PCBs, phthalate or BPA. EDCs-modified genes in breast neoplasms and endometriosis are part of steroid hormone signaling and inflammation pathways. All three EDCs-PCB 153, phthalates, and BPA influenced five common genes-CYP19A1, EGFR, ESR2, FOS, and IGF1-in breast cancer as well as in endometriosis. These genes are environmentally and estrogen responsive, altered in human breast and uterine tumors and endometriosis lesions, and part of Mitogen Activated Protein Kinase (MAPK) signaling pathways in cancer. Our findings suggest that breast cancer and endometriosis share some common environmental and molecular risk factors.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper32",
+      "publication_id": "25864946",
+      "title": "Regulation of systemic energy homeostasis by serotonin in adipose tissues.",
+      "authors": [
+        "Chang-Myung Oh",
+        "Jun Namkung",
+        "Younghoon Go",
+        "Ko Eun Shong",
+        "Kyuho Kim",
+        "Hyeongseok Kim",
+        "Bo-Yoon Park",
+        "Ho Won Lee",
+        "Yong Hyun Jeon",
+        "Junghan Song",
+        "Minho Shong",
+        "Vijay K Yadav",
+        "Gerard Karsenty",
+        "Shingo Kajimura",
+        "In-Kyu Lee",
+        "Sangkyu Park",
+        "Hail Kim"
+      ],
+      "year": "2015",
+      "journal": "Nature communications",
+      "doi": "10.1038/ncomms7794",
+      "doi_link": "https://doi.org/10.1038/ncomms7794",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25864946",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Regulation%20of%20systemic%20energy%20homeostasis%20by%20serotonin%20in%20adipose%20tissues%22",
+      "citations": {
+        "crossref": 201
+      },
+      "abstract": "Central serotonin (5-HT) is an anorexigenic neurotransmitter in the brain. However, accumulating evidence suggests peripheral 5-HT may affect organismal energy homeostasis. Here we show 5-HT regulates white and brown adipose tissue function. Pharmacological inhibition of 5-HT synthesis leads to inhibition of lipogenesis in epididymal white adipose tissue (WAT), induction of browning in inguinal WAT and activation of adaptive thermogenesis in brown adipose tissue (BAT). Mice with inducible Tph1 KO in adipose tissues exhibit a similar phenotype as mice in which 5-HT synthesis is inhibited pharmacologically, suggesting 5-HT has localized effects on adipose tissues. In addition, Htr3a KO mice exhibit increased energy expenditure and reduced weight gain when fed a high-fat diet. Treatment with an Htr2a antagonist reduces lipid accumulation in 3T3-L1 adipocytes. These data suggest important roles for adipocyte-derived 5-HT in controlling energy homeostasis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper33",
+      "publication_id": "25745223",
+      "title": "Improvement of efficiency of oil extraction from wild apricot kernels by using enzymes.",
+      "authors": [
+        "Tejpal Singh Bisht",
+        "Satish Kumar Sharma",
+        "Ramesh Chandra Sati",
+        "Virendra Kumar Rao",
+        "Vijay Kumar Yadav",
+        "Anil Kumar Dixit",
+        "Ashok Kumar Sharma",
+        "Chandra Shekhar Chopra"
+      ],
+      "year": "2015",
+      "journal": "Journal of food science and technology",
+      "doi": "10.1007/s13197-013-1155-z",
+      "doi_link": "https://doi.org/10.1007/s13197-013-1155-z",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25745223",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Improvement%20of%20efficiency%20of%20oil%20extraction%20from%20wild%20apricot%20kernels%20by%20using%20enzymes%22",
+      "citations": {
+        "crossref": 23
+      },
+      "abstract": "An experiment was conducted to evaluate and standardize the protocol for enhancing recovery of oil and quality from cold pressed wild apricot kernels by using various enzymes. Wild apricot kernels were ground into powder in a grinder. Different lots of 3 kg powdered kernel were prepared and treated with different concentrations of enzyme solutions viz. Pectazyme (Pectinase), Mashzyme (Cellulase) and Pectazyme + Mashzyme. Kernel powder mixed with enzyme solutions were kept for 2 h at 50(±2) °C temperature for enzymatic treatment before its use for oil extraction through oil expeller. Results indicate that use of enzymes resulted in enhancement of oil recovery by 9.00-14.22 %. Maximum oil recovery was observed at 0.3-0.4 % enzyme concentration for both the enzymes individually, as well as in combination. All the three enzymatic treatments resulted in increasing oil yield. However, with 0.3 % (Pectazyme + Mashzyme) combination, maximum oil recovery of 47.33 % could be observed against were 33.11 % in control. The oil content left (wasted) in the cake and residue were reduced from 11.67 and 11.60 % to 7.31 and 2.72 % respectively, thus showing a high increase in efficiency of oil recovery from wild apricot kernels. Quality characteristics indicate that the oil quality was not adversely affected by enzymatic treatment. It was concluded treatment of powdered wild apricot kernels with 0.3 % (Pectazyme + Mashzyme) combination was highly effective in increasing oil recovery by 14.22 % without adversely affecting the quality and thus may be commercially used by the industry for reducing wastage of highly precious oil in the cake.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper34",
+      "publication_id": "25426873",
+      "title": "Functional role of serotonin in insulin secretion in a diet-induced insulin-resistant state.",
+      "authors": [
+        "Kyuho Kim",
+        "Chang-Myung Oh",
+        "Mica Ohara-Imaizumi",
+        "Sangkyu Park",
+        "Jun Namkung",
+        "Vijay K Yadav",
+        "Natalia A Tamarina",
+        "Michael W Roe",
+        "Louis H Philipson",
+        "Gerard Karsenty",
+        "Shinya Nagamatsu",
+        "Michael S German",
+        "Hail Kim"
+      ],
+      "year": "2015",
+      "journal": "Endocrinology",
+      "doi": "10.1210/en.2014-1687",
+      "doi_link": "https://doi.org/10.1210/en.2014-1687",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25426873",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Functional%20role%20of%20serotonin%20in%20insulin%20secretion%20in%20a%20diet-induced%20insulin-resistant%20state%22",
+      "citations": {
+        "crossref": 112
+      },
+      "abstract": "The physiological role of serotonin, or 5-hydroxytryptamine (5-HT), in pancreatic β-cell function was previously elucidated using a pregnant mouse model. During pregnancy, 5-HT increases β-cell proliferation and glucose-stimulated insulin secretion (GSIS) through the Gαq-coupled 5-HT2b receptor (Htr2b) and the 5-HT3 receptor (Htr3), a ligand-gated cation channel, respectively. However, the role of 5-HT in β-cell function in an insulin-resistant state has yet to be elucidated. Here, we characterized the metabolic phenotypes of β-cell-specific Htr2b(-/-) (Htr2b βKO), Htr3a(-/-) (Htr3a knock-out [KO]), and β-cell-specific tryptophan hydroxylase 1 (Tph1)(-/-) (Tph1 βKO) mice on a high-fat diet (HFD). Htr2b βKO, Htr3a KO, and Tph1 βKO mice exhibited normal glucose tolerance on a standard chow diet. After 6 weeks on an HFD, beginning at 4 weeks of age, both Htr3a KO and Tph1 βKO mice developed glucose intolerance, but Htr2b βKO mice remained normoglycemic. Pancreas perfusion assays revealed defective first-phase insulin secretion in Htr3a KO mice. GSIS was impaired in islets isolated from HFD-fed Htr3a KO and Tph1 βKO mice, and 5-HT treatment improved insulin secretion from Tph1 βKO islets but not from Htr3a KO islets. Tph1 and Htr3a gene expression in pancreatic islets was not affected by an HFD, and immunostaining could not detect 5-HT in pancreatic islets from mice fed an HFD. Taken together, these results demonstrate that basal 5-HT levels in β-cells play a role in GSIS through Htr3, which becomes more evident in a diet-induced insulin-resistant state.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper35",
+      "publication_id": "25256766",
+      "title": "Hypothalamic control of bone metabolism.",
+      "authors": [
+        "Kunal Sharan",
+        "Vijay K Yadav"
+      ],
+      "year": "2014",
+      "journal": "Best practice & research. Clinical endocrinology & metabolism",
+      "doi": "10.1016/j.beem.2014.04.003",
+      "doi_link": "https://doi.org/10.1016/j.beem.2014.04.003",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25256766",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Hypothalamic%20control%20of%20bone%20metabolism%22",
+      "citations": {
+        "crossref": 27
+      },
+      "abstract": "Bones are structures in vertebrates that provide support to organs, protect soft organs, and give them shape and defined features, functions that are essential for their survival. To perform these functions, bones are constantly renewed throughout life. The process through which bones are renewed is known as bone remodeling, an energy demanding process sensitive to changes in energy homeostasis of the organism. A close interplay takes place between the diversity of nutritional cues and metabolic signals with different elements of the hypothalamic circuits to co-ordinate energy metabolism with the regulation of bone mass. In this review, we focus on how mouse and human genetics have elucidated the roles of hormonal signals and neural circuits that originate in, or impinge on, the hypothalamus in the regulation of bone mass. This will help to understand the mechanisms whereby regulation of bone is gated and dynamically regulated by the hypothalamus.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper36",
+      "publication_id": "24950023",
+      "title": "Central genes, pathways and modules that regulate bone mass.",
+      "authors": [
+        "Isabel Quiros-Gonzalez",
+        "Vijay K Yadav"
+      ],
+      "year": "2014",
+      "journal": "Archives of biochemistry and biophysics",
+      "doi": "10.1016/j.abb.2014.06.005",
+      "doi_link": "https://doi.org/10.1016/j.abb.2014.06.005",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24950023",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Central%20genes%2C%20pathways%20and%20modules%20that%20regulate%20bone%20mass%22",
+      "citations": {
+        "semantic_scholar": 30
+      },
+      "abstract": "Bones are structures that give the shape and defined features to vertebrates, protect several soft organs and perform multiple endocrine influences on other organs. To achieve these functions bones are first modeled early during life and then constantly remodeled throughout life. The process of bone (re)modeling happens simultaneously at multitude of locations in the skeleton and ensures that vertebrates have a mechanically strong yet a flexible skeleton to the most part of their life. Given the extent of its occurrence in the body, bone remodeling is a highly energy demanding process and is co-ordinated with other physiological processes as diverse as energy metabolism, sleep-wake cycle and reproduction. Neuronal circuits in the brain play a very important role in the coordination of bone remodeling with other organ system functions, and perform this function in sync with environmental and peripheral hormonal cues. In this review, we will focus on the roles of hormonal signals and neural circuits that originate in, or impinge on, the brain in the regulation of bone mass. We will provide herein an updated view of how advances in molecular genetics have refined the neural circuits involved in the regulation of bone mass, from the whole brain level to the specific neuronal populations and their neurotransmitters. This will help to understand the mechanisms whereby vertebrate brain regulates bone mass by fine-tuning metabolic signals that originate in the brain or elsewhere in the body.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper37",
+      "publication_id": "24911144",
+      "title": "Vitamin B₁₂-dependent taurine synthesis regulates growth and bone mass.",
+      "authors": [
+        "Pablo Roman-Garcia",
+        "Isabel Quiros-Gonzalez",
+        "Lynda Mottram",
+        "Liesbet Lieben",
+        "Kunal Sharan",
+        "Arporn Wangwiwatsin",
+        "Jose Tubio",
+        "Kirsty Lewis",
+        "Debbie Wilkinson",
+        "Balaji Santhanam",
+        "Nazan Sarper",
+        "Simon Clare",
+        "George S Vassiliou",
+        "Vidya R Velagapudi",
+        "Gordon Dougan",
+        "Vijay K Yadav"
+      ],
+      "year": "2014",
+      "journal": "The Journal of clinical investigation",
+      "doi": "10.1172/JCI72606",
+      "doi_link": "https://doi.org/10.1172/JCI72606",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24911144",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Vitamin%20B%E2%82%81%E2%82%82-dependent%20taurine%20synthesis%20regulates%20growth%20and%20bone%20mass%22",
+      "citations": {
+        "semantic_scholar": 100
+      },
+      "abstract": "Both maternal and offspring-derived factors contribute to lifelong growth and bone mass accrual, although the specific role of maternal deficiencies in the growth and bone mass of offspring is poorly understood. In the present study, we have shown that vitamin B₁₂ (B₁₂) deficiency in a murine genetic model results in severe postweaning growth retardation and osteoporosis, and the severity and time of onset of this phenotype in the offspring depends on the maternal genotype. Using integrated physiological and metabolomic analysis, we determined that B₁₂ deficiency in the offspring decreases liver taurine production and associates with abrogation of a growth hormone/insulin-like growth factor 1 (GH/IGF1) axis. Taurine increased GH-dependent IGF1 synthesis in the liver, which subsequently enhanced osteoblast function, and in B₁₂-deficient offspring, oral administration of taurine rescued their growth retardation and osteoporosis phenotypes. These results identify B₁₂ as an essential vitamin that positively regulates postweaning growth and bone formation through taurine synthesis and suggests potential therapies to increase bone mass.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper38",
+      "publication_id": "24425982",
+      "title": "Standardization of technology for preparation and storage of wild apricot fruit bar.",
+      "authors": [
+        "Satish Kumar Sharma",
+        "Shyam Prakash Chaudhary",
+        "Virendra Kumar Rao",
+        "Vijay Kumar Yadav",
+        "Tejpal Singh Bisht"
+      ],
+      "year": "2013",
+      "journal": "Journal of food science and technology",
+      "doi": "10.1007/s13197-011-0396-y",
+      "doi_link": "https://doi.org/10.1007/s13197-011-0396-y",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24425982",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Standardization%20of%20technology%20for%20preparation%20and%20storage%20of%20wild%20apricot%20fruit%20bar%22",
+      "citations": {
+        "crossref": 22
+      },
+      "abstract": "The study was conducted to standardize the protocol for preparation of wild apricot fruit bar. Wild apricot fruits were harvested at optimum maturity from Distt Tehri Garhwal, Uttarakhand and after thorough sorting and proper washing, used for hot extraction of pulp through a pulper. Pulp was preserved in 500 ppm SO2 (using potassium metabisulphite). For preparation of fruit bars, additives like sugar and pectin were added to the pulp in different proportions and the mixture dried in mechanical dehydrator. Dried fruit bar sheets were cut into rectangular shapes (2.5 × 4.0 cm(2)) using a stainless steel knife and wrapped in polythene paper. Best recipe was selected on the basis of sensory evaluation. For storage, wild apricot fruit bar was packed in aluminium laminated pouches and polyethylene pouches, kept for 6 months and analyzed periodically for changes in quality. Results of the sensory evaluation indicate that a very good quality fruit bar can be prepared by using wild apricot pulp +60% sugar +0.30% pectin and drying the mixture in a mechanical dehydrator at 55 ± 2 °C for 6 h. During 6 months of storage, there was about 3% moisture gain, 6.00 and 9.35% loss in total sugars and vitamin C respectively, along with slight losses in titratable acidity and sensory quality. The changes in chemical and sensory quality attributes were minimum in wild apricot fruit bar, packed in aluminium laminated pouches as compared to those packed in polyethylene pouches, and the product stored under vacuum than that under normal atmosphere. Further, the products were stable up to 6 months during storage under ambient condition.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper39",
+      "publication_id": "22775208",
+      "title": "Novel actions of progesterone: what we know today and what will be the scenario in the future?",
+      "authors": [
+        "Shilpa N Kaore",
+        "Deepak Kumar Langade",
+        "Vijay Kumar Yadav",
+        "Parag Sharma",
+        "Vijay R Thawani",
+        "Raj Sharma"
+      ],
+      "year": "2012",
+      "journal": "The Journal of pharmacy and pharmacology",
+      "doi": "10.1111/j.2042-7158.2012.01464.x",
+      "doi_link": "https://doi.org/10.1111/j.2042-7158.2012.01464.x",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22775208",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Novel%20actions%20of%20progesterone%3A%20what%20we%20know%20today%20and%20what%20will%20be%20the%20scenario%20in%20the%20future%3F%22",
+      "citations": {
+        "semantic_scholar": 32
+      },
+      "abstract": "OBJECTIVES: This article is aimed to review the novel actions of progesterone, which otherwise is considered as a female reproductive hormone. The article focuses on its important physiological actions in males too and gives an overview of its novel perspectives in disorders of central and peripheral nervous system. KEY FINDINGS: Progesterone may have a potential benefit in treatment of traumatic brain injury, various neurological disorders and male related diseases like benign prostatic hypertrophy (BPH), prostate cancer and osteoporosis. Norethisterone (NETA), a progesterone derivative, decreases bone mineral loss in male castrated mice suggesting its role in osteoporosis. In the future, progesterone may find use as a male contraceptive too, but still needs confirmatory trials for safety, tolerability and acceptability. Megestrol acetate, a progesterone derivative is preferred in prostatic cancer. Further, it may find utility in nicotine addiction, traumatic brain injury (recently entered Phase III trial) and Alzheimer's disease, diabetic neuropathy and crush injuries. Studies also suggest role of progesterone in stroke, for which further clinical trials are needed. The non genomic actions of progesterone may be in part responsible for these novel actions. SUMMARY: Although progesterone has shown promising role in various non-hormonal benefits, further clinical studies are needed to prove its usefulness in conditions like stroke, traumatic brain injury, neuropathy and crush injury. In male related illnesses like BPH and prostatic Ca, it may prove a boon in near future. New era of hormonal male contraception may be initiated by use of progesterone along with testosterone.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper40",
+      "publication_id": "22763110",
+      "title": "Identification of new susceptibility loci for osteoarthritis (arcOGEN): a genome-wide association study.",
+      "authors": [
+        "arcOGEN Consortium",
+        "arcOGEN Collaborators",
+        "Eleftheria Zeggini",
+        "Kalliope Panoutsopoulou",
+        "Lorraine Southam",
+        "Nigel W Rayner",
+        "Aaron G Day-Williams",
+        "Margarida C Lopes",
+        "Vesna Boraska",
+        "Tonu Esko",
+        "Evangelos Evangelou",
+        "Albert Hoffman",
+        "Jeanine J Houwing-Duistermaat",
+        "Thorvaldur Ingvarsson",
+        "Ingileif Jonsdottir",
+        "Helgi Jonnson",
+        "Hanneke J Kerkhof",
+        "Margreet Kloppenburg",
+        "Steffan D Bos",
+        "Massimo Mangino",
+        "Sarah Metrustry",
+        "P Eline Slagboom",
+        "Gudmar Thorleifsson",
+        "Emma V A Raine",
+        "Madhushika Ratnayake",
+        "Michelle Ricketts",
+        "Claude Beazley",
+        "Hannah Blackburn",
+        "Suzannah Bumpstead",
+        "Katherine S Elliott",
+        "Sarah E Hunt",
+        "Simon C Potter",
+        "So-Youn Shin",
+        "Vijay K Yadav",
+        "Guangju Zhai",
+        "Kate Sherburn",
+        "Kate Dixon",
+        "Elizabeth Arden",
+        "Nadim Aslam",
+        "Phillippa-kate Battley",
+        "Ian Carluke",
+        "Sally Doherty",
+        "Andrew Gordon",
+        "John Joseph",
+        "Richard Keen",
+        "Nicola C Koller",
+        "Sheryl Mitchell",
+        "Fiona O'Neill",
+        "Ellen Paling",
+        "Mike R Reed",
+        "Fernando Rivadeneira",
+        "Diane Swift",
+        "Kirsten Walker",
+        "Bridget Watkins",
+        "Maggie Wheeler",
+        "Fraser Birrell",
+        "John P A Ioannidis",
+        "Ingrid Meulenbelt",
+        "Andres Metspalu",
+        "Ashok Rai",
+        "Donald Salter",
+        "Kari Stefansson",
+        "Unnur Stykarsdottir",
+        "André G Uitterlinden",
+        "Joyce B J van Meurs",
+        "Kay Chapman",
+        "Panos Deloukas",
+        "William E R Ollier",
+        "Gillian A Wallis",
+        "Nigel Arden",
+        "Andrew Carr",
+        "Michael Doherty",
+        "Andrew McCaskie",
+        "J Mark Willkinson",
+        "Stuart H Ralston",
+        "Ana M Valdes",
+        "Tim D Spector",
+        "John Loughlin"
+      ],
+      "year": "2012",
+      "journal": "Lancet (London, England)",
+      "doi": "10.1016/S0140-6736(12)60681-3",
+      "doi_link": "https://doi.org/10.1016/S0140-6736(12)60681-3",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22763110",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Identification%20of%20new%20susceptibility%20loci%20for%20osteoarthritis%20%28arcOGEN%29%3A%20a%20genome-wide%20association%20study%22",
+      "citations": {
+        "crossref": 341
+      },
+      "abstract": "BACKGROUND: Osteoarthritis is the most common form of arthritis worldwide and is a major cause of pain and disability in elderly people. The health economic burden of osteoarthritis is increasing commensurate with obesity prevalence and longevity. Osteoarthritis has a strong genetic component but the success of previous genetic studies has been restricted due to insufficient sample sizes and phenotype heterogeneity. METHODS: We undertook a large genome-wide association study (GWAS) in 7410 unrelated and retrospectively and prospectively selected patients with severe osteoarthritis in the arcOGEN study, 80% of whom had undergone total joint replacement, and 11,009 unrelated controls from the UK. We replicated the most promising signals in an independent set of up to 7473 cases and 42,938 controls, from studies in Iceland, Estonia, the Netherlands, and the UK. All patients and controls were of European descent. FINDINGS: We identified five genome-wide significant loci (binomial test p≤5·0×10(-8)) for association with osteoarthritis and three loci just below this threshold. The strongest association was on chromosome 3 with rs6976 (odds ratio 1·12 [95% CI 1·08-1·16]; p=7·24×10(-11)), which is in perfect linkage disequilibrium with rs11177. This SNP encodes a missense polymorphism within the nucleostemin-encoding gene GNL3. Levels of nucleostemin were raised in chondrocytes from patients with osteoarthritis in functional studies. Other significant loci were on chromosome 9 close to ASTN2, chromosome 6 between FILIP1 and SENP6, chromosome 12 close to KLHDC5 and PTHLH, and in another region of chromosome 12 close to CHST11. One of the signals close to genome-wide significance was within the FTO gene, which is involved in regulation of bodyweight-a strong risk factor for osteoarthritis. All risk variants were common in frequency and exerted small effects. INTERPRETATION: Our findings provide insight into the genetics of arthritis and identify new pathways that might be amenable to future therapeutic intervention. FUNDING: arcOGEN was funded by a special purpose grant from Arthritis Research UK.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper41",
+      "publication_id": "21608033",
+      "title": "Efficacy of serotonin inhibition in mouse models of bone loss.",
+      "authors": [
+        "Hiroyuki Inose",
+        "Bin Zhou",
+        "Vijay K Yadav",
+        "X Edward Guo",
+        "Gerard Karsenty",
+        "Patricia Ducy"
+      ],
+      "year": "2011",
+      "journal": "Journal of bone and mineral research : the official journal of the American Society for Bone and Mineral Research",
+      "doi": "10.1002/jbmr.439",
+      "doi_link": "https://doi.org/10.1002/jbmr.439",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21608033",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Efficacy%20of%20serotonin%20inhibition%20in%20mouse%20models%20of%20bone%20loss%22",
+      "citations": {
+        "crossref": 62
+      },
+      "abstract": "In a proof-of-concept study it was shown that decreasing synthesis of gut serotonin through a small molecule inhibitor of Tph1 could prevent and treat ovariectomy-induced osteoporosis in young mice and rats. In this study, we define the minimal efficacy of this Tph1 inhibitor, demonstrate that its activity is improved with the duration of treatment, and show that its anabolic effect persists on interruption. Importantly, given the prevalence of osteoporosis in the aging population, we then show that Tph1 inhibition rescues ovariectomy-induced bone loss in aged mice. It also cures the low bone mass of Lrp5-deficient mice through a sole anabolic effect. Lastly, we provide evidence that inhibition of gut serotonin synthesis can work in concert with an antiresorptive agent to increase bone mass in ovariectomized mice. This study provides a more comprehensive view of the anabolic efficacy of Tph1 inhibitors and further establishes the spectrum of their therapeutic potential in the treatment of bone-loss disorders.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper42",
+      "publication_id": "21187319",
+      "title": "Leptin-dependent serotonin control of appetite: temporal specificity, transcriptional regulation, and therapeutic implications.",
+      "authors": [
+        "Vijay K Yadav",
+        "Franck Oury",
+        "Kenji F Tanaka",
+        "Tiffany Thomas",
+        "Ying Wang",
+        "Serge Cremers",
+        "Rene Hen",
+        "Andree Krust",
+        "Pierre Chambon",
+        "Gerard Karsenty"
+      ],
+      "year": "2011",
+      "journal": "The Journal of experimental medicine",
+      "doi": "10.1084/jem.20101940",
+      "doi_link": "https://doi.org/10.1084/jem.20101940",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21187319",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Leptin-dependent%20serotonin%20control%20of%20appetite%3A%20temporal%20specificity%2C%20transcriptional%20regulation%2C%20and%20therapeutic%20implications%22",
+      "citations": {
+        "semantic_scholar": 94
+      },
+      "abstract": "Recent evidence indicates that leptin regulates appetite and energy expenditure, at least in part by inhibiting serotonin synthesis and release from brainstem neurons. To demonstrate that this pathway works postnatally, we used a conditional, brainstem-specific mouse CreER(T2) driver to show that leptin signals in brainstem neurons after birth to decrease appetite by inhibiting serotonin synthesis. Cell-specific gene deletion experiments and intracerebroventricular leptin infusions reveal that serotonin signals in arcuate nuclei of the hypothalamus through the Htr1a receptor to favor food intake and that this serotonin function requires the expression of Creb, which regulates the expression of several genes affecting appetite. Accordingly, a specific antagonist of the Htr1a receptor decreases food intake in leptin-deficient but not in Htr1a(-/-) mice. Collectively, these results establish that leptin inhibition of serotonin is necessary to inhibit appetite postnatally and provide a proof of principle that selective inhibition of this pathway may be a viable option to treat appetite disorders.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper43",
+      "publication_id": "21073335",
+      "title": "Regulation of bone mass by serotonin: molecular biology and therapeutic implications.",
+      "authors": [
+        "Gerard Karsenty",
+        "Vijay K Yadav"
+      ],
+      "year": "2011",
+      "journal": "Annual review of medicine",
+      "doi": "10.1146/annurev-med-090710-133426",
+      "doi_link": "https://doi.org/10.1146/annurev-med-090710-133426",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21073335",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Regulation%20of%20bone%20mass%20by%20serotonin%3A%20molecular%20biology%20and%20therapeutic%20implications%22",
+      "citations": {
+        "crossref": 67
+      },
+      "abstract": "The molecular elucidation of two human skeletal dysplasias revealed that they are caused by an increase or a decrease in the synthesis of serotonin by enterochromaffin cells of the gut. This observation revealed a novel and powerful endocrine means to regulate bone mass. Exploiting these findings in the pharmacological arena led to the demonstration that inhibiting synthesis of gut-derived serotonin could be an effective means to treat low-bone-mass diseases such as osteoporosis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper44",
+      "publication_id": "20952540",
+      "title": "CREB mediates brain serotonin regulation of bone mass through its expression in ventromedial hypothalamic neurons.",
+      "authors": [
+        "Franck Oury",
+        "Vijay K Yadav",
+        "Ying Wang",
+        "Bin Zhou",
+        "X Sherry Liu",
+        "X Edward Guo",
+        "Laurence H Tecott",
+        "Günther Schutz",
+        "Anthony R Means",
+        "Gerard Karsenty"
+      ],
+      "year": "2010",
+      "journal": "Genes & development",
+      "doi": "10.1101/gad.1977210",
+      "doi_link": "https://doi.org/10.1101/gad.1977210",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20952540",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22CREB%20mediates%20brain%20serotonin%20regulation%20of%20bone%20mass%20through%20its%20expression%20in%20ventromedial%20hypothalamic%20neurons%22",
+      "citations": {
+        "crossref": 107
+      },
+      "abstract": "Serotonin is a bioamine regulating bone mass accrual differently depending on its site of synthesis. It decreases accrual when synthesized in the gut, and increases it when synthesized in the brain. The signal transduction events elicited by gut-derived serotonin once it binds to the Htr1b receptor present on osteoblasts have been identified and culminate in cAMP response element-binding protein (CREB) regulation of osteoblast proliferation. In contrast, we do not know how brain-derived serotonin favors bone mass accrual following its binding to the Htr2c receptor on neurons of the hypothalamic ventromedial nucleus (VMH). We show here--through gene expression analysis, serotonin treatment of wild-type and Htr2c(-/-) hypothalamic explants, and cell-specific gene deletion in the mouse--that, following its binding to the Htr2c receptor on VMH neurons, serotonin uses a calmodulin kinase (CaMK)-dependent signaling cascade involving CaMKKβ and CaMKIV to decrease the sympathetic tone and increase bone mass accrual. We further show that the transcriptional mediator of these events is CREB, whose phosphorylation on Ser 133 is increased by CaMKIV following serotonin treatment of hypothalamic explants. A microarray experiment identified two genes necessary for optimum sympathetic activity whose expression is regulated by CREB. These results provide a molecular understanding of how serotonin signals in hypothalamic neurons to regulate bone mass accrual and identify CREB as a critical determinant of this function, although through different mechanisms depending on the cell type, neuron, or osteoblast in which it is expressed.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper45",
+      "publication_id": "20861563",
+      "title": "Comparative evaluation of genetic diversity using RAPD, SSR and cytochrome P450 gene based markers with respect to calcium content in finger millet (Eleusine coracana L. Gaertn.).",
+      "authors": [
+        "Preety Panwar",
+        "Manoj Nath",
+        "Vijay Kumar Yadav",
+        "Anil Kumar"
+      ],
+      "year": "2010",
+      "journal": "Journal of genetics",
+      "doi": "10.1007/s12041-010-0052-8",
+      "doi_link": "https://doi.org/10.1007/s12041-010-0052-8",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20861563",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Comparative%20evaluation%20of%20genetic%20diversity%20using%20RAPD%2C%20SSR%20and%20cytochrome%20P450%20gene%20based%20markers%20with%20respect%20to%20calcium%20content%20in%20finger%20millet%20%28Eleusine%20coracana%20L.%20Gaertn.%29%22",
+      "citations": {
+        "semantic_scholar": 88
+      },
+      "abstract": "Genetic relationships among 52 Eleusine coracana (finger millet) genotypes collected from different districts of Uttarakhand were investigated by using randomly amplified polymorphic DNA (RAPD), simple sequence repeat (SSR) and cytochrome P450 gene based markers. A total of 18 RAPD primers, 10 SSR primers, and 10 pairs of cytochrome P450 gene based markers, respectively, revealed 49.4%, 50.2% and 58.7% polymorphism in 52 genotypes of E. coracana. Mean polymorphic information content (PIC) for each of these marker systems (0.351 for RAPD, 0.505 for SSR and 0.406 for cyt P450 gene based markers) suggested that all the marker systems were effective in determining polymorphisms. Pair-wise similarity index values ranged from 0.011 to 0.999 (RAPD), 0.010 to 0.999 (SSR) and 0.001 to 0.998 (cyt P450 gene based markers) and mean similarity index value of 0.505, 0.504 and 0.499, respectively. The dendrogram developed by RAPD, SSR and cytochrome P450 gene based primers analyses revealed that the genotypes are grouped in different clusters according to high calcium (300-450 mg/100 g), medium calcium (200-300 mg/100 g) and low calcium (100-200 mg/100 g). Mantel test employed for detection of goodness of fit established cophenetic correlation values above 0.95 for all the three marker systems. The dendrograms and principal coordinate analysis (PCA) plots derived from the binary data matrices of the three marker systems are highly concordant. High bootstrap values were obtained at major nodes of phenograms through WINBOOT software. Comparison of RAPD, SSR and cytochrome P450 gene based markers, in terms of the quality of data output, indicated that SSRs and cyt P450 gene based markers are particularly promising for the analysis of plant genome diversity. The genotypes of finger millet collected from different districts of Uttarakhand constitute a wide genetic base and clustered according to calcium contents. The identified genotypes could be used in breeding programmes and amajor input into conservation biology of cereal crops.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper46",
+      "publication_id": "20654572",
+      "title": "WITHDRAWN: Serotonin regulation of bone mass: Challenges and therapeutic opportunities.",
+      "authors": [
+        "Vijay K Yadav"
+      ],
+      "year": "2010",
+      "journal": "Archives of biochemistry and biophysics",
+      "doi": "10.1016/j.abb.2010.07.017",
+      "doi_link": "https://doi.org/10.1016/j.abb.2010.07.017",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20654572",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22WITHDRAWN%3A%20Serotonin%20regulation%20of%20bone%20mass%3A%20Challenges%20and%20therapeutic%20opportunities%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "This article has been withdrawn at the request of the author(s) and/or editor. The Publisher apologizes for any inconvenience this may cause. The full Elsevier Policy on Article Withdrawal can be found at http://www.elsevier.com/locate/withdrawalpolicy.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper47",
+      "publication_id": "20392224",
+      "title": "Lrp5 and bone formation : A serotonin-dependent pathway.",
+      "authors": [
+        "Vijay K Yadav",
+        "Patricia Ducy"
+      ],
+      "year": "2010",
+      "journal": "Annals of the New York Academy of Sciences",
+      "doi": "10.1111/j.1749-6632.2009.05312.x",
+      "doi_link": "https://doi.org/10.1111/j.1749-6632.2009.05312.x",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20392224",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Lrp5%20and%20bone%20formation%20%3A%20A%20serotonin-dependent%20pathway%22",
+      "citations": {
+        "crossref": 51
+      },
+      "abstract": "Lrp5, the mutated gene in osteoporosis pseudoglioma (OPPG) and the high bone-mass syndrome (HBM), regulates bone formation, while beta-catenin, the molecular node of Wnt signaling, regulates bone resorption, suggesting that Lrp5 could act in a Wnt-independent manner. Using microarray and conditional gene deletion in mice, we showed that Lrp5 actually enhances bone formation by inhibiting the expression, in duodenum, of tryptophan hydroxylase 1, the rate-limiting enzyme in the serotonin biosynthetic pathway. Accordingly, serotonin circulating levels are high in Lrp5(-/-) mice and OPPG patients but low in HBM patients, and normalizing serum serotonin levels rescues the bone phenotype of the Lrp5(-/-) mice. We also showed that serotonin acts on osteoblasts through the Htr1b receptor and the transcription factor cAMP responsive element binding to inhibit their proliferation. This study shows that Lrp5 acts in gut cells, not in osteoblasts, to control bone formation via a Wnt-independent pathway and identifies a new hormone, serotonin, and a novel endocrine axis regulating bone mass. These findings may have important therapeutic implications for the treatment of low bone-mass disorders.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper48",
+      "publication_id": "20333369",
+      "title": "Genetic analysis of Lrp5 function in osteoblast progenitors.",
+      "authors": [
+        "Vijay K Yadav",
+        "Henrique Pierotti Arantes",
+        "Elizabete Ribeiro Barros",
+        "Marise Lazaretti-Castro",
+        "Patricia Ducy"
+      ],
+      "year": "2010",
+      "journal": "Calcified tissue international",
+      "doi": "10.1007/s00223-010-9350-7",
+      "doi_link": "https://doi.org/10.1007/s00223-010-9350-7",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20333369",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Genetic%20analysis%20of%20Lrp5%20function%20in%20osteoblast%20progenitors%22",
+      "citations": {
+        "crossref": 29
+      },
+      "abstract": "The low-density lipoprotein receptor-related protein (Lrp)-5 regulates osteoblast proliferation and bone formation through its expression in duodenum by modifying the gut serotonin-bone endocrine axis. However, its direct role, if any, in osteoblast progenitor cells has not been studied thus far. Here, we show that mice with a Dermo1-Cre-mediated disruption of Lrp5 in osteoblast progenitor cells have normal embryonic skeletogenesis and normal skeletal growth and development postnatally. Histomorphometric analysis of 3-month-old adult mice revealed normal osteoblast numbers, bone formation rate, and bone mass in Lrp5(Dermo)(-/-) mice. In addition, analysis of two osteoporosis pseudoglioma (OPPG) patients revealed a three- to fivefold increase in their serum serotonin levels compared to age-matched controls. These results rule out a direct function of Lrp5 in osteoblast progenitor cells and add further support to the notion that dysregulation of serotonin synthesis is involved in bone mass abnormalities observed in OPPG patients.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper49",
+      "publication_id": "20197056",
+      "title": "Signaling through the M(3) muscarinic receptor favors bone mass accrual by decreasing sympathetic activity.",
+      "authors": [
+        "Yu Shi",
+        "Franck Oury",
+        "Vijay K Yadav",
+        "Jürgen Wess",
+        "X Sherry Liu",
+        "X Edward Guo",
+        "Monzur Murshed",
+        "Gerard Karsenty"
+      ],
+      "year": "2010",
+      "journal": "Cell metabolism",
+      "doi": "10.1016/j.cmet.2010.01.005",
+      "doi_link": "https://doi.org/10.1016/j.cmet.2010.01.005",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20197056",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Signaling%20through%20the%20M%283%29%20muscarinic%20receptor%20favors%20bone%20mass%20accrual%20by%20decreasing%20sympathetic%20activity%22",
+      "citations": {
+        "semantic_scholar": 106
+      },
+      "abstract": "Bone remodeling is regulated by various neuronal inputs, including sympathetic tone, which is known to inhibit bone mass accrual. This aspect of sympathetic nervous system function raises the prospect that the other arm of the autonomic nervous system, the parasympathetic nervous system, may also affect bone remodeling. Here, we use various mutant mouse strains, each lacking one of the muscarinic receptors that mediate parasympathetic activity, to show that the parasympathetic nervous system acting through the M(3) muscarinic receptor is a positive regulator of bone mass accrual, increasing bone formation and decreasing bone resorption. Gene expression studies, cell-specific gene deletion experiments, and analysis of compound mutant mice showed that the parasympathetic nervous system favors bone mass accrual by acting centrally and by decreasing the sympathetic tone. By showing that both arms of the autonomic nervous system affect bone remodeling, this study further underscores the importance of neuronal regulation of bone.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper50",
+      "publication_id": "20157577",
+      "title": "Leptin-dependent co-regulation of bone and energy metabolism.",
+      "authors": [
+        "Vijay K Yadav",
+        "Gerard Karsenty"
+      ],
+      "year": "2009",
+      "journal": "Aging",
+      "doi": "10.18632/aging.100100",
+      "doi_link": "https://doi.org/10.18632/aging.100100",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20157577",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Leptin-dependent%20co-regulation%20of%20bone%20and%20energy%20metabolism%22",
+      "citations": {
+        "crossref": 20
+      },
+      "abstract": "The adipocyte-derived hormone leptin inhibits appetite and bone mass accrual. To fulfill these two functions leptin requires the integrity of hypothalamic neurons but not the expression of its receptor, ObRb on these neurons. These results suggested that leptin acts first elsewhere in the brain to mediate these functions. However, this neuroanatomical site of leptin action in the brain remained elusive. Recent mouse genetic, electrophysiological and neuroanatomical studies provide evidence that leptin inhibits appetite and bone mass accrual through a two-step pathway: it decreases synthesis and the release by brainstem neurons of serotonin that in turn targets hypothalamic neurons to regulate appetite and bone mass accrual.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper51",
+      "publication_id": "20139991",
+      "title": "Pharmacological inhibition of gut-derived serotonin synthesis is a potential bone anabolic treatment for osteoporosis.",
+      "authors": [
+        "Vijay K Yadav",
+        "Santhanam Balaji",
+        "Padmanaban S Suresh",
+        "X Sherry Liu",
+        "Xin Lu",
+        "Zhishan Li",
+        "X Edward Guo",
+        "J John Mann",
+        "Anil K Balapure",
+        "Michael D Gershon",
+        "Rudraiah Medhamurthy",
+        "Marc Vidal",
+        "Gerard Karsenty",
+        "Patricia Ducy"
+      ],
+      "year": "2010",
+      "journal": "Nature medicine",
+      "doi": "10.1038/nm.2098",
+      "doi_link": "https://doi.org/10.1038/nm.2098",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20139991",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Pharmacological%20inhibition%20of%20gut-derived%20serotonin%20synthesis%20is%20a%20potential%20bone%20anabolic%20treatment%20for%20osteoporosis%22",
+      "citations": {
+        "crossref": 278
+      },
+      "abstract": "Osteoporosis is a disease of low bone mass most often caused by an increase in bone resorption that is not sufficiently compensated for by a corresponding increase in bone formation. As gut-derived serotonin (GDS) inhibits bone formation, we asked whether hampering its biosynthesis could treat osteoporosis through an anabolic mechanism (that is, by increasing bone formation). We synthesized and used LP533401, a small molecule inhibitor of tryptophan hydroxylase-1 (Tph-1), the initial enzyme in GDS biosynthesis. Oral administration of this small molecule once daily for up to six weeks acts prophylactically or therapeutically, in a dose-dependent manner, to treat osteoporosis in ovariectomized rodents because of an isolated increase in bone formation. These results provide a proof of principle that inhibiting GDS biosynthesis could become a new anabolic treatment for osteoporosis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper52",
+      "publication_id": "19737523",
+      "title": "A serotonin-dependent mechanism explains the leptin regulation of bone mass, appetite, and energy expenditure.",
+      "authors": [
+        "Vijay K Yadav",
+        "Franck Oury",
+        "Nina Suda",
+        "Zhong-Wu Liu",
+        "Xiao-Bing Gao",
+        "Cyrille Confavreux",
+        "Kristen C Klemenhagen",
+        "Kenji F Tanaka",
+        "Jay A Gingrich",
+        "X Edward Guo",
+        "Laurence H Tecott",
+        "J John Mann",
+        "Rene Hen",
+        "Tamas L Horvath",
+        "Gerard Karsenty"
+      ],
+      "year": "2009",
+      "journal": "Cell",
+      "doi": "10.1016/j.cell.2009.06.051",
+      "doi_link": "https://doi.org/10.1016/j.cell.2009.06.051",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19737523",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20serotonin-dependent%20mechanism%20explains%20the%20leptin%20regulation%20of%20bone%20mass%2C%20appetite%2C%20and%20energy%20expenditure%22",
+      "citations": {
+        "semantic_scholar": 626
+      },
+      "abstract": "Leptin inhibition of bone mass accrual requires the integrity of specific hypothalamic neurons but not expression of its receptor on these neurons. The same is true for its regulation of appetite and energy expenditure. This suggests that leptin acts elsewhere in the brain to achieve these three functions. We show here that brainstem-derived serotonin (BDS) favors bone mass accrual following its binding to Htr2c receptors on ventromedial hypothalamic neurons and appetite via Htr1a and 2b receptors on arcuate neurons. Leptin inhibits these functions and increases energy expenditure because it reduces serotonin synthesis and firing of serotonergic neurons. Accordingly, while abrogating BDS synthesis corrects the bone, appetite and energy expenditure phenotypes caused by leptin deficiency, inactivation of the leptin receptor in serotonergic neurons recapitulates them fully. This study modifies the map of leptin signaling in the brain and identifies a molecular basis for the common regulation of bone and energy metabolisms. For a video summary of this article, see the PaperFlick file with the Supplemental Data available online.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper53",
+      "publication_id": "19074282",
+      "title": "Dissociation of the neuronal regulation of bone mass and energy metabolism by leptin in vivo.",
+      "authors": [
+        "Yu Shi",
+        "Vijay K Yadav",
+        "Nina Suda",
+        "X Sherry Liu",
+        "X Edward Guo",
+        "Martin G Myers",
+        "Gerard Karsenty"
+      ],
+      "year": "2008",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.0808701106",
+      "doi_link": "https://doi.org/10.1073/pnas.0808701106",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19074282",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Dissociation%20of%20the%20neuronal%20regulation%20of%20bone%20mass%20and%20energy%20metabolism%20by%20leptin%20in%20vivo%22",
+      "citations": {
+        "crossref": 120
+      },
+      "abstract": "The leptin regulation of bone remodeling, which has been documented through studies of loss-of-function mutations of this hormone or of its receptor in mice and humans, still raised several unanswered questions. For instance, it has been assumed but not formally demonstrated that this regulation occurs through neuronal means. Likewise, it has not been possible until now to dissociate the influence leptin exerts on appetite and energy expenditure from this function. We show here through mouse genetic studies that a deletion of the leptin receptor in neurons results in an increase in bone formation and bone resorption, resulting in a high bone mass as seen in leptin-deficient mice. In contrast, the same deletion in osteoblasts only does not influence bone remodeling. Furthermore, through the use of l/l mice, a model of gain of function in leptin signaling harboring a Y985L substitution in the leptin receptor, we show that leptin signaling inhibits bone mass accrual by up-regulating sympathetic activity independently of any change in appetite or energy expenditure. This work establishes that in vivo leptin regulates bone mass accrual by acting through neuronal means and provides a direct demonstration that this function of leptin can occur independently of its regulation of energy metabolism.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper54",
+      "publication_id": "19041748",
+      "title": "Lrp5 controls bone formation by inhibiting serotonin synthesis in the duodenum.",
+      "authors": [
+        "Vijay K Yadav",
+        "Je-Hwang Ryu",
+        "Nina Suda",
+        "Kenji F Tanaka",
+        "Jay A Gingrich",
+        "Günther Schütz",
+        "Francis H Glorieux",
+        "Cherie Y Chiang",
+        "Jeffrey D Zajac",
+        "Karl L Insogna",
+        "J John Mann",
+        "Rene Hen",
+        "Patricia Ducy",
+        "Gerard Karsenty"
+      ],
+      "year": "2008",
+      "journal": "Cell",
+      "doi": "10.1016/j.cell.2008.09.059",
+      "doi_link": "https://doi.org/10.1016/j.cell.2008.09.059",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19041748",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Lrp5%20controls%20bone%20formation%20by%20inhibiting%20serotonin%20synthesis%20in%20the%20duodenum%22",
+      "citations": {
+        "crossref": 698
+      },
+      "abstract": "Loss- and gain-of-function mutations in the broadly expressed gene Lrp5 affect bone formation, causing osteoporosis and high bone mass, respectively. Although Lrp5 is viewed as a Wnt coreceptor, osteoblast-specific disruption of beta-Catenin does not affect bone formation. Instead, we show here that Lrp5 inhibits expression of Tph1, the rate-limiting biosynthetic enzyme for serotonin in enterochromaffin cells of the duodenum. Accordingly, decreasing serotonin blood levels normalizes bone formation and bone mass in Lrp5-deficient mice, and gut- but not osteoblast-specific Lrp5 inactivation decreases bone formation in a beta-Catenin-independent manner. Moreover, gut-specific activation of Lrp5, or inactivation of Tph1, increases bone mass and prevents ovariectomy-induced bone loss. Serotonin acts on osteoblasts through the Htr1b receptor and CREB to inhibit their proliferation. By identifying duodenum-derived serotonin as a hormone inhibiting bone formation in an Lrp5-dependent manner, this study broadens our understanding of bone remodeling and suggests potential therapies to increase bone mass.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper55",
+      "publication_id": "16788992",
+      "title": "A dual tyrosine-leucine motif mediates myelin protein P0 targeting in MDCK cells.",
+      "authors": [
+        "Grahame J Kidd",
+        "Vijay K Yadav",
+        "Ping Huang",
+        "Stacey L Brand",
+        "Seng Hui Low",
+        "Thomas Weimbs",
+        "Bruce D Trapp"
+      ],
+      "year": "2006",
+      "journal": "Glia",
+      "doi": "10.1002/glia.20366",
+      "doi_link": "https://doi.org/10.1002/glia.20366",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16788992",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20dual%20tyrosine-leucine%20motif%20mediates%20myelin%20protein%20P0%20targeting%20in%20MDCK%20cells%22",
+      "citations": {
+        "crossref": 7
+      },
+      "abstract": "Differential targeting of myelin proteins to multiple, biochemically and functionally distinct Schwann cell plasma membrane domains is essential for myelin formation. In this study, we investigated whether the myelin protein P0 contains targeting signals using Madin-Darby canine kidney (MDCK) cells. By confocal microscopy, P0 was localized to MDCK cell basolateral membranes. C-terminal deletion resulted in apical accumulation, and stepwise deletions defined a 15-mer region that was required for basolateral targeting. Alanine substitutions within this region identified the YAML sequence as a functional tyrosine-based targeting signal, with the ML sequence serving as a secondary leucine-based signal. Replacement of the P0 ectodomain with green fluorescent protein altered the distribution of constructs lacking the YAML signal. Coexpression of the myelin-associated glycoprotein did not alter P0 distribution in MDCK cells. The results indicate that P0 contains a hierarchy of targeting signals, which may contribute to P0 localization in myelinating Schwann cells and the pathogenesis in human disease.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper56",
+      "publication_id": "15623530",
+      "title": "Prostaglandin F2alpha-mediated activation of apoptotic signaling cascades in the corpus luteum during apoptosis: involvement of caspase-activated DNase.",
+      "authors": [
+        "Vijay K Yadav",
+        "Garimella Lakshmi",
+        "Rudraiah Medhamurthy"
+      ],
+      "year": "2005",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M409596200",
+      "doi_link": "https://doi.org/10.1074/jbc.M409596200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15623530",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Prostaglandin%20F2alpha-mediated%20activation%20of%20apoptotic%20signaling%20cascades%20in%20the%20corpus%20luteum%20during%20apoptosis%3A%20involvement%20of%20caspase-activated%20DNase%22",
+      "citations": {
+        "crossref": 55
+      },
+      "abstract": "Prostaglandin F(2alpha) (PGF(2alpha)) acting via a G protein-coupled receptor has been shown to induce apoptosis in the corpus luteum of many species. Studies were carried out to characterize changes in the apoptotic signaling cascade(s) culminating in luteal tissue apoptosis during PGF(2alpha)-induced luteolysis in the bovine species in which initiation of apoptosis was demonstrable at 18 h after exogenous PGF(2alpha) treatment. An analysis of intrinsic arm of apoptotic signaling cascade elements revealed that PGF(2alpha) injection triggered increased ratio of Bax to Bcl-2 in the luteal tissue as early as 4 h posttreatment that remained elevated until 18 h. This increase was associated with the elevation in the active caspase-9 and -3 protein levels and activity (p < 0.05) at 4-12 h, but a spurt in the activity was seen only at 18 h posttreatment that could not be accounted for by the changes in the Bax/Bcl-2 ratio or changes in translocation of Bax to mitochondria. Examination of luteal tissue for FasL/Fas death receptor cascade revealed increased expression of FasL and Fas at 18 h accompanied by a significant (p < 0.05) induction in the caspase-8 activity and truncated Bid levels. Furthermore, intrabursal administration of specific caspase inhibitors, downstream to the extrinsic and intrinsic apoptotic signaling cascades, in a pseudopregnant rat model revealed a greater importance of extrinsic apoptotic signaling cascade in mediating luteal tissue apoptosis during PGF(2alpha) treatment. The DNase responsible for PGF(2alpha)-induced apoptotic DNA fragmentation was found to be Ca(2+)/Mg(2+)-dependent, temperature-sensitive DNase, and optimally active at neutral pH conditions. This putative DNase was inhibited by the recombinant inhibitor of caspase-activated DNase, and immunodepletion of caspase-activated DNase from luteal lysates abolished the observed DNA fragmentation activity. Together, these data demonstrate for the first time temporal and spatial changes in the apoptotic signaling cascades during PGF(2alpha)-in-duced apoptosis in the corpus luteum.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper57",
+      "publication_id": "15235106",
+      "title": "Identification of novel genes regulated by LH in the primate corpus luteum: insight into their regulation during the late luteal phase.",
+      "authors": [
+        "Vijay Kumar Yadav",
+        "P Muraly",
+        "R Medhamurthy"
+      ],
+      "year": "2004",
+      "journal": "Molecular human reproduction",
+      "doi": "10.1093/molehr/gah089",
+      "doi_link": "https://doi.org/10.1093/molehr/gah089",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15235106",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Identification%20of%20novel%20genes%20regulated%20by%20LH%20in%20the%20primate%20corpus%20luteum%3A%20insight%20into%20their%20regulation%20during%20the%20late%20luteal%20phase%22",
+      "citations": {
+        "crossref": 28
+      },
+      "abstract": "The process of luteinization, during which granulosa cells are transformed into luteal cells, is accompanied by dramatic changes in the response of luteal cells to LH. Although luteal cells require LH-cAMP signalling cascade for survival, whether these cells respond to trophic factors through changes in gene expression remains poorly characterized. In an attempt to characterize gonadotrophin (LH)-regulated gene expression in the bonnet monkey corpus luteum (CL), changes in gene expression after GnRH antagonist treatment to inhibit LH secretion, different stages of CL and during hCG-simulated early pregnancy were examined using differential display RT-PCR, Northern blot and semiquantitative RT-PCR analyses. We have identified seven non-redundant cDNA's whose expression were regulated by LH. The results show that inhibition of LH secretion not only leads to down-regulation in the expression of genes, e.g. low density lipoprotein (LDL) receptor and Aldose reductase, but expression of some of the genes was up-regulated, e.g. Humanin, RNA helicase, Lyric protein, Acidic ribosomal phosphoprotein and KIAA1750. mRNA levels of the genes identified as up-regulated after LH inhibition were higher during late compared to the early and mid-luteal phase CL, but treatment with hCG down-regulated their expressions. We conclude that we have identified novel genes (known and unknown) that are up or down-regulated by LH, and the results suggest that LH-mediated activation and repression of expression of many genes is central to the regulation of the structure and function of the CL in the monkey.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper58",
+      "publication_id": "15175507",
+      "title": "Cloning of a buffalo (Bubalus bubalis) prostaglandin F(2alpha) receptor: changes in its expression and concentration in the buffalo cow corpus luteum.",
+      "authors": [
+        "Shalu Verma-Kumar",
+        "S V Srinivas",
+        "P Muraly",
+        "Vijay K Yadav",
+        "R Medhamurthy"
+      ],
+      "year": "2004",
+      "journal": "Reproduction (Cambridge, England)",
+      "doi": "10.1530/rep.1.00107",
+      "doi_link": "https://doi.org/10.1530/rep.1.00107",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15175507",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Cloning%20of%20a%20buffalo%20%28Bubalus%20bubalis%29%20prostaglandin%20F%282alpha%29%20receptor%3A%20changes%20in%20its%20expression%20and%20concentration%20in%20the%20buffalo%20cow%20corpus%20luteum%22",
+      "citations": {
+        "semantic_scholar": 17
+      },
+      "abstract": "Acting primarily through its specific G protein-coupled receptor termed FPr, prostaglandin (PG) F(2alpha) induces regression of the corpus luteum (CL) at the end of a non-fertile oestrous cycle. This study was aimed at cloning a full-length cDNA for FPr and determining its expression and protein concentrations during different stages of CL development in the water buffalo. Serum progesterone and StAR expression were determined to establish temporal relationships between indices of steroidogenesis and changes in FPr expression at different stages of CL development. In contrast to the dairy cow, the stage IV CL (day 20 of the oestrous cycle) did not appear to be functionally regressed in the buffalo. Molecular cloning of a cDNA encoding the buffalo FPr yielded a full length 2193 bp FPr cDNA containing a single open reading frame encoding a 362 amino acid protein with seven putative membrane-spanning domains. The deduced buffalo FPr amino acid sequence possesses a high degree of identity with the other mammalian homologues. Steady state concentration of buffalo FPr transcript increased (P > 0.05) from stage I to stage II/III, and declined at 18 h post PGF(2alpha) injection. The FPr concentration expressed as fmol/microg of plasma membrane protein showed an increase (P > 0.05) from stage I (1.98 +/- 0.10), through stage II/III (2.42 +/- 0.48) to stage IV (2.77 +/- 0.18). High affinity FPr was observed in stage I (K(d) 4.86 nmol) and stage II/III (K(d) 6.28 nmol) while low affinity FPr (K(d) 19.44 nmol) was observed in stage IV. In conclusion, we have cloned a full length FPr cDNA from buffalo cow CL and observed that FPr mRNA expression, receptor number and affinity did not vary significantly (P > 0.05) within the luteal phase of the oestrous cycle.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper59",
+      "publication_id": "12193381",
+      "title": "Apoptosis during spontaneous and prostaglandin F(2alpha)-induced luteal regression in the buffalo cow (Bubalus bubalis): involvement of mitogen-activated protein kinases.",
+      "authors": [
+        "Vijay K Yadav",
+        "Ranga R Sudhagar",
+        "R Medhamurthy"
+      ],
+      "year": "2002",
+      "journal": "Biology of reproduction",
+      "doi": "10.1095/biolreprod.102.004077",
+      "doi_link": "https://doi.org/10.1095/biolreprod.102.004077",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12193381",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Apoptosis%20during%20spontaneous%20and%20prostaglandin%20F%282alpha%29-induced%20luteal%20regression%20in%20the%20buffalo%20cow%20%28Bubalus%20bubalis%29%3A%20involvement%20of%20mitogen-activated%20protein%20kinases%22",
+      "citations": {
+        "crossref": 47
+      },
+      "abstract": "The present study was conducted to evaluate whether the corpus luteum (CL) of the water buffalo (Bubalus bubalis) cow undergoes luteal regression by the process of apoptosis and to examine the involvement of mitogen-activated protein (MAP) kinases during prostaglandin (PG) F(2alpha)-induced luteolysis. Sections of CL from late in the estrous cycle, i.e., during spontaneous luteolysis, stained for 4',6'-diamidino-2-phenylindole revealed increased numbers of condensed nuclei, indicating cell death by apoptosis, which was confirmed further by the occurrence of pronounced oligonucleosome formation. For morphological and biochemical characterization during PGF(2alpha)-induced apoptosis, CL were collected at 0, 4, 12, and 18 h after injection of 750 micro g of Tiaprost, a synthetic analogue of PGF(2alpha), to midestrous buffalo cows. Serum progesterone concentrations fell within 4 h and decreased (P < 0.05) maximally by 18 h. Concomitant decreases (P < 0.05) in the levels of steroidogenic acute regulatory mRNA and protein were observed in CL during 12-18 h, with the more profound effect on mRNA levels. Quantitative analysis of the genomic DNA showed a >5-fold increase (P < 0.05) in the low molecular weight DNA fragments by 18 h postinjection. Immunoblot analysis of CL tissue lysates showed increased (P < 0.05) levels of phospho-Jun N-terminal kinase (JNK) 1 (4- to 14-fold during 4-18 h) and phospho-p38 (2- to 4-fold at 18 h). Immunohistochemical evaluation of CL sections revealed an increased nuclear localization of phospho-JNK after treatment. These findings demonstrate that the CL of the buffalo cow undergoes cell death by the process of apoptosis both during spontaneous and PGF(2alpha)-induced luteolysis and that MAP kinases are involved during PGF(2alpha)-mediated apoptosis in the CL.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 59,
+    "publications_by_year": {
+      "2025": 3,
+      "2024": 3,
+      "2023": 5,
+      "2022": 5,
+      "2021": 2,
+      "2020": 2,
+      "2019": 6,
+      "2018": 2,
+      "2017": 2,
+      "2015": 4,
+      "2014": 3,
+      "2013": 1,
+      "2012": 2,
+      "2011": 3,
+      "2010": 7,
+      "2009": 2,
+      "2008": 2,
+      "2006": 1,
+      "2005": 1,
+      "2004": 2,
+      "2002": 1
+    },
+    "top_journals": [
+      "The Journal of clinical investigation",
+      "Scientific reports",
+      "Nature communications",
+      "Frontiers in plant science",
+      "bioRxiv : the preprint server for biology"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 392,
+      "frequent_collaborators": [
+        "Vijay K Yadav",
+        "Gerard Karsenty",
+        "Vijay Kumar Yadav",
+        "Patricia Ducy",
+        "X Edward Guo",
+        "Parminder Singh",
+        "Franck Oury",
+        "Hail Kim"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "19041748",
+        "title": "Lrp5 controls bone formation by inhibiting serotonin synthesis in the duodenum.",
+        "citations": 698,
+        "year": "2008"
+      },
+      {
+        "publication_id": "19737523",
+        "title": "A serotonin-dependent mechanism explains the leptin regulation of bone mass, appetite, and energy expenditure.",
+        "citations": 626,
+        "year": "2009"
+      },
+      {
+        "publication_id": "30971820",
+        "title": "Developmental origin, functional maintenance and genetic rescue of osteoclasts.",
+        "citations": 384,
+        "year": "2019"
+      }
+    ]
+  }
+}

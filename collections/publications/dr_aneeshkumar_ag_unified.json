@@ -1,0 +1,408 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Aneeshkumar A.G.",
+    "email": "aneesh@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-aneeshkumar-ag",
+    "research_domain": "Genetics, Cell Signalling & Cancer Biology",
+    "faculty_status": "current",
+    "search_date": "2025-06-26T17:47:43.806648",
+    "total_publications": 13,
+    "last_updated": "2025-06-26",
+    "description": "This document contains a complete list of publications by Dr. Aneeshkumar A.G., current faculty in Genetics, Cell Signalling & Cancer Biology at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "29428193",
+      "title": "Interactions between RNAP III transcription machinery and tRNA processing factors.",
+      "authors": [
+        "G Aneeshkumar Arimbasseri"
+      ],
+      "year": "2018",
+      "journal": "Biochimica et biophysica acta. Gene regulatory mechanisms",
+      "doi": "10.1016/j.bbagrm.2018.02.003",
+      "doi_link": "https://doi.org/10.1016/j.bbagrm.2018.02.003",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29428193",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Interactions%20between%20RNAP%20III%20transcription%20machinery%20and%20tRNA%20processing%20factors%22",
+      "citations": {
+        "crossref": 6
+      },
+      "abstract": "Eukaryotes have at least three nuclear RNA polymerases to carry out transcription. While RNA polymerases I and II are responsible for ribosomal RNA transcription and messenger RNA transcription, respectively, RNA Polymerase III transcribes approximately up to 300 nt long noncoding RNAs, including tRNA. For all three RNAPs, the nascent transcripts generated undergo extensive post-transcriptional processing. Transcription of mRNAs by RNAP II and their processing are coupled with the aid of the C-terminal domain of the RNAP II. RNAP I transcription and the processing of its transcripts are co-localized to the nucleolus and to some extent, rRNA processing occurs co-transcriptionally. Here, I review the current evidence for the interaction between tRNA processing factors and RNA polymerase III. These interactions include the moonlighting functions of tRNA processing factors in RNAP III transcription and the indirect effect of tRNA transcription levels on tRNA modification machinery.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "31318442",
+      "title": "Functionally significant metabolic differences between B and T lymphocyte lineages.",
+      "authors": [
+        "Jasneet Kaur Khalsa",
+        "Amanpreet Singh Chawla",
+        "Savit B Prabhu",
+        "Mukti Vats",
+        "Atika Dhar",
+        "Gagan Dev",
+        "Nabanita Das",
+        "Sandip Mukherjee",
+        "Shalini Tanwar",
+        "Hridesh Banerjee",
+        "Jeannine Marie Durdik",
+        "Vineeta Bal",
+        "Anna George",
+        "Satyajit Rath",
+        "Gopalakrishnan Aneeshkumar Arimbasseri"
+      ],
+      "year": "2019",
+      "journal": "Immunology",
+      "doi": "10.1111/imm.13098",
+      "doi_link": "https://doi.org/10.1111/imm.13098",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31318442",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Functionally%20significant%20metabolic%20differences%20between%20B%20and%20T%20lymphocyte%20lineages%22",
+      "citations": {
+        "crossref": 26
+      },
+      "abstract": "Activation of B and T lymphocytes leads to major remodelling of the metabolic landscape of the cells enabling their post-activation functions. However, naive B and T lymphocytes also show metabolic differences, and the genesis, nature and functional significance of these differences are not yet well understood. Here we show that resting B-cells appeared to have lower energy demands than resting T-cells as they consumed lower levels of glucose and fatty acids and produced less ATP. Resting B-cells are more dependent on OXPHOS, while T-cells show more dependence on aerobic glycolysis. However, despite an apparently higher energy demand, T lineage cells showed lower rates of protein synthesis than equivalent B lineage stages. These metabolic differences between the two lineages were established early during lineage differentiation, and were functionally significant. Higher levels of protein synthesis in B-cells were associated with increased synthesis of MHC class II molecules and other proteins associated with antigen internalization, transport and presentation. The combination of higher energy demand and lower protein synthesis in T-cells was consistent with their higher ATP-dependent motility. Our data provide an integrated perspective of the metabolic differences and their functional implications between the B and T lymphocyte lineages.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "31501524",
+      "title": "Yeast PAF1 complex counters the pol III accumulation and replication stress on the tRNA genes.",
+      "authors": [
+        "Pratibha Bhalla",
+        "Ashutosh Shukla",
+        "Dipti Vinayak Vernekar",
+        "Aneeshkumar Gopalakrishnan Arimbasseri",
+        "Kuljeet Singh Sandhu",
+        "Purnima Bhargava"
+      ],
+      "year": "2019",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-019-49316-5",
+      "doi_link": "https://doi.org/10.1038/s41598-019-49316-5",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31501524",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Yeast%20PAF1%20complex%20counters%20the%20pol%20III%20accumulation%20and%20replication%20stress%20on%20the%20tRNA%20genes%22",
+      "citations": {
+        "crossref": 13
+      },
+      "abstract": "The RNA polymerase (pol) III transcribes mostly short, house-keeping genes, which produce stable, non-coding RNAs. The tRNAs genes, highly transcribed by pol III in vivo are known replication fork barriers. One of the transcription factors, the PAF1C (RNA polymerase II associated factor 1 complex) is reported to associate with pol I and pol II and influence their transcription. We found low level PAF1C occupancy on the yeast pol III-transcribed genes, which is not correlated with nucleosome positions, pol III occupancy and transcription. PAF1C interacts with the pol III transcription complex and causes pol III loss from the genes under replication stress. Genotoxin exposure causes pol III but not Paf1 loss from the genes. In comparison, Paf1 deletion leads to increased occupancy of pol III, γ-H2A and DNA pol2 in gene-specific manner. Paf1 restricts the accumulation of pol III by influencing the pol III pause on the genes, which reduces the pol III barrier to the replication fork progression.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "31554891",
+      "title": "Role of NF-kappaB2-p100 in regulatory T cell homeostasis and activation.",
+      "authors": [
+        "Atika Dhar",
+        "Meenakshi Chawla",
+        "Somdeb Chattopadhyay",
+        "Neelam Oswal",
+        "Danish Umar",
+        "Suman Gupta",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Anna George",
+        "G Aneeshkumar Arimbasseri",
+        "Soumen Basak"
+      ],
+      "year": "2019",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-019-50454-z",
+      "doi_link": "https://doi.org/10.1038/s41598-019-50454-z",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31554891",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Role%20of%20NF-kappaB2-p100%20in%20regulatory%20T%20cell%20homeostasis%20and%20activation%22",
+      "citations": {
+        "semantic_scholar": 14
+      },
+      "abstract": "The immunological roles of the nuclear factor-kappaB (NF-κB) pathway are mediated via the canonical components in immune responses and via non-canonical components in immune organogenesis and homeostasis, although the two components are capable of crosstalk. Regulatory CD4 T cells (Tregs) are homeostatically functional and represent an interesting potential meeting point of these two NF-κB components. We show that mice deficient in the non-canonical NF-κB component gene Nfkb2 (p100) had normal thymic development and suppressive function of Tregs. However, they had enhanced frequencies of peripheral 'effector-phenotype' Tregs (eTregs). In bi-parental chimeras of wild-type (WT) and Nfkb2-/- mice, the Nfkb2-/- genotype was over-represented in Tregs, with a further increase in the relative prominence of eTregs. Consistent with distinct properties of eTregs, the Nfkb2-/- genotype was more prominent in Tregs in extra-lymphoid tissues such as liver in the bi-parental chimeras. The Nfkb2-/- Tregs also displayed greater survival, activation and proliferation in vivo. These Nfkb2-/- Tregs showed higher nuclear NF-κB activity mainly comprising of RelB-containing dimers, in contrast to the prominence of cRel- and RelA-containing dimers in WT Tregs. Since p100 is an inhibitor of RelB activation as well as a participant as cleaved p52 in RelB nuclear activity, we tested bi-parental chimeras of WT and Relb-/- mice, and found normal frequencies of Relb-/- Tregs and eTregs in these chimeric mice. Our findings confirm and extend recent data, and indicate that p100 normally restrains RelB-mediated Treg activation, and in the absence of p100, p50-RelB dimers can contribute to Treg activation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "32187647",
+      "title": "A role for cell-autocrine interleukin-2 in regulatory T-cell homeostasis.",
+      "authors": [
+        "Amanpreet Singh Chawla",
+        "Jasneet Kaur Khalsa",
+        "Atika Dhar",
+        "Suman Gupta",
+        "Danish Umar",
+        "Gopalakrishnan Aneeshkumar Arimbasseri",
+        "Vineeta Bal",
+        "Anna George",
+        "Satyajit Rath"
+      ],
+      "year": "2020",
+      "journal": "Immunology",
+      "doi": "10.1111/imm.13194",
+      "doi_link": "https://doi.org/10.1111/imm.13194",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32187647",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20role%20for%20cell-autocrine%20interleukin-2%20in%20regulatory%20T-cell%20homeostasis%22",
+      "citations": {
+        "crossref": 15
+      },
+      "abstract": "Activated T-cells make both interleukin-2 (IL2) and its high-affinity receptor component CD25. Regulatory CD4 T-cells (Treg cells) do not make IL2, and the IL2-CD25 circuit is considered a paracrine circuit crucial in their generation and maintenance. Yet, all T-cells are capable of making IL2 at some stage during differentiation, making a cell-intrinsic autocrine circuit additionally possible. When we re-visited experiments with mixed bone marrow chimeras using a wide range of ratios of wild-type (WT) and IL2-/- genotype progenitors, we found that, as expected, thymic Treg cells were almost equivalent between WT and IL2-/- genotypes at ratios with WT prominence. However, at WT-limiting ratios, the IL2-/- genotype showed lower thymic Treg frequencies, indicating a role for cell-intrinsic autocrine IL2 in thymic Treg generation under IL2-limiting conditions. Further, peripheral IL2-/- naive CD4 T-cells showed poor conversion to inducible Tregs (pTregs) both in vivo and in vitro, again indicating a significant role for cell-intrinsic autocrine IL2 in their generation. Peripherally, the IL2-/- genotype was less prominent at all WT:IL2-/- ratios among both thymic Tregs (tTregs) and pTregs, adoptively transferred IL2-/- Tregs showed poorer survival than WT Tregs did, and RNA-seq analysis of WT and IL2-/- Tregs showed interesting differences in the T-cell receptor and transforming growth factor-beta-bone morphogenetic protein-JNK pathways between them, suggesting a non-titrating role for cell-intrinsic autocrine IL2 in Treg programming. These data indicate that cell-intrinsic autocrine IL2 plays significant roles in Treg generation and maintenance.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "32839313",
+      "title": "Febrile temperature change modulates CD4 T cell differentiation via a TRPV channel-regulated Notch-dependent pathway.",
+      "authors": [
+        "Danish Umar",
+        "Arundhoti Das",
+        "Suman Gupta",
+        "Somdeb Chattopadhyay",
+        "Debayan Sarkar",
+        "Gauri Mirji",
+        "Jeet Kalia",
+        "Gopalakrishnan Aneeshkumar Arimbasseri",
+        "Jeannine Marie Durdik",
+        "Satyajit Rath",
+        "Anna George",
+        "Vineeta Bal"
+      ],
+      "year": "2020",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.1922683117",
+      "doi_link": "https://doi.org/10.1073/pnas.1922683117",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32839313",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Febrile%20temperature%20change%20modulates%20CD4%20T%20cell%20differentiation%20via%20a%20TRPV%20channel-regulated%20Notch-dependent%20pathway%22",
+      "citations": {
+        "crossref": 32
+      },
+      "abstract": "Fever is a conserved and prominent response to infection. Yet, the issue of how CD4 T cell responses are modulated if they occur at fever temperatures remains poorly addressed. We have examined the priming of naive CD4 T cells in vitro at fever temperatures, and we report notable fever-mediated modulation of their cytokine commitment. When naive CD4 T cells were primed by plate-bound anti-CD3 and anti-CD28 monoclonal antibodies at moderate fever temperature (39 °C), they enhanced commitment to IL4/5/13 (Th2) and away from IFNg (Th1). This was accompanied by up-regulation of the Th2-relevant transcription factor GATA3 and reduction in the Th1-relevant transcription factor Tbet. Fever sensing by CD4 T cells involved transient receptor potential vanilloid cation channels (TRPVs) since TRPV1/TRPV4 antagonism blocked the febrile Th2 switch, while TRPV1 agonists mediated a Th2 switch at 37 °C. The febrile Th2 switch was IL4 independent, but a γ-secretase inhibitor abrogated it, and it was not found in Notch1-null CD4 T cells, identifying the Notch pathway as a major mediator. However, when naive CD4 T cells were primed via antigen and dendritic cells (DCs) at fever temperatures, the Th2 switch was abrogated via increased production of IL12 from DCs at fever temperatures. Thus, immune cells directly sense fever temperatures with likely complex physiological consequences.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "33149204",
+      "title": "Umbilical cord tissue is a robust source for mesenchymal stem cells with enhanced myogenic differentiation potential compared to cord blood.",
+      "authors": [
+        "Shivangi Mishra",
+        "Jayesh Kumar Sevak",
+        "Anamica Das",
+        "G Aneeshkumar Arimbasseri",
+        "Shinjini Bhatnagar",
+        "Suchitra D Gopinath"
+      ],
+      "year": "2020",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-020-75102-9",
+      "doi_link": "https://doi.org/10.1038/s41598-020-75102-9",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33149204",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Umbilical%20cord%20tissue%20is%20a%20robust%20source%20for%20mesenchymal%20stem%20cells%20with%20enhanced%20myogenic%20differentiation%20potential%20compared%20to%20cord%20blood%22",
+      "citations": {
+        "crossref": 19
+      },
+      "abstract": "Differentiation of mesenchymal stem cells (MSCs) derived from two different sources of fetal tissues such as umbilical cord blood (UCB) and tissue (UCT) into skeletal muscle have remained underexplored. Here, we present a comparative analysis of UCB and UCT MSCs, in terms of surface markers, proliferation and senescence marker expression. We find that CD45",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "33568634",
+      "title": "Alternative splicing of ceramide synthase 2 alters levels of specific ceramides and modulates cancer cell proliferation and migration in Luminal B breast cancer subtype.",
+      "authors": [
+        "Trishna Pani",
+        "Kajal Rajput",
+        "Animesh Kar",
+        "Harsh Sharma",
+        "Rituparna Basak",
+        "Nihal Medatwal",
+        "Sandhini Saha",
+        "Gagan Dev",
+        "Sharwan Kumar",
+        "Siddhi Gupta",
+        "Arnab Mukhopadhyay",
+        "Dipankar Malakar",
+        "Tushar Kanti Maiti",
+        "Aneeshkumar G Arimbasseri",
+        "S V S Deo",
+        "Ravi Datta Sharma",
+        "Avinash Bajaj",
+        "Ujjaini Dasgupta"
+      ],
+      "year": "2021",
+      "journal": "Cell death & disease",
+      "doi": "10.1038/s41419-021-03436-x",
+      "doi_link": "https://doi.org/10.1038/s41419-021-03436-x",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33568634",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Alternative%20splicing%20of%20ceramide%20synthase%202%20alters%20levels%20of%20specific%20ceramides%20and%20modulates%20cancer%20cell%20proliferation%20and%20migration%20in%20Luminal%20B%20breast%20cancer%20subtype%22",
+      "citations": {
+        "crossref": 19
+      },
+      "abstract": "Global dysregulation of RNA splicing and imbalanced sphingolipid metabolism has emerged as promoters of cancer cell transformation. Here, we present specific signature of alternative splicing (AS) events of sphingolipid genes for each breast cancer subtype from the TCGA-BRCA dataset. We show that ceramide synthase 2 (CERS2) undergoes a unique cassette exon event specifically in Luminal B subtype tumors. We validated this exon 8 skipping event in Luminal B cancer cells compared to normal epithelial cells, and in patient-derived tumor tissues compared to matched normal tissues. Differential AS-based survival analysis shows that this AS event of CERS2 is a poor prognostic factor for Luminal B patients. As Exon 8 corresponds to catalytic Lag1p domain, overexpression of AS transcript of CERS2 in Luminal B cancer cells leads to a reduction in the level of very-long-chain ceramides compared to overexpression of protein-coding (PC) transcript of CERS2. We further demonstrate that this AS event-mediated decrease of very-long-chain ceramides leads to enhanced cancer cell proliferation and migration. Therefore, our results show subtype-specific AS of sphingolipid genes as a regulatory mechanism that deregulates sphingolipids like ceramides in breast tumors, and can be explored further as a suitable therapeutic target.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "34877816",
+      "title": "Systemic ablation of vitamin D receptor leads to skeletal muscle glycogen storage disorder in mice.",
+      "authors": [
+        "Anamica Das",
+        "Suchitra D Gopinath",
+        "Gopalakrishnan Aneeshkumar Arimbasseri"
+      ],
+      "year": "2022",
+      "journal": "Journal of cachexia, sarcopenia and muscle",
+      "doi": "10.1002/jcsm.12841",
+      "doi_link": "https://doi.org/10.1002/jcsm.12841",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34877816",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Systemic%20ablation%20of%20vitamin%20D%20receptor%20leads%20to%20skeletal%20muscle%20glycogen%20storage%20disorder%20in%20mice%22",
+      "citations": {
+        "semantic_scholar": 19
+      },
+      "abstract": "BACKGROUND: Vitamin D deficiency leads to pathologies of multiple organ systems including skeletal muscle. Patients with severe vitamin D deficiency exhibit muscle weakness and are susceptible to frequent falls. Mice lacking a functional vitamin D receptor (VDR) develop severe skeletal muscle atrophy immediately after weaning. But the root cause of myopathies when vitamin D signalling is impaired is unknown. Because vitamin D deficiency leads to metabolic changes as well, we hypothesized that the skeletal muscle atrophy in mice lacking VDR may have a metabolic origin. METHODS: We analysed wild-type (WT) mice as well as vitamin D receptor null (vdr-/-) mice for skeletal muscle proteostasis, energy metabolism, systemic glucose homeostasis, and muscle glycogen levels. Dysregulation of signalling pathways as well as the glycogen synthesis and utilization machinery were also analysed using western blots. qRT-PCR assays were performed to understand changes in mRNA levels. RESULTS: Skeletal muscles of vdr-/- exhibited higher expression levels of muscle-specific E3 ubiquitin ligases and showed increased protein ubiquitination, suggesting up-regulation of protein degradation. Foxo1 transcription factor was activated in vdr-/- while Foxo3 factor was unaffected. Fasting protein synthesis as well as mTORC1 pathways were severely down-regulated in vdr-/- mice. Skeletal muscle ATP levels were low in vdr-/- (0.58 ± 0.18 μmol/mL vs. 1.6 ± 0.0.14 μmol/mL, P = 0.006), leading to increased AMPK activity. Muscle energy deprivation was not caused by decreased mitochondrial activity as we found the respiratory complex II activity in vdr-/- muscles to be higher compared with WT (0.29 ± 0.007 mU/μL vs. 0.16 ± 0.005 mU/μL). vdr-/- mice had lower fasting blood glucose levels (95 ± 14.5 mg/dL vs. 148.6 ± 6.1 mg/dL, P = 0.0017) while they exhibited hyperlactataemia (7.42 ± 0.31 nmol/μL vs. 4.95 ± 0.44 nmol/μL, P = 0.0032), suggesting systemic energy deficiency in these mice. Insulin levels in these mice were significantly lower in response to intraperitoneal glucose injection (0.69 ± 0.08 pg/mL vs. 1.11 ± 0.09 pg/mL, P = 0.024). Skeletal muscles of these mice exhibit glycogen storage disorder characterized by increased glycogen accumulation. The glycogen storage disorder in vdr-/- muscles is driven by increased glycogen synthase activity and decreased glycogen phosphorylase activity. Increased glycogenin expression supports higher levels of glycogen synthesis in these muscles. CONCLUSIONS: The results presented show that lack of vitamin D signalling leads to a glycogen storage defect in the skeletal muscles, which leads to muscle energy deprivation. The inability of vdr-/- skeletal muscles to use glycogen leads to systemic defects in glucose homeostasis, which in turn leads to proteostasis defects in skeletal muscles and atrophy.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "35471080",
+      "title": "Mycobacterium tuberculosis Transcription Factor EmbR Regulates the Expression of Key Virulence Factors That Aid in ",
+      "authors": [
+        "Suresh Kumar",
+        "Mehak Zahoor Khan",
+        "Neha Khandelwal",
+        "Chen Chongtham",
+        "Biplab Singha",
+        "Ankita Dabla",
+        "Debashree Behera",
+        "Archana Singh",
+        "Balasubramanian Gopal",
+        "G Aneeshkumar Arimbasseri",
+        "Siddhesh S Kamat",
+        "Vinay Kumar Nandicoori"
+      ],
+      "year": "2022",
+      "journal": "mBio",
+      "doi": "10.1128/mbio.03836-21",
+      "doi_link": "https://doi.org/10.1128/mbio.03836-21",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35471080",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mycobacterium%20tuberculosis%20Transcription%20Factor%20EmbR%20Regulates%20the%20Expression%20of%20Key%20Virulence%20Factors%20That%20Aid%20in%22",
+      "citations": {
+        "crossref": 7
+      },
+      "abstract": "Mycobacterium tuberculosis encodes ~200 transcription factors that modulate gene expression under different microenvironments in the host. Even though high-throughput chromatin immunoprecipitation sequencing and transcriptome sequencing (RNA-seq) studies have identified the regulatory network for ~80% of transcription factors, many transcription factors remain uncharacterized. EmbR is one such transcription factor whose ",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "35851541",
+      "title": "A Vitamin D-RelB/NF-κB Pathway Limits Chandipura Virus Multiplication by Rewiring the Homeostatic State of Autoregulatory Type 1 IFN-IRF7 Signaling.",
+      "authors": [
+        "Yashika Ratra",
+        "Naveen Kumar",
+        "Manti K Saha",
+        "Chandrima Bharadwaj",
+        "Chen Chongtham",
+        "Sachendra S Bais",
+        "Guruprasad Medigeshi",
+        "Gopalakrishnan A Arimbasseri",
+        "Soumen Basak"
+      ],
+      "year": "2022",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.2101054",
+      "doi_link": "https://doi.org/10.4049/jimmunol.2101054",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35851541",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20Vitamin%20D-RelB/NF-%CE%BAB%20Pathway%20Limits%20Chandipura%20Virus%20Multiplication%20by%20Rewiring%20the%20Homeostatic%20State%20of%20Autoregulatory%20Type%201%20IFN-IRF7%20Signaling%22",
+      "citations": {
+        "crossref": 2
+      },
+      "abstract": "Besides its functions in the skeletomuscular system, vitamin D is known to alleviate viral-inflicted pathologies. However, the mechanism underlying protective vitamin D function remains unclear. We examined the role of vitamin D in controlling cellular infections by Chandipura virus, an RNA virus implicated in human epidemics. How immune signaling pathways, including those regulating NF-κB and IFN regulatory factors (IRFs), are activated in virus-infected cells has been well studied. Our investigation involving human- and mouse-derived cells revealed that vitamin D instructs the homeostatic state of these antiviral pathways, leading to cellular resilience to subsequent viral infections. In particular, vitamin D provoked autoregulatory type 1 IFN-IRF7 signaling even in the absence of virus infection by downmodulating the expression of the IFN-inhibitory NF-κB subunit RelB. Indeed, RelB deficiency rendered vitamin D treatment redundant, whereas IRF7 depletion abrogated antiviral vitamin D action. In sum, immune signaling homeostasis appears to connect micronutrients to antiviral immunity at the cellular level. The proposed link may have a bearing on shaping public health policy during an outbreak.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "36555660",
+      "title": "Differential Regulation of Two Arms of mTORC1 Pathway Fine-Tunes Global Protein Synthesis in Resting B Lymphocytes.",
+      "authors": [
+        "Gagan Dev",
+        "Amanpreet Singh Chawla",
+        "Suman Gupta",
+        "Vineeta Bal",
+        "Anna George",
+        "Satyajit Rath",
+        "G Aneeshkumar Arimbasseri"
+      ],
+      "year": "2022",
+      "journal": "International journal of molecular sciences",
+      "doi": "10.3390/ijms232416017",
+      "doi_link": "https://doi.org/10.3390/ijms232416017",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36555660",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Differential%20Regulation%20of%20Two%20Arms%20of%20mTORC1%20Pathway%20Fine-Tunes%20Global%20Protein%20Synthesis%20in%20Resting%20B%20Lymphocytes%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "Protein synthesis is tightly regulated by both gene-specific and global mechanisms to match the metabolic and proliferative demands of the cell. While the regulation of global protein synthesis in response to mitogen or stress signals is relatively well understood in multiple experimental systems, how different cell types fine-tune their basal protein synthesis rate is not known. In a previous study, we showed that resting B and T lymphocytes exhibit dramatic differences in their metabolic profile, with implications for their post-activation function. Here, we show that resting B cells, despite being quiescent, exhibit increased protein synthesis in vivo as well as ex vivo. The increased protein synthesis in B cells is driven by mTORC1, which exhibits an intermediate level of activation in these cells when compared with resting T cells and activated B cells. A comparative analysis of the transcriptome and translatome of these cells indicates that the genes encoding the MHC Class II molecules and their chaperone CD74 are highly translated in B cells. These data suggest that the translatome of B cells shows enrichment for genes associated with antigen processing and presentation. Even though the B cells exhibit higher mTORC1 levels, they prevent the translational activation of TOP mRNAs, which are mostly constituted by ribosomal proteins and other translation factors, by upregulating 4EBP1 levels. This mechanism may keep the protein synthesis machinery under check while enabling higher levels of translation in B cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "36624167",
+      "title": "Codon optimality has minimal effect on determining translation efficiency in mycobacterium tuberculosis.",
+      "authors": [
+        "Smitha Soman",
+        "Somdeb Chattopadhyay",
+        "Siya Ram",
+        "Vinay Kumar Nandicoori",
+        "G Aneeshkumar Arimbasseri"
+      ],
+      "year": "2023",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-022-27164-0",
+      "doi_link": "https://doi.org/10.1038/s41598-022-27164-0",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36624167",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Codon%20optimality%20has%20minimal%20effect%20on%20determining%20translation%20efficiency%20in%20mycobacterium%20tuberculosis%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "Mycobacterium tuberculosis (Mtb) is a slow-growing, intracellular pathogen that exhibits a high GC-rich genome. Several factors, including the GC content of the genome, influence the evolution of specific codon usage biases in genomes. As a result, the Mtb genome exhibits strong biases for amino acid usage and codon usage. Codon usage of mRNAs affects several aspects of translation, including accuracy, efficiency, and protein folding. Here we address the effect of codon usage biases in determining the translation efficiency of mRNAs in Mtb. Unlike most commonly studied organisms, Mtb carries a single copy of each tRNA gene. However, we show that the relative levels of tRNAs in the Mtb tRNA pool vary by an order of magnitude. Our results show that the codons decoded by the abundant tRNAs indeed show higher adaptability. Moreover, there is a general positive correlation between genomic codon usage and the tRNA adaptability of codons (TAc). We further estimated the optimality of the codon and mRNAs by considering both the TAc and the tRNA demand. These measures did not show any correlation with mRNA abundance and translation efficiency. There was no correlation between tRNA adaptability and ribosome pausing as well. Taken together, we conclude that the translation machinery, and the tRNA pool of an organism, co-evolve with the codon usage to optimize the translation efficiency of an organism. Thus the deleterious effect of maladapted codons is not pronounced.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 13,
+    "publications_by_year": {
+      "2023": 1,
+      "2022": 4,
+      "2021": 1,
+      "2020": 3,
+      "2019": 3,
+      "2018": 1
+    },
+    "top_journals": [
+      "Scientific reports",
+      "Immunology",
+      "Biochimica et biophysica acta. Gene regulatory mechanisms",
+      "Proceedings of the National Academy of Sciences of the United States of America",
+      "Cell death & disease"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 68,
+      "frequent_collaborators": [
+        "Vineeta Bal",
+        "Anna George",
+        "Satyajit Rath",
+        "G Aneeshkumar Arimbasseri",
+        "Gopalakrishnan Aneeshkumar Arimbasseri",
+        "Suman Gupta",
+        "Somdeb Chattopadhyay",
+        "Amanpreet Singh Chawla"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "32839313",
+        "title": "Febrile temperature change modulates CD4 T cell differentiation via a TRPV channel-regulated Notch-dependent pathway.",
+        "citations": 32,
+        "year": "2020"
+      },
+      {
+        "publication_id": "31318442",
+        "title": "Functionally significant metabolic differences between B and T lymphocyte lineages.",
+        "citations": 26,
+        "year": "2019"
+      }
+    ]
+  }
+}

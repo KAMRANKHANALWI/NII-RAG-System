@@ -1,0 +1,287 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Asok Mukhopadhyay",
+    "email": "ashok@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/former-faculty/dr-asok-mukhopadhyay",
+    "research_domain": "Former",
+    "faculty_status": "former",
+    "search_date": "2025-06-26T23:14:04.843102",
+    "total_publications": 10,
+    "last_updated": "2025-06-26",
+    "description": "This document contains a complete list of publications by Dr. Asok Mukhopadhyay, former faculty in Former at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "17379762",
+      "title": "Characterization of the potential subpopulation of bone marrow cells involved in the repair of injured liver tissue.",
+      "authors": [
+        "Satish Khurana",
+        "Asok Mukhopadhyay"
+      ],
+      "year": "2007",
+      "journal": "Stem cells (Dayton, Ohio)",
+      "doi": "10.1634/stemcells.2006-0656",
+      "doi_link": "https://doi.org/10.1634/stemcells.2006-0656",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17379762",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Characterization%20of%20the%20potential%20subpopulation%20of%20bone%20marrow%20cells%20involved%20in%20the%20repair%20of%20injured%20liver%20tissue%22",
+      "citations": {
+        "semantic_scholar": 52
+      },
+      "abstract": "In vitro and in vivo studies have shown that bone marrow (BM) stem cells can differentiate into hepatocytes. However, it is not known whether such a differentiation event occurs during normal liver regeneration process. We investigated the role of endogenous BM cells in liver regeneration following acute injury and phenotypically characterized them. We showed that Lin(-)Sca-1(+) cells proliferate in the BM and subsequently mobilize in the peripheral blood in response to liver injury by CCl(4) or an injury simulating condition. In vitro studies confirmed that the damaged liver tissue was capable of inducing migration of a distinct population of BM cells, phenotypically characterized as Lin(-)CXCR4(+)OSMRbeta(+), which can differentiate into albumin and cytoketarin-18 expressing cells. In order to study the migration of BM cells to the regenerating liver, the hematopoietic system was reconstituted with green fluorescent protein (GFP)(+) BM cells by intra-bone marrow transplantation prior to liver damage. The BM-derived cells were found to express hepatocyte-specific genes and proteins in the regenerating liver. Quantitative polymerase chain reaction analysis for a recipient specific gene (sry) in sorted GFP(+)Alb(+) donor cells suggested that fusion was a rare event in this experimental model. In conclusion, we first demonstrated the potential phenotype of BM cells involved in regeneration of liver from acute injury, primarily by the process of direct differentiation. Disclosure of potential conflicts of interest is found at the end of this article.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "18657875",
+      "title": "In vitro transdifferentiation of adult hematopoietic stem cells: an alternative source of engraftable hepatocytes.",
+      "authors": [
+        "Satish Khurana",
+        "Asok Mukhopadhyay"
+      ],
+      "year": "2008",
+      "journal": "Journal of hepatology",
+      "doi": "10.1016/j.jhep.2008.05.019",
+      "doi_link": "https://doi.org/10.1016/j.jhep.2008.05.019",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18657875",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22In%20vitro%20transdifferentiation%20of%20adult%20hematopoietic%20stem%20cells%3A%20an%20alternative%20source%20of%20engraftable%20hepatocytes%22",
+      "citations": {
+        "semantic_scholar": 48
+      },
+      "abstract": "BACKGROUND/AIMS: We attempted to establish an ex vivo model for transdifferentiation of hematopoietic stem cells (HSCs) into functional hepatocytes for transplantation into healthy liver. METHODS: We mimicked the liver regenerating microenvironment in culture by incorporating extracellular matrix components and sera obtained from mice with liver damaged by a hepatotoxic chemical. The differentiated hepatic cells were characterized in terms of liver-specific gene and protein expression. Cellular changes were determined by examining ultrastructure, and the functional activity was confirmed by cytochrome p450 enzyme assay. The engraftability of these hepatic cells in healthy liver tissue was checked by immunohistochemical analysis. RESULTS: A specific sub-population of bone marrow-derived cells transdifferentiated into hepatic cells, confirmed by the expression of genes and proteins. The differentiated cells were found functionally active and ultrastructurally similar to primary hepatocytes in terms of the formation of microvilli and other cellular organelles. In healthy liver, these cells engrafted into hepatocyte plates and maintained the expression of albumin and cytokeratin-18. CONCLUSIONS: Hepatic culture system differentiated HSCs into functional hepatocytes, which were engraftable in healthy liver. This finding offers an alternative strategy for treating many liver ailments using autologous bone marrow cells, hence avoiding immuno-suppressive drugs.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "18988804",
+      "title": "Hematopoietic progenitors from early murine fetal liver possess hepatic differentiation potential.",
+      "authors": [
+        "Satish Khurana",
+        "Asok Mukhopadhyay"
+      ],
+      "year": "2008",
+      "journal": "The American journal of pathology",
+      "doi": "10.2353/ajpath.2008.080411",
+      "doi_link": "https://doi.org/10.2353/ajpath.2008.080411",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18988804",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Hematopoietic%20progenitors%20from%20early%20murine%20fetal%20liver%20possess%20hepatic%20differentiation%20potential%22",
+      "citations": {
+        "crossref": 11
+      },
+      "abstract": "Bipotential hepatoblasts differentiate into hepatocytes and cholangiocytes during liver development. It is believed that hepatoblasts originate from endodermal tissue. Here, we provide evidence for the presence of hepatic progenitor cells in the hematopoietic compartment at an early stage of liver development. Flow cytometric analysis showed that at early stages of liver development, approximately 13% of CD45(+) cells express Delta-like protein-1, a marker of hepatoblasts. Furthermore, reverse transcriptase-PCR data suggest that many hepatic genes are expressed in these cells. Cell culture experiments confirmed the hepatic differentiation potential of these cells with the loss of the CD45 marker. We observed that both hematopoietic activity in Delta-like protein-1(+) cells and hepatic activity in CD45(+) cells were high at embryonic day 10.5 and declined thereafter. Clonal analysis revealed that the hematopoietic fraction of fetal liver cells at embryonic day 10.5 gave rise to both hepatic and hematopoietic colonies. The above results suggest a common source of these two functionally distinct cell lineages. In utero transplantation experiments confirmed these results, as green fluorescent protein-expressing CD45(+) cells at the same stage of development yielded functional hepatocytes and hematopoietic reconstitution. Since these cells were unable to differentiate into cytokeratin-19-expressing cholangiocytes, we distinguished them from hepatoblasts. This preliminary study provides hope to correct many liver diseases during prenatal development via transplantation of fetal liver hematopoietic cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "19752394",
+      "title": "The therapeutic effect of bone marrow-derived liver cells in the phenotypic correction of murine hemophilia A.",
+      "authors": [
+        "Neelam Yadav",
+        "Sumod Kanjirakkuzhiyil",
+        "Suresh Kumar",
+        "Manish Jain",
+        "Ashutosh Halder",
+        "Renu Saxena",
+        "Asok Mukhopadhyay"
+      ],
+      "year": "2009",
+      "journal": "Blood",
+      "doi": "10.1182/blood-2009-02-202788",
+      "doi_link": "https://doi.org/10.1182/blood-2009-02-202788",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19752394",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20therapeutic%20effect%20of%20bone%20marrow-derived%20liver%20cells%20in%20the%20phenotypic%20correction%20of%20murine%20hemophilia%20A%22",
+      "citations": {
+        "semantic_scholar": 46
+      },
+      "abstract": "The transdifferentiation of bone marrow cells (BMCs) into hepatocytes has created enormous interest in applying this process to the development of cellular medicine for degenerative and genetic diseases. Because the liver is the primary site of factor VIII (FVIII) synthesis, we hypothesized that the partial replacement of mutated liver cells by healthy cells in hemophilia A mice could manage the severity of the bleeding disorder. We perturbed the host liver with acetaminophen to facilitate the engraftment and hepatic differentiation of lineage-depleted enhanced green fluorescent protein-expressing BMCs. Immunohistochemistry experiments with the liver tissue showed that the donor-derived cells expressed the markers of both hepatocytes (albumin and cytokeratin-18) and endothelial cells (von Willebrand factor). The results of fluorescent in situ hybridization and immunocytochemistry experiments suggested that differentiation was direct in this model. The BMC-recipient mice expressed FVIII protein and survived in a tail clip challenge experiment. Furthermore, a coagulation assay confirmed that the plasma FVIII activity was maintained at 20.4% (+/- 3.6%) of normal pooled plasma activity for more than a year without forming its inhibitor. Overall, this report demonstrated that BMCs rescued the bleeding phenotype in hemophilia A mice, suggesting a potential therapy for this and other related disorders.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "19878063",
+      "title": "Evaluation of four methods for processing human cord blood and subsequent study of the expansion of progenitor stem cells isolated using the best method.",
+      "authors": [
+        "Kuljeet Singh",
+        "Ankita Srivastava",
+        "Nitin Mathur",
+        "Sunesh Kumar",
+        "Lalit Kumar",
+        "Asok Mukhopadhyay",
+        "Vinod Konchupillai"
+      ],
+      "year": "2009",
+      "journal": "Cytotherapy",
+      "doi": "10.3109/14653240902824740",
+      "doi_link": "https://doi.org/10.3109/14653240902824740",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19878063",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Evaluation%20of%20four%20methods%20for%20processing%20human%20cord%20blood%20and%20subsequent%20study%20of%20the%20expansion%20of%20progenitor%20stem%20cells%20isolated%20using%20the%20best%20method%22",
+      "citations": {
+        "crossref": 7
+      },
+      "abstract": "BACKGROUND AIMS: The application of cord blood (CB)-derived hematopoietic cells in allogeneic transplantation has been restricted because of the unavailability of adequate cell numbers from one unit of CB and their delayed engraftment in recipients. The main purpose of this study was to develop an economic process for isolating nucleated cells from CB and expanding enriched CD133(+) cells. METHODS: Four protocols for processing CB, using different combinations of density-gradient centrifugation, hydroxyethyl starch (HES) and NH4Cl treatment, were compared regarding the yields of CD45(+), CD34(+)/CD133(+) and colony-forming cells. CD133-enriched cells were expanded for 10 days in the presence of hematopoietic growth factor-supplemented medium. The performance of the culture was evaluated by analyzing colony-forming potential, fold-expansion of primitive hematopoietic stem cells (HSC) and lineage commitment by flow cytometry. RESULTS: A two-step treatment of CB with HES followed by NH4Cl resulted in the highest recovery of CD45(+) (84.3%) and CD34(+) (69.1%) cells compared with that present in umbilical CB. A suspension culture of CD133-enriched cells resulted in an average 150-fold increase in nucleated cells, of which CD133(+), CD34(+) and CD34(+) CD38 cell expansions were 17.2+/-1.3, 40+/-4.6, and 6.9+/-1.1 fold, respectively. The total myeloid colony-forming cell count was almost 3800-fold higher than that present in the processed CB. CONCLUSIONS: The highest yields of nucleated and progenitor stem cells were obtained with a two-step processing of CB. The CD133(+) cells obtained by this method are expected to yield enough hematopoietic progenitors for potential allogeneic transplantation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "20018873",
+      "title": "Hepatocyte nuclear factor-4alpha induces transdifferentiation of hematopoietic cells into hepatocytes.",
+      "authors": [
+        "Satish Khurana",
+        "Amit K Jaiswal",
+        "Asok Mukhopadhyay"
+      ],
+      "year": "2010",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M109.058198",
+      "doi_link": "https://doi.org/10.1074/jbc.M109.058198",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20018873",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Hepatocyte%20nuclear%20factor-4alpha%20induces%20transdifferentiation%20of%20hematopoietic%20cells%20into%20hepatocytes%22",
+      "citations": {
+        "crossref": 24
+      },
+      "abstract": "Hematopoietic stem cells can directly transdifferentiate into hepatocytes because of cellular plasticity, but the molecular basis of transdifferentiation is not known. Here, we show the molecular basis using lineage-depleted oncostatin M receptor beta-expressing (Lin(-)OSMRbeta(+)) mouse bone marrow cells in a hepatic differentiation culture system. Differentiation of the cells was marked by the expression of albumin. Hepatocyte nuclear factor (HNF)-4alpha was expressed and translocated into the nuclei of the differentiating cells. Suppression of its activation in OSM-neutralized culture medium inhibited cellular differentiation. Ectopic expression of full-length HNF4alpha in 32D myeloid cells resulted in decreased myeloid colony-forming potential and increased expression of hepatocyte-specific genes and proteins. Nevertheless, the neohepatocytes produced in culture expressed active P450 enzyme. The obligatory role of HNF4alpha in hepatic differentiation was confirmed by transfecting Lin(-)OSMRbeta(+) cells with dominant negative HNF4alpha in the differentiation culture because its expression inhibited the transcription of the albumin and tyrosine aminotransferase genes. The loss and gain of functional activities strongly suggested that HNF4alpha plays a central role in the transdifferentiation process. For the first time, this report demonstrates the mechanism of transdifferentiation of hematopoietic cells into hepatocytes, in which HNF4alpha serves as a molecular switch.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "21199006",
+      "title": "Foe turned friend: multiple functional roles attributable to hyper-activating stem cell factor receptor mutant in regeneration of the haematopoietic cell compartment.",
+      "authors": [
+        "S Pati",
+        "O P Kalra",
+        "A Mukhopadhyay"
+      ],
+      "year": "2011",
+      "journal": "Cell proliferation",
+      "doi": "10.1111/j.1365-2184.2010.00713.x",
+      "doi_link": "https://doi.org/10.1111/j.1365-2184.2010.00713.x",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21199006",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Foe%20turned%20friend%3A%20multiple%20functional%20roles%20attributable%20to%20hyper-activating%20stem%20cell%20factor%20receptor%20mutant%20in%20regeneration%20of%20the%20haematopoietic%20cell%20compartment%22",
+      "citations": {
+        "crossref": 2
+      },
+      "abstract": "OBJECTIVES: Stem cell factor receptor, c-kit, is considered to be the master signalling molecule of haematopoietic stem cells. It develops the orchestral pattern of haematopoietic cell lineages, seen by its varying degree of omnipresence in progenitors, lineage committed and mature cells. We have investigated the effect of over-expressing c-kit on early recovery of the haematopoietic compartment, in irradiated hosts. MATERIALS AND METHODS: Normal bone marrow cells (BMCs) were transfected with Kit(wt) (wild-type c-kit) or its variant Kit(mu) (asp814tyr) by electroporation. Lethally irradiated mice were transplanted with normal or transfected congeneic BMCs. The effect of ectopic expression of c-kit on haematopoietic cell recovery was determined by analysing donor-derived cells. Furthermore, effects of both types of c-kit over-expression on progenitor and lineage-committed cells were examined by flow cytometric analysis of Sca-1 and lineage-committed (Lin(+)) cells respectively. RESULTS: Hyper-activating Kit(mu) significantly improved recovery of the haematopoietic system in irradiated hosts. In vivo results showed that the donor-derived c-kit(+) cell population was increased to more than 3-fold in the case of Kit(mu)-transfected cells compared to normal and Kit(wt) over-expressing BMCs. In general, survival of progenitor and committed cell was improved in the Kit(mu) over-expressing system compared to the other two cohorts. CONCLUSION: These results suggest that recruitment of the hyper-activating variant of c-kit (Kit(mu)) lead to early recovery of the bone marrow of lethally irradiated mice.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "21480781",
+      "title": "Factor VIII can be synthesized in hemophilia A mice liver by bone marrow progenitor cell-derived hepatocytes and sinusoidal endothelial cells.",
+      "authors": [
+        "Neelam Yadav",
+        "Sumod Kanjirakkuzhiyil",
+        "Mallika Ramakrishnan",
+        "Taposh K Das",
+        "Asok Mukhopadhyay"
+      ],
+      "year": "2012",
+      "journal": "Stem cells and development",
+      "doi": "10.1089/scd.2010.0569",
+      "doi_link": "https://doi.org/10.1089/scd.2010.0569",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21480781",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Factor%20VIII%20can%20be%20synthesized%20in%20hemophilia%20A%20mice%20liver%20by%20bone%20marrow%20progenitor%20cell-derived%20hepatocytes%20and%20sinusoidal%20endothelial%20cells%22",
+      "citations": {
+        "semantic_scholar": 25
+      },
+      "abstract": "Hemophilia A (HA) is caused by mutation in factor VIII (FVIII) gene in humans; it leads to inadequate synthesis of active protein. Liver is the primary site of FVIII synthesis; however, the specific cell types responsible for its synthesis remain controversial. We propose that the severity of the bleeding disorder could be ameliorated by partial replacement of mutated liver cells by healthy cells in HA mice. The aim of this investigation was to study the cellular origin of FVIII by examining bone marrow cell therapy for treatment of HA in mice. Recipient liver was perturbed with either acetaminophen or monocrotaline to facilitate the engraftment and differentiation of lineage-depleted (Lin(-)) enhanced green fluorescent protein-expressing bone marrow cells. Immunohistochemical analysis of liver tissue was conducted to identify the donor-derived cells that expressed FVIII. This identification was confirmed by transmission electron microscopy and quantitative gene expression analysis. The phenotypic correction in HA mice was determined by tail-clip challenge and FVIII level in plasma by Chromogenix and activated partial thromboplastin time assays. Immunohistochemical analysis showed that von Willebrand factor and cytokeratin-18-expressing endothelial cells and hepatocytes, respectively, were obtained from BM-derived cells. Both cell types expressed FVIII light chain mRNA and protein, which was further confirmed by transmission electron microscopy. The transplanted HA mice showed FVIII activity in plasma (P<0.01) and survived tail-clip challenge (P<0.001). Thus, we conclude that BM-derived hepatocytes and endothelial cells can synthesize FVIII in liver and correct bleeding phenotype in HA mice.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "22268587",
+      "title": "Hypoxia improves expansion potential of human cord blood-derived hematopoietic stem cells and marrow repopulation efficiency.",
+      "authors": [
+        "Sushmita Roy",
+        "Manjul Tripathy",
+        "Nitin Mathur",
+        "Asish Jain",
+        "Asok Mukhopadhyay"
+      ],
+      "year": "2012",
+      "journal": "European journal of haematology",
+      "doi": "10.1111/j.1600-0609.2012.01759.x",
+      "doi_link": "https://doi.org/10.1111/j.1600-0609.2012.01759.x",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22268587",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Hypoxia%20improves%20expansion%20potential%20of%20human%20cord%20blood-derived%20hematopoietic%20stem%20cells%20and%20marrow%20repopulation%20efficiency%22",
+      "citations": {
+        "semantic_scholar": 60
+      },
+      "abstract": "OBJECTIVES: In bone marrow, hematopoietic stem cells (HSCs) reside in the most hypoxic endosteum niche, whereas the proliferating progenitors are located near the relatively oxygen-rich vascular region. High oxygen tension is potentially detrimental to HSCs. The objective of this investigation was to compare cellular, functional, and molecular responses of human umbilical cord blood (UCB)-derived hematopoietic stem and progenitor cells in culture under hypoxic and normoxic conditions. METHODS: CD133-enriched UCB cells were cultured in growth factor containing serum-free and serum-supplemented medium under 5% O(2) (hypoxia) or 21% O(2) (normoxia) for 10 d. The phenotypes of expanded cells were analyzed by flow cytometry and the engraftability by SCID-repopulation assay. The expression of hypoxia-inducible factor (HIF)-1α and some of its target genes was analyzed by real-time RT-PCR. RESULTS: In hypoxic culture, CD34(+) CD38(-) cells were expanded about 27-fold, which was significantly (P < 0.01) higher than that obtained in normoxic culture. Serum-free culture did not support the growth of cells in the presence of 21% O(2) . Myeloid colony-forming potential of cells was significantly (P < 0.05) increased in 5% O(2) compared with 21% O(2) culture. SCID-repopulation efficiency seems to be better preserved in the cells cultured under hypoxic conditions. Hypoxia significantly (P < 0.05) induced the expression of HIF-1α, vascular endothelial growth factor (VEGF), and ABCG2 genes and also upregulated CXCR4 receptor expression. CONCLUSIONS: Low oxygen tension enhanced the proliferation of UCB-derived HSC/progenitor cells and maintenance of SCID-repopulating cells than normoxia. These expanded cells are expected to be beneficial in the patients who lack human leukocyte antigen (HLA)-matched donors.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "23227199",
+      "title": "Donor hematopoietic stem cells confer long-term marrow reconstitution by self-renewal divisions exceeding to that of host cells.",
+      "authors": [
+        "Sushmita Roy",
+        "Saleem Javed",
+        "Swatantra K Jain",
+        "Subeer S Majumdar",
+        "Asok Mukhopadhyay"
+      ],
+      "year": "2012",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0050693",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0050693",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23227199",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Donor%20hematopoietic%20stem%20cells%20confer%20long-term%20marrow%20reconstitution%20by%20self-renewal%20divisions%20exceeding%20to%20that%20of%20host%20cells%22",
+      "citations": {
+        "semantic_scholar": 9
+      },
+      "abstract": "Dormant hematopoietic stem cells (HSCs) are activated by microenvironmental cues of the niche in response to the injury of bone marrow (BM). It is not clearly understood how engrafted cells respond to these cues and are involved in marrow regeneration. The purpose of this study was to decipher this cellular response in competitive environment. BM cells of CD45.2 mice were transplanted in sub-lethally irradiated CD45.1 mice. The status of the donor and recipient stem cells (LSK: Lin(-)Sca-1(+)c-Kit(+)) were determined by flowcytometry using CD45 alleles specific antibodies. The presence of long-term engraftable stem cells was confirmed by marrow repopulation assay in secondary hosts, and cell cycle status was determined by staining with Ho33342 and pyronin Y, and BrdU retention assay. The expressions of different hematopoietic growth factor genes in stromal compartment (CD45(-) cells) were assessed by real-time reverse transcriptase- polymerase chain reaction (RT-PCR). The presence of donor cells initially stimulated the proliferation of host LSK cells compared with control mice without transplantation. This was expected due to pro-mitotic and anti-apoptotic factors secreted by the donor hematopoietic cells. Upon transplantation, a majority of the donor LSK cells entered into cell cycle, and later they maintained cell cycle status similar to that in the normal mouse. Donor-derived LSK cells showed 1000-fold expansion within 15 days of transplantation. Donor-derived cells not only regenerated BM in the primary irradiated host for long-term, they were also found to be significantly involved in marrow regeneration after the second cycle of irradiation. The proliferation of LSK cells was associated with the onset of colossal expression of different hematopoietic growth factor genes in non-hematopoietic cellular compartment. Activation of donor LSK cells was found to be dynamically controlled by BM cellularity. Long-term study showed that a high level of hematopoietic reconstitution could be possible by donor cells in a sub-lethally irradiated host.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 10,
+    "publications_by_year": {
+      "2012": 3,
+      "2011": 1,
+      "2010": 1,
+      "2009": 2,
+      "2008": 2,
+      "2007": 1
+    },
+    "top_journals": [
+      "Stem cells (Dayton, Ohio)",
+      "Journal of hepatology",
+      "The American journal of pathology",
+      "Blood",
+      "Cytotherapy"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 21,
+      "frequent_collaborators": [
+        "Asok Mukhopadhyay",
+        "Sumod Kanjirakkuzhiyil",
+        "Nitin Mathur",
+        "Suresh Kumar",
+        "Manish Jain",
+        "Ashutosh Halder",
+        "Renu Saxena",
+        "Ankita Srivastava"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "22268587",
+        "title": "Hypoxia improves expansion potential of human cord blood-derived hematopoietic stem cells and marrow repopulation efficiency.",
+        "citations": 60,
+        "year": "2012"
+      },
+      {
+        "publication_id": "17379762",
+        "title": "Characterization of the potential subpopulation of bone marrow cells involved in the repair of injured liver tissue.",
+        "citations": 52,
+        "year": "2007"
+      },
+      {
+        "publication_id": "18657875",
+        "title": "In vitro transdifferentiation of adult hematopoietic stem cells: an alternative source of engraftable hepatocytes.",
+        "citations": 48,
+        "year": "2008"
+      }
+    ]
+  }
+}

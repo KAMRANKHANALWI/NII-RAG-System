@@ -1,0 +1,852 @@
+{
+  "metadata": {
+    "total_faculty": 25,
+    "data_collection_date": "2025-07-03T16:13:37.910969",
+    "last_updated": "2025-07-03",
+    "faculty_status": "former",
+    "research_domains": [
+      "Cancer Biology",
+      "Structural Biology",
+      "Infectious Disease",
+      "Cell Biology",
+      "Immunology",
+      "Biochemistry",
+      "Genetics & Genomics"
+    ]
+  },
+  "faculty_research": [
+    {
+      "faculty_id": "dr_rahul_pal_research",
+      "name": "Dr. Rahul Pal",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "The focus of the lab centres on disorders of proliferation, including cancer and systemic autoimmune diseases, and the delineation of novel pathways and targets.  Such studies are expected to extend theories of etiology.",
+      "research_summary": "Humans are afflicted by several autoimmune diseases, the causes for many of which remain unknown. The pathological consequence of autoreactive immune responses are the subject of intense investigation. Systemic Lupus Erythematosus (SLE) is a prototypical non-organ specific autoimmune disease which generally manifests a life-long, relapsing-remitting phenotype. Multiple organs are targeted; chronic renal failure is a serious consequence, and patients can also exhibit arthritis, neurological involvement and hemolytic anemia. More than a hundred different autoantibody specificities have been described; drawing correlations between disease manifestations and autoimmune reactivity remains a high priority. Anti-phospholipid autoreactivity, a frequent occurrence in systemic autoimmune disease, has been associated with autoimmune hemolytic anemia, thrombotic events and early pregnancy loss. The immunological and physiological sequelae arising as a result of the release of sequestered hemoglobin in animals prone to autoimmunity form a focus of current investigations. Interestingly, in both SLE patients and in animals prone to systemic autoimmunity, aberrance in apoptotic processes has been observed. Excessive spontaneous apoptosis (or excessive susceptibility to apoptotic stimuli) as well as inefficient clearance of apoptotic debris have been documented in lupus patients, and animals genetically modified to impair the uptake of apoptotic cells exhibit lupus-like pathology. Autoimmune cascades initiated by early autoantibody responses specifically directed towards apoptotic cells are being investigated; since apoptotic debris appears to constitute the original antigenic insult, it is conceivable that such events could have a bearing on pathology. Human chorionic gonadotropin (hCG), a placental glycoprotein hormone, stimulates the release of progesterone from the corpus luteum, thereby sustaining pregnancy; successful pregnancy is believed to represent a Th2 skew. Given reports of pregnancy-associated lupus flares in humans and the ameliorating influence of hCG in murine models of organ-specific (Th1-mediated) autoimmune disease, the effects of administration of the hormone in animals genetically prone to systemic autoimmunity (a state which, like pregnancy, can also be notionally considered to constitute a Th2 skew, given associated hypergammaglobulinemia and antibody-mediated pathology) are being investigated. In recent years, hCG has been shown to be secreted by a variety of cancers as well, and its presence has been associated with chemo-resistance as well as with poor patient prognosis. Understanding the molecular pathways by which hCG potentially impacts on tumor progression, as well as the development of novel immunotherapeutic anti-hCG vaccination strategies, form another focus of the laboratory.",
+      "research_domains": [
+        "Immunology",
+        "Cancer Biology",
+        "Cell Biology"
+      ],
+      "research_keywords": [
+        "immune",
+        "antibody",
+        "tumor",
+        "apoptosis",
+        "cancer"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-rahul-pal",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [],
+      "collaboration_potential": [
+        "Drug Discovery",
+        "Vaccine Development",
+        "Genomics",
+        "Clinical Studies"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_pramod_k_upadhyay_research",
+      "name": "Dr. Pramod K. Upadhyay",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "sensors, diagnosis of diseases, needle free immunization, aerosol immunization, transdermal immunization, hyperthermia, tuberculosis, regenerative medicine",
+      "research_summary": "Engineering hepatocytes for supporting acute liver failure\nEngineering hepatocytes for supporting acute liver failure\nIndia is placed at intermediate endemic level in hepatitis B. Hepatitis B virus is reported to be responsible for 70% of chronic hepatitis cases and 80% of cirrhosis of liver cases. About 60% of those cases with hepatocellular carcinoma are HBV marker positive. Thus it would be clinically relevant in Indian scenario if a cell based therapeutic option is available for treatment of end stage liver disease cause due to hepatitis B virus.\nTo address these clinical situations, we developed a strategy to generate hepatocyte-like cells (Neo-Hepatocytes; abbreviated as NeoHeps) from monocyte derived from peripheral blood of HBsAg-NAT positive human peripheral blood samples. To generate NeoHeps; non-activated monocytes were sorted from the human peripheral blood by magnetic assisted cell sorting techniques. The monocytes were then cultured in IMDM basal media containing IL3, MCSF and 2-ME supplemented with 0.5% ESC serum for 6 days to generate Reprogrammed Monocytes (RM) at Day 6. The RM were then cultured in IMDM basal media containing epithelial growth factor (EGF), hepatocyte growth factor (HGF) and fibroblast growth factor-4 (FGF4) with progressive increase in serum concentration from 2% (at day 6) to 5% (at Day8) upto 10% from day 13 to day 21 of the culture.\nBoth Monocytes and RM were unable to demonstrate P450 activity in them. The NeoHeps derived from both healthy and HBsAg-NAT positive bloods have the potential to secrete human serum albumin in their respective culture supernatant like primary human hepatocytes.\nTo evaluate the stability of NeoHeps in vivo, partial (1/3rd) hepatectomy of SCID mouse was performed and NeoHeps were injected near the spleen of the hepatectomized mouse. 10th day post transplantation, blood was collected from the mouse and serum was isolated. The liver of the mouse was excised out, there was no visible tumours found in the liver lobes of the recipient mouse and cryo-sectioning of the liver was performed to check the homing and engraftment of transplanted NeoHeps. Human serum albumin was detected in the serum of the recipient mouse and the immuno-cytochemistry of the liver tissue section of the recipient mouse stained positive for human albumin and connexin32.\n\nWe are developing a novel tissue engineered vascular graft which is immune friendly as well as long lasting as compared to the presently available grafts.\nIn this approach, the peripheral blood monocytes are reprogrammed to stem cell like cell followed by its re-differentiation into endothelial –like cells and vascular smooth muscle like-cells. These cells express prominent endothelial and smooth muscle cell markers as well as show functional activity.\nThe re-differentiated vascular cells are then uniformly seeded onto a decellularized xenogenic vessel matrix using a bioreactor setup such that endothelial cells form the luminal layer while smooth muscle cells form the outer layer of the graft.\n\nThe project involves two steps; in vitro differentiation of PBMC derived monocytes into retinal cells and their further phenotypic and functional characterization by transplantation into a newly developed NOD.SCID-CBA/J mouse model for retinal degeneration. The underlying aim of the project is to discover new options in curing of retinal degeneration diseases like retinitis pigmentosa which unfortunately remain incurable till date.\n\nWe have developed a methodology to encapsulate live Mycobacterium (MIP and BCG) as a dry powder inhale-able formulation which remains viable for 4 months at 37°C. A non invasive procedure was developed to deliver this formulation to small animals.  We have established by a number of in vitro and in vivo experiments that this inhale-able vaccine of live Mycobacterium is more immunogenic as compared to the aerosol of bacilli and it provide better protection in mice when challenged with H37Rv. The alginate coated DPA of BCG/MIP is a very promising alternative for present day vaccination for Tuberculosis; it does not require the cold chain for transportation and storage, it provide better protection than conventional intradermal or liquid aerosol and its delivery does not require the needle and a syringe.\n\nHyperthermia enhanced transdermal (HET) immunization is a novel needle free immunization strategy employing application of antigen along with mild local hyperthermia (42°C) to intact skin resulting in detectable antigen specific Ig in serum. We have developed a tools for HET immunization and have shown that mice immunized by tetanus toxoid using HET route exhibited protection from challenge with a lethal dose of tetanus toxin.",
+      "research_domains": [
+        "Immunology",
+        "Infectious Disease",
+        "Genetics & Genomics"
+      ],
+      "research_keywords": [
+        "immune",
+        "vaccine",
+        "antigen",
+        "tuberculosis"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-pramod-k-upadhyay",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [
+        "5% ESC serum for 6 days to generate Reprogrammed Monocytes (RM) at Day 6",
+        "We are developing a novel tissue engineered vascular graft which is immune friendly as well as long lasting as compared to the presently available grafts"
+      ],
+      "collaboration_potential": [
+        "Drug Discovery",
+        "Vaccine Development",
+        "Cell Culture",
+        "Animal Models",
+        "Clinical Studies"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_sher_ali_research",
+      "name": "Dr. Sher Ali",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "Genome Analysis, Molecular Genetics of Human and Animal Systems, Germline Genetics, Gene Regulation and Expression, Genomics of Endangered Species, Comparative and Toxicogenomics, DNA Diagnostics, Cancer Genetics",
+      "research_summary": "We focuses on genome analysis in human and animal systems, spanning structural, functional, and comparative genomics. We investigate the genetic underpinnings of human disorders such as male infertility and brain tumors, as well as the genomics of livestock species, with an emphasis on uncovering novel genes and molecular mechanisms with clinical and agricultural relevance.\n\n1. Y Chromosome Genomics and Male Infertility\n   We have extensively studied genetic aberrations on the Y chromosome in infertile males with normal spermiogram profiles, a group often classified as having unexplained infertility. Our investigations included:\n\nAnalysis of 64 Sequence Tagged Sites (STSs) across AZFa, AZFb, and AZFc regions\n\nCopy number variation of DYZ1 arrays, DAZ, BPY2, and SRY genes using qPCR\n\nSingle Nucleotide Variant (SNV) analysis and direct sequencing of the SRY gene\n\nKey findings:\n\nMultiple patients exhibited novel deletions and micro-deletions in the DYZ1 region and AZF loci\n\nDespite normal copy number of SRY, mutations were found in 8 patients, 4 of which resulted in truncated proteins\n\nCopy numbers of DAZ and BPY2 were significantly reduced in patients compared to normal fertile males (NFMs) (p < 0.001)\n\nThese findings suggest a shared set of Y-linked genetic aberrations contributing to infertility, irrespective of spermatogenic status. This work enhances the potential for DNA-based diagnostics, IVF planning, and genetic counseling in reproductive medicine.\n\n2. Genomic Alterations in Brain Tumors\n   We investigated genetic and expression profiles in gliomas and meningiomas, with a focus on the proto-oncogene KIT and MN1, along with Y-linked loci in male patients.\n\nHighlights:\n\nContrary to earlier reports, KIT overexpression was observed in 32.5% of glioma cases across both low and high grades (n=40)\n\nqPCR and RT-PCR showed transcriptional upregulation of both KIT and its ligand KITLG, independent of gene amplification (p > 0.05)\n\nKIT gene sequencing revealed non-synonymous substitutions in exons 10 and 17, although their pathological significance remains unclear\n\nFISH analysis confirmed gene amplification in 2 cases and allele loss in 1, supporting transcript-level changes observed by qPCR\n\nThese findings emphasize that aberrant KIT expression is largely regulated at the transcriptional level, underscoring its potential as a biomarker or therapeutic target in glioma pathogenesis.\n\n3. Comparative and Functional Genomics of Buffalo (Bubalus bubalis)\n   To bridge knowledge gaps in livestock genomics, we employed minisatellite associated sequence amplification (MASA) using oligonucleotides based on VNTR motifs (e.g., 33.6, 33.15, GACA, GATA, GGAA, TGG) and cDNA from various tissues of Bubalus bubalis.\n\nOutcomes:\n\nDiscovery and characterization of repeat-tagged, tissue-specific transcripts\n\nIdentification of candidate genes with clinical and functional significance, including in testis, spermatozoa, and somatic tissues\n\nThis work enhances our understanding of the repeat-associated transcriptome and serves as a resource for addressing key questions in functional genomics, comparative genetics, and animal biotechnology.\n\nBy integrating genomics across clinical, reproductive, and agricultural systems, our research contributes to both basic science and translational applications, supporting advancements in biomedical genetics, diagnostics, and animal health management.",
+      "research_domains": [
+        "Cancer Biology",
+        "Cell Biology",
+        "Genetics & Genomics"
+      ],
+      "research_keywords": [
+        "dna",
+        "gene",
+        "cancer"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-sher-ali",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [
+        "Y Chromosome Genomics and Male Infertility\n   We have extensively studied genetic aberrations on the Y chromosome in infertile males with normal spermiogram profiles, a group often classified as having unexplained infertility",
+        "001)\n\nThese findings suggest a shared set of Y-linked genetic aberrations contributing to infertility, irrespective of spermatogenic status",
+        "Genomic Alterations in Brain Tumors\n   We investigated genetic and expression profiles in gliomas and meningiomas, with a focus on the proto-oncogene KIT and MN1, along with Y-linked loci in male patients",
+        "5% of glioma cases across both low and high grades (n=40)\n\nqPCR and RT-PCR showed transcriptional upregulation of both KIT and its ligand KITLG, independent of gene amplification (p > 0",
+        "Comparative and Functional Genomics of Buffalo (Bubalus bubalis)\n   To bridge knowledge gaps in livestock genomics, we employed minisatellite associated sequence amplification (MASA) using oligonucleotides based on VNTR motifs (e"
+      ],
+      "collaboration_potential": [
+        "Drug Discovery",
+        "Genomics",
+        "Clinical Studies"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_anna_george_research",
+      "name": "Dr. Anna George",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "Analysis of innate and adaptive immune responses.",
+      "research_summary": "The overarching goal of our laboratory is to understand how systemic and mucosal immune responses are regulated under both physiological conditions and perturbed homeostasis. We use a combination of in vitro, ex vivo, and in vivo approaches, and collaborate with scientists across disciplines to probe the role of cell-intrinsic and cell-extrinsic factors in shaping lymphocyte development, regulating immune cell fate decisions, and modulating memory and effector T/B cell pool sizes. We also investigate how innate and adaptive immune mechanisms, along with microbial factors, contribute to the severity and regulation of experimental colitis.\n\n1. B Cell Responses\n   Our previous studies have shown that:\n\nTNF receptor signaling (via CD27 or CD40) during B cell activation suppresses the differentiation of plasma cells while promoting memory B cell formation.\n\nA subset of IgM⁺ “unswitched” memory B cells expressing CD73 is generated through B cell–T cell interactions involving CD40 signaling.\n\nCurrent investigations are focused on determining the role of CD40-mediated signaling in the long-term maintenance of memory and plasma B cell pools.\n\n2. T Cell Responses\n   Our lab is exploring:\n\nThe impact of fever-range temperatures during T cell priming on T cell differentiation and lineage commitment.\n\nThe role of the non-canonical NF-κB pathway in maintaining immune homeostasis.\n\nThe influence of dietary restriction on T cell development and function under homeostatic and immune-challenged conditions.\n\n3. Host and Microbial Factors in Experimental Colitis\n   We have observed that wild-type mice with differing IgA responses exhibit variable susceptibility to experimentally induced colitis. Our ongoing research aims to dissect the protective role of IgA through:\n\nEnhancing gut barrier resilience\n\nModulating microbial load and community composition\n\nPromoting bacterial exclusion mechanisms\n\nThese investigations aim to illuminate the interplay between host immunity and the microbiota in regulating intestinal inflammation and immune tolerance.",
+      "research_domains": [
+        "Immunology",
+        "Cell Biology"
+      ],
+      "research_keywords": [
+        "immune",
+        "pathway",
+        "signaling"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-anna-george",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [
+        "B Cell Responses\n   Our previous studies have shown that:\n\nTNF receptor signaling (via CD27 or CD40) during B cell activation suppresses the differentiation of plasma cells while promoting memory B cell formation",
+        "T Cell Responses\n   Our lab is exploring:\n\nThe impact of fever-range temperatures during T cell priming on T cell differentiation and lineage commitment",
+        "Host and Microbial Factors in Experimental Colitis\n   We have observed that wild-type mice with differing IgA responses exhibit variable susceptibility to experimentally induced colitis"
+      ],
+      "collaboration_potential": [
+        "Cell Culture",
+        "Animal Models"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_sandeep_saxena_research",
+      "name": "Dr. Sandeep Saxena",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "DNA replication is a vital process of life and must be completed precisely during each cell cycle. When mammalian cell experiences DNA damage, it activates checkpoint mechanisms to stall the progression of cell cycle and DNA replication. Our laboratory is interested in understanding the mechanisms by which microRNA and checkpoint proteins stall the cell cycle preventing genomic instability and cancer.",
+      "research_summary": "The research interest of the laboratory is in the following areas:\nRole of non-coding RNAs in regulation of cell-cycle and DNA replication: Emerging evidences suggest that microRNA target genes that regulate DNA replication and cell cycle progression and we aim to determine how microRNA regulate the DNA replication machinery as cell progresses from one phase to the next. Aberrations in microRNA activity has been linked to loss of cell cycle and replication control and this has led to oncogenic functions (thereby called oncomirs) being ascribed to them. Summing up, we are trying to understand the mechanisms by which microRNAs regulate mammalian cell cycle and DNA replication in normal and pathological conditions.\nRole of non-coding RNAs in regulation of cell-cycle and DNA replication:\nRole of non-coding RNAs in regulation of cell-cycle and DNA replication:\nUnderstanding the checkpoint response to aberrations in replication complexes : Whenever genomic lesions are detected during DNA synthesis, they are coated by the single strand DNA binding protein complex, called Replication Protein A, leading to the activation of canonical checkpoint proteins like ATR, Chk1 and p53. Human genome codes for many other single strand DNA binding proteins and we are testing if novel mechanisms of checkpoint activation exist that do not require Replication Protein A. If such mechanisms exist we would like to understand which factors provide the role of DNA binding, how checkpoint proteins like Chk1 and p53 are activated and how signal transduction pathway stalls the cell cycle and DNA replication.\n\nRegulation of replication machinery during stress : It is known that replication factors are downregulated during stress and we have observed that cullin 4-based ubiquitin ligase mediate the proteolysis of Mcm10, a protein essential for the initiation and elongation phases of DNA replication. Therefore, we are trying to understand the independent mechanism by which mammalian cells effectively inhibit the replication machinery during stress preventing it from drifting towards a catastrophic path of genomic instability. It has been observed that some replication proteins localize to the centrosome suggesting their role in regulation of centrosome biogenesis. Since it is well recognized that errors in the centrosome duplication contribute to tumorigenesis we are interested in determining the role of replication factors in preventing aneuploidy.",
+      "research_domains": [
+        "Cancer Biology",
+        "Cell Biology",
+        "Genetics & Genomics"
+      ],
+      "research_keywords": [
+        "dna",
+        "protein",
+        "cell cycle",
+        "pathway",
+        "cancer"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-sandeep-saxena",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [
+        "Human genome codes for many other single strand DNA binding proteins and we are testing if novel mechanisms of checkpoint activation exist that do not require Replication Protein A"
+      ],
+      "collaboration_potential": [
+        "Genomics",
+        "Structural Studies",
+        "Clinical Studies"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_vijay_k_yadav_research",
+      "name": "Dr. Vijay K. Yadav",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "The focus of the laboratory is to use mouse genetic, genomic, and proteomic approaches to investigate how molecules originating from within, and outside the skeleton regulate its physiology, and how skeleton in turn regulates whole-body energy homeostasis.",
+      "research_summary": "Our laboratory is dedicated to uncovering novel functional and endocrine connections between the skeleton and other organ systems, with the broader aim of understanding the molecular basis of human metabolism and its disorders. We use the skeleton as a central regulatory organ and employ mouse genetic models alongside human clinical data to dissect these multi-organ interactions.\n\n1. The Skeleton as an Endocrine Organ\n   Traditionally seen as a structural component, the skeleton is now recognized as an endocrine organ that both responds to and regulates systemic physiology. External and internal factors—ranging from hormonal fluctuations to cytokine signaling—can lead to changes in bone density and overall bone health. A classical example is the post-menopausal loss of estrogen, which accelerates bone loss and leads to osteoporosis.\n\nIn return, the skeleton secretes hormones like osteocalcin, which act on other organs (e.g., pancreas, brain, and testes) and play a crucial role in regulating whole-body metabolism.\n\n2. Discovery of the Gut–Liver–Bone Axis via Vitamin B₁₂\n   We identified a previously unknown gut–liver–bone endocrine axis operational through vitamin B₁₂ (cobalamin). Using a gastric intrinsic factor (Gif) knockout mouse model, which mimics B₁₂ malabsorption, we mapped a metabolic cascade where:\n\nVitamin B₁₂ acts in the liver in a growth hormone (GH)-dependent manner to stimulate taurine synthesis\n\nTaurine is then secreted into the bloodstream and acts specifically on bone cells to promote new bone formation\n\nThis discovery, validated in both mice and humans, reveals a bone-specific anabolic effect of the B₁₂–taurine pathway. It holds strong translational promise as a novel therapeutic target for anabolic treatment of osteoporosis, especially because it selectively enhances bone formation without affecting resorption.\n\n3. Current and Future Directions\n   Deciphering intracellular signaling pathways in the liver and bone involved in the B₁₂–taurine axis\n\nIdentifying additional bone-regulating endocrine factors using multi-organ genetic screening and omics-based approaches\n\nExploring how systemic metabolic signals—originating from gut, liver, adipose tissue, or muscle—modulate bone mass and skeletal health\n\nOur long-term goal is to harness these inter-organ endocrine pathways to design novel therapies for skeletal and metabolic disorders, leveraging both mouse models and human genetic data.\n\nThis integrated approach places the skeleton at the center of a complex hormonal network and opens new avenues in the treatment of osteoporosis, metabolic syndromes, and multi-organ endocrine dysfunctions.",
+      "research_domains": [
+        "Cell Biology",
+        "Genetics & Genomics"
+      ],
+      "research_keywords": [
+        "pathway",
+        "signaling"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-vijay-k-yadav",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [
+        "The Skeleton as an Endocrine Organ\n   Traditionally seen as a structural component, the skeleton is now recognized as an endocrine organ that both responds to and regulates systemic physiology",
+        "Discovery of the Gut–Liver–Bone Axis via Vitamin B₁₂\n   We identified a previously unknown gut–liver–bone endocrine axis operational through vitamin B₁₂ (cobalamin)",
+        "Current and Future Directions\n   Deciphering intracellular signaling pathways in the liver and bone involved in the B₁₂–taurine axis\n\nIdentifying additional bone-regulating endocrine factors using multi-organ genetic screening and omics-based approaches\n\nExploring how systemic metabolic signals—originating from gut, liver, adipose tissue, or muscle—modulate bone mass and skeletal health\n\nOur long-term goal is to harness these inter-organ endocrine pathways to design novel therapies for skeletal and metabolic disorders, leveraging both mouse models and human genetic data"
+      ],
+      "collaboration_potential": [
+        "Drug Discovery",
+        "Genomics",
+        "Animal Models",
+        "Clinical Studies"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_mohd_ayub_qadri_research",
+      "name": "Dr. Mohd. Ayub Qadri",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "Understanding immunity and host-pathogen interactions during infection with\nSalmonella",
+      "research_summary": "Our laboratory focuses on understanding the pathogenesis and host immune modulation associated with Salmonella infections, particularly comparing the behavior of Salmonella typhi and Salmonella typhimurium across species.\n\nSalmonella typhi, the causative agent of typhoid fever in humans, leads to systemic infection, while non-typhoidal Salmonella (NTS) serovars like Salmonella typhimurium typically cause self-limiting gastroenteritis in humans. In contrast, S. typhimurium induces a \\*systemic typhoid-like disease in mice, whereas S. typhi fails to establish infection in murine hosts.\n\nThese striking differences in clinical manifestations and host specificity, despite the close genetic relatedness of the two serovars, remain poorly understood. Furthermore, the precise mechanisms by which pathogenic Salmonella evade or subvert host immune responses to establish systemic infection are still elusive.\n\nOngoing research in our lab addresses two major questions:\nWhat are the key host-pathogen interactions during infection with S. typhi and S. typhimurium?\n\nHow do pathogenic Salmonella serovars modulate the host immune system during infection?\n\nBy dissecting these processes, we aim to uncover the molecular and immunological strategies employed by pathogenic Salmonella to overcome host defenses, establish infection, and cause disease. These insights will contribute to the development of targeted therapeutics and vaccines against typhoidal and non-typhoidal Salmonella infections.",
+      "research_domains": [
+        "Immunology",
+        "Infectious Disease"
+      ],
+      "research_keywords": [
+        "immune"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-mohd-ayub-qadri",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [
+        "understanding the pathogenesis and host immune modulation associated with Salmonella infections, particularly comparing the behavior of Salmonella typhi and Salmonella typhimurium across species"
+      ],
+      "collaboration_potential": [
+        "Drug Discovery",
+        "Vaccine Development",
+        "Genomics",
+        "Animal Models",
+        "Clinical Studies"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_akhil_c_banerjea_research",
+      "name": "Dr. Akhil C. Banerjea",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "Molecular epidemiology of HIV-1 epidemic in India and genetic and functional characterization of HIV-1 genes circulating in North India. Mechanisms of HIV-1 and host genes interactions (microRNAS or host restriction factors) and their implications in HIV-1 mediated pathogenesis.",
+      "research_summary": "Humans and pathogens (viruses/bacteria) have co-evolved during evolution. The pathogens are known to modulate host cell machinery in a manner that ensures their existence. Host cells on the other hand, mount an antiviral or antibacterial response in the form of devising host restriction factors. Indeed, in case of HIV-1, a number of host restriction factors (Tetherin, APOBEC etc) have been identified. Viruses, however, have devised many mechanisms to overcome these restriction factors and HIV-1 accessory proteins are particularly adept at doing so. HIV-1 is known to modulate levels of key cellular regulators (p53 or components of innate immunity) of homeostasis with significant implications for replication fitness and pathogenesis.\nHIV-1 accessory and regulatory genes (Tat, Rev, Nef, Vpu, Vpr) are multifunctional that govern pathogenesis by modulating p53, via set of miRNAs, exploiting cellular ubiquitination machinery or by their ability to suppress siRNA mediated functions or by multiple other mechanisms, notably being B-TrcP mediated functions of Vpu. The functional relevance of such perturbations is key to understanding HIV-1 pathogenesis. The various genetic subtypes, the extent of genetic variants and their functional  implications among North-Indian individuals infected with HIV-1  genes or the characterization of  host genes that are known to be associated with progression of the disease or the lack of it, are of fundamental importance for gaining insights into HIV-1 pathogenesis and devising novel ways (small molecules, siRNAs, miRNAs etc) to interfere with its replication and progression. Mechanisms responsible for apoptosis, ubiquitination and autophagy  and their cross-talk seem to play an important role in HIV pathogenesis and needs to be studied in detail to gain insight about a remarkably successful virus like HIV.",
+      "research_domains": [
+        "Infectious Disease",
+        "Cell Biology",
+        "Genetics & Genomics"
+      ],
+      "research_keywords": [
+        "apoptosis",
+        "hiv"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-akhil-c-banerjea",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [],
+      "collaboration_potential": [
+        "Genomics",
+        "Clinical Studies"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_satish_k_gupta_research",
+      "name": "Dr. Satish K. Gupta",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "To understand mammalian fertilization study structure and function of zona pellucida glycoproteins and development of contraceptive vaccines for wildlife population management. Cytokine mediated regulation of trophoblast proliferation, invasion and differentiation. To characterize anti-HIV compounds from medicinal plants and semi-synthetic sources. Development of neutralizing humanized monoclonal antibodies against flu virus.",
+      "research_summary": "Our research spans reproductive immunology, cytokine signaling in pregnancy, anti-viral therapeutics, and antibody engineering, with a strong translational focus on vaccine development, therapeutic interventions, and host-pathogen interactions.\n\n1. Zona Pellucida Glycoproteins in Fertilization and Immunocontraception\n   We investigate the role of human zona pellucida (ZP) glycoproteins—ZP1, ZP3, and ZP4—in sperm binding and acrosome reaction induction during fertilization. Our findings highlight:\n\nN-linked glycosylation, not O-linked, as crucial for acrosome reaction in humans.\n\nThe C-terminal region of ZP3 as its functional domain.\n\nInvolvement of Gi-protein-coupled receptors, T- and L-type voltage-operated calcium channels, and various kinases in mediating ZP-induced acrosome reaction.\n\nBuilding on this mechanistic understanding, we have explored the use of ZP glycoproteins as immunocontraceptive vaccine candidates, demonstrating reduced conception rates in non-human primates. This approach is now being extended to wildlife population management, particularly for street dog control. We have successfully developed a protocol for His-tag-free purification of recombinant canine ZP3 using batch-fed E. coli fermentor systems.\n\n2. Cytokine-Mediated Regulation of Trophoblast Function\n   Proper trophoblast proliferation, invasion, and differentiation are vital for placental development and pregnancy success. Our studies focus on the role of the IL-6 cytokine family (IL-6, IL-11, and LIF) in regulating trophoblast behavior:\n\nIL-11 and IL-6 enhance invasion via STAT3 Tyr705 activation.\n\nLIF promotes both invasion and proliferation, additionally activating the ERK1/2 pathway.\n\nSilencing STAT3 reduces IL-11-induced invasion, whereas ERK1/2 is essential for LIF-mediated proliferation.\n\nThrough cDNA microarray, we identified MMP23B and pappalysin-1 as critical effectors in cytokine-induced trophoblast invasiveness. Our results suggest IL-11 differentially regulates invasion during early and late pregnancy stages. This work provides mechanistic insight into implantation and may inform novel strategies for managing pregnancy complications.\n\n3. Plant-Derived Anti-HIV Compounds and Microbicide Development\n   We are exploring natural compounds from medicinal plants for use in HIV prevention via topical microbicides. Screening of ~30 plant species identified four extracts with potent in vitro anti-HIV activity, targeting:\n\nReverse transcriptase\n\nProtease\n\nIntegrase enzymes\n\nAdditionally, synthetic derivatives of andrographolide and integric acid were evaluated. Several andrographolide analogs demonstrated high therapeutic indices (TI > 500), with potent inhibition of viral entry by binding the V3 loop region of HIV-1 gp120. These findings support the development of plant-based or semi-synthetic microbicides for sexual transmission prevention.\n\n4. Antibody Engineering for Influenza Virus Therapeutics\n   We aim to develop heterosubtypic monoclonal antibodies (MAbs) for passive immunotherapy against influenza virus infections. Key accomplishments include:\n\nGeneration of 49 MAbs targeting pandemic and seasonal H1N1 strains\n\nIdentification and humanization of a high-affinity MAb (KD = 2.1 ± 0.4 pM) that neutralizes 2009 pandemic H1N1 (IC₅₀ = 0.08 µg/ml), binding the ‘Sa’ epitope on hemagglutinin (HA)\n\nIsolation of single-chain variable fragments (ScFv) from a human phage display antibody library, specific to both pandemic and seasonal strains\n\nThese antibodies offer a promising avenue for therapeutic intervention during severe or emerging influenza outbreaks.",
+      "research_domains": [
+        "Immunology",
+        "Infectious Disease",
+        "Cell Biology",
+        "Genetics & Genomics"
+      ],
+      "research_keywords": [
+        "signaling",
+        "antibody",
+        "vaccine",
+        "hiv",
+        "structure",
+        "protein",
+        "pathway",
+        "immunology"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-satish-k-gupta",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [
+        "Zona Pellucida Glycoproteins in Fertilization and Immunocontraception\n   We investigate the role of human zona pellucida (ZP) glycoproteins—ZP1, ZP3, and ZP4—in sperm binding and acrosome reaction induction during fertilization",
+        "Cytokine-Mediated Regulation of Trophoblast Function\n   Proper trophoblast proliferation, invasion, and differentiation are vital for placental development and pregnancy success",
+        "Plant-Derived Anti-HIV Compounds and Microbicide Development\n   We are exploring natural compounds from medicinal plants for use in HIV prevention via topical microbicides",
+        "These findings support the development of plant-based or semi-synthetic microbicides for sexual transmission prevention",
+        "Antibody Engineering for Influenza Virus Therapeutics\n   We aim to develop heterosubtypic monoclonal antibodies (MAbs) for passive immunotherapy against influenza virus infections"
+      ],
+      "collaboration_potential": [
+        "Drug Discovery",
+        "Vaccine Development",
+        "Structural Studies",
+        "Cell Culture",
+        "Clinical Studies"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_amitabha_mukhopadhyay_research",
+      "name": "Dr. Amitabha Mukhopadhyay",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "My primary research interests are in understanding the regulation of intracellular trafficking in different cell types which are broadly divided into:\nTo determine the molecular mechanisms of how intracellular pathogens modulate their trafficking pathways in host cells.\nUnderstanding the regulation of intracellur trafficking pathways in\nLeishmania\n.\nRegulation of intracellular trafficking by cytokines",
+      "research_summary": "The scientific contributions of my research are primarily in the area of cell biology with special emphasis on the regulation of intracellular trafficking. We have addressed fundamental issues in host pathogens interactions with an aim to develop a potentially new therapeutic target for their intervention. Our work has provided important insights into the molecular mechanisms of how intracellular pathogens modulate intracellular trafficking pathways to survive in phagocytes. We have demonstrated using an elegant in vitro reconstitution of transport assay that live Salmonella produce a protein, SopE, that helps recruit Rab5 and NSF on the phagosomes containing live bacteria. This promotes fusion of live Salmonella -containing phagosomes with early endosomes so that lysosomal targeting of such phagosomes is avoided. Thus, it is emerging from these studies that SopE could be a new and specific target for selective elimination of Salmonella from the host cells either by blocking the interaction of SopE with Rab5 or by modulating the content of endocytic GTPases in the host cells to divert trafficking of Salmonella to the lysosomes. Finally, we have tested these hypothesis and shown that it is possible to divert Salmonella to the lysosomes for selective killing by modulating the content of endocytic GTPases in the host cells. Interestingly, we have also shown how Salmonella recruits Lysosome Associated Membrane Protein (LAMP1) by fusing with Golgi derieved LAMP1-containing vesicle through the interaction  of their effector molecule, SipC with host Syntaxin6. This is first evidence how an intracellular pathogen recruits LAMP without their targeting to the lysosomes.\n\nOur discovery of a new receptor system mediating uptake and intracellular degradation of hemoglobin by Leishmania suggests how, lacking heme biosynthetic ability, this parasite might meet the requirement of heme essential for its growth. Interestingly, further characterization of the receptor demonstrated that hemoglobin receptor in Leishmania is a suface localized hexokinase, a well characterized glycolytic enzyme. Recently, we have characterized the intercellular route of hemoglobin and their regulation in the parasites by different Rab GTPases by some elegant novel experiments. Our studies have revealed that signaling from the cytoplasmic tail of the hemoglobin receptor targets the hemoglobin to late degradative compartment suggesting that parasites has devised an unique procedure to target the internalized hemoglobin for degradation in late compartment to generate intracellular heme, essentially required by the parasites for growth. Discovery of this new receptor system  for acquiring heme by Leishmania is significant not only as a notable contribution to biology of this group of intracellular parasites but also as a potential new target against these parasites of paramount public health importance in the developing countries.\n\nSurvival of intracellular pathogens in the host cells depends on the balance between pro-inflammatory and anti-inflammatory cytokines suggesting that these cytokines possibly modulate distinct steps in the endocytic pathway and thereby regulate phagosome maturation. However, how cytokine modulate intracellular trafficking is not yet known. We have identified a novel mechanism of cytokine mediated modulation of the expression of Rab GTPase. We have shown that treatment of macrophages with IL-6 specifically induce the expression of Rab5 through the activation of extracellular signal-regulated kinase, whereas IL-12 exclusively unregulate the expression of Rab7 through the activation of p38 MAPK.  Finally, we have shown that IL-12 mediated overexpression of  Rab7 induces lysosomal transport whereas IL-6 stimulates the fusion between early compartments in macrophages and accordingly modulate trafficking and survival of intracellular pathogens in macrophages. This is the first demonstration showing that the existence of a unique regulation of membrane trafficking directly dependent on different cytokines.\nWe have also made seminal contributions to establish for the first time the feasibility of receptor-mediated enodocytosis as an alternative approach to deliver various drugs to macrophages using exquisite specificity and high efficiency process of scavenger receptor mediated endocytosis. We have shown that scavenger receptor-mediated intracellular delivery of various drugs to macrophages combat various infections as well as cancer cells both in vitro and in vivo .",
+      "research_domains": [
+        "Immunology",
+        "Infectious Disease",
+        "Cell Biology",
+        "Genetics & Genomics",
+        "Biochemistry"
+      ],
+      "research_keywords": [
+        "signaling",
+        "enzyme",
+        "protein",
+        "pathway",
+        "cancer"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-amitabha-mukhopadhyay",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [
+        "This is first evidence how an intracellular pathogen recruits LAMP without their targeting to the lysosomes"
+      ],
+      "collaboration_potential": [
+        "Drug Discovery",
+        "Cell Culture",
+        "Animal Models"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_rajesh_s_gokhale_research",
+      "name": "Dr. Rajesh S. Gokhale",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "The Interface of Immune and Metabolic responses in Tuberculosis & Vitiligo",
+      "research_summary": "The thematic focus of our laboratory is to elucidate complex interplay between metabolic reprogramming and immunity in the context a pathogenic disease Tuberculosis and autoimmune skin disorder Vitiligo. Our endeavor is to define how metabolic imbalance drives disease pathogenesis and thereby develop novel therapeutic strategies that will tackle the underlying causes, rather than just the symptoms.",
+      "research_domains": [
+        "Infectious Disease"
+      ],
+      "research_keywords": [
+        "immune",
+        "tuberculosis"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-rajesh-s-gokhale",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [],
+      "collaboration_potential": [
+        "Drug Discovery"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_rajendra_p_roy_research",
+      "name": "Dr. Rajendra P. Roy",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "Our laboratory is engaged in researches at the interface of chemistry and biology. We are interested in developing chemoenzymatic strategies for semisynthesis of proteins and bio-conjugates by combining enzymatic peptide ligation with chemical peptide synthesis, organic synthesis and recombinant protein expression.\nKey words:\nChemical biology, Synthetic protein chemistry, Peptide ligation, Protein engineering, Sortase",
+      "research_summary": "In the past we have addressed mechanistic aspects of peptide ligation reactions catalyzed by proteases. We have elaborated the concept of product-specific traps as a mechanism to facilitate reverse proteolytic condensation of polypeptide fragments. Furthermore, we have established volume exclusion effect, emanating from macromolecular crowding or confinement, as a driving force for reverse proteolysis.\nCurrent work in our laboratory is focused on elucidating the amide bond forming specificity of bacterial transpeptidase (referred to as sortases). Sortases are cysteine transpeptidases that anchor surface proteins to the cell wall in Gram-positive bacteria. The archetypal sortase (SrtA) of Staphylococcus aureus recognizes a pentapeptide LPXTG motif present near the carboxy terminus of surface proteins, cleaves the T-G peptide bond and ligates the Protein-LPXT to the aminoglycine of the pentaglycine sequence present in peptidoglycan leading to anchoring of proteins to the cell wall.\nSrtA-mediated peptide ligation reaction also proceeds well with short LPXTG peptides and aminoglycine terminated sequences. The propensity of SrtA to recognize short consensus sequences has inspired the use of this enzyme as a versatile synthetic tool in protein chemistry and chemical biology. Several applications of SrtA including introduction of novel functionality (viz., fluorescent labels, lipids, GPI anchors etc) into proteins, generation of circular proteins and surface immobilization of proteins have emerged in the past 7-8 years.  Contemporaneously, we have been engaged in exploring the utility of SrtA in the synthesis of glycoconjugates, cyclic peptides, branched peptide oligomers and multivalent protein dendrimers that are not amenable to synthesis by purely chemical or genetic means.",
+      "research_domains": [
+        "Biochemistry"
+      ],
+      "research_keywords": [
+        "enzyme",
+        "protein"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-rajendra-p-roy",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [
+        "in our laboratory is focused on elucidating the amide bond forming specificity of bacterial transpeptidase (referred to as sortases)"
+      ],
+      "collaboration_potential": [
+        "Genomics"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_lalit_c_garg_research",
+      "name": "Dr. Lalit C. Garg",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "Infectious diseases are the leading causes of death of both humans and animals. Vaccination is one of the most effective methods to control many infectious diseases. The primary focus of my laboratory is to unravel the molecular mechanisms of infectious diseases to explore new drug targets and development of vaccines against pathogens.",
+      "research_summary": "Gram positive Clostridium perfringens is a major cause of human and veterinary enteric disease largely because this bacterium can produce several toxins when present inside the gastrointestinal tract. Epsilon toxin, produced by Clostridium perfringens types B and D is the key antigen implicated in the Enterotoxaemia or Pulpy kidney disease of domestic animals. It is the third most lethal of all clostridial toxins. Epsilon toxin functions by interacting with the surface of mammalian cells probably through receptor binding and oligomerizes to form pores. Our initial focus is to identify the residues important for receptor binding as well as residues involved in oligomerization. We envisage to isolate the receptor for epsilon toxin to understand this interaction in greater detail. Further, by site-directed mutagenesis we aim to study the role of various residues within the gene for its toxicity and immunogenicity. Another emphasis of our research is to develop recombinant protein and DNA based vaccines against C. perfringens , C. novyi, C. chauvoei and D. nodosus.\n\nMy laboratory is also interested in Mycobacterium tuberculosis . More than 2.5 million deaths every year make tuberculosis one of the most lethal infectious diseases. Recent years have seen an increase in incidence of tuberculosis in both developing and industrialized countries, and there is an immediate need to search for new molecules that can be used as future drug target(s). In vivo growth studies of the organism have indicated that up to 70% of glucose metabolizes through the EMP pathway. Thus, glycolysis is central to the organism's survival and targeting the glycolytic enzymes, as potential drug targets to control M. tuberculosis may be feasible. My laboratory envisages cloning and expressing the genes of metabolic pathways beginning with the enzymes of EMP pathway. Subsequently genes encoding the enzymes of other metabolic pathways will be evaluated. Biochemical characterization of the recombinant enzymes will help in identifying the differences and similarities between the Mtb and human, which can be exploited for drug development. Further, production of large amounts of recombinant protein using efficient expression strategies would make it possible to carry out structural studies. This will help in defining the 3-dimensional structure of the enzymes ultimately leading to the rational development of new therapeutic interventions.\n\nSequencing of the complete genome of M. tuberculosis H37Rv has revealed that approximately 8% of the total genome codes for members of two large families of conserved proteins, the PE and PPE families. The uniqueness of the genes of the PE and PPE families is that these are specifically present in mycobacteria and are mainly restricted to the pathogenic strain. Despite their numerical abundance and interesting distinctiveness, function of these genes remains largely unknown. A true understanding of the gene products  of a pathogen is essential for the successful control of disease. Functional characterization and defining the role of this unique family of proteins in mycobacterium biology may provide novel targets for chemotherapeutic intervention of tuberculosis.",
+      "research_domains": [
+        "Immunology",
+        "Infectious Disease",
+        "Cell Biology",
+        "Genetics & Genomics",
+        "Biochemistry"
+      ],
+      "research_keywords": [
+        "pathway",
+        "dna",
+        "antigen",
+        "tuberculosis",
+        "structure",
+        "protein",
+        "gene"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-lalit-c-garg",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [
+        "5 million deaths every year make tuberculosis one of the most lethal infectious diseases",
+        "to identify the residues important for receptor binding as well as residues involved in oligomerization"
+      ],
+      "collaboration_potential": [
+        "Drug Discovery",
+        "Vaccine Development",
+        "Genomics",
+        "Structural Studies",
+        "Animal Models",
+        "Clinical Studies"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_vidya_raghunathan_research",
+      "name": "Dr. Vidya Raghunathan",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "Macromolecular structure and dynamics (Key words: NMR, Protein Folding)",
+      "research_summary": "Our laboratory is interested in elucidating the gamut of structural elements in a protein which control its function. For example glycolytic enzymes from parasitic protozoa are significantly different from mammalian homologues in their cellular role and regulation. The tertiary structures of Phosphoglycerate kinase from different organisms are very similar even though in some cases the sequence homology is no more than fifty percent.  How can one then account for differences in substrate binding and catalysis? Proteins are not rigid balls but dynamic molecules that can bend, slide and reorient themselves.  B-factor of residues in crystallographic structures as well as the rmsd of backbone and side-chains in solution structures are indicators of strong dynamic regions in a biomolecule. NMR methodology can be used effectively to look at protein microenvironments under different solution conditions. In principle movements on medium to slow scale can be trapped and studied by NMR.  These lead to important clues to protein function.",
+      "research_domains": [
+        "Cell Biology",
+        "Biochemistry",
+        "Structural Biology"
+      ],
+      "research_keywords": [
+        "structure",
+        "folding",
+        "protein"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-vidya-raghunathan",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [],
+      "collaboration_potential": [
+        "Structural Studies"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_janendra_k_batra_research",
+      "name": "Dr. Janendra K Batra",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "The work is focused on the following two major themes.\n\n1. Investigation of the role of human ribonucleases, particularly eosinophil ribonucleases, eosinophil cationic protein (ECP) and eosinophil-derived neurotoxin (EDN) in host defense. Human ribonucleases, and naturally occurring protein toxins are being explored to design knowledge-based recombinant toxins.\n2. Investigation of crucial housekeeping proteins of\n   M. tuberculosis\n   for their role in survival and virulence of the pathogen. The functioning of caseinolytic protease (Clp) machinery, and RNase P mediated tRNA maturation is being investigated in\n   M. tuberculosis\n   .",
+      "research_summary": "We been investigating the role of human ribonucleases, including human pancreatic ribonuclease (HPR), EDN and ECP in host defense. HPR has a unique property of having a strong double stranded RNA cleavage activity. We have demonstrated that for the double stranded RNA cleavage activity of HPR glycine 38 is very important, and the basicity of the protein also plays a crucial role. In a very significant study we have shown that the interaction between HPR and ribonuclease inhibitor (RI) can be disrupted by mutating residues involved in HPR-RI binding. The inhibitor-resistant HPR mutants have been shown to manifest cytotoxic activity towards tumor cells. Further, using an inhibitor-resistant HPR mutant a recombinant dimeric HPR variant has been generated which shows specific cytotoxicity to tumor cells. The catalytic mechanism of eosinophil ribonuclease, EDN has also been delineated by our group to understand its role in eosinophil biology. We have also delineated the mechanism of antibacterial activity of ECP, and antiviral activity of EDN.\nTo understand the mechanism of action of a potent ribonucleolytic protein toxin, restrictocin from Aspergillus , we have identified a crucial histidine residue responsible for the target recognition, delineated the role of various cysteines and prolines in restrictocin catalysis, and also defined the functional boundaries in the toxin molecule. We have also solved the mechanism of specific target recognition and RNA hydrolysis by ribonucleolytic toxin restrictocin by an extensive mutational analysis and molecular modeling.\nAspergillus\nThe knowledge generated by the structure-function investigations was used to develop and engineer restrictocin based recombinant immunotoxins for targeted therapy of cancer. A strategy was developed to enhance the intracellular processing of restrictocin containing immunotoxins by incorporating a proteolytically cleavable spacer in these molecules. It is now possible to use ribonucleolytic toxin restrictocin to construct immunotoxins universally with any potential targeting ligand. We have also shown restrictocin to have anti-HIV activity which is dependent on its specific ribonucleolytic activity.\nSaporin, another protein toxin extensively studied in my laboratory, belongs to the family of ribosome-inactivating proteins that potently inhibit protein synthesis in eukaryotic cells, by specifically depurinating rRNA, which results in cell death. We have demonstrated that saporin possesses two catalytic activities, namely RNA N-glycosidase and genomic DNA fragmentation activity, and for its complete cytotoxic activity both these activities are absolutely critical. We have further elucidated the mechanism of binding and internalization of saporin in eukaryotic cells. My group has identified crucial determinants for the potent cytotoxic activity of saporin, and also established its mechanism of apoptosis induction and anti-HIV activity.\nCaseinolytic proteases (Clps), members of the heat shock protein family, in many pathogenic bacteria have been shown to be involved in their virulence, survival in the host and dormancy. A similar mechanism may be operative in M. tuberculosis also and the members of the Clp protease family will be attractive drug targets. Our current studies are aimed at understanding the functioning of Clp protease machinery in M. tuberculosis by in vitro biochemical characterizations and by inactivating these proteins in vivo . As a first study in this field, our group has characterized M. tuberculosis ClpC1and established the role of N-terminal domain in its function. Also, we are investigating the regulation of heat shock proteins, particularly the role of transcriptional repressors, HspR and HrcA in M. tuberculosis . We have delineated the mechanism of repression by HspR of M. tuberculosis .\n\nWe have reconstituted the RNase P of M. tuberculosis in vitro , and delineated the role of a histidine in the RNR motif in its catalysis. Our studies show that the histidine in the RNR motif of M. tuberculosis is able to substitute optimally for asparagine found in the majority of the protein components of other bacterial RNase P enzymes. Further, we have analyzed the residues in RNase P protein of M. tuberculosis that differ from the residues generally conserved in other well-studied bacterial RNase Ps. We have demonstrated that Phe23, Val27 and Ala70 are involved in substrate binding, while Arg72 and Arg93 are involved in interactions with other residues within the protein to provide the protein a conformation conducive for activity.",
+      "research_domains": [
+        "Infectious Disease",
+        "Cancer Biology",
+        "Cell Biology",
+        "Genetics & Genomics",
+        "Biochemistry"
+      ],
+      "research_keywords": [
+        "rna",
+        "dna",
+        "tuberculosis",
+        "tumor",
+        "hiv",
+        "structure",
+        "protein",
+        "apoptosis",
+        "cancer"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-janendra-k-batra",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [],
+      "collaboration_potential": [
+        "Computational Analysis",
+        "Drug Discovery",
+        "Structural Studies",
+        "Cell Culture",
+        "Animal Models",
+        "Clinical Studies"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_asok_mukhopadhyay_research",
+      "name": "Dr. Asok Mukhopadhyay",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "Hematopoietic stem cells niche and its control Adult stem cell plasticity and epigenetic modifications (Hepatic cells and dopaminergic neurons) Cellular therapy: Parkinson’s disease, liver fibrosis and hemophilia A Hematopoietic cells in progression of cancer Bone tissue engineering",
+      "research_summary": "Our laboratory is focused on understanding the dynamic regulation of hematopoiesis, stem cell plasticity, cell-based therapies for genetic and degenerative diseases, and the role of hematopoietic cells in tumor progression and metastasis.\n\n1. Hematopoietic Stem Cell (HSC) Niche and Bone Marrow Regeneration\n   We investigate how the bone marrow niche regulates the engraftment and fate of exogenous HSCs. Our findings reveal that during marrow regeneration:\n\nDonor HSCs undergo transient amplification through symmetric divisions.\n\nDonor cells rescue host HSCs from apoptosis and promote proliferation by activating key cell cycle regulators.\n\nThis is followed by a return to quiescence, indicating that hematopoiesis is tightly governed by signals from the niche, particularly stromal cells.\n\nGene expression analyses (cDNA microarray and real-time RT-PCR) have shown that hematopoietic growth factors are robustly expressed during the early stages of regeneration. Several previously uncharacterized genes are also upregulated; their functional roles in hematopoiesis are currently under investigation.\n\nWe are also studying HSC aging, with preliminary data suggesting that both intrinsic cellular mechanisms and extrinsic niche-derived factors contribute to age-related hematopoietic decline.\n\n2. Stem Cell Plasticity and Regenerative Medicine\n   Addressing the global challenge of donor shortages, our lab explores the plasticity of adult stem cells for application in cell therapy. This includes:\n\nPhenotypic correction in mouse models of Hemophilia A and alpha-1 antitrypsin deficiency using bone marrow (BM)-derived stem cells.\n\nDevelopment of BM-based cell therapy for early-stage liver fibrosis.\n\nIn our liver regeneration program, we follow two key strategies:\n\n(a) In situ differentiation of BM-derived stem cells into hepatocytes\n\n(b) Generation of induced hepatocytes by overexpressing master regulatory genes in fibroblasts\n\nUsing real-time PCR and FISH, we demonstrated that BM-derived cells can engraft and differentiate into hepatocytes and endothelial cells, contributing to functional recovery. Notably, Hemophilia A mice receiving uncommitted BM cell transplants showed long-term expression of active Factor VIII without inhibitor formation.\n\nCurrent work includes studying the genetic and epigenetic changes accompanying lineage reprogramming in BM-derived hepatic cells.\n\nTo overcome immune rejection in transplantation, we have shown that peripheral tolerance can be induced by co-transplantation with allo-reactive Treg cells, particularly effective in liver transplantation.\n\n3. Neuroregeneration Using Mesenchymal Stem Cells\n   In a parallel plasticity-focused project, we have shown that mesenchymal stem cells (MSCs) derived from fetal liver can differentiate into dopaminergic neuron-like cells. These cells:\n\nExhibit markers and functions comparable to dopamine-producing neurons\n\nImprove motor behavior in Parkinson’s disease (PD) mouse models upon transplantation\n\nOngoing studies aim to decipher the molecular mechanisms driving MSC differentiation into functional neurons.\n\n4. Hematopoietic Cells in Tumor Progression and Metastasis\n   We are also investigating the role of hematopoietic cells in cancer progression, focusing on ovarian and lung tumor models. Our research has identified:\n\nA specific subtype of hematopoietic lineage cells that frequently fuses with tumor cells\n\nThese fused cells exhibit enhanced migratory capacity and increased genetic instability, suggesting functional advantages in tumor dissemination\n\nWe hypothesize that cell fusion events contribute to tumor aggressiveness by transferring active hematopoietic factors to the tumor genome.",
+      "research_domains": [
+        "Immunology",
+        "Cancer Biology",
+        "Genetics & Genomics"
+      ],
+      "research_keywords": [
+        "immune",
+        "tumor",
+        "cell cycle",
+        "apoptosis",
+        "gene",
+        "cancer"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-asok-mukhopadhyay",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [
+        "Hematopoietic Stem Cell (HSC) Niche and Bone Marrow Regeneration\n   We investigate how the bone marrow niche regulates the engraftment and fate of exogenous HSCs",
+        "Stem Cell Plasticity and Regenerative Medicine\n   Addressing the global challenge of donor shortages, our lab explores the plasticity of adult stem cells for application in cell therapy",
+        "Neuroregeneration Using Mesenchymal Stem Cells\n   In a parallel plasticity-focused project, we have shown that mesenchymal stem cells (MSCs) derived from fetal liver can differentiate into dopaminergic neuron-like cells",
+        "Hematopoietic Cells in Tumor Progression and Metastasis\n   We are also investigating the role of hematopoietic cells in cancer progression, focusing on ovarian and lung tumor models",
+        "includes studying the genetic and epigenetic changes accompanying lineage reprogramming in BM-derived hepatic cells"
+      ],
+      "collaboration_potential": [
+        "Drug Discovery",
+        "Genomics",
+        "Animal Models",
+        "Clinical Studies"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_subeer_s_majumdar_research",
+      "name": "Dr. Subeer S. Majumdar",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "We have developed easy methods for generating transgenic animals. We undertake studies of functional genomics using  transgenic mice  and rats over expressing important genes or animals with inheritable RNAi mediated knockdown of a specific gene. At cellular and systems level, we work to delineate basis of somatic and germ cell differentiation using genomics and proteomics approaches. We are also attempting to generate transgenic farmed animals to produce costly therapeutic proteins in the milk to increase their affordability.",
+      "research_summary": "Our research addresses key challenges in transgenesis, male infertility, and testicular cell biology, integrating advanced genetic, proteomic, and transcriptomic approaches to develop innovative tools, improve reproductive health, and create genetically modified animals for biopharmaceutical applications.\n\n1. Development of a Non-lethal In Vivo Transgenesis Platform\n   Traditional transgenic techniques rely on the destruction of numerous fertilized oocytes, making them inefficient and ethically contentious. To overcome these limitations, we pioneered a death-less transgenesis technique involving in vivo electroporation of plasmid DNA into dividing spermatogonial stem cells in the testis. This method enables rapid generation of transgenic offspring without sacrificing females, marking a paradigm shift in animal biotechnology:\n\nMice (Nature Methods, 2008; Scientific Reports, 2013)\n\nRats (Molecular Therapy: Nucleic Acids, 2016)\n\nThis approach is simple, reproducible, and adaptable across species. Current applications include the generation of transgenic farm animals to produce therapeutic proteins in milk, making them more cost-effective and accessible. To this end, we isolated and validated the buffalo β-casein promoter (Journal of Biotechnology, 2015), enabling tissue-specific expression of therapeutic genes in the mammary gland.\n\n2. Molecular Regulation of Male Fertility and Puberty Onset\n   Amidst rising rates of male infertility, our work has sought to elucidate molecular events associated with the onset of male fertility at puberty, focusing on Sertoli cells, the \"nurse cells\" essential for germ cell support and differentiation.\n\nKey contributions include:\n\nFunctional studies using monkey testicular Sertoli cells revealing pubertal molecular signatures (J. Clin. Endocrinol. Metab., 2006)\n\nInsights into androgen and FSH signaling defects affecting Sertoli cell function (Human Reproduction, 2012; Am. J. Physiol., 2012; Endocrinology, 2015)\n\nIdentification of molecular cues underlying idiopathic infertility in men, with implications for diagnostic and therapeutic development\n\n3. Multi-Omics and Functional Genomics of Spermatogenesis\n   We employ a multi-omics approach to understand the genetic regulation of spermatogenic activation and arrest, integrating data from:\n\nTranscriptomics via microarray analysis and TRANSFAC-guided computational screening\n\nProteomics using SWATH-MS to identify differentially expressed proteins in active vs. inactive testes\n\nComparative genomics across mouse, rat, and monkey models\n\nThese analyses have led to the discovery of novel genes and regulatory factors, many of which are being functionally validated through transgenic rodent models.\n\n4. Functional Characterization of microRNAs in Spermatogenesis\n   To further refine our understanding of gene regulation, we investigated the role of microRNAs in testicular function:\n\nPerformed next-generation sequencing of microRNAs from spermatogenically active and inactive testes\n\nIdentified numerous differentially expressed miRNAs, some of which may regulate key stages of spermatogenesis\n\nFunctional validation is underway using overexpression systems and SPONGE-mediated sequestration in transgenic rodents to delineate the precise role of these miRNAs\n\nOur research integrates cutting-edge molecular techniques with a systems biology perspective, advancing the frontiers of reproductive genetics, non-invasive transgenesis, and biopharmaceutical production in animals.",
+      "research_domains": [
+        "Cell Biology",
+        "Genetics & Genomics"
+      ],
+      "research_keywords": [
+        "dna",
+        "gene",
+        "signaling",
+        "computational"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-subeer-s-majumdar",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [
+        "Development of a Non-lethal In Vivo Transgenesis Platform\n   Traditional transgenic techniques rely on the destruction of numerous fertilized oocytes, making them inefficient and ethically contentious",
+        "Molecular Regulation of Male Fertility and Puberty Onset\n   Amidst rising rates of male infertility, our work has sought to elucidate molecular events associated with the onset of male fertility at puberty, focusing on Sertoli cells, the \"nurse cells\" essential for germ cell support and differentiation",
+        "Multi-Omics and Functional Genomics of Spermatogenesis\n   We employ a multi-omics approach to understand the genetic regulation of spermatogenic activation and arrest, integrating data from:\n\nTranscriptomics via microarray analysis and TRANSFAC-guided computational screening\n\nProteomics using SWATH-MS to identify differentially expressed proteins in active vs",
+        "Functional Characterization of microRNAs in Spermatogenesis\n   To further refine our understanding of gene regulation, we investigated the role of microRNAs in testicular function:\n\nPerformed next-generation sequencing of microRNAs from spermatogenically active and inactive testes\n\nIdentified numerous differentially expressed miRNAs, some of which may regulate key stages of spermatogenesis\n\nFunctional validation is underway using overexpression systems and SPONGE-mediated sequestration in transgenic rodents to delineate the precise role of these miRNAs\n\nOur research integrates cutting-edge molecular techniques with a systems biology perspective, advancing the frontiers of reproductive genetics, non-invasive transgenesis, and biopharmaceutical production in animals"
+      ],
+      "collaboration_potential": [
+        "Computational Analysis",
+        "Drug Discovery",
+        "Genomics",
+        "Animal Models",
+        "Clinical Studies"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_vineeta_bal_research",
+      "name": "Dr. Vineeta Bal",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "Analysing roles of T lymphocytes in pathophysiological conditions.",
+      "research_summary": "Focus areas of research work at the National Institute of Immunology have been: T cell activation, T cell differentiation, T cell memory responses, T cell aging, role of T cells in autoimmunity and allergic responses, characterising immune response to various infectious agents such as Salmonella typhimurium, Japanese encephalitis virus, filarial infections etc.. This work was primarily done using mouse as a model organism. Apart from this, some work on characterising features of human T cells in steady state was carried out. Other areas of collaborative research with Drs. Satyajit Rath and Anna George included antigen processing and presentation, B cell activation and B cell memory generation, mucosal immune responses etc..\nIn addition to the collaborations within NII, research output was contributed by collaborations outside NII, both within and outside India. List of publications below is indicative of areas of research.",
+      "research_domains": [
+        "Immunology",
+        "Infectious Disease"
+      ],
+      "research_keywords": [
+        "immune",
+        "antigen",
+        "immunology"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-vineeta-bal",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [],
+      "collaboration_potential": [
+        "Vaccine Development",
+        "Animal Models",
+        "Clinical Studies"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_amulya_k_panda_research",
+      "name": "Dr. Amulya K. Panda",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "Application of chemical engineering principles to biological process. This includes development of high cell density fed-batch fermentaion process for production of recombinant proteins, high throughput protein refolding from inclusion bodies and design of vaccine delivery system using biodegrdable polymer particles.",
+      "research_summary": "(A) Fermentation   research experiences on Yeast, Fungus, Plant Cells, Animal Cells, Insect Cells, Hybridoma, Viruses and recombinant E. coli for the production of biochemicals. Developed a novel high cell density fermentation process for production of growth hormone in E. coli (Indian patent granted and J. Biotechnology, 1999 ).  Currently working on optimizing culture of Tcells in bioreactor for therapeutic applications.\n(A)\nFermentation   research experiences on Yeast, Fungus, Plant Cells, Animal Cells, Insect Cells, Hybridoma, Viruses and recombinant E. coli for the production of biochemicals.\nFermentation   research experiences on Yeast, Fungus, Plant Cells, Animal Cells, Insect Cells, Hybridoma, Viruses and recombinant E. coli for the production of biochemicals.\n\n(B) High throughput refolding and purification of   recombinant proteins from E. coli . Developed novel ways of protein refolding from inclusion bodies of E. coli without using high molar concentration of chaotropic salts. Mild inclusion body protein solubilization process has been granted USA patent and the research paper published on the novel method (J. of Bioscience and Bioengineering, 2005) has been cited nearly 800 times till date as per Google Scholar.\n(B)\nHigh throughput refolding and purification of   recombinant proteins from E. coli .\n\n(C) Development of vaccine formulation using biodegradable polymer particles . This involves formulation of different size polymeric particles for improved immunogenicity of candidate vaccines. Ten patent applications have been filed on novel applications of  polymer particles based vaccine delivery systems. We have shown that use of biodegradable polymer particle leads to improved immunological memory from single point application. Currently exploring delivery of carbohydrate based vaccine and biomolecules using biodegradable polymer particles. Polymeric scafflold made from nanoparticles are being used for tissue engineering applications.\n(C) Development of vaccine formulation using biodegradable polymer particles\n\nAchievements\nHaving a master degree in chemical engineering from IIT Madras on 1986, I have been working on different areas of bioprocess engineering for last 30 years. I have experiences on all the three areas on biological manufacturing namely fermentation, downstream processing and formulation of biologicals. I do innovative bioprocess engineering utilizing basic fundamental rules of biology. I have significantly contributed towards for growth of plant cells in bioreactor for the production of secondary metabolites (1991) and have reported the very first study on high cell density recombinant fermentation from India (1995). I have reported the highest amount of recombinant protein expression among the earliest Indian studies (1999). Novel protein refolding methods developed by me has been accepted worldwide for high throughput recovery of bioactive protein from inclusion bodies of E. coli (2005). Because of my contribution on applications of chemical engineering principles to biological processes, I have been awarded the Young Asian Biotechnologist Prize from the Society for Biotechnology, Japan, for the year 2004. I have also developed innovative applications of polymeric particles based delivery system for generation of memory antibody response from single doses (2009) and have reported the generation of memory antibody response against carbohydrate antigens without conjugating them to a carrier protein (2014). I have the credentials of generating highest number of IPRs while working at National Institute of Immunology.\n\nTotal Research Publications: 145, Patents: 32 Research Presentations: 100, Book Chapters: 12 Technologies Developed: 15, Trademark Products: 3",
+      "research_domains": [
+        "Immunology"
+      ],
+      "research_keywords": [
+        "vaccine",
+        "immunology",
+        "protein",
+        "antibody"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-amulya-k-panda",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [
+        "I have also developed innovative applications of polymeric particles based delivery system for generation of memory antibody response from single doses (2009) and have reported the generation of memory antibody response against carbohydrate antigens without conjugating them to a carrier protein (2014)"
+      ],
+      "collaboration_potential": [
+        "Drug Discovery",
+        "Vaccine Development",
+        "Structural Studies",
+        "Cell Culture"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_rajni_rani_research",
+      "name": "Dr. Rajni Rani",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "Immunogenetic and immune factors associated with infectious diseases like leprosy, tuberculosis and HCV-HIV co-infections and autoimmune disorders like Type 1 diabetes, hypoparathyroidism and vitiligo.\nKey words :\nMHC, LMP, TAP, cytokine genes, PTPN22, detoxification genes, Glutathione S transferase genes, NQO1 and VDR genes, melanocyte-keratinocyte network and mesenchymal stem cells",
+      "research_summary": "Our laboratory investigates the immunogenetic basis of differential immune responses in both infectious and autoimmune diseases. Individuals vary significantly in their immune responses to infections—some clear the infection, some develop immunity, while others progress to chronic disease. This variation is influenced by an integrated network of genetic factors involved in antigen presentation, immune regulation, and inflammation.\n\nWe focus on genes such as:\n\nMajor Histocompatibility Complex (MHC)\n\nLow Molecular Weight Proteases (LMP)\n\nTransporters Associated with Antigen Processing (TAP)\n\nCytotoxic T-Lymphocyte Antigen-4 (CTLA-4)\n\nCytokine genes\n\nVitamin D receptor\n\nPTPN22\n\nPhase II detoxification genes (e.g., Glutathione S-transferase, NQO1)\n\nOur research spans diseases such as leprosy, tuberculosis, HCV-HIV co-infections, and autoimmune conditions including psoriasis, hypoparathyroidism, Type 1 Diabetes (T1D), and vitiligo.\n\n1. Type 1 Diabetes: Immunotherapy and Beta Cell Regeneration\n   T1D is an autoimmune disorder characterized by the destruction of pancreatic beta cells, resulting in insulin dependence. Current insulin therapy manages symptoms but does not address the root autoimmune cause.\n\nWe are developing a dual therapeutic strategy:\n\nImmune modulation: Using nano/micro-particle encapsulated immunomodulatory peptides to attenuate autoreactive T cells and suppress autoimmunity.\n\nBeta cell regeneration: Utilizing mesenchymal stem cells (MSCs) from Balb/c mouse bone marrow to restore insulin production.\n\nKey initiatives:\n\nIn vivo testing of peptide-loaded biodegradable particles in streptozotocin-induced diabetic Balb/c and Non-Obese Diabetic (NOD) mice\n\nDifferentiation of MSCs into insulin-producing cells using multiple protocols\n\nAssessing combined or independent efficacy of stem cell therapy and immune modulation\n\nThis approach aims to develop a curative strategy for T1D by targeting both immune dysfunction and beta cell loss.\n\n2. Vitiligo: Autoimmunity, Genetics, and Molecular Pathogenesis\n   Vitiligo is the most common pigmentation disorder, affecting 0.5–1% of the global population, caused by the selective destruction of melanocytes.\n\nOur research focuses on:\n\nImmunogenetic predisposition: We conducted the largest study on MHC associations in vitiligo, revealing key differences in peptide-binding residues of MHC class I and II between patients and controls. These differences influence the presentation of autoantigens.\n\nImmune dysregulation: Elevated levels of cytokines were observed in both lesional skin and peripheral blood, contributing to melanocyte loss.\n\nEpigenetic regulation: Genome-wide profiling identified several microRNAs (miRNAs) upregulated in lesional skin versus non-lesional skin of the same patients.\n\nCurrent work includes:\n\nFunctional studies on the impact of identified cytokines and miRNAs on primary melanocyte and keratinocyte cultures\n\nDissecting the molecular networks driving melanocyte destruction and melanin loss\n\nThis comprehensive approach seeks to unravel the complex immunogenetic and epigenetic mechanisms underlying vitiligo and to identify potential therapeutic targets.",
+      "research_domains": [
+        "Immunology",
+        "Infectious Disease",
+        "Genetics & Genomics"
+      ],
+      "research_keywords": [
+        "immune",
+        "antigen",
+        "tuberculosis",
+        "hiv"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-rajni-rani",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [
+        "Type 1 Diabetes: Immunotherapy and Beta Cell Regeneration\n   T1D is an autoimmune disorder characterized by the destruction of pancreatic beta cells, resulting in insulin dependence",
+        "Vitiligo: Autoimmunity, Genetics, and Molecular Pathogenesis\n   Vitiligo is the most common pigmentation disorder, affecting 0",
+        "genes such as:\n\nMajor Histocompatibility Complex (MHC)\n\nLow Molecular Weight Proteases (LMP)\n\nTransporters Associated with Antigen Processing (TAP)\n\nCytotoxic T-Lymphocyte Antigen-4 (CTLA-4)\n\nCytokine genes\n\nVitamin D receptor\n\nPTPN22\n\nPhase II detoxification genes (e",
+        "includes:\n\nFunctional studies on the impact of identified cytokines and miRNAs on primary melanocyte and keratinocyte cultures\n\nDissecting the molecular networks driving melanocyte destruction and melanin loss\n\nThis comprehensive approach seeks to unravel the complex immunogenetic and epigenetic mechanisms underlying vitiligo and to identify potential therapeutic targets"
+      ],
+      "collaboration_potential": [
+        "Drug Discovery",
+        "Vaccine Development",
+        "Genomics",
+        "Structural Studies",
+        "Cell Culture",
+        "Animal Models",
+        "Clinical Studies"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_anil_k_suri_research",
+      "name": "Dr. Anil K. Suri",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "Our Cancer Research Program is aimed to identify leads for early detection and diagnosis, treatments and cure. This important aspect of our Cancer Research Program involves Biomarker discovery for early detection and diagnosis, Cancer Immunotherapy, Cancer vaccine, Mechanistic studies of key tumor specific molecules in cancer, Drug discovery and Chemo-resistant discovery.",
+      "research_summary": "In our cancer research program, we have identified a tumor antigen SPAG9 which is expressed in reproductive tract cancers and variety of malignancies. Our Institute has signed a Memorandum of Understanding with Cancer Institute (WIA) Adiyar, Chennai, for Human clinical trials in cervix cancer patients. Drug Controller General India has approved and given permission to Dr. T Rajkumar, Medical Oncologist at Cancer Institute to conduct Phase II clinical trial study entitled “Cancer immunotherapy dendritic cell vaccine based immunotherapy in cervical cancer-A phase II, double blind, randomized, three arm study to evaluate the efficacy of dendritic cell vaccine in stage IIIB cervical cancer” (n=54 patients)” employing recombinant SPAG9 protein. Recombinant SPAG9 manufacturing and preclinical regulatory toxicological studies are under way which has been outsourced to Syngene International (Biocon Limited), Bangalore, for Human clinical trials. Our findings have opened new avenues for novel treatment modalities in battling with this deadly disease worldwide employing immunotherapeutic cancer vaccine for treating cervical cancer patients for better Reproductive Health. If successful, this will be the first molecule identified in India and will be an example of Translational Research outcome.\nTranslational Efforts using Cancer Immunotherapy platform: Our ongoing tumor immunotherapy platform focuses on research initiative involving SPAG9 based targeted vaccine for prophylactic and therapeutic approach. Our efforts in developing monoclonal antibody against SPAG9 will be beneficial to the clinicians for early and accurate detection of cancer and may be used for better cancer treatment which may be a key to successful cancer treatment.\nTranslational Efforts using Cancer Immunotherapy platform:\n\nTranslational Research in Triple negative breast cancer & Reproductive tract Cancer: Breast cancer remains the major cause of death in women worldwide. Major challenge remains with the breast cancer patients with triple-negative tumors for which there are no or limited therapy available and have poor prognosis. In this regard we are investigating the involvement of SPAG9 in breast cancer using various breast cancer cell line models which may lead to new therapeutic strategies. Gynecological cancers and Prostate cancer remain the leading cause of death around the world. Our translational efforts using SPAG9 and AKAP4 may be ideal targets for early detection and diagnosis and immunotherapeutic use for better cancer management.\nTranslational Research in Triple negative breast cancer & Reproductive tract Cancer:\n\nMechanistic Investigation platform: The focus of our work is also driven towards exploring the involvement of SPAG9 & AKAP4 in the complex cancer signaling networks. Research efforts in our laboratory have been initiated to understand the underlying mechanisms involving these important molecules in malignant cells. Translational efforts with various formulation of SPAG9 siRNA are under way which may be used as future applications of siRNA therapeutics in variety of cancer treatment.\nMechanistic Investigation platform:\n\nLinkages with Hospitals and partnership with research organizations: Dr. T. Rajkumar, Head Medical Oncologist, Cancer Instiute (WIA), Chennai, Dr. P.K. Julka, Head, Department of Radiotherapy, IRCH, Dr. G.K. Rath, Director, IRCH, Dr. Rajive Kumar, Head, Hematology oncology Laboratory IRCH, Dr. D. Pandey, Surgical Oncologist, AIIMS, Dr. Amlesh Seth, Onco-Urology, AIIMS, Dr. Alok Thakar, Otolaryngology (Head and Neck) AIIMS, Dr. Govind Makharia, Department of Gastroenterology and Human Nutriton, AIIMS, Dr. Vaishali Suri, Department of Pathology, AIIMS, Dr. Ashish Suri, Department of Neurosurgery, AIIMS, Dr. Arvind Chaturvedi, Department of Neurosurgery, AIIMS, Dr. Anju Gupta, Head of Pathology, VIMHANS Hospital, Dr. Amar Bhatnagar, Surgical Oncologist, Safdarjung Hospital, Dr. Aruna Batra, Head, Obstetrics and Gynecology, Safdarjung Hospital, Dr. T. C. Sadasukhi, Department of Urology, Mahatma Gandhi Hospital, Jaipur, Prof. N. K. Lohiya, Centre for Advanced Studies, Jaipur.\nLinkages with Hospitals and partnership with research organizations:",
+      "research_domains": [
+        "Immunology",
+        "Cancer Biology",
+        "Cell Biology",
+        "Genetics & Genomics"
+      ],
+      "research_keywords": [
+        "antigen",
+        "signaling",
+        "antibody",
+        "tumor",
+        "vaccine",
+        "protein",
+        "cancer"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-anil-k-suri",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [
+        "research initiative involving SPAG9 based targeted vaccine for prophylactic and therapeutic approach"
+      ],
+      "collaboration_potential": [
+        "Drug Discovery",
+        "Vaccine Development",
+        "Cell Culture",
+        "Clinical Studies"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_kanwaljeet_kaur_research",
+      "name": "Dr. Kanwaljeet Kaur",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "Effect of carbohydrates on structure and function of glycopeptides",
+      "research_summary": "Our laboratory is broadly engaged in understanding the structural and functional implications of protein glycosylation, a ubiquitous post-translational modification known to impact protein folding, stability, intracellular trafficking, and biological activity. While glycosylation can stabilize peptide conformation and restrict dynamic fluctuations, its structural microheterogeneity—resulting from diverse glycosylation patterns—often complicates the functional characterization of glycoproteins.\n\nTo address this, we utilize chemically synthesized homogeneous glycopeptides as rational model systems, enabling systematic studies of carbohydrate structures and their local perturbations. Our research focuses on elucidating the differential roles of carbohydrate domains in two key model systems:\n\n1. Antimicrobial Glycopeptides of Innate Immune Origin\n   Insects exhibit resistance to bacterial infections through the production of diverse proline-rich antimicrobial peptides such as drosocin, pyrrhocoricin, formaecins, diptericin, and lebocins. A distinctive feature of these peptides is the presence of O-glycosylated threonine residues, essential for their maximal antimicrobial activity. However, the precise functional role of the carbohydrate moiety remains poorly understood.\n\nOur studies aim to:\n\nInvestigate the structure–function relationship of these antimicrobial glycopeptides.\n\nDecipher the mechanism of action, hypothesized to involve bacterial cell entry and intracellular target binding.\n\nIdentify and characterize bacterial target proteins to further understand the bactericidal mechanism of these cationic glycopeptides.\n\n2. Novel Glycopeptide Inhibitors of Thrombin\n   Thrombin is a serine protease pivotal to the regulation of hemostasis, with additional roles in cell cycle regulation, inflammation, pregnancy, and several pathological conditions, including coagulation disorders, cancer, and bloodborne infections. Given its central role, thrombin has long been considered a promising therapeutic target.\n\nOur objective is to develop novel, fast-acting, specific, and potent glycopeptide inhibitors of thrombin. To this end:\n\nWe design and synthesize customized glycopeptide inhibitors.\n\nConduct structure–function studies to optimize their activity and specificity.\n\nExplore the potential of these inhibitors in addressing thrombin-associated pathologies.\n\nBy integrating synthetic chemistry, structural biology, and functional immunology, our research seeks to provide mechanistic insights into glycopeptide function and develop novel therapeutic candidates targeting both infectious diseases and thrombin-mediated disorders.",
+      "research_domains": [
+        "Immunology",
+        "Infectious Disease",
+        "Cancer Biology",
+        "Cell Biology",
+        "Structural Biology"
+      ],
+      "research_keywords": [
+        "immune",
+        "folding",
+        "structure",
+        "protein",
+        "cell cycle",
+        "immunology",
+        "cancer"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-kanwaljeet-kaur",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [
+        "Antimicrobial Glycopeptides of Innate Immune Origin\n   Insects exhibit resistance to bacterial infections through the production of diverse proline-rich antimicrobial peptides such as drosocin, pyrrhocoricin, formaecins, diptericin, and lebocins",
+        "Novel Glycopeptide Inhibitors of Thrombin\n   Thrombin is a serine protease pivotal to the regulation of hemostasis, with additional roles in cell cycle regulation, inflammation, pregnancy, and several pathological conditions, including coagulation disorders, cancer, and bloodborne infections",
+        "elucidating the differential roles of carbohydrate domains in two key model systems:\n\n1"
+      ],
+      "collaboration_potential": [
+        "Drug Discovery",
+        "Structural Studies"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_sangeeta_bhaskar_research",
+      "name": "Dr. Sangeeta Bhaskar",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "•  Cancer Immunotherapy\n•  Tuberculosis vaccine development",
+      "research_summary": "Summary of Research\nWe engaged in the development and evaluation of novel immunotherapeutic and chemo-immunotherapeutic strategies against tuberculosis and cancer, with a special focus on the immunomodulatory potential of Mycobacterium indicus pranii (MIP).\n\n1. Protective Efficacy of MIP in Tuberculosis\n   M. indicus pranii (MIP), a non-pathogenic mycobacterial strain sharing cross-reactive antigens with M. tuberculosis, is being investigated as an alternative vaccine candidate to M. bovis BCG. Earlier studies demonstrated that killed MIP can confer protection against M. tuberculosis infection.\n\nOur current research focuses on:\n\nEvaluating the protective efficacy of MIP in both live and killed forms\n\nComparing parenteral and aerosol routes of immunization\n\nAssessing immune responses elicited by MIP and comparing them to those generated by BCG vaccination\n\nUtilizing various animal models of tuberculosis, including mice and guinea pigs\n\nWe also explore MIP as an adjunct to standard chemotherapy, aiming to enhance therapeutic efficacy and reduce treatment duration in both sub-acute and chronic stages of tuberculosis.\n\n2. Immunotherapy and Chemo-immunotherapy in Cancer\n   The role of the immune system in cancer control is well established. However, tumors often develop mechanisms to suppress host immunity within the local microenvironment. Our goal is to reactivate anti-tumor immunity using immunomodulators such as MIP and to combine them with standard chemotherapy to achieve a synergistic effect.\n\nMIP as an Immunotherapeutic Agent\nBuilding on our findings in tuberculosis, where MIP induces strong Th1-type immune responses, we investigated MIP’s anti-tumor activity in murine tumor models. Studies include:\n\nEvaluating MIP as a standalone immunomodulatory agent\n\nAssessing MIP in combination with commercial chemotherapeutic agents\n\nInvestigating mechanisms of MIP-mediated immune activation, including Th1 polarization and macrophage stimulation\n\nDevelopment of Chemo-immunotherapeutic Formulations\nWe designed novel formulations that combine the cytotoxic effects of chemotherapy with the immune-activating potential of immunostimulants. Our strategy includes:\n\nConjugating Paclitaxel (PTX) with SP-LPS, a non-toxic derivative of LPS, to create a dual-function molecule\n\nFormulating nanoparticles co-encapsulating PTX and SP-LPS\n\nEvaluating their anticancer activity in preclinical models\n\nFuture directions involve:\n\nExploring alternative polymers with macrophage-stimulating and anti-tumor properties\n\nOptimizing formulation parameters for enhanced tumor microenvironment modulation and immune priming\n\nThrough these integrated efforts, we aim to develop innovative vaccine and immunotherapy platforms that not only enhance host immunity against tuberculosis and cancer but also improve therapeutic outcomes through synergistic chemo-immunotherapy.",
+      "research_domains": [
+        "Immunology",
+        "Infectious Disease",
+        "Cancer Biology",
+        "Genetics & Genomics"
+      ],
+      "research_keywords": [
+        "immune",
+        "tuberculosis",
+        "tumor",
+        "vaccine",
+        "cancer"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-sangeeta-bhaskar",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [
+        "Protective Efficacy of MIP in Tuberculosis\n   M",
+        "Immunotherapy and Chemo-immunotherapy in Cancer\n   The role of the immune system in cancer control is well established",
+        "the immunomodulatory potential of Mycobacterium indicus pranii (MIP)",
+        "focuses on:\n\nEvaluating the protective efficacy of MIP in both live and killed forms\n\nComparing parenteral and aerosol routes of immunization\n\nAssessing immune responses elicited by MIP and comparing them to those generated by BCG vaccination\n\nUtilizing various animal models of tuberculosis, including mice and guinea pigs\n\nWe also explore MIP as an adjunct to standard chemotherapy, aiming to enhance therapeutic efficacy and reduce treatment duration in both sub-acute and chronic stages of tuberculosis"
+      ],
+      "collaboration_potential": [
+        "Drug Discovery",
+        "Vaccine Development",
+        "Animal Models",
+        "Clinical Studies"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_satyajit_rath_research",
+      "name": "Dr. Satyajit Rath",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "The focus of programmes in the group has been the physiological control of the generation and activation of T, B and antigen-presenting cells (APCs), using a variety of interlinked experimental systems and approaches in association with many collaborators both within and outside NII.",
+      "research_summary": "We focuses on dissecting the cellular and molecular mechanisms underlying antigen presentation and adaptive immune cell function, with a particular emphasis on the role of antigen-presenting cells (APCs) and intracellular signaling pathways.\n\nSpecifically, our projects explore:\n\nAntigen presentation mechanisms to both MHC class I- and MHC class II-restricted T cells, examining how APC subsets process and present antigens to initiate distinct CD8⁺ and CD4⁺ T cell responses.\n\nThe impact of intracellular signal transduction modulation on the development, activation, and functional responses of T cells, B cells, and APCs.\n\nUse of genetic tools (e.g., knockout/knock-in models) and pharmacological inhibitors to manipulate and analyze key signaling nodes and pathways involved in immune regulation.\n\nThis integrative approach aims to provide a deeper understanding of how immune cell communication and signaling events influence adaptive immunity, with implications for vaccine design, immunotherapies, and autoimmunity research.",
+      "research_domains": [
+        "Immunology",
+        "Cell Biology"
+      ],
+      "research_keywords": [
+        "immune",
+        "vaccine",
+        "antigen",
+        "signaling"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-satyajit-rath",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [
+        "dissecting the cellular and molecular mechanisms underlying antigen presentation and adaptive immune cell function, with a particular emphasis on the role of antigen-presenting cells (APCs) and intracellular signaling pathways"
+      ],
+      "collaboration_potential": [
+        "Drug Discovery",
+        "Vaccine Development",
+        "Genomics"
+      ],
+      "lab_affiliation": null
+    },
+    {
+      "faculty_id": "dr_chandrima_shaha_research",
+      "name": "Dr. Chandrima Shaha",
+      "faculty_status": "former",
+      "department": "Unknown",
+      "research_interest": "Cell death is one of the fundamental biological processes required to maintain normal development. A cell’s decision to live or die is tightly regulated by signals originating from various sources. Our interest is to elucidate the regulatory processes of cell death and the associated mechanisms.",
+      "research_summary": "The course of evolution has shaped different species for their survival during conditions of stress, natural development, differentiation and growth. These conditions represent the two faces of the same coin because continued growth or continuous stress would hamper survival. To circumvent these problems, all animal cells have evolved the capability to kill themselves by turning on gene-encoded cell suicide programs. These programs not only help the organisms to survive in conditions of excessive stress but also help prevent abnormal growth. The decision of whether a particular cell will live or die is tightly regulated by many different signals originating both from within the cell and from its environment. The implementation of this self-destruction program leads to a morphologically distinct form of cell death termed apoptosis and deregulation of apoptosis is associated with a variety of diseases including cancer, autoimmune diseases and neurodegenerative disorders. There are considerable variations in which apoptosis occur in different systems and under different conditions. Cell death also occurs via processes such as programmed necrosis and autophagy and it is the balance between survival and these death processes that determines the fate of a cell. The major focus of the laboratory is to elucidate the precise mechanisms of cell death and how this process is regulated by the diverse signalling pathways using unicellular ( Leishmania parasite) and multicellular (cancer cells) model systems with or without genetic manipulations. The aim is to provide a deeper understanding of cell death events that can help in the development of improved therapeutics for diseases associated with anomalous cell death.",
+      "research_domains": [
+        "Cancer Biology",
+        "Cell Biology"
+      ],
+      "research_keywords": [
+        "apoptosis",
+        "gene",
+        "cancer"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-chandrima-shaha",
+      "last_updated": "2025-05-22",
+      "research_focus_areas": [],
+      "collaboration_potential": [
+        "Drug Discovery",
+        "Genomics"
+      ],
+      "lab_affiliation": null
+    }
+  ],
+  "statistics": {
+    "total_faculty": 25,
+    "department_distribution": {
+      "Unknown": 25
+    },
+    "research_domain_distribution": {
+      "Immunology": 15,
+      "Cancer Biology": 9,
+      "Cell Biology": 16,
+      "Infectious Disease": 12,
+      "Genetics & Genomics": 14,
+      "Biochemistry": 5,
+      "Structural Biology": 2
+    },
+    "top_keywords": {
+      "immune": 11,
+      "antibody": 4,
+      "tumor": 5,
+      "apoptosis": 5,
+      "cancer": 10,
+      "vaccine": 6,
+      "antigen": 6,
+      "tuberculosis": 6,
+      "dna": 5,
+      "gene": 5,
+      "pathway": 6,
+      "signaling": 7,
+      "protein": 10,
+      "cell cycle": 3,
+      "hiv": 4,
+      "structure": 5,
+      "immunology": 4,
+      "enzyme": 2,
+      "folding": 2,
+      "rna": 1,
+      "computational": 1
+    },
+    "collaboration_areas": {
+      "Drug Discovery": 19,
+      "Vaccine Development": 11,
+      "Genomics": 13,
+      "Clinical Studies": 16,
+      "Cell Culture": 8,
+      "Animal Models": 12,
+      "Structural Studies": 8,
+      "Computational Analysis": 2
+    }
+  }
+}

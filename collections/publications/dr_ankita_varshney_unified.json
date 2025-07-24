@@ -1,0 +1,277 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Ankita Varshney",
+    "email": "ankitavarshney@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-ankita-varshney",
+    "research_domain": "Chemical Biology, Biochemistry & Structural Biology",
+    "faculty_status": "current",
+    "search_date": "2025-06-26T22:39:05.377151",
+    "total_publications": 9,
+    "last_updated": "2025-06-26",
+    "description": "This document contains a complete list of publications by Dr. Ankita Varshney, current faculty in Chemical Biology, Biochemistry & Structural Biology at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "25681619",
+      "title": "Thermal induced unfolding of human serum albumin isomers: assigning residual α helices to domain II.",
+      "authors": [
+        "Basir Ahmad",
+        "Ghazala Muteeb",
+        "Parvez Alam",
+        "Ankita Varshney",
+        "Nida Zaidi",
+        "Mohd Ishtikhar",
+        "Gamal Badr",
+        "Mohamed H Mahmoud",
+        "Rizwan Hasan Khan"
+      ],
+      "year": "2015",
+      "journal": "International journal of biological macromolecules",
+      "doi": "10.1016/j.ijbiomac.2015.02.003",
+      "doi_link": "https://doi.org/10.1016/j.ijbiomac.2015.02.003",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25681619",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Thermal%20induced%20unfolding%20of%20human%20serum%20albumin%20isomers%3A%20assigning%20residual%20%CE%B1%20helices%20to%20domain%20II%22",
+      "citations": {
+        "crossref": 36
+      },
+      "abstract": "In this study we have investigated the heat induced denaturation of HSA by utilizing spectroscopic approaches including fluorescence and circular dichroism. Thermal denaturation of N isomer (domains I-III remain intact), B isomer (loss of helical structure of interdomain contacts) and I state (domain II intact) was found to be co-operative processes while for F isomer domains unfold non-cooperatively. These finding pointed out that during N-F transition, HSA suffers more structural alterations which are not localized only to domain III. Loss of secondary structure in the temperature range 20-60 °C without effecting tertiary structure of N isomer of HSA is mainly due to loss in helical extensions connecting domain I to II and domain II to III. All the four thermally denatured states (60-96 °C) of HSA retained approximately 50% residual α-helical structures. Near-UV spectroscopy used as a probe for tertiary structure indicated that heat denatured states lost almost all of the tertiary contacts thereby forming molten globule like states. Furthermore, our results provide evidence that residual helical structures are mainly located in domain II.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "24913236",
+      "title": "Analysis of binding interaction between antibacterial ciprofloxacin and human serum albumin by spectroscopic techniques.",
+      "authors": [
+        "Ankita Varshney",
+        "Yunus Ansari",
+        "Nida Zaidi",
+        "Ejaz Ahmad",
+        "Gamal Badr",
+        "Parvez Alam",
+        "Rizwan Hasan Khan"
+      ],
+      "year": "2014",
+      "journal": "Cell biochemistry and biophysics",
+      "doi": "10.1007/s12013-014-9863-1",
+      "doi_link": "https://doi.org/10.1007/s12013-014-9863-1",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24913236",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Analysis%20of%20binding%20interaction%20between%20antibacterial%20ciprofloxacin%20and%20human%20serum%20albumin%20by%20spectroscopic%20techniques%22",
+      "citations": {
+        "crossref": 48
+      },
+      "abstract": "The binding of ciprofloxacin (CFX) to human serum albumin (HSA) has been investigated by fluorescence displacement and induced circular dichroism (ICD) measurements. Displacement measurements were performed with CFX in the absence and presence of marker ligands (hemin for domain I, bilirubin for interspace of domain IA and IIA, chloroform for domain II, and diazepam for domain III) to establish CFX binding site in one of the three major domains of HSA. The primary binding site of CFX is located in site I of HSA (domain IIA) in close vicinity to the site where chloroform (CHCl3) binds. It is depicted from the decrease in quenching constant of HSA-CHCl3 system (0.02 ± 0.06) × 10(-3 )L mol(-1) compared to HSA-CFX-CHCl3 system (0.01 ± 0.06) × 10(-3 )L mol(-1) as obtained by the fluorescence displacement spectroscopy. Furthermore, far-UV CD results show that the binding of CFX leads to change in the helicity of HSA. The ICD results indicated that the CFX binds to the domain IIA of HSA which is in agreement with the fluorescence displacement results.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "24242285",
+      "title": "Cosolvents induced unfolding and aggregation of keyhole limpet hemocyanin.",
+      "authors": [
+        "Ankita Varshney",
+        "Gulam Rabbani",
+        "Gamal Badr",
+        "Rizwan Hasasn Khan"
+      ],
+      "year": "2014",
+      "journal": "Cell biochemistry and biophysics",
+      "doi": "10.1007/s12013-013-9776-4",
+      "doi_link": "https://doi.org/10.1007/s12013-013-9776-4",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24242285",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Cosolvents%20induced%20unfolding%20and%20aggregation%20of%20keyhole%20limpet%20hemocyanin%22",
+      "citations": {
+        "semantic_scholar": 21
+      },
+      "abstract": "The objective of this study was to examine the effects of 2,2,2 trifluoroethanol (TFE) and acetonitrile (ACN) on the stability, behavior, and structural characteristics of giant multimeric protein Keyhole Limpet hemocyanin (KLH) by combining the circular dichroism (CD) and fluorescence measurements of KLH solution. In concentration range 20-50% (v/v) TFE, protein at pH 7.4 shows visible aggregation while no aggregation was observed in the entire concentration range of TFE at molten globule (MG) state (pH 2.8) and resulted in stable α-helix. Our result shows that in the presence of 80% (v/v) and 40% (v/v) TFE, at native (pH 7.4) and MG state (pH 2.8) occurred in a highly helical state referred to as TFE denatured state I and II, respectively. However, in case of ACN, aggregation starts above 40% (v/v) for pH 7.4 and at 80% (v/v) for acid-induced MG (pH 2.8) state, which was dominated by β-sheet structure and referred to as ACN denatured state III and IV. An important object of our investigation is to get more detail study of efficiency of cosolvents in inducing structural changes in KLH. The dependence of scattering intensity and the R h on alcohol concentrations was investigated at 25 °C.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "21386972",
+      "title": "Elimination of endogenous toxin, creatinine from blood plasma depends on albumin conformation: site specific uremic toxicity & impaired drug binding.",
+      "authors": [
+        "Ankita Varshney",
+        "Mohd Rehan",
+        "Naidu Subbarao",
+        "Gulam Rabbani",
+        "Rizwan Hasan Khan"
+      ],
+      "year": "2011",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0017230",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0017230",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21386972",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Elimination%20of%20endogenous%20toxin%2C%20creatinine%20from%20blood%20plasma%20depends%20on%20albumin%20conformation%3A%20site%20specific%20uremic%20toxicity%20%26%20impaired%20drug%20binding%22",
+      "citations": {
+        "semantic_scholar": 105
+      },
+      "abstract": "Uremic syndrome results from malfunctioning of various organ systems due to the retention of uremic toxins which, under normal conditions, would be excreted into the urine and/or metabolized by the kidneys. The aim of this study was to elucidate the mechanisms underlying the renal elimination of uremic toxin creatinine that accumulate in chronic renal failure. Quantitative investigation of the plausible correlations was performed by spectroscopy, calorimetry, molecular docking and accessibility of surface area. Alkalinization of normal plasma from pH 7.0 to 9.0 modifies the distribution of toxin in the body and therefore may affect both the accumulation and the rate of toxin elimination. The ligand loading of HSA with uremic toxin predicts several key side chain interactions of site I that presumably have the potential to impact the specificity and impaired drug binding. These findings provide useful information for elucidating the complicated mechanism of toxin disposition in renal disease state.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "20213446",
+      "title": "Acid-induced unfolding of didecameric keyhole limpet hemocyanin: detection and characterizations of decameric and tetrameric intermediate states.",
+      "authors": [
+        "Ankita Varshney",
+        "Basir Ahmad",
+        "Gulam Rabbani",
+        "Vijay Kumar",
+        "Savita Yadav",
+        "Rizwan Hasan Khan"
+      ],
+      "year": "2010",
+      "journal": "Amino acids",
+      "doi": "10.1007/s00726-010-0524-4",
+      "doi_link": "https://doi.org/10.1007/s00726-010-0524-4",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20213446",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Acid-induced%20unfolding%20of%20didecameric%20keyhole%20limpet%20hemocyanin%3A%20detection%20and%20characterizations%20of%20decameric%20and%20tetrameric%20intermediate%20states%22",
+      "citations": {
+        "crossref": 39
+      },
+      "abstract": "Keyhole limpet hemocyanin (KLH) is widely used as an immune stimulant and hapten carrier derived from a marine mollusc Megathura crenulata. To provide details of the stability and equilibrium of KLH, different intermediate species were investigated with a series of biophysical techniques: circular dichroism, binding of hydrophobic dye, 1-anilino-8-naphthalene sulfonic acid, acrylamide-induced fluorescence quenching, thermal stability and dynamic light scattering. KLH in its native state at pH 7.4 exists in the stable didecameric form with hydrodynamic radii (Rh) of 28.22 nm, which is approximately equal to a molecular mass of 8.8+/-0.6 MDa. The experimental results demonstrated the presence of two structurally distinct species in the conformational transition of KLH under acidic conditions. One species populates at pH 2.8, characterized as decameric (4.8+/-0.2 MDa; Rh=22.02 nm), molten globule-like state, while the other accumulates at pH 1.2 and is characterized as a tetramer (2.4+/-0.8 MDa; Rh=16.47 nm) with more organized secondary and tertiary structures. Our experimental manipulation of the oligomeric states of KLH has provided data that correlate well with the known oligomeric forms obtained from total KLH formed in vivo and extends our understanding of multimer formation by KLH. The results are of particular interest in light of the important role of the mechanistic pathway of pH-dependent structural changes of Hc stability in the biochemical and medical applications of these respiratory proteins.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "19995341",
+      "title": "Stabilization of folding intermediate States from alkaline induced unfolded state of bovine serum fetuin in trifluoroethanol and acetonitrile.",
+      "authors": [
+        "Basir Ahmad",
+        "Zeyaul Islam",
+        "Ankita Varshney",
+        "Rizwan Hasan Khan"
+      ],
+      "year": "2010",
+      "journal": "Protein and peptide letters",
+      "doi": "10.2174/092986610791112774",
+      "doi_link": "https://doi.org/10.2174/092986610791112774",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19995341",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Stabilization%20of%20folding%20intermediate%20States%20from%20alkaline%20induced%20unfolded%20state%20of%20bovine%20serum%20fetuin%20in%20trifluoroethanol%20and%20acetonitrile%22",
+      "citations": {
+        "crossref": 5
+      },
+      "abstract": "The conformation of bovine serum fetuin (BSF) was examined over the pH 7.0-12.9 regions by circular dichroism, intrinsic fluorescence and ANS binding. We observed that at higher pH, BSF exists in alkaline unfolded state. Our results provided evidence that correlates simultaneous formation of secondary structure followed by accumulation of hydrophobic clusters.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "19438410",
+      "title": "Phytolacca americana lectin (Pa-2; pokeweed mitogen): an intrinsically unordered protein and its conversion into partial order at low pH.",
+      "authors": [
+        "Ejaz Ahmad",
+        "Shah Kamranur Rahman",
+        "Javed Masood Khan",
+        "Ankita Varshney",
+        "Rizwan Hasan Khan"
+      ],
+      "year": "2009",
+      "journal": "Bioscience reports",
+      "doi": "10.1042/BSR20090035",
+      "doi_link": "https://doi.org/10.1042/BSR20090035",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19438410",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Phytolacca%20americana%20lectin%20%28Pa-2%3B%20pokeweed%20mitogen%29%3A%20an%20intrinsically%20unordered%20protein%20and%20its%20conversion%20into%20partial%20order%20at%20low%20pH%22",
+      "citations": {
+        "semantic_scholar": 14
+      },
+      "abstract": "This is the first report of its kind that well demonstrates that a lectin from Phytolacca americana [Pa-2 (P. americana lectin-2)] can also be intrinsically unordered, based on the results obtained by CD, tryptophan fluorescence, ANS (8-anilinonaphthalene-1-sulfonic acid) binding, acrylamide quenching, DLS (dynamic light scattering) and its amino acid composition database analyses. Pa-2 is an acidic monomeric lectin and acquires random coil conformation at neutral pH without any regular secondary structure. As confirmed by different spectroscopic techniques, on lowering the pH, some secondary structures, predominantly alpha-helices, are detected by far-UV CD that adopt a marginally stable partially folded collapsed conformation possessing the characteristics of a premolten globule state. It is in accordance with coil-helix transition that is commonly observed when these intrinsically unordered proteins interact with their partner molecules in vivo.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "19319989",
+      "title": "Ligand binding strategies of human serum albumin: how can the cargo be utilized?",
+      "authors": [
+        "Ankita Varshney",
+        "Priyankar Sen",
+        "Ejaz Ahmad",
+        "Mohd Rehan",
+        "Naidu Subbarao",
+        "Rizwan Hasan Khan"
+      ],
+      "year": "2010",
+      "journal": "Chirality",
+      "doi": "10.1002/chir.20709",
+      "doi_link": "https://doi.org/10.1002/chir.20709",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19319989",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Ligand%20binding%20strategies%20of%20human%20serum%20albumin%3A%20how%20can%20the%20cargo%20be%20utilized%3F%22",
+      "citations": {
+        "semantic_scholar": 321
+      },
+      "abstract": "Human serum albumin (HSA), being the most abundant carrier protein in blood and a modern day clinical tool for drug delivery, attracts high attention among biologists. Hence, its unfolding/refolding strategies and exogenous/endogenous ligand binding preference are of immense use in therapeutics and clinical biochemistry. Among its fellow proteins albumin is known to carry almost every small molecule. Thus, it is a potential contender for being a molecular cargo/or nanovehicle for clinical, biophysical and industrial purposes. Nonetheless, its structure and function are largely regulated by various chemical and physical factors to accommodate HSA to its functional purpose. This multifunctional protein also possesses enzymatic properties which may be used to convert prodrugs to active therapeutics. This review aims to highlight current overview on the binding strategies of protein to various ligands that may be expected to lead to significant clinical applications.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "18452986",
+      "title": "Comparative studies of unfolding and binding of ligands to human serum albumin in the presence of fatty acid: spectroscopic approach.",
+      "authors": [
+        "Ankita Varshney",
+        "Basir Ahmad",
+        "Rizwan Hasan Khan"
+      ],
+      "year": "2008",
+      "journal": "International journal of biological macromolecules",
+      "doi": "10.1016/j.ijbiomac.2008.03.004",
+      "doi_link": "https://doi.org/10.1016/j.ijbiomac.2008.03.004",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18452986",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Comparative%20studies%20of%20unfolding%20and%20binding%20of%20ligands%20to%20human%20serum%20albumin%20in%20the%20presence%20of%20fatty%20acid%3A%20spectroscopic%20approach%22",
+      "citations": {
+        "crossref": 19
+      },
+      "abstract": "This study was undertaken to investigate the influence of fatty acid binding on the unfolding of HSA and how the fatty acid molecules can influence and/or compete with other ligand molecules bound to the protein. The equilibrium unfolding of fatted and fatty acid free HSA was measured by overlapping of unfolding transition curves monitored by different probes for secondary and tertiary structure and determining changes in free energy of unfolding. Proteins stability was studied by fluorescence spectroscopy, whereas conformational changes were detected by circular dichroism techniques. We have suggested a \"molten globule\" like intermediate state of HSA at a fairly high concentration of GnHCl (3.2 for fatty acid free and 3.6 for fatted). The free energy of stabilization (DeltaG(D)(H2O)) in the presence of fatty acid was found to be 900 cal mol(-1). We also analyze the effects of fatty acid on binding of ligands using spectroscopic technique and reported the equilibrium constants and free energies obtained from the binding and unfolding experiments.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 9,
+    "publications_by_year": {
+      "2015": 1,
+      "2014": 2,
+      "2011": 1,
+      "2010": 3,
+      "2009": 1,
+      "2008": 1
+    },
+    "top_journals": [
+      "International journal of biological macromolecules",
+      "Cell biochemistry and biophysics",
+      "PloS one",
+      "Amino acids",
+      "Protein and peptide letters"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 21,
+      "frequent_collaborators": [
+        "Rizwan Hasan Khan",
+        "Ankita Varshney",
+        "Gamal Badr",
+        "Gulam Rabbani",
+        "Parvez Alam",
+        "Nida Zaidi",
+        "Ejaz Ahmad",
+        "Mohd Rehan"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "19319989",
+        "title": "Ligand binding strategies of human serum albumin: how can the cargo be utilized?",
+        "citations": 321,
+        "year": "2010"
+      },
+      {
+        "publication_id": "21386972",
+        "title": "Elimination of endogenous toxin, creatinine from blood plasma depends on albumin conformation: site specific uremic toxicity & impaired drug binding.",
+        "citations": 105,
+        "year": "2011"
+      },
+      {
+        "publication_id": "24913236",
+        "title": "Analysis of binding interaction between antibacterial ciprofloxacin and human serum albumin by spectroscopic techniques.",
+        "citations": 48,
+        "year": "2014"
+      }
+    ]
+  }
+}

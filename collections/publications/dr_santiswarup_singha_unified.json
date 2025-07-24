@@ -1,0 +1,685 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Santiswarup Singha",
+    "email": "santiswarup@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-santiswarup-singha",
+    "research_domain": "Immunity & Infection",
+    "faculty_status": "current",
+    "search_date": "2025-07-01T14:34:28.520763",
+    "total_publications": 22,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Santiswarup Singha, current faculty in Immunity & Infection at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "40553438",
+      "title": "Defining the Critical Valency of Peptide-MHC on Nanoscale Artificial Antigen Presenting Cells for Expanding Endogenous Tumor-Specific T-cells In Vivo.",
+      "authors": [
+        "Arnab Kumar Sahoo",
+        "Antara Mondal",
+        "Faisal Jamal",
+        "Arpita Das",
+        "Khushboo Chaudhary",
+        "Aakriti Jha",
+        "Tarandeep Singh Bansal",
+        "Pritam Mandal",
+        "Ashis Kumar Dhara",
+        "Yang Yang",
+        "Santiswarup Singha"
+      ],
+      "year": "2025",
+      "journal": "Nano letters",
+      "doi": "10.1021/acs.nanolett.5c02012",
+      "doi_link": "https://doi.org/10.1021/acs.nanolett.5c02012",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40553438",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Defining%20the%20Critical%20Valency%20of%20Peptide-MHC%20on%20Nanoscale%20Artificial%20Antigen%20Presenting%20Cells%20for%20Expanding%20Endogenous%20Tumor-Specific%20T-cells%20In%20Vivo%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "Expanding tumor antigen-specific T-cells in vivo remains a major challenge in developing effective cancer immunotherapeutics. Artificial antigen-presenting cells (aAPCs) have the potential to overcome this challenge, but formulating aAPCs without correlating the in vivo dynamics of T-cell expansion often leads to suboptimal T-cell responses. Here, we have defined the critical effect of the peptide-major histocompatibility complex (p-MHC) valency displayed along with co-stimulatory molecules on iron-oxide nanoparticle-based aAPCs in vivo and demonstrated that the functionality of these aAPCs is governed by the p-MHC valency. Nanoscale aAPCs engage cognate CD8+ T-cells directly to induce the formation of T-cell receptor (TCR) microclusters, leading to nuclear translocation of nuclear factor of activated T-cells (NFAT) in a p-MHC valency-dependent manner. Nanoscale aAPCs, presenting p-MHCs above the threshold valencies, promoted the expansion and tumor infiltration of adoptively transferred and endogenous tumor-specific CD8+ T-cells in tumor situations. The treatment effectively inhibited tumor growth, highlighting the importance of defining the threshold valency of p-MHC in developing aAPCs for effective immunotherapies.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "40440562",
+      "title": "Inhibition of Melanoma Growth by Ex Vivo Expanded Tumor-Specific CD8+ T Cells Is Dependent on the Configuration of Nanoscale Artificial APCs.",
+      "authors": [
+        "Antara Mondal",
+        "Faisal Jamal",
+        "Arpita Das",
+        "Arnab Kumar Sahoo",
+        "Khushboo Chaudhary",
+        "Sarmili Chowdhury",
+        "Aakriti Jha",
+        "Santiswarup Singha"
+      ],
+      "year": "2025",
+      "journal": "European journal of immunology",
+      "doi": "10.1002/eji.202451676",
+      "doi_link": "https://doi.org/10.1002/eji.202451676",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40440562",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Inhibition%20of%20Melanoma%20Growth%20by%20Ex%20Vivo%20Expanded%20Tumor-Specific%20CD8%2B%20T%20Cells%20Is%20Dependent%20on%20the%20Configuration%20of%20Nanoscale%20Artificial%20APCs%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "Adoptive T-cell therapy is an emerging immunotherapeutic strategy for treating cancer, but the compromised quality of CD8+ T-cells limits the therapeutic efficacy. Traditional methods involving polyclonal expansion of CD8+ T-cells mainly prioritize yielding a high quantity of CD8+ T-cells. However, the antigen-specificity of ex vivo expanded CD8+ T-cells and the ability to produce cytolytic molecules are the two critical determinants of therapeutic efficacy that remain poorly studied. To address this problem, we formulated nanoscale artificial antigen-presenting cells (a-APCs) displaying tumor-specific class-I peptide-major histocompatibility complexes (p-MHC-I) and co-stimulatory molecules to expand the antigen-specific CD8+ T-cells ex vivo. We found that the magnitude of ex vivo expanded T-cells was directly proportional to the valency of p-MHC coated on the a-APCs. Promisingly, a-APC with higher valency of p-MHC yielded CD8+ T-cells capable of producing a greater extent of cytolytic molecules such as granzyme B and perforin, exhibited excellent therapeutic efficacy by inhibiting the growth of aggressive murine melanoma than the CD8+ T-cells expanded by lower valency a-APCs. Our findings emphasize that the valency of p-MHC is a critical parameter for configuring nanoscale a-APCs, which governs ex vivo manufacturing of therapeutically potent antigen-specific CD8+ T-cells capable of inhibiting the growth of solid tumors.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "37760122",
+      "title": "Self-Reporting Theranostic: Nano Tool for Arterial Thrombosis.",
+      "authors": [
+        "Suryyani Deb",
+        "Mohammad Azharuddin",
+        "Sofia Ramström",
+        "Kanjaksha Ghosh",
+        "Santiswarup Singha",
+        "Thobias Romu",
+        "Hirak Kumar Patra"
+      ],
+      "year": "2023",
+      "journal": "Bioengineering (Basel, Switzerland)",
+      "doi": "10.3390/bioengineering10091020",
+      "doi_link": "https://doi.org/10.3390/bioengineering10091020",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37760122",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Self-Reporting%20Theranostic%3A%20Nano%20Tool%20for%20Arterial%20Thrombosis%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "Arterial thrombosis (AT) originates through platelet-mediated thrombus formation in the blood vessel and can lead to heart attack, stroke, and peripheral vascular diseases. Restricting the thrombus growth and its simultaneous monitoring by visualisation is an unmet clinical need for a better AT prognosis. As a proof-of-concept, we have engineered a nanoparticle-based theranostic (combined therapy and monitoring) platform that has the potential to monitor and restrain the growth of a thrombus concurrently. The theranostic nanotool is fabricated using biocompatible super-paramagnetic iron oxide nanoparticles (SPIONs) as a core module tethered with the anti-platelet agent Abciximab (ReoPro) on its surface. Our in vitro feasibility results indicate that ReoPro-conjugated SPIONS (Tx@ReoPro) can effectively prevent thrombus growth by inhibiting fibrinogen receptors (GPIIbIIIa) on the platelet surface, and simultaneously, it can also be visible through non-invasive magnetic resonance imaging (MRI) for potential reporting of the real-time thrombus status.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "36973489",
+      "title": "A T follicular helper cell origin for T regulatory type 1 cells.",
+      "authors": [
+        "Patricia Solé",
+        "Jun Yamanouchi",
+        "Josep Garnica",
+        "Muhammad Myn Uddin",
+        "Robert Clarke",
+        "Joel Moro",
+        "Nahir Garabatos",
+        "Shari Thiessen",
+        "Mireia Ortega",
+        "Santiswarup Singha",
+        "Debajyoti Mondal",
+        "César Fandos",
+        "Julio Saez-Rodriguez",
+        "Yang Yang",
+        "Pau Serra",
+        "Pere Santamaria"
+      ],
+      "year": "2023",
+      "journal": "Cellular & molecular immunology",
+      "doi": "10.1038/s41423-023-00989-z",
+      "doi_link": "https://doi.org/10.1038/s41423-023-00989-z",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36973489",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20T%20follicular%20helper%20cell%20origin%20for%20T%20regulatory%20type%201%20cells%22",
+      "citations": {
+        "semantic_scholar": 21
+      },
+      "abstract": "Chronic antigenic stimulation can trigger the differentiation of antigen-experienced CD4+ T cells into T regulatory type 1 (TR1) cells, a subset of interleukin-10-producing Treg cells that do not express FOXP3. The identities of the progenitor(s) and transcriptional regulators of this T-cell subset remain unclear. Here, we show that the peptide-major histocompatibility complex class II (pMHCII) monospecific immunoregulatory T-cell pools that arise in vivo in different genetic backgrounds in response to pMHCII-coated nanoparticles (pMHCII-NPs) are invariably comprised of oligoclonal subpools of T follicular helper (TFH) and TR1 cells with a nearly identical clonotypic composition but different functional properties and transcription factor expression profiles. Pseudotime analyses of scRNAseq data and multidimensional mass cytometry revealed progressive downregulation and upregulation of TFH and TR1 markers, respectively. Furthermore, pMHCII-NPs trigger cognate TR1 cell formation in TFH cell-transfused immunodeficient hosts, and T-cell-specific deletion of Bcl6 or Irf4 blunts both the TFH expansion and TR1 formation induced by pMHCII-NPs. In contrast, deletion of Prdm1 selectively abrogates the TFH-to-TR1 conversion. Bcl6 and Prdm1 are also necessary for anti-CD3 mAb-induced TR1 formation. Thus, TFH cells can differentiate into TR1 cells in vivo, and BLIMP1 is a gatekeeper of this cellular reprogramming event.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "35672409",
+      "title": "Re-programming mouse liver-resident invariant natural killer T cells for suppressing hepatic and diabetogenic autoimmunity.",
+      "authors": [
+        "Channakeshava Sokke Umeshappa",
+        "Patricia Solé",
+        "Jun Yamanouchi",
+        "Saswat Mohapatra",
+        "Bas G J Surewaard",
+        "Josep Garnica",
+        "Santiswarup Singha",
+        "Debajyoti Mondal",
+        "Elena Cortés-Vicente",
+        "Charlotte D'Mello",
+        "Andrew Mason",
+        "Paul Kubes",
+        "Pau Serra",
+        "Yang Yang",
+        "Pere Santamaria"
+      ],
+      "year": "2022",
+      "journal": "Nature communications",
+      "doi": "10.1038/s41467-022-30759-w",
+      "doi_link": "https://doi.org/10.1038/s41467-022-30759-w",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35672409",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Re-programming%20mouse%20liver-resident%20invariant%20natural%20killer%20T%20cells%20for%20suppressing%20hepatic%20and%20diabetogenic%20autoimmunity%22",
+      "citations": {
+        "semantic_scholar": 10
+      },
+      "abstract": "Invariant NKT (iNKT) cells comprise a heterogeneous group of non-circulating, tissue-resident T lymphocytes that recognize glycolipids, including alpha-galactosylceramide (αGalCer), in the context of CD1d, but whether peripheral iNKT cell subsets are terminally differentiated remains unclear. Here we show that mouse and human liver-resident αGalCer/CD1d-binding iNKTs largely correspond to a novel Zbtb16+Tbx21+Gata3+MaflowRorc- subset that exhibits profound transcriptional, phenotypic and functional plasticity. Repetitive in vivo encounters of these liver iNKT (LiNKT) cells with intravenously delivered αGalCer/CD1d-coated nanoparticles (NP) trigger their differentiation into immunoregulatory, IL-10+IL-21-producing Zbtb16highMafhighTbx21+Gata3+Rorc- cells, termed LiNKTR1, expressing a T regulatory type 1 (TR1)-like transcriptional signature. This response is LiNKT-specific, since neither lung nor splenic tissue-resident iNKT cells from αGalCer/CD1d-NP-treated mice produce IL-10 or IL-21. Additionally, these LiNKTR1 cells suppress autoantigen presentation, and recognize CD1d expressed on conventional B cells to induce IL-10+IL-35-producing regulatory B (Breg) cells, leading to the suppression of liver and pancreas autoimmunity. Our results thus suggest that LiNKT cells are plastic for further functional diversification, with such plasticity potentially targetable for suppressing tissue-specific inflammatory phenomena.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "34474072",
+      "title": "Extremely short bioavailability and fast pharmacodynamic effects of pMHC-based nanomedicines.",
+      "authors": [
+        "Yang Yang",
+        "Kristofor K Ellestad",
+        "Santiswarup Singha",
+        "Muhammad Myn Uddin",
+        "Robert Clarke",
+        "Debajyoti Mondal",
+        "Nahir Garabatos",
+        "Patricia Solé",
+        "Cesar Fandos",
+        "Pau Serra",
+        "Pere Santamaria"
+      ],
+      "year": "2021",
+      "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+      "doi": "10.1016/j.jconrel.2021.08.043",
+      "doi_link": "https://doi.org/10.1016/j.jconrel.2021.08.043",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34474072",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Extremely%20short%20bioavailability%20and%20fast%20pharmacodynamic%20effects%20of%20pMHC-based%20nanomedicines%22",
+      "citations": {
+        "semantic_scholar": 7
+      },
+      "abstract": "Nanoparticles (NPs) coated with autoimmune disease-relevant peptide-major histocompatibility complexes (pMHCs) can blunt autoimmune diseases by re-programming cognate effector T-lymphocytes into disease-suppressing regulatory T-cells, followed by massive expansion. Here, a method to quantify the absolute amounts of the active drug product is developed, to understand the relationship between bioavailability and pharmacodynamics. Incubation with plasma results in the formation of a protein corona that stabilizes the directional pMHC coat, shielding it from proteolysis or anti-drug antibody recognition, without any appreciable loss in biological potency. A quantitative method that harnesses these features indicates that the half-life of these compounds in the circulation and organs is an order of magnitude shorter (minutes vs. hours) than that measured using commonly-used semi-quantitative methods. Extensive transmission electron microscopy-based organ scanning and flow cytometry-based enumeration of pMHCII-NP capturing cells confirmed that these compounds are rapidly captured (within 1 min) by liver sinusoidal endothelial cells, Kupffer cells, splenic phagocytes and cognate T-cells, leading to a fast decline in the circulation. Therefore, the powerful pharmacodynamic effects of these compounds are dissociated from long bioavailability, implying a hit-and-run event. Collectively, these data provide a detailed view of the life-cycle of a nanoimmunomedicine, and suggest that the real half-lives of intact nanomedicines may be much shorter than those estimated using indirect approaches.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "33789099",
+      "title": "Liver-specific T regulatory type-1 cells program local neutrophils to suppress hepatic autoimmunity via CRAMP.",
+      "authors": [
+        "Channakeshava Sokke Umeshappa",
+        "Patricia Solé",
+        "Bas G J Surewaard",
+        "Jun Yamanouchi",
+        "Saswat Mohapatra",
+        "Muhammad Myn Uddin",
+        "Robert Clarke",
+        "Mireia Ortega",
+        "Santiswarup Singha",
+        "Debajyoti Mondal",
+        "Yang Yang",
+        "Dario A A Vignali",
+        "Pau Serra",
+        "Paul Kubes",
+        "Pere Santamaria"
+      ],
+      "year": "2021",
+      "journal": "Cell reports",
+      "doi": "10.1016/j.celrep.2021.108919",
+      "doi_link": "https://doi.org/10.1016/j.celrep.2021.108919",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33789099",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Liver-specific%20T%20regulatory%20type-1%20cells%20program%20local%20neutrophils%20to%20suppress%20hepatic%20autoimmunity%20via%20CRAMP%22",
+      "citations": {
+        "semantic_scholar": 16
+      },
+      "abstract": "Neutrophils with immunoregulatory properties, also referred to as type-2 neutrophils (N2), myeloid-derived suppressor cells (MDSCs), or tumor-associated neutrophils (TANs), comprise a heterogeneous subset of cells that arise from unknown precursors in response to poorly understood cues. Here, we find that, in several models of liver autoimmunity, pharmacologically induced, autoantigen-specific T regulatory type-1 (TR1) cells and TR1-cell-induced B regulatory (Breg) cells use five immunoregulatory cytokines to coordinately recruit neutrophils into the liver and program their transcriptome to generate regulatory neutrophils. The liver-associated neutrophils from the treated mice, unlike their circulating counterparts or the liver neutrophils of sick mice lacking antigen-specific TR1 cells, are proliferative, can transfer disease protection to immunocompromised hosts engrafted with pathogenic effectors, and blunt antigen-presentation and local autoimmune responses via cathelin-related anti-microbial peptide (CRAMP), a cathelicidin, in a CRAMP-receptor-dependent manner. These results, thus, identify antigen-specific regulatory T cells as drivers of tissue-restricted regulatory neutrophil formation and CRAMP as an effector of regulatory neutrophil-mediated immunoregulation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "32125290",
+      "title": "Ubiquitous antigen-specific T regulatory type 1 cells variably suppress hepatic and extrahepatic autoimmunity.",
+      "authors": [
+        "Channakeshava Sokke Umeshappa",
+        "Jacques Mbongue",
+        "Santiswarup Singha",
+        "Saswat Mohapatra",
+        "Jun Yamanouchi",
+        "Justin A Lee",
+        "Roopa Hebbandi Nanjundappa",
+        "Kun Shao",
+        "Urs Christen",
+        "Yang Yang",
+        "Kristofor K Ellestad",
+        "Pere Santamaria"
+      ],
+      "year": "2020",
+      "journal": "The Journal of clinical investigation",
+      "doi": "10.1172/JCI130670",
+      "doi_link": "https://doi.org/10.1172/JCI130670",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32125290",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Ubiquitous%20antigen-specific%20T%20regulatory%20type%201%20cells%20variably%20suppress%20hepatic%20and%20extrahepatic%20autoimmunity%22",
+      "citations": {
+        "semantic_scholar": 29
+      },
+      "abstract": "Peptide MHC class II-based (pMHCII-based) nanomedicines trigger the formation of multicellular regulatory networks by reprogramming autoantigen-experienced CD4+ T cells into autoimmune disease-suppressing T regulatory type 1 (TR1) cells. We have shown that pMHCII-based nanomedicines displaying liver autoimmune disease-relevant yet ubiquitously expressed antigens can blunt various liver autoimmune disorders in a non-disease-specific manner without suppressing local or systemic immunity against infectious agents or cancer. Here, we show that such ubiquitous autoantigen-specific T cells are also awakened by extrahepatic tissue damage and that the corresponding TR1 progeny can suppress experimental autoimmune encephalomyelitis (EAE) and pancreatic β cell autoreactivity. In mice having EAE, nanomedicines displaying either ubiquitous or CNS-specific epitopes triggered the formation and expansion of cognate TR1 cells and their recruitment to the CNS-draining lymph nodes, sparing their liver-draining counterparts. Surprisingly, in mice having both liver autoimmunity and EAE, liver inflammation sequestered these ubiquitous or even CNS-specific TR1 cells away from the CNS, abrogating their antiencephalitogenic activity. In these mice, only the ubiquitous antigen-specific TR1 cells suppressed liver autoimmunity. Thus, the scope of antigen spreading in autoimmune disorders is larger than previously anticipated, involving specificities expected to be silenced by mechanisms of tolerance; the regulatory activity, but not the retention of autoreactive TR1 cells, requires local autoantigen expression.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "31664029",
+      "title": "Increased yields and biological potency of knob-into-hole-based soluble MHC class II molecules.",
+      "authors": [
+        "Pau Serra",
+        "Nahir Garabatos",
+        "Santiswarup Singha",
+        "César Fandos",
+        "Josep Garnica",
+        "Patricia Solé",
+        "Daniel Parras",
+        "Jun Yamanouchi",
+        "Jesús Blanco",
+        "Meritxell Tort",
+        "Mireia Ortega",
+        "Yang Yang",
+        "Kristofor K Ellestad",
+        "Pere Santamaria"
+      ],
+      "year": "2019",
+      "journal": "Nature communications",
+      "doi": "10.1038/s41467-019-12902-2",
+      "doi_link": "https://doi.org/10.1038/s41467-019-12902-2",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31664029",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Increased%20yields%20and%20biological%20potency%20of%20knob-into-hole-based%20soluble%20MHC%20class%20II%20molecules%22",
+      "citations": {
+        "semantic_scholar": 17
+      },
+      "abstract": "Assembly of soluble peptide-major histocompatibility complex class II (pMHCII) monomers into multimeric structures enables the detection of antigen-specific CD4+ T cells in biological samples and, in some configurations, their reprogramming in vivo. Unfortunately, current MHCII-αβ chain heterodimerization strategies are typically associated with low production yields and require the use of foreign affinity tags for purification, precluding therapeutic applications in humans. Here, we show that fusion of peptide-tethered or empty MHCII-αβ chains to the IgG1-Fc mutated to form knob-into-hole structures results in the assembly of highly stable pMHCII monomers. This design enables the expression and rapid purification of challenging pMHCII types at high yields without the need for leucine zippers and purification affinity tags. Importantly, this design increases the antigen-receptor signaling potency of multimerized derivatives useful for therapeutic applications and facilitates the detection and amplification of low-avidity T cell specificities in biological samples using flow cytometry.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "31568513",
+      "title": "In vivo clearance of nanoparticles by transcytosis across alveolar epithelial cells.",
+      "authors": [
+        "Pascal Detampel",
+        "Anutosh Ganguly",
+        "Sara Tehranian",
+        "Francis Green",
+        "Santiswarup Singha",
+        "Pere Santamaria",
+        "Ayodeji A Jeje",
+        "Clifford S Cho",
+        "Björn Petri",
+        "Matthias W Amrein"
+      ],
+      "year": "2019",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0223339",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0223339",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31568513",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22In%20vivo%20clearance%20of%20nanoparticles%20by%20transcytosis%20across%20alveolar%20epithelial%20cells%22",
+      "citations": {
+        "semantic_scholar": 29
+      },
+      "abstract": "Nanoparticles in polluted air or aerosolized drug nanoparticles predominantly settle in the alveolar lung. Here, we describe a novel, highly effective pathway for the particles to cross the alveolar epithelium and reach the lymph and bloodstream. Amorphous silica nanoparticles, suspended in perfluorocarbon, were instilled into the lungs of mice for intravital microscopy. Particles formed agglomerates that settled on the alveolar wall, half of which were removed from the lung within 30 minutes. TEM histology showed agglomerates in stages of crossing the alveolar epithelium, in large compartments inside the epithelial cells and crossing the basal membrane into the interstitium. This pathway is consistent with published kinetic studies in rats and mice, using a host of (negatively) charged and polar nanoparticles.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "31549040",
+      "title": "Inner-View of Nanomaterial Incited Protein Conformational Changes: Insights into Designable Interaction.",
+      "authors": [
+        "Arka Mukhopadhyay",
+        "Sankar Basu",
+        "Santiswarup Singha",
+        "Hirak K Patra"
+      ],
+      "year": "2018",
+      "journal": "Research (Washington, D.C.)",
+      "doi": "10.1155/2018/9712832",
+      "doi_link": "https://doi.org/10.1155/2018/9712832",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31549040",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Inner-View%20of%20Nanomaterial%20Incited%20Protein%20Conformational%20Changes%3A%20Insights%20into%20Designable%20Interaction%22",
+      "citations": {
+        "semantic_scholar": 39
+      },
+      "abstract": "Nanoparticle bioreactivity critically depends upon interaction between proteins and nanomaterials (NM). The formation of the \"protein corona\" (PC) is the effect of such nanoprotein interactions. PC has a wide usage in pharmaceuticals, drug delivery, medicine, and industrial biotechnology. Therefore, a detailed in-vitro, in-vivo, and in-silico understanding of nanoprotein interaction is fundamental and has a genuine contemporary appeal. NM surfaces can modify the protein conformation during interaction, or NMs themselves can lead to self-aggregations. Both phenomena can change the whole downstream bioreactivity of the concerned nanosystem. The main aim of this review is to understand the mechanistic view of NM-protein interaction and recapitulate the underlying physical chemistry behind the formation of such complicated macromolecular assemblies, to provide a critical overview of the different models describing NM induced structural and functional modification of proteins. The review also attempts to point out the current limitation in understanding the field and highlights the future scopes, involving a plausible proposition of how artificial intelligence could be aided to explore such systems for the prediction and directed design of the desired NM-protein interactions.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "31089130",
+      "title": "Suppression of a broad spectrum of liver autoimmune pathologies by single peptide-MHC-based nanomedicines.",
+      "authors": [
+        "Channakeshava Sokke Umeshappa",
+        "Santiswarup Singha",
+        "Jesus Blanco",
+        "Kun Shao",
+        "Roopa Hebbandi Nanjundappa",
+        "Jun Yamanouchi",
+        "Albert Parés",
+        "Pau Serra",
+        "Yang Yang",
+        "Pere Santamaria"
+      ],
+      "year": "2019",
+      "journal": "Nature communications",
+      "doi": "10.1038/s41467-019-09893-5",
+      "doi_link": "https://doi.org/10.1038/s41467-019-09893-5",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31089130",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Suppression%20of%20a%20broad%20spectrum%20of%20liver%20autoimmune%20pathologies%20by%20single%20peptide-MHC-based%20nanomedicines%22",
+      "citations": {
+        "semantic_scholar": 77
+      },
+      "abstract": "Peptide-major histocompatibility complex class II (pMHCII)-based nanomedicines displaying tissue-specific autoantigenic epitopes can blunt specific autoimmune conditions by re-programming cognate antigen-experienced CD4+ T-cells into disease-suppressing T-regulatory type 1 (TR1) cells. Here, we show that single pMHCII-based nanomedicines displaying epitopes from mitochondrial, endoplasmic reticulum or cytoplasmic antigens associated with primary biliary cholangitis (PBC) or autoimmune hepatitis (AIH) can broadly blunt PBC, AIH and Primary Sclerosing Cholangitis in various murine models in an organ- rather than disease-specific manner, without suppressing general or local immunity against infection or metastatic tumors. Therapeutic activity is associated with cognate TR1 cell formation and expansion, TR1 cell recruitment to the liver and draining lymph nodes, local B-regulatory cell formation and profound suppression of the pro-inflammatory capacity of liver and liver-proximal myeloid dendritic cells and Kupffer cells. Thus, autoreactivity against liver-enriched autoantigens in liver autoimmunity is not disease-specific and can be harnessed to treat various liver autoimmune diseases broadly.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "30481968",
+      "title": "Nanoparticles for Immune Stimulation Against Infection, Cancer, and Autoimmunity.",
+      "authors": [
+        "Santiswarup Singha",
+        "Kun Shao",
+        "Kristofor K Ellestad",
+        "Yang Yang",
+        "Pere Santamaria"
+      ],
+      "year": "2018",
+      "journal": "ACS nano",
+      "doi": "10.1021/acsnano.8b05950",
+      "doi_link": "https://doi.org/10.1021/acsnano.8b05950",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30481968",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Nanoparticles%20for%20Immune%20Stimulation%20Against%20Infection%2C%20Cancer%2C%20and%20Autoimmunity%22",
+      "citations": {
+        "semantic_scholar": 75
+      },
+      "abstract": "Vaccination using nanocarrier-based delivery systems has recently emerged as a promising approach for meeting the continued challenge posed by infectious diseases and cancer. A diverse portfolio of nanocarriers of various sizes, compositions, and physical parameters have now been developed, and this diversity provides an opportunity for the rational design of vaccines that can mediate targeted delivery of various antigens and adjuvants or immune regulatory agents in ways unachievable with classical vaccination approaches. This flexibility allows control over the characteristics of vaccine-elicited immune responses such that they can be tailored to be effective in circumstances where classical vaccines have failed. Furthermore, the utility of nanocarrier-based immune modulation extends to the treatment of autoimmune disease where precisely targeted inhibition of immune responses is desirable. Clearly, the selection of appropriate nanocarriers, antigens, adjuvants, and other components underpins the efficacy of these nanoimmune interventions. Herein, we provide an overview of currently available nanocarriers of various types and their physical and pharmacological properties with the goal of providing a resource for researchers exploring nanomaterial-based approaches for immune modulation and identify some information gaps and unexplored questions to help guide future investigation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "28436959",
+      "title": "Peptide-MHC-based nanomedicines for autoimmunity function as T-cell receptor microclustering devices.",
+      "authors": [
+        "Santiswarup Singha",
+        "Kun Shao",
+        "Yang Yang",
+        "Xavier Clemente-Casares",
+        "Patricia Solé",
+        "Antonio Clemente",
+        "Jesús Blanco",
+        "Qin Dai",
+        "Fayi Song",
+        "Shang Wan Liu",
+        "Jun Yamanouchi",
+        "Channakeshava Sokke Umeshappa",
+        "Roopa Hebbandi Nanjundappa",
+        "Pascal Detampel",
+        "Matthias Amrein",
+        "César Fandos",
+        "Robert Tanguay",
+        "Susan Newbigging",
+        "Pau Serra",
+        "Anmar Khadra",
+        "Warren C W Chan",
+        "Pere Santamaria"
+      ],
+      "year": "2017",
+      "journal": "Nature nanotechnology",
+      "doi": "10.1038/nnano.2017.56",
+      "doi_link": "https://doi.org/10.1038/nnano.2017.56",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28436959",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Peptide-MHC-based%20nanomedicines%20for%20autoimmunity%20function%20as%20T-cell%20receptor%20microclustering%20devices%22",
+      "citations": {
+        "semantic_scholar": 128
+      },
+      "abstract": "We have shown that nanoparticles (NPs) can be used as ligand-multimerization platforms to activate specific cellular receptors in vivo. Nanoparticles coated with autoimmune disease-relevant peptide-major histocompatibility complexes (pMHC) blunted autoimmune responses by triggering the differentiation and expansion of antigen-specific regulatory T cells in vivo. Here, we define the engineering principles impacting biological activity, detail a synthesis process yielding safe and stable compounds, and visualize how these nanomedicines interact with cognate T cells. We find that the triggering properties of pMHC-NPs are a function of pMHC intermolecular distance and involve the sustained assembly of large antigen receptor microclusters on murine and human cognate T cells. These compounds show no off-target toxicity in zebrafish embryos, do not cause haematological, biochemical or histological abnormalities, and are rapidly captured by phagocytes or processed by the hepatobiliary system. This work lays the groundwork for the design of ligand-based NP formulations to re-program in vivo cellular responses using nanotechnology.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "26886799",
+      "title": "Expanding antigen-specific regulatory networks to treat autoimmunity.",
+      "authors": [
+        "Xavier Clemente-Casares",
+        "Jesus Blanco",
+        "Poornima Ambalavanan",
+        "Jun Yamanouchi",
+        "Santiswarup Singha",
+        "Cesar Fandos",
+        "Sue Tsai",
+        "Jinguo Wang",
+        "Nahir Garabatos",
+        "Cristina Izquierdo",
+        "Smriti Agrawal",
+        "Michael B Keough",
+        "V Wee Yong",
+        "Eddie James",
+        "Anna Moore",
+        "Yang Yang",
+        "Thomas Stratmann",
+        "Pau Serra",
+        "Pere Santamaria"
+      ],
+      "year": "2016",
+      "journal": "Nature",
+      "doi": "10.1038/nature16962",
+      "doi_link": "https://doi.org/10.1038/nature16962",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26886799",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Expanding%20antigen-specific%20regulatory%20networks%20to%20treat%20autoimmunity%22",
+      "citations": {
+        "semantic_scholar": 428
+      },
+      "abstract": "Regulatory T cells hold promise as targets for therapeutic intervention in autoimmunity, but approaches capable of expanding antigen-specific regulatory T cells in vivo are currently not available. Here we show that systemic delivery of nanoparticles coated with autoimmune-disease-relevant peptides bound to major histocompatibility complex class II (pMHCII) molecules triggers the generation and expansion of antigen-specific regulatory CD4(+) T cell type 1 (TR1)-like cells in different mouse models, including mice humanized with lymphocytes from patients, leading to resolution of established autoimmune phenomena. Ten pMHCII-based nanomedicines show similar biological effects, regardless of genetic background, prevalence of the cognate T-cell population or MHC restriction. These nanomedicines promote the differentiation of disease-primed autoreactive T cells into TR1-like cells, which in turn suppress autoantigen-loaded antigen-presenting cells and drive the differentiation of cognate B cells into disease-suppressing regulatory B cells, without compromising systemic immunity. pMHCII-based nanomedicines thus represent a new class of drugs, potentially useful for treating a broad spectrum of autoimmune conditions in a disease-specific manner.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "25469470",
+      "title": "Nanoparticle-based immunotherapy for cancer.",
+      "authors": [
+        "Kun Shao",
+        "Santiswarup Singha",
+        "Xavier Clemente-Casares",
+        "Sue Tsai",
+        "Yang Yang",
+        "Pere Santamaria"
+      ],
+      "year": "2015",
+      "journal": "ACS nano",
+      "doi": "10.1021/nn5062029",
+      "doi_link": "https://doi.org/10.1021/nn5062029",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25469470",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Nanoparticle-based%20immunotherapy%20for%20cancer%22",
+      "citations": {
+        "semantic_scholar": 404
+      },
+      "abstract": "The design of nanovaccines capable of triggering effective antitumor immunity requires an understanding of how the immune system senses and responds to threats, including pathogens and tumors. Equally important is an understanding of the mechanisms employed by tumor cells to evade immunity and an appreciation of the deleterious effects that antitumor immune responses can have on tumor growth, such as by skewing tumor cell composition toward immunologically silent tumor cell variants. The immune system and tumors engage in a tug-of-war driven by competition where promoting antitumor immunity or tumor cell death alone may be therapeutically insufficient. Nanotechnology affords a unique opportunity to develop therapeutic compounds than can simultaneously tackle both aspects, favoring tumor eradication. Here, we review the current status of nanoparticle-based immunotherapeutic strategies for the treatment of cancer, ranging from antigen/adjuvant delivery vehicles (to professional antigen-presenting cell types of the immune system) to direct tumor antigen-specific T-lymphocyte-targeting compounds and their combinations thereof.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "24689782",
+      "title": "Design of heat shock-resistant surfaces to prevent protein aggregation: Enhanced chaperone activity of immobilized α-Crystallin.",
+      "authors": [
+        "Namrata Ray",
+        "Sarita Roy",
+        "Santiswarup Singha",
+        "Bappaditya Chandra",
+        "Anjan Kr Dasgupta",
+        "Amitabha Sarkar"
+      ],
+      "year": "2014",
+      "journal": "Bioconjugate chemistry",
+      "doi": "10.1021/bc500097q",
+      "doi_link": "https://doi.org/10.1021/bc500097q",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24689782",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Design%20of%20heat%20shock-resistant%20surfaces%20to%20prevent%20protein%20aggregation%3A%20Enhanced%20chaperone%20activity%20of%20immobilized%20%CE%B1-Crystallin%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "α-Crystallin is a multimeric protein belonging to the family of small heat shock proteins, which function as molecular chaperones by resisting heat and oxidative stress induced aggregation of other proteins. We immobilized α-Crystallin on a self-assembled monolayer on glass surface and studied its activity in terms of the prevention of aggregation of aldolase. We discovered that playing with grafted protein density led to interesting variations in the chaperone activity of immobilized α-Crystallin. This result is in accordance with the hypothesis that dynamicity of subunits plays a vital role in the functioning of α-Crystallin and might be able to throw light on the structure-activity relationship. We showed that the chaperone activity of a certain number of immobilized α-Crystallins was superior compared to a solution containing an equivalent number of the protein and 10 times the number of the protein at temperatures >60 °C. The α-Crystallin grafted surfaces retained activity on reuse. This could also lead to the design of potent heat-shock resistant surfaces that can find wide applications in storage and shipping of protein based biopharmaceuticals.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "23236583",
+      "title": "Nanoparticle-conjugated animal venom-toxins and their possible therapeutic potential.",
+      "authors": [
+        "Archita Biswas",
+        "Aparna Gomes",
+        "Jayeeta Sengupta",
+        "Poulami Datta",
+        "Santiswarup Singha",
+        "Anjan Kr Dasgupta",
+        "Antony Gomes"
+      ],
+      "year": "2012",
+      "journal": "Journal of venom research",
+      "doi": null,
+      "doi_link": "",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23236583",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Nanoparticle-conjugated%20animal%20venom-toxins%20and%20their%20possible%20therapeutic%20potential%22",
+      "citations": {
+        "semantic_scholar": 45
+      },
+      "abstract": "Nano-medical approaches to develop drugs have attracted much attention in different arenas to design nanoparticle conjugates for better efficacy of the potential bio-molecules. A group of promising candidates of this category would be venom-toxins of animal origin of potential medicinal value. Traditional systems of medicine as well as folklores mention the use of venom-toxins for the treatment of various diseases. Research has led to scientific validation of medicinal applications of venoms-toxins and many active constituents derived from venoms-toxins are already in clinical use or under clinical trial. Nanomedicine is an emerging field of medicine where nanotechnology is used to develop molecules of nano-scale dimension, so that these molecules can be taken up by the cells more easily and have better efficacy, as compared to large molecules that may tend to get eliminated. This review will focus on some of the potential venoms and toxins along with nanoparticle conjugated venom-toxins of snakes, amphibians, scorpions and bees, etc., for possible therapeutic clues against emerging diseases.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "22097482",
+      "title": "Gold nanoparticle induces masking of amines and some therapeutic implications.",
+      "authors": [
+        "Santiswarup Singha",
+        "Anjan K Dasgupta",
+        "Himadri Datta"
+      ],
+      "year": "2011",
+      "journal": "Journal of nanoscience and nanotechnology",
+      "doi": "10.1166/jnn.2011.4729",
+      "doi_link": "https://doi.org/10.1166/jnn.2011.4729",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22097482",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Gold%20nanoparticle%20induces%20masking%20of%20amines%20and%20some%20therapeutic%20implications%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "Citrate capped gold nanoparticles (GNP) are effective in masking protein amines. The extent of such masking is quantified using Fourier Transform Infra Red (FTIR) spectroscopy. A strong correlation is shown to exist between a shift of amide-II peak intensity (1600-1500 cm(-1)) caused by GNP and the number of exposed amines in a given protein. The result is validated using eight different proteins. The expected out-come of such masking is inhibition of interaction between any external ligand and such amines. The prediction is validated using a simple non-enzymatic glycation of clinically important protein like crystallin.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "20352724",
+      "title": "Size dependent chaperon properties of gold nanoparticles.",
+      "authors": [
+        "Santiswarup Singha",
+        "Himadri Datta",
+        "Anjan Kr Dasgupta"
+      ],
+      "year": "2010",
+      "journal": "Journal of nanoscience and nanotechnology",
+      "doi": "10.1166/jnn.2010.1805",
+      "doi_link": "https://doi.org/10.1166/jnn.2010.1805",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20352724",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Size%20dependent%20chaperon%20properties%20of%20gold%20nanoparticles%22",
+      "citations": {
+        "semantic_scholar": 17
+      },
+      "abstract": "Citrate synthase is a heat labile enzyme showing a loss of activity even in response to a modest shift of temperature (35 degrees-45 degrees C). Gold nanoparticle is shown to prevent the thermal aggregation of this enzyme. The chaperon like activity of the nanoparticle diminishes if the particle size is reduced from 40 nm to 20 nm keeping the atomic concentration of gold constant. This implies that the effect is not merely due to enhanced surface area offered by the nano-surfaces. The effect is reversible as the protein separated out from nanoparticles behaves similar to control. The observed coupling between chaperon activity of the nanoparticle and its cluster forming ability is illustrated in terms of a thermal cage model.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper21",
+      "publication_id": "18676206",
+      "title": "Anti-glycation activity of gold nanoparticles.",
+      "authors": [
+        "Santiswarup Singha",
+        "Jaydeep Bhattacharya",
+        "Himadri Datta",
+        "Anjan Kumar Dasgupta"
+      ],
+      "year": "2009",
+      "journal": "Nanomedicine : nanotechnology, biology, and medicine",
+      "doi": "10.1016/j.nano.2008.06.005",
+      "doi_link": "https://doi.org/10.1016/j.nano.2008.06.005",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18676206",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Anti-glycation%20activity%20of%20gold%20nanoparticles%22",
+      "citations": {
+        "semantic_scholar": 35
+      },
+      "abstract": "Anti-glycation activity of gold nanoparticles (GNPs) has been reported for the first time. Nonenzymatic glycation of alpha-crystallin leads to formation of cataract, or opaque aggregate of proteins. In this article we report prevention of glycation of alpha-crystallin by conjugation with GNPs. Formation of advanced glycosylic end products is prevented even if a strong glycating agent such as fructose is used. In addition, the nanoconjugation can provide some important information on the structural distribution of this dynamic chaperone protein. Because GNPs are biocompatible, their reported anti-glycation activity may have ophthalmological implications.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper22",
+      "publication_id": "16183192",
+      "title": "A size dependent folding contour for cytochrome C.",
+      "authors": [
+        "Shibsekhar Roy",
+        "Santiswarup Singha",
+        "Jaydeep Bhattacharya",
+        "Ranjita Ghoshmoulick",
+        "Anjan Kr Dasgupta"
+      ],
+      "year": "2006",
+      "journal": "Biophysical chemistry",
+      "doi": "10.1016/j.bpc.2005.08.009",
+      "doi_link": "https://doi.org/10.1016/j.bpc.2005.08.009",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16183192",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20size%20dependent%20folding%20contour%20for%20cytochrome%20C%22",
+      "citations": {
+        "semantic_scholar": 4
+      },
+      "abstract": "The paper describes an experimental construct of the folding route of the heme protein cytochrome-C. The construct highlights a slowing down near the nose of the folding funnel caused by the multiplicity of the energy traps near the native conformation created as a result of complex heme-peptide interaction. Interestingly the hydrodynamic size, the size heterogeneity and peroxidase activity serve as a triple measure of the distance of this near equilibrium departure from native conformation. Accordingly, the folding process is marked with a gradual and reversible reduction of mean hydrodynamic size, size heterogeneity and peroxidase activity (higher in unfolded state). The Dynamic Light Scattering based straightforward illustration of hydrodynamic size variation may serve as a model to slow folding observed in case of heme proteins, the heme itself serving as a natural facilitator for the native peptide conformation.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 22,
+    "publications_by_year": {
+      "2025": 2,
+      "2023": 2,
+      "2022": 1,
+      "2021": 2,
+      "2020": 1,
+      "2019": 3,
+      "2018": 2,
+      "2017": 1,
+      "2016": 1,
+      "2015": 1,
+      "2014": 1,
+      "2012": 1,
+      "2011": 1,
+      "2010": 1,
+      "2009": 1,
+      "2006": 1
+    },
+    "top_journals": [
+      "Nature communications",
+      "ACS nano",
+      "Journal of nanoscience and nanotechnology",
+      "Nano letters",
+      "European journal of immunology"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 94,
+      "frequent_collaborators": [
+        "Santiswarup Singha",
+        "Pere Santamaria",
+        "Yang Yang",
+        "Jun Yamanouchi",
+        "Pau Serra",
+        "Patricia Solé",
+        "Nahir Garabatos",
+        "Debajyoti Mondal"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "26886799",
+        "title": "Expanding antigen-specific regulatory networks to treat autoimmunity.",
+        "citations": 428,
+        "year": "2016"
+      },
+      {
+        "publication_id": "25469470",
+        "title": "Nanoparticle-based immunotherapy for cancer.",
+        "citations": 404,
+        "year": "2015"
+      },
+      {
+        "publication_id": "28436959",
+        "title": "Peptide-MHC-based nanomedicines for autoimmunity function as T-cell receptor microclustering devices.",
+        "citations": 128,
+        "year": "2017"
+      }
+    ]
+  }
+}

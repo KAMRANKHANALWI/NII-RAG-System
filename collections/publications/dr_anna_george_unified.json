@@ -1,0 +1,361 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Anna George",
+    "email": "anna@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/former-faculty/dr-anna-george",
+    "research_domain": "Former",
+    "faculty_status": "former",
+    "search_date": "2025-06-26T22:48:18.136124",
+    "total_publications": 11,
+    "last_updated": "2025-06-26",
+    "description": "This document contains a complete list of publications by Dr. Anna George, former faculty in Former at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "24441790",
+      "title": "Inducible nitric oxide synthase is a major intermediate in signaling pathways for the survival of plasma cells.",
+      "authors": [
+        "Ankur S Saini",
+        "Gautam N Shenoy",
+        "Satyajit Rath",
+        "Vineeta Bal",
+        "Anna George"
+      ],
+      "year": "2014",
+      "journal": "Nature immunology",
+      "doi": "10.1038/ni.2806",
+      "doi_link": "https://doi.org/10.1038/ni.2806",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24441790",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Inducible%20nitric%20oxide%20synthase%20is%20a%20major%20intermediate%20in%20signaling%20pathways%20for%20the%20survival%20of%20plasma%20cells%22",
+      "citations": {
+        "crossref": 47
+      },
+      "abstract": "While a number of extrinsic factors are known to promote the survival of plasma cells (PCs), the signaling intermediates involved remain poorly characterized. Here we identified inducible nitric oxide synthase (iNOS) as an intermediate that supported the survival of PCs. PCs deficient in iNOS (Nos2(-/-) PCs) showed enhanced death in vitro, after transfer into congenic adoptive hosts, and in chimeras made with wild-type and Nos2(-/-) bone marrow. The iNOS-mediated protection involved activation of protein kinase G and modulation of endoplasmic reticulum stress components. Activation of caspases was also diminished. We found that iNOS was required for PCs to respond to some prosurvival mediators associated with bone marrow stromal cells and that at least one mediator, interleukin 6, fed directly into this pathway by inducing iNOS.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "24482285",
+      "title": "CD40 signaling drives B lymphocytes into an intermediate memory-like state, poised between naïve and plasma cells.",
+      "authors": [
+        "Mala Upadhyay",
+        "G Krishna Priya",
+        "P Ramesh",
+        "M B Madhavi",
+        "Satyajit Rath",
+        "Vineeta Bal",
+        "Anna George",
+        "Tushar Vaidya"
+      ],
+      "year": "2014",
+      "journal": "Journal of cellular physiology",
+      "doi": "10.1002/jcp.24572",
+      "doi_link": "https://doi.org/10.1002/jcp.24572",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24482285",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22CD40%20signaling%20drives%20B%20lymphocytes%20into%20an%20intermediate%20memory-like%20state%2C%20poised%20between%20na%C3%AFve%20and%20plasma%20cells%22",
+      "citations": {
+        "semantic_scholar": 11
+      },
+      "abstract": "Immunological memory comprising of antigen-specific B and T cells contributes to the acquisition of long-term resistance to pathogens. Interactions between CD40 on B cells and CD40L on T cells are responsible for several aspects of acquired immune responses including generation of memory B cells. In order to gain insights into events leading to memory B cell formation, we analyzed the genome-wide expression profile of murine naive B cells stimulated in the presence of anti-CD40. We have identified over 8,000 genes whose expression is altered minimally 1.5-fold at least at one time point over a 3-day time course. The array analysis indicates that changes in expression level of maximum number of these genes occur within 24 h of anti-CD40 treatment. In parallel, we have studied the events following CD40 ligation by examining the expression of known regulators of naive B cell to plasma cell transition, including Pax5 and BLIMP1. The expression profile of these regulatory genes indicates firstly, that CD40 signaling activates naïve B cells to a phenotype that is intermediate between the naive and plasma cell stages of the B cell differentiation. Secondly, the major known regulator of plasma cell differentiation, BLIMP1, gets irreversibly downregulated upon anti-CD40 treatment. Additionally, our data reveal that CD40 signaling mediated BLIMP1 downregulation occurs by non-Pax5/non-Bcl6 dependent mechanisms, indicating novel mechanisms at work that add to the complexity of understanding of B cell master regulatory molecules like BLIMP1 and Pax5.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "25528158",
+      "title": "Peripheral residence of naïve CD4 T cells induces MHC class II-dependent alterations in phenotype and function.",
+      "authors": [
+        "Sanket Rane",
+        "Rituparna Das",
+        "Vidya Ranganathan",
+        "Savit Prabhu",
+        "Arundhoti Das",
+        "Hamid Mattoo",
+        "Jeannine Marie Durdik",
+        "Anna George",
+        "Satyajit Rath",
+        "Vineeta Bal"
+      ],
+      "year": "2014",
+      "journal": "BMC biology",
+      "doi": "10.1186/s12915-014-0106-0",
+      "doi_link": "https://doi.org/10.1186/s12915-014-0106-0",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25528158",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Peripheral%20residence%20of%20na%C3%AFve%20CD4%20T%20cells%20induces%20MHC%20class%20II-dependent%20alterations%20in%20phenotype%20and%20function%22",
+      "citations": {
+        "semantic_scholar": 7
+      },
+      "abstract": "BACKGROUND: As individual naïve CD4 T lymphocytes circulate in the body after emerging from the thymus, they are likely to have individually varying microenvironmental interactions even in the absence of stimulation via specific target recognition. It is not clear if these interactions result in alterations in their activation, survival and effector programming. Naïve CD4 T cells show unimodal distribution for many phenotypic properties, suggesting that the variation is caused by intrinsic stochasticity, although underlying variation due to subsets created by different histories of microenvironmental interactions remains possible. To explore this possibility, we began examining the phenotype and functionality of naïve CD4 T cells differing in a basic unimodally distributed property, the CD4 levels, as well as the causal origin of these differences. RESULTS: We examined separated CD4hi and CD4lo subsets of mouse naïve CD4 cells. CD4lo cells were smaller with higher CD5 levels and lower levels of the dual-specific phosphatase (DUSP)6-suppressing micro-RNA miR181a, and responded poorly with more Th2-skewed outcomes. Human naïve CD4lo and CD4hi cells showed similar differences. Naïve CD4lo and CD4hi subsets of thymic single-positive CD4 T cells did not show differences whereas peripheral naïve CD4lo and CD4hi subsets of T cell receptor (TCR)-transgenic T cells did. Adoptive transfer-mediated parking of naïve CD4 cells in vivo lowered CD4 levels, increased CD5 and reactive oxygen species (ROS) levels and induced hyporesponsiveness in them, dependent, at least in part, on availability of major histocompatibility complex class II (MHCII) molecules. ROS scavenging or DUSP inhibition ameliorated hyporesponsiveness. Naïve CD4 cells from aged mice showed lower CD4 levels and cell sizes, higher CD5 levels, and hyporesponsiveness and Th2-skewing reversed by DUSP inhibition. CONCLUSIONS: Our data show that, underlying a unimodally distributed property, the CD4 level, there are subsets of naïve CD4 cells that vary in the time spent in the periphery receiving MHCII-mediated signals and show resultant alteration of phenotype and functionality via ROS and DUSP activity. Our findings also suggest the feasibility of potential pharmacological interventions for improved CD4 T cell responses during vaccination of older people via either anti-oxidant or DUSP inhibitor small molecules.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "27342845",
+      "title": "Constitutive CD40 Signaling Calibrates Differentiation Outcomes in Responding B Cells via Multiple Molecular Pathways.",
+      "authors": [
+        "Srijani Basu",
+        "Sheetal Kaw",
+        "Lucas D'Souza",
+        "Tushar Vaidya",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Anna George"
+      ],
+      "year": "2016",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.1600077",
+      "doi_link": "https://doi.org/10.4049/jimmunol.1600077",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27342845",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Constitutive%20CD40%20Signaling%20Calibrates%20Differentiation%20Outcomes%20in%20Responding%20B%20Cells%20via%20Multiple%20Molecular%20Pathways%22",
+      "citations": {
+        "semantic_scholar": 7
+      },
+      "abstract": "CD40 signaling during B cell activation is known to inhibit terminal differentiation and promote memory generation. Blimp-1 is essential for efficient plasma cell (PC) generation, and although CD40 signaling is known to inhibit Blimp-1 induction during B cell activation, the mechanisms involved have been unclear. We report that CD40 signaling induces miR-125b that targets Blimp-1 transcripts, and increases amounts of the ubiquitin ligase Hrd1 that targets BLIMP-1 protein for proteasomal degradation. CD40 signaling also inhibits the early unfolded protein response (UPR) of activated B cells that precedes the induction of terminal differentiation, and Hrd1 feeds into this pathway by targeting the core UPR component IRE-1α. Strikingly, CD40 signaling in the absence of BCR- or TLR-ligation also repressed Blimp-1 transcripts, suggesting that noncognate ligation of CD40 via T-B interactions may repress Blimp-1 in vivo. In support of this, we find that naive B cells purified from CD40-CD154 interaction-deficient mice express higher amounts of Blimp-1 and lower amounts of microRNAs and Hrd1. Higher basal amounts of Blimp-1 in naive CD40(-/-) B cells correlate with an increased tendency of the cells to undergo terminal differentiation upon LPS stimulation. Conversely, a 24-h exposure to CD40 ligation during LPS stimulation of wild-type B cells is sufficient to inhibit PC generation. The data show that CD40-mediated inhibition of PC generation is via engagement of multiple pathways that involve repression of Blimp-1 and inhibition of the UPR that prepares cells to become professional secretors. They also show that constitutive CD40 signaling in vivo involving bystander T-B interactions can calibrate B cell differentiation outcomes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "28100678",
+      "title": "Modulation of Naive CD8 T Cell Response Features by Ligand Density, Affinity, and Continued Signaling via Internalized TCRs.",
+      "authors": [
+        "Renu Balyan",
+        "Rupali Gund",
+        "Chitra Ebenezer",
+        "Jasneet Kaur Khalsa",
+        "Divya Anna Verghese",
+        "Thyagarajan Krishnamurthy",
+        "Anna George",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Ashutosh Chaudhry"
+      ],
+      "year": "2017",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.1600083",
+      "doi_link": "https://doi.org/10.4049/jimmunol.1600083",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28100678",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Modulation%20of%20Naive%20CD8%20T%20Cell%20Response%20Features%20by%20Ligand%20Density%2C%20Affinity%2C%20and%20Continued%20Signaling%20via%20Internalized%20TCRs%22",
+      "citations": {
+        "semantic_scholar": 25
+      },
+      "abstract": "T cell response magnitudes increase with increasing antigenic dosage. However, it is unclear whether ligand density only modulates the proportions of responding ligand-specific T cells or also alters responses at the single cell level. Using brief (3 h) exposure of TCR-transgenic mouse CD8 T cells in vitro to varying densities of cognate peptide-MHC ligand followed by ligand-free culture in IL-2, we found that ligand density determined the frequencies of responding cells but not the expression levels of the early activation marker molecule, CD69. Cells with low glucose uptake capacity and low protein synthesis rates were less ligand-sensitive, implicating metabolic competence in the response heterogeneity of CD8 T cell populations. Although most responding cells proliferated, ligand density was associated with time of entry into proliferation and with the extent of cell surface TCR downmodulation. TCR internalization was associated, regardless of the ligand density, with rapidity of c-myc induction, loss of the cell cycle inhibitor p27kip1, metabolic reprogramming, and cell cycle entry. A low affinity peptide ligand behaved, regardless of ligand density, like a low density, high affinity ligand in all these parameters. Inhibition of signaling after ligand exposure selectively delayed proliferation in cells with internalized TCRs. Finally, internalized TCRs continued to signal and genetic modification of TCR internalization and trafficking altered the duration of signaling in a T cell hybridoma. Together, our findings indicate that heterogeneity among responding CD8 T cell populations in their ability to respond to TCR-mediated stimulation and internalize TCRs mediates detection of ligand density or affinity, contributing to graded response magnitudes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "28378771",
+      "title": "Mediation of transitional B cell maturation in the absence of functional Bruton's tyrosine kinase.",
+      "authors": [
+        "Shalini Tanwar",
+        "Atika Dhar",
+        "Vineeth Varanasi",
+        "Tapas Mukherjee",
+        "Ramanamurthy Boppana",
+        "Soumen Basak",
+        "Vineeta Bal",
+        "Anna George",
+        "Satyajit Rath"
+      ],
+      "year": "2017",
+      "journal": "Scientific reports",
+      "doi": "10.1038/srep46029",
+      "doi_link": "https://doi.org/10.1038/srep46029",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28378771",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mediation%20of%20transitional%20B%20cell%20maturation%20in%20the%20absence%20of%20functional%20Bruton%27s%20tyrosine%20kinase%22",
+      "citations": {
+        "semantic_scholar": 6
+      },
+      "abstract": "X-linked immune-deficient (Xid) mice, carrying a mutation in Bruton's tyrosine kinase (Btk), have multiple B cell lineage differentiation defects. We now show that, while Xid mice showed only mild reduction in the frequency of the late transitional (T2) stage of peripheral B cells, the defect became severe when the Xid genotype was combined with either a CD40-null, a TCRbeta-null or an MHC class II (MHCII)-null genotype. Purified Xid T1 and T2 B cells survived poorly in vitro compared to wild-type (WT) cells. BAFF rescued WT but not Xid T1 and T2 B cells from death in culture, while CD40 ligation equivalently rescued both. Xid transitional B cells ex vivo showed low levels of the p100 protein substrate for non-canonical NF-kappaB signalling. In vitro, CD40 ligation induced equivalent activation of the canonical but not of the non-canonical NF-kappaB pathway in Xid and WT T1 and T2 B cells. CD40 ligation efficiently rescued p100-null T1 B cells from neglect-induced death in vitro. These data indicate that CD40-mediated signals, likely from CD4 T cells, can mediate peripheral transitional B cell maturation independent of Btk and the non-canonical NF-kappaB pathway, and thus contribute to the understanding of the complexities of peripheral B cell maturation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "28746783",
+      "title": "CD73 expression identifies a subset of IgM+ antigen-experienced cells with memory attributes that is T cell and CD40 signalling dependent",
+      "authors": [
+        "Lucas D'Souza",
+        "Sneh Lata Gupta",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Anna George"
+      ],
+      "year": "2017",
+      "journal": "Immunology",
+      "doi": "10.1111/imm.12800",
+      "doi_link": "https://doi.org/10.1111/imm.12800",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28746783",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22CD73%20expression%20identifies%20a%20subset%20of%20IgM%2B%20antigen-experienced%20cells%20with%20memory%20attributes%20that%20is%20T%20cell%20and%20CD40%20signalling%20dependent%22",
+      "citations": {
+        "crossref": 13
+      },
+      "abstract": "B-cell memory was long characterized as isotype-switched, somatically mutated and germinal centre (GC)-derived. However, it is now clear that the memory pool is a complex mixture that includes unswitched and unmutated cells. Further, expression of CD73, CD80 and CD273 has allowed the categorization of B-cell memory into multiple subsets, with combinatorial expression of the markers increasing with GC progression, isotype-switching and acquisition of somatic mutations. We have extended these findings to determine whether these markers can be used to identify IgM memory phenotypically as arising from T-dependent versus T-independent responses. We report that CD73 expression identifies a subset of antigen-experienced IgM+ cells that share attributes of functional B-cell memory. This subset is reduced in the spleens of T-cell-deficient and CD40-deficient mice and in mixed marrow chimeras made with mutant and wild-type marrow, the proportion of CD73+ IgM memory is restored in the T-cell-deficient donor compartment but not in the CD40-deficient donor compartment, indicating that CD40 ligation is involved in its generation. We also report that CD40 signalling supports optimal expression of CD73 on splenic T cells and age-associated B cells (ABCs), but not on other immune cells such as neutrophils, marginal zone B cells, peritoneal cavity B-1 B cells and regulatory T and B cells. Our data indicate that in addition to promoting GC-associated memory generation during B-cell differentiation, CD40-signalling can influence the composition of the unswitched memory B-cell pool. They also raise the possibility that a fraction of ABCs may represent T-cell-dependent IgM memory.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "29061763",
+      "title": "A TNF-p100 pathway subverts noncanonical NF-κB signaling in inflamed secondary lymphoid organs.",
+      "authors": [
+        "Tapas Mukherjee",
+        "Budhaditya Chatterjee",
+        "Atika Dhar",
+        "Sachendra S Bais",
+        "Meenakshi Chawla",
+        "Payel Roy",
+        "Anna George",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Soumen Basak"
+      ],
+      "year": "2017",
+      "journal": "The EMBO journal",
+      "doi": "10.15252/embj.201796919",
+      "doi_link": "https://doi.org/10.15252/embj.201796919",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29061763",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20TNF-p100%20pathway%20subverts%20noncanonical%20NF-%CE%BAB%20signaling%20in%20inflamed%20secondary%20lymphoid%20organs%22",
+      "citations": {
+        "crossref": 27
+      },
+      "abstract": "Lymphotoxin-beta receptor (LTβR) present on stromal cells engages the noncanonical NF-κB pathway to mediate RelB-dependent expressions of homeostatic chemokines, which direct steady-state ingress of naïve lymphocytes to secondary lymphoid organs (SLOs). In this pathway, NIK promotes partial proteolysis of p100 into p52 that induces nuclear translocation of the RelB NF-κB heterodimers. Microbial infections often deplete homeostatic chemokines; it is thought that infection-inflicted destruction of stromal cells results in the downregulation of these chemokines. Whether inflammation per se also regulates these processes remains unclear. We show that TNF accumulated upon non-infectious immunization of mice similarly downregulates the expressions of these chemokines and consequently diminishes the ingress of naïve lymphocytes in inflamed SLOs. Mechanistically, TNF inactivated NIK in LTβR-stimulated cells and induced the synthesis of Nfkb2 mRNA encoding p100; these together potently accumulated unprocessed p100, which attenuated the RelB activity as inhibitory IκBδ. Finally, a lack of p100 alleviated these TNF-mediated inhibitions in inflamed SLOs of immunized Nfkb2-/- mice. In sum, we reveal that an inhibitory TNF-p100 pathway modulates the adaptive compartment during immune responses.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "29088218",
+      "title": "Effector/memory CD4 T cells making either Th1 or Th2 cytokines commonly co-express T-bet and GATA-3.",
+      "authors": [
+        "Arundhoti Das",
+        "Vidya Ranganathan",
+        "Danish Umar",
+        "Shipra Thukral",
+        "Anna George",
+        "Satyajit Rath",
+        "Vineeta Bal"
+      ],
+      "year": "2017",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0185932",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0185932",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29088218",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Effector/memory%20CD4%20T%20cells%20making%20either%20Th1%20or%20Th2%20cytokines%20commonly%20co-express%20T-bet%20and%20GATA-3%22",
+      "citations": {
+        "semantic_scholar": 14
+      },
+      "abstract": "Naïve CD4 T (NCD4T) cells post-activation undergo programming for inducible production of cytokines leading to generation of memory cells with various functions. Based on cytokine based polarization of NCD4T cells in vitro, programming for either 'Th1' (interferon-gamma [IFNg]) or 'Th2' (interleukin [IL]-4/5/13) cytokines is thought to occur via mutually exclusive expression and functioning of T-bet or GATA-3 transcription factors (TFs). However, we show that a high proportion of mouse and human memory-phenotype CD4 T (MCD4T) cells generated in vivo which expressed either Th1 or Th2 cytokines commonly co-expressed T-bet and GATA-3. While T-bet levels did not differ between IFNg-expressing and IL-4/5/13-expressing MCD4T cells, GATA-3 levels were higher in the latter. These observations were also confirmed in MCD4T cells from FVB/NJ or aged C57BL/6 or IFNg-deficient mice. While MCD4T cells from these strains showed greater Th2 commitment than those from young C57BL/6 mice, pattern of co-expression of TF was similar. Effector T cells generated in vivo following immunization also showed TF co-expression in Th1 or Th2 cytokine producing cells. We speculated that the difference in TF expression pattern of MCD4T cells generated in vivo and those generated in cytokine polarized cultures in vitro could be due to relative absence of polarizing conditions during activation in vivo. We tested this by NCD4T cell activation in non-polarizing conditions in vitro. Anti-CD3 and anti-CD28-mediated priming of polyclonal NCD4T cells in vitro without polarizing milieu generated cells that expressed either IFNg or IL-4/5/13 but not both, yet both IFNg- and IL-4/5/13-expressing cells showed upregulation of both TFs. We also tested monoclonal T cell populations activated in non-polarizing conditions. TCR-transgenic NCD4T cells primed in vitro by cognate peptide in non-polarizing conditions which expressed either IFNg or IL-4/5/13 also showed a high proportion of cells co-expressing TFs, and their cytokine commitment varied depending on genetic background or priming conditions, without altering pattern of TF co-expression. Thus, the model of mutually antagonistic differentiation programs driven by mutually exclusively expressed T-bet or GATA-3 does not completely explain natural CD4 T cell priming outcomes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "30556901",
+      "title": "Correlation of cell-surface CD8 levels with function, phenotype and transcriptome of naive CD8 T cells.",
+      "authors": [
+        "Renu Balyan",
+        "Rupali Gund",
+        "Amanpreet Singh Chawla",
+        "Satyajeet P Khare",
+        "Saurabh J Pradhan",
+        "Sanket Rane",
+        "Sanjeev Galande",
+        "Jeannine Marie Durdik",
+        "Anna George",
+        "Vineeta Bal",
+        "Satyajit Rath"
+      ],
+      "year": "2019",
+      "journal": "Immunology",
+      "doi": "10.1111/imm.13036",
+      "doi_link": "https://doi.org/10.1111/imm.13036",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30556901",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Correlation%20of%20cell-surface%20CD8%20levels%20with%20function%2C%20phenotype%20and%20transcriptome%20of%20naive%20CD8%20T%20cells%22",
+      "citations": {
+        "semantic_scholar": 5
+      },
+      "abstract": "We have previously demonstrated co-receptor level-associated functional heterogeneity in apparently homogeneous naive peripheral CD4 T cells, dependent on MHC-mediated tonic signals. Maturation pathways can differ between naive CD4 and naive CD8 cells, so we tested whether the latter showed similar co-receptor level-associated functional heterogeneity. We report that, when either polyclonal and T-cell receptor (TCR)-transgenic monoclonal peripheral naive CD8 T cells from young mice were separated into CD8hi and CD8lo subsets, CD8lo cells responded poorly, but CD8hi and CD8lo subsets of CD8 single-positive (SP) thymocytes responded similarly. CD8lo naive CD8 T cells were smaller and showed lower levels of some cell-surface molecules, but higher levels of the negative regulator CD5. In addition to the expected peripheral decline in CD8 levels on transferred naive CD8 T cells in wild-type (WT) but not in MHC class I-deficient recipient mice, short-duration naive T-cell-dendritic cell (DC) co-cultures in vitro also caused co-receptor down-modulation in CD8 T cells but not in CD4 T cells. Constitutive pZAP70/pSyk and pERK levels ex vivo were lower in CD8lo naive CD8 T cells and dual-specific phosphatase inhibition partially rescued their hypo-responsiveness. Bulk mRNA sequencing showed major differences in the transcriptional landscapes of CD8hi and CD8lo naive CD8 T cells. CD8hi naive CD8 T cells showed enrichment of genes involved in positive regulation of cell cycle and survival. Our data show that naive CD8 T cells show major differences in their signaling, transcriptional and functional landscapes associated with subtly altered CD8 levels, consistent with the possibility of peripheral cellular aging.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "30557341",
+      "title": "Cell-intrinsic regulation of peripheral memory-phenotype T cell frequencies.",
+      "authors": [
+        "Amanpreet Singh Chawla",
+        "Parna Kanodia",
+        "Ankur Mukherjee",
+        "Vaibhav Jain",
+        "Gurvinder Kaur",
+        "Poonam Coshic",
+        "Kabita Chatterjee",
+        "Nitya Wadhwa",
+        "Uma Chandra Mouli Natchu",
+        "Shailaja Sopory",
+        "Shinjini Bhatnagar",
+        "Partha P Majumder",
+        "Anna George",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Savit B Prabhu"
+      ],
+      "year": "2018",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0200227",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0200227",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30557341",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Cell-intrinsic%20regulation%20of%20peripheral%20memory-phenotype%20T%20cell%20frequencies%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "Memory T and B lymphocyte numbers are thought to be regulated by recent and cumulative microbial exposures. We report here that memory-phenotype lymphocyte frequencies in B, CD4 and CD8 T-cells in 3-monthly serial bleeds from healthy young adult humans were relatively stable over a 1-year period, while Plasmablast frequencies were not, suggesting that recent environmental exposures affected steady state levels of recently activated but not of memory lymphocyte subsets. Frequencies of memory B and CD4 T cells were not correlated, suggesting that variation in them was unlikely to be determined by cumulative antigenic exposures. Immunophenotyping of adult siblings showed high concordance in memory, but not of recently activated lymphocyte subsets. To explore the possibility of cell-intrinsic regulation of T cell memory, we screened effector memory-phenotype T cell (TEM) frequencies in common independent inbred mice strains. Using two pairs from these strains that differed predominantly in either CD4 TEM and/or CD8 TEM frequencies, we constructed bi-parental bone marrow chimeras in F1 recipient mice, and found that memory T cell frequencies in recipient mice were determined by donor genotypes. Together, these data suggest cell-autonomous determination of memory T niche size, and suggest mechanisms maintaining immune variability.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 11,
+    "publications_by_year": {
+      "2019": 1,
+      "2018": 1,
+      "2017": 5,
+      "2016": 1,
+      "2014": 3
+    },
+    "top_journals": [
+      "Journal of immunology (Baltimore, Md. : 1950)",
+      "Immunology",
+      "PloS one",
+      "Nature immunology",
+      "Journal of cellular physiology"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 51,
+      "frequent_collaborators": [
+        "Satyajit Rath",
+        "Vineeta Bal",
+        "Anna George",
+        "Tushar Vaidya",
+        "Vidya Ranganathan",
+        "Jeannine Marie Durdik",
+        "Rupali Gund",
+        "Atika Dhar"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "24441790",
+        "title": "Inducible nitric oxide synthase is a major intermediate in signaling pathways for the survival of plasma cells.",
+        "citations": 47,
+        "year": "2014"
+      },
+      {
+        "publication_id": "29061763",
+        "title": "A TNF-p100 pathway subverts noncanonical NF-κB signaling in inflamed secondary lymphoid organs.",
+        "citations": 27,
+        "year": "2017"
+      },
+      {
+        "publication_id": "28100678",
+        "title": "Modulation of Naive CD8 T Cell Response Features by Ligand Density, Affinity, and Continued Signaling via Internalized TCRs.",
+        "citations": 25,
+        "year": "2017"
+      }
+    ]
+  }
+}

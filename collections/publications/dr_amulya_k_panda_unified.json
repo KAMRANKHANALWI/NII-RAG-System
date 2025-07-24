@@ -1,0 +1,316 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Amulya K. Panda",
+    "email": "amulya@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/former-faculty/dr-amulya-k-panda",
+    "research_domain": "Former",
+    "faculty_status": "former",
+    "search_date": "2025-07-01T11:19:04.019834",
+    "total_publications": 10,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Amulya K. Panda, former faculty in Former at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "31954528",
+      "title": "Bacterial Inclusion Bodies: A Treasure Trove of Bioactive Proteins.",
+      "authors": [
+        "Priyank Singhvi",
+        "Ankit Saneja",
+        "Sudeepa Srichandan",
+        "Amulya K Panda"
+      ],
+      "year": "2020",
+      "journal": "Trends in biotechnology",
+      "doi": "10.1016/j.tibtech.2019.12.011",
+      "doi_link": "https://doi.org/10.1016/j.tibtech.2019.12.011",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31954528",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Bacterial%20Inclusion%20Bodies%3A%20A%20Treasure%20Trove%20of%20Bioactive%20Proteins%22",
+      "citations": {
+        "semantic_scholar": 85
+      },
+      "abstract": "Recombinant proteins expressed as bacterial inclusion bodies (IBs) are now receiving tremendous attention for many diverse applications in the areas of industrial and medical biotechnology. Understanding the structure-function relationship of protein in IBs has recently created new possibilities in developing innovative isolation, solubilization, refolding, and purification processes for high-throughput recovery of bioactive protein from bacterial IBs. This opinion article describes the advantages, disadvantages, and major challenges presently associated with each of the processing steps. Finally, we conclude with the possible solutions for each operational step and the future direction of the basic and translational research to achieve maximum benefit from IB aggregates.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "10553655",
+      "title": "Kinetics of inclusion body production in batch and high cell density fed-batch culture of Escherichia coli expressing ovine growth hormone.",
+      "authors": [
+        "A K Panda",
+        "R H Khan",
+        "K B Rao",
+        "S M Totey"
+      ],
+      "year": "1999",
+      "journal": "Journal of biotechnology",
+      "doi": "10.1016/s0168-1656(99)00157-1",
+      "doi_link": "https://doi.org/10.1016/s0168-1656(99)00157-1",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/10553655",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Kinetics%20of%20inclusion%20body%20production%20in%20batch%20and%20high%20cell%20density%20fed-batch%20culture%20of%20Escherichia%20coli%20expressing%20ovine%20growth%20hormone%22",
+      "citations": {
+        "semantic_scholar": 63
+      },
+      "abstract": "A process for maximizing the volumetric productivity of recombinant ovine growth hormone (r-oGH) expressed in Escherichia coli during high cell density fermentation process has been devised. Kinetics of r-oGH expression as inclusion bodies and its effect on specific growth rates of E. coli cells were monitored during batch fermentation process. It was observed that during r-oGH expression in E. coli, the specific growth rate of the culture became an intrinsic property of the cells which reduced in a programmed manner upon induction. Nutrient feeding during protein expression phase of the fed-batch process was designed according to the reduction in specific growth rate of the culture. By feeding yeast extract along with glucose during fed-batch operation, high cell growth with very little accumulation of acetic acid was observed. Use of yeast extract helped in maintaining high specific cellular protein yield which resulted in high volumetric productivity of r-oGH. In 16 h of fed-batch fermentation, 3.2 g l-1 of r-oGH were produced at a cell OD of 124. This is the highest concentration of r-oGH reported to date using E. coli expression system. The volumetric productivity of r-oGH was 0.2 g l-1 h-1, which is also the highest value reported for any therapeutic protein using IPTG inducible expression system in a single stage fed-batch process.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "16233795",
+      "title": "Solubilization and refolding of bacterial inclusion body proteins.",
+      "authors": [
+        "Surinder Mohan Singh",
+        "Amulya Kumar Panda"
+      ],
+      "year": "2005",
+      "journal": "Journal of bioscience and bioengineering",
+      "doi": "10.1263/jbb.99.303",
+      "doi_link": "https://doi.org/10.1263/jbb.99.303",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16233795",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Solubilization%20and%20refolding%20of%20bacterial%20inclusion%20body%20proteins%22",
+      "citations": {
+        "crossref": 585
+      },
+      "abstract": "Inclusion bodies produced in Escherichia coli are composed of densely packed denatured protein molecules in the form of particles. Refolding of inclusion body proteins into bioactive forms is cumbersome, results in poor recovery and accounts for the major cost in production of recombinant proteins from E. coli. With new information available on the structure and function of protein aggregates in bacterial inclusion bodies, it has been possible to develop improved solubilization and refolding procedures for higher recovery of bioactive protein. Inclusion bodies are formed from partially folded protein intermediates and are composed of aggregates of mostly single types of polypeptide. This helps to isolate and purify the protein aggregates to homogeneity before solubilization and refolding. Proteins inside inclusion body aggregates have native-like secondary structures. It is assumed that restoration of this native-like secondary structure using mild solubilization conditions will help in improved recovery of bioactive protein in comparison to solubilization using a high concentration of chaotropic agent. Analysis of the dominant forces causing aggregation during inclusion body formation provides information to develop suitable mild solubilization procedures for inclusion body proteins. Refolding from such solubilized protein will be very high due to restoration of native-like secondary structure. Human growth hormone inclusion bodies were purified to homogeneity from E. coli cells before solubilization and refolding. Pure inclusion bodies were solubilized at alkaline pH in the presence of 2 M urea solution. The solubilized proteins were refolded using a pulsatile renaturation process and subsequently purified using chromatographic procedures. More than 40% of the inclusion body proteins could be refolded back to the bioactive native conformation. Mild solubilization is thus the key for high recovery of bioactive protein from inclusion bodies.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "19540583",
+      "title": "Memory antibody response from antigen loaded polymer particles and the effect of antigen release kinetics.",
+      "authors": [
+        "Vibhu Kanchan",
+        "Yogesh K Katare",
+        "Amulya K Panda"
+      ],
+      "year": "2009",
+      "journal": "Biomaterials",
+      "doi": "10.1016/j.biomaterials.2009.05.075",
+      "doi_link": "https://doi.org/10.1016/j.biomaterials.2009.05.075",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19540583",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Memory%20antibody%20response%20from%20antigen%20loaded%20polymer%20particles%20and%20the%20effect%20of%20antigen%20release%20kinetics%22",
+      "citations": {
+        "crossref": 49
+      },
+      "abstract": "Memory antibody response is the hallmark of long lasting immunity. In this study, we report the generation of memory antibody response while immunizing with single dose of polymer particle entrapped antigens. Immunization with admixture of alum and polylactide (PLA) polymer particles (2-8 microm) entrapping antigens not only elicited long lasting primary antibody response but also very high levels of memory antibody titer upon re-exposure to very small amount of soluble antigen. In the case of tetanus toxoid (TT), the memory antibody titers from PLA particle based immunization were almost four times higher than that achieved from two doses of alum adsorbed antigen and sustained at a higher level for a longer period of time. Memory antibody response was detected even after challenging the animals after 18 months of primary immunization. Similar enhanced memory antibody response was also observed in the case of immunization with PLA particle entrapping diphtheria toxoid (DT). Memory antibody response generated from polymeric formulations was highly antigen specific. Polymer particles with different release profile of antigen were used as a model system to evaluate the role of antigen on immunological memory. The results suggest that slow and continuous release of antigen from polymer particles plays a critical role in eliciting improved memory antibody response from single point immunization.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "21332264",
+      "title": "Induction of anti-tumor immunity and T-cell responses using nanodelivery systems engrafting TLR-5 ligand.",
+      "authors": [
+        "Amulya K Panda"
+      ],
+      "year": "2011",
+      "journal": "Expert review of vaccines",
+      "doi": "10.1586/erv.10.164",
+      "doi_link": "https://doi.org/10.1586/erv.10.164",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21332264",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Induction%20of%20anti-tumor%20immunity%20and%20T-cell%20responses%20using%20nanodelivery%20systems%20engrafting%20TLR-5%20ligand%22",
+      "citations": {
+        "crossref": 14
+      },
+      "abstract": "Induction of activated T-cell responses is a prerequisite for the development of vaccine against intracellular infection and for the control of cancer. Particulate nanoscale delivery systems deliver antigens intracellularly and help in inducing T-cell responses. T-cell responses can be further augmented by targeting these particles to dendritic cells, which have the ability to induce both innate and adaptive immune responses. Flagellin, which acts as a TLR-5 ligand, has been extensively explored for its adjuvant activity. The paper under evaluation reports a novel vaccine delivery platform technology for induction of a T-cell response using a nanoscale liposome containing antigen and a small synthetic peptide representing TLR-5-binding motifs of flagellin. Vaccination using this nanodelivery system activated dendritic cells through TLR-5 activation and induced both innate and adaptive immune responses. Such novel delivery systems can improve modern vaccine formulation, particularly for the generation of activated T-cell responses and anti-tumor immunity.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "24446810",
+      "title": "Delivery of polysaccharides using polymer particles: implications on size-dependent immunogenicity, opsonophagocytosis, and protective immunity.",
+      "authors": [
+        "Chakkumkal Anish",
+        "Naeem Khan",
+        "Arun Kumar Upadhyay",
+        "Devinder Sehgal",
+        "Amulya Kumar Panda"
+      ],
+      "year": "2014",
+      "journal": "Molecular pharmaceutics",
+      "doi": "10.1021/mp400589q",
+      "doi_link": "https://doi.org/10.1021/mp400589q",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24446810",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Delivery%20of%20polysaccharides%20using%20polymer%20particles%3A%20implications%20on%20size-dependent%20immunogenicity%2C%20opsonophagocytosis%2C%20and%20protective%20immunity%22",
+      "citations": {
+        "crossref": 12
+      },
+      "abstract": "Bacterial capsular polysaccharides are components of many modern vaccines, but they are weakly immunogenic. Herein, we describe the delivery of pneumococcal capsular polysaccharide serotype-1 (PCP-1) in polylactide polymeric particles to enhance its immunogenicity. Immunization with PCP-1-entrapped particles elicited long-term memory antibody responses from a single intramuscular injection. PCP-1-entrapped nanoparticles (NPs) elicited significantly higher anti-PCP-1 IgG responses than that observed with soluble and microparticles (MPs) formulations. Delivering PCP-1 and pneumococcal proteins in same particles did not improve the IgG response. The sera of animals immunized with PCP-1-entrapped particles promoted efficient opsonophagocytosis of pneumococci by macrophages. Single-dose immunization with PCP-1-entrapped particles conferred a long-term serotype-specific protection against lethal pneumococcal challenge. The higher immunogenicity of PCP-1 nanoparticles showed correlation with enhanced uptake by antigen-presenting cells. The results highlight the potential of polymeric nanoparticles as an efficient means of presenting polysaccharide antigens to the immune system.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "24785946",
+      "title": "Fusion and self-assembly of biodegradable polymer particles into scaffoldlike and membranelike structures at room temperature for regenerative medicine.",
+      "authors": [
+        "G Rajmohan",
+        "Prasad Admane",
+        "Chakkumkal Anish",
+        "Amulya K Panda"
+      ],
+      "year": "2014",
+      "journal": "Molecular pharmaceutics",
+      "doi": "10.1021/mp500106u",
+      "doi_link": "https://doi.org/10.1021/mp500106u",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24785946",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Fusion%20and%20self-assembly%20of%20biodegradable%20polymer%20particles%20into%20scaffoldlike%20and%20membranelike%20structures%20at%20room%20temperature%20for%20regenerative%20medicine%22",
+      "citations": {
+        "semantic_scholar": 7
+      },
+      "abstract": "We report here a novel surfactant mediated fusion of polylactide particles into scaffoldlike structures at room temperature. In the presence of ethanol, evenly spread surfactant coated polylactide particles fused immediately into membranelike structures. Polymer scaffolds of the desired shape and size could be fabricated from polylactide particles using this fusion process. Desorption of surfactant molecules from the surface of the particles during ethanol treatment and the degree of solubility of the polymer in alcohol were found to be the main reasons for the fusion of particles into a scaffold at room temperature. TGA and DSC studies of the polylactide particles showed that the particles were stable at room temperature, and FTIR studies showed that there was no change in characteristics of the polymer after the fusion of particles into a scaffold-type structure. These scaffolds supported three-dimensional growth of animal cells in vitro and release model protein in a sustained manner for a long period of time. In an experimental animal wound model, the polylactide membranes showed faster wound closure, indicating its use as a passive dressing material. This polymer particle fusion process thus provides a novel method of scaffold fabrication for various biomedical applications.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "36736778",
+      "title": "Immunogenicity Evaluation of Thermostable Microparticles Entrapping Receptor Binding Domain of SARS-CoV-2 by Single Point Administration.",
+      "authors": [
+        "Rahul Ahuja",
+        "Sudeepa Srichandan",
+        "Jairam Meena",
+        "Bichitra Kumar Biswal",
+        "Amulya K Panda"
+      ],
+      "year": "2023",
+      "journal": "Journal of pharmaceutical sciences",
+      "doi": "10.1016/j.xphs.2023.01.024",
+      "doi_link": "https://doi.org/10.1016/j.xphs.2023.01.024",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36736778",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Immunogenicity%20Evaluation%20of%20Thermostable%20Microparticles%20Entrapping%20Receptor%20Binding%20Domain%20of%20SARS-CoV-2%20by%20Single%20Point%20Administration%22",
+      "citations": {
+        "crossref": 2
+      },
+      "abstract": "Receptor binding domain (RBD) of SARS-CoV-2 is a prime vaccine target against which neutralizing antibody responses are directed. Purified RBD as a vaccine candidate warrants administration of multiple doses along with adjuvants and use of delivery systems to improve its immunogenicity. The present investigation examines the immunogenicity of RBD delivered by biodegradable polymer particles from single dose administration. Mice upon single point immunization of RBD entrapped microparticles generated improved antibody response. The polymer microparticles showed better temperature stability and could be stored at 37 degrees for one month without any considerable loss of immunogenicity. Further, immunization with microparticles could elicit memory antibody response upon challenge after four months of single dose administration. Thus, using microparticles entrapping RBD as a vaccine candidate confer improved immunogenicity, temperature stability and recall response. These thermostable microparticles seem to be a potentially cost-effective approach which can help in dose reduction, provide a wider access of vaccines and accelerate the end of global pandemic.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "35438447",
+      "title": "Correction to: Preparation and Preclinical Evaluation of Inhalable Particles Containing Rapamycin and Anti-Tuberculosis Agents for Induction of Autophagy.",
+      "authors": [
+        "Anuradha Gupta",
+        "Deepak Sharma",
+        "Jairam Meena",
+        "Sanketkumar Pandya",
+        "Madhur Sachan",
+        "Sadan Kuma",
+        "Kavita Singh",
+        "Kalyan Mitra",
+        "Sharad Sharma",
+        "Amulya K Panda",
+        "Pushpa Gupta",
+        "Umesh Datta Gupta",
+        "Amit Misra"
+      ],
+      "year": "2022",
+      "journal": "Pharmaceutical research",
+      "doi": "10.1007/s11095-022-03258-2",
+      "doi_link": "https://doi.org/10.1007/s11095-022-03258-2",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35438447",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Correction%20to%3A%20Preparation%20and%20Preclinical%20Evaluation%20of%20Inhalable%20Particles%20Containing%20Rapamycin%20and%20Anti-Tuberculosis%20Agents%20for%20Induction%20of%20Autophagy%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "39911577",
+      "title": "CoviWall, a whole-virion-inactivated B.1.617.2 vaccine candidate, induces potent humoral and Th1 cell response in mice and protects against B.1.617.2 strain challenge in Syrian hamsters.",
+      "authors": [
+        "Jyotsna Dandotiya",
+        "Neeta Adhikari",
+        "Manas Ranjan Tripathy",
+        "Kamini Jakhar",
+        "Sudipta Sonar",
+        "Dibya Ranjan Pati",
+        "Vibhu Kanchan",
+        "Varsha S Prasad",
+        "Jitendra Kumar",
+        "Nitesh K Senapati",
+        "Arti Bharmoria",
+        "Neeraj Rani",
+        "Monika Lakhanpal",
+        "C S Patil",
+        "Nishan Singh",
+        "Lovely Khan",
+        "Lavit Jambu",
+        "Naveen K Jain",
+        "Syed Khalid Ali",
+        "Priyanka Priyadarsiny",
+        "Amulya K Panda",
+        "Rajesh Jain",
+        "Shailendra Mani",
+        "Sweety Samal",
+        "Amit Awasthi",
+        "Zaigham Abbas Rizvi"
+      ],
+      "year": "2024",
+      "journal": "Frontiers in immunology",
+      "doi": "10.3389/fimmu.2024.1447962",
+      "doi_link": "https://doi.org/10.3389/fimmu.2024.1447962",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39911577",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22CoviWall%2C%20a%20whole-virion-inactivated%20B.1.617.2%20vaccine%20candidate%2C%20induces%20potent%20humoral%20and%20Th1%20cell%20response%20in%20mice%20and%20protects%20against%20B.1.617.2%20strain%20challenge%20in%20Syrian%20hamsters%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "Rapid development of coronavirus disease 2019 (COVID-19) vaccines and antiviral drugs have significantly reduced morbidity and mortality worldwide. Although most of the vaccines were developed initially with the ancestral Wuhan antigen, here, we report the development and immunological efficacy of a whole-virion-inactivated vaccine candidate (CoviWall) to combat the deadly B.1.617.2 (Delta strain) infection. In the current study, we demonstrate a consistent manufacturing process under Good Manufacturing Practice for the development of CoviWall and its characterization using various analytical methods as per regulatory compliance. In addition, we provide pre-clinical immunogenicity and protective efficacy data of the CoviWall vaccine. All the three test doses (i.e., low dose, mid dose, and high dose) immunized in C57BL/6 mice elicited a high titer of anti-receptor-binding domain antibody and neutralizing antibody response against severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) after second booster dose. In addition, CoviWall immunization also produced a significant T-cell response in the immunized animals. Our B.1.617.2 strain challenge data in Syrian hamsters indicate that immunized hamsters show attenuated clinical manifestations of COVID-19 with reduced lung viral load. Moreover, assessment of pulmonary histopathology revealed lower cellular injury, inflammation, and pneumonia in the vaccinated hamsters as compared to the unvaccinated animals. Such promising results augur well for the clinical phase I trial of the CoviWall vaccine and further development against contagious SARS-CoV-2 strains in the future.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 10,
+    "publications_by_year": {
+      "2024": 1,
+      "2023": 1,
+      "2022": 1,
+      "2020": 1,
+      "2014": 2,
+      "2011": 1,
+      "2009": 1,
+      "2005": 1,
+      "1999": 1
+    },
+    "top_journals": [
+      "Molecular pharmaceutics",
+      "Trends in biotechnology",
+      "Journal of biotechnology",
+      "Journal of bioscience and bioengineering",
+      "Biomaterials"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 49,
+      "frequent_collaborators": [
+        "Amulya K Panda",
+        "Sudeepa Srichandan",
+        "Amulya Kumar Panda",
+        "Jairam Meena",
+        "Ankit Saneja",
+        "R H Khan",
+        "K B Rao",
+        "S M Totey"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "16233795",
+        "title": "Solubilization and refolding of bacterial inclusion body proteins.",
+        "citations": 585,
+        "year": "2005"
+      },
+      {
+        "publication_id": "31954528",
+        "title": "Bacterial Inclusion Bodies: A Treasure Trove of Bioactive Proteins.",
+        "citations": 85,
+        "year": "2020"
+      },
+      {
+        "publication_id": "10553655",
+        "title": "Kinetics of inclusion body production in batch and high cell density fed-batch culture of Escherichia coli expressing ovine growth hormone.",
+        "citations": 63,
+        "year": "1999"
+      }
+    ]
+  }
+}

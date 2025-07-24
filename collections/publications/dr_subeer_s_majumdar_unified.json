@@ -1,0 +1,545 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Subeer S. Majumdar",
+    "email": "subeer@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/former-faculty/dr-subeer-s-majumdar",
+    "research_domain": "Former",
+    "faculty_status": "former",
+    "search_date": "2025-07-02T00:00:00.000000",
+    "total_publications": 20,
+    "last_updated": "2025-07-02",
+    "description": "This document contains a complete list of publications by Dr. Subeer S. Majumdar, former faculty in Former at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "40223124",
+      "title": "Constructing a draft Indian cattle pangenome using short-read sequencing.",
+      "authors": [
+        "Sarwar Azam",
+        "Abhisek Sahu",
+        "Naveen Kumar Pandey",
+        "Mahesh Neupane",
+        "Curtis P Van Tassell",
+        "Benjamin D Rosen",
+        "Ravi Kumar Gandham",
+        "Subha Narayan Rath",
+        "Subeer S Majumdar"
+      ],
+      "year": "2025",
+      "journal": "Communications biology",
+      "doi": "10.1038/s42003-025-07978-0",
+      "doi_link": "https://doi.org/10.1038/s42003-025-07978-0",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40223124",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Constructing%20a%20draft%20Indian%20cattle%20pangenome%20using%20short-read%20sequencing%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "Indian desi cattle, known for their adaptability and phenotypic diversity, represent a valuable genetic resource. However, a single reference genome often fails to capture the full extent of their genetic variation. To address this, we construct a pangenome for desi cattle by identifying and characterizing non-reference novel sequences (NRNS). We sequence 68 genomes from seven breeds, generating 48.35 billion short reads. Using the PanGenome Analysis (PanGA) pipeline, we identify 13,065 NRNS (~41 Mbp), with substantial variation across the population. Most NRNS were unique to desi cattle, with minimal overlap (4.1%) with the Chinese indicine pangenome. Approximately 40% of NRNS exhibited ancestral origins within the Bos genus and were enriched in genic regions, suggesting functional roles. These sequences are linked to quantitative trait loci for traits such as milk production. The pangenome approach enhances read mapping accuracy, reduces spurious single nucleotide polymorphism calls, and uncovers novel genetic variants, offering a deeper understanding of desi cattle genomics.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "39996768",
+      "title": "Generation of a Transgenic Mouse Model for Investigating Mitochondria in Sperm.",
+      "authors": [
+        "Hironmoy Sarkar",
+        "Suryaprakash R Batta",
+        "Neerja Wadhwa",
+        "Subeer S Majumdar",
+        "Bhola Shankar Pradhan"
+      ],
+      "year": "2025",
+      "journal": "Cells",
+      "doi": "10.3390/cells14040296",
+      "doi_link": "https://doi.org/10.3390/cells14040296",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39996768",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Generation%20of%20a%20Transgenic%20Mouse%20Model%20for%20Investigating%20Mitochondria%20in%20Sperm%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "Mitochondria play a crucial role in sperm development; however, the mechanisms regulating their function in sperm remain poorly understood. Developing a method to regulate the expression of a target gene within the mitochondria of sperm is a vital step in this area of research. In this study, we aimed to create a system for expressing a transgene in the mitochondria of sperm. As a proof of concept, we generated transgenic mice that express green fluorescent protein (GFP) fused with a mitochondrial localization signal (MLS) driven by the phosphoglycerate kinase 2 (PGK2) promoter, which facilitates the transgene expression in the sperm. Although the PGK2 promoter has previously shown to drive gene expression in spermatocytes and spermatids, the novelty of our approach lies in the combination of PGK2-driven MLS-GFP expression to study mitochondria in vivo. We established two founder lines of transgenic mice through pronuclear microinjection, and MLS-GFP expression was confirmed in the mitochondria of sperm cells using fluorescence microscopy and flow cytometry. Consequently, we provide a novel platform for investigating mitochondrial function in sperm, where GFP can be substituted with other genes of interest to examine their effects on mitochondria. This system specifically targets sperm mitochondria, offering an innovative approach for studying mitochondrial function in vivo.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "39915889",
+      "title": "Advancing the Indian cattle pangenome: characterizing non-reference sequences in Bos indicus.",
+      "authors": [
+        "Sarwar Azam",
+        "Abhisek Sahu",
+        "Naveen Kumar Pandey",
+        "Mahesh Neupane",
+        "Curtis P Van Tassell",
+        "Benjamin D Rosen",
+        "Ravi Kumar Gandham",
+        "Subha Narayan Rath",
+        "Subeer S Majumdar"
+      ],
+      "year": "2025",
+      "journal": "Journal of animal science and biotechnology",
+      "doi": "10.1186/s40104-024-01133-1",
+      "doi_link": "https://doi.org/10.1186/s40104-024-01133-1",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39915889",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Advancing%20the%20Indian%20cattle%20pangenome%3A%20characterizing%20non-reference%20sequences%20in%20Bos%20indicus%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "BACKGROUND: India harbors the world's largest cattle population, encompassing over 50 distinct Bos indicus breeds. This rich genetic diversity underscores the inadequacy of a single reference genome to fully capture the genomic landscape of Indian cattle. To comprehensively characterize the genomic variation within Bos indicus and, specifically, dairy breeds, we aim to identify non-reference sequences and construct a comprehensive pangenome. RESULTS: Five representative genomes of prominent dairy breeds, including Gir, Kankrej, Tharparkar, Sahiwal, and Red Sindhi, were sequenced using 10X Genomics 'linked-read' technology. Assemblies generated from these linked-reads ranged from 2.70 Gb to 2.77 Gb, comparable to the Bos indicus Brahman reference genome. A pangenome of Bos indicus cattle was constructed by comparing the newly assembled genomes with the reference using alignment and graph-based methods, revealing 8 Mb and 17.7 Mb of novel sequence respectively. A confident set of 6,844 Non-reference Unique Insertions (NUIs) spanning 7.57 Mb was identified through both methods, representing the pangenome of Indian Bos indicus breeds. Comparative analysis with previously published pangenomes unveiled 2.8 Mb (37%) commonality with the Chinese indicine pangenome and only 1% commonality with the Bos taurus pangenome. Among these, 2,312 NUIs encompassing ~ 2 Mb, were commonly found in 98 samples of the 5 breeds and designated as Bos indicus Common Insertions (BICIs) in the population. Furthermore, 926 BICIs were identified within 682 protein-coding genes, 54 long non-coding RNAs (lncRNA), and 18 pseudogenes. These protein-coding genes were enriched for functions such as chemical synaptic transmission, cell junction organization, cell-cell adhesion, and cell morphogenesis. The protein-coding genes were found in various prominent quantitative trait locus (QTL) regions, suggesting potential roles of BICIs in traits related to milk production, reproduction, exterior, health, meat, and carcass. Notably, 63.21% of the bases within the BICIs call set contained interspersed repeats, predominantly Long Interspersed Nuclear Elements (LINEs). Additionally, 70.28% of BICIs are shared with other domesticated and wild species, highlighting their evolutionary significance. CONCLUSIONS: This is the first report unveiling a robust set of NUIs defining the pangenome of Bos indicus breeds of India. The analyses contribute valuable insights into the genomic landscape of desi cattle breeds.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "39897352",
+      "title": "One Health initiative in India: Genesis and hurdles in establishing the first consortium.",
+      "authors": [
+        "Nagendra R Hegde",
+        "Malathi Talari",
+        "Subeer S Majumdar"
+      ],
+      "year": "2024",
+      "journal": "Veterinary world",
+      "doi": "10.14202/vetworld.2024.2925-2931",
+      "doi_link": "https://doi.org/10.14202/vetworld.2024.2925-2931",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39897352",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22One%20Health%20initiative%20in%20India%3A%20Genesis%20and%20hurdles%20in%20establishing%20the%20first%20consortium%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "There are several challenges in implementing a meaningful One Health program. These include (a) understanding the language, intricacies, idiosyncrasies, and outcome indicators for each sector in multi-sectoral collaborations, (b) requirement of each partner to be trained outside their area of expertise, (c) absence of analysis of economics and long-term benefits, (d) complexities of the coordination and hand-holding of the various partners, and (e) uninterrupted financing of large consortia. There is, however, a clear understanding of the need for a team effort to support sustainable and progressive development. To achieve such an effort in India, the Department of Biotechnology (DBT), Ministry of Science and Technology, through prolonged deliberation, initiated a One Health project to understand the pervasiveness of the ten most critical zoonotic diseases through a nationwide study of the prevalence of these diseases in animals and to estimate the burden of the same diseases in clinical syndromes encountered in hospital settings. At the end of the project, we hope to map the spread and potential hotspots of the various diseases studied to undertake further collaborative studies focusing on diseases specific to particular geographic locations in the future. This review outlines the One Health initiatives in India and describes the difficulties in implementing the DBT One Health Consortium project.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "39520552",
+      "title": "Proteome modulation triggers potent antiviral response in Japanese Encephalitis Virus infected human macrophages.",
+      "authors": [
+        "Manas Ranjan Praharaj",
+        "Harshavardhan Budamgunta",
+        "Tejaswi Ambati",
+        "Raja Ishaq Nabi Khan",
+        "Bappaditya Dey",
+        "Ravi Kumar Gandham",
+        "G Taru Sharma",
+        "Subeer S Majumdar"
+      ],
+      "year": "2024",
+      "journal": "Archives of microbiology",
+      "doi": "10.1007/s00203-024-04167-1",
+      "doi_link": "https://doi.org/10.1007/s00203-024-04167-1",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39520552",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Proteome%20modulation%20triggers%20potent%20antiviral%20response%20in%20Japanese%20Encephalitis%20Virus%20infected%20human%20macrophages%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "Japanese encephalitis virus (JEV) is a mosquito-borne neurotropic virus that claims thousands of children's lives globally every year, causing neuropsychiatric sequelae. While neuronal cell pathogenesis is a terminal consequence of JEV infection, the virus hijacks macrophages during initial replication and propagation, making macrophages critical cells of host immune defense that dictate the outcomes of infection. Though a plethora of studies have been reported using various neuronal and immune cells, a global response of human macrophages to JEV infection is yet to be explored. In this study, we assessed the kinetics of global proteome dysregulation employing an in vitro JEV infection model using human monocyte-derived macrophages (THP-1). A comparative assessment of the proteome of the infected THP-1 cells revealed differential regulation of 428 proteins at 24 h post-infection (hpi), which was later increased to 443 by 48 h post-infection. Global gene ontology analysis of the differentially expressed proteins highlighted several critical pathways related to immune and metabolic processes that are known to play either proviral or antiviral effects during infection. Notably, several antiviral proteins, including STAT2, OAS1, MX1, MX2, RIG-I, ISG15, and ISG20, were significantly upregulated at both time points post-infection. In contrast, a considerable downregulation of BCL-2, an anti-apoptotic protein at 48hpi indicates the activation of cell death pathways. Further, gene set enrichment analysis identified the type I interferon signaling pathway as one of the top upregulated pathways following JEV infection in human macrophages. Altogether, this study demonstrates human macrophage responses to JEV infection at the proteome level for the first time, highlighting several critical and novel antiviral proteins and pathways that not only advance our understanding of anti-JEV immunity but also aid in developing strategies to control this acute global public health menace.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "39277380",
+      "title": "Organophosphate pesticide chlorpyrifos and its metabolite 3,5,6-trichloropyridinol downregulate the expression of genes essential for spermatogenesis in caprine testes.",
+      "authors": [
+        "Meenakshi Mansukhani",
+        "Partha Roy",
+        "Nirmalya Ganguli",
+        "Subeer S Majumdar",
+        "Souvik Sen Sharma"
+      ],
+      "year": "2024",
+      "journal": "Pesticide biochemistry and physiology",
+      "doi": "10.1016/j.pestbp.2024.106065",
+      "doi_link": "https://doi.org/10.1016/j.pestbp.2024.106065",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39277380",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Organophosphate%20pesticide%20chlorpyrifos%20and%20its%20metabolite%203%2C5%2C6-trichloropyridinol%20downregulate%20the%20expression%20of%20genes%20essential%20for%20spermatogenesis%20in%20caprine%20testes%22",
+      "citations": {
+        "semantic_scholar": 4
+      },
+      "abstract": "Organophosphate pesticides have potent endocrine disrupting effects, hence banned in many countries. However, many organophosphates like chlorpyrifos, malathion et cetera continue to be used in some countries (Wołejko et al., 2022; Wołejko et al., 2022)including India. Fodder mediated ingestion of these substances may be harmful for livestock fertility. We have investigated the effect of the widely used organophosphate pesticide chlorpyrifos (CPF) and its metabolite, 3,5,6-trichloropyridinol (TCPy) on the expression of genes essential for spermatogenesis in goat testicular tissue. The testicular Sertoli cells (Sc) regulate germ cell division and differentiation under the influence of follicle stimulating hormone (FSH) and testosterone (T). Impaired FSH and T mediated signalling in Sc can compromise spermatogenesis leading to sub-fertility/infertility. As Sc express receptors (R) for FSH and T, they are highly susceptible to the endocrine disrupting effects of pesticides affecting fertility by dysregulating the functioning of Sc. Our results indicated that exposure to different concentrations of CPF and TCPy can compromise Sc function by downregulating the expression of FSHR and AR which was associated with a concomitant decline in the expression of genes essential for germ cell division and differentiation, like KITLG, INHBB, CLDN11 and GJA1. CPF also induced a significant reduction in the activity of acetylcholinesterase in the testes and increased the total testicular antioxidant capacity. Our results suggested that CPF and its metabolite TCPy may induce reproductive toxicity by dysregulating the expression of Sc specific genes essential for spermatogenesis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "38488412",
+      "title": "Goat mammary epithelial cells provide a better expression system for production of recombinant human bone morphogenetic protein 2 compared to Chinese hamster ovarian cells.",
+      "authors": [
+        "Venkateswaran Ganesan",
+        "Goutam Ulgekar",
+        "Anandhi Ramalingam",
+        "Souvik Sen Sharma",
+        "Nirmalya Ganguli",
+        "Subeer S Majumdar"
+      ],
+      "year": "2024",
+      "journal": "Cell biochemistry and function",
+      "doi": "10.1002/cbf.3982",
+      "doi_link": "https://doi.org/10.1002/cbf.3982",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38488412",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Goat%20mammary%20epithelial%20cells%20provide%20a%20better%20expression%20system%20for%20production%20of%20recombinant%20human%20bone%20morphogenetic%20protein%202%20compared%20to%20Chinese%20hamster%20ovarian%20cells%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "Bone Morphogenetic Protein 2 (BMP2), a member of the Transforming Growth Factor-β (TGF-β) super family of proteins and is instrumental in the repair of fractures. The synthesis of BMP2 involves extensive post-translational processing and several studies have demonstrated the abysmally low production of rhBMP2 in eukaryotic systems, which may be due to the short half-life of the bioactive protein. Consequently, production costs of rhBMP2 are quite high, limiting its availability to the general populace. Therefore, there is an urgent need to identify better in-vitro systems for large scale production of rhBMP2. In the present study, we have carried out a comparative analysis of rhBMP2 production by the conventionally used Chinese Hamster ovarian cells (CHO) and goat mammary epithelial cells (GMEC), upon transfection with appropriate construct. Udder gland cells are highly secretory, and we reasoned that such cells may serve as a better in-vitro model for large scale production of rhBMP2. Our results indicated that the synthesis and secretion of bioactive rhBMP2 by goat mammary epithelial cells was significantly higher as compared to that by CHO-K1 cells. Our results provide strong evidence that GMECs may serve as a better alternative to other mammalian cells used for therapeutic protein production.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "38036863",
+      "title": "Etiology of Male Infertility: an Update.",
+      "authors": [
+        "Indrashis Bhattacharya",
+        "Souvik Sen Sharma",
+        "Subeer S Majumdar"
+      ],
+      "year": "2024",
+      "journal": "Reproductive sciences (Thousand Oaks, Calif.)",
+      "doi": "10.1007/s43032-023-01401-x",
+      "doi_link": "https://doi.org/10.1007/s43032-023-01401-x",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38036863",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Etiology%20of%20Male%20Infertility%3A%20an%20Update%22",
+      "citations": {
+        "semantic_scholar": 30
+      },
+      "abstract": "Spermatogenesis is a complex process of germ cell division and differentiation that involves extensive cross-talk between the developing germ cells and the somatic testicular cells. Defective endocrine signaling and/or intrinsic defects within the testes can adversely affect spermatogenic progression, leading to subfertility/infertility. In recent years, male infertility has been recognized as a global public health concern, and research over the last few decades has elucidated the complex etiology of male infertility. Congenital reproductive abnormalities, genetic mutations, and endocrine/metabolic dysfunction have been demonstrated to be involved in infertility/subfertility in males. Furthermore, acquired factors like exposure to environmental toxicants and lifestyle-related disorders such as illicit use of psychoactive drugs have been shown to adversely affect spermatogenesis. Despite the large body of available scientific literature on the etiology of male infertility, a substantial proportion of infertility cases are idiopathic in nature, with no known cause. The inability to treat such idiopathic cases stems from poor knowledge about the complex regulation of spermatogenesis. Emerging scientific evidence indicates that defective functioning of testicular Sertoli cells (Sc) may be an underlying cause of infertility/subfertility in males. Sc plays an indispensable role in regulating spermatogenesis, and impaired functional maturation of Sc has been shown to affect fertility in animal models as well as humans, suggesting abnormal Sc as a potential underlying cause of reproductive insufficiency/failure in such cases of unexplained infertility. This review summarizes the major causes of infertility/subfertility in males, with an emphasis on infertility due to dysregulated Sc function.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "37956710",
+      "title": "Isolation and characterisation of promoters from mouse genome to drive post-meiotic germ cell-specific robust gene expression for functional genomics studies.",
+      "authors": [
+        "Abhishek Das",
+        "Srimoyee Koner",
+        "Subeer S Majumdar",
+        "Nirmalya Ganguli"
+      ],
+      "year": "2024",
+      "journal": "Biochimica et biophysica acta. Gene regulatory mechanisms",
+      "doi": "10.1016/j.bbagrm.2023.194994",
+      "doi_link": "https://doi.org/10.1016/j.bbagrm.2023.194994",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37956710",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Isolation%20and%20characterisation%20of%20promoters%20from%20mouse%20genome%20to%20drive%20post-meiotic%20germ%20cell-specific%20robust%20gene%20expression%20for%20functional%20genomics%20studies%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "The generation of spermatozoa from developing germ cells through mitotic and meiotic divisions is a highly regulated and complex process. Any defect in this process, may lead to subfertility/infertility. The role of different transcripts (mRNA/miRNA/lncRNA) in regulation of the pre-meiotic, meiotic, and post-meiotic stages of spermatogenesis are being proposed based on various multiomics based approaches. Such differential gene-expression is regulated by promoter elements that are activated in a stage specific manner. To determine the role of these differentially expressed transcripts in the process of meiosis, a robust post-meiotic germ cell specific promoter is required. In the present study, we have isolated and characterized the expression of the mouse Proacrosin, SP10, and ELP promoters for driving post-meiotic germ cell specific gene-expression. Promoter regions of all these 3 genes were isolated and cloned to generate mammalian expression vector. The transgene expression in post-meiotic germ cells was assessed in mice using the testicular electroporation method in vitro as well as in vivo, using above promoters. It was also validated in goat seminiferous tubules, in vitro. We have also carried out a comparative analysis of the strength of these promoters to confirm their robustness that indicated Proacrosin to be the most robust promoter that can be useful for diving post-meiotic germ cells specific gene-expression. These promoters can be used to alter gene-expression specifically in post-meiotic germ cells for deciphering the role(s) of germ cell genes in spermatogenic progression or for expressing various genome editing tools for engineering the germ cell genome to understand basis of subfertility/infertility.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "36899741",
+      "title": "Non-Synonymous Variants in Fat QTL Genes among High- and Low-Milk-Yielding Indigenous Breeds.",
+      "authors": [
+        "Neelam A Topno",
+        "Veerbhan Kesarwani",
+        "Sandeep Kumar Kushwaha",
+        "Sarwar Azam",
+        "Mohammad Kadivella",
+        "Ravi Kumar Gandham",
+        "Subeer S Majumdar"
+      ],
+      "year": "2023",
+      "journal": "Animals : an open access journal from MDPI",
+      "doi": "10.3390/ani13050884",
+      "doi_link": "https://doi.org/10.3390/ani13050884",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36899741",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Non-Synonymous%20Variants%20in%20Fat%20QTL%20Genes%20among%20High-%20and%20Low-Milk-Yielding%20Indigenous%20Breeds%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "The effect of breed on milk components-fat, protein, lactose, and water-has been observed to be significant. As fat is one of the major price-determining factors for milk, exploring the variations in fat QTLs across breeds would shed light on the variable fat content in their milk. Here, on whole-genome sequencing, 25 differentially expressed hub or bottleneck fat QTLs were explored for variations across indigenous breeds. Out of these, 20 genes were identified as having nonsynonymous substitutions. A fixed SNP pattern in high-milk-yielding breeds in comparison to low-milk-yielding breeds was identified in the genes ",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "36853003",
+      "title": "Use of an Integrated Multi-Omics Approach To Identify Molecular Mechanisms and Critical Factors Involved in the Pathogenesis of Leptospira",
+      "authors": [
+        "Sridhar Kavela",
+        "Pallavi Vyas",
+        "Jusail Cp",
+        "Sandeep K Kushwaha",
+        "Subeer S Majumdar",
+        "Syed M Faisal"
+      ],
+      "year": "2023",
+      "journal": "Microbiology spectrum",
+      "doi": "10.1128/spectrum.03135-22",
+      "doi_link": "https://doi.org/10.1128/spectrum.03135-22",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36853003",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Use%20of%20an%20Integrated%20Multi-Omics%20Approach%20To%20Identify%20Molecular%20Mechanisms%20and%20Critical%20Factors%20Involved%20in%20the%20Pathogenesis%20of%20Leptospira%22",
+      "citations": {
+        "crossref": 5
+      },
+      "abstract": "Leptospirosis, a bacterial zoonosis caused by pathogenic Leptospira spp., is prevalent worldwide and has become a serious threat in recent years. Limited understanding of Leptospira pathogenesis and host response has hampered the development of effective vaccine and diagnostics. Although Leptospira is phagocytosed by innate immune cells, it resists its destruction, and the evading mechanism involved is unclear. In the present study, we used an integrative multi-omics approach to identify the critical molecular factors of Leptospira involved in pathogenesis during interaction with human macrophages. Transcriptomic and proteomic analyses were performed at 24 h postinfection of human macrophages (phorbol-12-myristate-13-acetate differentiated THP-1 cells) with the pathogenic Leptospira interrogans serovar Icterohaemorrhagiae strain RGA (LEPIRGA). Our results identified a total of 1,528 transcripts and 871 proteins that were significantly expressed with an adjusted P value of <0.05. The correlations between the transcriptomic and proteomic data were above average (r = 0.844), suggesting the role of the posttranscriptional processes during host interaction. The conjoint analysis revealed the expression of several virulence-associated proteins such as adhesins, invasins, and secretory and chemotaxis proteins that might be involved in various processes of attachment and invasion and as effectors during pathogenesis in the host. Further, the interaction of bacteria with the host cell (macrophages) was a major factor in the differential expression of these proteins. Finally, eight common differentially expressed RNA-protein pairs, predicted as virulent, outer membrane/extracellular proteins were validated by quantitative PCR. This is the first report using integrated multi-omics approach to identify critical factors involved in Leptospira pathogenesis. Validation of these critical factors may lead to the identification of target antigens for the development of improved diagnostics and vaccines against leptospirosis. IMPORTANCE Leptospirosis is a zoonotic disease of global importance. It is caused by a Gram-negative bacterial spirochete of the genus Leptospira. The current challenge is to detect the infection at early stage for treatment or to develop potent vaccines that can induce cross-protection against various pathogenic serovars. Understanding host-pathogen interactions is important to identify the critical factors involved in pathogenesis and host defense for developing improved vaccines and diagnostics. Utilizing an integrated multi-omics approach, our study provides important insight into the interaction of Leptospira with human macrophages and identifies a few critical factors (such as virulence-associated proteins) involved in pathogenesis. These factors can be exploited for the development of novel tools for the detection, treatment, or prevention of leptospirosis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "35917434",
+      "title": "Loss of HOXA10 causes endometrial hyperplasia progressing to endometrial cancer.",
+      "authors": [
+        "Anuradha Mishra",
+        "Nirmalya Ganguli",
+        "Subeer S Majumdar",
+        "Deepak Modi"
+      ],
+      "year": "2022",
+      "journal": "Journal of molecular endocrinology",
+      "doi": "10.1530/JME-22-0051",
+      "doi_link": "https://doi.org/10.1530/JME-22-0051",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35917434",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Loss%20of%20HOXA10%20causes%20endometrial%20hyperplasia%20progressing%20to%20endometrial%20cancer%22",
+      "citations": {
+        "semantic_scholar": 8
+      },
+      "abstract": "Endometrial cancer is the fourth most common malignancy in women and the precursor lesion is endometrial hyperplasia. HOXA10 is a transcription factor that plays key roles in endometrial functions such as the endowment of receptivity, embryo implantation, and trophoblast invasion. Herein, using testicular transgenesis, we developed transgenic mice that expressed a shRNA against HOXA10 and there was a nearly 70% reduction in the expression of HOXA10 in these animals. We observed that downregulation of HOXA10 led to the development of endometrial hyperplasia in the young animals (3 months), and as they aged (>1 year), most animals developed well-differentiated endometrial adenocarcinoma. In the endometrium of animals with reduced HOXA10, there was increased proliferation and elevated levels of ERα and ERβ. In parallel, there was increased expression of Wnt4 and β-Catenin, SOX9, and YAP1. We propose that chronic reduction in HOXA10 expression disrupts multiple pathways in the uterus that aids in the development of endometrial hyperplasia which progresses to endometrial cancer with age.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "35896515",
+      "title": "Anhydride chemistry-based hexanoylation of polyethylenimine increases transfection efficiency and expression of tagged DNA for therapeutic proteins in cultured cells.",
+      "authors": [
+        "Goutam Ulgekar",
+        "Dilpreet Kaur",
+        "Venkateswaran Ganesan",
+        "Souvik Sen Sharma",
+        "Nirmalya Ganguli",
+        "Subeer S Majumdar"
+      ],
+      "year": "2022",
+      "journal": "Biotechnology and bioengineering",
+      "doi": "10.1002/bit.28196",
+      "doi_link": "https://doi.org/10.1002/bit.28196",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35896515",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Anhydride%20chemistry-based%20hexanoylation%20of%20polyethylenimine%20increases%20transfection%20efficiency%20and%20expression%20of%20tagged%20DNA%20for%20therapeutic%20proteins%20in%20cultured%20cells%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "Transfection of nucleic acid molecules into mammalian cells can be facilitated using viral vectors, electroporation, or biocompatible cationic materials. However, safety issues and the requirement of specialized equipment limits the use of viral vectors and physical methods of transfection like electroporation and microinjection, respectively. Biocompatible cationic lipids and polymers like branched-polyethyleneimine (bPEI) have a wide transfection range and are user-friendly in most applications. However, bPEI exhibits low transfection efficiency in most cell types. In the present work, we have crosslinked the hexanoyl group to bPEI using anhydride chemistry to enhance its efficiency as a transfection reagent. The efficient association of hexanoyl group to bPEI was assessed using Fourier-transform infrared spectroscopy and other physicochemical methods. Hexanoyl-modified bPEI (FA6-bPEI) was found to exhibit significantly enhanced transfection efficiency in both cell lines and cultured primary cells, as compared to native bPEI and the commercially available transfection reagent, Lipofectamine 3000. Furthermore, our in vitro studies indicated that FA6-bPEI can be used for robust transfection for increased production of therapeutic proteins in a cell culture-based system. These results suggested that hexanoyl-modified bPEI can serve as an efficient transfection reagent for studies on hard-to-transfect cells and for enhanced production of therapeutic proteins in vitro.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "35181820",
+      "title": "Follicle-stimulating hormone-mediated decline in miR-92a-3p expression in pubertal mice Sertoli cells is crucial for germ cell differentiation and fertility.",
+      "authors": [
+        "Alka Gupta",
+        "Amandeep Vats",
+        "Anindita Ghosal",
+        "Kamal Mandal",
+        "Rajesh Sarkar",
+        "Indrashis Bhattacharya",
+        "Sanjeev Das",
+        "Rahul Pal",
+        "Subeer S Majumdar"
+      ],
+      "year": "2022",
+      "journal": "Cellular and molecular life sciences : CMLS",
+      "doi": "10.1007/s00018-022-04174-9",
+      "doi_link": "https://doi.org/10.1007/s00018-022-04174-9",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35181820",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Follicle-stimulating%20hormone-mediated%20decline%20in%20miR-92a-3p%20expression%20in%20pubertal%20mice%20Sertoli%20cells%20is%20crucial%20for%20germ%20cell%20differentiation%20and%20fertility%22",
+      "citations": {
+        "semantic_scholar": 18
+      },
+      "abstract": "Sertoli cells (Sc) are the sole target of follicle-stimulating hormone (FSH) in the testis and attain functional maturation post-birth to significantly augment germ cell (Gc) division and differentiation at puberty. Despite having an operational microRNA (miRNA) machinery, limited information is available on miRNA-mediated regulation of Sc maturation and male fertility. We have shown before that miR-92a-3p levels decline in pubertal rat Sc. In response to FSH treatment, the expressions of FSH Receptor, Claudin11 and Klf4 were found to be elevated in pubertal rat Sc coinciding with our finding of FSH-induced decline in miR-92a-3p levels. To investigate the association of miR-92a-3p and spermatogenesis, we generated transgenic mice where such pubertal decline of miR-92a-3p was prevented by its overexpression in pubertal Sc under proximal Rhox5 promoter, which is known to be activated specifically at puberty, in Sc. Our in vivo observations provided substantial evidence that FSH-induced decline in miR-92a-3p expression during Sc maturation acts as an essential prerequisite for the pubertal onset of spermatogenesis. Elevated expression of miR-92a-3p in post-pubertal testes results into functionally compromised Sc, leading to impairment of the blood-testis barrier formation and apoptosis of pre-meiotic Gc, ultimately culminating into infertility. Collectively, our data suggest that regulation of miR-92a-3p expression is crucial for Sc-mediated induction of active spermatogenesis at puberty and regulation of male fertility.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "34513304",
+      "title": "Declining levels of miR-382-3p at puberty trigger the onset of spermatogenesis.",
+      "authors": [
+        "Alka Gupta",
+        "Kamal Mandal",
+        "Parminder Singh",
+        "Rajesh Sarkar",
+        "Subeer S Majumdar"
+      ],
+      "year": "2021",
+      "journal": "Molecular therapy. Nucleic acids",
+      "doi": "10.1016/j.omtn.2021.07.001",
+      "doi_link": "https://doi.org/10.1016/j.omtn.2021.07.001",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34513304",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Declining%20levels%20of%20miR-382-3p%20at%20puberty%20trigger%20the%20onset%20of%20spermatogenesis%22",
+      "citations": {
+        "crossref": 9
+      },
+      "abstract": "A major change in the transcriptome of testicular Sertoli cells (Scs) at the onset of puberty enables them to induce robust spermatogenesis. Through comprehensive literature mining, we generated a list of genes crucial for Sc functioning and computationally predicted the microRNAs regulating them. Differential expression analysis of microRNAs in infant and pubertal rat Scs showed that miR-382-3p levels decline significantly in pubertal Scs. Interestingly, miR-382-3p was found to regulate genes like Ar and Wt1, which are crucial for functional competence of Scs. We generated a transgenic (Tg) mouse model in which pubertal decline of miR-382-3p was prevented by its overexpression in pubertal Scs. Elevated miR-382-3p restricted the functional maturation of Scs at puberty, leading to infertility. Prevention of decline in miR-382-3p expression in pubertal Scs was responsible for defective blood-testis barrier (BTB) formation, severe testicular defects, low epididymal sperm counts and loss of fertility in these mice. This provided substantial evidence that decline in levels of miR-382-3p at puberty is the essential trigger for onset of robust spermatogenesis at puberty. Hence, sustained high levels of miR-382-3p in pubertal Scs could be one of the underlying causes of idiopathic male infertility and should be considered for diagnosis and treatment of infertility.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "34436976",
+      "title": "An easy method for developing fusion enabled SARS-CoV2 virus fusion mimic (SCFM), bypassing the need of Bio Safety Level (BSL) facility.",
+      "authors": [
+        "Abhishek Das",
+        "Satarupa Dutta",
+        "Dewanshu Sharma",
+        "Amit Pal",
+        "Nirmalya Ganguli",
+        "Subeer S Majumdar"
+      ],
+      "year": "2021",
+      "journal": "Bioengineered",
+      "doi": "10.1080/21655979.2021.1955509",
+      "doi_link": "https://doi.org/10.1080/21655979.2021.1955509",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34436976",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22An%20easy%20method%20for%20developing%20fusion%20enabled%20SARS-CoV2%20virus%20fusion%20mimic%20%28SCFM%29%2C%20bypassing%20the%20need%20of%20Bio%20Safety%20Level%20%28BSL%29%20facility%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "Widespread infection due to severe acute respiratory syndrome coronavirus 2 (SARS-CoV2) has led to a global pandemic. Currently, various approaches are being taken up to develop vaccines and therapeutics to treat SARS-CoV2 infection. Consequently, the S protein has become an important target protein for developing vaccines and therapeutics against SARS-CoV2. However, the highly infective nature of SARS-CoV2 restricts experimentation with the virus to highly secure BSL3 facilities. The availability of fusion-enabled, nonreplicating, and nonbiohazardous mimics of SARS-CoV2 virus fusion, containing the viral S or S and M protein in their native conformation on mammalian cells, can serve as a useful substitute for studying viral fusion for testing various inhibitors of viral fusion. This would avoid the use of the BSL3 facility for fusion studies required to develop therapeutics. In the present study, we have developed SARS-CoV2 virus fusion mimics (SCFMs) using mammalian cells transfected with constructs coding for S or S and M protein. The fusogenic property of the mimic(s) and their interaction with the functional human ACE2 receptors was confirmed experimentally. We have also shown that such mimics can easily be used in an inhibition assay. These mimic(s) can be easily prepared on a large scale, and such SCFMs can serve as an invaluable resource for viral fusion inhibition assays and in vitro screening of antiviral agents, which can be shared/handled between labs/facilities without worrying about any biohazard while working under routine laboratory conditions, avoiding the use of BSL3 laboratory.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "34237428",
+      "title": "FSH mediated cAMP signalling upregulates the expression of Gα subunits in pubertal rat Sertoli cells.",
+      "authors": [
+        "Indrashis Bhattacharya",
+        "Souvik Sen Sharma",
+        "Hironmoy Sarkar",
+        "Alka Gupta",
+        "Bhola Shankar Pradhan",
+        "Subeer S Majumdar"
+      ],
+      "year": "2021",
+      "journal": "Biochemical and biophysical research communications",
+      "doi": "10.1016/j.bbrc.2021.06.094",
+      "doi_link": "https://doi.org/10.1016/j.bbrc.2021.06.094",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34237428",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22FSH%20mediated%20cAMP%20signalling%20upregulates%20the%20expression%20of%20G%CE%B1%20subunits%20in%20pubertal%20rat%20Sertoli%20cells%22",
+      "citations": {
+        "semantic_scholar": 6
+      },
+      "abstract": "Follicle Stimulating Hormone (FSH) acts via FSH-Receptor (FSH-R) by employing cAMP as the dominant secondary messenger in testicular Sertoli cells (Sc) to support spermatogenesis. Binding of FSH to FSH-R, results the recruitment of the intracellular GTP binding proteins, either stimulatory Gαs or inhibitory Gαi that in turn regulate cAMP production in Sc. The cytosolic concentration of cAMP being generated by FSH-R thereafter critically determines the downstream fate of the FSH signalling. The pleiotropic action of FSH due to differential cAMP output during functional maturation of Sc has been well studied. However, the developmental and cellular regulation of the Gα proteins associated with FSH-R is poorly understood in Sc. In the present study, we report the differential transcriptional modulation of the Gα subunit genes by FSH mediated cAMP signalling in neonatal and pubertal rat Sc. Our data suggested that unlike in neonatal Sc, both the basal and FSH/forskolin induced expression of Gαs, Gαi-1, Gαi-2 and Gαi-3 transcripts was significantly (p < 0.05) up-regulated in pubertal Sc. Further investigations involving treatment of Sc with selective Gαi inhibitor pertussis toxin, confirmed the elevated expression of Gi subunits in pubertal Sc. Collectively our results indicated that the high level of Gαi subunits serves as a negative regulator to optimize cAMP production in pubertal Sc.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "33847415",
+      "title": "Generation of a tissue-specific transgenic model for K8 phosphomutants: A tool to investigate the role of K8 phosphorylation during skin carcinogenesis in vivo.",
+      "authors": [
+        "Richa Tiwari",
+        "Nirmalya Ganguli",
+        "Hunain Alam",
+        "Indrajit Sahu",
+        "Chella Krishna Vadivel",
+        "Shruti Sinha",
+        "Shweta Patel",
+        "Sayli Nitin Jamghare",
+        "Sanjay Bane",
+        "Rahul Thorat",
+        "Subeer S Majumdar",
+        "Milind M Vaidya"
+      ],
+      "year": "2021",
+      "journal": "Cell biology international",
+      "doi": "10.1002/cbin.11611",
+      "doi_link": "https://doi.org/10.1002/cbin.11611",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33847415",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Generation%20of%20a%20tissue-specific%20transgenic%20model%20for%20K8%20phosphomutants%3A%20A%20tool%20to%20investigate%20the%20role%20of%20K8%20phosphorylation%20during%20skin%20carcinogenesis%20in%20vivo%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "Keratin 8/18, the predominant keratin pair of simple epithelia, is known to be aberrantly expressed in several squamous cell carcinomas (SCCs), where its expression is often correlated with increased invasion, neoplastic progression, and poor prognosis. The majority of keratin 8/18 structural and regulatory functions are governed by posttranslational modifications, particularly phosphorylation. Apart from filament reorganization, cellular processes including cell cycle, cell growth, cellular stress, and apoptosis are known to be orchestrated by K8 phosphorylation at specific residues in the head and tail domains. Even though deregulation of K8 phosphorylation at two significant sites (Serine73 /Serine431 ) has been implicated in neoplastic progression of SCCs by various in vitro studies, including ours, it is reported to be highly context-dependent. Therefore, to delineate the precise role of Kereatin 8 phosphorylation in cancer initiation and progression, we have developed the tissue-specific transgenic mouse model expressing Keratin 8 wild type and phosphodead mutants under Keratin 14 promoter. Subjecting these mice to 7,12-dimethylbenz(a)anthracene/12-O-tetradecanoylphorbol-13-acetate-mediated skin carcinogenesis revealed that Keratin 8 phosphorylation may lead to an early onset of tumors compared to Keratin 8 wild-type expressing mice. Conclusively, the transgenic mouse model developed in the present study ascertained a positive impact of Keratin 8 phosphorylation on the neoplastic transformation of skin-squamous cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "33359696",
+      "title": "Increase in PPARγ inhibitory phosphorylation by Fetuin-A through the activation of Ras-MEK-ERK pathway causes insulin resistance.",
+      "authors": [
+        "Snehasis Das",
+        "Dipanjan Chattopadhyay",
+        "Subhendu K Chatterjee",
+        "Samim Ali Mondal",
+        "Subeer S Majumdar",
+        "Satinath Mukhopadhyay",
+        "Nirmalendu Saha",
+        "Ravichandiran Velayutham",
+        "Samir Bhattacharya",
+        "Sutapa Mukherjee"
+      ],
+      "year": "2021",
+      "journal": "Biochimica et biophysica acta. Molecular basis of disease",
+      "doi": "10.1016/j.bbadis.2020.166050",
+      "doi_link": "https://doi.org/10.1016/j.bbadis.2020.166050",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33359696",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Increase%20in%20PPAR%CE%B3%20inhibitory%20phosphorylation%20by%20Fetuin-A%20through%20the%20activation%20of%20Ras-MEK-ERK%20pathway%20causes%20insulin%20resistance%22",
+      "citations": {
+        "semantic_scholar": 20
+      },
+      "abstract": "Obesity induced insulin resistance is primarily regulated by the inhibitory phosphorylation of peroxisome proliferator-activated receptor γ at serine 273 (PPARγS273) which has been shown to be regulated by MEK and ERK. An upstream regulatory molecule of this pathway could be a therapeutic option. Here we analyzed the involvement of Fetuin-A (FetA), a key hepato-adipokine implicated in insulin resistance, as an upstream regulator molecule for the regulation of PPARγ inhibitory phosphorylation. Mice fed with standard diet (SD), high fat diet (HFD) and HFD with FetA knockdown (HFD-FetAKD) were used to examine the role of FetA on PPARγS273 phosphorylation in adipocytes. The mechanism of regulation and its effect on skeletal muscle were studied using primary adipocytes, 3T3-L1 (preadipocyte) and C2C12 (myotube) cell lines. Increased FetA in HFD mice strongly correlated with augmentation of PPARγS273 phosphorylation in inflamed adipocytes while knockdown of FetA suppressed it. This effect of FetA was mediated through the activation of Ras which in turn activated MEK and ERK. On addressing how FetA could stimulate activation of Ras, we found that FetA triggered TNFα in inflamed adipocytes which induced Ras activation. The ensuing sharp fall in adiponectin level attenuated AMPK activation in skeletal muscle cells affecting mitochondrial ATP production. Our data reveal the essential role of FetA induced activation of Ras in regulating PPARγ inhibitory phosphorylation through Ras-MEK-ERK pathway which downregulates adiponectin disrupting skeletal muscle mitochondrial bioenergetics. Thus, FetA mediated PPARγ inactivation has adverse consequences upon adipocyte-myocyte crosstalk leading to disruption of energy homeostasis and loss of insulin sensitivity.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "33145986",
+      "title": "Homeobox transcription factor Meis1 is crucial to Sertoli cell mediated regulation of male fertility.",
+      "authors": [
+        "Rajesh K Sarkar",
+        "Souvik Sen Sharma",
+        "Kamal Mandal",
+        "Neerja Wadhwa",
+        "Neetu Kunj",
+        "Alka Gupta",
+        "Rahul Pal",
+        "Umesh Rai",
+        "Subeer S Majumdar"
+      ],
+      "year": "2021",
+      "journal": "Andrology",
+      "doi": "10.1111/andr.12941",
+      "doi_link": "https://doi.org/10.1111/andr.12941",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33145986",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Homeobox%20transcription%20factor%20Meis1%20is%20crucial%20to%20Sertoli%20cell%20mediated%20regulation%20of%20male%20fertility%22",
+      "citations": {
+        "semantic_scholar": 9
+      },
+      "abstract": "BACKGROUND: Infertility has become a global phenomenon and constantly declining sperm count in males in modern world pose a major threat to procreation of humans. Male fertility is critically dependent on proper functioning of testicular Sertoli cells. Defective Sertoli cell proliferation and/or impaired functional maturation may be one of the underlying causes of idiopathic male infertility. Using high-throughput \"omics\" approach, we found binding sites for homeobox transcription factor MEIS1 on the promoters of several genes up-regulated in pubertal (mature) Sertoli cells, indicating that MEIS1 may be crucial for Sertoli cell-mediated regulation of spermatogenesis at and after puberty. OBJECTIVE: To decipher the role of transcription factor MEIS1 in Sertoli cell maturation and spermatogenesis. MATERIALS AND METHODS: Sc-specific Meis1 knockdown (KD) transgenic mice were generated using pronuclear microinjection. Morphometric and histological analysis of the testes from transgenic mice was performed to identify defects in spermatogenesis. Epididymal sperm count and litter size were analyzed to determine the effect of Meis1 knockdown on fertility. RESULTS: Sertoli cell (Sc)-specific Meis1 KD led to massive germ cell loss due to apoptosis and impaired spermatogenesis. Unlike normal pubertal Sc, the levels of SOX9 in pubertal Sc of Meis1 KD were significantly high, like immature Sc. A significant reduction in epididymal sperm count was observed in these mice. The mice were found to be infertile or sub-fertile (with reduced litter size), depending on the extent of Meis1 inhibition. DISCUSSION: The results of this study demonstrated for the first time, a role of Meis1 in Sc maturation and normal spermatogenic progression. Inhibition of Meis1 in Sc was associated with deregulated spermatogenesis and a consequent decline in fertility of the transgenic mice. CONCLUSIONS: Our results provided substantial evidence that suboptimal Meis1 expression in Sc may be one of the underlying causes of idiopathic infertility.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 20,
+    "publications_by_year": {
+      "2025": 3,
+      "2024": 6,
+      "2023": 2,
+      "2022": 3,
+      "2021": 6
+    },
+    "top_journals": [
+      "Communications biology",
+      "Cells",
+      "Journal of animal science and biotechnology",
+      "Veterinary world",
+      "Archives of microbiology"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 66,
+      "frequent_collaborators": [
+        "Subeer S Majumdar",
+        "Nirmalya Ganguli",
+        "Souvik Sen Sharma",
+        "Ravi Kumar Gandham",
+        "Kamal Mandal",
+        "Abhisek Sahu",
+        "Naveen Kumar Pandey",
+        "Mahesh Neupane"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "38036863",
+        "title": "Etiology of Male Infertility: an Update.",
+        "citations": 30,
+        "year": "2024"
+      }
+    ]
+  }
+}

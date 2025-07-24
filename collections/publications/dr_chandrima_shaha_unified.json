@@ -1,0 +1,1110 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Chandrima Shaha",
+    "email": "cshaha@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/former-faculty/dr-chandrima-shaha",
+    "research_domain": "Former",
+    "faculty_status": "former",
+    "search_date": "2025-07-01T14:34:28.520763",
+    "total_publications": 47,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Chandrima Shaha, former faculty in Former at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "40134281",
+      "title": "Plant-derived products as anti-leishmanials which target mitochondria: a review.",
+      "authors": [
+        "Chandrima Shaha"
+      ],
+      "year": "2025",
+      "journal": "Expert reviews in molecular medicine",
+      "doi": "10.1017/erm.2025.8",
+      "doi_link": "https://doi.org/10.1017/erm.2025.8",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40134281",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Plant-derived%20products%20as%20anti-leishmanials%20which%20target%20mitochondria%3A%20a%20review%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "BACKGROUND: The global incidences of leishmaniasis are increasing due to changing environmental conditions and growing poverty. Leishmaniasis, caused by the parasitic protozoan Leishmania species, affects millions of people worldwide. Current treatments face challenges including drug resistance, toxicity, and high cost. SEARCH RESULTS: These compounds have shown promising effects in eliminating the parasites by targeting mitochondrial functions, which are essential for parasite survival. Plant-derived products offer advantages such as lower toxicity, cost-effectiveness, and accessibility in endemic regions. CONCLUSIONS: Therefore, plant-based compounds hold promise as potential candidates for anti-leishmanial drug development.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "38101194",
+      "title": "Corrigendum to \"Apoptotic effects of mahanine on human leukemic cells are mediated through crosstalk between Apo-1/Fas signaling and the Bid protein and via mitochondrial pathways\" [Biochem. Pharmacol. 79 (2010) 361-372].",
+      "authors": [
+        "Kaushik Bhattacharya",
+        "Suman K Samanta",
+        "Rakshamani Tripathi",
+        "Asish Mallick",
+        "Sarmila Chandra",
+        "Bikas C Pal",
+        "Chandrima Shaha",
+        "Chitra Mandal"
+      ],
+      "year": "2024",
+      "journal": "Biochemical pharmacology",
+      "doi": "10.1016/j.bcp.2023.115970",
+      "doi_link": "https://doi.org/10.1016/j.bcp.2023.115970",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38101194",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Corrigendum%20to%20%22Apoptotic%20effects%20of%20mahanine%20on%20human%20leukemic%20cells%20are%20mediated%20through%20crosstalk%20between%20Apo-1/Fas%20signaling%20and%20the%20Bid%20protein%20and%20via%20mitochondrial%20pathways%22%20%5BBiochem.%20Pharmacol.%2079%20%282010%29%20361-372%5D%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "36073913",
+      "title": "A Novel Role of Secretory Cytosolic Tryparedoxin Peroxidase in Delaying Apoptosis of Leishmania-Infected Macrophages",
+      "authors": [
+        "Sanchita Das",
+        "Tanaya Saha",
+        "Savita Yadav",
+        "Chandrima Shaha"
+      ],
+      "year": "2022",
+      "journal": "Molecular and cellular biology",
+      "doi": "10.1128/mcb.00081-22",
+      "doi_link": "https://doi.org/10.1128/mcb.00081-22",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36073913",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20Novel%20Role%20of%20Secretory%20Cytosolic%20Tryparedoxin%20Peroxidase%20in%20Delaying%20Apoptosis%20of%20Leishmania-Infected%20Macrophages%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "The cytosolic tryparedoxin peroxidase (cTXNPx) of Leishmania donovani is a defensive enzyme. Apart from the nonsecretory form, the cTXNPx is released in the spent media of Leishmania cultures and also in the host cell cytosol. The secretory form of the enzyme from the parasite interacts with multiple proteins in the host cell cytosol, the apoptosis-inducing factor (AIF) being one of them. Immunoprecipitation with anti-cTXNPx and anti-AIF antibodies suggests a strong interaction between AIF and cTXNPx. Consequent to parasite invasion, the migration of AIF to the nucleus to precipitate apoptosis is inhibited in the presence of recombinant cTXNPx expressed in the host cell. This inhibition of AIF movement results in lesser host cell death, giving an advantage to the parasite for continued survival. Staurosporine-induced AIF migration to the nucleus was also inhibited in the presence of recombinant cTXNPx in the host cell. Therefore, this study demonstrates the ability of a Leishmania parasite enzyme, cTXNPx, to interfere with the migration of the host AIF protein, providing a survival advantage to the Leishmania parasite.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "34395309",
+      "title": "Tissue/Biofluid Specific Molecular Cartography of Leishmania donovani Infected BALB/c Mice: Deciphering Systemic Reprogramming",
+      "authors": [
+        "Sanchita Das",
+        "Tanaya Saha",
+        "Chandrima Shaha"
+      ],
+      "year": "2021",
+      "journal": "Frontiers in cellular and infection microbiology",
+      "doi": "10.3389/fcimb.2021.694470",
+      "doi_link": "https://doi.org/10.3389/fcimb.2021.694470",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34395309",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Tissue/Biofluid%20Specific%20Molecular%20Cartography%20of%20Leishmania%20donovani%20Infected%20BALB/c%20Mice%3A%20Deciphering%20Systemic%20Reprogramming%22",
+      "citations": {
+        "crossref": 4
+      },
+      "abstract": "Pathophysiology of visceral leishmaniasis (VL) is not fully understood and it has been widely accepted that the parasitic components and host immune response both contribute to the perpetuation of the disease. Host alterations during leishmaniasis is a feebly touched area that needs to be explored more to better understand the VL prognosis and diagnosis, which are vital to reduce mortality and post-infection sequelae. To address this, we performed untargeted metabolomics of Leishmania donovani (Ld) infected, uninfected and treated BALB/c mice's tissues and biofluids to elucidate the host metabolome changes using gas chromatography-mass spectrometry. Univariate and multivariate data treatments provided numerous significant differential hits in several tissues like the brain, liver, spleen and bone marrow. Differential modulations were also observed in serum, urine and fecal samples of Ld-infected mice, which could be further targeted for biomarker and diagnostic validations. Several metabolic pathways were found to be upregulated/downregulated in infected (TCA, glycolysis, fatty acids, purine and pyrimidine, etcetera) and treated (arginine, fumaric acid, orotic acid, choline succinate, etcetera) samples. Results also illustrated several metabolites with different pattern of modulations in control, infected and treated samples as well as in different tissues/biofluids; for e.g. glutamic acid identified in the serum samples of infected mice. Identified metabolites include a range of amino acids, saccharides, energy-related molecules, etcetera. Furthermore, potential biomarkers have been identified in various tissues-arginine and fumaric acid in brain, choline in liver, 9-(10) EpOME in spleen and bone marrow, N-acetyl putrescine in bone marrow, etcetera. Among biofluids, glutamic acid in serum, hydrazine and deoxyribose in urine and 3-Methyl-2-oxo pentanoic acid in feces are some of the potential biomarkers identified. These metabolites could be further looked into for their role in disease complexity or as a prognostic marker. The presented profiling approach allowed us to attain a metabolic portrait of the individual tissue/biofluid modulations during VL in the host and represent a valuable system readout for further studies. Our outcomes provide an improved understanding of perturbations of the host metabolome interface during VL, including identification of many possible potential diagnostic and therapeutic targets.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "32891601",
+      "title": "Halictine-2 antimicrobial peptide shows promising anti-parasitic activity against Leishmania spp.",
+      "authors": [
+        "Durgesh Manohar Pitale",
+        "Gagandeep Kaur",
+        "Madhu Baghel",
+        "Kanwal J Kaur",
+        "Chandrima Shaha"
+      ],
+      "year": "2020",
+      "journal": "Experimental parasitology",
+      "doi": "10.1016/j.exppara.2020.107987",
+      "doi_link": "https://doi.org/10.1016/j.exppara.2020.107987",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32891601",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Halictine-2%20antimicrobial%20peptide%20shows%20promising%20anti-parasitic%20activity%20against%20Leishmania%20spp%22",
+      "citations": {
+        "crossref": 19
+      },
+      "abstract": "The protozoan parasite Leishmania spp. causes leishmaniases, a group of diseases creating serious health problems in many parts of the world with significant resistance to existing drugs. Insect derived antimicrobial peptides are promising alternatives to conventional drugs against several human disease-causing pathogens because they do not generate resistance. Halictine-2, a novel antimicrobial peptide from the venom of eusocial honeybee, Halictus sexcinctus showed significant anti-leishmanial activity in vitro, towards two life forms of the dimorphic parasite, the free-swimming infective metacyclic promastigotes and the intracellular amastigotes responsible for the systemic infection. The anti-leishmanial activity of the native peptide (P5S) was significantly enhanced by serine to threonine substitution at position 5 (P5T). The peptide showed a propensity to form α-helices after substitution at position-5, conferring amphipathicity. Distinct pores observed on the promastigote membrane after P5T exposure suggested a mechanism of disruption of cellular integrity. Biochemical alterations in the promastigotes after P5T exposure included generation of increased oxygen radicals with mitochondrial Ca2+ release, loss of mitochondrial membrane potential, reduction in total ATP content and increased mitochondrial mass, resulting in quick bioenergetic and chemiosmotic collapse leading to cell death characterized by DNA fragmentation. P5T was able to reduce intracellular amastigote burden in an in vitro model of Leishmania infection but did not alter the proinflammatory cytokines like TNF-α and IL-6. The ability of the P5T peptide to kill the Leishmania parasite with negligible haemolytic activity towards mouse macrophages and human erythrocytes respectively, demonstrates its potential to be considered as a future antileishmanial drug candidate.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "32888126",
+      "title": "Sestrins: Darkhorse in the regulation of mitochondrial health and metabolism.",
+      "authors": [
+        "Ashish Kumar",
+        "Deepshikha Dhiman",
+        "Chandrima Shaha"
+      ],
+      "year": "2020",
+      "journal": "Molecular biology reports",
+      "doi": "10.1007/s11033-020-05769-w",
+      "doi_link": "https://doi.org/10.1007/s11033-020-05769-w",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32888126",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Sestrins%3A%20Darkhorse%20in%20the%20regulation%20of%20mitochondrial%20health%20and%20metabolism%22",
+      "citations": {
+        "semantic_scholar": 13
+      },
+      "abstract": "Every disease is an outcome of one or more stress signals which get convened at the interface of the mitochondria. Mitochondria and metabolism are inextricably anchored to each other and a disruption in either can result in the generation of stressors, which can lead to detrimental health consequences. Stowing everything in one frame reflects that the proteins involved in the sensing of stressors are fundamental for the initiation of various pathologies and their detailed study is necessary for proper understanding of disease mechanisms. Sestrins, a class of evolutionarily conserved, stress inducible genes are activated by a wide range of stressors such as oxidative, genotoxic, and metabolic and play a role in cellular homeostasis. In addition, recent reports have highlighted their importance in governing the mitochondrial dynamics and metabolism. However, their spectrum of involvement in various pathologies has not been dissected out very well. This review will focus and discuss the role of Sestrins mainly Sestrin2 and associated nexus in the context of mitochondria, metabolism, and health.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "31649242",
+      "title": "Leishmania donovani parasite requires Atg8 protein for infectivity and survival under stress.",
+      "authors": [
+        "Sagnik Giri",
+        "Chandrima Shaha"
+      ],
+      "year": "2019",
+      "journal": "Cell death & disease",
+      "doi": "10.1038/s41419-019-2038-7",
+      "doi_link": "https://doi.org/10.1038/s41419-019-2038-7",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31649242",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Leishmania%20donovani%20parasite%20requires%20Atg8%20protein%20for%20infectivity%20and%20survival%20under%20stress%22",
+      "citations": {
+        "crossref": 29
+      },
+      "abstract": "The importance of autophagy in parasites with a digenetic life cycle like Leishmania spp. is significant. The parasite survives as promastigotes in the insect gut and as immotile amastigotes in mammals. This study demonstrates increased autophagy in Leishmania parasite during progression of in vitro life cycle and upon exposure to stress stimuli like starvation, oxidative stress, and drugs. Autophagy inhibition during stress exposure increased cell death, indicating the importance of autophagy in cellular defense against adverse conditions. Atg8 protein, a homolog of mammalian autophagy protein LC3 is expressed in Leishmania parasite but its function remains unknown. Overexpression of Atg8 (Atg8-OE) rendered the parasites resistant to stress and capable of infecting macrophages in substantial numbers; however, disruption of the Atg8 gene (ΔAtg8) resulting in suppression of Atg8 protein expression, increased susceptibility to stress and reduced the capability to cause infection. A critical event in the Leishmania parasite lifecycle is the differentiation of promastigote forms to the disease causing amastigote forms. The failure of ΔAtg8 parasites lacking Atg8 protein to differentiate into amastigotes, unlike the Atg8-OE and vector-transfected parasites, clearly indicated Atg8 involvement in a crucial event. The inability of ΔAtg8 parasites to infect macrophages in vitro was verified in an in vivo mouse model of leishmaniases where infection could not be induced by the ΔAtg8 parasites. Autophagy is known to be involved in the remodeling of damaged organelles. The accumulation of Atg8 around damaged mitochondria suggested increase of autophagy in the vicinity of the organelle. This buildup was prevented when mitochondria generated reactive oxygen species that were quenched, suggesting them as possible signaling molecules for sensing mitochondrial instability. In summary, our study provides new evidences for a crucial role of Atg8 protein in sustaining Leishmania parasite survival during life cycle and stress exposure, differentiation to amastigotes, and their infective abilities.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "30635391",
+      "title": "Leishmania donovani Induces Autophagy in Human Blood-Derived Neutrophils",
+      "authors": [
+        "Durgesh Manohar Pitale",
+        "Neelaram Sahadev Gendalur",
+        "Albert Descoteaux",
+        "Chandrima Shaha"
+      ],
+      "year": "2019",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.1801053",
+      "doi_link": "https://doi.org/10.4049/jimmunol.1801053",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30635391",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Leishmania%20donovani%20Induces%20Autophagy%20in%20Human%20Blood-Derived%20Neutrophils%22",
+      "citations": {
+        "crossref": 36
+      },
+      "abstract": "Neutrophils, the essential components of the innate immune system, are recruited in large numbers to the pathogen site of entry. Several pathogens induce neutrophil autophagy; however, function of autophagic events during Leishmania parasite infection remain unknown. In this article, we report a finding that is new, to our knowledge, of how Leishmania-induced human polymorphonuclear neutrophil (hPMN) autophagy regulates the silent mode of parasite transfer to macrophages by influencing the engulfment of infected cells. Leishmania infection induced a time-dependent autophagy increase responsive to block by 3-methyladenine but sensitive to ULK1/2 inhibition only after 3 h. This suggested the prevalence of canonical autophagy during later hours, ULK1/2 inhibition being able to block only canonical autophagy. Interaction of Rubicon and Beclin-1 at 1 h postinfection affirmed the prevalence of noncanonical autophagy during early infection. There was a reduction in macrophage uptake of parasite-exposed hPMNs treated with 3-methyladenine or ULK1/2 inhibitor, suggesting the involvement of both noncanonical and canonical autophagy in neutrophil engulfment. Autophagy inducer rapamycin augmented neutrophil engulfment by macrophages. Redistribution of hPMN surface CD47 encouraged neutrophil uptake. Activation of ERK, phosphoinositide 3-kinase, and NADPH oxidase-mediated reactive oxygen species generation were induced after parasite binding. The lpg1-knockout parasites expressing defective lipophosphoglycan did not induce autophagy, indicating that lipophosphoglycan is necessary for interaction with the neutrophils. Autophagy induction was TLR2/4 independent because the receptor blockade did not interfere with infection-induced autophagy. In summary, the engulfment of neutrophils by the macrophages was influenced by the escalation of hPMN autophagy, which is an important event during Leishmania infection.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "29436167",
+      "title": "Sestrin2 facilitates glutamine-dependent transcription of PGC-1α and survival of liver cancer cells under glucose limitation.",
+      "authors": [
+        "Ashish Kumar",
+        "Sagnik Giri",
+        "Chandrima Shaha"
+      ],
+      "year": "2018",
+      "journal": "The FEBS journal",
+      "doi": "10.1111/febs.14406",
+      "doi_link": "https://doi.org/10.1111/febs.14406",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29436167",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Sestrin2%20facilitates%20glutamine-dependent%20transcription%20of%20PGC-1%CE%B1%20and%20survival%20of%20liver%20cancer%20cells%20under%20glucose%20limitation%22",
+      "citations": {
+        "semantic_scholar": 36
+      },
+      "abstract": "Differential utilization of metabolites and metabolic plasticity can confer adaptation to cancer cells under metabolic stress. Glutamine is one of the vital and versatile nutrients that cancer cells consume avidly for their proliferation, and therefore mechanisms related to glutamine metabolism have been identified as targets. Recently, sestrin2 (SESN2), a stress-inducible protein, has been reported to regulate survival in glutamine-depleted cancer cells; based on this, we explored if SESN2 could regulate glutamine metabolism during glucose starvation. This report highlights the role of SESN2 in the regulation of glutamine-dependent activation of the mitochondrial biogenesis marker peroxisome proliferator-activated receptor γ coactivator 1α (PGC-1α) under glucose scarcity in liver cancer cells (HepG2). We demonstrate that down-regulation of SESN2 induces a decrease in the levels of intracellular glutamine and PGC-1α under glucose deprivation, concomitant with a decline in cell survival, but no effect was observed on the invasive or migration potential of the cells. Under similar metabolic conditions, SESN2 forms a complex with c-Jun N-terminal kinase (JNK) and forkhead box protein O1 (FOXO1). Absence of SESN2 or inhibition of JNK reduces nuclear translocation of FOXO1, consequently causing transcriptional inhibition of PGC-1α. Notably, our observations demonstrate a reduction in cell viability under high glutamine and low glucose conditions during SESN2 down-regulation that could be rescued on JNK inhibition. To recover from acetaminophen-induced mitochondrial damage, SESN2 was crucial for glutamine-mediated activation of PGC-1α in HepG2 cells. Collectively, we demonstrate a novel role of SESN2 in mediating activation of PGC-1α by modulating glutamine metabolism that facilitates cancer cell survival under glucose-limited metabolic conditions.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "29330382",
+      "title": "SESN2 facilitates mitophagy by helping Parkin translocation through ULK1 mediated Beclin1 phosphorylation.",
+      "authors": [
+        "Ashish Kumar",
+        "Chandrima Shaha"
+      ],
+      "year": "2018",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-017-19102-2",
+      "doi_link": "https://doi.org/10.1038/s41598-017-19102-2",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29330382",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22SESN2%20facilitates%20mitophagy%20by%20helping%20Parkin%20translocation%20through%20ULK1%20mediated%20Beclin1%20phosphorylation%22",
+      "citations": {
+        "crossref": 49
+      },
+      "abstract": "Mitophagy, the selective degradation of mitochondria by autophagy, is crucial for the maintenance of healthy mitochondrial pool in cells. The critical event in mitophagy is the translocation of cytosolic Parkin, a ubiquitin ligase, to the surface of defective mitochondria. This study elucidates a novel role of SESN2/Sestrin2, a stress inducible protein, in mitochondrial translocation of PARK2/Parkin during mitophagy. The data demonstrates that SESN2 downregulation inhibits BECN1/Beclin1 and Parkin interaction, thereby preventing optimum mitochondrial accumulation of Parkin. SESN2 interacts with ULK1 (unc-51 like kinase 1) and assists ULK1 mediated phosphorylation of Beclin1 at serine-14 position required for binding with Parkin prior to mitochondrial translocation. The trigger for SESN2 activation and regulation of Parkin translocation is the generation of mitochondrial superoxide. Scavenging of mitochondrial superoxide lower the levels of SESN2, resulting in retardation of Parkin translocation. Importantly, we observe that SESN2 mediated cytosolic interaction of Parkin and Beclin1 is PINK1 independent but mitochondrial translocation of Parkin is PINK1 dependent. Together, these findings suggest the role of SESN2 as a positive regulator of Parkin mediated mitophagy.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "29294217",
+      "title": "RBX1-mediated ubiquitination of SESN2 promotes cell death upon prolonged mitochondrial damage in SH-SY5Y neuroblastoma cells.",
+      "authors": [
+        "Ashish Kumar",
+        "Chandrima Shaha"
+      ],
+      "year": "2018",
+      "journal": "Molecular and cellular biochemistry",
+      "doi": "10.1007/s11010-017-3267-7",
+      "doi_link": "https://doi.org/10.1007/s11010-017-3267-7",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29294217",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22RBX1-mediated%20ubiquitination%20of%20SESN2%20promotes%20cell%20death%20upon%20prolonged%20mitochondrial%20damage%20in%20SH-SY5Y%20neuroblastoma%20cells%22",
+      "citations": {
+        "semantic_scholar": 17
+      },
+      "abstract": "Sestrins are evolutionary conserved stress-inducible genes which regulate the axis of cell survival and cell death. Suppression of Sestrin 2 (SESN2) has been linked with increase in oxidative stress and cell death but mechanistic details related to regulation of SESN2 during mitochondrial damage remain unknown. Our study shows that prolonged CCCP-induced mitochondrial damage decreases SESN2 levels and viability of SH-SY5Y cells while overexpression of SESN2 significantly rescues the viability of cells. Further, we demonstrate that Ring box protein 1 (RBX1) is a novel interactive partner and E3 ligase for SESN2 which mediates its K-48-linked ubiquitination upon extensive mitochondrial damage. Downregulation of RBX1 causes stabilization in levels of SESN2. Notably, silencing of RBX1 expression substantially declines cell death and generation of mitochondrial ROS in response to prolonged mitochondrial damage. Taken together, we suggest that SESN2 is critical to protect cells against detrimental effect of mitochondrial damage and RBX1 is a negative regulator of SESN2 which hampers its stabilization.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "29269427",
+      "title": "Correction for Pandharkar et al., \"Studies on the Antileishmanial Mechanism of Action of the Arylimidamide DB766: Azole Interactions and Role of CYP5122A1\".",
+      "authors": [
+        "Trupti Pandharkar",
+        "Xiaohua Zhu",
+        "Radhika Mathur",
+        "Jinmai Jiang",
+        "Thomas D Schmittgen",
+        "Chandrima Shaha",
+        "Karl A Werbovetz"
+      ],
+      "year": "2018",
+      "journal": "Antimicrobial agents and chemotherapy",
+      "doi": "10.1128/AAC.01124-17",
+      "doi_link": "https://doi.org/10.1128/AAC.01124-17",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29269427",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Correction%20for%20Pandharkar%20et%20al.%2C%20%22Studies%20on%20the%20Antileishmanial%20Mechanism%20of%20Action%20of%20the%20Arylimidamide%20DB766%3A%20Azole%20Interactions%20and%20Role%20of%20CYP5122A1%22%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "29061756",
+      "title": "Functional Involvement of Leishmania donovani Tryparedoxin Peroxidases during Infection and Drug Treatment.",
+      "authors": [
+        "Sanchita Das",
+        "Sagnik Giri",
+        "Shyam Sundar",
+        "Chandrima Shaha"
+      ],
+      "year": "2018",
+      "journal": "Antimicrobial agents and chemotherapy",
+      "doi": "10.1128/AAC.00806-17",
+      "doi_link": "https://doi.org/10.1128/AAC.00806-17",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29061756",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Functional%20Involvement%20of%20Leishmania%20donovani%20Tryparedoxin%20Peroxidases%20during%20Infection%20and%20Drug%20Treatment%22",
+      "citations": {
+        "semantic_scholar": 13
+      },
+      "abstract": "The parasite ",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "28874760",
+      "title": "Zinc depletion promotes apoptosis-like death in drug-sensitive and antimony-resistance Leishmania donovani.",
+      "authors": [
+        "Shalini Saini",
+        "Kavita Bharati",
+        "Chandrima Shaha",
+        "Chinmay K Mukhopadhyay"
+      ],
+      "year": "2017",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-017-10041-6",
+      "doi_link": "https://doi.org/10.1038/s41598-017-10041-6",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28874760",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Zinc%20depletion%20promotes%20apoptosis-like%20death%20in%20drug-sensitive%20and%20antimony-resistance%20Leishmania%20donovani%22",
+      "citations": {
+        "semantic_scholar": 21
+      },
+      "abstract": "Micronutrients are essential for survival and growth for all the organisms including pathogens. In this manuscript, we report that zinc (Zn) chelator N,N,N',N'-tetrakis(2-pyridinylmethyl)-1,2-ethylenediamine (TPEN) affects growth and viability of intracellular pathogen Leishmania donovani (LD) by a concentration and time dependent manner. Simultaneous addition of zinc salt reverses the effect of TPEN. Further experiments provide evidence of apoptosis-like death of the parasite due to Zn-depletion. TPEN treatment enhances caspase-like activity suggesting increase in apoptosis-like events in LD. Specific inhibitors of cathepsin B and Endoclease G block TPEN-induced leishmanial death. Evidences show involvement of reactive oxygen species (ROS) potentially of extra-mitochondrial origin in TPEN-induced LD death. Pentavalent antimonials remained the prime source of treatment against leishmaniasis for several decades; however, antimony-resistant Leishmania is now common source of the disease. We also reveal that Zn-depletion can promote apoptosis-like death in antimony-resistant parasites. In summary, we present a new finding about the role of zinc in the survival of drug sensitive and antimony-resistant LD.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "27826299",
+      "title": "",
+      "authors": [
+        "Rajeev Kumar Pandey",
+        "Sanjana Mehrotra",
+        "Smriti Sharma",
+        "Ramachandra Subbaraya Gudde",
+        "Shyam Sundar",
+        "Chandrima Shaha"
+      ],
+      "year": "2016",
+      "journal": "Frontiers in immunology",
+      "doi": "10.3389/fimmu.2016.00456",
+      "doi_link": "https://doi.org/10.3389/fimmu.2016.00456",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27826299",
+      "scholar_link": "",
+      "citations": {
+        "crossref": 33
+      },
+      "abstract": "Members of the Bcl-2 family are major regulators of apoptosis in mammalian cells, and hence infection-induced perturbations in their expression could result into elimination of the parasites or creation of a niche favoring survival. In this investigation, we uncover a novel role of host Bcl-2 in sustaining ",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "27459332",
+      "title": "MicroRNA expression profiling of Leishmania donovani-infected host cells uncovers the regulatory role of MIR30A-3p in host autophagy.",
+      "authors": [
+        "Alok Kumar Singh",
+        "Rajeev Kumar Pandey",
+        "Chandrima Shaha",
+        "Rentala Madhubala"
+      ],
+      "year": "2016",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2016.1203500",
+      "doi_link": "https://doi.org/10.1080/15548627.2016.1203500",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27459332",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22MicroRNA%20expression%20profiling%20of%20Leishmania%20donovani-infected%20host%20cells%20uncovers%20the%20regulatory%20role%20of%20MIR30A-3p%20in%20host%20autophagy%22",
+      "citations": {
+        "semantic_scholar": 56
+      },
+      "abstract": "Leishmania is an obligate intracellular parasite that replicates inside phagolysosomes or parasitophorous vacuoles (PV) of the monocyte/macrophage lineage. It reprograms macrophages and produces a metabolic state conducive to successful infection and multiplication. MicroRNAs (miRNAs), a class of small 22 to 24 nucleotide noncoding regulatory RNAs alter the gene expression and consequently proteome output by targeting mRNAs, may play a regulatory role in modulating host cell functions. In the present study, we demonstrate the novel regulatory role of host microRNA, MIR30A-3p in modulation of host cell macroautophagy/autophagy after infection with L. donovani. Our in vitro studies showed that MIR30A-3p expression was significantly enhanced after L. donovani infection in a time-dependent manner. Transient transfection with a MIR30A-3p inhibitor followed by L. donovani infection promoted the autophagic response and decreased the intracellular parasite burden in both THP-1 cells and human monocyte-derived macrophages (HsMDM). BECN1/Beclin 1, the mammalian ortholog of yeast Vps30/Atg6, is a key autophagy-promoting protein that plays a key role in the regulation of cell death and survival. We report BECN1-dependent modulation of host cell autophagy in response to L. donovani infection. Pretreatment of L. donovani-infected macrophages with the MIR30A-3p mimic decreased and with antagomir increased the expression of BECN1 protein. We demonstrate that BECN1 is a potential target of MIR30A-3p and this miRNA negatively regulates BECN1 expression. Our present study reveals for the first time a novel role of MIR30A-3p in regulating autophagy-mediated L. donovani elimination by targeting BECN1. The present study has significant impact for the treatment of visceral leishmaniasis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "26590805",
+      "title": "A-kinase anchor protein 4 (AKAP4) a promising therapeutic target of colorectal cancer.",
+      "authors": [
+        "Nirmala Jagadish",
+        "Deepak Parashar",
+        "Namita Gupta",
+        "Sumit Agarwal",
+        "Sapna Purohit",
+        "Vikash Kumar",
+        "Aditi Sharma",
+        "Rukhsar Fatima",
+        "Amos Prashant Topno",
+        "Chandrima Shaha",
+        "Anil Suri"
+      ],
+      "year": "2015",
+      "journal": "Journal of experimental & clinical cancer research : CR",
+      "doi": "10.1186/s13046-015-0258-y",
+      "doi_link": "https://doi.org/10.1186/s13046-015-0258-y",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26590805",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A-kinase%20anchor%20protein%204%20%28AKAP4%29%20a%20promising%20therapeutic%20target%20of%20colorectal%20cancer%22",
+      "citations": {
+        "crossref": 34
+      },
+      "abstract": "BACKGROUND: Colorectal cancer (CRC) ranks third among the estimated cancer cases and cancer related mortalities in the Western world. Early detection and efficient therapy of CRC remains a major health challenge. Therefore, there is a need to identify novel tumor markers for early diagnosis and treatment of CRC. METHODS: A-kinase anchor protein 4 (AKAP4) gene and protein expression was monitored by quantitative polymerase chain reaction (qPCR), reverse transcription (RT)-PCR and Western blotting in normal colon tissue lysate, normal colon epithelial cells and in colon cancer cell lines viz., Caco-2, COLO205, COLO320DM, HCT-15, HCT116, HT-29, SW480, and SW620. The effect of AKAP4 on cellular growth, migration and invasion abilities was studied using gene silencing approach. The role of AKAP4 in various pathways involved in cell cycle, apoptosis, senescence was investigated in in vitro and in human xenograft mouse model. RESULTS: Our studies showed that AKAP4 gene and protein expression was expressed in all colon cancer cells while no expression was detectable in normal colon cells. Ablation of AKAP4 led to reduced cellular growth, migration, invasion and increased apoptosis and senescence of CRC cells in in vitro assays and tumor growth in human xenograft mouse. Human colon xenograft studies showed a significant decrease in the levels of cyclins B1, D and E and cyclin dependent kinases such as CDK1, CDK2, CDK4 and CDK6. Interestingly, an up-regulation in the levels of p16 and p21 was also observed. Besides, an increase in the levels of pro-apoptotic molecules AIF, APAF1, BAD, BID, BAK, BAX, PARP1, NOXA, PUMA and cyt-C and Caspase 3, 7, 8 and 9 was also found in cancer cells as well as in xenograft tissue sections. However, anti-apoptotic molecules BCL2, Bcl-xL, cIAP2, XIAP, Axin2 and Survivin were down regulated in these samples. Our data also revealed elevated expression of epithelial marker E-cadherin and down regulation of EMT markers N-cadherin, P-cadherin, SLUG, α-SMA, SNAIL, TWIST and Vimentin. Further ablation of AKAP4 resulted in the down regulation of invasion molecules matrix metalloproteinase MMP2, MMP3 and MMP9. CONCLUSION: AKAP4 appears to be a novel CRC-associated antigen with a potential for developing as a new clinical therapeutic target.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "26568911",
+      "title": "First International Workshopson Provocative Questions (PQ) in Cancer Research, October-November 2014, New Delhi, Bengaluru, and Thiruvananthapuram, India.",
+      "authors": [
+        "Preetha Rajaraman",
+        "Bindu Dey",
+        "Partha P Majumder",
+        "Satyajit Mayor",
+        "M Radhakrishna Pillai",
+        "S Ramaswamy",
+        "Chandrima Shaha",
+        "Maureen Johnson",
+        "Sudha Sivaram",
+        "Edward L Trimble",
+        "Edward E Harlow",
+        "K VijayRaghavan"
+      ],
+      "year": "2015",
+      "journal": "Journal of cancer policy",
+      "doi": "10.1016/j.jcpo.2015.10.001",
+      "doi_link": "https://doi.org/10.1016/j.jcpo.2015.10.001",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26568911",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22First%20International%20Workshopson%20Provocative%20Questions%20%28PQ%29%20in%20Cancer%20Research%2C%20October-November%202014%2C%20New%20Delhi%2C%20Bengaluru%2C%20and%20Thiruvananthapuram%2C%20India%22",
+      "citations": {
+        "crossref": 2
+      },
+      "abstract": "In 2011, the National Cancer Institute (NCI, USA) introduced the Provocative Questions (PQ) Initiative, a new approach allowing active researchers to define major unsolved or neglected problems in oncology unaddressed by existing funding. Last year, the U.S. NCI teamed up with the Indian Department of Biotechnology (DBT) to pilot the PQ approach in three cities in India. Workshop outcomes includedthe generation of fundable \"PQs\" (perplexing questions understudied by the international scientific community), as well as the identification of several non-PQ projects and research-related issues of importance to DBT and other Indian funding groups. The workshops clearly indicated the need to expand beyond crafting \"PQs\" when considering the best areas for research funding in international settings. Nonetheless, the first set of PQ workshops provided a forum to discuss key issues regarding cancer research in India, including the paucity of cancer research funding, and the lack of relevant human resource training and technology sharing platforms. Continued open debate between researchers, funders and policymakers will be essential to effectively strengthen the cancer research portfolio in India.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "26116701",
+      "title": "Elevated ergosterol protects Leishmania parasites against antimony-generated stress.",
+      "authors": [
+        "Radhika Mathur",
+        "Rajeev Patrick Das",
+        "Archana Ranjan",
+        "Chandrima Shaha"
+      ],
+      "year": "2015",
+      "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "doi": "10.1096/fj.15-272757",
+      "doi_link": "https://doi.org/10.1096/fj.15-272757",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26116701",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Elevated%20ergosterol%20protects%20Leishmania%20parasites%20against%20antimony-generated%20stress%22",
+      "citations": {
+        "crossref": 32
+      },
+      "abstract": "Parasite lipids can serve as signaling molecules, important membrane components, energy suppliers, and pathogenesis factors critical for survival. Functional roles of lipid changes in response to drug-generated stress in parasite survival remains unclear. To investigate this, Leishmania donovani parasites, the causative agents of kala-azar, were exposed to the antileishmanial agent potassium antimony tartrate (PAT) (half-maximal inhibitory concentration ∼ 284 µg/ml). Analysis of cell extracts using gas chromatography-mass spectrometry showed significant increases in very long-chain fatty acids (VLCFAs) prior to an increase in ergosterol in PAT-treated parasites as compared with vehicle-treated controls. Ergosterol biosynthesis inhibition during PAT treatment decreased cell viability. VLCFA inhibition with specific inhibitors completely abrogated ergosterol upsurge followed by a reduction in cell viability. Following PAT-induced VLCFA increase, an upsurge in reactive oxygen species (ROS) occurred and inhibition of this ROS with antioxidants abrogated ergosterol increase. Genetically engineered parasites expressing low constitutive ergosterol levels showed more susceptibility to PAT as compared with wild-type control cells but ergosterol supplementation during PAT treatment increased cell viability. In conclusion, we propose that during antimony treatment, the susceptibility of parasites is determined by the levels of cellular ergosterol that are regulated by oxidative stress generated by VLCFAs.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "25973292",
+      "title": "Nitric oxide is the key mediator of death induced by fisetin in human acute monocytic leukemia cells.",
+      "authors": [
+        "Dipankar Ash",
+        "Manikandan Subramanian",
+        "Avadhesha Surolia",
+        "Chandrima Shaha"
+      ],
+      "year": "2015",
+      "journal": "American journal of cancer research",
+      "doi": null,
+      "doi_link": "",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25973292",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Nitric%20oxide%20is%20the%20key%20mediator%20of%20death%20induced%20by%20fisetin%20in%20human%20acute%20monocytic%20leukemia%20cells%22",
+      "citations": {
+        "semantic_scholar": 33
+      },
+      "abstract": "Nitric oxide (NO) has been shown to be effective in cancer chemoprevention and therefore drugs that help generate NO would be preferable for combination chemotherapy or solo use. This study shows a new evidence of NO as a mediator of acute leukemia cell death induced by fisetin, a promising chemotherapeutic agent. Fisetin was able to kill THP-1 cells in vivo resulting in tumor shrinkage in the mouse xenograft model. Death induction in vitro was mediated by an increase in NO resulting in double strand DNA breaks and the activation of both the extrinsic and the intrinsic apoptotic pathways. Double strand DNA breaks could be reduced if NO inhibitor was present during fisetin treatment. Fisetin also inhibited the downstream components of the mTORC1 pathway through downregulation of levels of p70 S6 kinase and inducing hypo-phosphorylation of S6 Ri P kinase, eIF4B and eEF2K. NO inhibition restored phosphorylation of downstream effectors of mTORC1 and rescued cells from death. Fisetin induced Ca(2+) entry through L-type Ca(2+) channels and abrogation of Ca(2+) influx reduced caspase activation and cell death. NO increase and increased Ca(2+) were independent phenomenon. It was inferred that apoptotic death of acute monocytic leukemia cells was induced by fisetin through increased generation of NO and elevated Ca(2+) entry activating the caspase dependent apoptotic pathways. Therefore, manipulation of NO production could be viewed as a potential strategy to increase efficacy of chemotherapy in acute monocytic leukemia.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper21",
+      "publication_id": "25690103",
+      "title": "Proteomic-based approach to gain insight into reprogramming of THP-1 cells exposed to Leishmania donovani over an early temporal window.",
+      "authors": [
+        "Alok Kumar Singh",
+        "Rajeev Kumar Pandey",
+        "Jair Lage Siqueira-Neto",
+        "Yong-Jun Kwon",
+        "Lucio H Freitas-Junior",
+        "Chandrima Shaha",
+        "Rentala Madhubala"
+      ],
+      "year": "2015",
+      "journal": "Infection and immunity",
+      "doi": "10.1128/IAI.02833-14",
+      "doi_link": "https://doi.org/10.1128/IAI.02833-14",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25690103",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Proteomic-based%20approach%20to%20gain%20insight%20into%20reprogramming%20of%20THP-1%20cells%20exposed%20to%20Leishmania%20donovani%20over%20an%20early%20temporal%20window%22",
+      "citations": {
+        "semantic_scholar": 46
+      },
+      "abstract": "Leishmania donovani, a protozoan parasite, is the causative agent of visceral leishmaniasis. It lives and multiplies within the harsh environment of macrophages. In order to investigate how intracellular parasite manipulate the host cell environment, we undertook a quantitative proteomic study of human monocyte-derived macrophages (THP-1) following infection with L. donovani. We used the isobaric tags for relative and absolute quantification (iTRAQ) method and liquid chromatography-tandem mass spectrometry (LC-MS/MS) to compare expression profiles of noninfected and L. donovani-infected THP-1 cells. We detected modifications of protein expression in key metabolic pathways, including glycolysis and fatty acid oxidation, suggesting a global reprogramming of cell metabolism by the parasite. An increased abundance of proteins involved in gene transcription, RNA splicing (heterogeneous nuclear ribonucleoproteins [hnRNPs]), histones, and DNA repair and replication was observed at 24 h postinfection. Proteins involved in cell survival and signal transduction were more abundant at 24 h postinfection. Several of the differentially expressed proteins had not been previously implicated in response to the parasite, while the others support the previously identified proteins. Selected proteomics results were validated by real-time PCR and immunoblot analyses. Similar changes were observed in L. donovani-infected human monocyte-derived primary macrophages. The effect of RNA interference (RNAi)-mediated gene knockdown of proteins validated the relevance of the host quantitative proteomic screen. Our findings indicate that the host cell proteome is modulated after L. donovani infection, provide evidence for global reprogramming of cell metabolism, and demonstrate the complex relations between the host and parasite at the molecular level.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper22",
+      "publication_id": "25520856",
+      "title": "Mahanine, a novel mitochondrial complex-III inhibitor induces G0/G1 arrest through redox alteration-mediated DNA damage response and regresses glioblastoma multiforme.",
+      "authors": [
+        "Kaushik Bhattacharya",
+        "Arup K Bag",
+        "Rakshamani Tripathi",
+        "Suman K Samanta",
+        "Bikas C Pal",
+        "Chandrima Shaha",
+        "Chitra Mandal"
+      ],
+      "year": "2014",
+      "journal": "American journal of cancer research",
+      "doi": null,
+      "doi_link": "",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25520856",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mahanine%2C%20a%20novel%20mitochondrial%20complex-III%20inhibitor%20induces%20G0/G1%20arrest%20through%20redox%20alteration-mediated%20DNA%20damage%20response%20and%20regresses%20glioblastoma%20multiforme%22",
+      "citations": {
+        "semantic_scholar": 54
+      },
+      "abstract": "The Electron transport chain (ETC) is responsible for oxidative phosphorylation-mediated mitochondrial respiration. Here we wanted to address the mahanine-induced targeted pathways in glioblastoma multiforme (GBM) in the context of G0/G1 phase arrest and redox alteration. We have demonstrated mahanine, as a novel mitochondrial complex-III inhibitor which induced G0/G1 phase arrest in GBM. This event was preceded by accumulation of intracellular ROS by the inhibition of mitochondrial ETC. The accumulated ROS induced DNA damage response (DDR), that mediated Chk1/Chk2 upregulation and activation which were essential factors for the G0/G1 arrest. NAC-mediated scavenging of ROS generation reduced the propensity of G0/G1 phase arrest in GBM cells by mahanine. Knockdown of Chk1/Chk2 also affected the cell cycle inhibitory potential of mahanine. During G0/G1 arrest, other hallmark proteins like, cyclin D1/cyclin D3, CDK4/CDK6 and CDC25A were also downregulated. The G0/G1 phase restriction property of mahanine was also established in in vivo mice model. Mahanine-induced complex-III inhibition triggered enhanced ROS in hypoxia responsible for higher G0/G1 arrest. Furthermore, we demonstrated that mahanine-treated G0/G1 arrested cells were less potent to form xenograft tumor in vivo. Additionally, they exhibited reduced ability to migrate and form intracellular tube-like structures. Moreover, they became susceptible to differentiate and astrocyte-like cells were generated from the epithelial lineage. Taken together, our results established that complex-III of ETC is one of the possible potential targets of mahanine. This nontoxic chemotherapeutic molecule enhanced ROS production, induced cell cycle arrest and thereafter regressed GBM without effecting normal astrocytes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper23",
+      "publication_id": "25208472",
+      "title": "Beclin-1-p53 interaction is crucial for cell fate determination in embryonal carcinoma cells.",
+      "authors": [
+        "Rakshamani Tripathi",
+        "Dipankar Ash",
+        "Chandrima Shaha"
+      ],
+      "year": "2014",
+      "journal": "Journal of cellular and molecular medicine",
+      "doi": "10.1111/jcmm.12386",
+      "doi_link": "https://doi.org/10.1111/jcmm.12386",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25208472",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Beclin-1-p53%20interaction%20is%20crucial%20for%20cell%20fate%20determination%20in%20embryonal%20carcinoma%20cells%22",
+      "citations": {
+        "semantic_scholar": 44
+      },
+      "abstract": "Emerging interest on the interrelationship between the apoptotic and autophagy pathways in the context of cancer chemotherapy is providing exciting discoveries. Complexes formed between molecules from both pathways present potential targets for chemotherapeutics design as disruption of such complexes could alter cell survival. This study demonstrates an important role of Beclin-1 and p53 interaction in cell fate decision of human embryonal carcinoma cells. The findings provide evidence for p53 interaction with Beclin-1 through the BH3 domain of the latter. This interaction facilitated Beclin-1 ubiquitination through lysine 48 linkage, resulting in proteasome-mediated degradation, consequently maintaining a certain constitutive level of Beclin-1. Disruption of Beclin-1-p53 interaction through shRNA-mediated down-regulation of p53 reduced Beclin-1 ubiquitination suggesting requirement of p53 for the process. Reduction of ubiquitination consequently resulted in an increase in Beclin-1 levels with cells showing high autophagic activity. Enforced overexpression of p53 in the p53 down-regulated cells restored ubiquitination of Beclin-1 reducing its level and lowering autophagic activity. The Beclin-1-p53 interaction was also disrupted by exposure to cisplatin-induced stress resulting in higher level of Beclin-1 because of lesser ubiquitination. This higher concentration of Beclin-1 increased autophagy and offered protection to the cells from cisplatin-induced death. Inhibition of autophagy by either pharmacological or genetic means during cisplatin exposure increased apoptotic death in vitro as well as in xenograft tumours grown in vivo confirming the protective nature of autophagy. Therefore, Beclin-1-p53 interaction defines one additional molecular subroutine crucial for cell fate decisions in embryonal carcinoma cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper24",
+      "publication_id": "24890590",
+      "title": "Studies on the antileishmanial mechanism of action of the arylimidamide DB766: azole interactions and role of CYP5122A1.",
+      "authors": [
+        "Trupti Pandharkar",
+        "Xiaohua Zhu",
+        "Radhika Mathur",
+        "Jinmai Jiang",
+        "Thomas D Schmittgen",
+        "Chandrima Shaha",
+        "Karl A Werbovetz"
+      ],
+      "year": "2014",
+      "journal": "Antimicrobial agents and chemotherapy",
+      "doi": "10.1128/AAC.02405-14",
+      "doi_link": "https://doi.org/10.1128/AAC.02405-14",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24890590",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Studies%20on%20the%20antileishmanial%20mechanism%20of%20action%20of%20the%20arylimidamide%20DB766%3A%20azole%20interactions%20and%20role%20of%20CYP5122A1%22",
+      "citations": {
+        "semantic_scholar": 15
+      },
+      "abstract": "Arylimidamides (AIAs) are inspired by diamidine antimicrobials but show superior activity against intracellular parasites. The AIA DB766 {2,5-bis[2-(2-i-propoxy)-4-(2-pyridylimino)aminophenyl]furan hydrochloride} displays outstanding potency against intracellular Leishmania parasites and is effective in murine and hamster models of visceral leishmaniasis when given orally, but its mechanism of action is unknown. In this study, through the use of continuous DB766 pressure, we raised Leishmania donovani axenic amastigotes that displayed 12-fold resistance to this compound. These DB766-resistant (DB766R) parasites were 2-fold more sensitive to miltefosine than wild-type organisms and were hypersensitive to the sterol 14α-demethylase (CYP51) inhibitors ketoconazole and posaconazole (2,000-fold more sensitive and over 12,000-fold more sensitive than the wild type, respectively). Western blot analysis of DB766R parasites indicated that while expression of CYP51 is slightly increased in these organisms, expression of CYP5122A1, a recently identified cytochrome P450 associated with ergosterol metabolism in Leishmania, is dramatically reduced in DB766R parasites. In vitro susceptibility assays demonstrated that CYP5122A1 half-knockout L. donovani promastigotes were significantly less susceptible to DB766 and more susceptible to ketoconazole than their wild-type counterparts, consistent with observations in DB766R parasites. Further, DB766-posaconazole combinations displayed synergistic activity in both axenic and intracellular L. donovani amastigotes. Taken together, these studies implicate CYP5122A1 in the antileishmanial action of the AIAs and suggest that DB766-azole combinations are potential candidates for the development of synergistic antileishmanial therapy.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper25",
+      "publication_id": "24043313",
+      "title": "Novel role of calmodulin in regulating protein transport to mitochondria in a unicellular eukaryote.",
+      "authors": [
+        "Abhishek Aich",
+        "Chandrima Shaha"
+      ],
+      "year": "2013",
+      "journal": "Molecular and cellular biology",
+      "doi": "10.1128/MCB.00829-13",
+      "doi_link": "https://doi.org/10.1128/MCB.00829-13",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24043313",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Novel%20role%20of%20calmodulin%20in%20regulating%20protein%20transport%20to%20mitochondria%20in%20a%20unicellular%20eukaryote%22",
+      "citations": {
+        "semantic_scholar": 20
+      },
+      "abstract": "Lower eukaryotes like the kinetoplastid parasites are good models to study evolution of cellular pathways during steps to eukaryogenesis. In this study, a kinetoplastid parasite, Leishmania donovani, was used to understand the process of mitochondrial translocation of a nucleus-encoded mitochondrial protein, the mitochondrial tryparedoxin peroxidase (mTXNPx). We report the presence of an N-terminal cleavable mitochondrial targeting signal (MTS) validated through deletion and grafting experiments. We also establish a novel finding of calmodulin (CaM) binding to the MTS of mTXNPx through specific residues. Mutation of CaM binding residues, keeping intact the residues involved in mitochondrial targeting and biochemical inhibition of CaM activity both in vitro and in vivo, prevented mitochondrial translocation. Through reconstituted import assays, we demonstrate obstruction of mitochondrial translocation either in the absence of CaM or Ca(2+) or in the presence of CaM inhibitors. We also demonstrate the prevention of temperature-driven mTXNPx aggregation in the presence of CaM. These findings establish the idea that CaM is required for the transport of the protein to mitochondria through maintenance of translocation competence posttranslation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper26",
+      "publication_id": "21966477",
+      "title": "CYP5122A1, a novel cytochrome P450 is essential for survival of Leishmania donovani.",
+      "authors": [
+        "Smriti Verma",
+        "Ashish Mehta",
+        "Chandrima Shaha"
+      ],
+      "year": "2011",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0025273",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0025273",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21966477",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22CYP5122A1%2C%20a%20novel%20cytochrome%20P450%20is%20essential%20for%20survival%20of%20Leishmania%20donovani%22",
+      "citations": {
+        "semantic_scholar": 39
+      },
+      "abstract": "BACKGROUND: Cytochrome P450s (CYP450s) are hemoproteins catalysing diverse biochemical reactions important for metabolism of xenobiotics and synthesis of physiologically important compounds such as sterols. Therefore, they are functionally important for survival of invading pathogens. One such opportunistic pathogen Leishmania donovani causes visceral leishmaniasis worldwide, which is an important public health problem due to significant disease burden. The parasite genome database, Gene DB, annotates 3 CYP450s in Leishmania, however, the functional role of cytochrome P450 enzymes in Leishmania spp. remains elusive. METHODOLOGY/PRINCIPAL FINDINGS: A CYP450-like gene cloned from Leishmania donovani was identified as a novel CYP450, the CYP5122A1. Upon co-localization with organelle specific markers, CYP5122A1 distribution was shown to be localized in the promastigote ER, mitochondria and the glycosomes. Replacement of one allele of CYP5122A1 with either neomycin or hygromycin gene by homologous recombination in Leishmania promastigotes induced substantial reduction of CYP5122A1 expression. These parasites showed impaired growth, lower mitochondrial Ca(2+) and membrane potential resulting in low ATP generation. Also, these parasites were less infective in vitro and in vivo than their wild-type counterparts as assessed by incubation of Leishmania promastigotes with macrophages in vitro as well as through administration of parasites into hamsters. The HKOs were more susceptible to drugs like miltefosine and antimony, but showed reduced sensitivity to amphotericin B. Removal of two alleles of CYP5122A1 did not allow the parasites to survive. The mutant parasites showed 3.5 times lower ergosterol level as compared to the wild-type parasites when estimated by Gas chromatography/mass spectrometry. Complementation of CYP5122A1 through episomal expression of protein by using pXG-GFP+2 vector partially rescued CYP5122A1 expression and restored ergosterol levels by 1.8 times. Phenotype reversal included restored growth pattern and lesser drug susceptibility. CONCLUSIONS/SIGNIFICANCE: In summary, this study establishes CYP5122A1 as an important molecule linked to processes like cell growth, infection and ergosterol biosynthesis in Leishmania donovani.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper27",
+      "publication_id": "21216935",
+      "title": "Anticancer activity of a combination of cisplatin and fisetin in embryonal carcinoma cells and xenograft tumors.",
+      "authors": [
+        "Rakshamani Tripathi",
+        "Tanmoy Samadder",
+        "Sarika Gupta",
+        "Avadhesha Surolia",
+        "Chandrima Shaha"
+      ],
+      "year": "2011",
+      "journal": "Molecular cancer therapeutics",
+      "doi": "10.1158/1535-7163.MCT-10-0606",
+      "doi_link": "https://doi.org/10.1158/1535-7163.MCT-10-0606",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21216935",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Anticancer%20activity%20of%20a%20combination%20of%20cisplatin%20and%20fisetin%20in%20embryonal%20carcinoma%20cells%20and%20xenograft%20tumors%22",
+      "citations": {
+        "crossref": 70
+      },
+      "abstract": "Use of chemotherapeutic drug cisplatin is limited because of its toxicity. Therefore, efforts continue for the discovery of novel combination therapies with cisplatin to reduce its effective treatment dose. This study evaluates the potential of fisetin, a flavonoid, to increase cisplatin cytotoxicity in human embryonal carcinoma NT2/D1 cells. Addition of fisetin to cisplatin enhanced cisplatin cytotoxicity in vitro at four times lower dose than that required by cisplatin monotherapy for similar cytotoxic effects. Cisplatin, fisetin monotherapy, and addition of fisetin to cisplatin in a combination increased FasL expression. Cisplatin and fisetin as single agents activated caspases-8 and -3 and caspases-9 and -7, respectively, whereas combination treatment activated all 4 caspases. Increases in p53 and p21 and decreases in cyclin B1 and survivin occurred, all effects being more exaggerated with the combination. Fisetin, with or without cisplatin, increased expression of proapoptotic protein Bak and induced its mitochondrial oligomerization. Bid truncation and mitochondrial translocation of Bid and p53 was induced by fisetin in the presence or absence of cisplatin. Downregulation of p53 by short hairpin RNA during drug treatment decreased p21 levels but caused survivin increase, thus reducing cell death. Upstream to p53, inhibition of p38 phosphorylation reduced p53 phosphorylation and cell death. In a NT2/D1 mouse xenograft model, combination therapy was most effective in reducing tumor size. In summary, findings of this study suggest that addition of fisetin to cisplatin activates both the mitochondrial and the cell death receptor pathway and could be a promising regimen for the elimination of embryonal carcinoma cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper28",
+      "publication_id": "20403866",
+      "title": "Male germ cell apoptosis: regulation and biology.",
+      "authors": [
+        "Chandrima Shaha",
+        "Rakshamani Tripathi",
+        "Durga Prasad Mishra"
+      ],
+      "year": "2010",
+      "journal": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+      "doi": "10.1098/rstb.2009.0124",
+      "doi_link": "https://doi.org/10.1098/rstb.2009.0124",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20403866",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Male%20germ%20cell%20apoptosis%3A%20regulation%20and%20biology%22",
+      "citations": {
+        "semantic_scholar": 336
+      },
+      "abstract": "Cellular apoptosis appears to be a constant feature in the adult testis and during early development. This is essential because mammalian spermatogenesis is a complex process that requires precise homeostasis of different cell types. This review discusses the latest information available on male germ cell apoptosis induced by hormones, toxins and temperature in the context of the type of apoptotic pathway either the intrinsic or the extrinsic that may be used under a variety of stimuli. The review also discusses the importance of mechanisms pertaining to cellular apoptosis during testicular development, which is independent of exogenous stimuli. Since instances of germ cell carcinoma have increased over the past few decades, the current status of research on apoptotic pathways in teratocarcinoma cells is included. One other important aspect that is covered in this review is microRNA-mediated control of germ cell apoptosis, a field of research that is going to see intense activity in near future. Since knockout models of various kinds have been used to study many aspects of germ cell development, a comprehensive summary of literature on knockout mice used in reproduction studies is also provided.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper29",
+      "publication_id": "20141615",
+      "title": "Oestrogen modulates human macrophage apoptosis via differential signalling through oestrogen receptor-alpha and beta.",
+      "authors": [
+        "Manikandan Subramanian",
+        "Chandrima Shaha"
+      ],
+      "year": "2009",
+      "journal": "Journal of cellular and molecular medicine",
+      "doi": "10.1111/j.1582-4934.2009.00679.x",
+      "doi_link": "https://doi.org/10.1111/j.1582-4934.2009.00679.x",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20141615",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Oestrogen%20modulates%20human%20macrophage%20apoptosis%20via%20differential%20signalling%20through%20oestrogen%20receptor-alpha%20and%20beta%22",
+      "citations": {
+        "semantic_scholar": 19
+      },
+      "abstract": "Human macrophages express oestrogen receptors and are therefore competent to respond to the hormone present in their microenvironment, which is implicated in sexual dimorphism observed in several immune and autoimmune phenomena. An earlier study from this laboratory demonstrated 17beta-oestradiol (E2) induced apoptosis in macrophages derived from human peripheral blood monocytes and THP-1 acute monocytic leukaemia cell line when Bcl-2 was down-regulated; however, the involvement of E2 receptor subtypes in the modulation of death pathways in these cells remain unknown. Using macrophages derived from THP-1 human acute monocytic leukaemia cells as a model, we demonstrate that plasma membrane associated oestrogen receptor (ER) -alpha participate in E2 induced Bcl-2 increase, through activation of the mitogen activated protein kinase (MAPK) pathway whereas cytosolic ER-beta transmits signals for the pro-apoptotic event of Bax translocation. The mechanistic basis of Bax translocation comprised of ER-beta mediated increase in intracellular pH, facilitated by activation of the Na(+)-H(+) exchanger. Intracellular alkalinization accompanied by concomitant Bcl-2 increase and Bax migration does not cause cellular apoptosis; however, siRNA mediated down-regulation of ER-alpha during E2 exposure leads to inhibition of Bcl-2 increase and consequently apoptosis due to the unopposed action of mitochondrial Bax. In summary, this study underscores the importance of integrative signalling modality from multiple oestrogen receptor pools in modulating oestrogen effects on human monocyte-derived macrophage apoptotic signalling pathway, which opens new vistas to explore the use of selective oestrogen receptor modulators in apoptosis-based therapies.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper30",
+      "publication_id": "19889463",
+      "title": "Male germ cell development: turning on the apoptotic pathways.",
+      "authors": [
+        "Rakshamani Tripathi",
+        "Durga Prasad Mishra",
+        "Chandrima Shaha"
+      ],
+      "year": "2009",
+      "journal": "Journal of reproductive immunology",
+      "doi": "10.1016/j.jri.2009.05.009",
+      "doi_link": "https://doi.org/10.1016/j.jri.2009.05.009",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19889463",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Male%20germ%20cell%20development%3A%20turning%20on%20the%20apoptotic%20pathways%22",
+      "citations": {
+        "semantic_scholar": 78
+      },
+      "abstract": "From the viewpoint of improving germ cell production and treatment of testicular cancers, understanding the control of testicular cell death is of great relevance. One of the prominent features of spermatogenesis is apoptosis of germ cells at different stages of differentiation, by which excess and unfit cells are discarded to maintain proper tissue homeostasis. A phase of heightened apoptosis known as the 'first wave of spermatogenesis' occurs when the gonocytes differentiate into spermatogonia. The germ cells use an extrinsic pathway of apoptosis involving the Fas/FasL molecules as well as the mitochondrial pathway of death using the Bcl-2 family of proteins. A comprehensive view of the involvement of the different pro- and anti-apoptotic molecules has been defined through the use of mutant and knockout mice and toxin-induced cell death models. In addition, hormones such as estrogens in the male are of great interest. The presence of estrogen receptors on germ cells makes these cells susceptible to environmental agents which can mimic estrogens and potentially cause functional impairment of the male gamete. Post-industrialization, an increase in testicular cancers has been recorded and carcinoma of germ cell origin is susceptible to platinum-based compounds that induce multiple apoptotic pathways. This review covers recent progress made on the above issues. The challenge is now to identify the precise signaling pathways and the mechanisms by which germ cells and germ cell tumors initiate cell death processes, and to utilize this information for improving reproductive health related issues.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper31",
+      "publication_id": "19888987",
+      "title": "Leishmania cell surface prohibitin: role in host-parasite interaction.",
+      "authors": [
+        "Rohit Jain",
+        "Angana Ghoshal",
+        "Chitra Mandal",
+        "Chandrima Shaha"
+      ],
+      "year": "2010",
+      "journal": "Cellular microbiology",
+      "doi": "10.1111/j.1462-5822.2009.01406.x",
+      "doi_link": "https://doi.org/10.1111/j.1462-5822.2009.01406.x",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19888987",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Leishmania%20cell%20surface%20prohibitin%3A%20role%20in%20host-parasite%20interaction%22",
+      "citations": {
+        "semantic_scholar": 38
+      },
+      "abstract": "Proteins selectively upregulated in infective parasitic forms could be critical for disease pathogenesis. A mammalian prohibitin orthologue is upregulated in infective metacyclic promastigotes of Leishmania donovani, a parasite that causes visceral leishmaniasis. Leishmania donovani prohibitin shares 41% similarity with mammalian prohibitin and 95-100% within the genus. Prohibitin is concentrated at the surface of the flagellar and the aflagellar pole, the aflagellar pole being a region through which host-parasite interactions occur. Prohibitin is attached to the membrane through a GPI anchor. Overexpression of wild-type prohibitin increases protein surface density resulting in parasites with higher infectivity. However, parasites overexpressing a mutant prohibitin with an amino acid substitution at the GPI anchor site to prevent surface expression through GPI-link show lesser surface expression and lower infective abilities. Furthermore, the presence of anti-prohibitin antibodies during macrophage-Leishmania interaction in vitro reduces infection. The cognate binding partner for Leishmania prohibitin on the host cell appears to be macrophage surface HSP70, siRNA mediated downregulation of which abrogates the capability of the macrophage to bind to parasites. Leishmania prohibitin is able to generate a strong humoral response in visceral leishmaniasis patients. The above observations suggest that prohibitin plays an important role in events leading to Leishmania-host interaction.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper32",
+      "publication_id": "19856161",
+      "title": "Estrogens and spermatogenesis.",
+      "authors": [
+        "Chandrima Shaha"
+      ],
+      "year": "2008",
+      "journal": "Advances in experimental medicine and biology",
+      "doi": "10.1007/978-0-387-09597-4_3",
+      "doi_link": "https://doi.org/10.1007/978-0-387-09597-4_3",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19856161",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Estrogens%20and%20spermatogenesis%22",
+      "citations": {
+        "semantic_scholar": 40
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper33",
+      "publication_id": "19751707",
+      "title": "Apoptotic effects of mahanine on human leukemic cells are mediated through crosstalk between Apo-1/Fas signaling and the Bid protein and via mitochondrial pathways.",
+      "authors": [
+        "Kaushik Bhattacharya",
+        "Suman K Samanta",
+        "Rakshamani Tripathi",
+        "Asish Mallick",
+        "Sarmila Chandra",
+        "Bikas C Pal",
+        "Chandrima Shaha",
+        "Chitra Mandal"
+      ],
+      "year": "2010",
+      "journal": "Biochemical pharmacology",
+      "doi": "10.1016/j.bcp.2009.09.007",
+      "doi_link": "https://doi.org/10.1016/j.bcp.2009.09.007",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19751707",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Apoptotic%20effects%20of%20mahanine%20on%20human%20leukemic%20cells%20are%20mediated%20through%20crosstalk%20between%20Apo-1/Fas%20signaling%20and%20the%20Bid%20protein%20and%20via%20mitochondrial%20pathways%22",
+      "citations": {
+        "semantic_scholar": 91
+      },
+      "abstract": "Apo-1 (Fas/CD95), a cell surface receptor, triggers apoptosis after binding to its physiological ligand, Apo-1L (FasL/CD95L). This study reports that mahanine, purified from the leaves of Murraya koenigii, has a dose- and time-dependent anti-proliferative activity in acute lymphoid (MOLT-3) and chronic myeloid (K562) leukemic cell lines and in the primary cells of leukemic and myeloid patients, with minimal effect on normal immune cells including CD34(+) cells. Leukemic cells underwent phosphatidylserine externalization and DNA fragmentation, indicating mahanine-induced apoptosis. An increase in reactive oxygen species suggests that the mahanine-induced apoptosis was mediated by oxidative stress. A significant drop in the Bcl2/Bax ratio, the loss of mitochondrial transmembrane potential as well as cytochrome c release from the mitochondria to the cytosol suggested involvement of the mitochondrial pathway of apoptosis. Cytochrome c release was followed by the activation of caspase-9, caspase-3 and caspase-7, and cleavage of PARP in both MOLT-3 and K562 cells. In MOLT-3 cells, formation of the Fas-FasL-FADD-caspase-8 heterotetramer occurred, leading to the cleavage of Bid to its truncated form, which consequently resulted in formation of the mitochondrial transmembrane pore. The incubation of MOLT-3 cells with mahanine in the presence of caspase-8 inhibitor or FasL-neutralizing NOK-2 antibody resulted in the decrease of mahanine-induced cell death. Mahanine was also a potent inhibitor of K562 xenograft growth, which was evident in an athymic nude mice model. In summary, these results provide evidence for involvement of the death receptor-mediated extrinsic pathway of apoptosis in the mahanine-induced anticancer activity in MOLT-3 cells, but not in K562 cells, which are deficient in Fas/FasL.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper34",
+      "publication_id": "18312262",
+      "title": "Crucial role of cytosolic tryparedoxin peroxidase in Leishmania donovani survival, drug response and virulence.",
+      "authors": [
+        "Jitesh P Iyer",
+        "Anees Kaprakkaden",
+        "Manohar L Choudhary",
+        "Chandrima Shaha"
+      ],
+      "year": "2008",
+      "journal": "Molecular microbiology",
+      "doi": "10.1111/j.1365-2958.2008.06154.x",
+      "doi_link": "https://doi.org/10.1111/j.1365-2958.2008.06154.x",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18312262",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Crucial%20role%20of%20cytosolic%20tryparedoxin%20peroxidase%20in%20Leishmania%20donovani%20survival%2C%20drug%20response%20and%20virulence%22",
+      "citations": {
+        "semantic_scholar": 104
+      },
+      "abstract": "Leishmania donovani, the causative agent of visceral leishmaniasis, uses a cascade of enzymes that include cytosolic tryparedoxin peroxidase (cTXNPx) for detoxification of peroxides, an event pivotal for survival of digenic parasites living in two disparate biological environments. In this study, we observed an increase in promastigote cTXNPx levels after exposure to H(2)O(2) and this group did not show any cell death; however, exposure to a combination of H(2)O(2) and nitric oxide resulted in significant reduction of cTXNPx levels accompanied by high cell death. The protective relationship between higher levels of cTXNPx and survival was further substantiated by the improved ability of L. donovani promastigotes overexpressing cTXNPx to withstand exposure to H(2)O(2) and nitric oxide combination as compared with vector transfectants. In addition, cTXNPx transfectants demonstrated increased virulence, causing higher parasite burden in macrophages as compared with vector transfectants. Interestingly, the cTXNPx transfectants as promastigotes or amastigotes were resistant to clearance by the anti-leishmanial drug antimony, suggesting a cTXNPx link to drug response. Mechanistically, cTXNPx overexpression was protective against changes in Ca(2+) homeostasis but not against mitochondrial hyperpolarization brought about by exposure to H(2)O(2) and nitric oxide. Therefore, this study provides a link between cTXNPx expression to survival, virulence and drug response in L. donovani.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper35",
+      "publication_id": "17675494",
+      "title": "Up-regulation of Bcl-2 through ERK phosphorylation is associated with human macrophage survival in an estrogen microenvironment.",
+      "authors": [
+        "Manikandan Subramanian",
+        "Chandrima Shaha"
+      ],
+      "year": "2007",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.179.4.2330",
+      "doi_link": "https://doi.org/10.4049/jimmunol.179.4.2330",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17675494",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Up-regulation%20of%20Bcl-2%20through%20ERK%20phosphorylation%20is%20associated%20with%20human%20macrophage%20survival%20in%20an%20estrogen%20microenvironment%22",
+      "citations": {
+        "semantic_scholar": 65
+      },
+      "abstract": "Estrogen is a known immunomodulator with pleiotropic effects on macrophage function that partly accounts for the gender bias observed in numerous autoimmune, cardiovascular, and neurodegenerative disorders. The effect of estrogen on the survival of human macrophages is largely unknown, and in this study we demonstrate that 17beta-estradiol (E2) provokes a death response in human THP-1 macrophages by initiating Bax translocation from cytosol to the mitochondria; however, a concomitant up-regulation of Bcl-2 creates a Bax to Bcl-2 ratio favorable for Bcl-2, thus ensuring cell survival. Both Bcl-2 up-regulation and Bax translocation are estrogen receptor-dependent events; however, Bcl-2 augmentation but not Bax translocation is dependent on Ca(2+) increase, activation of protein kinase C, and ERK phosphorylation. This estrogen-induced Bcl-2 increase is crucial for the survival of THP-1 macrophages as well as that of human peripheral blood monocyte-derived macrophages, which is evident from E2-induced cell death under small interfering RNA-mediated Bcl-2 knockdown conditions. Hence, this study demonstrates that E2-induced Bcl-2 up-regulation is a homeostatic survival mechanism necessary for the manifestation of immunomodulatory effect of estrogen on human macrophages.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper36",
+      "publication_id": "17566272",
+      "title": "Modulators of spermatogenic cell survival.",
+      "authors": [
+        "Chandrima Shaha"
+      ],
+      "year": "2007",
+      "journal": "Society of Reproduction and Fertility supplement",
+      "doi": null,
+      "doi_link": "",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17566272",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Modulators%20of%20spermatogenic%20cell%20survival%22",
+      "citations": {
+        "semantic_scholar": 55
+      },
+      "abstract": "Apoptosis is a process of cell suicide, the mechanisms of which are encoded in the chromosomes of all nucleated cells. Apoptosis occurs spontaneously throughout mammalian spermatogenesis for the development of normal mature spermatozoa and for the elimination of excess or abnormal germ cells: a critical prerequisite for functional spermatogenesis under physiological conditions. Any deregulation of the apoptotic process during spermatogenesis would lead to defective sperm formation and while increased apoptosis could potentially lead to infertility, decreased cell death could do the same by disrupting testicular homeostasis due to accumulation of cells. Male germ cell apoptosis occurs through two major pathways, involving either mitochondria (intrinsic) or cell surface death receptors (extrinsic). The mitochondrial pathway of apoptosis involves the Bcl-2 group of proteins and different members of this group are involved in diverse situations. The cell death receptor pathway involves members of the TNF receptor superfamily. The stimuli for germ cell apoptosis are internal cues that control proper homeostasis of the testicular tissue or external agents including testicular toxins, heat stress and chemotherapeutic agents. In addition, an imbalance of hormones can lead to the apoptosis of germ cells. The pathway of apoptosis adopted by the germ cells depends on the type of stimuli they receive. This review discusses the recent advances made in the understanding of the mechanisms of germ cell apoptosis that may provide clues to the control of male fertility or treating germ cell tumors and other testis associated pathological conditions.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper37",
+      "publication_id": "16778307",
+      "title": "Apoptosis in Leishmania species & its relevance to disease pathogenesis.",
+      "authors": [
+        "Chandrima Shaha"
+      ],
+      "year": "2006",
+      "journal": "The Indian journal of medical research",
+      "doi": null,
+      "doi_link": "",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16778307",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Apoptosis%20in%20Leishmania%20species%20%26%20its%20relevance%20to%20disease%20pathogenesis%22",
+      "citations": {
+        "semantic_scholar": 98
+      },
+      "abstract": "Apoptosis is a morphologically distinct form of cell death necessary for embryogenesis, tissue homeostasis and disease control in metazoans. Earlier, it was thought that apoptosis is the prerogative of multicellular organisms. However, it is now evident that unicellular organisms are also capable of undergoing apoptosis. In the context of Leishmania spp., a unicellular eukaryote responsible for causing leishmaniasis, the process of apoptosis is important for successful survival. The flagellated promastigote form of the parasite resides in the midgut of the insect vector, the female sandfly and at this niche; the cell fittest to survive to pass onto the pharynx of the fly is selected by eliminating unfit cells through apoptosis. Within the mammalian host, inside the macrophage, apoptosis is necessary to regulate cell numbers and to minimize immune reactions. With most apoptosis inducing stimuli, L. donovani shows typical features of apoptotic death like cell shrinkage, nuclear condensation and DNA fragmentation. Agents capable of precipitating apoptosis in this parasite include anti-leishmanial drugs like antimony, amphotericin B, pentamidine and miltefosine. Other agents like heat shock, treatment with staurosporine, knocking out centrin gene also precipitate apoptosis of the parasites. A pivotal role in cellular apoptosis is played by the single mitochondrion of Leishmania spp., where a fall or increase in mitochondrial potential leads to cell death by apoptosis. Ca2+ appears to be a vital ion involved in Leishmania apoptosis and partial inhibition of cytosolic Ca2+ increase achieved by chelating extracellular or intracellular Ca2+ during oxidative stress results in significant rescue of the fall of the mitochondrial membrane potential and consequently apoptosis. Elucidation of the molecular events linked to apoptotic death of Leishmania spp. might help define a more comprehensive view of the cell death machinery in terms of evolutionary origin and identify new target molecules for chemotherapeutic drug development and therapeutic intervention.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper38",
+      "publication_id": "16678023",
+      "title": "Mechanism of metalloid-induced death in Leishmania spp.: role of iron, reactive oxygen species, Ca2+, and glutathione.",
+      "authors": [
+        "Ashish Mehta",
+        "Chandrima Shaha"
+      ],
+      "year": "2006",
+      "journal": "Free radical biology & medicine",
+      "doi": "10.1016/j.freeradbiomed.2006.01.024",
+      "doi_link": "https://doi.org/10.1016/j.freeradbiomed.2006.01.024",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16678023",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mechanism%20of%20metalloid-induced%20death%20in%20Leishmania%20spp.%3A%20role%20of%20iron%2C%20reactive%20oxygen%20species%2C%20Ca2%2B%2C%20and%20glutathione%22",
+      "citations": {
+        "semantic_scholar": 123
+      },
+      "abstract": "There is growing evidence that metalloid-induced cell death in protozoan parasites is due to oxidative injury; however, the biochemical changes related to this event are not fully understood. Leishmania spp. demonstrated cross-resistance to two related metalloids, arsenic and antimony, and both metalloids induced cell death accompanied by cell shrinkage and DNA fragmentation that was preceded by an increase in reactive oxygen species. Both drugs caused mitochondrial dysfunction in terms of loss of membrane potential and a drop in ATP levels. Arsenic treatment resulted in an elevation of intracellular Ca2+ levels that did not occur with antimony exposure. Cellular glutathione level was reduced after antimony treatment but arsenic did not affect glutathione. Inhibition of Ca2+ influx during arsenic treatment reduced cell death, whereas supplementation of glutathione during antimony treatment rescued cell loss. Under iron-depleted conditions, the cytotoxic effects of arsenic and antimony did not occur and cell survival increased; in contrast, the presence of excess iron resulted in higher cell death. Therefore, this study provides a new possibility that iron can potentiate parasite death induced by metalloids like arsenic and antimony. In addition, an important observation is that the two similar metalloids produce toxicity by very different mechanisms.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper39",
+      "publication_id": "16301318",
+      "title": "Changes in cytosolic Ca2+ levels regulate Bcl-xS and Bcl-xL expression in spermatogenic cells during apoptotic death.",
+      "authors": [
+        "Durga Prasad Mishra",
+        "Rajarshi Pal",
+        "Chandrima Shaha"
+      ],
+      "year": "2006",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M508648200",
+      "doi_link": "https://doi.org/10.1074/jbc.M508648200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16301318",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Changes%20in%20cytosolic%20Ca2%2B%20levels%20regulate%20Bcl-xS%20and%20Bcl-xL%20expression%20in%20spermatogenic%20cells%20during%20apoptotic%20death%22",
+      "citations": {
+        "semantic_scholar": 60
+      },
+      "abstract": "Bcl-x exists in two isoforms, the anti-apoptotic form Bcl-xL and the proapoptotic form Bcl-xS. The critical balance between the two forms appears to be important for cell survival; however, it is still not clear exactly how the vital balance is maintained. Using an in vitro spermatogenic cell apoptosis model, this study provides a new insight into the possible role of Ca2+ in regulating the Bcl-xS and Bcl-xL expression. 2,5-Hexanedione, a metabolite of the common industrial solvent n-hexane, caused a significant increase in reactive oxygen species followed by an enhancement of intracellular Ca2+ through the T-type Ca2+ channels. Consequent to the above changes, expression of Bcl-xS increased with a concomitant drop in Bcl-xL expression, thus altering the ratio of the two proteins. Impediment of Ca2+ influx by using a T-type Ca2+ channel blocker pimozide resulted in a decrease in Bcl-xS and an increase in Bcl-xL expression. This caused prevention of mitochondrial potential loss, reduction of caspase-3 activity, inhibition of DNA fragmentation, and increase in cell survival. Alternatively, Ca2+ ionophores caused an increase of Bcl-xS encoding isoform over the Bcl-xL-encoding isoform. Therefore, this study proposes a role for Ca2+ in regulation of Bcl-xS and Bcl-xL expression and ultimately cell fate.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper40",
+      "publication_id": "15545282",
+      "title": "Estrogen-induced spermatogenic cell apoptosis occurs via the mitochondrial pathway: role of superoxide and nitric oxide.",
+      "authors": [
+        "Durga Prasad Mishra",
+        "Chandrima Shaha"
+      ],
+      "year": "2005",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M405970200",
+      "doi_link": "https://doi.org/10.1074/jbc.M405970200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15545282",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Estrogen-induced%20spermatogenic%20cell%20apoptosis%20occurs%20via%20the%20mitochondrial%20pathway%3A%20role%20of%20superoxide%20and%20nitric%20oxide%22",
+      "citations": {
+        "semantic_scholar": 116
+      },
+      "abstract": "The detrimental effects of estrogen on testicular function provide a conceptual basis to examine the speculative link between increased exposure to estrogens and spermatogenic cell death. Using an in vitro model, we provide an understanding of the events leading to estrogen-induced apoptosis in cells of spermatogenic lineage. Early events associated with estrogen exposure were up-regulation of FasL and increased generation of H(2)O(2), superoxide, and nitric oxide. The ability of anti-FasL antibodies to prevent several downstream biochemical changes and cell death induced by 17beta-estradiol substantiates the involvement of the cell death receptor pathway. Evidence for the amplification of the death-inducing signals through mitochondria was obtained from the transient mitochondrial hyperpolarization observed after estradiol exposure resulting in cytochrome c release. A combination of nitric oxide and superoxide but not H(2)O(2) was responsible for the mitochondrial hyperpolarization. Mn(III) tetrakis(4-benzoic acid)porphyrin chloride, an intracellular peroxynitrite scavenger, was able to reduce mitochondrial hyperpolarization and cell death. Although nitric oxide augmentation occurred through an increase in the expression of inducible nitric-oxide synthase, superoxide up-regulation was a product of estradiol metabolism. All of the above changes were mediated through an estrogen receptor-based mechanism because tamoxifen, the estrogen receptor modulator, was able to rescue the cells from estrogen-induced alterations. This study establishes the importance of the independent capability of cells of the spermatogenic lineage to respond to estrogens and most importantly suggests that low dose estrogens can potentially cause severe spermatogenic cellular dysfunction leading to impaired fertility even without interference of the hypothalamo-hypophyseal axis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper41",
+      "publication_id": "14679210",
+      "title": "Apoptotic death in Leishmania donovani promastigotes in response to respiratory chain inhibition: complex II inhibition results in increased pentamidine cytotoxicity.",
+      "authors": [
+        "Ashish Mehta",
+        "Chandrima Shaha"
+      ],
+      "year": "2004",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M309341200",
+      "doi_link": "https://doi.org/10.1074/jbc.M309341200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/14679210",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Apoptotic%20death%20in%20Leishmania%20donovani%20promastigotes%20in%20response%20to%20respiratory%20chain%20inhibition%3A%20complex%20II%20inhibition%20results%20in%20increased%20pentamidine%20cytotoxicity%22",
+      "citations": {
+        "semantic_scholar": 194
+      },
+      "abstract": "The biochemical changes consequent to respiratory chain inhibition and their relationship to cell death in Leishmania spp. remain elusive. Inhibitors of respiratory chain complexes I, II, and III were able to induce apoptotic death of the bloodstream form of Leishmania donovani. Complex I inhibition resulted in mitochondrial hyperpolarization that was preceded by increased superoxide production. Limitation of electron transport by thenoyltrifluoroacetone and antimycin A, inhibitors of complexes II and III, respectively, resulted in dissipation of mitochondrial membrane potential that was sensitive to cyclosporin A, a blocker of mitochondrial permeability transition pore. Further studies conducted with thenoyltrifluoroacetone showed maximal generation of hydrogen peroxide with a moderate elevation of superoxide levels. Complex III inhibition provoked superoxide generation only. Interference with complex II but not complexes I and III increased intracellular Ca(2+). A tight link between Ca(2+) and reactive oxygen species was demonstrated by antioxidant-induced diminution of the Ca(2+) increase. However, chelation of extracellular Ca(2+) could not abrogate the early increase of reactive oxygen species, providing evidence that Ca(2+) elevation was downstream to reactive oxygen species generation. Ca(2+) influx occurred through nonselective cation and L-type channels and Na(+)/Ca(2+) exchanger-like pathways. Antioxidants such as glutathione and Ca(2+) channel blockers reduced apoptotic death. This study provides a new possibility that concurrent inhibition of respiratory chain complex II with pentamidine administration increases cytotoxicity of the drug. This increased cytotoxicity was connected to a 4-fold elevation in intracellular Ca(2+) that was pooled only from intracellular sources. Therefore, inhibition of complexes I, II, and III leads to apoptosis and complex II inhibition in parallel with pentamidine administration-enhanced drug efficacy.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper42",
+      "publication_id": "12707265",
+      "title": "Antimonial-induced increase in intracellular Ca2+ through non-selective cation channels in the host and the parasite is responsible for apoptosis of intracellular Leishmania donovani amastigotes.",
+      "authors": [
+        "G Sudhandiran",
+        "Chandrima Shaha"
+      ],
+      "year": "2003",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M301975200",
+      "doi_link": "https://doi.org/10.1074/jbc.M301975200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12707265",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Antimonial-induced%20increase%20in%20intracellular%20Ca2%2B%20through%20non-selective%20cation%20channels%20in%20the%20host%20and%20the%20parasite%20is%20responsible%20for%20apoptosis%20of%20intracellular%20Leishmania%20donovani%20amastigotes%22",
+      "citations": {
+        "crossref": 138
+      },
+      "abstract": "The capability of the obligate intracellular parasites like Leishmania donovani to survive within the host cell parasitophorous vacuoles as nonmotile amastigotes determines disease pathogenesis, but the mechanism of elimination of the parasites from these vacuoles are not well understood. By using the anti-leishmanial drug potassium antimony tartrate, we demonstrate that, upon drug exposure, intracellular L. donovani amastigotes undergo apoptotic death characterized by nuclear DNA fragmentation and externalization of phosphatidylserine. Changes upstream of DNA fragmentation included generation of reactive oxygen species like superoxide, nitric oxide, and hydrogen peroxide that were primarily concentrated in the parasitophorous vacuoles. In the presence of antioxidants like N-acetylcysteine or Mn(III) tetrakis(4-benzoic acid)porphyrin chloride, an inhibitor of inducible nitric-oxide synthase, a diminution of reactive oxygen species generation and improvement of amastigote survival were observed, suggesting a close link between drug-induced oxidative stress and amastigote death. Changes downstream to reactive oxygen species increase involved elevation of intracellular Ca2+ concentrations in both the parasite and the host that was preventable by antioxidants. Flufenamic acid, a non-selective cation channel blocker, decreased the elevation of Ca2+ in both the cell types and reduced amastigote death, thus establishing a central role of Ca2+ in intracellular parasite clearance. This influx of Ca2+ was preceded by a fall in the amastigote mitochondrial membrane potential. Therefore, this study projects the importance of flufenamic acid-sensitive non-selective cation channels as important modulators of antimonial efficacy and lends credence to the suggestion that, within the host cell, apoptosis is the preferred mode of death for the parasites.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper43",
+      "publication_id": "12633845",
+      "title": "Functional role of sperm surface glutathione S-transferases and extracellular glutathione in the haploid spermatozoa under oxidative stress.",
+      "authors": [
+        "T Hemachand",
+        "Chandrima Shaha"
+      ],
+      "year": "2003",
+      "journal": "FEBS letters",
+      "doi": "10.1016/s0014-5793(03)00103-0",
+      "doi_link": "https://doi.org/10.1016/s0014-5793(03)00103-0",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12633845",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Functional%20role%20of%20sperm%20surface%20glutathione%20S-transferases%20and%20extracellular%20glutathione%20in%20the%20haploid%20spermatozoa%20under%20oxidative%20stress%22",
+      "citations": {
+        "crossref": 51
+      },
+      "abstract": "On the sperm surface, glutathione S-transferases (GSTs) exist as oocyte binding proteins but their detoxification function in this unique cell type is not known. Using H(2)O(2)- and 4-hydroxynonenal-induced sperm dysfunction models, this study demonstrates that the sperm surface GSTs are able to use extracellular reduced glutathione to inhibit the loss of functional competence of goat spermatozoa; however, in the presence of GST inhibitors, they are unable to do so. In the context of susceptibility of spermatozoa to oxidative stress, this finding that strategically located sperm surface GSTs are important for maintaining the functional competence of sperm is relevant to studies on male infertility.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper44",
+      "publication_id": "12477725",
+      "title": "Diethylstilbestrol induces rat spermatogenic cell apoptosis in vivo through increased expression of spermatogenic cell Fas/FasL system.",
+      "authors": [
+        "Radhika Nair",
+        "Chandrima Shaha"
+      ],
+      "year": "2003",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M209319200",
+      "doi_link": "https://doi.org/10.1074/jbc.M209319200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12477725",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Diethylstilbestrol%20induces%20rat%20spermatogenic%20cell%20apoptosis%20in%20vivo%20through%20increased%20expression%20of%20spermatogenic%20cell%20Fas/FasL%20system%22",
+      "citations": {
+        "semantic_scholar": 113
+      },
+      "abstract": "The significant role that estrogens play in spermatogenesis has opened up an exciting area of research in male reproductive biology. The realization that estrogens are essential for proper maintenance of spermatogenesis, as well as growing evidence pointing to the deleterious effects of estrogen-like chemicals on male reproductive health, has made it imperative to dissect the role estrogens play in the male. Using a model estrogen, diethylstilbestrol (DES), to induce spermatogenic cell apoptosis in vivo in the male rat, we provide a new insight into an estrogen-dependent regulation of the Fas-FasL system specifically in spermatogenic cells. We show a distinct increase in Fas-FasL expression in spermatogenic cells upon exposure to diethylstilbestrol. This increase is confined to the spermatid population, which correlates with increased apoptosis seen in the haploid cells. Testosterone supplementation is able to prevent DES-induced Fas-FasL up-regulation and apoptosis in the spermatogenic cells. DES-induced germ cell apoptosis does not occur in Fas-deficient lpr mice. One other important finding is that spermatogenic cells are type II cells, as the increase in Fas-FasL expression in the spermatogenic cells is followed by the cleavage of caspase-8 to its active form, following which Bax translocates to the mitochondria and precipitates the release of cytochrome c that is accompanied by a drop in mitochondrial potential. Subsequent to this, activation of caspase-9 occurs that in turn activates caspase-3 leading to the cleavage of poly(ADP-ribose) polymerase. Taken together, the data indicate that estrogen-like chemicals can precipitate apoptotic death in spermatogenic cells by increasing the expression of spermatogenic cell Fas-FasL, thus initiating apoptosis in the same lineage of cells through the activation of the apoptotic pathway chosen by type II cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper45",
+      "publication_id": "12220648",
+      "title": "N-acetylcysteine prevents MAA induced male germ cell apoptosis: role of glutathione and cytochrome c.",
+      "authors": [
+        "A V S Kondala Rao",
+        "Chandrima Shaha"
+      ],
+      "year": "2002",
+      "journal": "FEBS letters",
+      "doi": "10.1016/s0014-5793(02)03196-4",
+      "doi_link": "https://doi.org/10.1016/s0014-5793(02)03196-4",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12220648",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22N-acetylcysteine%20prevents%20MAA%20induced%20male%20germ%20cell%20apoptosis%3A%20role%20of%20glutathione%20and%20cytochrome%20c%22",
+      "citations": {
+        "semantic_scholar": 36
+      },
+      "abstract": "Exposure to methoxyacetic acid (MAA), a major byproduct of the paint industry, causes testicular atrophy in multiple species. This study demonstrates DNA breakdown in rat germ cells after exposure to MAA in vivo within 12 h, leading to 40% germ cell death by 24 h. Within 4 h of treatment, cytochrome c is released from the mitochondria into the cytosol without the involvement of mitochondrial potential loss, reactive oxygen species generation or lipid peroxidation events. Peak activation of caspase-9 and caspase-3 is detectable post treatment at 4 and 8 h respectively. There is a decrease in germ cell glutathione levels within 2 h of MAA treatment. Replenishment of glutathione by pretreatment of the animals with the antioxidant N-acetylcysteine prior to MAA treatment could prevent the release of cytochrome c, DNA fragmentation and cell death.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper46",
+      "publication_id": "11983701",
+      "title": "Increase in cytosolic Ca2+ levels through the activation of non-selective cation channels induced by oxidative stress causes mitochondrial depolarization leading to apoptosis-like death in Leishmania donovani promastigotes.",
+      "authors": [
+        "Sikha Bettina Mukherjee",
+        "Manika Das",
+        "Ganapasam Sudhandiran",
+        "Chandrima Shaha"
+      ],
+      "year": "2002",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M201961200",
+      "doi_link": "https://doi.org/10.1074/jbc.M201961200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/11983701",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Increase%20in%20cytosolic%20Ca2%2B%20levels%20through%20the%20activation%20of%20non-selective%20cation%20channels%20induced%20by%20oxidative%20stress%20causes%20mitochondrial%20depolarization%20leading%20to%20apoptosis-like%20death%20in%20Leishmania%20donovani%20promastigotes%22",
+      "citations": {
+        "semantic_scholar": 207
+      },
+      "abstract": "Reactive oxygen species are important regulators of protozoal infection. Promastigotes of Leishmania donovani, the causative agent of Kala-azar, undergo an apoptosis-like death upon exposure to H2O2. The present study shows that upon activation of death response by H2O2, a dose- and time-dependent loss of mitochondrial membrane potential occurs. This loss is accompanied by a depletion of cellular glutathione, but cardiolipin content or thiol oxidation status remains unchanged. ATP levels are reduced within the first 60 min of exposure as a result of mitochondrial membrane potential loss. A tight link exists between changes in cytosolic Ca2+ homeostasis and collapse of the mitochondrial membrane potential, but the dissipation of the potential is independent of elevation of cytosolic Na+ and mitochondrial Ca2+. Partial inhibition of cytosolic Ca2+ increase achieved by chelating extracellular or intracellular Ca2+ by the use of appropriate agents resulted in significant rescue of the fall of the mitochondrial membrane potential and apoptosis-like death. It is further demonstrated that the increase in cytosolic Ca2+ is an additive result of release of Ca2+ from intracellular stores as well as by influx of extracellular Ca2+ through flufenamic acid-sensitive non-selective cation channels; contribution of the latter was larger. Mitochondrial changes do not involve opening of the mitochondrial transition pore as cyclosporin A is unable to prevent mitochondrial membrane potential loss. An antioxidant like N-acetylcysteine is able to inhibit the fall of the mitochondrial membrane potential and prevent apoptosis-like death. Together, these findings show the importance of non-selective cation channels in regulating the response of L. donovani promastigotes to oxidative stress that triggers downstream signaling cascades leading to apoptosis-like death.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper47",
+      "publication_id": "11973347",
+      "title": "Sperm plasma-membrane-associated glutathione S-transferases as gamete recognition molecules.",
+      "authors": [
+        "Tummala Hemachand",
+        "Bagavathi Gopalakrishnan",
+        "Dinakar M Salunke",
+        "Satish M Totey",
+        "Chandrima Shaha"
+      ],
+      "year": "2002",
+      "journal": "Journal of cell science",
+      "doi": "10.1242/jcs.115.10.2053",
+      "doi_link": "https://doi.org/10.1242/jcs.115.10.2053",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/11973347",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Sperm%20plasma-membrane-associated%20glutathione%20S-transferases%20as%20gamete%20recognition%20molecules%22",
+      "citations": {
+        "crossref": 70
+      },
+      "abstract": "Glutathione S-transferases (GSTs) are enzymes that detoxify electrophilic compounds. Earlier studies from our laboratory showed that anti-GST antibodies interfered with the fertilising ability of spermatozoa from Capra hircus (goat) in vitro, suggesting that GSTs are localised at the cell surface. In this study, we provide evidence for the presence of GSTs of 24 kDa on the sperm plasma membrane attached by non-covalent interactions. The GST activity associated with the spermatozoal plasma membrane was significantly higher than the activity present in the plasma membranes of brain cells, hepatocytes, spleenocytes and ventriculocytes. Analysis of GST isoforms demonstrates the presence of GST Pi and Mu on the sperm plasma membranes. Both isoforms were able to bind to solubilised as well as intact zona pellucida (ZP) through their N-terminal regions but failed to bind to ZP once the oocytes were fertilised. Solubilised goat ZP separates into three components, one of which, the ZP3-like component, bound to sperm GSTs. High concentrations of anti-GST antibodies or solubilised ZP led to aggregation of sperm GSTs, resulting in the release of acrosin. In contrast, inhibition of sperm GST binding to ZP, by saturation of binding sites for sperm GSTs on the solubilised ZP using peptides designed from the N-terminii of GST Pi or Mu or blocking of binding sites for ZP on sperm GSTs with antibodies raised against the N-terminal GST peptides, inhibited essential prefertilisation changes in sperm. These data therefore demonstrate the strategic location of catalytically active defensive enzymes on the sperm surface that also act as zona-binding proteins. Therefore, sperm-surface GSTs serve as bifunctional molecules in a transcriptionally inactive cell whose requirement for cellular defense and economy of molecules that it can carry is greater than that of any somatic cell type.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 47,
+    "publications_by_year": {
+      "2025": 1,
+      "2024": 1,
+      "2022": 1,
+      "2021": 1,
+      "2020": 2,
+      "2019": 2,
+      "2018": 5,
+      "2017": 1,
+      "2016": 2,
+      "2015": 5,
+      "2014": 3,
+      "2013": 1,
+      "2011": 2,
+      "2010": 3,
+      "2009": 2,
+      "2008": 2,
+      "2007": 2,
+      "2006": 3,
+      "2005": 1,
+      "2004": 1,
+      "2003": 3,
+      "2002": 3
+    },
+    "top_journals": [
+      "The Journal of biological chemistry",
+      "Antimicrobial agents and chemotherapy",
+      "Biochemical pharmacology",
+      "Molecular and cellular biology",
+      "Journal of immunology (Baltimore, Md. : 1950)"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 70,
+      "frequent_collaborators": [
+        "Chandrima Shaha",
+        "Rakshamani Tripathi",
+        "Chitra Mandal",
+        "Suman K Samanta",
+        "Bikas C Pal",
+        "Asish Mallick",
+        "Sarmila Chandra",
+        "Tanaya Saha"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "20403866",
+        "title": "Male germ cell apoptosis: regulation and biology.",
+        "citations": 336,
+        "year": "2010"
+      },
+      {
+        "publication_id": "11983701",
+        "title": "Increase in cytosolic Ca2+ levels through the activation of non-selective cation channels induced by oxidative stress causes mitochondrial depolarization leading to apoptosis-like death in Leishmania donovani promastigotes.",
+        "citations": 207,
+        "year": "2002"
+      },
+      {
+        "publication_id": "14679210",
+        "title": "Apoptotic death in Leishmania donovani promastigotes in response to respiratory chain inhibition: complex II inhibition results in increased pentamidine cytotoxicity.",
+        "citations": 194,
+        "year": "2004"
+      }
+    ]
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Rajendra P. Roy",
+    "email": "rproy@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/former-faculty/dr-rajendra-p-roy",
+    "research_domain": "Former",
+    "faculty_status": "former",
+    "search_date": "2025-06-27T17:30:02.289157",
+    "total_publications": 12,
+    "last_updated": "2025-06-27",
+    "description": "This document contains a complete list of publications by Dr. Rajendra P. Roy, former faculty in Former at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "9336846",
+      "title": "Conformationally driven protease-catalyzed splicing of peptide segments: V8 protease-mediated synthesis of fragments derived from thermolysin and ribonuclease A.",
+      "authors": [
+        "S Kumaran",
+        "D Datta",
+        "R P Roy"
+      ],
+      "year": "1997",
+      "journal": "Protein science : a publication of the Protein Society",
+      "doi": "10.1002/pro.5560061018",
+      "doi_link": "https://doi.org/10.1002/pro.5560061018",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/9336846",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Conformationally%20driven%20protease-catalyzed%20splicing%20of%20peptide%20segments%3A%20V8%20protease-mediated%20synthesis%20of%20fragments%20derived%20from%20thermolysin%20and%20ribonuclease%20A%22",
+      "citations": {
+        "crossref": 8
+      },
+      "abstract": "We have studied the conformation as well as V8 protease-mediated synthesis of peptide fragments, namely amino acid residues 295-316 (TC-peptide) of thermolysin and residues 1-20 (S-peptide) of ribonuclease A, to examine whether \"conformational trapping\" of the product can facilitate reverse proteolysis. The circular dichroism study showed cosolvent-mediated cooperative helix formation in TC-peptide with attainment of about 30-35% helicity in the presence of 40% 1-propanol and 2-propanol solutions at pH 6 and 4 degrees C. The thermal melting profiles of TC-peptide in the above cosolvents were very similar. V8 protease catalyzed the synthesis of TC-peptide from a 1:1 mixture of the non-interacting complementary fragments (TC295-302 and TC303-316) in the presence of the above cosolvents at pH 6 and 4 degrees C. In contrast, V8 protease did not catalyze the ligation of S1-9 and S10-20, although S-peptide could assume helical conformation in the presence of the cosolvent used for the semisynthetic reaction. V8 protease was able to synthesize an analog of S-peptide (SA-peptide) in which residues 10-14 were substituted (RQHMD-->VAAAK). While S-peptide exhibited helical conformation in the presence of aqueous propanol solutions, SA-peptide displayed predominantly beta-sheet conformation. SA-peptide showed enhanced resistance to proteolysis as compared with S-peptide. Thus, failure of semisynthesis of S-peptide may be a consequence of high flexibility around the 9-10 peptide bond due to its proximity to the helix stop signal. The results suggest that protease-mediated ligations may be achieved by design and manipulation of the conformational aspects of the product.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "10794415",
+      "title": "An enigmatic peptide ligation reaction: protease-catalyzed oligomerization of a native protein segment in neat aqueous solution.",
+      "authors": [
+        "S Kumaran",
+        "D Datta",
+        "R P Roy"
+      ],
+      "year": "2000",
+      "journal": "Protein science : a publication of the Protein Society",
+      "doi": "10.1110/ps.9.4.734",
+      "doi_link": "https://doi.org/10.1110/ps.9.4.734",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/10794415",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22An%20enigmatic%20peptide%20ligation%20reaction%3A%20protease-catalyzed%20oligomerization%20of%20a%20native%20protein%20segment%20in%20neat%20aqueous%20solution%22",
+      "citations": {
+        "crossref": 7
+      },
+      "abstract": "We report an enigmatic peptide ligation reaction catalyzed by Glu-specific Staphylococcus aureus V8 protease that occurs in neat aqueous solution around neutral pH utilizing a totally unprotected peptide substrate containing free alpha-carboxyl and alpha-amino groups. V8 protease catalyzed a chain of ligation steps between pH 6 and 8 at 4 degrees C, producing a gamut of covalent oligomers (dimer through octamer or higher) of a native protein segment TAAAKFE (S39) derived from ribonuclease A (RNAse A). Size-exclusion chromatography suggested the absence of strong interaction between the reacting peptides. The circular dichroism spectra of monomer through pentamer showed length-dependent enhancement of secondary structure in the oligomers, suggesting that protease-catalyzed ligation of a monomer to an oligomer resulted in a product that was more structured than its precursor. The relative conformational stability of the oligomers was reflected in their ability to resist proteolysis, indicating that the oligomerization reaction was facilitated as a consequence of the \"conformational trapping\" of the product. The ligation reaction proceeded in two phases-slow formation and accumulation of the dimer followed by a fast phase of oligomerization, implying that the conformational trap encountered in the oligomerization reaction was a two-step process. The Gly substitution at any position of the TAAAKFE sequence was deleterious, suggesting that the first step of the conformational trap, namely the dimerization reaction, that proceeded very slowly even with the parent peptide, was quite sensitive to amino acid sequence. In contrast, the oligomerization reaction of an Ala analog, AAAAKFE, occurred in much the same way as S39, albeit with faster rate, suggesting that Ala substitution stabilized the overall conformational trapping process. The results suggest the viability of the product-directed \"conformational trap\" as a mechanism to achieve peptide ligation of totally unprotected peptide fragments in neat aqueous solution. Further, the study projects the presence of considerable innate synthetic potential in V8 protease, baring rich possibilities of protein engineering of this enzyme to generate a \"V8 peptide ligase.\"",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "11259442",
+      "title": "A role for the alpha 113 (GH1) amino acid residue in the polymerization of sickle hemoglobin. Evaluation of its inhibitory strength and interaction linkage with two fiber contact sites (alpha 16/23) located in the AB region of the alpha-chain.",
+      "authors": [
+        "M V Sivaram",
+        "R Sudha",
+        "R P Roy"
+      ],
+      "year": "2001",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M101788200",
+      "doi_link": "https://doi.org/10.1074/jbc.M101788200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/11259442",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20role%20for%20the%20alpha%20113%20%28GH1%29%20amino%20acid%20residue%20in%20the%20polymerization%20of%20sickle%20hemoglobin.%20Evaluation%20of%20its%20inhibitory%20strength%20and%20interaction%20linkage%20with%20two%20fiber%20contact%20sites%20%28alpha%2016/23%29%20located%20in%20the%20AB%20region%20of%20the%20alpha-chain%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "A cluster of amino acid residues located in the AB-GH region of the alpha-chain are shown in intra-double strand axial interactions of the hemoglobin S (HbS) polymer. However, alphaLeu-113 (GH1) located in the periphery is not implicated in any interactions by either crystal structure or models of the fiber, and its role in HbS polymerization has not been explored by solution experiments. We have constructed HbS Twin Peaks (betaGlu-6-->Val, alphaLeu-113-->His) to ascertain the hitherto unknown role of the alpha113 site in the polymerization process. The structural and functional behavior of HbS Twin Peaks was comparable with HbS. HbS Twin Peaks polymerized with a slower rate compared with HbS, and its polymer solubility (C(sat)) was found to be about 1.8-fold higher than HbS. To further authenticate the participation of the alpha113 site in the polymerization process as well as to evaluate its relative inhibitory strength, we constructed HbS tetramers in which the alpha113 mutation was coupled individually with two established fiber contact sites (alpha16 and alpha23) located in the AB region of the alpha-chain: HbS(alphaLys-16-->Gln, alphaLeu-113-->His), HbS(alphaGlu-23-->Gln, alphaLeu-113-->His). The single mutants at alpha16/alpha23 sites were also engineered as controls. The C(sat) values of the HbS point mutants involving sites alpha16 or alpha23 were higher than HbS but markedly lower as compared with HbS Twin Peaks. In contrast, C(sat) values of both double mutants were comparable with or higher than that of HbS Twin Peaks. The demonstration of the inhibitory effect of alpha113 mutation alone or in combination with other sites, in quantitative terms, unequivocally establishes a role for this site in HbS gelation. These results have implications for development of a more accurate model of the fiber that could serve as a blueprint for therapeutic intervention.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "12207031",
+      "title": "Volume exclusion effect as a driving force for reverse proteolysis. Implications for polypeptide assemblage in a macromolecular crowded milieu.",
+      "authors": [
+        "Balajee R Somalinga",
+        "Rajendra P Roy"
+      ],
+      "year": "2002",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M207974200",
+      "doi_link": "https://doi.org/10.1074/jbc.M207974200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12207031",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Volume%20exclusion%20effect%20as%20a%20driving%20force%20for%20reverse%20proteolysis.%20Implications%20for%20polypeptide%20assemblage%20in%20a%20macromolecular%20crowded%20milieu%22",
+      "citations": {
+        "crossref": 34
+      },
+      "abstract": "Macromolecular crowding, in principle, should affect any reaction that is accompanied by significant reduction in excluded volume. Here we have examined the influence of crowding on reverse proteolysis. We show that proteosynthesis of a polypeptide product with an interacting folding motif such as coiled coil is facilitated in crowded media as a consequence of the volume exclusion effect. Further, we demonstrate that crowding could also effect the conversion of a noncovalent protein complex (fragment complementing protein) obtained by limited proteolysis to the native covalent form, but only if the formation of the native protein results in large compaction leading to a substantial volume exclusion effect. Subtilisin-catalyzed reformation of native triosephosphate isomerase (TIM) from multiple fragments is facilitated by crowding. However, a single nick in ribonuclease S (RNase S) could not be ligated under similar conditions. The failure of generation of RNase A from RNase S is consistent with the fact that the crystal structure of the two forms are almost superimposable, and hence no significant difference of volume exclusion exists between reactant (RNase S) and product (RNase A). In contrast, considerable compaction, and consequently large reduction in excluded volume, is attained through the assembly of a TIM barrel structure. Taken together, these results have implications for both in vitro as well as in vivo polypeptide assemblage by reverse proteolysis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "14982923",
+      "title": "Linkage of interactions in sickle hemoglobin fiber assembly: inhibitory effect emanating from mutations in the AB region of the alpha-chain is annulled by a mutation at its EF corner.",
+      "authors": [
+        "Rajamani Sudha",
+        "Lavanya Anantharaman",
+        "Mylavarapu V S Sivaram",
+        "Neda Mirsamadi",
+        "Devapriya Choudhury",
+        "Nirmal K Lohiya",
+        "Rasik B Gupta",
+        "Rajendra P Roy"
+      ],
+      "year": "2004",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M311562200",
+      "doi_link": "https://doi.org/10.1074/jbc.M311562200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/14982923",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Linkage%20of%20interactions%20in%20sickle%20hemoglobin%20fiber%20assembly%3A%20inhibitory%20effect%20emanating%20from%20mutations%20in%20the%20AB%20region%20of%20the%20alpha-chain%20is%20annulled%20by%20a%20mutation%20at%20its%20EF%20corner%22",
+      "citations": {
+        "crossref": 3
+      },
+      "abstract": "The AB and GH regions of the alpha-chain are located in spatial proximity and contain a cluster of intermolecular contact residues of the sickle hemoglobin (HbS) fiber. We have examined the role of dynamics of AB/GH region on HbS polymerization through simultaneous replacement of non-contact Ala(19) and Ala(21) of the AB corner with more flexible Gly or rigid alpha-aminoisobutyric acid (Aib) residues. The polymerization behavior of HbS with Aib substitutions was similar to the native HbS. In contrast, Gly substitutions inhibited HbS polymerization. Molecular dynamics simulation studies of alpha-chains indicated that coordinated motion of AB and GH region residues present in native (Ala) as well as in Aib mutant was disrupted in the Gly mutant. The inhibitory effect due to Gly substitutions was further explored in triple mutants that included mutation of an inter-doublestrand contact (alphaAsn(78) --> His or Gln) at the EF corner. Although the inhibitory effect of Gly substitutions in the triple mutant was unaffected in the presence of alphaGln(78), His at this site almost abrogated its inhibitory potential. The polymerization studies of point mutants (alphaGln(78) --> His) indicated that the inhibitory effect due to Gly substitutions in the triple mutant was synergistically compensated for by the polymerization-enhancing activity of His(78). Similar synergistic coupling, between alphaHis(78) and an intra-double-strand contact point (alpha16) mutation located in the AB region, was also observed. Thus, two conclusions are made: (i) Gly mutations at the AB corner inhibit HbS polymerization by perturbing the dynamics of the AB/GH region, and (ii) perturbations of AB region (through changes in dynamics of the AB/GH region or abolition of a specific fiber contact site) that influence HbS polymerization do so in concert with alpha78 site at the EF corner. The overall results provide insights about the interaction-linkage between distant regions of the HbS tetramer in fiber assembly.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "17514412",
+      "title": "Modification of axial fiber contact residues impact sickle hemoglobin polymerization by perturbing a network of coupled interactions.",
+      "authors": [
+        "Srijita Banerjee",
+        "Neda Mirsamadi",
+        "Lavanya Anantharaman",
+        "Mylavarapu V S Sivaram",
+        "Rasik B Gupta",
+        "Devapriya Choudhury",
+        "Rajendra P Roy"
+      ],
+      "year": "2007",
+      "journal": "The protein journal",
+      "doi": "10.1007/s10930-007-9084-1",
+      "doi_link": "https://doi.org/10.1007/s10930-007-9084-1",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17514412",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Modification%20of%20axial%20fiber%20contact%20residues%20impact%20sickle%20hemoglobin%20polymerization%20by%20perturbing%20a%20network%20of%20coupled%20interactions%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "The identity of intermolecular contact residues in sickle hemoglobin (HbS) fiber is largely known. However, our knowledge about combinatorial effects of two or more contact sites or the mechanistic basis of such effects is rather limited. Lys16, His20, and Glu23 of the alpha-chain occur in intra-double strand axial contacts in the sickle hemoglobin (HbS) fiber. Here we have constructed two novel double mutants, HbS (K16Q/E23Q) and (H20Q/E23Q), with a view to delineate cumulative impact of interactions emanating from the above contact sites. Far-UV and visible region CD spectra of the double mutants were similar to the native HbS indicating the presence of native-like secondary and tertiary structure in the mutants. The quaternary structures in both the mutants were also preserved as judged by the derivative UV spectra of liganded (oxy) and unliganded (deoxy) forms of the double mutants. However, the double mutants displayed interesting polymerization behavior. The polymerization behaviour of the double mutants was found to be non-additive of the individual single mutants. While HbS (H20Q/E23Q) showed inhibitory effect similar to that of HbS (E23Q), the intrinsic inhibitory propensity of the associated single mutants was totally quelled in HbS (K16Q/E23Q) double mutant. Molecular dynamics (MD) simulations studies of the isolated alpha-chains as well as a module of the fiber containing the double and associated single mutants suggested that these contact sites at the axial interface of the fiber impact HbS polymerization through a coupled interaction network. The overall results demonstrate a subtle role of dynamics and electrostatics in the polymer formation and provide insights about interaction-linkage in HbS fiber assembly.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "18229923",
+      "title": "Peptide-sugar ligation catalyzed by transpeptidase sortase: a facile approach to neoglycoconjugate synthesis.",
+      "authors": [
+        "Sharmishtha Samantaray",
+        "Uttara Marathe",
+        "Sayani Dasgupta",
+        "Vinay K Nandicoori",
+        "Rajendra P Roy"
+      ],
+      "year": "2008",
+      "journal": "Journal of the American Chemical Society",
+      "doi": "10.1021/ja077358g",
+      "doi_link": "https://doi.org/10.1021/ja077358g",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18229923",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Peptide-sugar%20ligation%20catalyzed%20by%20transpeptidase%20sortase%3A%20a%20facile%20approach%20to%20neoglycoconjugate%20synthesis%22",
+      "citations": {
+        "crossref": 100
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "21566128",
+      "title": "Isopeptide ligation catalyzed by quintessential sortase A: mechanistic cues from cyclic and branched oligomers of indolicidin.",
+      "authors": [
+        "Sayani Dasgupta",
+        "Sharmishtha Samantaray",
+        "Dinkar Sahal",
+        "Rajendra P Roy"
+      ],
+      "year": "2011",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M111.247650",
+      "doi_link": "https://doi.org/10.1074/jbc.M111.247650",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21566128",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Isopeptide%20ligation%20catalyzed%20by%20quintessential%20sortase%20A%3A%20mechanistic%20cues%20from%20cyclic%20and%20branched%20oligomers%20of%20indolicidin%22",
+      "citations": {
+        "crossref": 28
+      },
+      "abstract": "The housekeeping transpeptidase sortase A (SrtA) from Staphyloccocus aureus catalyzes the covalent anchoring of surface proteins to the cell wall by linking the threonyl carboxylate of the LPXTG recognition motif to the amino group of the pentaglycine cross-bridge of the peptidoglycan. SrtA-catalyzed ligation of an LPXTG containing polypeptide with an aminoglycine-terminated moiety occurs efficiently in vitro and has inspired the use of this enzyme as a synthetic tool in biological chemistry. Here we demonstrate the propensity of SrtA to catalyze \"isopeptide\" ligation. Using model peptide sequences, we show that SrtA can transfer LPXTG peptide substrates to the ε-amine of specific Lys residues and form cyclized and/or a gamut of branched oligomers. Our results provide insights about principles governing isopeptide ligation reactions catalyzed by SrtA and suggest that although cyclization is guided by distance relationship between Lys (ε-amine) and Thr (α-carboxyl) residues, facile branched oligomerization requires the presence of a stable and long-lived acyl-enzyme intermediate.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "23042694",
+      "title": "A bioorthogonal chemoenzymatic strategy for defined protein dendrimer assembly.",
+      "authors": [
+        "Kanchan Gupta",
+        "Shikha Singh",
+        "Kallol Gupta",
+        "Naeem Khan",
+        "Devinder Sehgal",
+        "V Haridas",
+        "Rajendra P Roy"
+      ],
+      "year": "2012",
+      "journal": "Chembiochem : a European journal of chemical biology",
+      "doi": "10.1002/cbic.201200559",
+      "doi_link": "https://doi.org/10.1002/cbic.201200559",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23042694",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20bioorthogonal%20chemoenzymatic%20strategy%20for%20defined%20protein%20dendrimer%20assembly%22",
+      "citations": {
+        "crossref": 19
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "24693991",
+      "title": "Sorting of LPXTG peptides by archetypal sortase A: role of invariant substrate residues in modulating the enzyme dynamics and conformational signature of a productive substrate.",
+      "authors": [
+        "Tora Biswas",
+        "Vijaykumar S Pawale",
+        "Devapriya Choudhury",
+        "Rajendra P Roy"
+      ],
+      "year": "2014",
+      "journal": "Biochemistry",
+      "doi": "10.1021/bi4016023",
+      "doi_link": "https://doi.org/10.1021/bi4016023",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24693991",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Sorting%20of%20LPXTG%20peptides%20by%20archetypal%20sortase%20A%3A%20role%20of%20invariant%20substrate%20residues%20in%20modulating%20the%20enzyme%20dynamics%20and%20conformational%20signature%20of%20a%20productive%20substrate%22",
+      "citations": {
+        "crossref": 18
+      },
+      "abstract": "Transpeptidase sortase catalyzes the covalent anchoring of surface proteins to the cell wall in Gram-positive bacteria. Sortase A (SrtA) of Staphylococcus aureus is a prototype enzyme and considered a bona fide drug target because several substrate proteins are virulence-related and implicated in pathogenesis. Besides, SrtA also works as a versatile tool in protein engineering. Surface proteins destined for cell wall anchoring contain a LPXTG sequence located in their C-terminus which serves as a substrate recognition motif for SrtA. Recent studies have implicated substrate-induced conformational dynamics in SrtA. In the present work, we have explored the roles of invariant Leu and Pro residues of the substrate in modulating the enzyme dynamics with a view to understand the selection process of a catalytically competent substrate. Overall results of molecular dynamics simulations and experiments carried out with noncanonical substrates and site-directed mutagenesis reveal that the kinked conformation due to Pro in LPXTG is obligatory for productive binding but does not per se control the enzyme dynamics. The Leu residue of the substrate appears to play the crucial role of an anchor to the beta6-beta7 loop directing the conformational transition of the enzyme from an \"open\" to a \"closed\" state subsequent to which the Pro residue facilitates the consummation of binding through predominant engagement of the loop and catalytic motif residues in hydrophobic interactions. Collectively, our study provides insights about specificity, tolerance, and conformational sorting of substrate by SrtA. These results have important implications in designing newer substrates and inhibitors for this multifaceted enzyme.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "28270507",
+      "title": "Structure and specificity of a new class of Ca2+-independent housekeeping sortase from Streptomyces avermitilis provide insights into its non-canonical substrate preference",
+      "authors": [
+        "Sreetama Das",
+        "Vijaykumar S Pawale",
+        "Venkatareddy Dadireddy",
+        "Avinash Kumar Singh",
+        "Suryanarayanarao Ramakumar",
+        "Rajendra P Roy"
+      ],
+      "year": "2017",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M117.782037",
+      "doi_link": "https://doi.org/10.1074/jbc.M117.782037",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28270507",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structure%20and%20specificity%20of%20a%20new%20class%20of%20Ca2%2B-independent%20housekeeping%20sortase%20from%20Streptomyces%20avermitilis%20provide%20insights%20into%20its%20non-canonical%20substrate%20preference%22",
+      "citations": {
+        "semantic_scholar": 16
+      },
+      "abstract": "Surface proteins in Gram-positive bacteria are incorporated into the cell wall through a peptide ligation reaction catalyzed by transpeptidase sortase. Six main classes (A-F) of sortase have been identified of which class A sortase is meant for housekeeping functions. The prototypic housekeeping sortase A (SaSrtA) from Staphylococcus aureus cleaves LPXTG-containing proteins at the scissile T-G peptide bond and ligates protein-LPXT to the terminal Gly residue of the nascent cross-bridge of peptidoglycan lipid II precursor. Sortase-mediated ligation ('sortagging') of LPXTG-containing substrates and Gly-terminated nucleophiles occurs in vitro as well as in cellulo in the presence of Ca2+ and has been applied extensively for protein conjugations. Although the majority of applications emanate from SaSrtA, low catalytic efficiency, LPXTG specificity restriction, and Ca2+ requirement (particularly for in cellulo applications) remain a drawback. Given that Gram-positive bacteria genomes encode a variety of sortases, natural sortase mining can be a viable complementary approach akin to engineering of wild-type SaSrtA. Here, we describe the structure and specificity of a new class E sortase (SavSrtE) annotated to perform housekeeping roles in Streptomyces avermitilis Biochemical experiments define the attributes of an optimum peptide substrate, demonstrate Ca2+-independent activity, and provide insights about contrasting functional characteristics of SavSrtE and SaSrtA. Crystal structure, substrate docking, and mutagenesis experiments have identified a critical residue that dictates the preference for a non-canonical LAXTG recognition motif over LPXTG. These results have implications for rational tailoring of substrate tolerance in sortases. Besides, Ca2+-independent orthogonal specificity of SavSrtE is likely to expand the sortagging toolkit.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "29575440",
+      "title": "Facile One-Step Assembly of Bona Fide SUMO Conjugates by Chemoenzymatic Ligation.",
+      "authors": [
+        "Vijaykumar S Pawale",
+        "Prity Yadav",
+        "Rajendra P Roy"
+      ],
+      "year": "2018",
+      "journal": "Chembiochem : a European journal of chemical biology",
+      "doi": "10.1002/cbic.201800090",
+      "doi_link": "https://doi.org/10.1002/cbic.201800090",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29575440",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Facile%20One-Step%20Assembly%20of%20Bona%20Fide%20SUMO%20Conjugates%20by%20Chemoenzymatic%20Ligation%22",
+      "citations": {
+        "semantic_scholar": 4
+      },
+      "abstract": "The post-translational conjugation of the small ubiquitin-like modifiers (SUMOs) to target proteins occurs through a complex machinery that involves sequential action of at least three enzymes. SUMOylation performs crucial regulatory functions in several cellular processes. The availability of well-defined SUMO conjugates is necessary for untangling the mechanism of SUMOylation. However, assembly of homogeneous SUMO conjugates represents a challenge because of the multi-step synthesis involved and the unwieldiness of the reconstituted biosynthetic systems. Here we describe a simple one-step chemoenzymatic strategy for conjugating engineered SUMO (eSUMO) proteins to a prefabricated isopeptide-linked SUMO target peptide. Notably, the eSUMOs were efficiently recognized by the enzymes of the SUMOylation machinery and the SUMO conjugates served as bona fide substrates for DeSUMOylating enzymes.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 12,
+    "publications_by_year": {
+      "2018": 1,
+      "2017": 1,
+      "2014": 1,
+      "2012": 1,
+      "2011": 1,
+      "2008": 1,
+      "2007": 1,
+      "2004": 1,
+      "2002": 1,
+      "2001": 1,
+      "2000": 1,
+      "1997": 1
+    },
+    "top_journals": [
+      "The Journal of biological chemistry",
+      "Protein science : a publication of the Protein Society",
+      "Chembiochem : a European journal of chemical biology",
+      "The protein journal",
+      "Journal of the American Chemical Society"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 25,
+      "frequent_collaborators": [
+        "Rajendra P Roy",
+        "R P Roy",
+        "Devapriya Choudhury",
+        "D Datta",
+        "Lavanya Anantharaman",
+        "Mylavarapu V S Sivaram",
+        "Neda Mirsamadi",
+        "Rasik B Gupta"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "18229923",
+        "title": "Peptide-sugar ligation catalyzed by transpeptidase sortase: a facile approach to neoglycoconjugate synthesis.",
+        "citations": 100,
+        "year": "2008"
+      },
+      {
+        "publication_id": "12207031",
+        "title": "Volume exclusion effect as a driving force for reverse proteolysis. Implications for polypeptide assemblage in a macromolecular crowded milieu.",
+        "citations": 34,
+        "year": "2002"
+      },
+      {
+        "publication_id": "21566128",
+        "title": "Isopeptide ligation catalyzed by quintessential sortase A: mechanistic cues from cyclic and branched oligomers of indolicidin.",
+        "citations": 28,
+        "year": "2011"
+      }
+    ]
+  }
+}

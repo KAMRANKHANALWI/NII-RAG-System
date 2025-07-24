@@ -1,0 +1,488 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Devram Ghorpade",
+    "email": "dev@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-devram-ghorpade",
+    "research_domain": "Genetics, Cell Signalling & Cancer Biology",
+    "faculty_status": "current",
+    "search_date": "2025-07-01T14:34:28.520763",
+    "total_publications": 17,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Devram Ghorpade, current faculty in Genetics, Cell Signalling & Cancer Biology at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "40072100",
+      "title": "Development and Validation of AAV-Mediated Liver, Liver-VAT, and Liver-Brain SORT and Therapeutic Regulation of FASN in Hepatic De Novo Lipogenesis.",
+      "authors": [
+        "Ratulananda Bhadury",
+        "Mohammad Athar",
+        "Pooja Mishra",
+        "Chayanika Gogoi",
+        "Shubham Sharma",
+        "Devram S Ghorpade"
+      ],
+      "year": "2025",
+      "journal": "Cells",
+      "doi": "10.3390/cells14050372",
+      "doi_link": "https://doi.org/10.3390/cells14050372",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40072100",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Development%20and%20Validation%20of%20AAV-Mediated%20Liver%2C%20Liver-VAT%2C%20and%20Liver-Brain%20SORT%20and%20Therapeutic%20Regulation%20of%20FASN%20in%20Hepatic%20De%20Novo%20Lipogenesis%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "Hepatic lipogenesis combined with elevated endoplasmic reticulum (ER) stress is central to non-alcoholic steatohepatitis (NASH). However, the therapeutic targeting of key molecules is considerably less accomplished. Adeno-associated virus (AAV)-mediated gene therapies offer a new solution for various human ailments. Comprehensive bio-functional validation studies are essential to assess the impact of AAVs in the target organ for developing both preclinical and clinical gene therapy programs. Here, we have established a robust and efficient protocol for high-titer AAV production to enable detailed Selective ORgan Targeting (SORT) of AAV1, 5, 7, and 8 in vivo. Our results for in vivo SORT showed single organ (liver) targeting by AAV8, no organ targeting by AAV1, and dual organ transduction (liver-brain and liver-VAT) by AAV5 and AAV7. Using a human dataset and preclinical murine models of NASH, we identified an inverse correlation between ER stress-triggered CRELD2 and the de novo lipogenesis driver FASN. Furthermore, liver-specific silencing of CRELD2 via AAV8-shCreld2 strongly supports the contribution of CRELD2 to de novo lipogenesis through FASN regulation. Thus, our study demonstrates a robust method for producing clinically translatable AAVs that could be readily adapted for liver and/or liver-VAT or liver-brain targeted gene therapy.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "35732117",
+      "title": "Hepatocyte DACH1 Is Increased in Obesity via Nuclear Exclusion of HDAC4 and Promotes Hepatic Insulin Resistance.",
+      "authors": [
+        "Lale Ozcan",
+        "Devram S Ghorpade",
+        "Ze Zheng",
+        "Jane Cristina de Souza",
+        "Ke Chen",
+        "Marc Bessler",
+        "Melissa Bagloo",
+        "Beth Schrope",
+        "Richard Pestell",
+        "Ira Tabas"
+      ],
+      "year": "2022",
+      "journal": "Cell reports",
+      "doi": "10.1016/j.celrep.2022.111015",
+      "doi_link": "https://doi.org/10.1016/j.celrep.2022.111015",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35732117",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Hepatocyte%20DACH1%20Is%20Increased%20in%20Obesity%20via%20Nuclear%20Exclusion%20of%20HDAC4%20and%20Promotes%20Hepatic%20Insulin%20Resistance%22",
+      "citations": {
+        "semantic_scholar": 51
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "33274386",
+      "title": "Targeting Soluble DPP-4 for Insulin Resistance: Origin Matters.",
+      "authors": [
+        "Lale Ozcan",
+        "Devram S Ghorpade",
+        "Ira Tabas"
+      ],
+      "year": "2021",
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "doi": "10.1210/clinem/dgaa902",
+      "doi_link": "https://doi.org/10.1210/clinem/dgaa902",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33274386",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Targeting%20Soluble%20DPP-4%20for%20Insulin%20Resistance%3A%20Origin%20Matters%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "31836676",
+      "title": "Withdrawal: Cooperative regulation of NOTCH1 protein-phosphatidylinositol 3-kinase (PI3K) signaling by NOD1, NOD2, and TLR2 receptors renders enhanced refractoriness to transforming growth factor-β (TGF-β)- or cytotoxic T-lymphocyte antigen 4 (CTLA-4)-mediated impairment of human dendritic cell maturation.",
+      "authors": [
+        "Devram Sampat Ghorpade",
+        "Srini V Kaveri",
+        "Jagadeesh Bayry",
+        "Kithiganahalli Narayanaswamy Balaji"
+      ],
+      "year": "2019",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.W119.011943",
+      "doi_link": "https://doi.org/10.1074/jbc.W119.011943",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31836676",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Withdrawal%3A%20Cooperative%20regulation%20of%20NOTCH1%20protein-phosphatidylinositol%203-kinase%20%28PI3K%29%20signaling%20by%20NOD1%2C%20NOD2%2C%20and%20TLR2%20receptors%20renders%20enhanced%20refractoriness%20to%20transforming%20growth%20factor-%CE%B2%20%28TGF-%CE%B2%29-%20or%20cytotoxic%20T-lymphocyte%20antigen%204%20%28CTLA-4%29-mediated%20impairment%20of%20human%20dendritic%20cell%20maturation%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "31836673",
+      "title": "Correction: Ac2PIM-responsive miR-150 and miR-143 target receptor-interacting protein kinase 2 and transforming growth factor beta-activated kinase 1 to suppress NOD2-induced immunomodulators.",
+      "authors": [
+        "Praveen Prakhar",
+        "Sahana Holla",
+        "Devram Sampat Ghorpade",
+        "Martine Gilleron",
+        "Germain Puzo",
+        "Vibha Udupa",
+        "Kithiganahalli Narayanaswamy Balaji"
+      ],
+      "year": "2019",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.AAC119.011907",
+      "doi_link": "https://doi.org/10.1074/jbc.AAC119.011907",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31836673",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Correction%3A%20Ac2PIM-responsive%20miR-150%20and%20miR-143%20target%20receptor-interacting%20protein%20kinase%202%20and%20transforming%20growth%20factor%20beta-activated%20kinase%201%20to%20suppress%20NOD2-induced%20immunomodulators%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "29562231",
+      "title": "Hepatocyte-secreted DPP4 in obesity promotes adipose inflammation and insulin resistance.",
+      "authors": [
+        "Devram S Ghorpade",
+        "Lale Ozcan",
+        "Ze Zheng",
+        "Sarah M Nicoloro",
+        "Yuefei Shen",
+        "Emily Chen",
+        "Matthias Blüher",
+        "Michael P Czech",
+        "Ira Tabas"
+      ],
+      "year": "2018",
+      "journal": "Nature",
+      "doi": "10.1038/nature26138",
+      "doi_link": "https://doi.org/10.1038/nature26138",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29562231",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Hepatocyte-secreted%20DPP4%20in%20obesity%20promotes%20adipose%20inflammation%20and%20insulin%20resistance%22",
+      "citations": {
+        "crossref": 233
+      },
+      "abstract": "Obesity-induced metabolic disease involves functional integration among several organs via circulating factors, but little is known about crosstalk between liver and visceral adipose tissue (VAT). In obesity, VAT becomes populated with inflammatory adipose tissue macrophages (ATMs). In obese humans, there is a close correlation between adipose tissue inflammation and insulin resistance, and in obese mice, blocking systemic or ATM inflammation improves insulin sensitivity. However, processes that promote pathological adipose tissue inflammation in obesity are incompletely understood. Here we show that obesity in mice stimulates hepatocytes to synthesize and secrete dipeptidyl peptidase 4 (DPP4), which acts with plasma factor Xa to inflame ATMs. Silencing expression of DPP4 in hepatocytes suppresses inflammation of VAT and insulin resistance; however, a similar effect is not seen with the orally administered DPP4 inhibitor sitagliptin. Inflammation and insulin resistance are also suppressed by silencing expression of caveolin-1 or PAR2 in ATMs; these proteins mediate the actions of DPP4 and factor Xa, respectively. Thus, hepatocyte DPP4 promotes VAT inflammation and insulin resistance in obesity, and targeting this pathway may have metabolic benefits that are distinct from those observed with oral DPP4 inhibitors.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "27239042",
+      "title": "Hepatocyte DACH1 Is Increased in Obesity via Nuclear Exclusion of HDAC4 and Promotes Hepatic Insulin Resistance.",
+      "authors": [
+        "Lale Ozcan",
+        "Devram S Ghorpade",
+        "Ze Zheng",
+        "Jane Cristina de Souza",
+        "Ke Chen",
+        "Marc Bessler",
+        "Melissa Bagloo",
+        "Beth Schrope",
+        "Richard Pestell",
+        "Ira Tabas"
+      ],
+      "year": "2016",
+      "journal": "Cell reports",
+      "doi": "10.1016/j.celrep.2016.05.006",
+      "doi_link": "https://doi.org/10.1016/j.celrep.2016.05.006",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27239042",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Hepatocyte%20DACH1%20Is%20Increased%20in%20Obesity%20via%20Nuclear%20Exclusion%20of%20HDAC4%20and%20Promotes%20Hepatic%20Insulin%20Resistance%22",
+      "citations": {
+        "semantic_scholar": 51
+      },
+      "abstract": "Defective insulin signaling in hepatocytes is a key factor in type 2 diabetes. In obesity, activation of calcium/calmodulin-dependent protein kinase II (CaMKII) in hepatocytes suppresses ATF6, which triggers a PERK-ATF4-TRB3 pathway that disrupts insulin signaling. Elucidating how CaMKII suppresses ATF6 is therefore essential to understanding this insulin resistance pathway. We show that CaMKII phosphorylates and blocks nuclear translocation of histone deacetylase 4 (HDAC4). As a result, HDAC4-mediated SUMOylation of the corepressor DACH1 is decreased, which protects DACH1 from proteasomal degradation. DACH1, together with nuclear receptor corepressor (NCOR), represses Atf6 transcription, leading to activation of the PERK-TRB3 pathway and defective insulin signaling. DACH1 is increased in the livers of obese mice and humans, and treatment of obese mice with liver-targeted constitutively nuclear HDAC4 or DACH1 small hairpin RNA (shRNA) increases ATF6, improves hepatocyte insulin signaling, and protects against hyperglycemia and hyperinsulinemia. Thus, DACH1-mediated corepression in hepatocytes emerges as an important link between obesity and insulin resistance.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "26391398",
+      "title": "Ac2PIM-responsive miR-150 and miR-143 target receptor-interacting protein kinase 2 and transforming growth factor beta-activated kinase 1 to suppress NOD2-induced immunomodulators.",
+      "authors": [
+        "Praveen Prakhar",
+        "Sahana Holla",
+        "Devram Sampat Ghorpade",
+        "Martine Gilleron",
+        "Germain Puzo",
+        "Vibha Udupa",
+        "Kithiganahalli Narayanaswamy Balaji"
+      ],
+      "year": "2015",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M115.662817",
+      "doi_link": "https://doi.org/10.1074/jbc.M115.662817",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26391398",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Ac2PIM-responsive%20miR-150%20and%20miR-143%20target%20receptor-interacting%20protein%20kinase%202%20and%20transforming%20growth%20factor%20beta-activated%20kinase%201%20to%20suppress%20NOD2-induced%20immunomodulators%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "Specific and coordinated regulation of innate immune receptor-driven signaling networks often determines the net outcome of the immune responses. Here, we investigated the cross-regulation of toll-like receptor (TLR)2 and nucleotide-binding oligomerization domain (NOD)2 pathways mediated by Ac2PIM, a tetra-acylated form of mycobacterial cell wall component and muramyl dipeptide (MDP), a peptidoglycan derivative respectively. While Ac2PIM treatment of macrophages compromised their ability to induce NOD2-dependent immunomodulators like cyclooxygenase (COX)-2, suppressor of cytokine signaling (SOCS)-3, and matrix metalloproteinase (MMP)-9, no change in the NOD2-responsive NO, TNF-α, VEGF-A, and IL-12 levels was observed. Further, genome-wide microRNA expression profiling identified Ac2PIM-responsive miR-150 and miR-143 to target NOD2 signaling adaptors, RIP2 and TAK1, respectively. Interestingly, Ac2PIM was found to activate the SRC-FAK-PYK2-CREB cascade via TLR2 to recruit CBP/P300 at the promoters of miR-150 and miR-143 and epigenetically induce their expression. Loss-of-function studies utilizing specific miRNA inhibitors establish that Ac2PIM, via the miRNAs, abrogate NOD2-induced PI3K-PKCδ-MAPK pathway to suppress β-catenin-mediated expression of COX-2, SOCS-3, and MMP-9. Our investigation has thus underscored the negative regulatory role of Ac2PIM-TLR2 signaling on NOD2 pathway which could broaden our understanding on vaccine potential or adjuvant utilities of Ac2PIM and/or MDP.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "26317499",
+      "title": "Suppression of Adaptive Immune Cell Activation Does Not Alter Innate Immune Adipose Inflammation or Insulin Resistance in Obesity.",
+      "authors": [
+        "Manikandan Subramanian",
+        "Lale Ozcan",
+        "Devram Sampat Ghorpade",
+        "Anthony W Ferrante",
+        "Ira Tabas"
+      ],
+      "year": "2015",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0135842",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0135842",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26317499",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Suppression%20of%20Adaptive%20Immune%20Cell%20Activation%20Does%20Not%20Alter%20Innate%20Immune%20Adipose%20Inflammation%20or%20Insulin%20Resistance%20in%20Obesity%22",
+      "citations": {
+        "crossref": 12
+      },
+      "abstract": "Obesity-induced inflammation in visceral adipose tissue (VAT) is a major contributor to insulin resistance and type 2 diabetes. Whereas innate immune cells, notably macrophages, contribute to visceral adipose tissue (VAT) inflammation and insulin resistance, the role of adaptive immunity is less well defined. To address this critical gap, we used a model in which endogenous activation of T cells was suppressed in obese mice by blocking MyD88-mediated maturation of CD11c+ antigen-presenting cells. VAT CD11c+ cells from Cd11cCre+Myd88fl/fl vs. control Myd88fl/fl mice were defective in activating T cells in vitro, and VAT T and B cell activation was markedly reduced in Cd11cCre+Myd88fl/fl obese mice. However, neither macrophage-mediated VAT inflammation nor systemic inflammation were altered in Cd11cCre+Myd88fl/fl mice, thereby enabling a focused analysis on adaptive immunity. Unexpectedly, fasting blood glucose, plasma insulin, and the glucose response to glucose and insulin were completely unaltered in Cd11cCre+Myd88fl/fl vs. control obese mice. Thus, CD11c+ cells activate VAT T and B cells in obese mice, but suppression of this process does not have a discernible effect on macrophage-mediated VAT inflammation or systemic glucose homeostasis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "26068544",
+      "title": "Treatment of Obese Insulin-Resistant Mice With an Allosteric MAPKAPK2/3 Inhibitor Lowers Blood Glucose and Improves Insulin Sensitivity.",
+      "authors": [
+        "Lale Ozcan",
+        "Xiaoming Xu",
+        "Shi-Xian Deng",
+        "Devram S Ghorpade",
+        "Tiffany Thomas",
+        "Serge Cremers",
+        "Brian Hubbard",
+        "Michael H Serrano-Wu",
+        "Matthias Gaestel",
+        "Donald W Landry",
+        "Ira Tabas"
+      ],
+      "year": "2015",
+      "journal": "Diabetes",
+      "doi": "10.2337/db14-1945",
+      "doi_link": "https://doi.org/10.2337/db14-1945",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26068544",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Treatment%20of%20Obese%20Insulin-Resistant%20Mice%20With%20an%20Allosteric%20MAPKAPK2/3%20Inhibitor%20Lowers%20Blood%20Glucose%20and%20Improves%20Insulin%20Sensitivity%22",
+      "citations": {
+        "crossref": 34
+      },
+      "abstract": "The prevalence of obesity-induced type 2 diabetes (T2D) is increasing worldwide, and new treatment strategies are needed. We recently discovered that obesity activates a previously unknown pathway that promotes both excessive hepatic glucose production (HGP) and defective insulin signaling in hepatocytes, leading to exacerbation of hyperglycemia and insulin resistance in obesity. At the hub of this new pathway is a kinase cascade involving calcium/calmodulin-dependent protein kinase II (CaMKII), p38α mitogen-activated protein kinase (MAPK), and MAPKAPK2/3 (MK2/3). Genetic-based inhibition of these kinases improves metabolism in obese mice. Here, we report that treatment of obese insulin-resistant mice with an allosteric MK2/3 inhibitor, compound (cmpd) 28, ameliorates glucose homeostasis by suppressing excessive HGP and enhancing insulin signaling. The metabolic improvement seen with cmpd 28 is additive with the leading T2D drug, metformin, but it is not additive with dominant-negative MK2, suggesting an on-target mechanism of action. Allosteric MK2/3 inhibitors represent a potentially new approach to T2D that is highly mechanism based, has links to human T2D, and is predicted to avoid certain adverse effects seen with current T2D drugs.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "25208737",
+      "title": "Mycobacterium bovis BCG promotes tumor cell survival from tumor necrosis factor-α-induced apoptosis.",
+      "authors": [
+        "Sahana Holla",
+        "Devram Sampat Ghorpade",
+        "Vikas Singh",
+        "Kushagra Bansal",
+        "Kithiganahalli Narayanaswamy Balaji"
+      ],
+      "year": "2014",
+      "journal": "Molecular cancer",
+      "doi": "10.1186/1476-4598-13-210",
+      "doi_link": "https://doi.org/10.1186/1476-4598-13-210",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25208737",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mycobacterium%20bovis%20BCG%20promotes%20tumor%20cell%20survival%20from%20tumor%20necrosis%20factor-%CE%B1-induced%20apoptosis%22",
+      "citations": {
+        "crossref": 37
+      },
+      "abstract": "BACKGROUND: Increased incidence of lung cancer among pulmonary tuberculosis patients suggests mycobacteria-induced tumorigenic response in the host. The alveolar epithelial cells, candidate cells that form lung adenocarcinoma, constitute a niche for mycobacterial replication and infection. We thus explored the possible mechanism of M. bovis Bacillus Calmette-Guérin (BCG)-assisted tumorigenicity in type II epithelial cells, human lung adenocarcinoma A549 and other cancer cells. METHODS: Cancer cell lines originating from lung, colon, bladder, liver, breast, skin and cervix were treated with tumor necrosis factor (TNF)-α in presence or absence of BCG infection. p53, COP1 and sonic hedgehog (SHH) signaling markers were determined by immunoblotting and luciferase assays, and quantitative real time PCR was done for p53-responsive pro-apoptotic genes and SHH signaling markers. MTT assays and Annexin V staining were utilized to study apoptosis. Gain- and loss-of-function approaches were used to investigate the role for SHH and COP1 signaling during apoptosis. A549 xenografted mice were used to validate the contribution of BCG during TNF-α treatment. RESULTS: Here, we show that BCG inhibits TNF-α-mediated apoptosis in A549 cells via downregulation of p53 expression. Substantiating this observation, BCG rescued A549 xenografts from TNF-α-mediated tumor clearance in nude mice. Furthermore, activation of SHH signaling by BCG induced the expression of an E3 ubiquitin ligase, COP1. SHH-driven COP1 targeted p53, thereby facilitating downregulation of p53-responsive pro-apoptotic genes and inhibition of apoptosis. Similar effects of BCG could be shown for HCT116, T24, MNT-1, HepG2 and HELA cells but not for HCT116 p53(-/-) and MDA-MB-231 cells. CONCLUSION: Our results not only highlight possible explanations for the coexistence of pulmonary tuberculosis and lung cancer but also address probable reasons for failure of BCG immunotherapy of cancers.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "24092752",
+      "title": "NOD2-nitric oxide-responsive microRNA-146a activates Sonic hedgehog signaling to orchestrate inflammatory responses in murine model of inflammatory bowel disease.",
+      "authors": [
+        "Devram Sampat Ghorpade",
+        "Akhuri Yash Sinha",
+        "Sahana Holla",
+        "Vikas Singh",
+        "Kithiganahalli Narayanaswamy Balaji"
+      ],
+      "year": "2013",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M113.492496",
+      "doi_link": "https://doi.org/10.1074/jbc.M113.492496",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24092752",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22NOD2-nitric%20oxide-responsive%20microRNA-146a%20activates%20Sonic%20hedgehog%20signaling%20to%20orchestrate%20inflammatory%20responses%20in%20murine%20model%20of%20inflammatory%20bowel%20disease%22",
+      "citations": {
+        "semantic_scholar": 75
+      },
+      "abstract": "Inflammatory bowel disease (IBD) is a debilitating chronic inflammatory disorder of the intestine. The interactions between enteric bacteria and genetic susceptibilities are major contributors of IBD etiology. Although genetic variants with loss or gain of NOD2 functions have been linked to IBD susceptibility, the mechanisms coordinating NOD2 downstream signaling, especially in macrophages, during IBD pathogenesis are not precisely identified. Here, studies utilizing the murine dextran sodium sulfate model of colitis revealed the crucial roles for inducible nitric-oxide synthase (iNOS) in regulating pathophysiology of IBDs. Importantly, stimulation of NOD2 failed to activate Sonic hedgehog (SHH) signaling in iNOS null macrophages, implicating NO mediated cross-talk between NOD2 and SHH signaling. NOD2 signaling up-regulated the expression of a NO-responsive microRNA, miR-146a, that targeted NUMB gene and alleviated the suppression of SHH signaling. In vivo and ex vivo studies confirmed the important roles for miR-146a in amplifying inflammatory responses. Collectively, we have identified new roles for miR-146a that established novel cross-talk between NOD2-SHH signaling during gut inflammation. Potential implications of these observations in therapeutics could increase the possibility of defining and developing better regimes to treat IBD pathophysiology.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "23733190",
+      "title": "Nitric oxide and KLF4 protein epigenetically modify class II transactivator to repress major histocompatibility complex II expression during Mycobacterium bovis bacillus Calmette-Guerin infection.",
+      "authors": [
+        "Devram Sampat Ghorpade",
+        "Sahana Holla",
+        "Akhauri Yash Sinha",
+        "Senthil Kumar Alagesan",
+        "Kithiganahalli Narayanaswamy Balaji"
+      ],
+      "year": "2013",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M113.472183",
+      "doi_link": "https://doi.org/10.1074/jbc.M113.472183",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23733190",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Nitric%20oxide%20and%20KLF4%20protein%20epigenetically%20modify%20class%20II%20transactivator%20to%20repress%20major%20histocompatibility%20complex%20II%20expression%20during%20Mycobacterium%20bovis%20bacillus%20Calmette-Guerin%20infection%22",
+      "citations": {
+        "semantic_scholar": 30
+      },
+      "abstract": "Pathogenic mycobacteria employ several immune evasion strategies such as inhibition of class II transactivator (CIITA) and MHC-II expression, to survive and persist in host macrophages. However, precise roles for specific signaling components executing down-regulation of CIITA/MHC-II have not been adequately addressed. Here, we demonstrate that Mycobacterium bovis bacillus Calmette-Guérin (BCG)-mediated TLR2 signaling-induced iNOS/NO expression is obligatory for the suppression of IFN-γ-induced CIITA/MHC-II functions. Significantly, NOTCH/PKC/MAPK-triggered signaling cross-talk was found critical for iNOS/NO production. NO responsive recruitment of a bifunctional transcription factor, KLF4, to the promoter of CIITA during M. bovis BCG infection of macrophages was essential to orchestrate the epigenetic modifications mediated by histone methyltransferase EZH2 or miR-150 and thus calibrate CIITA/MHC-II expression. NO-dependent KLF4 regulated the processing and presentation of ovalbumin by infected macrophages to reactive T cells. Altogether, our study delineates a novel role for iNOS/NO/KLF4 in dictating the mycobacterial capacity to inhibit CIITA/MHC-II-mediated antigen presentation by infected macrophages and thereby elude immune surveillance.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "23166298",
+      "title": "Sonic hedgehog-dependent induction of microRNA 31 and microRNA 150 regulates Mycobacterium bovis BCG-driven toll-like receptor 2 signaling.",
+      "authors": [
+        "Devram Sampat Ghorpade",
+        "Sahana Holla",
+        "Srini V Kaveri",
+        "Jagadeesh Bayry",
+        "Shripad A Patil",
+        "Kithiganahalli Narayanaswamy Balaji"
+      ],
+      "year": "2013",
+      "journal": "Molecular and cellular biology",
+      "doi": "10.1128/MCB.01108-12",
+      "doi_link": "https://doi.org/10.1128/MCB.01108-12",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23166298",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Sonic%20hedgehog-dependent%20induction%20of%20microRNA%2031%20and%20microRNA%20150%20regulates%20Mycobacterium%20bovis%20BCG-driven%20toll-like%20receptor%202%20signaling%22",
+      "citations": {
+        "crossref": 64
+      },
+      "abstract": "Hedgehog (HH) signaling is a significant regulator of cell fate decisions during embryogenesis, development, and perpetuation of various disease conditions. Testing whether pathogen-specific HH signaling promotes unique innate recognition of intracellular bacteria, we demonstrate that among diverse Gram-positive or Gram-negative microbes, Mycobacterium bovis BCG, a vaccine strain, elicits a robust activation of Sonic HH (SHH) signaling in macrophages. Interestingly, sustained tumor necrosis factor alpha (TNF-α) secretion by macrophages was essential for robust SHH activation, as TNF-α(-/-) macrophages exhibited compromised ability to activate SHH signaling. Neutralization of TNF-α or blockade of TNF-α receptor signaling significantly reduced the infection-induced SHH signaling activation both in vitro and in vivo. Intriguingly, activated SHH signaling downregulated M. bovis BCG-mediated Toll-like receptor 2 (TLR2) signaling events to regulate a battery of genes associated with divergent functions of M1/M2 macrophages. Genome-wide expression profiling as well as conventional gain-of-function or loss-of-function analysis showed that SHH signaling-responsive microRNA 31 (miR-31) and miR-150 target MyD88, an adaptor protein of TLR2 signaling, thus leading to suppression of TLR2 responses. SHH signaling signatures could be detected in vivo in tuberculosis patients and M. bovis BCG-challenged mice. Collectively, these investigations identify SHH signaling to be what we believe is one of the significant regulators of host-pathogen interactions.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "22473996",
+      "title": "MicroRNA-155 is required for Mycobacterium bovis BCG-mediated apoptosis of macrophages.",
+      "authors": [
+        "Devram Sampat Ghorpade",
+        "Rebecca Leyland",
+        "Mariola Kurowska-Stolarska",
+        "Shripad A Patil",
+        "Kithiganahalli Narayanaswamy Balaji"
+      ],
+      "year": "2012",
+      "journal": "Molecular and cellular biology",
+      "doi": "10.1128/MCB.06597-11",
+      "doi_link": "https://doi.org/10.1128/MCB.06597-11",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22473996",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22MicroRNA-155%20is%20required%20for%20Mycobacterium%20bovis%20BCG-mediated%20apoptosis%20of%20macrophages%22",
+      "citations": {
+        "semantic_scholar": 129
+      },
+      "abstract": "Pathogenic mycobacteria, including Mycobacterium tuberculosis and Mycobacterium bovis, cause significant morbidity and mortality worldwide. However, the vaccine strain Mycobacterium bovis BCG, unlike virulent strains, triggers extensive apoptosis of infected macrophages, a step necessary for the elicitation of robust protective immunity. We here demonstrate that M. bovis BCG triggers Toll-like receptor 2 (TLR2)-dependent microRNA-155 (miR-155) expression, which involves signaling cross talk among phosphatidylinositol 3-kinase (PI3K), protein kinase Cδ (PKCδ), and mitogen-activated protein kinases (MAPKs) and recruitment of NF-κB and c-ETS to miR-155 promoter. Genetic and signaling perturbations presented the evidence that miR-155 regulates PKA signaling by directly targeting a negative regulator of PKA, protein kinase inhibitor alpha (PKI-α). Enhanced activation of PKA signaling resulted in the generation of PKA C-α; phosphorylation of MSK1, cyclic AMP response element binding protein (CREB), and histone H3; and recruitment of phospho-CREB to the apoptotic gene promoters. The miR-155-triggered activation of caspase-3, BAK1, and cytochrome c translocation involved signaling integration of MAPKs and epigenetic or posttranslational modification of histones or CREB. Importantly, M. bovis BCG infection-induced apoptosis was severely compromised in macrophages derived from miR-155 knockout mice. Gain-of-function and loss-of-function studies validated the requirement of miR-155 for M. bovis BCG's ability to trigger apoptosis. Overall, M. bovis BCG-driven miR-155 dictates cell fate decisions of infected macrophages, strongly implicating a novel role for miR-155 in orchestrating cellular reprogramming during immune responses to mycobacterial infection.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "21768114",
+      "title": "Cooperative regulation of NOTCH1 protein-phosphatidylinositol 3-kinase (PI3K) signaling by NOD1, NOD2, and TLR2 receptors renders enhanced refractoriness to transforming growth factor-beta (TGF-beta)- or cytotoxic T-lymphocyte antigen 4 (CTLA-4)-mediated impairment of human dendritic cell maturation.",
+      "authors": [
+        "Devram Sampat Ghorpade",
+        "Srini V Kaveri",
+        "Jagadeesh Bayry",
+        "Kithiganahalli Narayanaswamy Balaji"
+      ],
+      "year": "2011",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M111.232413",
+      "doi_link": "https://doi.org/10.1074/jbc.M111.232413",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21768114",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Cooperative%20regulation%20of%20NOTCH1%20protein-phosphatidylinositol%203-kinase%20%28PI3K%29%20signaling%20by%20NOD1%2C%20NOD2%2C%20and%20TLR2%20receptors%20renders%20enhanced%20refractoriness%20to%20transforming%20growth%20factor-beta%20%28TGF-beta%29-%20or%20cytotoxic%20T-lymphocyte%20antigen%204%20%28CTLA-4%29-mediated%20impairment%20of%20human%20dendritic%20cell%20maturation%22",
+      "citations": {
+        "crossref": 20
+      },
+      "abstract": "Dendritic cells (DCs) as sentinels of the immune system are important for eliciting both primary and secondary immune responses to a plethora of microbial pathogens. Cooperative stimulation of a complex set of pattern-recognition receptors, including TLR2 and nucleotide-binding oligomerization domain (NOD)-like receptors on DCs, acts as a rate-limiting factor in determining the initiation and mounting of the robust immune response. It underscores the need for \"decoding\" these multiple receptor interactions. In this study, we demonstrate that TLR2 and NOD receptors cooperatively regulate functional maturation of human DCs. Intriguingly, synergistic stimulation of TLR2 and NOD receptors renders enhanced refractoriness to TGF-β- or CTLA-4-mediated impairment of human DC maturation. Signaling perturbation data suggest that NOTCH1-PI3K signaling dynamics assume critical importance in TLR2- and NOD receptor-mediated surmounting of CTLA-4- and TGF-β-suppressed maturation of human DCs. Interestingly, the NOTCH1-PI3K signaling axis holds the capacity to regulate DC functions by virtue of PKCδ-MAPK-dependent activation of NF-κB. This study provides mechanistic and functional insights into TLR2- and NOD receptor-mediated regulation of DC functions and unravels NOTCH1-PI3K as a signaling cohort for TLR2 and NOD receptors. These findings serve in building a conceptual foundation for the design of improved strategies for adjuvants and immunotherapies against infectious diseases.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "20837474",
+      "title": "Src homology 3-interacting domain of Rv1917c of Mycobacterium tuberculosis induces selective maturation of human dendritic cells by regulating PI3K-MAPK-NF-kappaB signaling and drives Th2 immune responses.",
+      "authors": [
+        "Kushagra Bansal",
+        "Akhauri Yash Sinha",
+        "Devram Sampat Ghorpade",
+        "Shambhuprasad Kotresh Togarsimalemath",
+        "Shripad A Patil",
+        "Srini V Kaveri",
+        "Kithiganahalli Narayanaswamy Balaji",
+        "Jagadeesh Bayry"
+      ],
+      "year": "2010",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M110.158055",
+      "doi_link": "https://doi.org/10.1074/jbc.M110.158055",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20837474",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Src%20homology%203-interacting%20domain%20of%20Rv1917c%20of%20Mycobacterium%20tuberculosis%20induces%20selective%20maturation%20of%20human%20dendritic%20cells%20by%20regulating%20PI3K-MAPK-NF-kappaB%20signaling%20and%20drives%20Th2%20immune%20responses%22",
+      "citations": {
+        "semantic_scholar": 109
+      },
+      "abstract": "Mycobacterium tuberculosis, an etiological agent of pulmonary tuberculosis, causes significant morbidity and mortality worldwide. Pathogenic mycobacteria survive in the host by subverting host innate immunity. Dendritic cells (DCs) are professional antigen-presenting cells that are vital for eliciting immune responses to infectious agents, including pathogenic mycobacteria. DCs orchestrate distinct Th responses based on the signals they receive. In this perspective, deciphering the interactions of the proline-glutamic acid/proline-proline-glutamic acid (PE/PPE) family of proteins of M. tuberculosis with DCs assumes significant pathophysiological attributes. In this study, we demonstrate that Rv1917c (PPE34), a representative member of the proline-proline-glutamic-major polymorphic tandem repeat family, interacts with TLR2 and triggers functional maturation of human DCs. Signaling perturbations implicated a critical role for integrated cross-talk among PI3K-MAPK and NF-κB signaling cascades in Rv1917c-induced maturation of DCs. However, this maturation of DCs was associated with a secretion of high amounts of anti-inflammatory cytokine IL-10, whereas Th1-polarizing cytokine IL-12 was not induced. Consistent with these results, Rv1917c-matured DCs favored secretion of IL-4, IL-5, and IL-10 from CD4(+) T cells and contributed to Th2-skewed cytokine balance ex vivo in healthy individuals and in patients with pulmonary tuberculosis. Interestingly, the Rv1917c-skewed Th2 immune response involved induced expression of cyclooxygenase-2 (COX-2) in DCs. Taken together, these results indicate that Rv1917c facilitates a shift in the ensuing immunity toward the Th2 phenotype and could aid in immune evasion by mycobacteria.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 17,
+    "publications_by_year": {
+      "2025": 1,
+      "2022": 1,
+      "2021": 1,
+      "2019": 2,
+      "2018": 1,
+      "2016": 1,
+      "2015": 3,
+      "2014": 1,
+      "2013": 3,
+      "2012": 1,
+      "2011": 1,
+      "2010": 1
+    },
+    "top_journals": [
+      "The Journal of biological chemistry",
+      "Cell reports",
+      "Molecular and cellular biology",
+      "Cells",
+      "The Journal of clinical endocrinology and metabolism"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 45,
+      "frequent_collaborators": [
+        "Kithiganahalli Narayanaswamy Balaji",
+        "Ira Tabas",
+        "Devram S Ghorpade",
+        "Sahana Holla",
+        "Devram Sampat Ghorpade",
+        "Srini V Kaveri",
+        "Jagadeesh Bayry",
+        "Ze Zheng"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "29562231",
+        "title": "Hepatocyte-secreted DPP4 in obesity promotes adipose inflammation and insulin resistance.",
+        "citations": 233,
+        "year": "2018"
+      },
+      {
+        "publication_id": "22473996",
+        "title": "MicroRNA-155 is required for Mycobacterium bovis BCG-mediated apoptosis of macrophages.",
+        "citations": 129,
+        "year": "2012"
+      },
+      {
+        "publication_id": "20837474",
+        "title": "Src homology 3-interacting domain of Rv1917c of Mycobacterium tuberculosis induces selective maturation of human dendritic cells by regulating PI3K-MAPK-NF-kappaB signaling and drives Th2 immune responses.",
+        "citations": 109,
+        "year": "2010"
+      }
+    ]
+  }
+}

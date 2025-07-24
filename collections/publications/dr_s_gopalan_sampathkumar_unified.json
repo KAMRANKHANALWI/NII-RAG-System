@@ -1,0 +1,690 @@
+{
+  "faculty_profile": {
+    "name": "Dr. S. Gopalan Sampathkumar",
+    "email": "gopalan@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-s-gopalan-sampathkumar",
+    "research_domain": "Chemical Biology, Biochemistry & Structural Biology",
+    "faculty_status": "current",
+    "search_date": "2025-07-01T14:34:28.520763",
+    "total_publications": 25,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. S. Gopalan Sampathkumar, current faculty in Chemical Biology, Biochemistry & Structural Biology at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "40424122",
+      "title": "Mgat4b-mediated selective N-glycosylation regulates melanocyte development and melanoma progression.",
+      "authors": [
+        "Babita Sharma",
+        "Keerthic Aswin",
+        "Tanya Jain",
+        "Ayesha Nasreen",
+        "Ayush Aggarwal",
+        "Yogaspoorthi J Subramaniam",
+        "Jeyashri Rengaraju",
+        "Srashti Jyoti Agrawal",
+        "Mayank Bhatt",
+        "Bhashkar Paul",
+        "Koushika Chandrasekaran",
+        "Aanchal Yadav",
+        "Jyoti Soni",
+        "Rajat Ujjainiya",
+        "Md Quasid Akhter",
+        "Rajesh Pandey",
+        "Shruthy Suresh",
+        "Srinivasa-Gopalan Sampathkumar",
+        "Vivek T Natarajan"
+      ],
+      "year": "2025",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.2423831122",
+      "doi_link": "https://doi.org/10.1073/pnas.2423831122",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40424122",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mgat4b-mediated%20selective%20N-glycosylation%20regulates%20melanocyte%20development%20and%20melanoma%20progression%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "Melanocyte development involves key pathways that are often recapitulated during melanoma initiation, highlighting the importance of understanding these regulatory processes. Our study identifies mgat4b, a glycosyl transferase involved in selective N-glycan branching enriched in pigment progenitors, as a regulator of directional cell migration and establishment of melanocyte stem cell (McSC) pool during early development. Single cell RNA (scRNA) sequencing analysis in zebrafish upon targeted disruption of mgat4b reveals, that migratory melanocyte progenitors marked by galectin expression fail to persist. Lectin affinity proteomic analysis reveals the glycosylation of key melanocyte proteins GPNMB, KIT, and TYRP1 to be under the control of MGAT4B in melanocytic cells. Additionally, mislocalization of Junctional plakoglobin (JUP) explains the observed defects in cell adhesion and migration to be regulated by MGAT4B but not its isozyme MGAT4A. Our meta-analysis further reveals that melanoma patients with both the BRAFV600E mutation and elevated MGAT4B levels have significantly worse survival outcomes compared to those with only the BRAFV600E mutation. By leveraging the zebrafish MAZERATI platform to model BRAFV600E driver mutation in vivo, we show that mgat4b mutant cells fail to aggregate and initiate tumors. RNA profiling of the transformed melanocytes revealed cell-cell junction, adhesion, and ECM binding to be probable contributing factors that resulted in the failure of tumor onset. Using a small-molecule inhibitor we demonstrate that complex N-glycosylation inhibits early-stage melanoma progression. Our study underscores the importance of selective N-glycan branching in both melanocyte development and melanoma initiation, suggesting MGAT4B as a promising therapeutic target for melanoma treatment.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "35964481",
+      "title": "An expeditious synthesis of novel DNA nucleobase mimics of (+)-anisomycin.",
+      "authors": [
+        "Umesh K Mishra",
+        "Yogesh S Sanghvi",
+        "R Abhiraj",
+        "Srinivasa-Gopalan Sampathkumar",
+        "Namakkal G Ramesh"
+      ],
+      "year": "2022",
+      "journal": "Carbohydrate research",
+      "doi": "10.1016/j.carres.2022.108645",
+      "doi_link": "https://doi.org/10.1016/j.carres.2022.108645",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35964481",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22An%20expeditious%20synthesis%20of%20novel%20DNA%20nucleobase%20mimics%20of%20%28%2B%29-anisomycin%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "A glycal based expeditious synthesis of novel nucleoside analogues of (+)-anisomycin is reported. Readily available tri-O-benzyl-D-glucal was converted to a partially protected trihydroxypyrrolidine that is used as a common scaffold for the introduction of various nucleobases at the primary hydroxyl centre. Nucleoside analogues possessing all four DNA bases have been synthesized. Selective acetylation at C3 position was carried out with two of these unnatural nucleosides in order to mimic the structure of (+)-anisomycin. Cytotoxicity studies of some of these nucleosides showed that they display weaker activity on HeLa cells than Ara-C.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "33609441",
+      "title": "Efficient inhibition of O-glycan biosynthesis using the hexosamine analog Ac5GalNTGc.",
+      "authors": [
+        "Shuen-Shiuan Wang",
+        "Virginia Del Solar",
+        "Xinheng Yu",
+        "Aristotelis Antonopoulos",
+        "Alan E Friedman",
+        "Kavita Agarwal",
+        "Monika Garg",
+        "Syed Meheboob Ahmed",
+        "Ahana Addhya",
+        "Mehrab Nasirikenari",
+        "Joseph T Lau",
+        "Anne Dell",
+        "Stuart M Haslam",
+        "Srinivasa-Gopalan Sampathkumar",
+        "Sriram Neelamegham"
+      ],
+      "year": "2021",
+      "journal": "Cell chemical biology",
+      "doi": "10.1016/j.chembiol.2021.01.017",
+      "doi_link": "https://doi.org/10.1016/j.chembiol.2021.01.017",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33609441",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Efficient%20inhibition%20of%20O-glycan%20biosynthesis%20using%20the%20hexosamine%20analog%20Ac5GalNTGc%22",
+      "citations": {
+        "semantic_scholar": 14
+      },
+      "abstract": "There is a critical need to develop small-molecule inhibitors of mucin-type O-linked glycosylation. The best-known reagent currently is benzyl-GalNAc, but it is effective only at millimolar concentrations. This article demonstrates that Ac5GalNTGc, a peracetylated C-2 sulfhydryl-substituted GalNAc, fulfills this unmet need. When added to cultured leukocytes, breast cells, and prostate cells, Ac5GalNTGc increased cell-surface VVA binding by ∼10-fold, indicating truncation of O-glycan biosynthesis. Cytometry, mass spectrometry, and western blot analysis of HL-60 promyelocytes demonstrated that 50-80 μM Ac5GalNTGc prevented elaboration of 30%-60% of the O-glycans beyond the Tn-antigen (GalNAcα1-Ser/Thr) stage. The effect of the compound on N-glycans and glycosphingolipids was small. Glycan inhibition induced by Ac5GalNTGc resulted in 50%-80% reduction in leukocyte sialyl-Lewis X expression and L-/P-selectin-mediated rolling under flow conditions. Ac5GalNTGc was pharmacologically active in mouse. It reduced neutrophil infiltration to sites of inflammation by ∼60%. Overall, Ac5GalNTGc may find diverse applications as a potent inhibitor of O-glycosylation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "31125361",
+      "title": "Sortase-click strategy for defined protein conjugation on a heptavalent cyclodextrin scaffold.",
+      "authors": [
+        "Shikha Singh",
+        "Kanchan Gupta",
+        "Shagun Shukla",
+        "Srinivasa-Gopalan Sampathkumar",
+        "Rajendra P Roy"
+      ],
+      "year": "2019",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0217369",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0217369",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31125361",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Sortase-click%20strategy%20for%20defined%20protein%20conjugation%20on%20a%20heptavalent%20cyclodextrin%20scaffold%22",
+      "citations": {
+        "crossref": 11
+      },
+      "abstract": "Multivalent proteins or protein dendrimers are useful for clinical and biotechnological applications. However, assembly of chemically defined protein dendrimers is a challenging endeavor. In the past, majority of protein dendrimers have been developed on branched lysine scaffolds and are usually limited to a valency of two to four. The naturally occurring cyclodextrin (CD) scaffold composed of 6-8 glucose units offers the possibility of expanding the valency. Here we have adapted a chemoenzymatic-click strategy for displaying heptavalent peptides and large proteins on the β-cyclodextrin (β-CD) scaffold. We demonstrate that recombinant proteins (engineered with a LPXTG pentapeptide motif at the carboxy terminus), labeled with an alkyne moiety by sortase-mediated ligation, can be easily clicked on to the azide-derivatized β-cyclodextrin through the Huisgen cycloaddition reaction yielding a well-defined heptavalent display of proteins.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "33525793",
+      "title": "Chemical and biological methods for probing the structure and functions of polysialic acids.",
+      "authors": [
+        "Surbhi Goswami",
+        "Shubham Parashar",
+        "Vandita Dwivedi",
+        "Asif Shajahan",
+        "Srinivasa-Gopalan Sampathkumar"
+      ],
+      "year": "2018",
+      "journal": "Emerging topics in life sciences",
+      "doi": "10.1042/ETLS20180008",
+      "doi_link": "https://doi.org/10.1042/ETLS20180008",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33525793",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Chemical%20and%20biological%20methods%20for%20probing%20the%20structure%20and%20functions%20of%20polysialic%20acids%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "Owing to its poly-anionic charge and large hydrodynamic volume, polysialic acid (polySia) attached to neural cell adhesion molecule regulates axon-axon and axon-substratum interactions and signalling, particularly, in the development of the central nervous system (CNS). Expression of polySia is spatiotemporally regulated by the action of two polysialyl transferases, namely ST8SiaII and ST8SiaIV. PolySia expression peaks during late embryonic and early post-natal period and maintained at a steady state in adulthood in neurogenic niche of the brain. Aberrant polySia expression is associated with neurological disorders and brain tumours. Investigations on the structure and functions, over the past four decades, have shed light on the physiology of polySia. This review focuses on the biological, biochemical, and chemical tools available for polySia engineering. Genetic knockouts, endo-neuraminidases that cleave polySia, antibodies, exogenous expression, and neuroblastoma cells have provided deep insights into the ability of polySia to guide migration of neuronal precursors in neonatal brain development, neuronal clustering, axonal pathway guidance, and axonal targeting. Advent of metabolic sialic acid engineering using ManNAc analogues has enabled reversible and dose-dependent modulation polySia in vitro and ex vivo. In vivo, ManNAc analogues readily engineer the sialoglycans in peripheral tissues, but show no effect in the brain. A recently developed carbohydrate-neuroactive hybrid strategy enables a non-invasive access to the brain in living animals across the blood-brain barrier. A combination of recent advances in CNS drugs and imaging with ManNAc analogues for polySia modulation would pave novel avenues for understanding intricacies of brain development and tackling the challenges of neurological disorders.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "30336974",
+      "title": "Differential inhibition of mucin-type O-glycosylation (MTOG) induced by peracetyl N-thioglycolyl-d-galactosamine (Ac5GalNTGc) in myeloid cells.",
+      "authors": [
+        "Vandita Dwivedi",
+        "Pratima Saini",
+        "Anam Tasneem",
+        "Kavita Agarwal",
+        "Srinivasa-Gopalan Sampathkumar"
+      ],
+      "year": "2018",
+      "journal": "Biochemical and biophysical research communications",
+      "doi": "10.1016/j.bbrc.2018.08.131",
+      "doi_link": "https://doi.org/10.1016/j.bbrc.2018.08.131",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30336974",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Differential%20inhibition%20of%20mucin-type%20O-glycosylation%20%28MTOG%29%20induced%20by%20peracetyl%20N-thioglycolyl-d-galactosamine%20%28Ac5GalNTGc%29%20in%20myeloid%20cells%22",
+      "citations": {
+        "semantic_scholar": 4
+      },
+      "abstract": "Investigations on the structure and functional roles of glycosylation - an intricate, complex, and dynamic post translational modification on proteins - in biological processes has been a challenging task. Glycan modifications vary depending on the specific cell type, its developmental stage, and resting or activated state. In the present study, we aim to understand the differences between the mucin-type O-glycosylation (MTOG) of two functionally divergent human cell lines, K562 (chronic myeloid leukemia) and U937 (histiocytic lymphoma), having myeloid origins. MTOG is initiated by the addition of N-acetyl-α-d-galactosamine (GalNAc) to Ser/Thr of glycoproteins. We exploited the metabolic glycan engineering (MGE) strategy using the peracetyl N-thioglycolyl-d-galactosamine (Ac5GalNTGc), a synthetic GalNAc analogue, to engineer the glycoconjugates. Ac5GalNTGc was metabolized and incorporated as N-thioglycolyl-d-galactosamine (GalNTGc) in cell surface glycoproteins in both the cell lines with varying degrees of efficiency. Notably, metabolic incorporation of GalNTGc resulted in differential inhibition of MTOG. It was observed that endogenous glycosylation machinery of K562 is relatively more stringent for selecting GalNTGc whereas U937 is flexible towards this selection. Additionally, we studied how the glycan modifications vary on a given CD antigen in these cell lines. Particularly, MTOG on CD43 was differentially inhibited in K562 and U937 as revealed by glycan-dependent and glycan-independent antibodies. It was observed that the effect of MGE on CD43 was similar to global effects on both cell lines. Consequences of MGE using GalNAc analogues depend on the expression and activity of various glycosyl transferases which determine global glycosylation on cell surface as well as on specific glycoproteins.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "27997162",
+      "title": "Carbohydrate-Neuroactive Hybrid Strategy for Metabolic Glycan Engineering of the Central Nervous System in Vivo.",
+      "authors": [
+        "Asif Shajahan",
+        "Shubham Parashar",
+        "Surbhi Goswami",
+        "Syed Meheboob Ahmed",
+        "Perumal Nagarajan",
+        "Srinivasa-Gopalan Sampathkumar"
+      ],
+      "year": "2017",
+      "journal": "Journal of the American Chemical Society",
+      "doi": "10.1021/jacs.6b08894",
+      "doi_link": "https://doi.org/10.1021/jacs.6b08894",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27997162",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Carbohydrate-Neuroactive%20Hybrid%20Strategy%20for%20Metabolic%20Glycan%20Engineering%20of%20the%20Central%20Nervous%20System%20in%20Vivo%22",
+      "citations": {
+        "crossref": 26
+      },
+      "abstract": "Sialic acids are abundant in the central nervous system (CNS) and are essential for brain development, learning, and memory. Dysregulation in biosynthesis of sialo-glycoconjugates is known to be associated with neurological disorders, CNS injury, and brain cancer. Metabolic glycan engineering (MGE) and bioorthogonal ligation have enabled study of biological roles of glycans in vivo; however, direct investigations of sialoglycans in brain have been intractable. We report a simple strategy utilizing carbohydrate-neuroactive hybrid (CNH) molecules, which exploit carrier-mediated transport systems available at the blood-brain barrier, to access brain via tail vein injection in mice. Peracetylated N-azidoacetyl-d-mannosamine (Ac4ManNAz) conjugated with neuroactive carriers, namely, nicotinic acid, valproic acid, theophylline-7-acetic acid, and choline, were synthesized and evaluated in SH-SY5Y (human neuroblastoma) cells for MGE. Intravenous administration of CNH molecules in mice (C57BL/6J and BALB/cByJ) resulted in robust expression of N-azidoacetyl-neuraminic acid (NeuAz)-carrying glycoproteins in both brain and heart, while the nonhybrid molecule Ac4ManNAz showed NeuAz expression in heart but not in brain. Successful neuroactive carriers were then conjugated with N-butanoyl-d-mannosamine (ManNBut) with a goal to achieve modulation of polysialic acid (polySia) on neural cell adhesion molecules (NCAM). PolySia levels on NCAM in adult mice were reduced significantly upon administration of Ac3ManNBut-nicotinate hybrid, but not with Ac4ManNBut. This novel application of MGE not only offers a noninvasive tool for investigating brain glycosylation, which could be developed in to brain mapping applications, but also serves as a potential drug by which modulation of neural glycan biosynthesis and thus function can be achieved in vivo.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "25720500",
+      "title": "Rifampicin reduces advanced glycation end products and activates DAF-16 to increase lifespan in Caenorhabditis elegans.",
+      "authors": [
+        "Sandeep Golegaonkar",
+        "Syed S Tabrez",
+        "Awadhesh Pandit",
+        "Shalini Sethurathinam",
+        "Mashanipalya G Jagadeeshaprasad",
+        "Sneha Bansode",
+        "Srinivasa-Gopalan Sampathkumar",
+        "Mahesh J Kulkarni",
+        "Arnab Mukhopadhyay"
+      ],
+      "year": "2015",
+      "journal": "Aging cell",
+      "doi": "10.1111/acel.12327",
+      "doi_link": "https://doi.org/10.1111/acel.12327",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25720500",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Rifampicin%20reduces%20advanced%20glycation%20end%20products%20and%20activates%20DAF-16%20to%20increase%20lifespan%20in%20Caenorhabditis%20elegans%22",
+      "citations": {
+        "semantic_scholar": 43
+      },
+      "abstract": "Advanced glycation end products (AGEs) are formed when glucose reacts nonenzymatically with proteins; these modifications are implicated in aging and pathogenesis of many age-related diseases including type II diabetes, atherosclerosis, and neurodegenerative disorders. Thus, pharmaceutical interventions that can reduce AGEs may delay age-onset diseases and extend lifespan. Using LC-MS(E), we show that rifampicin (RIF) reduces glycation of important cellular proteins in vivo and consequently increases lifespan in Caenorhabditis elegans by up to 60%. RIF analog rifamycin SV (RSV) possesses similar properties, while rifaximin (RMN) lacks antiglycation activity and therefore fails to affect lifespan positively. The efficacy of RIF and RSV as potent antiglycating agents may be attributed to the presence of a p-dihydroxyl moiety that can potentially undergo spontaneous oxidation to yield highly reactive p-quinone structures, a feature absent in RMN. We also show that supplementing rifampicin late in adulthood is sufficient to increase lifespan. For its effect on longevity, rifampicin requires DAF-18 (nematode PTEN) as well as JNK-1 and activates DAF-16, the FOXO homolog. Interestingly, the drug treatment modulates transcription of a different subset of DAF-16 target genes, those not controlled by the conserved Insulin-IGF-1-like signaling pathway. RIF failed to increase the lifespan of daf-16 null mutant despite reducing glycation, showing thereby that DAF-16 may not directly affect AGE formation. Together, our data suggest that the dual ability to reduce glycation in vivo and activate prolongevity processes through DAF-16 makes RIF and RSV effective lifespan-extending interventions.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "23987472",
+      "title": "Inhibition of mucin-type O-glycosylation through metabolic processing and incorporation of N-thioglycolyl-D-galactosamine peracetate (Ac5GalNTGc).",
+      "authors": [
+        "Kavita Agarwal",
+        "Rachna Kaul",
+        "Monika Garg",
+        "Asif Shajahan",
+        "Saroj Kumar Jha",
+        "Srinivasa-Gopalan Sampathkumar"
+      ],
+      "year": "2013",
+      "journal": "Journal of the American Chemical Society",
+      "doi": "10.1021/ja405189k",
+      "doi_link": "https://doi.org/10.1021/ja405189k",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23987472",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Inhibition%20of%20mucin-type%20O-glycosylation%20through%20metabolic%20processing%20and%20incorporation%20of%20N-thioglycolyl-D-galactosamine%20peracetate%20%28Ac5GalNTGc%29%22",
+      "citations": {
+        "crossref": 22
+      },
+      "abstract": "Mucin-type O-glycans form one of the most abundant and complex post-translational modifications (PTM) on cell surface proteins that govern adhesion, migration, and trafficking of hematopoietic cells. Development of targeted approaches to probe functions of O-glycans is at an early stage. Among several approaches, small molecules with unique chemical functional groups that could modulate glycan biosynthesis form a critical tool. Herein, we show that metabolism of peracetyl N-acyl-D-galactosamine derivatives carrying an N-thioglycolyl (Ac5GalNTGc, 1) moiety-but not N-glycolyl (Ac5GalNGc, 2) and N-acetyl (Ac4GalNAc, 3)-through the N-acetyl-D-galactosamine (GalNAc) salvage pathway induced abrogation of MAL-II and PNA epitopes in Jurkat cells. Mass spectrometry of permethylated O-glycans from Jurkat cells confirmed the presence of significant amounts of elaborated O-glycans (sialyl-T and disialyl-T) which were inhibited upon treatment with 1. O-Glycosylation of CD43, a cell surface antigen rich in O-glycans, was drastically reduced by 1 in a thiol-dependent manner. By contrast, only mild effects were observed for CD45 glycoforms. Direct metabolic incorporation of 1 was confirmed by thiol-selective Michael addition reaction of immunoprecipitated CD43-myc/FLAG. Mechanistically, CD43 glycoforms were unperturbed by peracetylated N-(3-acetylthiopropanoyl) (4), N-(4-acetylthiobutanoyl) (5), and N-methylthioacetyl (6) galactosamine derivatives, N-thioglycolyl-D-glucosamine (7, C-4 epimer of 1), and α-O-benzyl 2-acetamido-2-deoxy-D-galactopyranoside (8), confirming the critical requirement of both free sulfhydryl and galactosamine moieties for inhibition of mucin-type O-glycans. Similar, yet differential, effects of 1 were observed for CD43 glycoforms in multiple hematopoietic cells. Development of small molecules that could alter glycan patterns in an antigen-selective and cell-type selective manner might provide avenues for understanding biological functions of glycans.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "21684742",
+      "title": "Deciphering glycan linkages involved in Jurkat cell interactions with gold-coated nanofibers via sugar-displayed thiols.",
+      "authors": [
+        "Jian Du",
+        "Pao-Lin Che",
+        "Udayanath Aich",
+        "Elaine Tan",
+        "Hyo Jun Kim",
+        "Srinivasa-Gopalan Sampathkumar",
+        "Kevin J Yarema"
+      ],
+      "year": "2011",
+      "journal": "Bioorganic & medicinal chemistry letters",
+      "doi": "10.1016/j.bmcl.2011.05.044",
+      "doi_link": "https://doi.org/10.1016/j.bmcl.2011.05.044",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21684742",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Deciphering%20glycan%20linkages%20involved%20in%20Jurkat%20cell%20interactions%20with%20gold-coated%20nanofibers%20via%20sugar-displayed%20thiols%22",
+      "citations": {
+        "semantic_scholar": 17
+      },
+      "abstract": "Metabolic oligosaccharide engineering (MOE) provides a method to install novel chemical functional groups into the glycocalyx of living cells. In this Letter we use this technology to compare the impact of replacing natural sialic acid, GalNAc, and GlcNAc with their thiol-bearing counterparts in Jurkat and HL-60 cells. When incubated in the presence of gold-coated nanofibers, only Jurkat cells incubated with Ac(5)ManNTGc-an analogue that installs thiols into sialosides-experienced a distinctive 'spreading' morphology. The comparison of Ac(5)ManNTGc with Ac(5)GalNTGc and Ac(5)GlcNTGc in the two cell lines implicated sialosides of N-linked glycans as critical molecular mediators of the unusual responses evoked in the Jurkat line.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "20726799",
+      "title": "Lectin microarrays for glycomic analysis.",
+      "authors": [
+        "Garima Gupta",
+        "Avadhesha Surolia",
+        "Srinivasa-Gopalan Sampathkumar"
+      ],
+      "year": "2010",
+      "journal": "Omics : a journal of integrative biology",
+      "doi": "10.1089/omi.2009.0150",
+      "doi_link": "https://doi.org/10.1089/omi.2009.0150",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20726799",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Lectin%20microarrays%20for%20glycomic%20analysis%22",
+      "citations": {
+        "semantic_scholar": 95
+      },
+      "abstract": "Glycomics is the study of comprehensive structural elucidation and characterization of all glycoforms found in nature and their dynamic spatiotemporal changes that are associated with biological processes. Glycocalyx of mammalian cells actively participate in cell-cell, cell-matrix, and cell-pathogen interactions, which impact embryogenesis, growth and development, homeostasis, infection and immunity, signaling, malignancy, and metabolic disorders. Relative to genomics and proteomics, glycomics is just growing out of infancy with great potential in biomedicine for biomarker discovery, diagnosis, and treatment. However, the immense diversity and complexity of glycan structures and their multiple modes of interactions with proteins pose great challenges for development of analytical tools for delineating structure function relationships and understanding glyco-code. Several tools are being developed for glycan profiling based on chromatography, mass spectrometry, glycan microarrays, and glyco-informatics. Lectins, which have long been used in glyco-immunology, printed on a microarray provide a versatile platform for rapid high throughput analysis of glycoforms of biological samples. Herein, we summarize technological advances in lectin microarrays and critically review their impact on glycomics analysis. Challenges remain in terms of expansion to include nonplant derived lectins, standardization for routine clinical use, development of recombinant lectins, and exploration of plant kingdom for discovery of novel lectins.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "20458533",
+      "title": "Development of delivery methods for carbohydrate-based drugs: controlled release of biologically-active short chain fatty acid-hexosamine analogs.",
+      "authors": [
+        "Udayanath Aich",
+        "M Adam Meledeo",
+        "Srinivasa-Gopalan Sampathkumar",
+        "Jie Fu",
+        "Mark B Jones",
+        "Christopher A Weier",
+        "Sung Yun Chung",
+        "Benjamin C Tang",
+        "Ming Yang",
+        "Justin Hanes",
+        "Kevin J Yarema"
+      ],
+      "year": "2010",
+      "journal": "Glycoconjugate journal",
+      "doi": "10.1007/s10719-010-9292-3",
+      "doi_link": "https://doi.org/10.1007/s10719-010-9292-3",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20458533",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Development%20of%20delivery%20methods%20for%20carbohydrate-based%20drugs%3A%20controlled%20release%20of%20biologically-active%20short%20chain%20fatty%20acid-hexosamine%20analogs%22",
+      "citations": {
+        "crossref": 18
+      },
+      "abstract": "Carbohydrates are attractive candidates for drug development because sugars are involved in many, if not most, complex human diseases including cancer, immune dysfunction, congenital disorders, and infectious diseases. Unfortunately, potential therapeutic benefits of sugar-based drugs are offset by poor pharmacologic properties that include rapid serum clearance, poor cellular uptake, and relatively high concentrations required for efficacy. To address these issues, pilot studies are reported here where 'Bu(4)ManNAc', a short chain fatty acid-monosaccharide hybrid molecule with anti-cancer activities, was encapsulated in polyethylene glycol-sebacic acid (PEG-SA) polymers. Sustained release of biologically active compound was achieved for over a week from drug-laden polymer formulated into microparticles thus offering a dramatic improvement over the twice daily administration currently used for in vivo studies. In a second strategy, a tributanoylated ManNAc analog (3,4,6-O-Bu(3)ManNAc) with anti-cancer activities was covalently linked to PEG-SA and formulated into nanoparticles suitable for drug delivery; once again release of biologically active compound was demonstrated.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "19053749",
+      "title": "Targeting pro-invasive oncogenes with short chain fatty acid-hexosamine analogues inhibits the mobility of metastatic MDA-MB-231 breast cancer cells.",
+      "authors": [
+        "Christopher T Campbell",
+        "Udayanath Aich",
+        "Christopher A Weier",
+        "Jean J Wang",
+        "Sean S Choi",
+        "Mary M Wen",
+        "Katharina Maisel",
+        "Srinivasa-Gopalan Sampathkumar",
+        "Kevin J Yarema"
+      ],
+      "year": "2008",
+      "journal": "Journal of medicinal chemistry",
+      "doi": "10.1021/jm800873k",
+      "doi_link": "https://doi.org/10.1021/jm800873k",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19053749",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Targeting%20pro-invasive%20oncogenes%20with%20short%20chain%20fatty%20acid-hexosamine%20analogues%20inhibits%20the%20mobility%20of%20metastatic%20MDA-MB-231%20breast%20cancer%20cells%22",
+      "citations": {
+        "semantic_scholar": 44
+      },
+      "abstract": "Per-butanoylated N-acetyl-D-mannosamine (Bu(4)ManNAc), a SCFA-hexosamine cancer drug candidate with activity manifest through intact n-butyrate-carbohydrate linkages, reduced the invasion of metastatic MDA-MB-231 breast cancer cells unlike per-butanoylated-D-mannose (Bu(5)Man), a clinically tested compound that did not alter cell mobility. To gain molecular-level insight, therapeutic targets implicated in metastasis were investigated. The active compound Bu(4)ManNAc reduced both MUC1 expression and MMP-9 activity (via down-regulation of CXCR4 transcription), whereas \"inactive\" Bu(5)Man had counterbalancing effects on these oncogenes. This divergent impact on transcription was linked to interplay between HDACi activity (held by both Bu(4)ManNAc and Bu(5)Man) and NF-kappaB activity, which was selectively down-regulated by Bu(4)ManNAc. Overall, these results establish a new therapeutic end point (control of invasion) for SCFA-hexosamine hybrid molecules, define relative contributions of molecular players involved in cell mobility and demonstrate that Bu(4)ManNAc breaks the confounding link between beneficial HDACi activity and the simultaneous deleterious activation of NF-kappaB often found in epigenetic drug candidates.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "18654707",
+      "title": "Electrochemically active, anti-biofouling polymer adlayers on indium-tin-oxide electrodes.",
+      "authors": [
+        "Eun Jeong Kim",
+        "Hee-Young Shin",
+        "Sangjin Park",
+        "Daekyung Sung",
+        "Sangyong Jon",
+        "Srinivasa-Gopalan Sampathkumar",
+        "Kevin J Yarema",
+        "Sung-Yool Choi",
+        "Kyuwon Kim"
+      ],
+      "year": "2008",
+      "journal": "Chemical communications (Cambridge, England)",
+      "doi": "10.1039/b804816a",
+      "doi_link": "https://doi.org/10.1039/b804816a",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18654707",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Electrochemically%20active%2C%20anti-biofouling%20polymer%20adlayers%20on%20indium-tin-oxide%20electrodes%22",
+      "citations": {
+        "semantic_scholar": 6
+      },
+      "abstract": "Here we report the synthesis of a novel electrochemically active polymer, preparation of adlayers of the polymer on optically transparent electrodes, and an application of the adlayers to immobilization of engineered cells through a direct covalent coupling reaction.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "18161525",
+      "title": "Chemical labels metabolically installed into the glycoconjugates of the target cell surface can be used to track lymphocyte/target cell interplay via trogocytosis: comparisons with lipophilic dyes and biotin.",
+      "authors": [
+        "Sandrine Daubeuf",
+        "Anne Aucher",
+        "Srinivasa-Gopalan Sampathkumar",
+        "Xavier Preville",
+        "Kevin J Yarema",
+        "Denis Hudrisier"
+      ],
+      "year": "2007",
+      "journal": "Immunological investigations",
+      "doi": "10.1080/08820130701674596",
+      "doi_link": "https://doi.org/10.1080/08820130701674596",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18161525",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Chemical%20labels%20metabolically%20installed%20into%20the%20glycoconjugates%20of%20the%20target%20cell%20surface%20can%20be%20used%20to%20track%20lymphocyte/target%20cell%20interplay%20via%20trogocytosis%3A%20comparisons%20with%20lipophilic%20dyes%20and%20biotin%22",
+      "citations": {
+        "semantic_scholar": 15
+      },
+      "abstract": "Trogocytosis, the process whereby lymphocytes capture membrane components from the cells they interact with, is classically evidenced by the transfer of fluorescent lipophilic compounds or biotinylated proteins from target cells to T or B cells. A particular class of molecules, not studied explicitly so far in the context of trogocytosis is glycoconjugates. Here, we used a method to metabolically install chemical labels in target cell glycoconjugates. Working with those target cells, we describe the conditions allowing CTL to be detected based on glycoconjugate trogocytosis triggered by antigen or stimulatory antibodies. Accordingly, we used this method to monitor the CTL response triggered in mice after vaccination. In addition, we documented the applicability of this approach to the detection of CD4(+) T and B cells. Overall, glycoconjugates were transferred between target cells and lymphocytes during trogocytosis with efficiencies comparable or higher than measured for biotinylated proteins or lipophilic dyes incorporated into general membrane lipids. From a technological point of view, our approach can be employed to detect reactive lymphocytes via glycoconjugate trogocytosis. More generally, we believe that the ever-growing ability to employ chemistry in living systems to label particular compounds will be powerful in unraveling the contributions of glycosylation to various aspects of T and B cells biology.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "17487167",
+      "title": "Metabolic expression of thiol-derivatized sialic acids on the cell surface and their quantitative estimation by flow cytometry.",
+      "authors": [
+        "Srinivasa-Gopalan Sampathkumar",
+        "Mark B Jones",
+        "Kevin J Yarema"
+      ],
+      "year": "2006",
+      "journal": "Nature protocols",
+      "doi": "10.1038/nprot.2006.252",
+      "doi_link": "https://doi.org/10.1038/nprot.2006.252",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17487167",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Metabolic%20expression%20of%20thiol-derivatized%20sialic%20acids%20on%20the%20cell%20surface%20and%20their%20quantitative%20estimation%20by%20flow%20cytometry%22",
+      "citations": {
+        "semantic_scholar": 38
+      },
+      "abstract": "The N-acetyl-D-mannosamine (ManNAc) analog Ac5ManNTGc, a non-natural metabolic precursor for the sialic acid biosynthetic pathway, can be used to display thiols on the cell surface. Sugar-expressed cell-surface thiols are readily accessible compared to their protein counterparts, making them ideal for exploitation in cell-adhesion and tissue-engineering applications. This report describes a protocol for the incubation of Jurkat (human acute T-cell leukemia) cells with Ac5ManNTGc and the quantitative estimation of the resulting sialic acid displayed thiols by flow cytometry after a reaction with a water-soluble biotin-conjugated maleimide reagent and fluorescein isothiocyanate-conjugated (FITC) avidin staining. These methods, with minimal optimization, are generally also applicable to other human cell lines. The labeling and flow cytometry steps of this protocol can be performed in five to eight hours.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "17406481",
+      "title": "Synthesis of non-natural ManNAc analogs for the expression of thiols on cell-surface sialic acids.",
+      "authors": [
+        "Srinivasa-Gopalan Sampathkumar",
+        "Adrienne V Li",
+        "Kevin J Yarema"
+      ],
+      "year": "2006",
+      "journal": "Nature protocols",
+      "doi": "10.1038/nprot.2006.319",
+      "doi_link": "https://doi.org/10.1038/nprot.2006.319",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17406481",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Synthesis%20of%20non-natural%20ManNAc%20analogs%20for%20the%20expression%20of%20thiols%20on%20cell-surface%20sialic%20acids%22",
+      "citations": {
+        "semantic_scholar": 31
+      },
+      "abstract": "The sialic acid biosynthetic pathway in mammalian cells utilizes N-acetyl-D-mannosamine (ManNAc) as a natural metabolic precursor and has the remarkable ability to biosynthetically process non-natural ManNAc analogs. Herein, we describe a recipe-style protocol for the synthesis of the novel peracetylated analog Ac5ManNTGc (1) that contains a pendant acetylthio- group and enables incorporation of thiol functionalities into the glycocalyx of living cells. We also describe the synthesis of the oxygen analog Ac5ManNGc (2), which serves as an appropriate control compound for biological experiments with 1. Both 1 and 2 were prepared from a reported, common intermediate 8, which is selectively acetylated at the hydroxyl groups. In contrast to previous methods, this synthetic approach introduces O-acetyl groups first, followed by N-acylation. Starting from the commercially available D-mannosamine hydrochloride (5), gram quantities of both 1 and 2 can be prepared over five steps in about 2-3 weeks.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "17308665",
+      "title": "Metabolic oligosaccharide engineering: perspectives, applications, and future directions.",
+      "authors": [
+        "Christopher T Campbell",
+        "Srinivasa-Gopalan Sampathkumar",
+        "Kevin J Yarema"
+      ],
+      "year": "2007",
+      "journal": "Molecular bioSystems",
+      "doi": "10.1039/b614939c",
+      "doi_link": "https://doi.org/10.1039/b614939c",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17308665",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Metabolic%20oligosaccharide%20engineering%3A%20perspectives%2C%20applications%2C%20and%20future%20directions%22",
+      "citations": {
+        "semantic_scholar": 107
+      },
+      "abstract": "Many adhesion and signaling molecules critical for development, as well as surface markers implicated in diseases ranging from cancer to influenza, contain oligosaccharides that modify their functions. Inside a cell, complex glycosylation pathways assemble these oligosaccharides and attach them to proteins and lipids as they traffic to the cell surface. Until recently, practical technologies to manipulate glycosylation have lagged unlike the molecular biologic and genetic methods available to intervene in nucleic acid and protein biochemistry; now, metabolic oligosaccharide engineering shows promise for manipulating glycosylation. In this methodology, exogenously-supplied non-natural sugars intercept biosynthetic pathways and exploit the remarkable ability of many of the enzymes involved in glycosylation to process metabolites with slightly altered chemical structures. To date, non-natural forms of sialic acid, GalNAc, GlcNAc, and fucose have been incorporated into glycoconjugates that appear on the cell surface; in addition O-GlcNAc protein modification involved in intracellular signaling has been tagged with modified forms of this sugar. Reactive functional groups, including ketones, azides, and thiols, have been incorporated into glycoconjugates and thereby provide chemical 'tags' that can be used for diverse purposes ranging from drug delivery to new modes of carbohydrate-based cell adhesion that can be used to control stem cell destiny. Finally, strategies for further engineering non-natural sugars to improve their pharmacological properties and provide complementary biological activities, such as addition of short chain fatty acids, are discussed in this article.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "17185222",
+      "title": "Targeting glycosylation pathways and the cell cycle: sugar-dependent activity of butyrate-carbohydrate cancer prodrugs.",
+      "authors": [
+        "Srinivasa-Gopalan Sampathkumar",
+        "Mark B Jones",
+        "M Adam Meledeo",
+        "Christopher T Campbell",
+        "Sean S Choi",
+        "Kaoru Hida",
+        "Prasra Gomutputra",
+        "Anthony Sheh",
+        "Tim Gilmartin",
+        "Steven R Head",
+        "Kevin J Yarema"
+      ],
+      "year": "2006",
+      "journal": "Chemistry & biology",
+      "doi": "10.1016/j.chembiol.2006.09.016",
+      "doi_link": "https://doi.org/10.1016/j.chembiol.2006.09.016",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17185222",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Targeting%20glycosylation%20pathways%20and%20the%20cell%20cycle%3A%20sugar-dependent%20activity%20of%20butyrate-carbohydrate%20cancer%20prodrugs%22",
+      "citations": {
+        "semantic_scholar": 51
+      },
+      "abstract": "Short-chain fatty acid (SCFA)-carbohydrate hybrid molecules that target both histone deacetylation and glycosylation pathways to achieve sugar-dependent activity against cancer cells are described in this article. Specifically, n-butyrate esters of N-acetyl-D-mannosamine (But4ManNAc, 1) induced apoptosis, whereas corresponding N-acetyl-D-glucosamine (But4GlcNAc, 2), D-mannose (But5Man, 3), or glycerol (tributryin, 4) derivatives only provided transient cell cycle arrest. Western blots, reporter gene assays, and cell cycle analysis established that n-butyrate, when delivered to cells via any carbohydrate scaffold, functioned as a histone deacetylase inhibitor (HDACi), upregulated p21WAF1/Cip1 expression, and inhibited proliferation. However, only 1, a compound that primed sialic acid biosynthesis and modulated the expression of a different set of genes compared to 3, ultimately killed the cells. These results demonstrate that the biological activity of butyrate can be tuned by sugars to improve its anticancer properties.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "16918394",
+      "title": "Sialic acid and the central nervous system: perspectives on biological functions, detection, imaging methods and manipulation.",
+      "authors": [
+        "Srinivasa-Gopalan Sampathkumar",
+        "Adrienne Li",
+        "Kevin J Yarema"
+      ],
+      "year": "2006",
+      "journal": "CNS & neurological disorders drug targets",
+      "doi": "10.2174/187152706777950729",
+      "doi_link": "https://doi.org/10.2174/187152706777950729",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16918394",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Sialic%20acid%20and%20the%20central%20nervous%20system%3A%20perspectives%20on%20biological%20functions%2C%20detection%2C%20imaging%20methods%20and%20manipulation%22",
+      "citations": {
+        "semantic_scholar": 16
+      },
+      "abstract": "Glycobiology, broadly defined as the study of sugars in living systems, is becoming increasingly important for understanding the basic biology of the central nervous system (CNS) and diagnosing and devising new treatments for neurological disorders. Decades of research have uncovered many roles for both glycolipids and glycoproteins in the proper functioning of the brain; moreover many diseases are characterized by abnormalities in either the biosynthesis or catabolism of these cellular components. In many cases, however, only a rudimentary understanding of the basic biological roles of sugars in neural function exists. Similarly, methods to detect and diagnose glycosylation disorders are far from state-of-the-art compared to many facets of modern medicine. This review focuses on sialic acid, arguably the most important monosaccharide in CNS, and describes how recent advances in its manipulation by chemical and metabolic methods hold the possibility to converge with advanced instrumentation such as magnetic resonance imaging, positron emission tomography, diffusion tensor imaging, and single photon emission computerized tomography now used for imaging of the CNS in human subjects. Specifically, methods are under development for tagging sialic acids in living systems with contrast agents suitable for magnetic resonance imaging, in essence allowing for the functional imaging of sugars at a molecular level. One of these methods, biochemical engineering of sialic acids by use of small molecule metabolic substrates, also holds promise for the manipulation of sialic acids for the development of novel therapies for neurological disorders.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper21",
+      "publication_id": "16650395",
+      "title": "Synthesis of hexa- to tridecasaccharides related to Shigella dysenteriae type 1 for incorporation in experimental vaccines.",
+      "authors": [
+        "Vince Pozsgay",
+        "Göran Ekborg",
+        "Srinivasa-Gopalan Sampathkumar"
+      ],
+      "year": "2006",
+      "journal": "Carbohydrate research",
+      "doi": "10.1016/j.carres.2006.04.006",
+      "doi_link": "https://doi.org/10.1016/j.carres.2006.04.006",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16650395",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Synthesis%20of%20hexa-%20to%20tridecasaccharides%20related%20to%20Shigella%20dysenteriae%20type%201%20for%20incorporation%20in%20experimental%20vaccines%22",
+      "citations": {
+        "semantic_scholar": 7
+      },
+      "abstract": "Hexa- to tridecasaccharides corresponding to the O-specific polysaccharide (O-SP) of the Gram-negative bacterium Shigella dysenteriae type 1 were synthesized in solution phase. The syntheses utilized tetra-, octa-, and dodecasaccharide intermediates that represent one to three contiguous tetrasaccharide repeating units of the O-SP [Synlett2003, 743]. These compounds were glycosylated with mono-, di-, and trisaccharide trichloroacetamidates, which were synthesized in this study. The excellent stereodirecting effect of 4,6-O-benzophenone ketals in glycosylation reactions of 2-azido-2-deoxy-glucopyranosyl donors was demonstrated. The free oligosaccharides were characterized by 1H and 13C NMR spectroscopy and by high-resolution mass spectrometry. The oligosaccharides described herein contain the 5-(methoxycarbonyl)pentyl aglycon for eventual attachment to immunogenic carriers using a recently published protocol [J. Org. Chem.2005, 70, 6987].",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper22",
+      "publication_id": "16474386",
+      "title": "Metabolic installation of thiols into sialic acid modulates adhesion and stem cell biology.",
+      "authors": [
+        "Srinivasa-Gopalan Sampathkumar",
+        "Adrienne V Li",
+        "Mark B Jones",
+        "Zhonghui Sun",
+        "Kevin J Yarema"
+      ],
+      "year": "2006",
+      "journal": "Nature chemical biology",
+      "doi": "10.1038/nchembio770",
+      "doi_link": "https://doi.org/10.1038/nchembio770",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16474386",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Metabolic%20installation%20of%20thiols%20into%20sialic%20acid%20modulates%20adhesion%20and%20stem%20cell%20biology%22",
+      "citations": {
+        "crossref": 138
+      },
+      "abstract": "Metabolic 'oligosaccharide engineering' methods based on N-acetyl-D-mannosamine (ManNAc) analogs allow the glycocalyx of living cells to be remodeled. Herein we report the analog Ac(5)ManNTGc (1) that enables thiols to be expressed in surface sialic acids. By locating this versatile functional group on the outer periphery of normally nonadhesive human Jurkat cells, we obtained spontaneous cell-cell clustering and attachment to complementary maleimide-derivatized substrates. When analyzed in human embryoid body-derived (hEBD) stem cells, Ac(5)ManNTGc induced beta-catenin expression and altered cell morphology, consistent with neuronal differentiation. Notably, these effects were modulated by the growth substrate of the cells, with a stronger response observed on a gold surface than on glass. Together, these results establish sugar analogs as small-molecule tools for tissue engineering by providing a method for attaching cells to scaffolds via their surface carbohydrates as well as offering a means to influence stem cell fates.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper23",
+      "publication_id": "15664507",
+      "title": "Targeting cancer cells with dendrimers.",
+      "authors": [
+        "Srinivasa-Gopalan Sampathkumar",
+        "Kevin J Yarema"
+      ],
+      "year": "2005",
+      "journal": "Chemistry & biology",
+      "doi": "10.1016/j.chembiol.2004.12.007",
+      "doi_link": "https://doi.org/10.1016/j.chembiol.2004.12.007",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15664507",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Targeting%20cancer%20cells%20with%20dendrimers%22",
+      "citations": {
+        "semantic_scholar": 69
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper24",
+      "publication_id": "15575698",
+      "title": "Establishment of N-acetylmannosamine (ManNAc) analogue-resistant cell lines as improved hosts for sialic acid engineering applications.",
+      "authors": [
+        "Eun Jeong Kim",
+        "Mark B Jones",
+        "Jun Kyu Rhee",
+        "Srinivasa-Gopalan Sampathkumar",
+        "Kevin J Yarema"
+      ],
+      "year": "2004",
+      "journal": "Biotechnology progress",
+      "doi": "10.1021/bp049841q",
+      "doi_link": "https://doi.org/10.1021/bp049841q",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15575698",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Establishment%20of%20N-acetylmannosamine%20%28ManNAc%29%20analogue-resistant%20cell%20lines%20as%20improved%20hosts%20for%20sialic%20acid%20engineering%20applications%22",
+      "citations": {
+        "semantic_scholar": 24
+      },
+      "abstract": "Metabolic substrate-based sialic acid engineering techniques, where exogenously supplied N-acetylmannosamine (ManNAc) analogues are utilized by the sialic acid biosynthetic pathway, allow the cell surface to be endowed with novel physical and chemical properties and show promise for increasing the quality of recombinant glycoproteins. The in vitro toxicity of many ManNAc analogues, however, hinders the large-scale adoption of this technology. In this study, we used a selection strategy where cells were subjected to progressively higher levels of ManNAc analogues to establish novel cell lines that showed decreased sensitivity to analogue-induced in vitro toxicity. The decreased sensitivity to sugar analogue-induced apoptosis, demonstrated by the Annexin V-FITC detection method and DNA fragmentation assays, corresponded to increased sialic acid production in the resistant cell lines. The ManNAc analogue-resistant cell lines exhibited cross-resistance to apoptosis induced by staurosporine and an apoptosis-activating Fas antibody. We propose that the selection strategy employed to develop these novel cell lines, which serve as superior hosts for substrate-based sialic acid engineering applications, will generally apply to the development of host cell lines for biotechnology applications.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper25",
+      "publication_id": "14966124",
+      "title": "Characterization of the metabolic flux and apoptotic effects of O-hydroxyl- and N-acyl-modified N-acetylmannosamine analogs in Jurkat cells.",
+      "authors": [
+        "Eun Jeong Kim",
+        "Srinivasa-Gopalan Sampathkumar",
+        "Mark B Jones",
+        "Jun Kyu Rhee",
+        "Gautam Baskaran",
+        "Scarlett Goon",
+        "Kevin J Yarema"
+      ],
+      "year": "2004",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M400205200",
+      "doi_link": "https://doi.org/10.1074/jbc.M400205200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/14966124",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Characterization%20of%20the%20metabolic%20flux%20and%20apoptotic%20effects%20of%20O-hydroxyl-%20and%20N-acyl-modified%20N-acetylmannosamine%20analogs%20in%20Jurkat%20cells%22",
+      "citations": {
+        "semantic_scholar": 73
+      },
+      "abstract": "The supplementation of the sialic acid biosynthetic pathway with exogenously supplied N-acetylmannosamine (ManNAc) analogs has many potential biomedical and biotechnological applications. In this work, we explore the structure-activity relationship of Man-NAc analogs on cell viability and metabolic flux into the sialic acid biosynthetic pathway to gain a better understanding of the fundamental biology underlying \"glycosylation engineering\" technology. A panel of ManNAc analogs bearing various modifications on the hydroxyl groups as well as substitutions at the N-acyl position was investigated. Increasing the carbon chain length of ester derivatives attached to the hydroxyl groups increased the metabolic efficiency of sialic acid production, whereas similar modification to the N-acyl group decreased efficiency. In both cases, increases in chain length decreased cell viability; DNA ladder formation, Annexin V-FITC two-dimensional flow cytometry assays, caspase-3 activation, and down-regulation of sialoglycoconjugate-processing enzymes established that the observed growth inhibition and toxicity resulted from apoptosis. Two of the panel of 12 analogs tested, specifically Ac(4)ManNLev and Ac(4) ManNHomoLev, were highly toxic. Interestingly, both of these analogs maintained a ketone functionality in the same position relative to the core monosaccharide structure, and both also inhibited flux through the sialic acid pathway (the remainder of the less toxic analogs either increased or had no measurable impact on flux). These results provide fundamental insights into the role of sialic acid metabolism in apoptosis by demonstrating that ManNAc analogs can modulate apoptosis both indirectly via hydroxylgroup effects and directly through N-acyl-group effects.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 25,
+    "publications_by_year": {
+      "2025": 1,
+      "2022": 1,
+      "2021": 1,
+      "2019": 1,
+      "2018": 2,
+      "2017": 1,
+      "2015": 1,
+      "2013": 1,
+      "2011": 1,
+      "2010": 2,
+      "2008": 2,
+      "2007": 2,
+      "2006": 6,
+      "2005": 1,
+      "2004": 2
+    },
+    "top_journals": [
+      "Carbohydrate research",
+      "Journal of the American Chemical Society",
+      "Nature protocols",
+      "Chemistry & biology",
+      "Proceedings of the National Academy of Sciences of the United States of America"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 93,
+      "frequent_collaborators": [
+        "Srinivasa-Gopalan Sampathkumar",
+        "Kevin J Yarema",
+        "Mark B Jones",
+        "Kavita Agarwal",
+        "Monika Garg",
+        "Syed Meheboob Ahmed",
+        "Shubham Parashar",
+        "Asif Shajahan"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "16474386",
+        "title": "Metabolic installation of thiols into sialic acid modulates adhesion and stem cell biology.",
+        "citations": 138,
+        "year": "2006"
+      },
+      {
+        "publication_id": "17308665",
+        "title": "Metabolic oligosaccharide engineering: perspectives, applications, and future directions.",
+        "citations": 107,
+        "year": "2007"
+      },
+      {
+        "publication_id": "20726799",
+        "title": "Lectin microarrays for glycomic analysis.",
+        "citations": 95,
+        "year": "2010"
+      }
+    ]
+  }
+}

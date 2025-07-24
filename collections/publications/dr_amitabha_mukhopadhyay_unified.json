@@ -1,0 +1,312 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Amitabha Mukhopadhyay",
+    "email": "amitabha@nii.res.in",
+    "source_url": "https://www.nii.res.in/en/former-faculty/dr-amitabha-mukhopadhyay",
+    "research_domain": "Former",
+    "faculty_status": "former",
+    "search_date": "2025-06-26T13:18:49.583384",
+    "total_publications": 10,
+    "last_updated": "2025-06-26",
+    "description": "This document contains a complete list of publications by Dr. Amitabha Mukhopadhyay, former faculty in Former at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "22190682",
+      "title": "Salmonella acquires lysosome-associated membrane protein 1 (LAMP1) on phagosomes from Golgi via SipC protein-mediated recruitment of host Syntaxin6.",
+      "authors": [
+        "Richa Madan",
+        "Ruchir Rastogi",
+        "Seetharaman Parashuraman",
+        "Amitabha Mukhopadhyay"
+      ],
+      "year": "2012",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M111.286120",
+      "doi_link": "https://doi.org/10.1074/jbc.M111.286120",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22190682",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Salmonella%20acquires%20lysosome-associated%20membrane%20protein%201%20%28LAMP1%29%20on%20phagosomes%20from%20Golgi%20via%20SipC%20protein-mediated%20recruitment%20of%20host%20Syntaxin6%22",
+      "citations": {
+        "semantic_scholar": 47
+      },
+      "abstract": "Several intracellular pathogens have developed diverse strategies to avoid targeting to lysosomes. However, they universally recruit lysosome-associated membrane protein 1 (LAMP1); the mechanism of LAMP1 recruitment remains unclear. Here, we report that a Salmonella effector protein, SipC, specifically binds with host Syntaxin6 through its C terminus and thereby recruits Syntaxin6 and other accessory molecules like VAMP2, Rab6, and Rab8 on Salmonella-containing phagosomes (SCP) and acquires LAMP1 by fusing with LAMP1-containing Golgi-derived vesicles. In contrast, sipC knock-out:SCP (sipC(-):SCP) or sipC(M398K):SCP fails to obtain significant amounts of Syntaxin6 and is unable to acquire LAMP1. Moreover, phagosomes containing respective knock-out Salmonella like sipA(-), sipB(-), sipD(-), sopB(-), or sopE(-) recruit LAMP1, demonstrating the specificity of SipC in this process. In addition, depletion of Syntaxin6 by shRNA in macrophages significantly inhibits LAMP1 recruitment on SCP. Additionally, survival of sipC(-):Salmonella in mice is found to be significantly inhibited in comparison with WT:Salmonella. Our results reveal a novel mechanism showing how Salmonella acquires LAMP1 through a SipC-Syntaxin6-mediated interaction probably to stabilize their niche in macrophages and also suggest that similar modalities might be used by other intracellular pathogens to recruit LAMP1.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "18319337",
+      "title": "Leishmania requires Rab7-mediated degradation of endocytosed hemoglobin for their growth.",
+      "authors": [
+        "Nitin Patel",
+        "Sudha B Singh",
+        "Sandip K Basu",
+        "Amitabha Mukhopadhyay"
+      ],
+      "year": "2008",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.0800404105",
+      "doi_link": "https://doi.org/10.1073/pnas.0800404105",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18319337",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Leishmania%20requires%20Rab7-mediated%20degradation%20of%20endocytosed%20hemoglobin%20for%20their%20growth%22",
+      "citations": {
+        "crossref": 51
+      },
+      "abstract": "Leishmania is unable to synthesize heme and must acquire it from exogenous source, the mechanism of which is not known. We have shown that Leishmania endocytoses hemoglobin (Hb) and subsequently degrade it probably to generate heme. To understand how internalized Hb is degraded, we have cloned and expressed Rab7 homolog from Leishmania donovani. Interestingly, Rab7 in Leishmania is found to be localized both on early and late endocytic compartment and regulates both uptake and degradation of endocytosed Hb demonstrating that Rab7 in Leishmania play a very unique role connecting both early and late events of Hb endocytosis. Our data also indicate that overexpression of Rab7:WT in Leishmania induces transport of Hb to lysosomes and rapidly degrade internalized Hb. Whereas Hb transport to lysosomes and its degradation is significantly inhibited in cells overexpressing Rab7:T21N, a GDP locked mutant of Rab7. Moreover, cells overexpressing Rab7:T21N grow at a slower rate (<50%) compared with control Leishmania. Addition of exogenous hemin recovers the growth of Rab7:T21N mutant cells almost to the control level, suggesting that intracellular heme generated by Rab7-mediated Hb degradation is required for optimal growth of the parasites. Thus, our results identify a potential target which might be exploited to suppress the growth of Leishmania.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "16763563",
+      "title": "IL-6 and IL-12 specifically regulate the expression of Rab5 and Rab7 via distinct signaling pathways.",
+      "authors": [
+        "Malavika Bhattacharya",
+        "Namrata Ojha",
+        "Sunil Solanki",
+        "Chinmay K Mukhopadhyay",
+        "Richa Madan",
+        "Nitin Patel",
+        "Ganga Krishnamurthy",
+        "Senthil Kumar",
+        "Sandip K Basu",
+        "Amitabha Mukhopadhyay"
+      ],
+      "year": "2006",
+      "journal": "The EMBO journal",
+      "doi": "10.1038/sj.emboj.7601170",
+      "doi_link": "https://doi.org/10.1038/sj.emboj.7601170",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16763563",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22IL-6%20and%20IL-12%20specifically%20regulate%20the%20expression%20of%20Rab5%20and%20Rab7%20via%20distinct%20signaling%20pathways%22",
+      "citations": {
+        "crossref": 45
+      },
+      "abstract": "Recent studies have shown that phagosome maturation depends on the balance between pro-inflammatory and anti-inflammatory cytokines, indicating that cytokine modulates phagosome maturation. However, the mechanism of cytokine-mediated modulation of intracellular trafficking remains to be elucidated. Here, we have shown that treatment of macrophages with IL-6 specifically induce the expression of Rab5 through the activation of extracellular signal-regulated kinase, whereas IL-12 exclusively upregulate the expression of Rab7 through the activation of p38 MAPK. We have cloned the 5'-flanking regions of the rab5c or rab7 into the promoterless reporter vector. Our results have shown that cells transfected with rab5c chimera are transactivated by IL-6, and IL-12 specifically transactivates cells containing rab7 chimera. Moreover, our results also show that IL-12 induces lysosomal transport, whereas IL-6 stimulates the fusion between early compartments in macrophages and accordingly modulates Salmonella trafficking and survival in macrophages. This is the first demonstration showing that cytokine differentially regulates endocytic trafficking by controlling the expression of appropriate Rab GTPase, and provides insight into the mechanism of cytokine-mediated regulation of intracellular trafficking.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "15579464",
+      "title": "Hemoglobin receptor in Leishmania is a hexokinase located in the flagellar pocket.",
+      "authors": [
+        "Ganga Krishnamurthy",
+        "Rajagopal Vikram",
+        "Sudha B Singh",
+        "Nitin Patel",
+        "Shruti Agarwal",
+        "Gauranga Mukhopadhyay",
+        "Sandip K Basu",
+        "Amitabha Mukhopadhyay"
+      ],
+      "year": "2005",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M411845200",
+      "doi_link": "https://doi.org/10.1074/jbc.M411845200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15579464",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Hemoglobin%20receptor%20in%20Leishmania%20is%20a%20hexokinase%20located%20in%20the%20flagellar%20pocket%22",
+      "citations": {
+        "crossref": 77
+      },
+      "abstract": "Hb endocytosis in Leishmania is mediated through a 46-kDa protein located in the flagellar pocket. To understand the nature of the Hb receptor (HbR), we have purified the 46-kDa protein to homogeneity from Leishmania promastigote membrane. Purified HbR specifically binds Hb. The gene for HbR was cloned, and sequence analysis of the full-length HbR gene indicates the presence of hexokinase (HK) signature sequences, ATP-binding domain, and PTS-II motif. Four lines of evidence indicate that HbR in Leishmania is a hexokinase: 1) the recombinant HbR binds Hb, and the Hb-binding domain resides in the N terminus of the protein; 2) recombinant proteins and cell lysate prepared from HbR-overexpressing Leishmania promastigotes show enhanced HK activity in comparison with untransfected cells; 3) immunolocalization studies using antibodies against the N-terminal fragment (Ld-HbR-DeltaC) of Ld-HbR indicate that this protein is located in the flagellar pocket of Leishmania; and 4) binding and uptake of (125)I-Hb by Leishmania is significantly inhibited by anti-Ld-HbR-DeltaC antibody and Ld-HbR-DeltaC, respectively. Taken together, these results indicate that HK present in the flagellar pocket of Leishmania is involved in Hb endocytosis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "14592970",
+      "title": "Rab5-mediated endosome-endosome fusion regulates hemoglobin endocytosis in Leishmania donovani.",
+      "authors": [
+        "Sudha B Singh",
+        "Ruchi Tandon",
+        "Ganga Krishnamurthy",
+        "Rajagopal Vikram",
+        "Nimisha Sharma",
+        "Sandip K Basu",
+        "Amitabha Mukhopadhyay"
+      ],
+      "year": "2003",
+      "journal": "The EMBO journal",
+      "doi": "10.1093/emboj/cdg557",
+      "doi_link": "https://doi.org/10.1093/emboj/cdg557",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/14592970",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Rab5-mediated%20endosome-endosome%20fusion%20regulates%20hemoglobin%20endocytosis%20in%20Leishmania%20donovani%22",
+      "citations": {
+        "crossref": 57
+      },
+      "abstract": "To understand the trafficking of endocytosed hemoglobin (Hb) in Leishmania, we investigated the characteristics of in vitro fusion between endosomes containing biotinylated Hb (BHb) and avidin-horseradish peroxidase (AHRP). We showed that early endosome fusion in Leishmania is temperature and cytosol dependent and is inhibited by ATP depletion, ATPgammaS, GTPgammaS and N-ethylmaleimide treatment. The Rab5 homolog from Leishmania donovani, LdRab5, was cloned and expressed. Our results showed that homotypic fusion between the early endosomes in Leishmania is Rab5 dependent. Early endosomes containing BHb fused efficiently with late endosomes in a process regulated by Rab7, whereas no fusion between early and late endosomes was detected using fluid phase markers. Pre-treatment of early endosomes containing BHb with monoclonal antibody specific for the C-terminus of the Hb receptor (HbR) or the addition of the C-terminal cytoplasmic fragment of the HbR specifically inhibited the fusion with late endosomes, suggesting that signal(s) mediated through the HbR cytoplasmic tail promotes the fusion of early endosomes containing Hb with late endosomes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "12186955",
+      "title": "Diverting intracellular trafficking of Salmonella to the lysosome through activation of the late endocytic Rab7 by intracellular delivery of muramyl dipeptide.",
+      "authors": [
+        "Konark Mukherjee",
+        "Seetharaman Parashuraman",
+        "Ganga Krishnamurthy",
+        "Jolly Majumdar",
+        "Ashok Yadav",
+        "Ravi Kumar",
+        "Sandip K Basu",
+        "Amitabha Mukhopadhyay"
+      ],
+      "year": "2002",
+      "journal": "Journal of cell science",
+      "doi": "10.1242/jcs.00034",
+      "doi_link": "https://doi.org/10.1242/jcs.00034",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12186955",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Diverting%20intracellular%20trafficking%20of%20Salmonella%20to%20the%20lysosome%20through%20activation%20of%20the%20late%20endocytic%20Rab7%20by%20intracellular%20delivery%20of%20muramyl%20dipeptide%22",
+      "citations": {
+        "semantic_scholar": 40
+      },
+      "abstract": "Previously, we showed that live Salmonella-containing phagosomes (LSP) recruit early acting Rab5 and promote fusion with early endosomes, thus avoiding transport to the lysosomes. Therefore, live Salmonella survive in a specialized compartment. Here we show that scavenger-receptor-mediated intracellular delivery of muramyl dipeptide (MDP) to macrophages leads to efficient killing of Salmonella both in vitro and in vivo. To understand the intracellular trafficking modulation of Salmonella by delivery of MDP, we investigated the levels of endocytic Rab proteins, which are the major regulators of vesicular transport. Western blot analysis reveals reduced Rab5 and enhanced Rab7 content in the maleylated bovine serum albumin-MDP (MBSA-MDP)-treated cells. The reduced content of Rab5 in the treated cells and on phagosomes inhibits the fusion of Salmonella-containing phagosomes with early endosomes, and the enhanced Rab7 content in these cells facilitated targeting of LSP to lysosomes, which contain cathepsin D and vacuolar ATPase, for killing. In vitro reconstitution of lysosomal transport demonstrated that a reduced content of Rab5 and an enhanced level of Rab7 in MBSA-MDP-treated cells is primarily responsible for targeting Salmonella to lysosomes. Intracellular delivery of MDP thus offers a general strategy against macrophage-associated infections caused by intracellular pathogens that survive in the host cell by resisting transport to lysosomes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "11316807",
+      "title": "SopE acts as an Rab5-specific nucleotide exchange factor and recruits non-prenylated Rab5 on Salmonella-containing phagosomes to promote fusion with early endosomes.",
+      "authors": [
+        "K Mukherjee",
+        "S Parashuraman",
+        "M Raje",
+        "A Mukhopadhyay"
+      ],
+      "year": "2001",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M101034200",
+      "doi_link": "https://doi.org/10.1074/jbc.M101034200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/11316807",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22SopE%20acts%20as%20an%20Rab5-specific%20nucleotide%20exchange%20factor%20and%20recruits%20non-prenylated%20Rab5%20on%20Salmonella-containing%20phagosomes%20to%20promote%20fusion%20with%20early%20endosomes%22",
+      "citations": {
+        "crossref": 65
+      },
+      "abstract": "Rab-GTPase regulates the fusion between two specific vesicles. It is well documented that, for their biological function, Rab proteins need to be prenylated for attachment to the vesicle membrane. In contrast, we showed in the present investigation that SopE, a type III secretory protein of Salmonella, translocates onto Salmonella-containing phagosomes (LSP) and mediates the recruitment of non-prenylated Rab5 (Rab5:DeltaC4) on LSP in GTP form. Simultaneously, SopE present in infected cell cytosol acts as an Rab5-specific exchange factor and converts the inactive Rab-GDP to the GTP form. The non-prenylated Rab5 subsequently promoted efficient fusion of LSP with early endosomes. This is the first demonstration that a prenylation-deficient Rab protein retains biological activity and can promote vesicle fusion, if it is recruited on the membrane by some other method.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "10684255",
+      "title": "Live Salmonella recruits N-ethylmaleimide-sensitive fusion protein on phagosomal membrane and promotes fusion with early endosome.",
+      "authors": [
+        "K Mukherjee",
+        "S A Siddiqi",
+        "S Hashim",
+        "M Raje",
+        "S K Basu",
+        "A Mukhopadhyay"
+      ],
+      "year": "2000",
+      "journal": "The Journal of cell biology",
+      "doi": "10.1083/jcb.148.4.741",
+      "doi_link": "https://doi.org/10.1083/jcb.148.4.741",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/10684255",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Live%20Salmonella%20recruits%20N-ethylmaleimide-sensitive%20fusion%20protein%20on%20phagosomal%20membrane%20and%20promotes%20fusion%20with%20early%20endosome%22",
+      "citations": {
+        "semantic_scholar": 73
+      },
+      "abstract": "To understand intracellular trafficking modulations by live Salmonella, we investigated the characteristics of in vitro fusion between endosomes and phagosomes containing live (LSP) or dead Salmonella (DSP). We observed that fusion of both DSP and LSP were time, temperature and cytosol dependent. GTPgammaS and treatment of the phagosomes with Rab-GDI inhibited fusion, indicating involvement of Rab-GTPases. LSP were rich in rab5, alpha-SNAP, and NSF, while DSP mainly contained rab7. Fusion of endosomes with DSP was inhibited by ATP depletion, N-ethylmaleimide (NEM) treatment, and in NEM-sensitive factor (NSF)-depleted cytosol. In contrast, fusion of endosomes with LSP was not inhibited by ATP depletion or NEM treatment, and occurred in NSF-depleted cytosol. However, ATPgammaS inhibited both fusion events. Fusion of NEM-treated LSP with endosomes was abrogated in NSF- depleted cytosol and was restored by adding purified NSF, whereas no fusion occurred with NEM-treated DSP, indicating that NSF recruitment is dependent on continuous signals from live Salmonella. Binding of NSF with LSP required prior presence of rab5 on the phagosome. We have also shown that rab5 specifically binds with Sop E, a protein from Salmonella. Our results indicate that live Salmonella help binding of rab5 on the phagosomes, possibly activate the SNARE which leads to further recruitment of alpha-SNAP for subsequent binding with NSF to promote fusion of the LSP with early endosomes and inhibition of their transport to lysosomes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "10821869",
+      "title": "Live Salmonella modulate expression of Rab proteins to persist in a specialized compartment and escape transport to lysosomes.",
+      "authors": [
+        "S Hashim",
+        "K Mukherjee",
+        "M Raje",
+        "S K Basu",
+        "A Mukhopadhyay"
+      ],
+      "year": "2000",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.275.21.16281",
+      "doi_link": "https://doi.org/10.1074/jbc.275.21.16281",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/10821869",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Live%20Salmonella%20modulate%20expression%20of%20Rab%20proteins%20to%20persist%20in%20a%20specialized%20compartment%20and%20escape%20transport%20to%20lysosomes%22",
+      "citations": {
+        "semantic_scholar": 150
+      },
+      "abstract": "We investigated the intracellular route of Salmonella in macrophages to determine a plausible mechanism for their survival in phagocytes. Western blot analysis of isolated phagosomes using specific antibodies revealed that by 5 min after internalization dead Salmonella-containing phagosomes acquire transferrin receptors (a marker for early endosomes), whereas by 30 min the dead bacteria are found in vesicles carrying the late endosomal markers cation-dependent mannose 6-phosphate receptors, Rab7 and Rab9. In contrast, live Salmonella-containing phagosomes (LSP) retain a significant amount of Rab5 and transferrin receptor until 30 min, selectively deplete Rab7 and Rab9, and never acquire mannose 6-phosphate receptors even 90 min after internalization. Retention of Rab5 and Rab18 and selective depletion of Rab7 and Rab9 presumably enable the LSP to avoid transport to lysosomes through late endosomes. The presence of immature cathepsin D (48 kDa) and selective depletion of the vacuolar ATPase in LSP presumably contributes to the less acidic pH of LSP. In contrast, proteolytically processed cathepsin D (M(r) 17,000) was detected by 30 min on the dead Salmonella-containing phagosomes. Morphological analysis also revealed that after uptake by macrophages, the dead Salmonella are transported to lysosomes, whereas the live bacteria persist in compartments that avoid fusion with lysosomes, indicating that live Salmonella bypass the normal endocytic route targeted to lysosomes and mature in a specialized compartment.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "9915807",
+      "title": "Hemoglobin endocytosis in Leishmania is mediated through a 46-kDa protein located in the flagellar pocket.",
+      "authors": [
+        "S Sengupta",
+        "J Tripathi",
+        "R Tandon",
+        "M Raje",
+        "R P Roy",
+        "S K Basu",
+        "A Mukhopadhyay"
+      ],
+      "year": "1999",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.274.5.2758",
+      "doi_link": "https://doi.org/10.1074/jbc.274.5.2758",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/9915807",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Hemoglobin%20endocytosis%20in%20Leishmania%20is%20mediated%20through%20a%2046-kDa%20protein%20located%20in%20the%20flagellar%20pocket%22",
+      "citations": {
+        "semantic_scholar": 77
+      },
+      "abstract": "Four lines of evidence indicate that a specific high affinity binding site on the surface of Leishmania donovani promastigotes mediates rapid internalization and degradation of hemoglobin. 1) Binding and uptake of 125I-hemoglobin by Leishmania followed saturation kinetics and were competed by unlabeled hemoglobin but not by globin or hemin or other heme- or iron-containing proteins. 2) Immunogold labeling studies revealed that, at 4 degreesC, hemoglobin binding was localized in the flagellar pocket of the promastigotes. Indirect immunofluorescence assays showed that, at 37 degreesC, the bound hemoglobin in such cells entered an endocytic compartment within 2 min and dispersed throughout the cell body by 15 min. 3) After incubation with hemoglobin-gold conjugates at 25 degreesC or 37 degreesC, the particles accumulated in discrete intracellular vesicles. 4) A single biotinylated protein of 46 kDa was revealed when solubilized membranes from surface biotinylated intact Leishmania adsorbed by hemoglobin-agarose beads were subjected to SDS-polyacrylamide gel electrophoresis and Western blotting with avidin-horseradish peroxidase. Considered together, these data indicate that this 46-kDa protein on the cell surface of L. donovani promastigotes mediates the binding of hemoglobin and its rapid internalization through a vesicular pathway characteristic of receptor-mediated endocytosis.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 10,
+    "publications_by_year": {
+      "2012": 1,
+      "2008": 1,
+      "2006": 1,
+      "2005": 1,
+      "2003": 1,
+      "2002": 1,
+      "2001": 1,
+      "2000": 2,
+      "1999": 1
+    },
+    "top_journals": [
+      "The Journal of biological chemistry",
+      "The EMBO journal",
+      "Proceedings of the National Academy of Sciences of the United States of America",
+      "Journal of cell science",
+      "The Journal of cell biology"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 30,
+      "frequent_collaborators": [
+        "Amitabha Mukhopadhyay",
+        "Sandip K Basu",
+        "M Raje",
+        "A Mukhopadhyay",
+        "Ganga Krishnamurthy",
+        "S K Basu",
+        "Seetharaman Parashuraman",
+        "Sudha B Singh"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "10821869",
+        "title": "Live Salmonella modulate expression of Rab proteins to persist in a specialized compartment and escape transport to lysosomes.",
+        "citations": 150,
+        "year": "2000"
+      },
+      {
+        "publication_id": "15579464",
+        "title": "Hemoglobin receptor in Leishmania is a hexokinase located in the flagellar pocket.",
+        "citations": 77,
+        "year": "2005"
+      },
+      {
+        "publication_id": "9915807",
+        "title": "Hemoglobin endocytosis in Leishmania is mediated through a 46-kDa protein located in the flagellar pocket.",
+        "citations": 77,
+        "year": "1999"
+      }
+    ]
+  }
+}

@@ -1,0 +1,683 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Apurba Kumar Sau",
+    "email": "apurba@nii.ac.in, apurba@nii.res.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-apurba-kumar-sau",
+    "research_domain": "Chemical Biology, Biochemistry & Structural Biology",
+    "faculty_status": "current",
+    "search_date": "2025-06-26T23:02:43.592133",
+    "total_publications": 27,
+    "last_updated": "2025-06-26",
+    "description": "This document contains a complete list of publications by Dr. Apurba Kumar Sau, current faculty in Chemical Biology, Biochemistry & Structural Biology at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "40504112",
+      "title": "Structural and Functional Insights into the Regulation of Helicobacter pylori CPA Activity by an Evolutionarily Conserved Motif.",
+      "authors": [
+        "Anirban Molla",
+        "Ditsa Sarkar",
+        "Ashma Khan",
+        "Vijayan Ramachandran",
+        "Tasneem Kausar",
+        "Samudrala Gourinath",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2025",
+      "journal": "Biochemistry",
+      "doi": "10.1021/acs.biochem.5c00045",
+      "doi_link": "https://doi.org/10.1021/acs.biochem.5c00045",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40504112",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structural%20and%20Functional%20Insights%20into%20the%20Regulation%20of%20Helicobacter%20pylori%20CPA%20Activity%20by%20an%20Evolutionarily%20Conserved%20Motif%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "N-Carbamoyl putrescine amidase (CPA) is a key enzyme in polyamine synthesis and plays an essential role in cell growth and proliferation in plants and many bacteria. While CPA is absent in humans, its presence in Helicobacter pylori makes it a potential therapeutic target. Despite its biological importance, CPA's structural and functional characteristics are not fully understood. The (-152CWDQW156-) motif in H. pylori CPA is conserved across homologues, where tryptophan residues are critical for oligomerization. This motif forms a short helix near the active site, suggesting a functional role for helix formation. Using computational and solution-based experiments, we show the significance of short-helix formation in CPA function. Unlike the wild-type and the Cys152Ala mutant, which form octamers, the Cys152Pro variant disrupts the helix formation and produces dimers. This indicates that short-helix construction is crucial for producing octamers. Furthermore, we observed that residues Asp154 and Tyr157 interact with His117 within the same monomer. Notably, single Ala mutations of these residues resulted in dimers with significantly reduced catalytic activity despite maintaining helix formation. This finding underscores the importance of the interaction network (Asp154-His117-Tyr157) in stabilizing the helix's orientation and promoting octamerization. We also observed that octamerization enhances protein stability, as evidenced by a 10° increase in Tm. Targeting the short helix and its surrounding region, we identified a small-molecule CPA inhibitor that effectively reduced enzymatic activity. These findings reveal a new regulatory mechanism where helix formation and oligomerization are crucial to CPA function, providing a foundation for developing more potent therapeutic inhibitors against H. pylori.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "39214624",
+      "title": "Helical Domain Changes between hGBP3 and hGBP3ΔC Result in Distinct Oligomers and Anti-HCV Activity.",
+      "authors": [
+        "Sowmiya Gupta",
+        "Aunji Pradhan",
+        "Divya Rashmi",
+        "Monika Mittal",
+        "Saumitra Das",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2024",
+      "journal": "Biochemistry",
+      "doi": "10.1021/acs.biochem.4c00332",
+      "doi_link": "https://doi.org/10.1021/acs.biochem.4c00332",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39214624",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Helical%20Domain%20Changes%20between%20hGBP3%20and%20hGBP3%CE%94C%20Result%20in%20Distinct%20Oligomers%20and%20Anti-HCV%20Activity%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "Human guanylate binding proteins (hGBPs), which are large GTPases, are crucial for cell-autonomous immunity, including antiviral activity. hGBPs contain two domains: an N-terminal catalytic domain and a C-terminal helical domain. hGBP3 and its splice variant hGBP3ΔC have been shown to possess anti-influenza activity in lung epithelial cells. These two proteins have identical catalytic domains but different helical domains. It is unclear whether this difference affects GTPase activity or protein oligomerization. Using combined approaches, we show that both proteins hydrolyze GTP to GDP and further to GMP. However, they form different oligomers. hGBP3 exists as a hexamer in the free form, whereas hGBP3ΔC forms large oligomers, indicating that helical domain modifications of the splice variant result in distinct oligomers. Furthermore, unlike other homologues, neither protein changes its oligomeric state upon substrate binding or hydrolysis. Deleting the helical domain of hGBP3 (hGBP31-309) yields a monomer, suggesting that the helical domain promotes the hexamerization of hGBP3. We overexpressed hGBP3 and hGBP3ΔC to test their efficacy against HCV growth and found that hGBP3 inhibits HCV multiplication, while the splice variant has little effect. Our mutational studies on hGBP3 show that substrate hydrolysis, rather than substrate binding, is required for inhibiting HCV growth. This suggests that substrate hydrolysis generates a protein conformation essential for anti-HCV activity. Additionally, truncated hGBP31-309 does not exhibit anti-HCV activity. Altogether, these findings suggest that the helical domain of hGBP3 is crucial for reducing HCV growth through hexamer formation and that its variations result in different oligomers and antiviral activities.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "38301888",
+      "title": "Helical domain of hGBP3 cannot stimulate the second phosphate cleavage of GTP.",
+      "authors": [
+        "Divya Rashmi",
+        "Sowmiya Gupta",
+        "Tasneem Kausar",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2024",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1016/j.jbc.2024.105696",
+      "doi_link": "https://doi.org/10.1016/j.jbc.2024.105696",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38301888",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Helical%20domain%20of%20hGBP3%20cannot%20stimulate%20the%20second%20phosphate%20cleavage%20of%20GTP%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "Interferon-gamma-inducible large GTPases, hGBPs, possess antipathogenic and antitumor activities in human cells. Like hGBP1, its closest homolog, hGBP3 has two domains; an N-terminal catalytic domain and a C-terminal helical domain, connected by an intermediate region. The biochemical function of this protein and the role of its domains in substrate hydrolysis have not yet been investigated. Here, we report that while hGBP3 can produce both GDP and GMP, GMP is the minor product, 30% (unlike 85% in hGBP1), indicating that hGBP3 is unable to produce enhanced GMP. To understand which domain(s) are responsible for this deficiency, we created hGBP3 truncated variants. Surprisingly, GMP production was similar upon deletion of the helical domain, suggesting that in contrast to hGBP1, the helical domain of hGBP3 cannot stimulate the second phosphate cleavage of GTP. We conducted computational and solution studies to understand the underlying basis. We found that the regulatory residue W79, present in the catalytic domain, forms an H-bond with the backbone carbonyl of K76 (located in the catalytic loop) of the substrate-bound hGBP3. However, after gamma-phosphate cleavage of GTP, the W79-containing region does not undergo a conformational change, failing to redirect the catalytic loop toward the beta-phosphate. This is necessary for efficient GMP formation because hGBP homologs utilize the same catalytic residue for both phosphate cleavages. We suggest that the lack of specific interdomain contacts mediated by the helical domain prevents the catalytic loop movement, resulting in reduced GMP formation. These findings may provide insight into how hGBP3 contributes to immunity.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "37796726",
+      "title": "Effect of the Macromolecular Crowding Agents on the Structure and Function of Human Arginase-I, a Therapeutically Important Enzyme.",
+      "authors": [
+        "Vineet Sadarangani",
+        "Anjali Kalia",
+        "Tasneem Kausar",
+        "Pooja Murarka",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2023",
+      "journal": "The journal of physical chemistry. B",
+      "doi": "10.1021/acs.jpcb.3c02940",
+      "doi_link": "https://doi.org/10.1021/acs.jpcb.3c02940",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37796726",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Effect%20of%20the%20Macromolecular%20Crowding%20Agents%20on%20the%20Structure%20and%20Function%20of%20Human%20Arginase-I%2C%20a%20Therapeutically%20Important%20Enzyme%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "Macromolecular crowding has been known to influence the structure and function of many enzymes through excluded volume effects and/or soft interactions. Here, we employed two synthetic macromolecular crowders, Dextrans and poly(ethylene glycol)s (PEGs) with varying molecular masses, to examine how they affected the structure and function of a therapeutically important enzyme, human arginase-I that catalyzes the conversion of l-arginine to l-ornithine and urea. Except at greater concentrations of Dextran 200, Dextrans were observed to slightly reduce the enzymatic activity, indicating that they exert their influence mainly through the excluded volume effects. Similar outcomes were seen with PEGs, with the exception of PEG 1000, where the activity decreased with increasing PEG concentrations, showing the maximum effect at a 20 g/L concentration. This finding suggests that the enzyme function is reduced by the soft interactions of this macromolecule with the enzyme, supported by the binding measurement. Secondary and local tertiary structures and thermodynamic stability were also affected, suggesting that PEG 1000 has an impact on the protein's structure. Furthermore, molecular dynamics simulation studies suggest that the catalytic pocket is disturbed, presumably by the unwinding of neighboring helix 9. As a result, the positioning of nearby Glu277 is altered, which prevents His141 and Glu277 from making contact. This hampers the proton transfer from the catalytic His141 to the intermediate species to form ornithine, a crucial step for the substrate hydrolysis reaction by this arginase. Overall, the knowledge gained from this study might be helpful for understanding how different enzymes work in a crowded/cellular environment.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "37086465",
+      "title": "Illuminating the structure-function landscape of an evolutionary nonconserved motif in the arginases of Helicobacter gastric pathogens.",
+      "authors": [
+        "Ditsa Sarkar",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2023",
+      "journal": "IUBMB life",
+      "doi": "10.1002/iub.2728",
+      "doi_link": "https://doi.org/10.1002/iub.2728",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37086465",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Illuminating%20the%20structure-function%20landscape%20of%20an%20evolutionary%20nonconserved%20motif%20in%20the%20arginases%20of%20Helicobacter%20gastric%20pathogens%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "The bimetallic enzyme arginase catalyses the conversion of L-arginine to L-ornithine and urea. In Helicobacter pylori (a known human gastric pathogen), this enzyme is an important virulence factor. In spite of the conservation of the catalytic and the metal-binding residues, the H. pylori homolog possesses a 13-residue motif (-153 ESEEKAWQKLCSL165 -) present in the middle of the protein sequence, whose role was recently elucidated. Despite several reviews available on arginases, no report has thoroughly illustrated the underlying basis for the importance of the above motif of the H. pylori enzyme in structure and function. In this review, we systematically describe a mechanistic basis for its importance in structure and function based on the known data. This motif of the H. pylori enzyme is present exclusively in the arginases of other Helicobacter gastric pathogens, where the critical residues are conserved, implying that the nonconserved stretch has been selected during the evolution of the enzyme in these gastric pathogens in a specific manner to perform its role in the structure and function. The combined information can be useful for understanding the function of arginases in other Helicobacter gastric pathogens. Additionally, this knowledge can be utilised to screen and design new small molecule inhibitors, specific to the arginases of these pathogens.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "37042791",
+      "title": "Difference in Catalytic Loop Repositioning Leads to GMP Variation between Two Human GBP Homologues.",
+      "authors": [
+        "Monika Mittal",
+        "Tasneem Kausar",
+        "Sudeepa Rajan",
+        "Divya Rashmi",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2023",
+      "journal": "Biochemistry",
+      "doi": "10.1021/acs.biochem.3c00030",
+      "doi_link": "https://doi.org/10.1021/acs.biochem.3c00030",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37042791",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Difference%20in%20Catalytic%20Loop%20Repositioning%20Leads%20to%20GMP%20Variation%20between%20Two%20Human%20GBP%20Homologues%22",
+      "citations": {
+        "crossref": 3
+      },
+      "abstract": "Interferon-gamma-inducible human large GTPases, hGBP1 and hGBP2, have a distinctive feature of hydrolyzing GTP to GDP and GMP through successive phosphate cleavages. In hGBP1, GMP is the major product, which is essential for its anti-pathogenic activities. However, its close homologue hGBP2 produces significantly less GMP, despite having a similar active site architecture. The molecular basis for less GMP formation and catalytic residue(s) in hGBP2 are not fully explored. To address these issues, we performed systematic biochemical, biophysical, and microsecond simulation studies. Our data suggest that the less GMP formation in hGBP2 is due to the lack of H-bond formation between the W79 side-chain (located near the active site) and main-chain carbonyl of K76 (present in the catalytic loop) in the substrate-bound hGBP2. The absence of this H-bond could not redirect the catalytic loop toward the beta phosphate after the cleavage of gamma-phosphate, a step essential for enhanced GMP formation. Furthermore, based on the mutational and structural analyses, this study for the first time indicates that the same residue, T75, mediates both phosphate cleavages in hGBP2 and hGBP1. This suggests the conservation of the catalytic residue in hGBP homologues. These findings emphasize the indispensable role of correct catalytic loop repositioning for efficient beta phosphate cleavage. This led us to propose a new substrate hydrolysis mechanism by hGBP1 and hGBP2, which may also be helpful to understand the GTP hydrolysis in other hGBP homologues. Overall, the study could provide insight into how these two close homologues play crucial roles in host-mediated immunity through different mechanisms.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "34932956",
+      "title": "A unique aromatic cluster near the active site of H. pylori CPA is essential for catalytic function.",
+      "authors": [
+        "Ditsa Sarkar",
+        "Ramachandran Vijayan",
+        "Samudrala Gourinath",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2022",
+      "journal": "Biophysical journal",
+      "doi": "10.1016/j.bpj.2021.12.020",
+      "doi_link": "https://doi.org/10.1016/j.bpj.2021.12.020",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34932956",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20unique%20aromatic%20cluster%20near%20the%20active%20site%20of%20H.%20pylori%20CPA%20is%20essential%20for%20catalytic%20function%22",
+      "citations": {
+        "crossref": 2
+      },
+      "abstract": "Polyamines are essential for cell growth and proliferation. In plants and many bacteria, including Helicobacter pylori, the parent polyamine putrescine is only produced through the metabolism of N-carbamoylputrescine by N-carbamoylputrescine amidase (CPA). Thus, CPA is a crucial intermediate enzyme. Moreover, the absence of CPA in humans makes its presence in H. pylori a potential target for the development of new therapeutics against this pathogen. Despite this enzyme's presence in plants and bacteria, its function is not completely explored. Using structure-guided biochemical and biophysical studies on H. pylori CPA, we discovered an aromatic cluster containing four conserved tryptophans near the catalytic site and elucidated its role. Mutational studies revealed that they are individually vital to enzyme function. Unlike wild-type, which forms a hexamer, the Trp to Ala mutants only formed dimers. Interestingly, two other conserved residues, Gln155 and Asp278, interact with the tryptophan cluster and perform similar roles. Our results indicate that aromatic-aromatic and H-bonding contacts between the residues (Trp156-Trp273, Trp196-Gln155, and Trp153-Asp278) play a crucial role in stimulating activity through hexamer formation. Additionally, Trp156 is essential to generating a catalytically efficient hexamer. These results suggest dual roles for the tryptophans; in hexamer formation and in generating its functionally active form, thereby providing a mechanistic understanding into the role of the cluster. We also elucidated the catalytic roles of Glu43, Lys115, and Cys152, which are present at the active site. Our findings highlight, for the first time, the importance of a tryptophan cluster in H. pylori CPA that can be exploited to design therapeutic inhibitors.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "33480396",
+      "title": "An evolutionary non-conserved motif in Helicobacter pylori arginase mediates positioning of the loop containing the catalytic residue for catalysis.",
+      "authors": [
+        "Ankita Dutta",
+        "Ditsa Sarkar",
+        "Pooja Murarka",
+        "Tasneem Kausar",
+        "Satya Narayan",
+        "Mohit Mazumder",
+        "Sri Rama Koti Ainavarapu",
+        "Samudrala Gourinath",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2021",
+      "journal": "The Biochemical journal",
+      "doi": "10.1042/BCJ20200978",
+      "doi_link": "https://doi.org/10.1042/BCJ20200978",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33480396",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22An%20evolutionary%20non-conserved%20motif%20in%20Helicobacter%20pylori%20arginase%20mediates%20positioning%20of%20the%20loop%20containing%20the%20catalytic%20residue%20for%20catalysis%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "The binuclear metalloenzyme Helicobacter pylori arginase is important for pathogenesis of the bacterium in the human stomach. Despite conservation of the catalytic residues, this single Trp enzyme has an insertion sequence (-153ESEEKAWQKLCSL165-) that is extremely crucial to function. This sequence contains the critical residues, which are conserved in the homolog of other Helicobacter gastric pathogens. However, the underlying basis for the role of this motif in catalytic function is not completely understood. Here, we used biochemical, biophysical and molecular dynamics simulations studies to determine that Glu155 of this stretch interacts with both Lys57 and Ser152. These interactions are essential for positioning of the motif through Trp159, which is located near Glu155 (His122-Trp159-Tyr125 contact is essential to tertiary structural integrity). The individual or double mutation of Lys57 and Ser152 to Ala considerably reduces catalytic activity with Lys57 to Ala being more significant, indicating they are crucial to function. Our data suggest that the Lys57-Glu155-Ser152 interaction influences the positioning of the loop containing the catalytic His133 so that this His can participate in catalysis, thereby providing a mechanistic understanding into the role of this motif in catalytic function. Lys57 was also found only in the arginases of other Helicobacter gastric pathogens. Based on the non-conserved motif, we found a new molecule, which specifically inhibits this enzyme. Thus, the present study not only provides a molecular basis into the role of this motif in function, but also offers an opportunity for the design of inhibitors with greater efficacy.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "33113220",
+      "title": "Stimulation of GMP formation in hGBP1 is mediated by W79 and its effect on the antiviral activity.",
+      "authors": [
+        "Nikunj Raninga",
+        "Shahid M Nayeem",
+        "Sowmiya Gupta",
+        "Ranajoy Mullick",
+        "Esha Pandita",
+        "Saumitra Das",
+        "Shashank Deep",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2021",
+      "journal": "The FEBS journal",
+      "doi": "10.1111/febs.15611",
+      "doi_link": "https://doi.org/10.1111/febs.15611",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33113220",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Stimulation%20of%20GMP%20formation%20in%20hGBP1%20is%20mediated%20by%20W79%20and%20its%20effect%20on%20the%20antiviral%20activity%22",
+      "citations": {
+        "semantic_scholar": 6
+      },
+      "abstract": "Interferon-inducible large GTPases are critical for innate immunity. The distinctive feature of a large GTPase, human guanylate binding protein-1 (hGBP1), is the sequential hydrolysis of GTP into GMP via GDP. Despite several structural and biochemical studies, the underlying mechanism of assembly-stimulated GMP formation by hGBP1 and its role in immunity are not fully clarified. Using a series of biochemical, biophysical, and in silico experiments, we studied four tryptophan residues, located near switch I-II (in and around the active site) to understand the conformational changes near these regions and also to investigate their effect on enhanced GMP formation. The W79A mutation showed significantly reduced GMP formation, whereas the W81A and W180A substitutions exhibited only a marginal defect. The W114A mutation showed a long-range effect of further enhanced GMP formation, which was mediated through W79. We also observed that after first phosphate cleavage, the W79-containing region undergoes a conformational change, which is essential for stimulated GMP formation. We suggest that this conformational change helps to reposition the active site for the next cleavage step, which occurs through a stable contact between the indole moiety of W79 and the main chain carbonyl of K76. We also showed that stimulated GMP formation is crucial for antiviral activity against hepatitis C. Thus, the present study not only provides new insight for the stimulation of GMP formation in hGBP1, but also highlights the importance of the enhanced second phosphate cleavage product in the antiviral activity.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "31954926",
+      "title": "The alpha helix of the intermediate region in hGBP-1 acts as a coupler for enhanced GMP formation.",
+      "authors": [
+        "Sudeepa Rajan",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2020",
+      "journal": "Biochimica et biophysica acta. Proteins and proteomics",
+      "doi": "10.1016/j.bbapap.2020.140364",
+      "doi_link": "https://doi.org/10.1016/j.bbapap.2020.140364",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31954926",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20alpha%20helix%20of%20the%20intermediate%20region%20in%20hGBP-1%20acts%20as%20a%20coupler%20for%20enhanced%20GMP%20formation%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "The interferon-gamma inducible large GTPase human guanylate binding protein-1 (hGBP-1) plays a key role in anti-pathogenic and anti-proliferative functions. This protein hydrolyzes GTP to both GDP and GMP (predominant product) through sequential phosphate cleavages, which makes it functionally distinct from other GTPases. Previous study on truncated variants of hGBP-1 suggested that the α-helix present in the intermediate region is essential for dimerization and thus for GMP formation. However, the role of this helix in the full-length protein in GMP formation is not clearly understood. Here, we present that substitution of the helix with a Gly-rich flexible (GGS)3 sequence in the full-length hGBP-1 (termed as linker protein) showed a drastic decrease in GMP formation. Unlike wild-type, the linker protein is not capable of undergoing substrate-induced dimerization and thereby transition state-induced tetramerization, suggesting the importance of the helix in oligomerization. Furthermore, we examined the effect of interactions between this helix and the α2-helix of the globular domain in GMP formation through mutational studies. The L118G mutation in the α2-helix showed a significantly reduced GMP formation. These results indicate that the interactions of the α-helix with the α2-helix are essential for enhanced GMP production. We propose that these interactions help in the oligomerization-assisted proper positioning of the catalytic machinery for efficient second phosphate cleavage. These findings thus provide a better understanding into the regulation of GMP formation in a large GTPase hGBP-1.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "31746966",
+      "title": "Metal-induced change in catalytic loop positioning in Helicobacter pylori arginase alters catalytic function.",
+      "authors": [
+        "Ankita Dutta",
+        "Mohit Mazumder",
+        "Mashkoor Alam",
+        "Samudrala Gourinath",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2019",
+      "journal": "The Biochemical journal",
+      "doi": "10.1042/BCJ20190545",
+      "doi_link": "https://doi.org/10.1042/BCJ20190545",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31746966",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Metal-induced%20change%20in%20catalytic%20loop%20positioning%20in%20Helicobacter%20pylori%20arginase%20alters%20catalytic%20function%22",
+      "citations": {
+        "crossref": 10
+      },
+      "abstract": "Arginase is a bimetallic enzyme that utilizes mainly Mn2+ or Co2+ for catalytic function. In human homolog, the substitution of Mn2+ with Co2+ significantly reduces the Km value without affecting the kcat. However, in the Helicobacter pylori counterpart (important for pathogenesis), the kcat increases nearly 4-fold with Co2+ ions both in the recombinant holoenzyme and arginase isolated from H. pylori grown with Co2+ or Mn2+. This suggests that the active site of arginase in the two homologs is modulated differently by these two metal ions. To investigate the underlying mechanism for metal-induced difference in catalytic activity in the H. pylori enzyme, we used biochemical, biophysical and microsecond molecular dynamics simulations studies. The study shows that the difference in binding affinity of Co2+ and Mn2+ ions with the protein is linked to a different positioning of a loop (-122HTAYDSDSKHIHG134-) that contains a conserved catalytic His133. Consequently, the proximity of His133 and conserved Glu281 is varied. We found that the Glu281-His133 interaction is crucial for catalytic function and was previously unexplored in other homologs. We suggest that the proximity difference between these two residues in the Co2+- and Mn2+-proteins alters the proportion of protonated His133 via variation in its pKa. This affects the efficiency of proton transfer - an essential step of l-arginine hydrolysis reaction catalyzed by arginase and thus activity. Unlike in human arginase, the flexibility of the above segment observed in H. pylori homolog suggests that this region in the H. pylori enzyme may be explored to design its specific inhibitors.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "31199074",
+      "title": "Understanding the lower GMP formation in large GTPase hGBP-2 and role of its individual domains in regulation of GTP hydrolysis.",
+      "authors": [
+        "Sudeepa Rajan",
+        "Esha Pandita",
+        "Monika Mittal",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2019",
+      "journal": "The FEBS journal",
+      "doi": "10.1111/febs.14957",
+      "doi_link": "https://doi.org/10.1111/febs.14957",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31199074",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Understanding%20the%20lower%20GMP%20formation%20in%20large%20GTPase%20hGBP-2%20and%20role%20of%20its%20individual%20domains%20in%20regulation%20of%20GTP%20hydrolysis%22",
+      "citations": {
+        "crossref": 9
+      },
+      "abstract": "The interferon γ-inducible large GTPases, human guanylate-binding protein (hGBP)-1 and hGBP-2, mediate antipathogenic and antiproliferative effects in human cells. Both proteins hydrolyse GTP to GDP and GMP through successive cleavages of phosphate bonds, a property that functionally distinguishes them from other GTPases. However, it is unclear why hGBP-2 yields lower GMP than hGBP-1 despite sharing a high sequence identity (~ 78%). We previously reported that the hGBP-1 tetramer is crucial for enhanced GMP formation. We show here that the hGBP-2 tetramer has no role in GMP formation. Using truncated hGBP-2 variants, we found that its GTP-binding domain alone hydrolyses GTP only to GDP. However, this domain along with the intermediate region enabled dimerization and hydrolysed GTP further to GMP. We observed that unlike in hGBP-1, the helical domain of hGBP-2 has an insignificant role in the regulation of GTP hydrolysis, suggesting that the differences in GMP formation between hGBP-2 and hGBP-1 arise from differences in their GTP-binding domains. A large sequence variation seen in the guanine cap may be responsible for the lower GMP formation in hGBP-2. Moreover, we identified the sites in the hGBP-2 domains that are critical for both dimerization and tetramerization. We also found the existence of hGBP-2 tetramer in mammalian cells, which might have a role in the suppression of the carcinomas. Our study suggests that sequence variation near the active site in these two close homologues leads to differential second phosphate cleavage and highlights the role of individual hGBP-2 domains in the regulation of GTP hydrolysis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "30282613",
+      "title": "Metal ions-induced stability and function of bimetallic human arginase-I, a therapeutically important enzyme.",
+      "authors": [
+        "Vineet Sadarangani",
+        "Safikur Rahman",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2018",
+      "journal": "Biochimica et biophysica acta. Proteins and proteomics",
+      "doi": "10.1016/j.bbapap.2018.08.006",
+      "doi_link": "https://doi.org/10.1016/j.bbapap.2018.08.006",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30282613",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Metal%20ions-induced%20stability%20and%20function%20of%20bimetallic%20human%20arginase-I%2C%20a%20therapeutically%20important%20enzyme%22",
+      "citations": {
+        "semantic_scholar": 11
+      },
+      "abstract": "Recent studies have highlighted the therapeutic importance of bimetallic human arginase-I against hyperargininemia and L-arginine auxotrophic cancers. The longer retention of catalytic activity of the Co2+-enzyme than that of the Mn2+ in human serum is associated with its enhanced therapeutic potential. To understand the basis of this and also to explore the role of a bimetallic center as well as the role of individual metal ions in the stability, we performed a detailed biochemical and biophysical investigation. The thermodynamic and kinetic stabilities of both the holo proteins are found to be significantly higher than the apo form, indicating that an intact bimetallic centre is vital for the enhanced stability of the holo proteins. The Co2+-protein is found to be more stable than that of the Mn2+, which might explain its longer retention of activity observed in the serum. Mutational studies demonstrated that the metal ions are individually crucial for both the enhanced stability and catalytic activity. Furthermore, we investigated the underlying mechanism for the effect of heat activation on the holo protein for higher catalytic activity, which is not yet known for arginases. Our data reveal that heat activation significantly increases the stability of the holo protein through a metal-induced increase in the helical content leading to the formation of a kinetically competent enzyme. Thus, the present study provides an in-depth insight into the significance of heat activation and the role of metal ions in human arginase, which may be useful for better understanding of its therapeutic use.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "29684243",
+      "title": "Biochemical and biophysical studies of Helicobacter pylori arginine decarboxylase, an enzyme important for acid adaptation in host.",
+      "authors": [
+        "Mashkoor Alam",
+        "Abhishek Srivastava",
+        "Ankita Dutta",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2018",
+      "journal": "IUBMB life",
+      "doi": "10.1002/iub.1754",
+      "doi_link": "https://doi.org/10.1002/iub.1754",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29684243",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Biochemical%20and%20biophysical%20studies%20of%20Helicobacter%20pylori%20arginine%20decarboxylase%2C%20an%20enzyme%20important%20for%20acid%20adaptation%20in%20host%22",
+      "citations": {
+        "semantic_scholar": 9
+      },
+      "abstract": "Despite importance of arginine decarboxylase (ADC: EC 4.1.1.19) of Helicobacter pylori (H. pylori) 26695 pathogenic strain for acid adaptation in host, the enzyme has not yet been studied at a molecular level. Using combined approaches that include kinetic assays, site-directed mutagenesis, circular dichroism, heat-induced denaturation, analytical gel-filtration, and homology modeling, we report here a detailed investigation of H. pylori ADC. The pyridoxal 5'-phosphate (PLP)-dependent enzyme exhibits higher catalytic activity in the presence of Mg2+ ions at pH ∼8.5. Unlike other bacterial ADCs, this homolog exists as a hexamer. The higher thermal stability (Tm ∼65.8 ± 0.2 °C) of the enzyme observed from the heat-induced circular dichroism measurements indicates its secondary structural stabilization in the presence of PLP. The kinetic parameters Km and kcat of the enzyme are determined to be 3.4 ± 0.2 mM and 55.2 ± 1.0 min-1 , respectively. We elucidate that Cys487, a conserved residue located at the active-site, is involved in the catalysis, whose pKa value was estimated to be ∼7.2. The homology model of the protein show conserved α/β TIM barrel and β-sandwich domains, which are characteristic features of fold III decarboxylases. A lower sequence identity (∼21%) of this enzyme compared with its human counterpart has enabled us to screen putative inhibitors of H. pylori ADC. We found that α-difluoromethylarginine inhibits the activity of the H. pylori enzyme competitively with a Ki value ∼118 µM and thus it can serve as a basis to design inhibitors with higher efficacy against this ADC.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "28355540",
+      "title": "Arginase of Helicobacter Gastric Pathogens Uses a Unique Set of Non-catalytic Residues for Catalysis.",
+      "authors": [
+        "Ginto George",
+        "Mamata Kombrabail",
+        "Nikunj Raninga",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2017",
+      "journal": "Biophysical journal",
+      "doi": "10.1016/j.bpj.2017.02.009",
+      "doi_link": "https://doi.org/10.1016/j.bpj.2017.02.009",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28355540",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Arginase%20of%20Helicobacter%20Gastric%20Pathogens%20Uses%20a%20Unique%20Set%20of%20Non-catalytic%20Residues%20for%20Catalysis%22",
+      "citations": {
+        "crossref": 11
+      },
+      "abstract": "Helicobacter pylori arginase, a bimetallic enzyme, is crucial for pathogenesis of the bacterium in human stomach. Despite conservation of the signature motifs in all arginases, the H. pylori homolog has a non-conserved motif (153ESEEKAWQKLCSL165), whose role was recently shown to be critical for its stability and function. The sequence analysis also reveals the presence of this motif with critical residues in the homolog of other Helicobacter gastric pathogens. However, the underlying mechanism for its significance in catalytic function is not clearly understood. Using H. pylori arginase, our studies reveal that the interactions of His122 and Tyr125 with Trp159 are indispensable for tertiary structural intactness through optimal positioning of the motif and thus for the catalytic function. The single and double mutants of His122 and Tyr125 not only enhanced the solvent accessibility and conformational flexibility of Trp159 in the holo protein, but also showed complete loss of catalytic activity. An intact bimetallic center and unaltered substrate binding indicate that proper positioning of the motif by aromatic-aromatic contact is vital for the generation of a catalytically active conformation. Additionally, the metal ions provide higher stability to the holo protein. We also identified the presence of these two residues exclusively in arginase of other Helicobacter gastric pathogens, which may have similar function. Therefore, to the best of our knowledge, these findings highlight for the first time that arginase of all Helicobacter gastric pathogens utilizes a unique non-catalytic triad for catalysis, which could be exploited for therapeutics.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "27071416",
+      "title": "Tetrameric assembly of hGBP1 is crucial for both stimulated GMP formation and antiviral activity.",
+      "authors": [
+        "Esha Pandita",
+        "Sudeepa Rajan",
+        "Safikur Rahman",
+        "Ranajoy Mullick",
+        "Saumitra Das",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2016",
+      "journal": "The Biochemical journal",
+      "doi": "10.1042/BCJ20160220",
+      "doi_link": "https://doi.org/10.1042/BCJ20160220",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27071416",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Tetrameric%20assembly%20of%20hGBP1%20is%20crucial%20for%20both%20stimulated%20GMP%20formation%20and%20antiviral%20activity%22",
+      "citations": {
+        "semantic_scholar": 15
+      },
+      "abstract": "Interferon-γ inducible human guanylate binding protein-1 (hGBP1) shows a unique characteristic that hydrolyses GTP to a mixture of GDP and GMP through successive cleavages, with GMP being the major product. Like other large GTPases, hGBP1 undergoes oligomerization upon substrate hydrolysis, which is essential for the stimulation of activity. It also exhibits antiviral activity against many viruses including hepatitis C. However, which oligomeric form is responsible for the stimulated activity leading to enhanced GMP formation and its influence on antiviral activity, are not properly understood. Using mutant and truncated proteins, our data indicate that transition-state-induced tetramerization is associated with higher rate of GMP formation. This is supported by chimaeras that are defective in both tetramerization and enhanced GMP formation. Unlike wild-type protein, chimaeras did not show allosteric interactions, indicating that tetramerization and enhanced GMP formation are allosterically coupled. Hence, we propose that after the cleavage of the first phosphoanhydride bond GDP·Pi-bound protein dimers transiently associate to form a tetramer that acts as an allosteric switch for higher rate of GMP formation. Biochemical and biophysical studies reveal that sequential conformational changes and interdomain communications regulate tetramer formation via dimer. Our studies also show that overexpression of the mutants, defective in tetramer formation in Rep2a cells do not inhibit proliferation of hepatitis C virus, indicating critical role of a tetramer in the antiviral activity. Thus, the present study not only highlights the importance of hGBP1 tetramer in stimulated GMP formation, but also demonstrates its role in the antiviral activity against hepatitis C virus.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "23270419",
+      "title": "Structural and functional insights into the regulation of Helicobacter pylori arginase activity by an evolutionary nonconserved motif.",
+      "authors": [
+        "Abhishek Srivastava",
+        "Shiv Kumar Meena",
+        "Mashkoor Alam",
+        "Shahid M Nayeem",
+        "Shashank Deep",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2013",
+      "journal": "Biochemistry",
+      "doi": "10.1021/bi301421v",
+      "doi_link": "https://doi.org/10.1021/bi301421v",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23270419",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structural%20and%20functional%20insights%20into%20the%20regulation%20of%20Helicobacter%20pylori%20arginase%20activity%20by%20an%20evolutionary%20nonconserved%20motif%22",
+      "citations": {
+        "semantic_scholar": 14
+      },
+      "abstract": "Urea producing bimetallic arginases are essential for the synthesis of polyamine, DNA, and RNA. Despite conservation of the signature motifs in all arginases, a nonconserved ¹⁵³ESEEKAWQKLCSL¹⁶⁵ motif is found in the Helicobacter pylori enzyme, whose role is yet unknown. Using site-directed mutagenesis, kinetic assays, metal analyses, circular dichroism, heat-induced denaturation, molecular dynamics simulations and truncation studies, we report here the significance of this motif in catalytic function, metal retention, structural integrity, and stability of the protein. The enzyme did not exhibit detectable activity upon deletion of the motif as well as on individual mutation of Glu155 and Trp159 while Cys163Ala displayed significant decrease in the activity. Trp159Ala and Glu155Ala show severe loss of thermostability (14-17°) by a decrease in the α-helical structure. The role of Trp159 in stabilization of the structure with the surrounding aromatic residues is confirmed when Trp159Phe restored the structure and stability substantially compared to Trp159Ala. The simulation studies support the above results and show that the motif, which was previously solvent exposed, displays a loop-cum-small helix structure (Lys161-Cys163) and is located near the active-site through a novel Trp159-Asp126 interaction. This is consistent with the mutational analyses, where Trp159 and Asp126 are individually critical for retaining a bimetallic center and thereby for function. Furthermore, Cys163 of the helix is primarily important for dimerization, which is crucial for stimulation of the activity. Thus, these findings not only provide insights into the role of this motif but also offer a possibility to engineer it in human arginases for therapeutics against a number of carcinomas.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "22859948",
+      "title": "Insight into temperature dependence of GTPase activity in human guanylate binding protein-1.",
+      "authors": [
+        "Anjana Rani",
+        "Esha Pandita",
+        "Safikur Rahman",
+        "Shashank Deep",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2012",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0040487",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0040487",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22859948",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Insight%20into%20temperature%20dependence%20of%20GTPase%20activity%20in%20human%20guanylate%20binding%20protein-1%22",
+      "citations": {
+        "crossref": 6
+      },
+      "abstract": "Interferon-γ induced human guanylate binding protein-1(hGBP1) belongs to a family of dynamin related large GTPases. Unlike all other GTPases, hGBP1 hydrolyzes GTP to a mixture of GDP and GMP with GMP being the major product at 37°C but GDP became significant when the hydrolysis reaction was carried out at 15°C. The hydrolysis reaction in hGBP1 is believed to involve with a number of catalytic steps. To investigate the effect of temperature in the product formation and on the different catalytic complexes of hGBP1, we carried out temperature dependent GTPase assays, mutational analysis, chemical and thermal denaturation studies. The Arrhenius plot for both GDP and GMP interestingly showed nonlinear behaviour, suggesting that the product formation from the GTP-bound enzyme complex is associated with at least more than one step. The negative activation energy for GDP formation and GTPase assay with external GDP together indicate that GDP formation occurs through the reversible dissociation of GDP-bound enzyme dimer to monomer, which further reversibly dissociates to give the product. Denaturation studies of different catalytic complexes show that unlike other complexes the free energy of GDP-bound hGBP1 decreases significantly at lower temperature. GDP formation is found to be dependent on the free energy of the GDP-bound enzyme complex. The decrease in the free energy of this complex at low temperature compared to at high is the reason for higher GDP formation at low temperature. Thermal denaturation studies also suggest that the difference in the free energy of the GTP-bound enzyme dimer compared to its monomer plays a crucial role in the product formation; higher stability favours GMP but lower favours GDP. Thus, this study provides the first thermodynamic insight into the effect of temperature in the product formation of hGBP1.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "22031496",
+      "title": "Insight into the role of a unique SSEHA motif in the activity and stability of Helicobacter pylori arginase.",
+      "authors": [
+        "Abhishek Srivastava",
+        "Nidhi Dwivedi",
+        "Uttamkumar Samanta",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2011",
+      "journal": "IUBMB life",
+      "doi": "10.1002/iub.552",
+      "doi_link": "https://doi.org/10.1002/iub.552",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22031496",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Insight%20into%20the%20role%20of%20a%20unique%20SSEHA%20motif%20in%20the%20activity%20and%20stability%20of%20Helicobacter%20pylori%20arginase%22",
+      "citations": {
+        "semantic_scholar": 14
+      },
+      "abstract": "Arginase is a binuclear Mn(2+) -metalloenzyme of urea cycle that hydrolyzes arginine to ornithine and urea. Unlike other arginases, the Helicobacter pylori enzyme is selective for Co(2+) and has all conserved motifs except (88) SSEHA(92) (instead of GGDHS). To examine the role of this motif in the activity and stability, steady-state kinetics, mutational analysis, thermal denaturation, and homology modeling were carried out. With a series of single and double mutants, we show that mutations of Ser88 and Ala92 to its analogous residues in other arginases individually enhance the catalytic activity. This is supported by the modeling studies, where the motif plays a role in alteration at the active site structure compared to other arginases. Mutational analysis further shows that both Glu90 and His91 are important for the activity, as their mutations lead to significant decrease in the catalytic efficiency but they appear to act in two different ways; Glu90 has a more catalytic role as its mutant displays binding of the two metal ions per monomer of the protein, but His91 plays a critical role in retaining the metal ion at the active site as its mutation exhibits a loss of one metal ion. Thermal denaturation studies demonstrated that Ser88 and His91 both play crucial roles in the stability of the protein as their mutants showed a decrease in the T(m) by ∼10-11°. Unlike wild type, the metal ions have larger role in providing the stability to the mutant proteins. Thus, our data demonstrate that the motif not only plays an important role in the activity but also critical in the stability of the protein.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "21190293",
+      "title": "Biochemical studies on Helicobacter pylori arginase: insight into the difference in activity compared to other arginases.",
+      "authors": [
+        "Abhishek Srivastava",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2010",
+      "journal": "IUBMB life",
+      "doi": "10.1002/iub.401",
+      "doi_link": "https://doi.org/10.1002/iub.401",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21190293",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Biochemical%20studies%20on%20Helicobacter%20pylori%20arginase%3A%20insight%20into%20the%20difference%20in%20activity%20compared%20to%20other%20arginases%22",
+      "citations": {
+        "crossref": 23
+      },
+      "abstract": "Arginase is a binuclear Mn(2+)-metalloenzyme of urea cycle that catalyzes the conversion of L-arginine to L-ornithine and urea. Unlike other arginases, the Helicobacter pylori enzyme is selective for Co(2+), and has lower catalytic activity. To understand the differences in the biochemical properties as well as activity compared to other arginases, we carried out a detailed investigation of different metal reconstituted H. pylori arginases that includes steady-state kinetics, fluorescence measurement, pH-dependent and oligomerization assays. Unlike other arginases (except human at physiological pH), the Co(2+)- and Mn(2+)-reconstituted H. pylori enzymes exhibit cooperative mechanism of arginine hydrolysis, and undergo self-association and activation with increasing concentrations. Analytical gel-filtration assays in conjunction with the kinetic data showed that the protein exists as a mixture of monomer and dimer with monomer being the major form (other arginases exclusively exist as a trimer or hexamer) but the dimer is associated with higher catalytic activity. The proportion of dimer is found to decrease with increasing salt concentrations indicating that salt bridges play important roles in dimerization of the protein. Furthermore, the fluorescence measurement showed that Co(2+) ions play an important role in the local tertiary structure of the protein than Mn(2+). This is consistent with the pH-dependent studies where the Co(2+)-enzyme showed a single ionization compared to the double in the Mn(2+)-enzyme. Thus, this study presents the detailed biochemical and spectroscopic investigations into the differences in the biochemical properties and activity between H. pylori and other arginases.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper21",
+      "publication_id": "20923658",
+      "title": "Dimerization and its role in GMP formation by human guanylate binding proteins.",
+      "authors": [
+        "Nazish Abdullah",
+        "Meena Balakumari",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2010",
+      "journal": "Biophysical journal",
+      "doi": "10.1016/j.bpj.2010.07.025",
+      "doi_link": "https://doi.org/10.1016/j.bpj.2010.07.025",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20923658",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Dimerization%20and%20its%20role%20in%20GMP%20formation%20by%20human%20guanylate%20binding%20proteins%22",
+      "citations": {
+        "semantic_scholar": 24
+      },
+      "abstract": "The mechanism of oligomerization and its role in the regulation of activity in large GTPases are not clearly understood. Human guanylate binding proteins (hGBP-1 and 2) belonging to large GTPases have the unique feature of hydrolyzing GTP to a mixture of GDP and GMP with unequal ratios. Using a series of truncated and mutant proteins of hGBP-1, we identified a hydrophobic helix in the connecting region between the two domains that plays a critical role in dimerization and regulation of the GTPase activity. The fluorescence with 1-8-anilinonaphthalene sulfonate and circular dichroism measurements together suggest that in the absence of the substrate analog, the helix is masked inside the protein but becomes exposed through a substrate-induced conformational switch, and thus mediates dimerization. This is further supported by the intrinsic fluorescence experiment, where Leu(298) of this helix is replaced by a tryptophan. Remarkably, the enzyme exhibits differential GTPase activities depending on dimerization; a monomer produces only GDP, but a dimer gives both GDP and GMP with stimulation of the activity. An absolute dependence of GMP formation with dimerization demonstrates a cross talk between the monomers during the second hydrolysis. Similar to hGBP-1, hGBP-2 showed dimerization-related GTPase activity for GMP formation, indicating that this family of proteins follows a broadly similar mechanism for GTP hydrolysis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper22",
+      "publication_id": "20381458",
+      "title": "Role of a disulphide bond in Helicobacter pylori arginase.",
+      "authors": [
+        "Abhishek Srivastava",
+        "Nidhi Dwivedi",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2010",
+      "journal": "Biochemical and biophysical research communications",
+      "doi": "10.1016/j.bbrc.2010.04.014",
+      "doi_link": "https://doi.org/10.1016/j.bbrc.2010.04.014",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20381458",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Role%20of%20a%20disulphide%20bond%20in%20Helicobacter%20pylori%20arginase%22",
+      "citations": {
+        "crossref": 11
+      },
+      "abstract": "Arginase is a binuclear Mn(2+)-metalloenzyme of urea cycle that hydrolyses arginine to ornithine and urea. Unlike other arginases, the Helicobacter pylori enzyme is selective for Co(2+). Previous study reported that DTT strongly inhibits the H. pylori enzyme activity suggesting that a disulphide bond is critical for the catalysis. In this study, we have undertaken steady-state kinetics, circular dichroism and mutational analysis to examine the role of a disulphide bond in this protein. By mutational analysis, we show that the disulphide bond is not important for catalytic activity; rather it plays an important role for the stability of the protein as observed from thermal denaturation studies. The loss of catalytic activity in the wild-type protein with DTT is due to the interaction with Co(2+). This is verified with the Mn(2+)-reconstituted proteins which showed a marginal loss in the activity with DTT.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper23",
+      "publication_id": "19399763",
+      "title": "Structural studies on Helicobacter pylori 3-deoxy-D-manno-2-octulosonate-8-phosphate synthase using electrospray ionization mass spectrometry: a tetrameric complex composed of dimeric dimers.",
+      "authors": [
+        "Zhili Li",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2009",
+      "journal": "Rapid communications in mass spectrometry : RCM",
+      "doi": "10.1002/rcm.4043",
+      "doi_link": "https://doi.org/10.1002/rcm.4043",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19399763",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structural%20studies%20on%20Helicobacter%20pylori%203-deoxy-D-manno-2-octulosonate-8-phosphate%20synthase%20using%20electrospray%20ionization%20mass%20spectrometry%3A%20a%20tetrameric%20complex%20composed%20of%20dimeric%20dimers%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "Helicobacter pylori 3-deoxy-D-manno-2-octulosonate-8-phosphate (KDO8P) synthase catalyzes the conversion of D-arabinose-5-phosphate (A5P) and phosphoenolpyruvate (PEP) to produce KDO8P and inorganic phosphate. Since this protein is absent in mammals, it might therefore be an attractive target for the development of new antibiotics. Unlike E. coli KDO8P synthase (class I), the H. pylori counterpart is a class II enzyme, where it requires a divalent transition metal ion for catalysis. Although the metal ions have been shown to be important for catalysis, their role in the structure is not understood. Using electrospray ionization mass spectrometry (ESI-MS), the role of the metal ions in H. pylori KDO8P synthase has been investigated. This protein is found to be a tetramer in the gas phase but dissociates into the dimer with increasing declustering potential (DP2) suggesting an existence of a 'structurally specific' tetramer. An examination of mass spectra revealed that the tetrameric state of the Cd(2+)-reconstituted enzyme is less stable than those of the Zn(2+)-, Co(2+)- and Cu(2+)-enzymes. The stoichiometry of metal binding to the protein depends on the nature of the metal ion. Taken together, our data suggest that divalent metal ions play an important role in the quaternary structure of the protein and the tetrameric state may be primarily responsible for catalysis. This study demonstrates the first structural characterization and stoichiometry of metal binding in class II KDO8P synthase using electrospray ionization quadrupole time-of-flight mass spectrometry under nondenaturing conditions.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper24",
+      "publication_id": "19150356",
+      "title": "Role of individual domains and identification of internal gap in human guanylate binding protein-1.",
+      "authors": [
+        "Nazish Abdullah",
+        "Bharani Srinivasan",
+        "Nir Modiano",
+        "Peter Cresswell",
+        "Apurba Kumar Sau"
+      ],
+      "year": "2009",
+      "journal": "Journal of molecular biology",
+      "doi": "10.1016/j.jmb.2008.12.060",
+      "doi_link": "https://doi.org/10.1016/j.jmb.2008.12.060",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19150356",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Role%20of%20individual%20domains%20and%20identification%20of%20internal%20gap%20in%20human%20guanylate%20binding%20protein-1%22",
+      "citations": {
+        "semantic_scholar": 31
+      },
+      "abstract": "Unlike other GTPases, interferon-gamma-induced human guanylate binding protein-1 has the ability to hydrolyze GTP to both GDP and GMP, with GMP being the major product of the reaction. This protein has two domains, an N-terminal globular domain and a C-terminal helical domain. These two domains are connected by a short intermediate region consisting of a two-stranded beta-sheet and a helix. As human guanylate binding protein-1 has been shown to undergo stimulated GTPase activity without external GTPase-activating protein, we sought to understand the roles of each of the two individual domains, the intermediate region, a conserved motif ((103)DXEKGD(108)), and the mechanism of the stimulation of GTPase activity. The steady-state assays using radiolabeled [alpha-(32)P]GTP on the wild-type protein suggest that the stimulation of activity primarily occurs during the cleavage of the second phosphate of GTP rather than the first, through allosteric interaction. Using several truncated and mutant proteins, we demonstrate for the first time that both the alpha-helix of the intermediate region and the (103)DXEKGD(108) motif play critical roles for the hydrolysis to GMP, but they appear to act in different ways: alpha-helix acts through structural stabilization by allosteric interaction and, thus, acts as an internal GTPase-activating protein, whereas the motif might act by providing necessary catalytic residues. Our data also show that the N-terminal globular domain is able to perform only the first catalysis (GTP to GDP, an activity associated with basal level), but the helical domain in the full-length protein stimulates the hydrolysis of GTP to GMP with higher GMP formation by preventing the dissociation of GDP-bound enzyme dimer.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper25",
+      "publication_id": "14701842",
+      "title": "Probing the role of metal ions in the catalysis of Helicobacter pylori 3-deoxy-D-manno-octulosonate-8-phosphate synthase using a transient kinetic analysis.",
+      "authors": [
+        "Apurba Kumar Sau",
+        "Zhili Li",
+        "Karen S Anderson"
+      ],
+      "year": "2004",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M308989200",
+      "doi_link": "https://doi.org/10.1074/jbc.M308989200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/14701842",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Probing%20the%20role%20of%20metal%20ions%20in%20the%20catalysis%20of%20Helicobacter%20pylori%203-deoxy-D-manno-octulosonate-8-phosphate%20synthase%20using%20a%20transient%20kinetic%20analysis%22",
+      "citations": {
+        "crossref": 11
+      },
+      "abstract": "3-Deoxy-d-manno-2-octulosonate-8-phosphate (KDO8P) synthase catalyzes the net condensation of phosphoenolpyruvate and d-arabinose 5-phosphate to form KDO8P and inorganic phosphate (Pi). Two classes of KDO8P synthases have been identified. The Class I KDO8P synthases (e.g. Escherchia coli KDO8P synthase) catalyze the condensation reaction in a metal-independent fashion, whereas the Class II enzymes (e.g. Aquifex aeolicus) require metal ions for catalysis. Helicobacter pylori (H. pylori) KDO8P synthase, a Zn2+-dependent metalloenzyme, has recently been found to be a Class II enzyme and has a high degree of clinical significance since it is an attractive molecular target for the design of novel antibiotic therapy. Although the presence of a divalent metal ion in Class II KDO8P synthases is essential for catalysis, there is a paucity of mechanistic information on the role of the metal ions and functional differences as compared with Class I enzymes. Using H. pylori KDO8P synthase as a prototypical Class II enzyme, a steady-state and transient kinetic approach was undertaken to understand the role of the metal ion in catalysis and define the kinetic reaction pathway. Metal reconstitution experiments examining the reaction kinetics using Zn2+, Cd2+, Cu2+, Co2+, Mn2+, and Ni2+ yielded surprising results in that the Cd2+ enzyme has the greatest activity. Unlike Class-I KDO8P synthases, the Class II metallo-KDO8P synthases containing Zn2+, Cd2+, Cu2+, and Co2+ show cooperativity. This study presents the first detailed kinetic characterization of a metal-dependent Class II KDO8P synthase and offers mechanistic insight for how the divalent metal ions modulate catalysis through effects on chemistry as well as quaternary protein structure.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper26",
+      "publication_id": "14556895",
+      "title": "An NMR and circular dichroism study of the interaction of thiocyanate with human and cross-linked hemoglobin: identification of Lys-alpha-99 as a possible dissociation linked binding site.",
+      "authors": [
+        "Apurba Kumar Sau",
+        "Douglas Currell",
+        "Shyamalava Mazumdar",
+        "Samaresh Mitra"
+      ],
+      "year": "2003",
+      "journal": "Biophysical chemistry",
+      "doi": "10.1016/s0301-4622(03)00154-6",
+      "doi_link": "https://doi.org/10.1016/s0301-4622(03)00154-6",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/14556895",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22An%20NMR%20and%20circular%20dichroism%20study%20of%20the%20interaction%20of%20thiocyanate%20with%20human%20and%20cross-linked%20hemoglobin%3A%20identification%20of%20Lys-alpha-99%20as%20a%20possible%20dissociation%20linked%20binding%20site%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "The interaction of thiocyanate with human native and cross-linked oxyhemoglobin (oxyHb), and methemoglobin (metHb) has been investigated by optical spectroscopy, circular dichroism (CD) and nuclear spin lattice relaxation rate measurements. The interaction of thiocyanate anion with human hemoglobin has been investigated by NMR measurements of the nuclear spin lattice relaxation rate of N(15) labeled thiocyanate in the presence of cyanomethemoglobin and cross-linked cyanomethemoglobin. Results show that thiocyanate is located approximately 8.9 and 6.2 A away from the heme group in cyanomethemoglobin and cross-linked cyanomethemoblobin, respectively. These results are consistent with the binding of SCN(-) at the lys-alpha-99 in the unmodified hemoglobin. Since this site is blocked in the cross-linked hemoglobin, the binding site is different. Results show that one mole of SCN(-) is binding to one mole of oxyhemoglobin suggesting that binding at the lys-alpha-99 is linked to dissociation of the hemoglobin tetramer into dimers due to its location at the alpha(1)beta(2) interface. Circular dichroism studies show that the interaction of thiocyanate with oxyHb decreases the optical rotation at 240 nm indicating a conformational change of the protein, which influences the electronic transitions of a number of peptide bonds or (and) a few aromatic side chains.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper27",
+      "publication_id": "12128179",
+      "title": "Interaction of sodium dodecyl sulfate with human native and cross-linked hemoglobins: a transient kinetic study.",
+      "authors": [
+        "Apurba Kumar Sau",
+        "Douglas Currell",
+        "Shyamalava Mazumdar",
+        "Samaresh Mitra"
+      ],
+      "year": "2002",
+      "journal": "Biophysical chemistry",
+      "doi": "10.1016/s0301-4622(02)00076-5",
+      "doi_link": "https://doi.org/10.1016/s0301-4622(02)00076-5",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12128179",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Interaction%20of%20sodium%20dodecyl%20sulfate%20with%20human%20native%20and%20cross-linked%20hemoglobins%3A%20a%20transient%20kinetic%20study%22",
+      "citations": {
+        "crossref": 32
+      },
+      "abstract": "The interaction of sodium dodecyl sulfate (SDS) at a concentration range (0-515 microM) below the critical micelle concentration (CMC approximately 0.83 mM) with human native and cross-linked oxyhemoglobin (oxyHb) and methemoglobin (metHb) has been investigated by optical spectroscopy and stopped-flow transient kinetic measurements. It is observed that the interaction of SDS with human native and cross-linked oxyHb shows the disappearance of the bands of oxyHb at 541 and 576 nm and the appearance at 537 nm. The resultant spectra are characteristic of low spin (Fe(3+)) hemichrome. Similarly SDS has been found to convert human native and cross-linked high spin (Fe(3+)) metHb to low spin (Fe(3+)) hemichrome. The interaction of SDS with oxyHb suggests a conformational change of the protein in the heme pocket, which may induce the binding of distal histidine to iron leading to the formation of superoxide radical. The formation of hemichrome from metHb is found to be concentration-dependent with SDS. The stopped flow transient kinetic measurements of the interaction of SDS with metHb show that at least four molecules of SDS interact with one molecule of metHb. The interaction of SDS with human cross-linked oxy and met hemoglobin shows results similar to those for human native oxy and met hemoglobin indicating that the covalent modification does not alter the interaction of SDS with cross-linked hemoglobin.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 27,
+    "publications_by_year": {
+      "2025": 1,
+      "2024": 2,
+      "2023": 3,
+      "2022": 1,
+      "2021": 2,
+      "2020": 1,
+      "2019": 2,
+      "2018": 2,
+      "2017": 1,
+      "2016": 1,
+      "2013": 1,
+      "2012": 1,
+      "2011": 1,
+      "2010": 3,
+      "2009": 2,
+      "2004": 1,
+      "2003": 1,
+      "2002": 1
+    },
+    "top_journals": [
+      "Biochemistry",
+      "IUBMB life",
+      "Biophysical journal",
+      "The Biochemical journal",
+      "The Journal of biological chemistry"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 40,
+      "frequent_collaborators": [
+        "Apurba Kumar Sau",
+        "Tasneem Kausar",
+        "Samudrala Gourinath",
+        "Saumitra Das",
+        "Esha Pandita",
+        "Shashank Deep",
+        "Safikur Rahman",
+        "Ditsa Sarkar"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "12128179",
+        "title": "Interaction of sodium dodecyl sulfate with human native and cross-linked hemoglobins: a transient kinetic study.",
+        "citations": 32,
+        "year": "2002"
+      },
+      {
+        "publication_id": "19150356",
+        "title": "Role of individual domains and identification of internal gap in human guanylate binding protein-1.",
+        "citations": 31,
+        "year": "2009"
+      },
+      {
+        "publication_id": "20923658",
+        "title": "Dimerization and its role in GMP formation by human guanylate binding proteins.",
+        "citations": 24,
+        "year": "2010"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1935 @@
+{
+  "metadata": {
+    "total_faculty": 26,
+    "data_collection_date": "2025-07-03T17:20:09.558106",
+    "last_updated": "2025-07-03",
+    "faculty_status": "former",
+    "departments": [
+      "Founding Director, National Institute of Immunology",
+      "Unknown Department"
+    ],
+    "research_areas": [
+      "Vaccine Development",
+      "Computational Biology",
+      "Immunology",
+      "Drug Discovery",
+      "Structural Biology",
+      "Cell Biology",
+      "Virology",
+      "Biochemistry",
+      "Infectious Diseases",
+      "General Biology",
+      "Molecular Biology",
+      "HIV/AIDS Research"
+    ]
+  },
+  "faculty_profiles": [
+    {
+      "faculty_id": "dr_anna_george_profile",
+      "name": "Dr. Anna George",
+      "email": "anna@nii.ac.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "Analysis of innate and adaptive immune responses.",
+      "research_areas": [
+        "Immunology"
+      ],
+      "research_keywords": [
+        "immune"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Bombay University Ph. D. Bombay University Postdoctoral Research University of Pennsylvania, Philadelphia, USA Royal Postgraduate Medical School, London, UK National Institutes of Health, Bethesda, USA"
+        ],
+        "postdoc_experience": [
+          "M. Sc. Bombay University Ph. D. Bombay University Postdoctoral Research University of Pennsylvania, Philadelphia, USA Royal Postgraduate Medical School, London, UK National Institutes of Health, Bethesda, USA"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [],
+      "group_members": "Suman Gupta, Danish Umar, Atika Dhar",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-anna-george",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Anna George specializes in Analysis of innate and adaptive immune responses.",
+      "career_level": "Unknown",
+      "research_focus_breadth": 1
+    },
+    {
+      "faculty_id": "dr_vidya_raghunathan_profile",
+      "name": "Dr. Vidya Raghunathan",
+      "email": "vraghuna@nii.res.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "Macromolecular structure and dynamics (Key words: NMR, Protein Folding)",
+      "research_areas": [
+        "Molecular Biology",
+        "Biochemistry",
+        "Structural Biology"
+      ],
+      "research_keywords": [
+        "protein",
+        "folding",
+        "nmr",
+        "structure"
+      ],
+      "techniques_methods": [
+        "nmr"
+      ],
+      "qualifications": {
+        "degrees": [
+          "M.Sc"
+        ],
+        "institutions": [
+          "Cambridge University, UK Ph. D. Princeton University, USA Postdoctoral Research Indiana University Purdue university at Indianapolis (IUPUI), USA"
+        ],
+        "postdoc_experience": [
+          "M.Sc. Cambridge University, UK Ph. D. Princeton University, USA Postdoctoral Research Indiana University Purdue university at Indianapolis (IUPUI), USA"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [],
+      "group_members": "",
+      "collaboration_potential": [
+        "Structural Biology"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-vidya-raghunathan",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Vidya Raghunathan specializes in Macromolecular structure and dynamics (Key words: NMR, Protein Folding)",
+      "career_level": "Unknown",
+      "research_focus_breadth": 3
+    },
+    {
+      "faculty_id": "dr_rajendra_p_roy_profile",
+      "name": "Dr. Rajendra P. Roy",
+      "email": "rproy@nii.ac.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "Our laboratory is engaged in researches at the interface of chemistry and biology. We are interested in developing chemoenzymatic strategies for semisynthesis of proteins and bio-conjugates by combining enzymatic peptide ligation with chemical peptide synthesis, organic synthesis and recombinant protein expression.\nKey words:\nChemical biology, Synthetic protein chemistry, Peptide ligation, Protein engineering, Sortase",
+      "research_areas": [
+        "Molecular Biology",
+        "Biochemistry"
+      ],
+      "research_keywords": [
+        "protein"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "University of Delhi, India Ph. D. Indian Institute of Science, Bangalore, India Postdoctoral Research Albert Einstein College of Medicine, New York, USA"
+        ],
+        "postdoc_experience": [
+          "M. Sc. University of Delhi, India Ph. D. Indian Institute of Science, Bangalore, India Postdoctoral Research Albert Einstein College of Medicine, New York, USA"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "Biotechnology Overseas Associateship (DBT, Govt of India)",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "Ella Fitzgerald Fellowship (New York Heart Association, USA)",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fellow of Indian National Science Academy",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fellow of National Academy of Sciences, India",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fellow of The Indian Academy of Sciences",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Member of Guha Research Conference",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "National Bioscience Award for Career Development (DBT, Govt of India)",
+          "year": "",
+          "category": "Award"
+        },
+        {
+          "award": "The J.C. Bose National Fellowship",
+          "year": "",
+          "category": "Fellowship"
+        }
+      ],
+      "group_members": "Vijay S Pawale, Prity Yadav, Avinash Kumar Singh, Shagun Shukla, Sumit Murmu",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-rajendra-p-roy",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Rajendra P. Roy specializes in Our laboratory is engaged in researches at the interface of chemistry and biology. We are interested in developing chemoenzymatic strategies for semisynthesis of proteins and bio-conjugates by combini...",
+      "career_level": "Senior",
+      "research_focus_breadth": 2
+    },
+    {
+      "faculty_id": "dr_rajni_rani_profile",
+      "name": "Dr. Rajni Rani",
+      "email": "rajni@nii.ac.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "Immunogenetic and immune factors associated with infectious diseases like leprosy, tuberculosis and HCV-HIV co-infections and autoimmune disorders like Type 1 diabetes, hypoparathyroidism and vitiligo.\nKey words :\nMHC, LMP, TAP, cytokine genes, PTPN22, detoxification genes, Glutathione S transferase genes, NQO1 and VDR genes, melanocyte-keratinocyte network and mesenchymal stem cells",
+      "research_areas": [
+        "HIV/AIDS Research",
+        "Immunology",
+        "Molecular Biology",
+        "Infectious Diseases"
+      ],
+      "research_keywords": [
+        "cytokine",
+        "hiv",
+        "tuberculosis",
+        "immune"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "University of Delhi, Delhi, India. Ph. D. University of Delhi, Delhi, India. Postdoctoral Research National Institutes of Health, Bethesda, Maryland, USA"
+        ],
+        "postdoc_experience": [
+          "M. Sc. University of Delhi, Delhi, India. Ph. D. University of Delhi, Delhi, India. Postdoctoral Research National Institutes of Health, Bethesda, Maryland, USA"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [],
+      "group_members": "Avinash Kumar, Bhukya Saida, Suraj Varkhande, Anshu Sharma, Jaya Singh, Sukanya Prathipati, Kapoor Chand, Amarnath Prasad",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-rajni-rani",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Rajni Rani specializes in Immunogenetic and immune factors associated with infectious diseases like leprosy, tuberculosis and HCV-HIV co-infections and autoimmune disorders like Type 1 diabetes, hypoparathyroidism and vitiligo...",
+      "career_level": "Unknown",
+      "research_focus_breadth": 4
+    },
+    {
+      "faculty_id": "dr_satish_k_gupta_profile",
+      "name": "Dr. Satish K. Gupta",
+      "email": "skgupta@nii.ac.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "To understand mammalian fertilization study structure and function of zona pellucida glycoproteins and development of contraceptive vaccines for wildlife population management. Cytokine mediated regulation of trophoblast proliferation, invasion and differentiation. To characterize anti-HIV compounds from medicinal plants and semi-synthetic sources. Development of neutralizing humanized monoclonal antibodies against flu virus.",
+      "research_areas": [
+        "HIV/AIDS Research",
+        "Immunology",
+        "Molecular Biology",
+        "Infectious Diseases",
+        "Structural Biology",
+        "Vaccine Development",
+        "Drug Discovery",
+        "Virology"
+      ],
+      "research_keywords": [
+        "cytokine",
+        "virus",
+        "hiv",
+        "structure"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "All India Institute of Medical Sciences, New Delhi Ph. D. All India Institute of Medical Sciences, New Delhi"
+        ],
+        "postdoc_experience": [],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "Dr Nitya Anand Endowment Lecture, Indian National Science Academy",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "Fellow, Indian Academy of Sciences (FASc), Bangalore, India",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fellow, Indian National Science Academy (FNA), Delhi",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fellow, National Academy of Medical Sciences (India) (FAMS), Delhi",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fellow, The National Academy of Sciences (FNASc), Allahabad, India",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Founder President Prof. T. C. Anand Kumar Gold Medal, Indian Society for the Study of Reproduction and Fertility",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "Population Control and Family Planning Award instituted by Drs Anant and Lata Labhsetwar Charitable Trust, Nagpur and Labhsetwar Foundation, USA",
+          "year": "",
+          "category": "Award"
+        },
+        {
+          "award": "Ranbaxy Research Award - 2011 in Medical Sciences - Medical Research, Ranbaxy Science Foundation",
+          "year": "2011",
+          "category": "Award"
+        },
+        {
+          "award": "Science Academy Medal for Young Scientists, Indian National Science Academy",
+          "year": "",
+          "category": "Early Career"
+        },
+        {
+          "award": "Shakuntala Amir Chand Prize for Young Scientists, Indian Council of Medical Research",
+          "year": "",
+          "category": "Award"
+        },
+        {
+          "award": "Shanti Swarup Bhatnagar Prize in Medical Sciences, Council of Scientific and Industrial Research",
+          "year": "",
+          "category": "Award"
+        },
+        {
+          "award": "Smt Swaran Kanta Dingley Oration Award, Indian Council of Medical Research",
+          "year": "",
+          "category": "Award"
+        },
+        {
+          "award": "Tata Innovation Fellowship, Department of Biotechnology, Government of India",
+          "year": "",
+          "category": "Fellowship"
+        }
+      ],
+      "group_members": "Pankaj Suman, Nutan, Nachiket Shembekar, Abhinav Shrestha, Sudha Saryu Malhotra, Neha Gupta, Boskey Pancholi, Piyush Chaudhary, Vidisha Minhas, Ashok Saini, Anita Goyala",
+      "collaboration_potential": [
+        "Active Research Group",
+        "Vaccine Development",
+        "Structural Biology"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-satish-k-gupta",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Satish K. Gupta specializes in To understand mammalian fertilization study structure and function of zona pellucida glycoproteins and development of contraceptive vaccines for wildlife population management. Cytokine mediated regul...",
+      "career_level": "Senior",
+      "research_focus_breadth": 8
+    },
+    {
+      "faculty_id": "dr_kanwaljeet_kaur_profile",
+      "name": "Dr. Kanwaljeet Kaur",
+      "email": "kanwal@nii.ac.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "Effect of carbohydrates on structure and function of glycopeptides",
+      "research_areas": [
+        "Structural Biology"
+      ],
+      "research_keywords": [
+        "structure"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "University of Lucknow,India Ph.D. University of Lucknow, India Postdoctoral Research University of Alberta, Edmonton, Canada"
+        ],
+        "postdoc_experience": [
+          "M. Sc. University of Lucknow,India Ph.D. University of Lucknow, India Postdoctoral Research University of Alberta, Edmonton, Canada"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [],
+      "group_members": "Deepti Sripad Lele, PRV Shabareesh, Sushma Nagpal, H S Sarna, Nihal Singh",
+      "collaboration_potential": [
+        "Active Research Group",
+        "Structural Biology"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-kanwaljeet-kaur",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Kanwaljeet Kaur specializes in Effect of carbohydrates on structure and function of glycopeptides",
+      "career_level": "Unknown",
+      "research_focus_breadth": 1
+    },
+    {
+      "faculty_id": "dr_sandeep_saxena_profile",
+      "name": "Dr. Sandeep Saxena",
+      "email": "sandeep@nii.ac.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "DNA replication is a vital process of life and must be completed precisely during each cell cycle. When mammalian cell experiences DNA damage, it activates checkpoint mechanisms to stall the progression of cell cycle and DNA replication. Our laboratory is interested in understanding the mechanisms by which microRNA and checkpoint proteins stall the cell cycle preventing genomic instability and cancer.",
+      "research_areas": [
+        "Molecular Biology"
+      ],
+      "research_keywords": [
+        "dna",
+        "cancer",
+        "cell"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Goa University, Goa, India Ph. D. University of Delhi, Delhi, India Postdoctoral Research Harvard Medical School & UVA"
+        ],
+        "postdoc_experience": [
+          "M. Sc. Goa University, Goa, India Ph. D. University of Delhi, Delhi, India Postdoctoral Research Harvard Medical School & UVA"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [],
+      "group_members": "Akhil Varshey, Sunder Bisht, Md. Muntaz Khan, Ananya Kar, Manpreet Kaur, Tanushree Ghosh, Aishana Singh, Shalini Dimri, Rashmi Bhakuni",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-sandeep-saxena",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Sandeep Saxena specializes in DNA replication is a vital process of life and must be completed precisely during each cell cycle. When mammalian cell experiences DNA damage, it activates checkpoint mechanisms to stall the progressi...",
+      "career_level": "Unknown",
+      "research_focus_breadth": 1
+    },
+    {
+      "faculty_id": "dr_anil_k_suri_profile",
+      "name": "Dr. Anil K. Suri",
+      "email": "anil@nii.res.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "Our Cancer Research Program is aimed to identify leads for early detection and diagnosis, treatments and cure. This important aspect of our Cancer Research Program involves Biomarker discovery for early detection and diagnosis, Cancer Immunotherapy, Cancer vaccine, Mechanistic studies of key tumor specific molecules in cancer, Drug discovery and Chemo-resistant discovery.",
+      "research_areas": [
+        "Immunology",
+        "Vaccine Development",
+        "Drug Discovery"
+      ],
+      "research_keywords": [
+        "vaccine",
+        "cancer",
+        "tumor",
+        "drug"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [],
+        "institutions": [],
+        "postdoc_experience": [],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "CDRI fellowship 1990-1991 under United States of America (USAID) program.",
+          "year": "1990",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Citation Award for 6th Professor Rabindra Nath Chakravarti- 2014 conferred by Post Graduate Institute of Medical Education & Research, Chandigarh in recognition of outstanding contribution in the field of Cancer research",
+          "year": "2014",
+          "category": "Award"
+        },
+        {
+          "award": "Drs Anand and Lata “Labhsetwar Cheritable Trust, Labhsetwar Foundation” USA Award- 2011 conferred by ISSRF in recognition of outstanding contribution in the field of Reproductive Health: Cervical Cancer.",
+          "year": "2011",
+          "category": "Award"
+        },
+        {
+          "award": "Elected Fellow, National Academy of Medical Sciences (FAMS), India (2013)",
+          "year": "2013",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Elected Fellow, The National Academy of Sciences (FNASc), India (2009)",
+          "year": "2009",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Gold Medal-Dr. T. C. Anand Kumar Memorial Oration Award-2015 conferred by ISSRF for reproductive tract cancers 2015",
+          "year": "2015",
+          "category": "Award"
+        },
+        {
+          "award": "Member of Indian Association of Cancer Research (India).",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "Member of Indian Society for the Study of Reproduction and Fertility (India).",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "Member of National Academy of Medical Sciences (India).",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "Member of National Academy of Sciences, India, Allahabad 2006.",
+          "year": "2006",
+          "category": "Other"
+        },
+        {
+          "award": "Prof. L. S. Ramaswami Memorial Oration Award- 2013 conferred by ISSRF in recognition of research contribution in Reproductive tract cancers.",
+          "year": "2013",
+          "category": "Award"
+        }
+      ],
+      "group_members": "Dr. Nirmala Jagadish, Sumit Agarwal, Deepak Parashar, Namita Gupta, Swarnendra Singh, Vikash Kumar, Sapna Purohit, Rukhsar Fatima, Aditi Sharma, Amos Prashant Topno",
+      "collaboration_potential": [
+        "Active Research Group",
+        "Drug Discovery",
+        "Vaccine Development",
+        "Clinical Research"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-anil-k-suri",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Anil K. Suri specializes in Our Cancer Research Program is aimed to identify leads for early detection and diagnosis, treatments and cure. This important aspect of our Cancer Research Program involves Biomarker discovery for ear...",
+      "career_level": "Senior",
+      "research_focus_breadth": 3
+    },
+    {
+      "faculty_id": "dr_sher_ali_profile",
+      "name": "Dr. Sher Ali",
+      "email": "alisher@nii.res.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "Genome Analysis, Molecular Genetics of Human and Animal Systems, Germline Genetics, Gene Regulation and Expression, Genomics of Endangered Species, Comparative and Toxicogenomics, DNA Diagnostics, Cancer Genetics",
+      "research_areas": [
+        "Computational Biology",
+        "Molecular Biology"
+      ],
+      "research_keywords": [
+        "dna",
+        "gene",
+        "cancer",
+        "genomics"
+      ],
+      "techniques_methods": [
+        "genomics"
+      ],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Aligarh Muslim University, India Ph. D. University of Delhi, India Postdoctoral Research Department of Human Genetics, Ruhr University, Bochum, Germany (2008) Alexander Von Humboldt Fellow at the Max Planck Institute of Immunobiology, Freiburg, Germany (1984-1986, 2000-2001). Department of Genetics, University of Leicester, Leicester, England, UK (1997) Department of Anatomy and Cell Biology, Georgetown University Medical Center, Washington DC, USA (1995) Department of Genetic Epidemiology, University of Utah, Salt Lake City, Utah, USA (1991) Research Fellow, Beckman Research Institute of City of Hope National Medical Center, Duarte, California, USA (1986-88). Postdoctoral Fellow, Department of Zoology, University of Delhi, Delhi, India (1981-1983)"
+        ],
+        "postdoc_experience": [
+          "M. Sc. Aligarh Muslim University, India Ph. D. University of Delhi, India Postdoctoral Research Department of Human Genetics, Ruhr University, Bochum, Germany (2008) Alexander Von Humboldt Fellow at the Max Planck Institute of Immunobiology, Freiburg, Germany (1984-1986, 2000-2001). Department of Genetics, University of Leicester, Leicester, England, UK (1997) Department of Anatomy and Cell Biology, Georgetown University Medical Center, Washington DC, USA (1995) Department of Genetic Epidemiology, University of Utah, Salt Lake City, Utah, USA (1991) Research Fellow, Beckman Research Institute of City of Hope National Medical Center, Duarte, California, USA (1986-88). Postdoctoral Fellow, Department of Zoology, University of Delhi, Delhi, India (1981-1983)"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "Alexander Von Humboldt Stiftung Fellowship, Bonn, Germany (Re-visit), November 1, 2000- March 1, 2001.",
+          "year": "2000",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Alexander Von Humboldt Stiftung Fellowship, Bonn, Germany, 1984",
+          "year": "1984",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fellow, Indian Academy of Sciences.",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fellow, Indian National Science Academy",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fellow, J. C. Bose, Department of Science & Technology, New Delhi, India",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fellow, National Academy of Sciences, India.",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fulbright Travel Fellowship (1991), United States Educational Foundation in India (USEFI).",
+          "year": "1991",
+          "category": "Fellowship"
+        },
+        {
+          "award": "INDO-US Science and Technology Fellowship jointly awarded by DST (Govt. of India) and United States Agency for International Development (USAID), January to December 1994.",
+          "year": "1994",
+          "category": "Fellowship"
+        },
+        {
+          "award": "INSA/DFG Exchange Visiting Fellowship, Ruhr University, Bochum, Germany.",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Life Member, Indian Academy of Forensic Sciences.",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "Life Member, Society of Biological Chemists (India).",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "Member, International Society of Animal Genetics (I.S.A.G.), Iowa, U.S.A.",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "N.K. Iyengar Memorial Gold Medal awarded by Indian Academy of Forensic Sciences, Calcutta in Forensic Science Forum, 87th Indian Science Congress, Pune, January 4, 2000.",
+          "year": "2000",
+          "category": "Award"
+        },
+        {
+          "award": "Royal Society Fellowship from Indian National Science Academy, New Delhi and Royal Society, London to work in the laboratory of Professor Sir Alec John Jeffreys, University of Leicester, Leicester UK, September – November, 1997.",
+          "year": "1997",
+          "category": "Fellowship"
+        },
+        {
+          "award": "UNESCO/TWAS Short Term Research Fellowship to work on Human Genome at University of Utah, Department of Genetic Epidemiology, Salt Lake City, Utah, USA. July 7, 1991 to October 4, (1991).",
+          "year": "1991",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Young Muslim Scientist Award, MAAS, Aligarh. 1996.",
+          "year": "1996",
+          "category": "Award"
+        },
+        {
+          "award": "Zahoor Qasim Gold Medal for the year 1999 awarded by the Society of Biosciences, India.",
+          "year": "1999",
+          "category": "Award"
+        }
+      ],
+      "group_members": "Dr. Deepali Pathak, Dr. Monal Sharma, Dr. Suchitra Kamle, Anju Kumari, Sandeep Kumar Yadav, Md. Qudratullah, Leena Rawal, Mr. Khem Singh Negi.",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-sher-ali",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Sher Ali specializes in Genome Analysis, Molecular Genetics of Human and Animal Systems, Germline Genetics, Gene Regulation and Expression, Genomics of Endangered Species, Comparative and Toxicogenomics, DNA Diagnostics, Can...",
+      "career_level": "Senior",
+      "research_focus_breadth": 2
+    },
+    {
+      "faculty_id": "dr_sangeeta_bhaskar_profile",
+      "name": "Dr. Sangeeta Bhaskar",
+      "email": "sangeeta@nii.ac.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "•  Cancer Immunotherapy\n•  Tuberculosis vaccine development",
+      "research_areas": [
+        "Immunology",
+        "Infectious Diseases",
+        "Vaccine Development"
+      ],
+      "research_keywords": [
+        "cancer",
+        "vaccine",
+        "tuberculosis"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "Ph. D"
+        ],
+        "institutions": [
+          "- M. Pharm. Delhi University - . JNU, New Delhi"
+        ],
+        "postdoc_experience": [],
+        "visiting_positions": []
+      },
+      "awards": [],
+      "group_members": "Mohd. Saquib, Ms. Bindu Singh, Ms. Ananya, Mr. Arvind Kumar",
+      "collaboration_potential": [
+        "Active Research Group",
+        "Vaccine Development",
+        "Clinical Research"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-sangeeta-bhaskar",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Sangeeta Bhaskar specializes in •  Cancer Immunotherapy\n•  Tuberculosis vaccine development",
+      "career_level": "Unknown",
+      "research_focus_breadth": 3
+    },
+    {
+      "faculty_id": "dr_janendra_k_batra_profile",
+      "name": "Dr. Janendra K Batra",
+      "email": "janendra@nii.res.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "The work is focused on the following two major themes.\n\n1. Investigation of the role of human ribonucleases, particularly eosinophil ribonucleases, eosinophil cationic protein (ECP) and eosinophil-derived neurotoxin (EDN) in host defense. Human ribonucleases, and naturally occurring protein toxins are being explored to design knowledge-based recombinant toxins.\n2. Investigation of crucial housekeeping proteins of\n   M. tuberculosis\n   for their role in survival and virulence of the pathogen. The functioning of caseinolytic protease (Clp) machinery, and RNase P mediated tRNA maturation is being investigated in\n   M. tuberculosis\n   .",
+      "research_areas": [
+        "Molecular Biology",
+        "Infectious Diseases"
+      ],
+      "research_keywords": [
+        "protein",
+        "tuberculosis",
+        "pathogen"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Allahabad University, India Ph. D. V. P. Chest Institute, University of Delhi, India Postdoctoral Research - Laboratory of Molecular Biology, National Cancer Institute, NIH, USA - Manitoba Institute of Cell Biology, Winnipeg, Canada - Laboratory of Pharmacology and Experimental Therapeutics, National Cancer Institute, NIH, USA"
+        ],
+        "postdoc_experience": [
+          "M. Sc. Allahabad University, India Ph. D. V. P. Chest Institute, University of Delhi, India Postdoctoral Research - Laboratory of Molecular Biology, National Cancer Institute, NIH, USA - Manitoba Institute of Cell Biology, Winnipeg, Canada - Laboratory of Pharmacology and Experimental Therapeutics, National Cancer Institute, NIH, USA"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "Elected Fellow, The Indian Academy of Sciences, India",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Elected Fellow, The National Academy of Sciences, India",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Sreenivasaya Memorial Award of Society of Biological Chemists (India) for outstanding contributions to Biological Sciences.",
+          "year": "",
+          "category": "Award"
+        }
+      ],
+      "group_members": "Ayush Attery, Prajna Tripathi, Virendra K Patel, Owais Rashid Hakiem, Manish Gupta, Lalit Singh, Kevalanad, Jagdish, Yam Bahadur",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-janendra-k-batra",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Janendra K Batra specializes in The work is focused on the following two major themes.\n\n1. Investigation of the role of human ribonucleases, particularly eosinophil ribonucleases, eosinophil cationic protein (ECP) and eosinophil-der...",
+      "career_level": "Senior",
+      "research_focus_breadth": 2
+    },
+    {
+      "faculty_id": "prof_gp_talwar_profile",
+      "name": "Prof. Gursaran Pran Talwar",
+      "email": "Not available",
+      "faculty_status": "founder",
+      "department": "Founding Director, National Institute of Immunology",
+      "research_interest": "Prof. Talwar's pioneering research focused on:\n• Development of contraceptive vaccines targeting human chorionic gonadotropin (hCG)\n• Immunoprophylaxis and immunotherapy of leprosy (MIP vaccine)\n• Cancer immunotherapy using cytokine approaches\n• Basic and applied immunology, reproductive health, and fertility control",
+      "research_areas": [
+        "Immunology",
+        "Vaccine Development"
+      ],
+      "research_keywords": [
+        "immunology",
+        "cancer",
+        "vaccine",
+        "cytokine"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "B.Sc"
+        ],
+        "institutions": [
+          "(Hons) and M.Sc. (Tech), University of Punjab, India; D.Sc., University of Paris (Sorbonne); Humboldt Fellow, Germany; Postdoctoral work at Institut Pasteur, Paris"
+        ],
+        "postdoc_experience": [
+          "B.Sc. (Hons) and M.Sc. (Tech), University of Punjab, India; D.Sc., University of Paris (Sorbonne); Humboldt Fellow, Germany; Postdoctoral work at Institut Pasteur, Paris"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "Padma Bhushan, Government of India",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "Officier de la Légion d’Honneur, France",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "Fellow, Indian National Science Academy (FNA)",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fellow, Indian Academy of Sciences (FASc)",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Dr. B. R. Ambedkar Centenary Award for Biomedical Research",
+          "year": "",
+          "category": "Award"
+        },
+        {
+          "award": "President, International Society for Immunology of Reproduction",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "Founder, National Institute of Immunology (NII), New Delhi",
+          "year": "",
+          "category": "Other"
+        }
+      ],
+      "group_members": "Not available (Founder Director and research leader, now heading Talwar Research Foundation)",
+      "collaboration_potential": [
+        "Active Research Group",
+        "Vaccine Development",
+        "Clinical Research"
+      ],
+      "source_url": "https://www.nii.res.in/en/history",
+      "last_updated": "2025-05-30",
+      "profile_summary": "Prof. Gursaran Pran Talwar specializes in Prof. Talwar's pioneering research focused on:\n• Development of contraceptive vaccines targeting human chorionic gonadotropin (hCG)\n• Immunoprophylaxis and immunotherapy of leprosy (MIP vaccine)\n• Can...",
+      "career_level": "Senior",
+      "research_focus_breadth": 2
+    },
+    {
+      "faculty_id": "dr_pramod_k_upadhyay_profile",
+      "name": "Dr. Pramod K. Upadhyay",
+      "email": "pkumar@nii.ac.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "sensors, diagnosis of diseases, needle free immunization, aerosol immunization, transdermal immunization, hyperthermia, tuberculosis, regenerative medicine",
+      "research_areas": [
+        "Molecular Biology",
+        "Infectious Diseases",
+        "Vaccine Development"
+      ],
+      "research_keywords": [
+        "tuberculosis"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "- . University of Delhi, India - Ph. D. University of Delhi, India"
+        ],
+        "postdoc_experience": [],
+        "visiting_positions": []
+      },
+      "awards": [],
+      "group_members": "Srikant Iyer, Barun Das, Alaknanda Mishra, Preeti Sahay, Kshama Jain",
+      "collaboration_potential": [
+        "Active Research Group",
+        "Vaccine Development"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-pramod-k-upadhyay",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Pramod K. Upadhyay specializes in sensors, diagnosis of diseases, needle free immunization, aerosol immunization, transdermal immunization, hyperthermia, tuberculosis, regenerative medicine",
+      "career_level": "Unknown",
+      "research_focus_breadth": 3
+    },
+    {
+      "faculty_id": "dr_amitabha_mukhopadhyay_profile",
+      "name": "Dr. Amitabha Mukhopadhyay",
+      "email": "amitabha@nii.res.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "My primary research interests are in understanding the regulation of intracellular trafficking in different cell types which are broadly divided into:\nTo determine the molecular mechanisms of how intracellular pathogens modulate their trafficking pathways in host cells.\nUnderstanding the regulation of intracellur trafficking pathways in\nLeishmania\n.\nRegulation of intracellular trafficking by cytokines",
+      "research_areas": [
+        "Immunology",
+        "Cell Biology",
+        "Molecular Biology",
+        "Infectious Diseases"
+      ],
+      "research_keywords": [
+        "intracellular",
+        "trafficking",
+        "cell"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "University of Calcutta, Calcutta, India Ph. D. Institute of Microbial Technology, Chandigarh, India (Awarded by Jadavpur University, Calcutta, India) Past Affiliations Scientist, Institute of Microbial Technology, Chandigarh, India Visiting Scientist, Washington University School of Medicine, St Louis, USA Visiting Scientist, Cornell University Medical School, New York, USA"
+        ],
+        "postdoc_experience": [],
+        "visiting_positions": [
+          "M. Sc. University of Calcutta, Calcutta, India Ph. D. Institute of Microbial Technology, Chandigarh, India (Awarded by Jadavpur University, Calcutta, India) Past Affiliations Scientist, Institute of Microbial Technology, Chandigarh, India Visiting Scientist, Washington University School of Medicine, St Louis, USA Visiting Scientist, Cornell University Medical School, New York, USA"
+        ]
+      },
+      "awards": [
+        {
+          "award": "Dr. Narayana Rao Oration Award, Indian Council of Medical Research, Govt. of India, 2002",
+          "year": "2002",
+          "category": "Award"
+        },
+        {
+          "award": "Fellow of Indian Academy of Sciences (FASc)",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fellow of Indian National Science Academy (FNA)",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fellow of The National Academy of Sciences (FNASc)",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fellow of West Bengal Academy of science & Technology",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "J.C. Bose National Fellow,Department of science & Technology, Govt. of India, 2010",
+          "year": "2010",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Long Term Overseas Research Associateship Award from Department of Biotechnology, Govt. of India, 1993",
+          "year": "1993",
+          "category": "Award"
+        },
+        {
+          "award": "Member, Association of Microbiologists of India",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "Member, Guha Research Conference",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "Member, Indian Immunology Society",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "Member, Molecular Immunology Forum (MIF)",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "Member: Indian Society of Cell Biology",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "National Bioscience Award, Department of Biotechnology, Govt. of India, 2000",
+          "year": "2000",
+          "category": "Award"
+        },
+        {
+          "award": "Ranbaxy Research Award in the field of \"Medical Sciences - Basic Research\", 2004",
+          "year": "2004",
+          "category": "Award"
+        },
+        {
+          "award": "Shanti Swarup Bhatnagar Award, Council of scientific & Industrial Research, Govt. of India, 2002",
+          "year": "2002",
+          "category": "Award"
+        },
+        {
+          "award": "Short Term Overseas Research Associateship Award from Department of Biotechnology, Govt. of India, 2005",
+          "year": "2005",
+          "category": "Award"
+        },
+        {
+          "award": "Young Scientist Award in Biological Sciences, CSIR, Govt. of India, 1991",
+          "year": "1991",
+          "category": "Award"
+        }
+      ],
+      "group_members": "Ruchir Rastogi, Surbhi Bahl, Manglesh K. Singh, Sonali Bose, Deepika Gupta, Pawan K. Singh, Jitendra K. Verma, Smriti Parashar, Anjali Kapoor",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-amitabha-mukhopadhyay",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Amitabha Mukhopadhyay specializes in My primary research interests are in understanding the regulation of intracellular trafficking in different cell types which are broadly divided into:\nTo determine the molecular mechanisms of how intr...",
+      "career_level": "Senior",
+      "research_focus_breadth": 4
+    },
+    {
+      "faculty_id": "dr_chandrima_shaha_profile",
+      "name": "Dr. Chandrima Shaha",
+      "email": "cshaha@nii.ac.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "Cell death is one of the fundamental biological processes required to maintain normal development. A cell’s decision to live or die is tightly regulated by signals originating from various sources. Our interest is to elucidate the regulatory processes of cell death and the associated mechanisms.",
+      "research_areas": [
+        "General Biology"
+      ],
+      "research_keywords": [
+        "cell"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "University of Calcutta Ph. D. University of Calcutta Postdoctoral Research Kansas University Medical Center, Kansas, USA The Population Council, New York, USA"
+        ],
+        "postdoc_experience": [
+          "M. Sc. University of Calcutta Ph. D. University of Calcutta Postdoctoral Research Kansas University Medical Center, Kansas, USA The Population Council, New York, USA"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "1992: Shakuntala Amirchand Award of Indian Council of Medical Research",
+          "year": "1992",
+          "category": "Award"
+        },
+        {
+          "award": "1999: Elected Fellow, The National Academy of Sciences, Allahabad, India",
+          "year": "1999",
+          "category": "Fellowship"
+        },
+        {
+          "award": "2003: Department of Biotechnology ‘Special Award’",
+          "year": "2003",
+          "category": "Award"
+        },
+        {
+          "award": "2004: Elected Fellow, Indian Academy of Sciences, Bangalore",
+          "year": "2004",
+          "category": "Fellowship"
+        },
+        {
+          "award": "2008: Elected Fellow, Indian National Science Academy, Delhi",
+          "year": "2008",
+          "category": "Fellowship"
+        },
+        {
+          "award": "2009: J.C. Bose National Fellowship, Dept. of Science and Technology.",
+          "year": "2009",
+          "category": "Fellowship"
+        },
+        {
+          "award": "2010: Darshan Ranganathan Memorial Lecture Award, Indian National Science Academy.",
+          "year": "2010",
+          "category": "Award"
+        },
+        {
+          "award": "2010: Ranbaxy Science Foundation Award for Basic Medical Research",
+          "year": "2010",
+          "category": "Award"
+        },
+        {
+          "award": "2011: Elected, Fellow of West Bengal Academy of Science and Technology",
+          "year": "2011",
+          "category": "Fellowship"
+        },
+        {
+          "award": "2013: Chandrakala Hora Memorial Medal, Indian National Science Academy.",
+          "year": "2013",
+          "category": "Other"
+        },
+        {
+          "award": "2013: Prof. (Mrs). Archana Sharma Memorial Award, National Academy of Sciences",
+          "year": "2013",
+          "category": "Award"
+        },
+        {
+          "award": "2014: Elected, Council Member, Indian National Science Academy",
+          "year": "2014",
+          "category": "Other"
+        },
+        {
+          "award": "2014: 14th Pushpa Sriramachari Foundation Day Oration Award, ICMR.",
+          "year": "2014",
+          "category": "Award"
+        },
+        {
+          "award": "2014: Elected Fellow, The World Academy of Sciences (TWAS), Trieste. Italy",
+          "year": "2014",
+          "category": "Fellowship"
+        },
+        {
+          "award": "2015: Om Prakash Bhasin Award for excellence in Biotechnology Research",
+          "year": "2015",
+          "category": "Award"
+        },
+        {
+          "award": "2015: Sunday Standard Devi Award for excellence in the field of science",
+          "year": "2015",
+          "category": "Award"
+        },
+        {
+          "award": "2016: Elected, Council Member of National Academy of Sciences, Allahabad.",
+          "year": "2016",
+          "category": "Other"
+        },
+        {
+          "award": "2016: Elected, Vice-president of the Indian National Science Academy, Delhi",
+          "year": "2016",
+          "category": "Other"
+        },
+        {
+          "award": "2017: Sectional President, Biological Sciences, National Academy of Sciences.",
+          "year": "2017",
+          "category": "Other"
+        },
+        {
+          "award": "2019: Shanti Swarup Bhatnagar Medal, INSA",
+          "year": "2019",
+          "category": "Other"
+        }
+      ],
+      "group_members": "Ashish Kumar, Sagnik Giri, Durgesh Pitale, Sanchita Das, G.S. Neelaram, Vineet Singh and Shipra Sankla",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-chandrima-shaha",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Chandrima Shaha specializes in Cell death is one of the fundamental biological processes required to maintain normal development. A cell’s decision to live or die is tightly regulated by signals originating from various sources. Ou...",
+      "career_level": "Senior",
+      "research_focus_breadth": 1
+    },
+    {
+      "faculty_id": "dr_asok_mukhopadhyay_profile",
+      "name": "Dr. Asok Mukhopadhyay",
+      "email": "ashok@nii.ac.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "Hematopoietic stem cells niche and its control Adult stem cell plasticity and epigenetic modifications (Hepatic cells and dopaminergic neurons) Cellular therapy: Parkinson’s disease, liver fibrosis and hemophilia A Hematopoietic cells in progression of cancer Bone tissue engineering",
+      "research_areas": [
+        "Cell Biology",
+        "Molecular Biology"
+      ],
+      "research_keywords": [
+        "cancer",
+        "cell",
+        "cellular"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "B. Tech"
+        ],
+        "institutions": [
+          "Jadavpur University, Calcutta M. Tech. and Ph. D. IIT Delhi Postdoctoral Research MD Anderson Cancer Centre, Houston, Texas"
+        ],
+        "postdoc_experience": [
+          "B. Tech. Jadavpur University, Calcutta M. Tech. and Ph. D. IIT Delhi Postdoctoral Research MD Anderson Cancer Centre, Houston, Texas"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [],
+      "group_members": "Dr Prakash Baligad (RA), Mallika R (PhD student), Amit K Jaiswal (PhD student), Abinaya Sundari T (PhD student), Veena K (PhD student), Sushmita Roy (SRF), Neety Sahu (JRF), Saborni Chattopadhyay (JRF)",
+      "collaboration_potential": [
+        "Active Research Group",
+        "Clinical Research"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-asok-mukhopadhyay",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Asok Mukhopadhyay specializes in Hematopoietic stem cells niche and its control Adult stem cell plasticity and epigenetic modifications (Hepatic cells and dopaminergic neurons) Cellular therapy: Parkinson’s disease, liver fibrosis an...",
+      "career_level": "Unknown",
+      "research_focus_breadth": 2
+    },
+    {
+      "faculty_id": "dr_satyajit_rath_profile",
+      "name": "Dr. Satyajit Rath",
+      "email": "satyajit@nii.ac.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "The focus of programmes in the group has been the physiological control of the generation and activation of T, B and antigen-presenting cells (APCs), using a variety of interlinked experimental systems and approaches in association with many collaborators both within and outside NII.",
+      "research_areas": [
+        "Immunology",
+        "Molecular Biology",
+        "Vaccine Development"
+      ],
+      "research_keywords": [
+        "antigen"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [],
+        "institutions": [],
+        "postdoc_experience": [
+          "Qualification- M.B.B.S. University of Pune, India M.D. (Pathology) University of Mumbai, India Postdoctoral Research Haffkine Institute, Mumbai, India; London School of Hygiene and Tropical Medicine, London, UK; Brandeis University, Waltham, USA; Yale University School of Medicine, New Haven, USA."
+        ],
+        "visiting_positions": []
+      },
+      "awards": [],
+      "group_members": "(Since 1991-)\nDoctoral students: Sanjeev Kumar Mendiratta, Roshini Abraham, Pratima Bansal, Nagendra Singh, Sumeena Bhatia, Chandrashekhar Pasare, Suresh Radhakrishnan, Chitra Ebenezer, Smita Srivastava, Ashutosh Chaudhry, Abhishek Das, Divya Anna Verghese, Shalini Tanwar, Anita Mangla, Vineeta Varanasi, Thyagarajan Krishnamurthy, Hridesh Banerjee, Renu Balyan, Rupali Gund, Jasneet Kaur Khalsa, Atika Dhar, Aman Preet Singh Chawla, Bahadur Singh Gurjar, Danish Umar\nPre-doctoral fellows: Bahadur Singh Gurjar, Monique Odette Kamtchueng\nPost-doctoral associates: Partha Pratima Manna, Sarita Sehra, Paushali Mukherji, Sangita Mukhopadhyay, Deepa Rajagopal, Anjani Saxena, Madhuchhanda Mohanty, Deepak Kumar Rathore, Savit Prabhu, Chaitali Banerjee",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-satyajit-rath",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Satyajit Rath specializes in The focus of programmes in the group has been the physiological control of the generation and activation of T, B and antigen-presenting cells (APCs), using a variety of interlinked experimental system...",
+      "career_level": "Unknown",
+      "research_focus_breadth": 3
+    },
+    {
+      "faculty_id": "dr_vineeta_bal_profile",
+      "name": "Dr. Vineeta Bal",
+      "email": "vineeta@nii.ac.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "Analysing roles of T lymphocytes in pathophysiological conditions.",
+      "research_areas": [
+        "Immunology"
+      ],
+      "research_keywords": [],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [],
+        "institutions": [],
+        "postdoc_experience": [
+          "M.B.B.S. (1979) University of Poona, India M. D. (1982) University of Bombay, India Postdoctoral Research (1983-1990) Haffkine Institute, Mumbai London University, UK. Staff Scientist (1990-2016) National Institute of Immunology Honorary faculty member (2017 onwards) Department of Biology, IISER, Pune"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [],
+      "group_members": "Members of the research group in NII from 1990 onwards\nDoctoral Students: Ebenezer Satyaraj, Jayant Thatte, Achal Pashine, Manisha Gupta, Arpita Choudhury, Beena John, A Rama Sundari, Monika Vig, Usha Kandpal, Anupriya Khare, Nagesh N. Panday, Shipra Thukral, Hamid Mattoo, Bharathi Vishwanathan, Rituparna Das, Vidya Ranganathan, Nidhi Jain, Sanket Rane, Arundhoti Das, Parna Kanodia, Neelam Oswal\nResearch Staff on projects: Abhijit Bal, N. Suresh, Rashmi Shukla, Sangeeta Thatai, Sangita Mukhopadhyay, Deepa Rajagopal, S Moanaro Biswas, Suparna Barua, Nasir Salam, Neeraj Kumar, Pooja Rawat, Saptak Banerjee",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-vineeta-bal",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Vineeta Bal specializes in Analysing roles of T lymphocytes in pathophysiological conditions.",
+      "career_level": "Unknown",
+      "research_focus_breadth": 1
+    },
+    {
+      "faculty_id": "dr_vijay_k_yadav_profile",
+      "name": "Dr. Vijay K. Yadav",
+      "email": "vijay@nii.ac.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "The focus of the laboratory is to use mouse genetic, genomic, and proteomic approaches to investigate how molecules originating from within, and outside the skeleton regulate its physiology, and how skeleton in turn regulates whole-body energy homeostasis.",
+      "research_areas": [
+        "Molecular Biology"
+      ],
+      "research_keywords": [],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Lucknow University, Lucknow, India Ph. D. Indian Institute of Science, Bangalore, India Past Affiliations Faculty, WTSI, Cambridge, UK (2010-15) Postdoctoral Research Fellow, Columbia University, NY(2006-10); BCM, Houston, USA (2005-06)"
+        ],
+        "postdoc_experience": [
+          "M. Sc. Lucknow University, Lucknow, India Ph. D. Indian Institute of Science, Bangalore, India Past Affiliations Faculty, WTSI, Cambridge, UK (2010-15) Postdoctoral Research Fellow, Columbia University, NY(2006-10); BCM, Houston, USA (2005-06)"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "College topper, Pre-graduation level (XII), RDS Inter College, India, 1994.",
+          "year": "1994",
+          "category": "Other"
+        },
+        {
+          "award": "Elected to Columbia University Senate, NY, USA: 2009-2010.",
+          "year": "2009",
+          "category": "Other"
+        },
+        {
+          "award": "Gideon and Sevgi Rodan Fellowship Award, 2008-2009.",
+          "year": "2008",
+          "category": "Fellowship"
+        },
+        {
+          "award": "International Bone and Mineral Society Young Investigator Committee, 2009-2013.",
+          "year": "2009",
+          "category": "Other"
+        },
+        {
+          "award": "John Haddad Young Investigator Award, American Institute of Mineral Metabolism, 2009.",
+          "year": "2009",
+          "category": "Award"
+        },
+        {
+          "award": "Junior/Senior Research Fellowship, Council of Scientific and Industrial Research (CSIR), India 2001-2005.",
+          "year": "2001",
+          "category": "Fellowship"
+        },
+        {
+          "award": "National Institute of Health (USA) Pathway to Independence Award (K99/R00): 2009.",
+          "year": "2009",
+          "category": "Award"
+        },
+        {
+          "award": "Professor G.P. Talwar Award by the Society for the study of reproduction and fertility, India 2003.",
+          "year": "2003",
+          "category": "Award"
+        },
+        {
+          "award": "Ramalingaswamy Fellowship Award, Department of Biotechnology, Government of India: 2016.",
+          "year": "2016",
+          "category": "Fellowship"
+        },
+        {
+          "award": "University topper (M.Sc.), Dept of Biochemistry, University of Lucknow, 1999.",
+          "year": "1999",
+          "category": "Other"
+        },
+        {
+          "award": "Young Investigator Award, American Society of Bone and Mineral Research, 2007.",
+          "year": "2007",
+          "category": "Award"
+        }
+      ],
+      "group_members": "",
+      "collaboration_potential": [],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-vijay-k-yadav",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Vijay K. Yadav specializes in The focus of the laboratory is to use mouse genetic, genomic, and proteomic approaches to investigate how molecules originating from within, and outside the skeleton regulate its physiology, and how s...",
+      "career_level": "Senior",
+      "research_focus_breadth": 1
+    },
+    {
+      "faculty_id": "dr_akhil_c_banerjea_profile",
+      "name": "Dr. Akhil C. Banerjea",
+      "email": "akhil@nii.res.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "Molecular epidemiology of HIV-1 epidemic in India and genetic and functional characterization of HIV-1 genes circulating in North India. Mechanisms of HIV-1 and host genes interactions (microRNAS or host restriction factors) and their implications in HIV-1 mediated pathogenesis.",
+      "research_areas": [
+        "HIV/AIDS Research",
+        "Molecular Biology",
+        "Infectious Diseases"
+      ],
+      "research_keywords": [
+        "hiv"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "G.B.Pant University of Agriculture & Technology, Uttranchal, India Ph. D. National Institute of Virology, University of Pune, India Postdoctoral Research Duke University Medical Centre, Durham, North Carolina & National Institute of Health, Bethesda, Maryland, USA Visiting Professor : Colorado State University, Fort Collins, Colorado, USA"
+        ],
+        "postdoc_experience": [
+          "M. Sc. G.B.Pant University of Agriculture & Technology, Uttranchal, India Ph. D. National Institute of Virology, University of Pune, India Postdoctoral Research Duke University Medical Centre, Durham, North Carolina & National Institute of Health, Bethesda, Maryland, USA Visiting Professor : Colorado State University, Fort Collins, Colorado, USA"
+        ],
+        "visiting_positions": [
+          "M. Sc. G.B.Pant University of Agriculture & Technology, Uttranchal, India Ph. D. National Institute of Virology, University of Pune, India Postdoctoral Research Duke University Medical Centre, Durham, North Carolina & National Institute of Health, Bethesda, Maryland, USA Visiting Professor : Colorado State University, Fort Collins, Colorado, USA"
+        ]
+      },
+      "awards": [
+        {
+          "award": "Fellow Indian National Science Academy",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fellow National Academy of Science",
+          "year": "",
+          "category": "Fellowship"
+        },
+        {
+          "award": "International Recognition by Thomson Reuters as distinguished expert in Virology in the year 2011.",
+          "year": "2011",
+          "category": "Recognition"
+        },
+        {
+          "award": "National Award of Indian National Science Academy (INSA)- Dr Yellapragada SubbaRow memorial Lecture (2017)",
+          "year": "2017",
+          "category": "Award"
+        },
+        {
+          "award": "National Bioscience Award for Career Development, Department of Biotechnology, Govt. of India (2001-2002).",
+          "year": "2001",
+          "category": "Award"
+        },
+        {
+          "award": "National Overseas Fellowship Award, Department of Biotechnology, Govt. of India (1999)",
+          "year": "1999",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Ranbaxy Research Award ( 2014)",
+          "year": "2014",
+          "category": "Award"
+        },
+        {
+          "award": "SR Scientist Oration Award of Indian Immunology Society (2012)",
+          "year": "2012",
+          "category": "Award"
+        },
+        {
+          "award": "Shakuntala Amir Chand Prize, National Award of ICMR, Govt. of India (1982)",
+          "year": "1982",
+          "category": "Award"
+        }
+      ],
+      "group_members": "",
+      "collaboration_potential": [],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-akhil-c-banerjea",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Akhil C. Banerjea specializes in Molecular epidemiology of HIV-1 epidemic in India and genetic and functional characterization of HIV-1 genes circulating in North India. Mechanisms of HIV-1 and host genes interactions (microRNAS or h...",
+      "career_level": "Senior",
+      "research_focus_breadth": 3
+    },
+    {
+      "faculty_id": "dr_amulya_k_panda_profile",
+      "name": "Dr. Amulya K. Panda",
+      "email": "amulya@nii.ac.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "Application of chemical engineering principles to biological process. This includes development of high cell density fed-batch fermentaion process for production of recombinant proteins, high throughput protein refolding from inclusion bodies and design of vaccine delivery system using biodegrdable polymer particles.",
+      "research_areas": [
+        "Immunology",
+        "Molecular Biology",
+        "Vaccine Development"
+      ],
+      "research_keywords": [
+        "protein",
+        "vaccine",
+        "cell"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Tech"
+        ],
+        "institutions": [
+          "Indian Institute of Technology, Madras, India Ph. D. Indian Institute of Technology, New Delhi, India Visiting Scientist University of California at Berkeley, USA; Nebraska Medical Center,Omaha, USA"
+        ],
+        "postdoc_experience": [],
+        "visiting_positions": [
+          "M. Tech. Indian Institute of Technology, Madras, India Ph. D. Indian Institute of Technology, New Delhi, India Visiting Scientist University of California at Berkeley, USA; Nebraska Medical Center,Omaha, USA"
+        ]
+      },
+      "awards": [
+        {
+          "award": "Award for the “Best scientific work leading to a product” from National Institute of Immunology, New Delhi (1990)",
+          "year": "1990",
+          "category": "Award"
+        },
+        {
+          "award": "Awarded DBT Overseas Associateship to work at Nebraska Medical Center, Omaha, USA (2002-2003)",
+          "year": "2002",
+          "category": "Award"
+        },
+        {
+          "award": "Awarded Excellence in Scientific Achievements, from National Institute of Immunology, New Delhi (2001)",
+          "year": "2001",
+          "category": "Award"
+        },
+        {
+          "award": "Awarded Young Asian Biotechnologist Prize from The Society for Biotechnology, Japan (2004)",
+          "year": "2004",
+          "category": "Award"
+        },
+        {
+          "award": "Awarded “SAMANTA CHANDRASEKHARA AWARD”, Orissa Bigyan Academy (2000).",
+          "year": "2000",
+          "category": "Award"
+        },
+        {
+          "award": "Biotech Product and Process Development and Commercialization Award by the Dept. of Biotechnology, Ministry of Science and Technology, Govt. of India (2001)",
+          "year": "2001",
+          "category": "Award"
+        },
+        {
+          "award": "Dr. GB Manjerkar Award of the Association of Microbiologist of India (2010)",
+          "year": "2010",
+          "category": "Award"
+        },
+        {
+          "award": "Fellow of The Royal Society of Chemistry (FRSC), 2020",
+          "year": "2020",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Research Group awarded 2nd prize at the Intel-UC Berkeley, Technology Entrepreneurship Challenge, UC Berkeley, USA (2008)",
+          "year": "2008",
+          "category": "Award"
+        },
+        {
+          "award": "Research group awarded 3rd prize at the World Innovation Summit at Barcelona, Spain (2009)",
+          "year": "2009",
+          "category": "Award"
+        },
+        {
+          "award": "Tata Innovation Fellowship, Dept. of Biotechnology, Govt. of India (2009-2010)",
+          "year": "2009",
+          "category": "Fellowship"
+        }
+      ],
+      "group_members": "Mamta, Priyank Singhvi, Juhi Verma, Rahul Ahuja",
+      "collaboration_potential": [
+        "Active Research Group",
+        "Vaccine Development"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-amulya-k-panda",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Amulya K. Panda specializes in Application of chemical engineering principles to biological process. This includes development of high cell density fed-batch fermentaion process for production of recombinant proteins, high throughp...",
+      "career_level": "Senior",
+      "research_focus_breadth": 3
+    },
+    {
+      "faculty_id": "dr_subeer_s_majumdar_profile",
+      "name": "Dr. Subeer S. Majumdar",
+      "email": "subeer@nii.ac.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "We have developed easy methods for generating transgenic animals. We undertake studies of functional genomics using  transgenic mice  and rats over expressing important genes or animals with inheritable RNAi mediated knockdown of a specific gene. At cellular and systems level, we work to delineate basis of somatic and germ cell differentiation using genomics and proteomics approaches. We are also attempting to generate transgenic farmed animals to produce costly therapeutic proteins in the milk to increase their affordability.",
+      "research_areas": [
+        "Immunology",
+        "Computational Biology",
+        "Cell Biology",
+        "Molecular Biology",
+        "Drug Discovery"
+      ],
+      "research_keywords": [
+        "gene",
+        "cell",
+        "proteomics",
+        "genomics",
+        "cellular"
+      ],
+      "techniques_methods": [
+        "proteomics",
+        "genomics"
+      ],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Nagpur University, India Ph. D. National Institute of Health & family welfare, New Delhi, India Postdoctoral Research Fellow, Lalor Foundation; School of Medicine, Southern Illinois University, Carbondale, USA. Fellow, A W Mellon Foundation; Department of Cell Biology and Physiology. University of Pittsburgh, USA."
+        ],
+        "postdoc_experience": [
+          "M. Sc. Nagpur University, India Ph. D. National Institute of Health & family welfare, New Delhi, India Postdoctoral Research Fellow, Lalor Foundation; School of Medicine, Southern Illinois University, Carbondale, USA. Fellow, A W Mellon Foundation; Department of Cell Biology and Physiology. University of Pittsburgh, USA."
+        ],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "Awards",
+          "year": "",
+          "category": "Award"
+        },
+        {
+          "award": "Dr. P. Govindarajalu Gold medal oration award of SRBCE, 2012.",
+          "year": "2012",
+          "category": "Award"
+        },
+        {
+          "award": "Dr. T. C. Anandkumar Gold Medal Oration award of Indian society for study of Reproduction and Fertility, Feb., 2014.",
+          "year": "2014",
+          "category": "Award"
+        },
+        {
+          "award": "Labshetwar Award, 2007, Given by the Indian Society for study of Reproduction and fertility.",
+          "year": "2007",
+          "category": "Award"
+        },
+        {
+          "award": "National Academy of Science - Reliance Industries Platinum Jubilee award for application oriented innovations in biological sciences-2011.",
+          "year": "2011",
+          "category": "Award"
+        },
+        {
+          "award": "Richard Masillamony Gold medal oration award -2013 given by Indian Society for Veterinary immunology and Biotechnology.",
+          "year": "2013",
+          "category": "Award"
+        },
+        {
+          "award": "Tata Innovation Fellowship, 2011, Given by DBT for application oriented innovative research carried in India.",
+          "year": "2011",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fellow, A.W. Mellon Foundation, USA, University of Pittsburgh, 1991-1994",
+          "year": "1991",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fellow, The Lalor Foundation, USA, Southern Illinois Univ. 1989-1990",
+          "year": "1989",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fellow: Indian Academy of Sciences, 2013",
+          "year": "2013",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fellow: Indian National Science Academy, 2009",
+          "year": "2009",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Fellow: The National Academy of Sciences, 2009",
+          "year": "2009",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Member of the Endocrine Society, USA",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "Member of the Indian Society for Study of Reproduction and Fertility, India",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "Member of the Society of Biological Chemists, India",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "Member, Guha Research Conference (GRC),India",
+          "year": "",
+          "category": "Other"
+        },
+        {
+          "award": "Membership of Professional Societies",
+          "year": "",
+          "category": "Other"
+        }
+      ],
+      "group_members": "Satyapal Arya, Mansi Shukla, Kamal Mandal, Souvik Sensharma, Amandeep Vats, Ayushi Jain, Nirmalya Ganguli, Nilanjana Ganguli, Rajesh Sarkar, Hironmoy Sarkar, Sweety Batra, Neerja Wadhwa, Neetu Dubey, Dharamveer Singh and Birendra N. Roy.",
+      "collaboration_potential": [
+        "Active Research Group",
+        "Drug Discovery"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-subeer-s-majumdar",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Subeer S. Majumdar specializes in We have developed easy methods for generating transgenic animals. We undertake studies of functional genomics using  transgenic mice  and rats over expressing important genes or animals with inheritab...",
+      "career_level": "Senior",
+      "research_focus_breadth": 5
+    },
+    {
+      "faculty_id": "dr_mohd_ayub_qadri_profile",
+      "name": "Dr. Mohd. Ayub Qadri",
+      "email": "## Qualifications",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "Understanding immunity and host-pathogen interactions during infection with\nSalmonella",
+      "research_areas": [
+        "Immunology",
+        "Infectious Diseases"
+      ],
+      "research_keywords": [
+        "infection",
+        "pathogen"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "University of Kashmir, India Ph. D. National Institute of Immunology, New Delhi, India Postdoctoral Research University of Texas Southwestern Medical Center, Dallas, Texas, USA."
+        ],
+        "postdoc_experience": [
+          "M. Sc. University of Kashmir, India Ph. D. National Institute of Immunology, New Delhi, India Postdoctoral Research University of Texas Southwestern Medical Center, Dallas, Texas, USA."
+        ],
+        "visiting_positions": []
+      },
+      "awards": [],
+      "group_members": "Debjani Dutta, Ajay Suresh Akhade, Farhat Parween, Sonia, Ram Pal",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-mohd-ayub-qadri",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Mohd. Ayub Qadri specializes in Understanding immunity and host-pathogen interactions during infection with\nSalmonella",
+      "career_level": "Unknown",
+      "research_focus_breadth": 2
+    },
+    {
+      "faculty_id": "dr_lalit_c_garg_profile",
+      "name": "Dr. Lalit C. Garg",
+      "email": "lalit@nii.ac.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "Infectious diseases are the leading causes of death of both humans and animals. Vaccination is one of the most effective methods to control many infectious diseases. The primary focus of my laboratory is to unravel the molecular mechanisms of infectious diseases to explore new drug targets and development of vaccines against pathogens.",
+      "research_areas": [
+        "Immunology",
+        "Molecular Biology",
+        "Infectious Diseases",
+        "Vaccine Development",
+        "Drug Discovery"
+      ],
+      "research_keywords": [
+        "drug"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Punjab Agricultural University, Ludhiana, India Ph. D. Jawaharlal Nehru University, New Delhi, India Postdoctoral Research Univ of Virginia, Charlottesville, USA Kansas State Univ, Manhattan, USA Hershey Medical Center, Hershey, USA"
+        ],
+        "postdoc_experience": [
+          "M. Sc. Punjab Agricultural University, Ludhiana, India Ph. D. Jawaharlal Nehru University, New Delhi, India Postdoctoral Research Univ of Virginia, Charlottesville, USA Kansas State Univ, Manhattan, USA Hershey Medical Center, Hershey, USA"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [],
+      "group_members": "Sachin Kumar Deshmukh, Himani, Shweta Chatrath, Vineet Kumar Gupta, Bharati Bhatia, Sweta, Moolchand Sigar, Sonam Takkar, K.P. Pandey",
+      "collaboration_potential": [
+        "Active Research Group",
+        "Drug Discovery",
+        "Vaccine Development"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-lalit-c-garg",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Lalit C. Garg specializes in Infectious diseases are the leading causes of death of both humans and animals. Vaccination is one of the most effective methods to control many infectious diseases. The primary focus of my laboratory...",
+      "career_level": "Unknown",
+      "research_focus_breadth": 5
+    },
+    {
+      "faculty_id": "dr_rahul_pal_profile",
+      "name": "Dr. Rahul Pal",
+      "email": "rahul@nii.ac.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "The focus of the lab centres on disorders of proliferation, including cancer and systemic autoimmune diseases, and the delineation of novel pathways and targets.  Such studies are expected to extend theories of etiology.",
+      "research_areas": [
+        "Immunology"
+      ],
+      "research_keywords": [
+        "cancer"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M.Sc"
+        ],
+        "institutions": [
+          "Birla Institute of Technology and Science, Pilani, India Ph.D. All India Institute of Medical Sciences, New Delhi, India Postdoctoral Research University of Virginia, Charlottesville, USA"
+        ],
+        "postdoc_experience": [
+          "M.Sc. Birla Institute of Technology and Science, Pilani, India Ph.D. All India Institute of Medical Sciences, New Delhi, India Postdoctoral Research University of Virginia, Charlottesville, USA"
+        ],
+        "visiting_positions": []
+      },
+      "awards": [],
+      "group_members": "Anjali Bose, Ruchi Sachdeva, Monika Malik, Beneeta Kalha, Hritika Sharma, Moumita Sarkar, Ashok Kumar",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-rahul-pal",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Rahul Pal specializes in The focus of the lab centres on disorders of proliferation, including cancer and systemic autoimmune diseases, and the delineation of novel pathways and targets.  Such studies are expected to extend t...",
+      "career_level": "Unknown",
+      "research_focus_breadth": 1
+    },
+    {
+      "faculty_id": "dr_rajesh_s_gokhale_profile",
+      "name": "Dr. Rajesh S. Gokhale",
+      "email": "rsg@nii.ac.in, rsg@nii.res.in",
+      "faculty_status": "former",
+      "department": "Unknown Department",
+      "research_interest": "The Interface of Immune and Metabolic responses in Tuberculosis & Vitiligo",
+      "research_areas": [
+        "Immunology",
+        "Infectious Diseases"
+      ],
+      "research_keywords": [
+        "tuberculosis",
+        "immune"
+      ],
+      "techniques_methods": [],
+      "qualifications": {
+        "degrees": [
+          "M. Sc"
+        ],
+        "institutions": [
+          "Indian Institute of Technology (IIT) - Bombay, Mumbai, India. Ph. D. Indian Institute of Science, Bangalore, India. Postdoctoral Research Stanford University, California, USA."
+        ],
+        "postdoc_experience": [
+          "M. Sc. Indian Institute of Technology (IIT) - Bombay, Mumbai, India. Ph. D. Indian Institute of Science, Bangalore, India. Postdoctoral Research Stanford University, California, USA."
+        ],
+        "visiting_positions": []
+      },
+      "awards": [
+        {
+          "award": "B.M. Birla Science Prize in Biology (2003).",
+          "year": "2003",
+          "category": "Award"
+        },
+        {
+          "award": "Department of Biotechnology Fellowship (1988-1990), India.",
+          "year": "1988",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Howard Hughes Medical Institute (HHMI) International Research Scholar, USA (2005 – 2010)",
+          "year": "2005",
+          "category": "Other"
+        },
+        {
+          "award": "IIT Bombay Distinguished Alumnus Award (2014)",
+          "year": "2014",
+          "category": "Award"
+        },
+        {
+          "award": "Infosys Prize in Life Sciences (2013)",
+          "year": "2013",
+          "category": "Award"
+        },
+        {
+          "award": "Junior Research Fellowship (1990-1992), CSIR, India.",
+          "year": "1990",
+          "category": "Fellowship"
+        },
+        {
+          "award": "National Bioscience Award for Career Development, India (2009)",
+          "year": "2009",
+          "category": "Award"
+        },
+        {
+          "award": "Scopus Young Scientist Award, Elsevier India (2006).",
+          "year": "2006",
+          "category": "Award"
+        },
+        {
+          "award": "Senior Research Fellowship (1992-1995), CSIR, India.",
+          "year": "1992",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Shanti SwaroopBhatnagar Prize in Biological Sciences, India (2006).",
+          "year": "2006",
+          "category": "Award"
+        },
+        {
+          "award": "Sun Pharma Research Award (2014) – Medical Sciences, Basic Research Award",
+          "year": "2014",
+          "category": "Award"
+        },
+        {
+          "award": "Swarnajayanti Fellowships, Department of Science and Technology, India (2006- 2011)",
+          "year": "2006",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Tata Innovative Fellowships, DBT, India (2007).",
+          "year": "2007",
+          "category": "Fellowship"
+        },
+        {
+          "award": "Wellcome Trust International SRF India,Wellcome Trust, UK. (2001-2006).",
+          "year": "2001",
+          "category": "Other"
+        }
+      ],
+      "group_members": "Sachin Sharma, Anusha Krishnan, Farina Sultan, KriteeMehdiratta, Jyotsna Singh",
+      "collaboration_potential": [
+        "Active Research Group"
+      ],
+      "source_url": "https://www.nii.res.in/en/former-faculty/dr-rajesh-s-gokhale",
+      "last_updated": "2025-05-22",
+      "profile_summary": "Dr. Rajesh S. Gokhale specializes in The Interface of Immune and Metabolic responses in Tuberculosis & Vitiligo",
+      "career_level": "Senior",
+      "research_focus_breadth": 2
+    }
+  ],
+  "statistics": {
+    "total_faculty": 26,
+    "department_distribution": {
+      "Unknown Department": 25,
+      "Founding Director, National Institute of Immunology": 1
+    },
+    "research_area_distribution": {
+      "Immunology": 15,
+      "Molecular Biology": 16,
+      "Biochemistry": 2,
+      "Structural Biology": 3,
+      "HIV/AIDS Research": 3,
+      "Infectious Diseases": 10,
+      "Vaccine Development": 8,
+      "Drug Discovery": 4,
+      "Virology": 1,
+      "Computational Biology": 2,
+      "Cell Biology": 3,
+      "General Biology": 1
+    },
+    "career_level_distribution": {
+      "Unknown": 13,
+      "Senior": 13
+    },
+    "award_categories": {
+      "Other": 37,
+      "Fellowship": 58,
+      "Award": 61,
+      "Early Career": 1,
+      "Recognition": 1
+    },
+    "collaboration_areas": {
+      "Active Research Group": 23,
+      "Structural Biology": 3,
+      "Vaccine Development": 7,
+      "Drug Discovery": 3,
+      "Clinical Research": 4
+    },
+    "top_keywords": {
+      "immune": 3,
+      "protein": 4,
+      "folding": 1,
+      "nmr": 1,
+      "structure": 3,
+      "cytokine": 3,
+      "hiv": 3,
+      "tuberculosis": 5,
+      "virus": 1,
+      "dna": 2,
+      "cancer": 7,
+      "cell": 6,
+      "vaccine": 4,
+      "tumor": 1,
+      "drug": 2,
+      "gene": 2,
+      "genomics": 2,
+      "pathogen": 2,
+      "immunology": 1,
+      "intracellular": 1,
+      "trafficking": 1,
+      "cellular": 2,
+      "antigen": 1,
+      "proteomics": 1,
+      "infection": 1
+    },
+    "average_research_breadth": 2.6153846153846154
+  }
+}

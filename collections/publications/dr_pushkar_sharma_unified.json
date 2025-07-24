@@ -1,0 +1,889 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Pushkar Sharma",
+    "email": "pushkar@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-pushkar-sharma",
+    "research_domain": "Genetics, Cell Signalling & Cancer Biology",
+    "faculty_status": "current",
+    "search_date": "2025-07-01T14:34:28.520763",
+    "total_publications": 33,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Pushkar Sharma, current faculty in Genetics, Cell Signalling & Cancer Biology at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "40410154",
+      "title": "PfPPM2 signalling regulates asexual division and sexual conversion of human malaria parasite Plasmodium falciparum.",
+      "authors": [
+        "Akanksha Rawat",
+        "Neelam Antil",
+        "Meenakshi",
+        "Bhagyashree Deshmukh",
+        "Akhila Balakrishna Rai",
+        "Annu Nagar",
+        "Narendra Kumar",
+        "T S Keshava Prasad",
+        "Krishanpal Karmodiya",
+        "Pushkar Sharma"
+      ],
+      "year": "2025",
+      "journal": "Nature communications",
+      "doi": "10.1038/s41467-025-59476-w",
+      "doi_link": "https://doi.org/10.1038/s41467-025-59476-w",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40410154",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22PfPPM2%20signalling%20regulates%20asexual%20division%20and%20sexual%20conversion%20of%20human%20malaria%20parasite%20Plasmodium%20falciparum%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "Malaria parasite undergoes interesting developmental transition in human and mosquito host. While it divides asynchronously in the erythrocytes, it switches to sexual forms, which is critical for disease transmission. We report a novel signalling pathway involving Protein Phosphatase PfPPM2, which regulates asexual division of Plasmodium falciparum as well as its conversion to sexual forms. PfPPM2 may regulate the phosphorylation of key proteins involved in chromatin remodelling and protein translation. One of the key PfPPM2-targets was Heterochromatin Protein 1 (HP1), a regulator of heritable gene silencing which contributes to both mitotic proliferation as well as sexual commitment of the parasite. PfPPM2 promotes sexual conversion by regulating the interaction between HP1, H3K9me3 and chromatin and it achieves this by dephosphorylating S33 of HP1. PfPPM2 also regulates protein synthesis in the parasite by repressing the phosphorylation of initiation factor eIF2α, which is likely to contribute to parasite division and possibly sexual differentiation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "39173945",
+      "title": "miR-449a mediated repression of the cell cycle machinery prevents neuronal apoptosis.",
+      "authors": [
+        "Monika Chauhan",
+        "Komal Singh",
+        "Chen Chongtham",
+        "Aneeshkumar A G",
+        "Pushkar Sharma"
+      ],
+      "year": "2024",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1016/j.jbc.2024.107698",
+      "doi_link": "https://doi.org/10.1016/j.jbc.2024.107698",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39173945",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22miR-449a%20mediated%20repression%20of%20the%20cell%20cycle%20machinery%20prevents%20neuronal%20apoptosis%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "Aberrant activation of the cell cycle of terminally differentiated neurons results in their apoptosis and is known to contribute to neuronal loss in various neurodegenerative disorders like Alzheimer's Disease. However, the mechanisms that regulate cell cycle-related neuronal apoptosis are poorly understood. We identified several miRNA that are dysregulated in neurons from a transgenic APP/PS1 mouse model for AD (TgAD). Several of these miRNA are known to and/or are predicted to target cell cycle-related genes. Detailed investigation on miR-449a revealed the following: a, it promotes neuronal differentiation by suppressing the neuronal cell cycle; b, its expression in cortical neurons was impaired in response to amyloid peptide Aβ42; c, loss of its expression resulted in aberrant activation of the cell cycle leading to apoptosis. miR-449a may prevent cell cycle-related neuronal apoptosis by targeting cyclin D1 and protein phosphatase CDC25A, which are important for G1-S transition. Importantly, the lentiviral-mediated delivery of miR-449a in TgAD mouse brain significantly reverted the defects in learning and memory, which are associated with AD.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "37988347",
+      "title": "Protein kinase PfPK2 mediated signalling is critical for host erythrocyte invasion by malaria parasite.",
+      "authors": [
+        "Rahul Singh Rawat",
+        "Ankit Gupta",
+        "Neelam Antil",
+        "Sonika Bhatnagar",
+        "Monika Singh",
+        "Akanksha Rawat",
+        "T S Keshava Prasad",
+        "Pushkar Sharma"
+      ],
+      "year": "2023",
+      "journal": "PLoS pathogens",
+      "doi": "10.1371/journal.ppat.1011770",
+      "doi_link": "https://doi.org/10.1371/journal.ppat.1011770",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37988347",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Protein%20kinase%20PfPK2%20mediated%20signalling%20is%20critical%20for%20host%20erythrocyte%20invasion%20by%20malaria%20parasite%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "Signalling pathways in malaria parasite remain poorly defined and major reason for this is the lack of understanding of the function of majority of parasite protein kinases and phosphatases in parasite signalling and its biology. In the present study, we have elucidated the function of Protein Kinase 2 (PfPK2), which is known to be indispensable for the survival of human malaria parasite Plasmodium falciparum. We demonstrate that it is involved in the invasion of host erythrocytes, which is critical for establishing infection. In addition, PfPK2 may also be involved in the maturation of the parasite post-invasion. PfPK2 regulates the release of microneme proteins like Apical Membrane Antigen 1 (AMA1), which facilitates the formation of Tight Junction between the merozoite and host erythrocyte- a key step in the process of invasion. Comparative phosphoproteomics studies revealed that PfPK2 may be involved in regulation of several key proteins involved in invasion and signalling. Furthermore, PfPK2 regulates the generation of cGMP and the release of calcium in the parasite, which are key second messengers for the process of invasion. These and other studies have shed light on a novel signalling pathway in which PfPK2 acts as an upstream regulator of important cGMP-calcium signalling, which plays an important role in parasite invasion.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "36318587",
+      "title": "A VPS15-like kinase regulates apicoplast biogenesis and autophagy by promoting PI3P generation in Toxoplasma gondii.",
+      "authors": [
+        "Rahul Singh Rawat",
+        "Priyanka Bansal",
+        "Pushkar Sharma"
+      ],
+      "year": "2022",
+      "journal": "PLoS pathogens",
+      "doi": "10.1371/journal.ppat.1010922",
+      "doi_link": "https://doi.org/10.1371/journal.ppat.1010922",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36318587",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20VPS15-like%20kinase%20regulates%20apicoplast%20biogenesis%20and%20autophagy%20by%20promoting%20PI3P%20generation%20in%20Toxoplasma%20gondii%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "Phosphoinositides are important second messengers that regulate key cellular processes in eukaryotes. While it is known that a single phosphoinositol-3 kinase (PI3K) catalyses the formation of 3'-phosphorylated phosphoinositides (PIPs) in apicomplexan parasites like Plasmodium and Toxoplasma, how its activity and PI3P formation is regulated has remained unknown. Present studies involving a unique Vps15 like protein (TgVPS15) in Toxoplasma gondii provides insight into the regulation of phosphatidyl-3-phosphate (PI3P) generation and unravels a novel pathway that regulates parasite development. Detailed investigations suggested that TgVPS15 regulates PI3P formation in Toxoplasma gondii, which is important for the inheritance of the apicoplast-a plastid like organelle present in most apicomplexans and parasite replication. Interestingly, TgVPS15 also regulates autophagy in T. gondii under nutrient-limiting conditions as it promotes autophagosome formation. For both these processes, TgVPS15 uses PI3P-binding protein TgATG18 and regulates trafficking and conjugation of TgATG8 to the apicoplast and autophagosomes, which is important for biogenesis of these organelles. TgVPS15 has a protein kinase domain but lacks several key residues conserved in conventional protein kinases. Interestingly, two critical residues in its active site are important for PI3P formation and parasitic functions of this kinase. Collectively, these studies unravel a signalling cascade involving TgVPS15, a novel effector of PI3-kinase in T. gondii and possibly other Apicomplexa, that regulate critical processes like apicoplast biogenesis and autophagy.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "34866326",
+      "title": "PI4-kinase and PfCDPK7 signaling regulate phospholipid biosynthesis in Plasmodium falciparum.",
+      "authors": [
+        "Ranjana Maurya",
+        "Anuj Tripathi",
+        "Manish Kumar",
+        "Neelam Antil",
+        "Yoshiki Yamaryo-Botté",
+        "Praveen Kumar",
+        "Priyanka Bansal",
+        "Christian Doerig",
+        "Cyrille Y Botté",
+        "T S Keshava Prasad",
+        "Pushkar Sharma"
+      ],
+      "year": "2022",
+      "journal": "EMBO reports",
+      "doi": "10.15252/embr.202154022",
+      "doi_link": "https://doi.org/10.15252/embr.202154022",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34866326",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22PI4-kinase%20and%20PfCDPK7%20signaling%20regulate%20phospholipid%20biosynthesis%20in%20Plasmodium%20falciparum%22",
+      "citations": {
+        "semantic_scholar": 10
+      },
+      "abstract": "PfCDPK7 is an atypical member of the calcium-dependent protein kinase (CDPK) family and is crucial for the development of Plasmodium falciparum. However, the mechanisms whereby PfCDPK7 regulates parasite development remain unknown. Here, we perform quantitative phosphoproteomics and phospholipid analysis and find that PfCDPK7 promotes phosphatidylcholine (PC) synthesis by regulating two key enzymes involved in PC synthesis, phosphoethanolamine-N-methyltransferase (PMT) and ethanolamine kinase (EK). In the absence of PfCDPK7, both enzymes are hypophosphorylated and PMT is degraded. We further find that PfCDPK7 interacts with 4'-phosphorylated phosphoinositides (PIPs) generated by PI4-kinase. Inhibition of PI4K activity disrupts the vesicular localization PfCDPK7. P. falciparum PI4-kinase, PfPI4K is a prominent drug target and one of its inhibitors, MMV39048, has reached Phase I clinical trials. Using this inhibitor, we demonstrate that PfPI4K controls phospholipid biosynthesis and may act in part by regulating PfCDPK7 localization and activity. These studies not only unravel a signaling pathway involving PfPI4K/4'-PIPs and PfCDPK7 but also provide novel insights into the mechanism of action of a promising series of candidate anti-malarial drugs.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "34259099",
+      "title": "Diagnostic accuracy of Alvarado, RIPASA and Tzanakis scoring system in acute appendicitis: A prospective observational study.",
+      "authors": [
+        "Pushkar Sharma",
+        "Ankit Jain",
+        "Gomathi Shankar",
+        "Sreerekha Jinkala",
+        "Uday S Kumbhar",
+        "Sreenath G Shamanna"
+      ],
+      "year": "2021",
+      "journal": "Tropical doctor",
+      "doi": "10.1177/00494755211030165",
+      "doi_link": "https://doi.org/10.1177/00494755211030165",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34259099",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Diagnostic%20accuracy%20of%20Alvarado%2C%20RIPASA%20and%20Tzanakis%20scoring%20system%20in%20acute%20appendicitis%3A%20A%20prospective%20observational%20study%22",
+      "citations": {
+        "crossref": 4
+      },
+      "abstract": "Our prospective observational study, enrolling 167 patients undergoing emergency appendicectomy, served to evaluate the Alvarado, Tzanakis and RIPASA diagnostic scores. The latter was found to be a better scoring system because of its higher diagnostic accuracy. At centres with limited expertise in ultrasonography, RIPASA outperforms the Tzanakis score. Although easy to use, the Alvarado score was useful only to 'rule in' cases with AA with significant accuracy but at the cost of low sensitivity. It cannot be effectively used in triaging.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "33635921",
+      "title": "Protein kinase TgCDPK7 regulates vesicular trafficking and phospholipid synthesis in Toxoplasma gondii.",
+      "authors": [
+        "Priyanka Bansal",
+        "Neelam Antil",
+        "Manish Kumar",
+        "Yoshiki Yamaryo-Botté",
+        "Rahul Singh Rawat",
+        "Sneha Pinto",
+        "Keshava K Datta",
+        "Nicholas J Katris",
+        "Cyrille Y Botté",
+        "T S Keshava Prasad",
+        "Pushkar Sharma"
+      ],
+      "year": "2021",
+      "journal": "PLoS pathogens",
+      "doi": "10.1371/journal.ppat.1009325",
+      "doi_link": "https://doi.org/10.1371/journal.ppat.1009325",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33635921",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Protein%20kinase%20TgCDPK7%20regulates%20vesicular%20trafficking%20and%20phospholipid%20synthesis%20in%20Toxoplasma%20gondii%22",
+      "citations": {
+        "semantic_scholar": 24
+      },
+      "abstract": "Apicomplexan parasites are causative agents of major human diseases. Calcium Dependent Protein Kinases (CDPKs) are crucial components for the intracellular development of apicomplexan parasites and are thus considered attractive drug targets. CDPK7 is an atypical member of this family, which initial characterization suggested to be critical for intracellular development of both Apicomplexa Plasmodium falciparum and Toxoplasma gondii. However, the mechanisms via which it regulates parasite replication have remained unknown. We performed quantitative phosphoproteomics of T. gondii lacking TgCDPK7 to identify its parasitic targets. Our analysis lead to the identification of several putative TgCDPK7 substrates implicated in critical processes like phospholipid (PL) synthesis and vesicular trafficking. Strikingly, phosphorylation of TgRab11a via TgCDPK7 was critical for parasite intracellular development and protein trafficking. Lipidomic analysis combined with biochemical and cellular studies confirmed that TgCDPK7 regulates phosphatidylethanolamine (PE) levels in T. gondii. These studies provide novel insights into the regulation of these processes that are critical for parasite development by TgCDPK7.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "33024030",
+      "title": "Phosphorylation of Rhoptry Protein RhopH3 Is Critical for Host Cell Invasion by the Malaria Parasite.",
+      "authors": [
+        "Roseleen Ekka",
+        "Ankit Gupta",
+        "Sonika Bhatnagar",
+        "Pawan Malhotra",
+        "Pushkar Sharma"
+      ],
+      "year": "2020",
+      "journal": "mBio",
+      "doi": "10.1128/mBio.00166-20",
+      "doi_link": "https://doi.org/10.1128/mBio.00166-20",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33024030",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Phosphorylation%20of%20Rhoptry%20Protein%20RhopH3%20Is%20Critical%20for%20Host%20Cell%20Invasion%20by%20the%20Malaria%20Parasite%22",
+      "citations": {
+        "semantic_scholar": 11
+      },
+      "abstract": "Merozoites formed after asexual division of the malaria parasite invade the host red blood cells (RBCs), which is critical for initiating malaria infection. The process of invasion involves specialized organelles like micronemes and rhoptries that discharge key proteins involved in interaction with host RBC receptors. RhopH complex comprises at least three proteins, which include RhopH3. RhopH3 is critical for the process of red blood cell (RBC) invasion as well as intraerythrocytic development of human malaria parasite Plasmodium falciparum It is phosphorylated at serine 804 (S804) in the parasite; however, it is unclear if phosphorylation regulates its function. To address this, a CRISPR-CAS9-based approach was used to mutate S804 to alanine (A) in P. falciparum Using this phosphomutant (R3_S804A) of RhopH3, we demonstrate that the phosphorylation of S804 is critical for host RBC invasion by the parasite but not for its intraerythrocytic development. Importantly, the phosphorylation of RhopH3 regulates its localization to the rhoptries and discharge from the parasite, which is critical for RBC invasion. We also identified P. falciparum CDPK1 (PfCDPK1) as a possible candidate kinase for RhopH3-S804 phosphorylation and found that it regulates RhopH3 secretion from the parasite. These findings provide novel insights into the role of phosphorylation in rhoptry release and invasion, which is poorly understood.IMPORTANCE Host cell invasion by the malaria parasite is critical for establishing infection in human host and is dependent on discharge of key ligands from organelles like rhoptry and microneme, and these ligands interact with host RBC receptors. In the present study, we demonstrate that phosphorylation of a key rhoptry protein, RhopH3, is critical for host invasion. Phosphorylation regulates its localization to rhoptries and discharge from the parasite.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "32513985",
+      "title": "Aberrant activation of neuronal cell cycle caused by dysregulation of ubiquitin ligase Itch results in neurodegeneration.",
+      "authors": [
+        "Monika Chauhan",
+        "Prashant Kumar Modi",
+        "Pushkar Sharma"
+      ],
+      "year": "2020",
+      "journal": "Cell death & disease",
+      "doi": "10.1038/s41419-020-2647-1",
+      "doi_link": "https://doi.org/10.1038/s41419-020-2647-1",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32513985",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Aberrant%20activation%20of%20neuronal%20cell%20cycle%20caused%20by%20dysregulation%20of%20ubiquitin%20ligase%20Itch%20results%20in%20neurodegeneration%22",
+      "citations": {
+        "semantic_scholar": 26
+      },
+      "abstract": "It is critical for the neuronal cell cycle to remain suppressed in terminally differentiated neurons as its activation results in aberrant cell cycle re-entry that causes neuronal apoptosis (CRNA), which has been observed in several neurodegenerative disorders like Alzheimer's disease (AD). In the present study, we report that E3 ubiquitin ligase Itch is a major regulator of CRNA and elucidated the mechanism via which it is regulated in this process. Neurotoxic amyloid peptide Aβ42-treated neurons or neurons from an AD transgenic mouse model (TgAD) exhibited aberrant activation of the JNK pathway which resulted in the hyperphosphorylation of Itch. The phosphorylation of Itch primes it for autoubiquitination, which is necessary for its activation. These post-translational modifications of Itch facilitate its interaction with TAp73 resulting in its degradation. These series of events are critical for Itch-mediated CRNA and its phosphorylation and autoubiquitination site mutants reversed this process and were neuroprotective. These studies unravel a novel pathway via which neurodegeneration in AD and possibly other related disorders may be regulated by aberrant regulation of the neuronal cell cycle.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "29089429",
+      "title": "Autophagy-Related Protein ATG18 Regulates Apicoplast Biogenesis in Apicomplexan Parasites.",
+      "authors": [
+        "Priyanka Bansal",
+        "Anuj Tripathi",
+        "Vandana Thakur",
+        "Asif Mohmmed",
+        "Pushkar Sharma"
+      ],
+      "year": "2017",
+      "journal": "mBio",
+      "doi": "10.1128/mBio.01468-17",
+      "doi_link": "https://doi.org/10.1128/mBio.01468-17",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29089429",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Autophagy-Related%20Protein%20ATG18%20Regulates%20Apicoplast%20Biogenesis%20in%20Apicomplexan%20Parasites%22",
+      "citations": {
+        "semantic_scholar": 47
+      },
+      "abstract": "Mechanisms by which 3'-phosphorylated phosphoinositides (3'-PIPs) regulate the development of apicomplexan parasites Plasmodium falciparum and Toxoplasma gondii are poorly understood. The catabolic process of autophagy, which is dependent on autophagy-related proteins (ATGs), is one of the major targets of 3'-PIPs in yeast and mammals. In the present study, we identified autophagy-related protein ATG18 as an effector of 3'-PIPs in these parasites. Pfalciparum ATG18 (PfATG18) and Tgondii ATG18 (TgATG18) interact with 3'-PIPs but exhibited differences in their specificity of interaction with the ligand PIP. The conditional knockdown of Tgondii or Pfalciparum ATG18 (Tg/PfATG18) impaired replication of parasites and resulted in their delayed death. Intriguingly, ATG18 depletion resulted in the loss of the apicomplexan parasite-specific nonphotosynthetic plastid-like organelle apicoplast, which harbors the machinery for biosynthesis of key metabolites, and the interaction of ATG18 to phosphatidylinositol 3-phosphate (PI3P) was critical for apicoplast inheritance. Furthermore, ATG18 regulates membrane association and apicoplast localization of ATG8. These findings provide insights into a novel noncanonical role of ATG18 in apicoplast inheritance. This function of ATG18 in organelle biogenesis is unprecedented in any organism and may be conserved across most apicomplexan parasites.IMPORTANCE Typically, autophagy is a catabolic process utilized by cells for their survival upon encountering nutrient-limiting conditions. The autophagy machinery is very tightly regulated, and autophagy-related genes (ATGs) play a pivotal role in this process. In the present study, we report a novel noncanonical function of autophagy-related protein ATG18 in inheritance of the nonphotosynthetic plastid-like organelle apicoplast in apicomplexan parasites Plasmodium and Toxoplasma ATG18 depletion in these parasites resulted in \"delayed death,\" which was the result of loss of apicoplast and impaired parasite division. Pf/TgATG18 interact with 3'-phosphorylated PIPs, which guide their cellular localization in the parasite, which is essential for their function.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "28680058",
+      "title": "PfCDPK1 mediated signaling in erythrocytic stages of Plasmodium falciparum.",
+      "authors": [
+        "Sudhir Kumar",
+        "Manish Kumar",
+        "Roseleen Ekka",
+        "Jeffrey D Dvorin",
+        "Aditya S Paul",
+        "Anil K Madugundu",
+        "Tim Gilberger",
+        "Harsha Gowda",
+        "Manoj T Duraisingh",
+        "T S Keshava Prasad",
+        "Pushkar Sharma"
+      ],
+      "year": "2017",
+      "journal": "Nature communications",
+      "doi": "10.1038/s41467-017-00053-1",
+      "doi_link": "https://doi.org/10.1038/s41467-017-00053-1",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28680058",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22PfCDPK1%20mediated%20signaling%20in%20erythrocytic%20stages%20of%20Plasmodium%20falciparum%22",
+      "citations": {
+        "semantic_scholar": 89
+      },
+      "abstract": "Calcium Dependent Protein Kinases are key effectors of calcium signaling in malaria parasite. PfCDPK1 is critical for asexual development of Plasmodium falciparum, but its precise function and substrates remain largely unknown. Using a conditional knockdown strategy, we here establish that this kinase is critical for the invasion of host erythrocytes. Furthermore, using a multidisciplinary approach involving comparative phosphoproteomics we gain insights into the underlying molecular mechanisms. We identify substrates of PfCDPK1, which includes proteins of Inner Membrane Complex and glideosome-actomyosin motor assembly. Interestingly, PfCDPK1 phosphorylates PfPKA regulatory subunit (PfPKA-R) and regulates PfPKA activity in the parasite, which may be relevant for the process of invasion. This study delineates the signaling network of PfCDPK1 and sheds light on mechanisms via which it regulates invasion.Calcium dependent protein kinase 1 (CDPK1) plays an important role in asexual development of Plasmodium falciparum. Using phosphoproteomics and conditional knockdown of CDPK1, the authors here identify CDPK1 substrates and a cross-talk between CDPK1 and PKA, and show the role of CDPK1 in parasite invasion.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "28598240",
+      "title": "Classical autophagy proteins LC3B and ATG4B facilitate melanosome movement on cytoskeletal tracks.",
+      "authors": [
+        "Amrita Ramkumar",
+        "Divya Murthy",
+        "Desingu Ayyappa Raja",
+        "Archana Singh",
+        "Anusha Krishnan",
+        "Sangeeta Khanna",
+        "Archana Vats",
+        "Lipi Thukral",
+        "Pushkar Sharma",
+        "Sridhar Sivasubbu",
+        "Rajni Rani",
+        "Vivek T Natarajan",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2017",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2017.1327509",
+      "doi_link": "https://doi.org/10.1080/15548627.2017.1327509",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28598240",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Classical%20autophagy%20proteins%20LC3B%20and%20ATG4B%20facilitate%20melanosome%20movement%20on%20cytoskeletal%20tracks%22",
+      "citations": {
+        "crossref": 52
+      },
+      "abstract": "Macroautophagy/autophagy is a dynamic and inducible catabolic process that responds to a variety of hormonal and environmental cues. Recent studies highlight the interplay of this central pathway in a variety of pathophysiological diseases. Although defective autophagy is implicated in melanocyte proliferation and pigmentary disorders, the mechanistic relationship between the 2 pathways has not been elucidated. In this study, we show that autophagic proteins LC3B and ATG4B mediate melanosome trafficking on cytoskeletal tracks. While studying melanogenesis, we observed spatial segregation of LC3B-labeled melanosomes with preferential absence at the dendritic ends of melanocytes. This LC3B labeling of melanosomes did not impact the steady-state levels of these organelles but instead facilitated their intracellular positioning. Melanosomes primarily traverse on microtubule and actin cytoskeletal tracks and our studies reveal that LC3B enables the assembly of microtubule translocon complex. At the microtubule-actin crossover junction, ATG4B detaches LC3B from melanosomal membranes by enzymatic delipidation. Further, by live-imaging we show that melanosomes transferred to keratinocytes lack melanocyte-specific LC3B. Our study thus elucidates a new role for autophagy proteins in directing melanosome movement and reveal the unconventional use of these proteins in cellular trafficking pathways. Such crosstalk between the central cellular function and housekeeping pathway may be a crucial mechanism to balance melanocyte bioenergetics and homeostasis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "27926980",
+      "title": "Role and regulation of p27 in neuronal apoptosis.",
+      "authors": [
+        "Surbhi Jaiswal",
+        "Pushkar Sharma"
+      ],
+      "year": "2017",
+      "journal": "Journal of neurochemistry",
+      "doi": "10.1111/jnc.13918",
+      "doi_link": "https://doi.org/10.1111/jnc.13918",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27926980",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Role%20and%20regulation%20of%20p27%20in%20neuronal%20apoptosis%22",
+      "citations": {
+        "semantic_scholar": 21
+      },
+      "abstract": "It is necessary for the cell-cycle machinery of neurons to be suppressed to promote differentiation and maintenance of their terminally differentiated state. Reactivation of the cell cycle in response to neurotoxic insults leads to neuronal cell death and some cell-cycle-related proteins contribute to the process. p27 kip1 (p27), an inhibitor of cyclin-dependent kinases, prevents unwarranted cyclin-dependent kinase activation. In this study, we have elucidated a novel mechanism via which p27 promotes apoptosis of neurons stimulated by neurotoxic amyloid peptide Aβ42 (Amyloid β1-42 peptide). Co-immunoprecipitation analysis revealed that p27 promotes interaction between Cyclin-dependent kinase 5 (Cdk5) and cyclin D1, which is induced by Aβ42 in cortical neurons. As a result, Cdk5 is sequestered from its neuronal activator p35 resulting in kinase deactivation. The depletion of p27, which was achieved by specific siRNA, restored Cdk5/p35 interaction by preventing association between Cdk5 and cyclin D1 and also abrogated Aβ42 induced apoptosis of cortical neurons. Furthermore, analysis of cell cycle markers suggested that p27 may play a role in Aβ42 induced aberrant cell cycle progression of neurons, which may result in apoptosis. These findings provide novel insights into how p27, which otherwise performs important neuronal functions, may become deleterious to neurons under neurotoxic conditions.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "26459758",
+      "title": "Regulation of Neuronal Cell Cycle and Apoptosis by MicroRNA 34a.",
+      "authors": [
+        "Prashant Kumar Modi",
+        "Surbhi Jaiswal",
+        "Pushkar Sharma"
+      ],
+      "year": "2016",
+      "journal": "Molecular and cellular biology",
+      "doi": "10.1128/MCB.00589-15",
+      "doi_link": "https://doi.org/10.1128/MCB.00589-15",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26459758",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Regulation%20of%20Neuronal%20Cell%20Cycle%20and%20Apoptosis%20by%20MicroRNA%2034a%22",
+      "citations": {
+        "semantic_scholar": 56
+      },
+      "abstract": "The cell cycle of neurons remains suppressed to maintain the state of differentiation and aberrant cell cycle reentry results in loss of neurons, which is a feature in neurodegenerative disorders like Alzheimer's disease (AD). Present studies revealed that the expression of microRNA 34a (miR-34a) needs to be optimal in neurons, as an aberrant increase or decrease in its expression causes apoptosis. miR-34a keeps the neuronal cell cycle under check by preventing the expression of cyclin D1 and promotes cell cycle arrest. Neurotoxic amyloid β1-42 peptide (Aβ42) treatment of cortical neurons suppressed miR-34a, resulting in unscheduled cell cycle reentry, which resulted in apoptosis. The repression of miR-34a was a result of degradation of TAp73, which was mediated by aberrant activation of the MEK extracellular signal-regulated kinase (ERK) pathway by Aβ42. A significant decrease in miR-34a and TAp73 was observed in the cortex of a transgenic (Tg) mouse model of AD, which correlated well with cell cycle reentry observed in the neurons of these animals. Importantly, the overexpression of TAp73α and miR-34a reversed cell cycle-related neuronal apoptosis (CRNA). These studies provide novel insights into how modulation of neuronal cell cycle machinery may lead to neurodegeneration and may contribute to the understanding of disorders like AD.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "24895132",
+      "title": "Regulation of Plasmodium falciparum development by calcium-dependent protein kinase 7 (PfCDPK7).",
+      "authors": [
+        "Praveen Kumar",
+        "Anuj Tripathi",
+        "Ravikant Ranjan",
+        "Jean Halbert",
+        "Tim Gilberger",
+        "Christian Doerig",
+        "Pushkar Sharma"
+      ],
+      "year": "2014",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M114.561670",
+      "doi_link": "https://doi.org/10.1074/jbc.M114.561670",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24895132",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Regulation%20of%20Plasmodium%20falciparum%20development%20by%20calcium-dependent%20protein%20kinase%207%20%28PfCDPK7%29%22",
+      "citations": {
+        "crossref": 40
+      },
+      "abstract": "Second messengers such as phosphoinositides and calcium are known to control diverse processes involved in the development of malaria parasites. However, the underlying molecular mechanisms and pathways need to be unraveled, which may be achieved by understanding the regulation of effectors of these second messengers. Calcium-dependent protein kinase (CDPK) family members regulate diverse parasitic processes. Because CDPKs are absent from the host, these kinases are considered as potential drug targets. We have dissected the function of an atypical CDPK from Plasmodium falciparum, PfCDPK7. The domain architecture of PfCDPK7 is very different from that of other CDPKs; it has a pleckstrin homology domain adjacent to the kinase domain and two calcium-binding EF-hands at its N terminus. We demonstrate that PfCDPK7 interacts with PI(4,5)P2 via its pleckstrin homology domain, which may guide its subcellular localization. Disruption of PfCDPK7 caused a marked reduction in the growth of the blood stage parasites, as maturation of rings to trophozoites was markedly stalled. In addition, parasite proliferation was significantly attenuated. These findings shed light on an important role for PfCDPK7 in the erythrocytic asexual cycle of malaria parasites.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "24779470",
+      "title": "Assessment of phosphorylation in Toxoplasma glideosome assembly and function.",
+      "authors": [
+        "Damien Jacot",
+        "Karine Frénal",
+        "Jean-Baptiste Marq",
+        "Pushkar Sharma",
+        "Dominique Soldati-Favre"
+      ],
+      "year": "2014",
+      "journal": "Cellular microbiology",
+      "doi": "10.1111/cmi.12307",
+      "doi_link": "https://doi.org/10.1111/cmi.12307",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24779470",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Assessment%20of%20phosphorylation%20in%20Toxoplasma%20glideosome%20assembly%20and%20function%22",
+      "citations": {
+        "crossref": 27
+      },
+      "abstract": "Members of the phylum Apicomplexa possess a highly conserved molecular motor complex anchored in the parasite pellicle and associated with gliding motility, invasion and egress from infected cells. This machinery, called the glideosome, is structured around the acylated gliding-associated protein GAP45 that recruits the motor complex composed of myosin A and two associated myosin light chains (TgMLC1 and TgELC1). This motor is presumably firmly anchored to the inner membrane complex underneath the plasma membrane via an interaction with two integral membrane proteins, GAP50 and GAP40. To determine if the previously mapped phosphorylation sites on TgGAP45 and TgMLC1 have a direct significance for glideosome assembly and function, a series of phospho-mimetic and phospho-null mutants were generated. Neither the overexpression nor the allelic replacement of TgMLC1 with phospho-mutants impacted on glideosome assembly and parasite motility. TgGAP45 phosphorylation mutants were functionally investigated using a complementation strategy in a TgGAP45 inducible knockout background. The loss of interaction with TgGAP50 by one previously reported GAP45-mutant appeared to depend only on the presence of a remaining competing wild type copy of TgGAP45. Accordingly, this mutant displayed no phenotype in complementation experiments. Unexpectedly, GAP45 lacking the region encompassing the cluster of twelve phosphorylation sites did not impact on its dual function in motor recruitment and pellicle integrity. Despite the extensive phosphorylation of TgMLC1 and TgGAP45, this post-translational modification does not appear to be critical for the assembly and function of the glideosome.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "24563597",
+      "title": "Design and in vitro/in vivo evaluation of extended release matrix tablets of nateglinide.",
+      "authors": [
+        "Pushkar R Sharma",
+        "Shaila A Lewis"
+      ],
+      "year": "2013",
+      "journal": "Journal of young pharmacists : JYP",
+      "doi": "10.1016/j.jyp.2013.11.003",
+      "doi_link": "https://doi.org/10.1016/j.jyp.2013.11.003",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24563597",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Design%20and%20in%20vitro/in%20vivo%20evaluation%20of%20extended%20release%20matrix%20tablets%20of%20nateglinide%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "AIM: Nateglinide is a quick acting anti-diabetic medication whose potent activity lasts for a short duration. One of the dangerous side effects of nateglinide administration is rapid hypoglycemia, a condition that needs to be monitored carefully to prevent unnecessary fatalities. The aim of the study was to develop a longer lasting and slower releasing formulation of nateglinide that could be administered just once daily. METHODS: Matrix tablets of nateglinide were prepared in combination with the polymers hydroxypropylmethylcellulose (HPMC), eudragits, ethyl cellulose and polyethylene oxide and the formulated drug release patterns were evaluated using in vitro and in vivo studies. CONCLUSION: Of the seventeen formulated matrix tablets tested, only one formulation labelled HA-2 that contained 15% HPMC K4M demonstrated release profile we had aimed for. Further, swelling studies and scanning electron microscopic analysis confirmed the drug release mechanism of HA-2. The optimized formulation HA-2 was found to be stable at accelerated storage conditions for 3 months with respect to drug content and physical appearance. Mathematical analysis of the release kinetics of HA-2 indicated a coupling of diffusion and erosion mechanisms. In-vitro release studies and pharmacokinetic in vivo studies of HA-2 in rabbits confirmed the sustained drug release profile we had aimed for.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "23895827",
+      "title": "Key molecular events during host cell invasion by Apicomplexan pathogens.",
+      "authors": [
+        "Pushkar Sharma",
+        "Chetan E Chitnis"
+      ],
+      "year": "2013",
+      "journal": "Current opinion in microbiology",
+      "doi": "10.1016/j.mib.2013.07.004",
+      "doi_link": "https://doi.org/10.1016/j.mib.2013.07.004",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23895827",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Key%20molecular%20events%20during%20host%20cell%20invasion%20by%20Apicomplexan%20pathogens%22",
+      "citations": {
+        "semantic_scholar": 75
+      },
+      "abstract": "The ability of Apicomplexan parasites to invade host cells is key to their survival and pathogenesis. Plasmodium and Toxoplasma parasites share common mechanisms for invasion of host cells. Secretion of microneme and rhoptry proteins, tight junction formation and assembly of an acto-myosin motor are key steps for successful invasion by both parasites. Here, we review our understanding of the molecular basis for these steps.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "23802619",
+      "title": "A compendium of molecules involved in vector-pathogen interactions pertaining to malaria.",
+      "authors": [
+        "Sreelakshmi K Sreenivasamurthy",
+        "Gourav Dey",
+        "Manjula Ramu",
+        "Manish Kumar",
+        "Manoj K Gupta",
+        "Ajeet K Mohanty",
+        "H C Harsha",
+        "Pushkar Sharma",
+        "Nirbhay Kumar",
+        "Akhilesh Pandey",
+        "Ashwani Kumar",
+        "T S Keshava Prasad"
+      ],
+      "year": "2013",
+      "journal": "Malaria journal",
+      "doi": "10.1186/1475-2875-12-216",
+      "doi_link": "https://doi.org/10.1186/1475-2875-12-216",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23802619",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20compendium%20of%20molecules%20involved%20in%20vector-pathogen%20interactions%20pertaining%20to%20malaria%22",
+      "citations": {
+        "crossref": 39
+      },
+      "abstract": "Malaria is a vector-borne disease causing extensive morbidity, debility and mortality. Development of resistance to drugs among parasites and to conventional insecticides among vector-mosquitoes necessitates innovative measures to combat this disease. Identification of molecules involved in the maintenance of complex developmental cycles of the parasites within the vector and the host can provide attractive targets to intervene in the disease transmission. In the last decade, several efforts have been made in identifying such molecules involved in mosquito-parasite interactions and, subsequently, validating their role in the development of parasites within the vector. In this study, a list of mosquito proteins, which facilitate or inhibit the development of malaria parasites in the midgut, haemolymph and salivary glands of mosquitoes, is compiled. A total of 94 molecules have been reported and validated for their role in the development of malaria parasites inside the vector. This compendium of molecules will serve as a centralized resource to biomedical researchers investigating vector-pathogen interactions and malaria transmission.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "22833568",
+      "title": "Interplay between MEK-ERK signaling, cyclin D1, and cyclin-dependent kinase 5 regulates cell cycle reentry and apoptosis of neurons.",
+      "authors": [
+        "Prashant Kumar Modi",
+        "Narayana Komaravelli",
+        "Neha Singh",
+        "Pushkar Sharma"
+      ],
+      "year": "2012",
+      "journal": "Molecular biology of the cell",
+      "doi": "10.1091/mbc.E12-02-0125",
+      "doi_link": "https://doi.org/10.1091/mbc.E12-02-0125",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22833568",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Interplay%20between%20MEK-ERK%20signaling%2C%20cyclin%20D1%2C%20and%20cyclin-dependent%20kinase%205%20regulates%20cell%20cycle%20reentry%20and%20apoptosis%20of%20neurons%22",
+      "citations": {
+        "crossref": 86
+      },
+      "abstract": "In response to neurotoxic signals, postmitotic neurons make attempts to reenter the cell cycle, which results in their death. Although several cell cycle proteins have been implicated in cell cycle-related neuronal apoptosis (CRNA), the molecular mechanisms that underlie this important event are poorly understood. Here, we demonstrate that neurotoxic agents such as β-amyloid peptide cause aberrant activation of mitogen-activated kinase kinase (MEK)-extracellular signal-regulated kinase (ERK) signaling, which promotes the entry of neurons into the cell cycle, resulting in their apoptosis. The MEK-ERK pathway regulates CRNA by elevating the levels of cyclin D1. The increase in cyclin D1 attenuates the activation of cyclin-dependent kinase 5 (cdk5) by its neuronal activator p35. The inhibition of p35-cdk5 activity results in enhanced MEK-ERK signaling, leading to CRNA. These studies highlight how neurotoxic signals reprogram and alter the neuronal signaling machinery to promote their entry into the cell cycle, which eventually leads to neuronal cell death.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper21",
+      "publication_id": "22558243",
+      "title": "Regulation of Plasmodium falciparum glideosome associated protein 45 (PfGAP45) phosphorylation.",
+      "authors": [
+        "Divya Catherine Thomas",
+        "Anwar Ahmed",
+        "Tim Wolf Gilberger",
+        "Pushkar Sharma"
+      ],
+      "year": "2012",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0035855",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0035855",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22558243",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Regulation%20of%20Plasmodium%20falciparum%20glideosome%20associated%20protein%2045%20%28PfGAP45%29%20phosphorylation%22",
+      "citations": {
+        "crossref": 23
+      },
+      "abstract": "The actomyosin motor complex of the glideosome provides the force needed by apicomplexan parasites such as Toxoplasma gondii (Tg) and Plasmodium falciparum (Pf) to invade their host cells and for gliding motility of their motile forms. Glideosome Associated Protein 45 (PfGAP45) is an essential component of the glideosome complex as it facilitates anchoring and effective functioning of the motor. Dissection of events that regulate PfGAP45 may provide insights into how the motor and the glideosome operate. We found that PfGAP45 is phosphorylated in response to Phospholipase C (PLC) and calcium signaling. It is phosphorylated by P. falciparum kinases Protein Kinase B (PfPKB) and Calcium Dependent Protein Kinase 1 (PfCDPK1), which are calcium dependent enzymes, at S89, S103 and S149. The Phospholipase C pathway influenced the phosphorylation of S103 and S149. The phosphorylation of PfGAP45 at these sites is differentially regulated during parasite development. The localization of PfGAP45 and its association may be independent of the phosphorylation of these sites. PfGAP45 regulation in response to calcium fits in well with the previously described role of calcium in host cell invasion by malaria parasite.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper22",
+      "publication_id": "22539638",
+      "title": "Novel insights into the regulation of malarial calcium-dependent protein kinase 1.",
+      "authors": [
+        "Anwar Ahmed",
+        "Kavita Gaadhe",
+        "Guru Prasad Sharma",
+        "Narendra Kumar",
+        "Mirela Neculai",
+        "Raymond Hui",
+        "Debasisa Mohanty",
+        "Pushkar Sharma"
+      ],
+      "year": "2012",
+      "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "doi": "10.1096/fj.12-203877",
+      "doi_link": "https://doi.org/10.1096/fj.12-203877",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22539638",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Novel%20insights%20into%20the%20regulation%20of%20malarial%20calcium-dependent%20protein%20kinase%201%22",
+      "citations": {
+        "semantic_scholar": 24
+      },
+      "abstract": "Calcium-dependent protein kinases (CDPKs) are major effectors of calcium signaling in apicomplexan parasites like Toxoplasma and Plasmodium and control important processes of the parasite life cycle. Despite recently reported crystal structures of Toxoplasma gondii (Tg)CDPKs, several important questions about their regulation remain unanswered. Plasmodium falciparum (Pf)CDPK1 has emerged as a key player in the life cycle of the malaria parasite, as it may be involved in the invasion of the host cells. Molecular modeling and site-directed mutagenesis studies on PfCDPK1 suggested that several residues in the regulatory domain play a dual role, as they seem to contribute to the stabilization of both the active and inactive kinase. Mass spectrometry revealed that PfCDPK1 was autophosphorylated at several sites; some of these were placed at strategic locations and therefore were found to be critical for kinase activation. The N-terminal extension of PfCDPK1 was found to be important for PfCDPK1 activation. Unexpectedly, an ATP binding site in the NTE of PfCDPK1 was identified. Our studies highlight several novel features of PfCDPK1 regulation, which may be shared by other members of the CDPK family. These findings may also aid design of inhibitors against these important targets, which are absent from the host.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper23",
+      "publication_id": "22127061",
+      "title": "Global kinomic and phospho-proteomic analyses of the human malaria parasite Plasmodium falciparum.",
+      "authors": [
+        "Lev Solyakov",
+        "Jean Halbert",
+        "Mahmood M Alam",
+        "Jean-Philippe Semblat",
+        "Dominique Dorin-Semblat",
+        "Luc Reininger",
+        "Andrew R Bottrill",
+        "Sharad Mistry",
+        "Abdirhaman Abdi",
+        "Clare Fennell",
+        "Zoe Holland",
+        "Claudia Demarta",
+        "Yvan Bouza",
+        "Audrey Sicard",
+        "Marie-Paule Nivez",
+        "Sylvain Eschenlauer",
+        "Tenzing Lama",
+        "Divya Catherine Thomas",
+        "Pushkar Sharma",
+        "Shruti Agarwal",
+        "Selina Kern",
+        "Gabriele Pradel",
+        "Michele Graciotti",
+        "Andrew B Tobin",
+        "Christian Doerig"
+      ],
+      "year": "2011",
+      "journal": "Nature communications",
+      "doi": "10.1038/ncomms1558",
+      "doi_link": "https://doi.org/10.1038/ncomms1558",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22127061",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Global%20kinomic%20and%20phospho-proteomic%20analyses%20of%20the%20human%20malaria%20parasite%20Plasmodium%20falciparum%22",
+      "citations": {
+        "semantic_scholar": 352
+      },
+      "abstract": "The role of protein phosphorylation in the life cycle of malaria parasites is slowly emerging. Here we combine global phospho-proteomic analysis with kinome-wide reverse genetics to assess the importance of protein phosphorylation in Plasmodium falciparum asexual proliferation. We identify 1177 phosphorylation sites on 650 parasite proteins that are involved in a wide range of general cellular activities such as DNA synthesis, transcription and metabolism as well as key parasite processes such as invasion and cyto-adherence. Several parasite protein kinases are themselves phosphorylated on putative regulatory residues, including tyrosines in the activation loop of PfGSK3 and PfCLK3; we show that phosphorylation of PfCLK3 Y526 is essential for full kinase activity. A kinome-wide reverse genetics strategy identified 36 parasite kinases as likely essential for erythrocytic schizogony. These studies not only reveal processes that are regulated by protein phosphorylation, but also define potential anti-malarial drug targets within the parasite kinome.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper24",
+      "publication_id": "20870716",
+      "title": "PfSRPK1, a novel splicing-related kinase from Plasmodium falciparum.",
+      "authors": [
+        "Aparna Dixit",
+        "Prashant K Singh",
+        "Guru Prasad Sharma",
+        "Pawan Malhotra",
+        "Pushkar Sharma"
+      ],
+      "year": "2010",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M110.119255",
+      "doi_link": "https://doi.org/10.1074/jbc.M110.119255",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20870716",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22PfSRPK1%2C%20a%20novel%20splicing-related%20kinase%20from%20Plasmodium%20falciparum%22",
+      "citations": {
+        "crossref": 32
+      },
+      "abstract": "Even though it is increasingly evident that post-transcriptional events like mRNA processing and splicing may regulate gene expression and proteome diversity of malaria parasite Plasmodium, molecular mechanisms that regulate events like mRNA splicing in malaria parasite are poorly understood. Protein kinases control a wide variety of cellular events in almost all eukaryotes, including modulation of mRNA splicing, transport, and stability. We have identified a novel splicing-related protein kinase from Plasmodium falciparum, PfSRPK1. PfSRPK1 when incubated with parasite nuclear extracts inhibited RNA splicing, suggesting that it may control mRNA splicing in the parasite. PfSR1, a putative splicing factor from P. falciparum, was identified as a substrate of PfSRPK1. PfSR1 interacts with RNA and PfSRPK1 modulates its RNA binding. Early in the parasite development, PfSRPK1 and PfSR1 are present in the nucleus. These studies provide useful insights into the function of two potentially key components of P. falciparum mRNA splicing machinery.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper25",
+      "publication_id": "20093402",
+      "title": "PfPI3K, a phosphatidylinositol-3 kinase from Plasmodium falciparum, is exported to the host erythrocyte and is involved in hemoglobin trafficking.",
+      "authors": [
+        "Ankush Vaid",
+        "Ravikant Ranjan",
+        "Wynand A Smythe",
+        "Heinrich C Hoppe",
+        "Pushkar Sharma"
+      ],
+      "year": "2010",
+      "journal": "Blood",
+      "doi": "10.1182/blood-2009-08-238972",
+      "doi_link": "https://doi.org/10.1182/blood-2009-08-238972",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20093402",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22PfPI3K%2C%20a%20phosphatidylinositol-3%20kinase%20from%20Plasmodium%20falciparum%2C%20is%20exported%20to%20the%20host%20erythrocyte%20and%20is%20involved%20in%20hemoglobin%20trafficking%22",
+      "citations": {
+        "crossref": 127
+      },
+      "abstract": "Polyphosphorylated phosphoinositides (PIPs) are potent second messengers, which trigger a wide variety of signaling and trafficking events in most eukaryotic cells. However, the role and metabolism of PIPs in malaria parasite Plasmodium have remained largely unexplored. Our present studies suggest that PfPI3K, a novel phosphatidylinositol-3-kinase (PI3K) in Plasmodium falciparum, is exported to the host erythrocyte by the parasite in an active form. PfPI3K is a versatile enzyme as it can generate various 3'-phosphorylated PIPs. In the parasite, PfPI3K was localized in vesicular compartments near the membrane and in its food vacuole. PI3K inhibitors wortmannin and LY294002 were effective against PfPI3K and were used to study PfPI3K function. We found that PfPI3K is involved in endocytosis from the host and trafficking of hemoglobin in the parasite. The inhibition of PfPI3K resulted in entrapment of hemoglobin in vesicles in the parasite cytoplasm, which prevented its transport to the food vacuole, the site of hemoglobin catabolism. As a result, hemoglobin digestion, which is a source of amino acids necessary for parasite growth, was attenuated and caused the inhibition of parasite growth.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper26",
+      "publication_id": "19307175",
+      "title": "Dissection of mechanisms involved in the regulation of Plasmodium falciparum calcium-dependent protein kinase 4.",
+      "authors": [
+        "Ravikant Ranjan",
+        "Anwar Ahmed",
+        "Samudrala Gourinath",
+        "Pushkar Sharma"
+      ],
+      "year": "2009",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M900656200",
+      "doi_link": "https://doi.org/10.1074/jbc.M900656200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19307175",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Dissection%20of%20mechanisms%20involved%20in%20the%20regulation%20of%20Plasmodium%20falciparum%20calcium-dependent%20protein%20kinase%204%22",
+      "citations": {
+        "crossref": 45
+      },
+      "abstract": "Recent studies have demonstrated that calcium-dependent protein kinases (CDPKs) are used by calcium to regulate a variety of biological processes in the malaria parasite Plasmodium. CDPK4 has emerged as an important enzyme for parasite development, because its gene disruption in rodent parasite Plasmodium berghei causes major defects in sexual differentiation of the parasite ( Billker, O., Dechamps, S., Tewari, R., Wenig, G., Franke-Fayard, B., and Brinkmann, V. (2004) Cell 117, 503-514 ). Despite these findings, it is not very clear how PfCDPK4 or any other PfCDPK is regulated by calcium at the molecular level. We report the biochemical characterization and elucidation of molecular mechanisms involved in the regulation of PfCDPK4. PfCDPK4 was detected on gametocyte periphery, and its activity in the parasite was regulated by phospholipase C. Even though the Junction Domain (JD) of PfCDPK4 shares moderate sequence homology with that of the plant CDPKs, it plays a pivotal role in PfCDPK4 regulation as previously reported for some plant CDPKs. The regions of the J-domain involved in interaction with both the kinase domain and the calmodulin-like domain were mapped. We propose a model for PfCDPK regulation by calcium, which may also prove useful for design of inhibitors against PfCDPK4 and other members of the PfCDPK family.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper27",
+      "publication_id": "18845480",
+      "title": "Protein kinases of malaria parasites: an update.",
+      "authors": [
+        "Christian Doerig",
+        "Oliver Billker",
+        "Timothy Haystead",
+        "Pushkar Sharma",
+        "Andrew B Tobin",
+        "Norman C Waters"
+      ],
+      "year": "2008",
+      "journal": "Trends in parasitology",
+      "doi": "10.1016/j.pt.2008.08.007",
+      "doi_link": "https://doi.org/10.1016/j.pt.2008.08.007",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18845480",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Protein%20kinases%20of%20malaria%20parasites%3A%20an%20update%22",
+      "citations": {
+        "semantic_scholar": 132
+      },
+      "abstract": "Protein kinases (PKs) play crucial roles in the control of proliferation and differentiation in eukaryotic cells. Research on protein phosphorylation has expanded tremendously in the past few years, in part as a consequence of the realization that PKs represent attractive drug targets in a variety of diseases. Activity in Plasmodium PK research has followed this trend, and several reports on various aspects of this subject were delivered at the Molecular Approaches to Malaria 2008 meeting (MAM2008), a sharp increase from the previous meeting. Here, the authors of most of these communications join to propose an integrated update of the development of the rapidly expanding field of Plasmodium kinomics.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper28",
+      "publication_id": "18165240",
+      "title": "Role of Ca2+/calmodulin-PfPKB signaling pathway in erythrocyte invasion by Plasmodium falciparum.",
+      "authors": [
+        "Ankush Vaid",
+        "Divya C Thomas",
+        "Pushkar Sharma"
+      ],
+      "year": "2008",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M708465200",
+      "doi_link": "https://doi.org/10.1074/jbc.M708465200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18165240",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Role%20of%20Ca2%2B/calmodulin-PfPKB%20signaling%20pathway%20in%20erythrocyte%20invasion%20by%20Plasmodium%20falciparum%22",
+      "citations": {
+        "crossref": 89
+      },
+      "abstract": "Molecular mechanisms by which signaling pathways operate in the malaria parasite and control its development are promiscuous. Recently, we reported the identification of a signaling pathway in Plasmodium falciparum, which involves activation of protein kinase B-like enzyme (PfPKB) by calcium/calmodulin (Vaid, A., and Sharma, P. (2006) J. Biol. Chem. 281, 27126-27133). Studies carried out to elucidate the function of this pathway suggested that it may be important for erythrocyte invasion. Blocking the function of the upstream activators of this pathway, calmodulin and phospholipase C, resulted in impaired invasion. To evaluate if this signaling cascade controls invasion by regulating PfPKB, inhibitors against this kinase were developed. PfPKB inhibitors dramatically reduced the ability of the parasite to invade erythrocytes. Furthermore, we demonstrate that PfPKB associates with actin-myosin motor and phosphorylates PfGAP45 (glideosome-associated protein 45), one of the important components of the motor complex, which may help explain its role in erythrocyte invasion.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper29",
+      "publication_id": "17498664",
+      "title": "Cyclin dependent kinase 5 (Cdk5) mediated inhibition of the MAP kinase pathway results in CREB down regulation and apoptosis in PC12 cells.",
+      "authors": [
+        "Monica Sharma",
+        "Naresh Kumar Hanchate",
+        "Rakesh K Tyagi",
+        "Pushkar Sharma"
+      ],
+      "year": "2007",
+      "journal": "Biochemical and biophysical research communications",
+      "doi": "10.1016/j.bbrc.2007.04.149",
+      "doi_link": "https://doi.org/10.1016/j.bbrc.2007.04.149",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17498664",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Cyclin%20dependent%20kinase%205%20%28Cdk5%29%20mediated%20inhibition%20of%20the%20MAP%20kinase%20pathway%20results%20in%20CREB%20down%20regulation%20and%20apoptosis%20in%20PC12%20cells%22",
+      "citations": {
+        "semantic_scholar": 16
+      },
+      "abstract": "Cyclin dependent kinase 5 (cdk5) is active mainly in postmitotic cells like neurons and regulates important cellular functions by phosphorylating a wide variety of targets. Nerve growth factor stimulates the MEK-ERK MAP kinase pathway and causes neuronal differentiation and survival. It was reported previously that Cdk5 inhibits the MAP kinase pathway by phosphorylating Map kinase kinase-1 (MEK1) [1]. We have delineated the functional consequence of this cross talk and found that the cdk5 mediated inhibition of MEK1 results in apoptosis. We also demonstrate that the activity of transcription factor CREB, which is known to play pro-survival roles in neuronal cells, is attenuated as a result of this cross-talk.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper30",
+      "publication_id": "17289673",
+      "title": "Traffic to the malaria parasite food vacuole: a novel pathway involving a phosphatidylinositol 3-phosphate-binding protein.",
+      "authors": [
+        "Michael T McIntosh",
+        "Ankush Vaid",
+        "H Dean Hosgood",
+        "Justin Vijay",
+        "Anindita Bhattacharya",
+        "Mayurbhai H Sahani",
+        "Pavlina Baevova",
+        "Keith A Joiner",
+        "Pushkar Sharma"
+      ],
+      "year": "2007",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M610974200",
+      "doi_link": "https://doi.org/10.1074/jbc.M610974200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17289673",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Traffic%20to%20the%20malaria%20parasite%20food%20vacuole%3A%20a%20novel%20pathway%20involving%20a%20phosphatidylinositol%203-phosphate-binding%20protein%22",
+      "citations": {
+        "semantic_scholar": 49
+      },
+      "abstract": "Phosphatidylinositol 3-phosphate (PI3P) is a key ligand for recruitment of endosomal regulatory proteins in higher eukaryotes. Subsets of these endosomal proteins possess a highly selective PI3P binding zinc finger motif belonging to the FYVE domain family. We have identified a single FYVE domain-containing protein in Plasmodium falciparum which we term FCP. Expression and mutagenesis studies demonstrate that key residues are involved in specific binding to PI3P. In contrast to FYVE proteins in other organisms, endogenous FCP localizes to a lysosomal compartment, the malaria parasite food vacuole (FV), rather than to cytoplasmic endocytic organelles. Transfections of deletion mutants further indicate that FCP is essential for trophozoite and FV maturation and that it traffics to the FV via a novel constitutive cytoplasmic to vacuole targeting pathway. This newly discovered pathway excludes the secretory pathway and is directed by a C-terminal 44-amino acid peptide domain. We conclude that an FYVE protein that might be expected to participate in vesicle targeting in the parasite cytosol instead has a vital and functional role in the malaria parasite FV.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper31",
+      "publication_id": "16809343",
+      "title": "PfPKB, a protein kinase B-like enzyme from Plasmodium falciparum: II. Identification of calcium/calmodulin as its upstream activator and dissection of a novel signaling pathway.",
+      "authors": [
+        "Ankush Vaid",
+        "Pushkar Sharma"
+      ],
+      "year": "2006",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M601914200",
+      "doi_link": "https://doi.org/10.1074/jbc.M601914200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16809343",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22PfPKB%2C%20a%20protein%20kinase%20B-like%20enzyme%20from%20Plasmodium%20falciparum%3A%20II.%20Identification%20of%20calcium/calmodulin%20as%20its%20upstream%20activator%20and%20dissection%20of%20a%20novel%20signaling%20pathway%22",
+      "citations": {
+        "crossref": 60
+      },
+      "abstract": "Intracellular cell signaling cascades of protozoan parasite Plasmodium falciparum are not clearly understood. We have reported previously (Kumar, A., Vaid, A., Syin, C., and Sharma, P. (2004) J. Biol. Chem. 279, 24255-24264) the identification and characterization of a protein kinase B-like enzyme in P. falciparum (PfPKB). PfPKB lacks the phosphoinositide-interacting pleckstrin homology domain present in mammalian protein kinase B. Therefore, the mechanism of PfPKB regulation was expected to be different from that of the host and had remained unknown. We have identified calmodulin (CaM) as the regulator of PfPKB activity. A CaM binding domain was mapped in the N-terminal region of PfPKB. CaM, in a calcium-dependent manner, interacts with this domain and activates PfPKB. CaM associates with PfPKB in the parasite and regulates its activity. Furthermore phospholipase C acts as an upstream regulator of this cascade as it facilitates the release of calcium from intracellular stores. This is one of the first multicomponent signaling pathways to be dissected in the malaria parasite.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper32",
+      "publication_id": "15024016",
+      "title": "PfPKB, a novel protein kinase B-like enzyme from Plasmodium falciparum: I. Identification, characterization, and possible role in parasite development.",
+      "authors": [
+        "Amit Kumar",
+        "Ankush Vaid",
+        "Chiang Syin",
+        "Pushkar Sharma"
+      ],
+      "year": "2004",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M312855200",
+      "doi_link": "https://doi.org/10.1074/jbc.M312855200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15024016",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22PfPKB%2C%20a%20novel%20protein%20kinase%20B-like%20enzyme%20from%20Plasmodium%20falciparum%3A%20I.%20Identification%2C%20characterization%2C%20and%20possible%20role%20in%20parasite%20development%22",
+      "citations": {
+        "crossref": 40
+      },
+      "abstract": "Extracellular signals control various important functions of a eukaryotic cell, which is often achieved by regulating a battery of protein kinases and phosphatases. Protein Kinase B (PKB) is an important member of the phosphatidylinositol 3-kinase-dependent signaling pathways in several eukaryotes, but the role of PKB in protozoan parasites is not known. We have identified a protein kinase B homologue in Plasmodium falciparum (PfPKB) that is expressed mainly in the schizonts and merozoites. Even though PfPKB shares high sequence homology with PKB catalytic domain, it lacks a pleckstrin homology domain typically found at the N terminus of the mammalian enzyme. Biochemical studies performed to understand the mechanism of PfPKB catalytic activation suggested (i) its activation is dependent on autophosphorylation of a serine residue (Ser-271) in its activation loop region and (ii) PfPKB has an unusual N-terminal region that was found to negatively regulate its catalytic activity. We also identified an inhibitor of PfPKB activity that also inhibits P. falciparum growth, suggesting that this enzyme may be important for the development of the parasite.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper33",
+      "publication_id": "11684694",
+      "title": "Phosphorylation of MEK1 by cdk5/p35 down-regulates the mitogen-activated protein kinase pathway.",
+      "authors": [
+        "Pushkar Sharma",
+        "Veeranna",
+        "Monica Sharma",
+        "Niranjana D Amin",
+        "Ram K Sihag",
+        "Philip Grant",
+        "Natalie Ahn",
+        "Ashok B Kulkarni",
+        "Harish C Pant"
+      ],
+      "year": "2002",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M109324200",
+      "doi_link": "https://doi.org/10.1074/jbc.M109324200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/11684694",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Phosphorylation%20of%20MEK1%20by%20cdk5/p35%20down-regulates%20the%20mitogen-activated%20protein%20kinase%20pathway%22",
+      "citations": {
+        "crossref": 125
+      },
+      "abstract": "Cyclin-dependent protein kinase 5 (cdk5), a member of the cdk family, is active mainly in postmitotic cells and plays important roles in neuronal development and migration, neurite outgrowth, and synaptic transmission. In this study we investigated the relationship between cdk5 activity and regulation of the mitogen-activated protein (MAP) kinase pathway. We report that cdk5 phosphorylates the MAP kinase kinase-1 (MEK1) in vivo as well as the Ras-activated MEK1 in vitro. The phosphorylation of MEK1 by cdk5 resulted in inhibition of MEK1 catalytic activity and the phosphorylation of extracellular signal-regulated kinase (ERK) 1/2. In p35 (cdk5 activator) -/- mice, which lack appreciable cdk5 activity, we observed an increase in the phosphorylation of NF-M subunit of neurofilament proteins that correlated with an up-regulation of MEK1 and ERK1/2 activity. The activity of a constitutively active MEK1 with threonine 286 mutated to alanine (within a TPXK cdk5 phosphorylation motif in the proline-rich domain) was not affected by cdk5 phosphorylation, suggesting that Thr286 might be the cdk5/p35 phosphorylation-dependent regulatory site. These findings support the hypothesis that cdk5 and the MAP kinase pathway cross-talk in the regulation of neuronal functions. Moreover, these data and the recent studies of Harada et al. (Harada, T., Morooka, T., Ogawa, S., and Nishida, E. (2001) Nat. Cell Biol. 3, 453-459) have prompted us to propose a model for feedback down-regulation of the MAP kinase signal cascade by cdk5 inactivation of MEK1.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 33,
+    "publications_by_year": {
+      "2025": 1,
+      "2024": 1,
+      "2023": 1,
+      "2022": 2,
+      "2021": 2,
+      "2020": 2,
+      "2017": 4,
+      "2016": 1,
+      "2014": 2,
+      "2013": 3,
+      "2012": 3,
+      "2011": 1,
+      "2010": 2,
+      "2009": 1,
+      "2008": 2,
+      "2007": 2,
+      "2006": 1,
+      "2004": 1,
+      "2002": 1
+    },
+    "top_journals": [
+      "The Journal of biological chemistry",
+      "Nature communications",
+      "PLoS pathogens",
+      "mBio",
+      "EMBO reports"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 126,
+      "frequent_collaborators": [
+        "Pushkar Sharma",
+        "T S Keshava Prasad",
+        "Neelam Antil",
+        "Manish Kumar",
+        "Anuj Tripathi",
+        "Christian Doerig",
+        "Narendra Kumar",
+        "Ankit Gupta"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "22127061",
+        "title": "Global kinomic and phospho-proteomic analyses of the human malaria parasite Plasmodium falciparum.",
+        "citations": 352,
+        "year": "2011"
+      },
+      {
+        "publication_id": "18845480",
+        "title": "Protein kinases of malaria parasites: an update.",
+        "citations": 132,
+        "year": "2008"
+      },
+      {
+        "publication_id": "20093402",
+        "title": "PfPI3K, a phosphatidylinositol-3 kinase from Plasmodium falciparum, is exported to the host erythrocyte and is involved in hemoglobin trafficking.",
+        "citations": 127,
+        "year": "2010"
+      }
+    ]
+  }
+}

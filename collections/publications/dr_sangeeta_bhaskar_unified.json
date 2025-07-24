@@ -1,0 +1,822 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Sangeeta Bhaskar",
+    "email": "sangeeta@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/former-faculty/dr-sangeeta-bhaskar",
+    "research_domain": "Former",
+    "faculty_status": "former",
+    "search_date": "2025-07-01T14:34:28.520763",
+    "total_publications": 31,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Sangeeta Bhaskar, former faculty in Former at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "39645271",
+      "title": "PreVenTB trial: protocol for evaluation of efficacy and safety of two vaccines VPM1002 and Immuvac (Mw) in preventing tuberculosis (TB) in healthy household contacts of newly diagnosed sputum smear-positive pulmonary TB patients: phase III, randomised, double-blind, three-arm placebo-controlled trial.",
+      "authors": [
+        "Manjula Singh",
+        "Sanjay Mehendale",
+        "Randeep Guleria",
+        "Rohit Sarin",
+        "Srikanth Tripathy",
+        "Raman R Gangakhedkar",
+        "Kiran Katoch",
+        "Ravindra Mohan Pandey",
+        "Samiran Panda",
+        "Sanghamitra Pati",
+        "Prasanta Raghab Mohapatra",
+        "Sindhu Joshi",
+        "Somashekar Narasimhaiah",
+        "Parul Kodan",
+        "Sangeeta Bhaskar",
+        "Rajni Rani",
+        "Abdul Mabood Khan",
+        "Soumya Swaminathan",
+        "PreVenTB Trial Team"
+      ],
+      "year": "2024",
+      "journal": "BMJ open",
+      "doi": "10.1136/bmjopen-2023-082916",
+      "doi_link": "https://doi.org/10.1136/bmjopen-2023-082916",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39645271",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22PreVenTB%20trial%3A%20protocol%20for%20evaluation%20of%20efficacy%20and%20safety%20of%20two%20vaccines%20VPM1002%20and%20Immuvac%20%28Mw%29%20in%20preventing%20tuberculosis%20%28TB%29%20in%20healthy%20household%20contacts%20of%20newly%20diagnosed%20sputum%20smear-positive%20pulmonary%20TB%20patients%3A%20phase%20III%2C%20randomised%2C%20double-blind%2C%20three-arm%20placebo-controlled%20trial%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "INTRODUCTION: Tuberculosis (TB) continues to be one of the deadliest infectious diseases over the centuries, killing more people worldwide than any other single infectious disease. There is an urgent need for additional strategies which can expedite efforts to combat TB including a preventive vaccine. In this endeavour, we have developed a protocol for a multisite, double-blind, placebo-controlled clinical trial in India that aims to evaluate the efficacy and safety of two TB vaccines; namely, VPM1002 and Immuvac (M.w) (Mycobacterium Indicus Pranii) (MIP) among healthy household contacts (HHCs) of sputum smear-positive pulmonary TB (PTB) patients. METHODS AND ANALYSIS: In the three-arm randomised double-blind placebo-controlled trial study protocol, a total of 12 000 HHCs (aged 6-99 years) of sputum smear-positive PTB patients will be randomised to receive either of the two vaccine candidates VPM1002 and MIP or placebo. The primary efficacy endpoint is the prevention of microbiologically confirmed TB. Secondary endpoints will include (1) prevention against Latent TB infection, (2) incidence of adverse events and serious adverse events in study participants, (3) efficacy of vaccine in prevention of PTB/extra PTB in different age groups (6-18 years, 19-35 years, 36-60 years and above 60 years) and (4) immunogenicity of VPM1002 and MIP at month 2 and month 6 after first vaccination in terms of flow cytometric analysis of M.Tb specific CD4+ and CD8+ T cells secreting cytokines and Luminex assays for the presence of different cytokines in the sera and supernatants of peripheral blood mononuclear cells cultures stimulated with whole cell lysates of M.Tb and subsequently similar analysis for the cases who develop TB postvaccination during the follow-up period. ETHICS AND DISSEMINATION: Ethics committees' approvals have been granted by the Institutional Human Ethics Committees of all participating centres in this study and the names of the ethics committees and approvals are as follows: (1) National Institute for Research in Tuberculosis (NIRT)-Chennai (including subsites): ECR/135/Inst/TN/2013/RR-19, Approval No. 390/NIRT-Institutional Ethics Committee (IEC)/2018 dated 5 December 2018 (NIRT-Madurai-ECR/1365/Inst/TN/2020; approval dated 8 June 2020; NIRT, Vellore: ECR/1215/Inst/TN/2019; approval dated 26 September 2020); (2) All India Institute of Medical Sciences (AIIMS), Delhi (including subsites)-Institute Ethics Committee, ECR/547/Inst/DL/2014/RR-17 ECR/538/Inst/DL/2014/RR-20; approval No.IEC-385/06-07-2018, approval OP-28/05.04.2019 and SFH- ECR/593/Inst/DL/2014/RR-20 IEC/VMMC/SJH/project/2019-05/25 ; 23 May 2019; (3) National Institute of Tuberculosis and Respiratory Diseases (NITRD), Delhi: ECR/315/Inst/DL/2013/RR-19; approval IEC-No-NITRD/EC/2019/9004; 8 January 2019; (4) Pune-National AIDS Research Institute (NARI) and subsite-ECR/23/Inst/MH/2013/RR-19; IEC-NARI/EC/approval/2018/196; 29 May 2018; (5) Regional Medical Research Centre-Bhubaneshwar-ECR/911/Inst/OR-2017/RR-21; approval, dated 25 April 2018; Subsites- AIIMS, Bhubaneshwar ECR/534/Inst/OD/2014/RR-17 and 20 approval No. T/EMF/Pulm. Med/19/01 dated 13 May 2019; SCB, Cuttack No. No.ECR/84/Inst/OR/2013/RR-20; approval no.186 dated 7 February 2020; (6) NTI-Bengaluru: Ethics Committee-No-ECR/1819/Inst/KA/2019; approval No NTI-IEC/1.2019/principal investigator, dated 31 January 2019; (7) BMMRC, Hyderabad- ECR/450/Inst/AP/2013/RR-16 approval No. 779/BMMRC/2018/IEC, dated 11 June 2018 (Subsite Share India- Mediciti Ethics Committee-ECR/283/Inst/AP/2013/RR-20; Approval no. EC/11/VII/2K20(1) dated 11 July 2020) and (8) SJMC-Bengaluru: ECR/238/Inst/KA/2013/RR-19; approval IEC/1/491/2020; 7 August 2020.The trial findings will be published in accordance with the Consolidated Standards of Reporting Trials guidance. The results of this clinical trial will be presented at scientific conferences and disseminated through publications in peer-reviewed journals, conference presentations and shared with Ministry of Health and Family Welfare, policy-makers and other stakeholders. TRIAL REGISTRATION NUMBER: CTRI/2019/01/017026.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "37122749",
+      "title": "Type 1 interferon mediated signaling is indispensable for eliciting anti-tumor responses by Mycobacterium indicus pranii.",
+      "authors": [
+        "Gargi Roy",
+        "Anush Chakraborty",
+        "Bharati Swami",
+        "Lalit Pal",
+        "Charvi Ahuja",
+        "Soumen Basak",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2023",
+      "journal": "Frontiers in immunology",
+      "doi": "10.3389/fimmu.2023.1104711",
+      "doi_link": "https://doi.org/10.3389/fimmu.2023.1104711",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37122749",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Type%201%20interferon%20mediated%20signaling%20is%20indispensable%20for%20eliciting%20anti-tumor%20responses%20by%20Mycobacterium%20indicus%20pranii%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "INTRODUCTION: The evolving tumor secretes various immunosuppressive factors that reprogram the tumor microenvironment (TME) to become immunologically cold. Consequently, various immunosuppressive cells like Tregs are recruited into the TME which in turn subverts the anti-tumor response of dendritic cells and T cells.Tumor immunotherapy is a popular means to rejuvenate the immunologically cold TME into hot. Mycobacterium indicus pranii (MIP) has shown strong immunomodulatory activity in different animal and human tumor models and has been approved for treatment of lung cancer (NSCLC) patients as an adjunct therapy. Previously, MIP has shown TLR2/9 mediated activation of antigen presenting cells/Th1 cells and their enhanced infiltration in mouse melanoma but the underlying mechanism by which it is modulating these immune cells is not yet known. RESULTS: This study reports for the first time that MIP immunotherapy involves type 1 interferon (IFN) signaling as one of the major signaling pathways to mediate the antitumor responses. Further, it was observed that MIP therapy significantly influenced frequency and activation of different subsets of T cells like regulatory T cells (Tregs) and CD8+ T cells in the TME. It reduces the migration of Tregs into the TME by suppressing the expression of CCL22, a Treg recruiting chemokine on DCs and this process is dependent on type 1 IFN. Simultaneously, in a type 1 IFN dependent pathway, it enhances the activation and effector function of the immunosuppressive tumor resident DCs which in turn effectively induce the proliferation and effector function of the CD8+ T cells. CONCLUSION: This study also provides evidence that MIP induced pro-inflammatory responses including induction of effector function of conventional dendritic cells and CD8+ T cells along with reduction of intratumoral Treg frequency are essentially mediated in a type 1 IFN-dependent pathway.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "36739765",
+      "title": "Mycobacterium indicus pranii therapy suppresses systemic dissemination of tumor cells in B16F10 murine model of melanoma.",
+      "authors": [
+        "Anush Chakraborty",
+        "Gargi Roy",
+        "Farheen Fatima",
+        "Bharati Swami",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2023",
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "doi": "10.1016/j.biopha.2023.114307",
+      "doi_link": "https://doi.org/10.1016/j.biopha.2023.114307",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36739765",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mycobacterium%20indicus%20pranii%20therapy%20suppresses%20systemic%20dissemination%20of%20tumor%20cells%20in%20B16F10%20murine%20model%20of%20melanoma%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "Cancer associated morbidity is mostly attributed to the dissemination of tumor cells from their primary niche into the circulation known as \"metastasis\". Mycobacterium indicus pranii (MIP) an approved immunotherapeutic agent against lung cancer (NSCLC) has shown potent anti-tumor activity in prior studies. While evaluating anti-tumor activity of MIP in mouse model, MIP treated animals typically exhibited less metastatic lesions in their pulmonary compartment. To study the role of MIP in metastasis closely, B16F10 melanoma cells were implanted subcutaneously in the mice, and the dissemination of tumor cells from the solid tumor was evaluated over a period of time. When B16F10 melanoma cells were treated with MIP in vitro, downregulation of epithelial mesenchymal transition markers was observed in these cells, which in turn suppressed the invasion, migration and adhesion of tumor cells. Notably, MIP therapy was found to be effectively reducing the metastatic burden in murine model of melanoma. Molecular characterization of MIP treated tumor cells substantiated that MIP upregulates the PPARγ expression within the tumor cells, which attenuates the NFκB/p65 levels within the nucleus, resulting in the suppression of Mmp9 expression in tumor cells. Besides that, MIP also downregulated the surface expression of chemokine receptor CXCR4 in murine melanoma cells, where chromatin immunoprecipitation confirmed the impeded recruitment of p50 and c-Rel factors to the Cxcr4 promoter, resulting in its downregulation transcriptionally. Taken together, MIP suppressed the dissemination of tumor cells in vivo, by regulating the expression of MMP9 and CXCR4 on these cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "36462337",
+      "title": "Tumor targeted delivery of mycobacterial adjuvant encapsulated chitosan nanoparticles showed potential anti-cancer activity and immune cell activation in tumor microenvironment.",
+      "authors": [
+        "Anush Chakraborty",
+        "Gargi Roy",
+        "Bharati Swami",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2023",
+      "journal": "International immunopharmacology",
+      "doi": "10.1016/j.intimp.2022.109463",
+      "doi_link": "https://doi.org/10.1016/j.intimp.2022.109463",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36462337",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Tumor%20targeted%20delivery%20of%20mycobacterial%20adjuvant%20encapsulated%20chitosan%20nanoparticles%20showed%20potential%20anti-cancer%20activity%20and%20immune%20cell%20activation%20in%20tumor%20microenvironment%22",
+      "citations": {
+        "semantic_scholar": 12
+      },
+      "abstract": "Targeting immunotherapeutics inside the tumor microenvironment (TME) with intact biological activity remains a pressing issue. Mycobacterium indicus pranii (MIP), an approved adjuvant therapy for leprosy has exhibited promising results in clinical trials of lung (NSCLC) and bladder cancer. Whole MIP as well as its cell wall fraction have shown tumor growth suppression and enhanced survival in mice model of melanoma, when administered peritumorally. Clinically, peritumoral delivery remains a procedural limitation. In this study, a tumor targeted delivery system was designed, where chitosan nanoparticles loaded with MIP adjuvants, when administered intravenously showed preferential accumulation within the TME, exploiting the principle of enhanced permeability and retention effect. Bio-distribution studies revealed their highest concentration inside the tumor after 6 h of administration. Interestingly, MIP adjuvant nano-formulations significantly reduced the tumor volume in the treated groups and increased the frequency of activated immune cells inside the TME. For chemoimmunotherapeutics studies, MIP nano-formulation was combined with standard dosage regimen of Paclitaxel. Combined therapy exhibited a further reduction in tumor volume relative to either of the MIP nano formulations. From this study a three-pronged strategy emerged as the underlying mechanism; chitosan and Paclitaxel have shown direct role in tumor cell death and the MIP nano-formulation activates the tumor residing immune cells which ultimately leads to the reduced tumor growth.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "34899731",
+      "title": "Macrophages Are the Key Players in Promoting Hyper-Inflammatory Response in a Mouse Model of TB-IRIS.",
+      "authors": [
+        "Lalit Pal",
+        "Raj Nandani",
+        "Pawan Kumar",
+        "Bharati Swami",
+        "Gargi Roy",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2021",
+      "journal": "Frontiers in immunology",
+      "doi": "10.3389/fimmu.2021.775177",
+      "doi_link": "https://doi.org/10.3389/fimmu.2021.775177",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34899731",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Macrophages%20Are%20the%20Key%20Players%20in%20Promoting%20Hyper-Inflammatory%20Response%20in%20a%20Mouse%20Model%20of%20TB-IRIS%22",
+      "citations": {
+        "semantic_scholar": 6
+      },
+      "abstract": "TB-IRIS is an abnormal inflammatory response in a subset of HIV-TB co-infected patients shortly after initiation of anti-retroviral therapy (ART). Therapy in these patients could have greatly improved the life expectancy as ART reconstitutes the function and number of CD4+ T cells and many patients see improvement in symptoms but paradoxically up to 54% of co-infected patients develop TB-IRIS. Different studies have indicated that both innate and adaptive immunity are involved in the pathology of IRIS but the role of macrophages in abnormal activation of CD4+ T cells is poorly understood. Since macrophages are one of the major antigen-presenting cells and are infected by M.tb at a high frequency, they are very much likely to be involved in the development of TB-IRIS. In this study, we have developed a mouse model of experimental IRIS, in which M.tb-infected T-cell knockout mice undergo a fatal inflammatory disease after CD4+ T cell reconstitution. Lung macrophages and blood monocytes from M.tb-infected TCRβ-/- mice showed upregulated expression of cell surface activation markers and also showed higher mRNA expression of inflammation-associated chemokines and matrix metalloproteases responsible for tissue damage. Furthermore, cytokine and TLR signaling feedback mechanism to control excessive inflammation was also found to be dysregulated in these macrophages under lymphopenic conditions. Previous studies have shown that hyperactive CD4+ T cells are responsible for disease induction and our study shows that somehow macrophages are in a higher activated state when infected with M.tb in an immune-deficient condition, which results in excessive activation of the adoptively transferred CD4+ T cells. Understanding of the mechanisms underlying the pathophysiology of TB-IRIS would facilitate identification of prospective biomarkers for disease development in HIV-TB co-infected patients before starting antiretroviral therapy.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "31681272",
+      "title": "Mycobacterium indicus pranii Induced Memory T-Cells in Lung Airways Are Sentinels for Improved Protection Against M.tb Infection.",
+      "authors": [
+        "Ananya Gupta",
+        "Mohd Saqib",
+        "Bindu Singh",
+        "Lalit Pal",
+        "Akoijam Nishikanta",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2019",
+      "journal": "Frontiers in immunology",
+      "doi": "10.3389/fimmu.2019.02359",
+      "doi_link": "https://doi.org/10.3389/fimmu.2019.02359",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31681272",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mycobacterium%20indicus%20pranii%20Induced%20Memory%20T-Cells%20in%20Lung%20Airways%20Are%20Sentinels%20for%20Improved%20Protection%20Against%20M.tb%20Infection%22",
+      "citations": {
+        "semantic_scholar": 16
+      },
+      "abstract": "The lungs are the most vulnerable site for air-borne infections. Immunologic compartmentalization of the lungs into airway lumen and interstitium has paved the way to determine the immune status of the site of pathogen entry, which is crucial for the outcome of any air-borne infections. Vaccination via the nasal route with Mycobacterium indicus pranii (MIP), a prospective candidate vaccine against tuberculosis (TB), has been reported to confer superior protection as compared to the subcutaneous (s.c.) route in small-animal models of TB. However, the immune mechanism remains only partly understood. Here, we showed that intranasal (i.n.) immunization of mice with MIP resulted in a significant recruitment of CD4+ and CD8+ T-cells expressing activation markers in the lung airway lumen. A strong memory T-cell response was observed in the lung airway lumen after i.n. MIP vaccination, compared with s.c. vaccination. The recruitment of these T-cells was regulated primarily by CXCR3-CXCL11 axis in \"MIP i.n.\" group. MIP-primed T-cells in the lung airway lumen effectively transferred protective immunity into naïve mice against Mycobacterium tuberculosis (M.tb) infection and helped reducing the pulmonary bacterial burden. These signatures of protective immune response were virtually absent or very low in unimmunized and subcutaneously immunized mice, respectively, before and after M.tb challenge. Our study provides mechanistic insights for MIP-elicited protective response against M.tb infection.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "31648257",
+      "title": "Lipoarabinomannan from Mycobacterium indicus pranii shows immunostimulatory activity and induces autophagy in macrophages.",
+      "authors": [
+        "Bindu Singh",
+        "Mohd Saqib",
+        "Anush Chakraborty",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2019",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0224239",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0224239",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31648257",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Lipoarabinomannan%20from%20Mycobacterium%20indicus%20pranii%20shows%20immunostimulatory%20activity%20and%20induces%20autophagy%20in%20macrophages%22",
+      "citations": {
+        "semantic_scholar": 7
+      },
+      "abstract": "Mycobacterium indicus pranii (MIP) known for its immunotherapeutic potential against leprosy and tuberculosis is undergoing various clinical trials and also simultaneously being studied in animal models to get insight into the mechanistic details contributing to its protective efficacy as a vaccine candidate. Studies have shown potential immunomodulatory properties of MIP, the most significant being the ability to induce strong Th1 type of response, enhanced expression of pro-inflammatory cytokines, activation of APCs and lymphocytes, elicitation of M.tb specific poly-functional T cells. All of these form crucial components of host-immune response during M.tb infection. Also, MIP was found to be potent inducer of autophagy in macrophages which resulted in enhanced clearance of M.tb from MIP and M.tb co-infected cells. Hence, we further examined the component/s of MIP responsible for autophagy induction. Interestingly, we found that MIP lipids and DNA were able to induce autophagy but not the protein fraction. LAM being one of the crucial components of mycobacterial cell-wall lipids and possessing the ability of immunomodulation; we isolated LAM from MIP and did a comparative study with M.tb-LAM. Stimulation with MIP-LAM resulted in significantly high secretion of pro-inflammatory cytokines and displayed high autophagy inducing potential in macrophages as compared to M.tb-LAM. Treatment with MIP-LAM enhanced the co-localization of M.tb within the phago-lysosomes and increased the clearance of M.tb from the infected macrophages. This study describes LAM to be a crucial component of MIP which has significant contribution to its immunotherapeutic efficacy against TB.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "31590685",
+      "title": "Mycobacterium indicus pranii therapy induces tumor regression in MyD88- and TLR2-dependent manner.",
+      "authors": [
+        "Pawan Kumar",
+        "Gobardhan Das",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2019",
+      "journal": "BMC research notes",
+      "doi": "10.1186/s13104-019-4679-0",
+      "doi_link": "https://doi.org/10.1186/s13104-019-4679-0",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31590685",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mycobacterium%20indicus%20pranii%20therapy%20induces%20tumor%20regression%20in%20MyD88-%20and%20TLR2-dependent%20manner%22",
+      "citations": {
+        "semantic_scholar": 11
+      },
+      "abstract": "OBJECTIVES: Mycobacterium indicus pranii (MIP) is an atypical mycobacterium species with potent antitumor efficacy. Macrophages and dendritic cells (DCs) are antigen-presenting cells, playing key roles in the activation of antitumor immunity. We have previously shown the potent activation of macrophages and DCs by MIP, which is mediated by MyD88-TLR2 signaling axis. In the present study, we further examined the role of MyD88 and TLR2 in MIP-mediated tumor regression. RESULTS: Wild-type and MyD88-/- mice were implanted with B16F10 tumor cells, treated with MIP or phosphate-buffered saline (PBS) and monitored for tumor growth. As expected, MIP therapy led to significant tumor regression in wild-type mice. However, antitumor efficacy of MIP was lost in MyD88-/- animals. Both PBS-treated (control) and MIP-treated MyD88-/- mice developed tumors with comparable volume. Since MyD88 relays TLR engagement signals, we analyzed the antitumor efficacy of MIP in TLR2-/- and TLR4-/- mice. It was observed that MIP therapy reduced tumor burden in wild-type and TLR4-/- mice but not in TLR2-/- mice. Tumor volume in MIP-treated TLR2-/- mice were comparable with those in PBS-treated wild-type animals. These results implicated the MyD88-TLR2 signaling axis in the antitumor efficacy of MIP.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "30856391",
+      "title": "Cell wall fraction of Mycobacterium indicus pranii shows potential Th1 adjuvant activity.",
+      "authors": [
+        "Mohd Saqib",
+        "Rahul Khatri",
+        "Bindu Singh",
+        "Ananya Gupta",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2019",
+      "journal": "International immunopharmacology",
+      "doi": "10.1016/j.intimp.2019.02.049",
+      "doi_link": "https://doi.org/10.1016/j.intimp.2019.02.049",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30856391",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Cell%20wall%20fraction%20of%20Mycobacterium%20indicus%20pranii%20shows%20potential%20Th1%20adjuvant%20activity%22",
+      "citations": {
+        "crossref": 6
+      },
+      "abstract": "Very few adjuvants inducing Th1 immune response have been developed and are under clinical investigation. Hence, there is the need to find an adjuvant that elicits strong Th1 immune response which should be safe when injected in the host along with vaccines. Mycobacterium indicus pranii (MIP), a non-pathogenic vaccine candidate, has shown strong immunomodulatory activity in leprosy/tuberculosis/cancer and in genital warts patients where its administration shifted the host immune response towards Th1 type. These findings prompted us to study the components of MIP in detail for their Th1 inducing property. Since mycobacterial cell wall is very rich in immunostimulatory components and is known to play important role in immune modulation, we investigated the activity of MIP cell wall using Ovalbumin antigen (OVA) as model antigen. 'Whole cell wall' (CW) and 'aqueous soluble cell wall fractions' (ACW) induced significant Th1 immune response while 'cell wall skeleton' (CWS) induced strong Th2 type of immune response. Finally, functional activity of fractions having Th1 inducing activity was evaluated in mouse model of melanoma. CW demonstrated significant anti-tumor activity similar to whole MIP. Anti-tumor activity of CW could be correlated with enhanced tumor antigen specific Th1 immune response observed in tumor draining lymph nodes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "30674337",
+      "title": "Myeloid differentiation primary response protein 88 (MyD88)-deficient dendritic cells exhibit a skewed cytokine response to BCG.",
+      "authors": [
+        "Pawan Kumar",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2019",
+      "journal": "BMC research notes",
+      "doi": "10.1186/s13104-019-4086-6",
+      "doi_link": "https://doi.org/10.1186/s13104-019-4086-6",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30674337",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Myeloid%20differentiation%20primary%20response%20protein%2088%20%28MyD88%29-deficient%20dendritic%20cells%20exhibit%20a%20skewed%20cytokine%20response%20to%20BCG%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "OBJECTIVE: Macrophages and dendritic cells (DCs) play key role in the recognition of mycobacterial infection and mounting of antimycobacterial immunity. In case of macrophages, recognition of BCG and other mycobacteria has been attributed predominantly to MyD88-dependent singling. Interestingly, in previous study with bone marrow-derived DCs, we have shown that BCG promotes the survival of wild-type and MyD88-/- cells to the comparable levels. In the present study, we further examined MyD88-/- DC's response to BCG. RESULTS: Bone marrow-derived DCs from wild-type and MyD88-/- mice were stimulated with BCG and analyzed for cytokine secretion. As expected, BCG-stimulated wild-type DCs produced significant amount of TNF-α and IL-12p40 in response to BCG. Interestingly, BCG-stimulated MyD88-/- DCs were also found to secret significantly higher levels of TNF-α and IL-12p40, compared with unstimulated DCs. We further observed that wild-type DCs produced significant level of immunosuppressive cytokine IL-10 in response to BCG, whereas MyD88-/- DCs secreted very low amount of IL-10 when stimulated with BCG. These findings demonstrated that MyD88-/- DCs exhibit a skewed cytokine response to BCG.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "30242567",
+      "title": "Methods for Detection of Autophagy in Mammalian Cells.",
+      "authors": [
+        "Bindu Singh",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2019",
+      "journal": "Methods in molecular biology (Clifton, N.J.)",
+      "doi": "10.1007/7651_2018_190",
+      "doi_link": "https://doi.org/10.1007/7651_2018_190",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30242567",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Methods%20for%20Detection%20of%20Autophagy%20in%20Mammalian%20Cells%22",
+      "citations": {
+        "semantic_scholar": 15
+      },
+      "abstract": "Autophagy is a conserved catabolic process that degrades cytoplasmic constituents in the lysosome and thus contributes to the maintenance of intracellular homeostasis. The process of autophagy has been involved in many physiological and pathological processes. Therefore, there is a developing need to identify, quantify, and manipulate the autophagic process accurately in the cells. As autophagy involves dynamic and complex processes, therefore various approaches are needed to study this process precisely. In this chapter, we have tried to elaborate the approaches and methods to monitor autophagy, with a primary focus on mammalian macroautophagy. Autophagy induction can be detected using Western blotting of LC3 (marker protein for autophagosomes) in which LC3-II levels represent the quantity of autophagosomes formed on induction to a particular stimulus. This can also be confirmed by puncta formation assay using confocal microscopy. Further, the autophagic flux can be examined using bafilomycin A1 as inhibitor of autophagosome-lysosome fusion and acidification of lysosomal compartments, thereby leading to accumulation of autophagosomes which is represented by high LC3-II levels. The autophagolysosomal degradation or proteolysis which is the last step of autophagy can be analyzed by DQ-BSA assay.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "30190103",
+      "title": "Mycobacterium indicus pranii protein MIP_05962 induces Th1 cell mediated immune response in mice.",
+      "authors": [
+        "Ashish Sharma",
+        "Mohd Saqib",
+        "Javaid A Sheikh",
+        "Nasreen Z Ehtesham",
+        "Sangeeta Bhaskar",
+        "Tapan K Chaudhuri",
+        "Seyed E Hasnain"
+      ],
+      "year": "2018",
+      "journal": "International journal of medical microbiology : IJMM",
+      "doi": "10.1016/j.ijmm.2018.08.008",
+      "doi_link": "https://doi.org/10.1016/j.ijmm.2018.08.008",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30190103",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mycobacterium%20indicus%20pranii%20protein%20MIP_05962%20induces%20Th1%20cell%20mediated%20immune%20response%20in%20mice%22",
+      "citations": {
+        "semantic_scholar": 8
+      },
+      "abstract": "Utility of Mycobacterium indicus pranii (MIP) as a multistage vaccine against mycobacterial infections demands identification of its protective antigens. We explored antigenicity and immunogenicity of a candidate protein MIP_05962 that depicts homology to HSP18 of M. leprae and antigen1 of Mycobacterium tuberculosis. This protein elicited substantial antibody response in immunized mice along with modulation of cellular immune response towards protective Th1 type. Both CD4+ and CD8+ subsets from immunized mice produced hallmark protective cytokines, IFN-γ, TNF-α and IL-2. This protein also enhanced the CD4+ effector memory that could act as first line of defence during infections. These results point to MIP_05962 as a protective antigen that contributes, in conjunction with others, to the protective immunity of this live vaccine candidate.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "29848490",
+      "title": "Enhanced survival of BCG-stimulated dendritic cells: involvement of anti-apoptotic proteins and NF-κB.",
+      "authors": [
+        "Pawan Kumar",
+        "Vini John",
+        "Ananya Gupta",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2018",
+      "journal": "Biology open",
+      "doi": "10.1242/bio.032045",
+      "doi_link": "https://doi.org/10.1242/bio.032045",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29848490",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Enhanced%20survival%20of%20BCG-stimulated%20dendritic%20cells%3A%20involvement%20of%20anti-apoptotic%20proteins%20and%20NF-%CE%BAB%22",
+      "citations": {
+        "semantic_scholar": 4
+      },
+      "abstract": "BCG (Bacillus Calmette-Guérin) is the only available vaccine against TB and is also used for the treatment of superficial bladder cancer. BCG-mediated protection against TB and bladder cancer has been shown to rely on its ability to induce superior CD4+ and CD8+ T cell responses. As the magnitude of T cell responses is defined by dendritic cell (DC) lifespan, we examined the effect of BCG on DC survival and its underlying mechanisms. It was observed that BCG stimulation enhanced DC survival and prolonged DC lifespan in a dose-dependent manner. Live BCG led to a higher DC survival compared with heat-killed BCG. FITC-Annexin V staining showed that BCG promoted DC survival by inhibiting apoptosis. Consistently, higher expressions of anti-apoptotic proteins Bcl-2 and Bcl-xL were observed in BCG-stimulated DCs. Pharmacological inhibition of Bcl-2 and Bcl-xL drastically reduced the DC survival efficacy of BCG. Comparable survival of BCG-stimulated wild-type and MyD88-/- DCs suggested that MyD88 signaling is dispensable for BCG-induced DC survival. NF-κB is one of the key regulators of innate immune responses. We observed that pharmacological inhibition of NF-κB abrogated BCG-mediated increase in DC survival and expression of anti-apoptotic proteins. These findings provide a novel insight into the effect of BCG on DC physiology.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "29236768",
+      "title": "Autophagy induction by Mycobacterium indicus pranii promotes Mycobacterium tuberculosis clearance from RAW 264.7 macrophages.",
+      "authors": [
+        "Bindu Singh",
+        "Mohd Saqib",
+        "Ananya Gupta",
+        "Pawan Kumar",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2017",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0189606",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0189606",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29236768",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Autophagy%20induction%20by%20Mycobacterium%20indicus%20pranii%20promotes%20Mycobacterium%20tuberculosis%20clearance%20from%20RAW%20264.7%20macrophages%22",
+      "citations": {
+        "semantic_scholar": 19
+      },
+      "abstract": "Mycobacterium indicus pranii (MIP) is a potent vaccine candidate against tuberculosis (TB) as it has demonstrated significant protection in animal models of tuberculosis as well as in clinical trials. Higher protective efficacy of MIP against TB as compared to BCG provoked the efforts to gain insight into the molecular mechanisms underlying MIP mediated protection against Mycobacterium tuberculosis (M.tb). Autophagy, initially described as a cell survival mechanism during starvation, also plays a key role in host resistance to M.tb. Virulent mycobacteria like M.tb, suppresses host autophagy response to increase its survival in macrophages. Since mycobacterial species have been shown to vary widely in their autophagy-inducing properties, in the present study, we examined the autophagy inducing efficacy of MIP and its role in MIP-mediated protection against M.tb. MIP was found to be potent inducer of autophagy in macrophages. Induced autophagy was responsible for reversal of the phagosome maturation block and phagolysosome fusion inhibition in M.tb infected macrophages, which ultimately lead to significantly enhanced clearance of M.tb from the macrophages. This is an important study which further delineated the underlying mechanisms for significant immunotherapeutic activity observed in TB patients / animal models of tuberculosis, given MIP therapy along with chemotherapy.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "28611374",
+      "title": "Efficacy and Safety of Mycobacterium indicus pranii as an adjunct therapy in Category II pulmonary tuberculosis in a randomized trial.",
+      "authors": [
+        "Surendra K Sharma",
+        "Kiran Katoch",
+        "Rohit Sarin",
+        "Raman Balambal",
+        "Nirmal Kumar Jain",
+        "Naresh Patel",
+        "Kolluri J R Murthy",
+        "Neeta Singla",
+        "P K Saha",
+        "Ashwani Khanna",
+        "Urvashi Singh",
+        "Sanjiv Kumar",
+        "A Sengupta",
+        "J N Banavaliker",
+        "D S Chauhan",
+        "Shailendra Sachan",
+        "Mohammad Wasim",
+        "Sanjay Tripathi",
+        "Nilesh Dutt",
+        "Nitin Jain",
+        "Nalin Joshi",
+        "Sita Ram Raju Penmesta",
+        "Sumanlatha Gaddam",
+        "Sanjay Gupta",
+        "Bakulesh Khamar",
+        "Bindu Dey",
+        "Dipendra K Mitra",
+        "Sunil K Arora",
+        "Sangeeta Bhaskar",
+        "Rajni Rani"
+      ],
+      "year": "2017",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-017-03514-1",
+      "doi_link": "https://doi.org/10.1038/s41598-017-03514-1",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28611374",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Efficacy%20and%20Safety%20of%20Mycobacterium%20indicus%20pranii%20as%20an%20adjunct%20therapy%20in%20Category%20II%20pulmonary%20tuberculosis%20in%20a%20randomized%20trial%22",
+      "citations": {
+        "semantic_scholar": 95
+      },
+      "abstract": "Prolonged treatment of tuberculosis (TB) often leads to poor compliance, default and relapse, converting primary TB patients into category II TB (Cat IITB) cases, many of whom may convert to multi-drug resistant TB (MDR-TB). We have evaluated the immunotherapeutic potential of Mycobacterium indicus pranii (MIP) as an adjunct to Anti-Tubercular Treatment (ATT) in Cat II pulmonary TB (PTB) patients in a prospective, randomized, double blind, placebo controlled, multicentric clinical trial. 890 sputum smear positive Cat II PTB patients were randomized to receive either six intra-dermal injections (2 + 4) of heat-killed MIP at a dose of 5 × 108 bacilli or placebo once in 2 weeks for 2 months. Sputum smear and culture examinations were performed at different time points. MIP was safe with no adverse effects. While sputum smear conversion did not show any statistically significant difference, significantly higher number of patients (67.1%) in the MIP group achieved sputum culture conversion at fourth week compared to the placebo (57%) group (p = 0.0002), suggesting a role of MIP in clearance of the bacilli. Since live bacteria are the major contributors for sustained incidence of TB, the potential of MIP in clearance of the bacilli has far reaching implications in controlling the spread of the disease.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "27865389",
+      "title": "Mycobacterium indicus pranii as a booster vaccine enhances BCG induced immunity and confers higher protection in animal models of tuberculosis.",
+      "authors": [
+        "Mohd Saqib",
+        "Rahul Khatri",
+        "Bindu Singh",
+        "Ananya Gupta",
+        "Arvind Kumar",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2016",
+      "journal": "Tuberculosis (Edinburgh, Scotland)",
+      "doi": "10.1016/j.tube.2016.10.002",
+      "doi_link": "https://doi.org/10.1016/j.tube.2016.10.002",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27865389",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mycobacterium%20indicus%20pranii%20as%20a%20booster%20vaccine%20enhances%20BCG%20induced%20immunity%20and%20confers%20higher%20protection%20in%20animal%20models%20of%20tuberculosis%22",
+      "citations": {
+        "semantic_scholar": 23
+      },
+      "abstract": "BCG, the only approved vaccine protects against severe form of childhood tuberculosis but its protective efficacy wanes in adolescence. BCG has reduced the incidence of infant TB considerably in endemic areas; therefore prime-boost strategy is the most realistic measure for control of tuberculosis in near future. Mycobacterium indicus pranii (MIP) shares significant antigenic repertoire with Mtb and BCG and has been shown to impart significant protection in animal models of tuberculosis. In this study, MIP was given as a booster to BCG vaccine which enhanced the BCG mediated immune response, resulting in higher protection. MIP booster via aerosol route was found to be more effective in protection than subcutaneous route of booster immunization. Pro-inflammatory cytokines like IFN-γ, IL-12 and IL-17 were induced at higher level in infected lungs of 'BCG-MIP' group both at mRNA expression level and in secretory form when compared with 'only BCG' group. BCG-MIP groups had increased frequency of multifunctional T cells with high MFI for IFN-γ and TNF-α in Mtb infected mice. Our data demonstrate for the first time, potential application of MIP as a booster to BCG vaccine for efficient protection against tuberculosis. This could be very cost effective strategy for efficient control of tuberculosis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "25593326",
+      "title": "Mycobacterium indicus pranii induces dendritic cell activation, survival, and Th1/Th17 polarization potential in a TLR-dependent manner.",
+      "authors": [
+        "Pawan Kumar",
+        "Vini John",
+        "Soumitra Marathe",
+        "Gobardhan Das",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2015",
+      "journal": "Journal of leukocyte biology",
+      "doi": "10.1189/jlb.1A0714-361R",
+      "doi_link": "https://doi.org/10.1189/jlb.1A0714-361R",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25593326",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mycobacterium%20indicus%20pranii%20induces%20dendritic%20cell%20activation%2C%20survival%2C%20and%20Th1/Th17%20polarization%20potential%20in%20a%20TLR-dependent%20manner%22",
+      "citations": {
+        "semantic_scholar": 22
+      },
+      "abstract": "MIP is a nonpathogenic, soil-borne predecessor of Mycobacterium avium. It has been reported previously that MIP possesses strong immunomodulatory properties and confers protection against experimental TB and tumor. DCs, by virtue of their unmatched antigen-presentation potential, play a critical role in activation of antitumor and antimycobacterial immune response. The effect of MIP on the behavior of DCs and the underlying mechanisms, however, have not been investigated so far. In the present study, we showed that MIP induces significant secretion of IL-6, IL-12p40, IL-10, and TNF-α by DCs and up-regulates the expression of costimulatory molecules CD40, CD80, and CD86. MIP(L) induced a significantly higher response compared with MIP(K). PI and Annexin V staining showed that MIP increases DC survival by inhibiting apoptosis. Consistently, higher expression of antiapoptotic proteins Bcl-2 and Bcl-xl was observed in MIP-stimulated DCs. Cytokines, produced by naïve T cells, cocultured with MIP-stimulated DCs, showed that MIP promotes Th1/Th17 polarization potential in DCs. Response to MIP was lost in MyD88(-/-)DCs, underscoring the critical role of TLRs in MIP-induced DC activation. Further studies revealed that TLR2 and TLR9 are involved in DC activation by MIP(L), whereas MIP(K) activates the DCs through TLR2. Our findings establish the DC activation by MIP, define the behavior of MIP-stimulated DCs, and highlight the role of TLRs in MIP-induced DC activation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "24766519",
+      "title": "Mycobacterium indicus pranii and Mycobacterium bovis BCG lead to differential macrophage activation in Toll-like receptor-dependent manner.",
+      "authors": [
+        "Pawan Kumar",
+        "Rohit Tyagi",
+        "Gobardhan Das",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2014",
+      "journal": "Immunology",
+      "doi": "10.1111/imm.12306",
+      "doi_link": "https://doi.org/10.1111/imm.12306",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24766519",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mycobacterium%20indicus%20pranii%20and%20Mycobacterium%20bovis%20BCG%20lead%20to%20differential%20macrophage%20activation%20in%20Toll-like%20receptor-dependent%20manner%22",
+      "citations": {
+        "semantic_scholar": 44
+      },
+      "abstract": "Mycobacterium indicus pranii (MIP) is an atypical mycobacterial species possessing strong immunomodulatory properties. It is a potent vaccine candidate against tuberculosis, promotes Th1 immune response and protects mice from tumours. In previous studies, we demonstrated higher protective efficacy of MIP against experimental tuberculosis as compared with bacillus Calmette-Guérin (BCG). Since macrophages play an important role in the pathology of mycobacterial diseases and cancer, in the present study, we evaluated the MIP in live and killed form for macrophage activation potential, compared it with BCG and investigated the underlying mechanisms. High levels of tumour necrosis factor-α, interleukin-12p40 (IL-12p40), IL-6 and nitric oxide were produced by MIP-stimulated macrophages as compared with BCG-stimulated macrophages. Prominent up-regulation of co-stimulatory molecules CD40, CD80 and CD86 was also observed in response to MIP. Loss of response in MyD88-deficient macrophages showed that both MIP and BCG activate the macrophages in a MyD88-dependent manner. MyD88 signalling pathway culminates in nuclear factor-κB/activator protein-1 (NF-κB/AP-1) activation and higher activation of NF-κB/AP-1 was observed in response to MIP. With the help of pharmacological inhibitors and Toll-like receptor (TLR) -deficient macrophages, we observed the role of TLR2, TLR4 and intracellular TLRs in MIP-mediated macrophage activation. Stimulation of HEK293 cells expressing TLR2 in homodimeric or heterodimeric form showed that MIP has a distinctly higher level of TLR2 agonist activity compared with BCG. Further experiments suggested that TLR2 ligands are well exposed in MIP whereas they are obscured in BCG. Our findings establish the higher macrophage activation potential of MIP compared with BCG and delineate the underlying mechanism.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "27471704",
+      "title": "Nanocarrier-based immunotherapy in cancer management and research.",
+      "authors": [
+        "Manu Smriti Singh",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2014",
+      "journal": "ImmunoTargets and therapy",
+      "doi": "10.2147/ITT.S62471",
+      "doi_link": "https://doi.org/10.2147/ITT.S62471",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27471704",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Nanocarrier-based%20immunotherapy%20in%20cancer%20management%20and%20research%22",
+      "citations": {
+        "semantic_scholar": 13
+      },
+      "abstract": "Research in cancer immunotherapy has gained momentum in the last two decades, with many studies and clinical trials showing positive therapeutic outcomes. Immunotherapy can elicit not only a strong anticancer immune response which could even control metastases, but could also induce immunological memory, resulting in long-lasting protection in the prophylactic setting and protection against possible recurrence. Nanocarriers offer an attractive means for delivery of a multitude of therapeutic immunomodulators which are readily taken up by immune cells and can initiate a particular arm of an immunostimulatory cascade leading to tumor cell killing. This review focuses on recent advances in nanocarrier-mediated immunotherapy for the treatment of cancer. Both in vitro and in vivo studies as well as clinical progress are discussed in various sections. Description of the specific role of nanoparticle technology in immunotherapy highlights the way particles can be tailor-made in terms of size, structure, payload, and surface properties for active targeting to antigen-presenting cells and/or enhanced accumulation in the solid tumor.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "23376226",
+      "title": "Nanoparticle mediated co-delivery of paclitaxel and a TLR-4 agonist results in tumor regression and enhanced immune response in the tumor microenvironment of a mouse model.",
+      "authors": [
+        "Aniruddha Roy",
+        "Manu Smriti Singh",
+        "Pramod Upadhyay",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2013",
+      "journal": "International journal of pharmaceutics",
+      "doi": "10.1016/j.ijpharm.2013.01.045",
+      "doi_link": "https://doi.org/10.1016/j.ijpharm.2013.01.045",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23376226",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Nanoparticle%20mediated%20co-delivery%20of%20paclitaxel%20and%20a%20TLR-4%20agonist%20results%20in%20tumor%20regression%20and%20enhanced%20immune%20response%20in%20the%20tumor%20microenvironment%20of%20a%20mouse%20model%22",
+      "citations": {
+        "crossref": 60
+      },
+      "abstract": "Inefficiency of cancer chemotherapy to improve life expectancy in majority of patients raises serious concern and warrants development of novel therapeutic strategies. Immunotherapy in combination with chemotherapy has shown promising outcomes in recent years. Herein, we report better tumor regression and enhancement of antitumor immune response at the tumor microenvironment by co-delivery of paclitaxel and a TLR4 agonist through a PLGA based nanoparticle preparation (TLNP). Particle characterization showed high encapsulation of both components and retention of their biological activities. In vivo tumor regression studies demonstrated clear benefit of TLNP over the paclitaxel. The mean tumor volume of the TLNP treated animals was found to be 40% less than that of the Paclitaxel treated animals. Flow cytometric analysis of tumor infiltrating immune cells indicated activation of antigen presenting cells and T-cells providing evidence of Th1 immune response. In vivo results are promising and could pave way for novel chemo-immunotherapeutic treatment modality.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper21",
+      "publication_id": "22871353",
+      "title": "Protective efficacy of Mycobacterium indicus pranii against tuberculosis and underlying local lung immune responses in guinea pig model.",
+      "authors": [
+        "Ankan Gupta",
+        "F J Ahmad",
+        "Faiz Ahmad",
+        "U D Gupta",
+        "M Natarajan",
+        "V M Katoch",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2012",
+      "journal": "Vaccine",
+      "doi": "10.1016/j.vaccine.2012.07.061",
+      "doi_link": "https://doi.org/10.1016/j.vaccine.2012.07.061",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22871353",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Protective%20efficacy%20of%20Mycobacterium%20indicus%20pranii%20against%20tuberculosis%20and%20underlying%20local%20lung%20immune%20responses%20in%20guinea%20pig%20model%22",
+      "citations": {
+        "semantic_scholar": 44
+      },
+      "abstract": "Tuberculosis kills two million people each year. As the current vaccine BCG fails to prevent adult cases of TB, an improved vaccine and/or vaccination strategy is urgently needed to combat TB. Previously we reported the higher protective efficacy of Mycobacterium indicus pranii (MIP), formerly known as Mycobacterium w (M.w) as compared to BCG in murine model of TB. In this study we further evaluated the protective efficacy of MIP in guinea pig model of TB. Modulation of post infection immune response was analyzed in the lungs of MIP immunized and control groups. We found reduced bacterial loads, improved pathology and organized granulomatous response at different post infection time points in the MIP-immunized group as compared to the BCG-immunized group. Combined results suggest that MIP-immunization results in heightened protective Th1 response as compared to BCG group, early after infection with M.tb and a balanced Th1 versus immunosuppressive response at late chronic stage of infection. The study demonstrates the higher antigen presenting cells function both inside the granuloma as well as in the single cell suspension of the lung in the MIP-immunized group. We further demonstrate that live MIP is safe to use in vivo as we observed quick clearance of MIP from the body and no untoward reaction was found. Aerosol route of immunization provided higher protection. Further this study provides evidence that MIP-immunization gives significantly better long term protection as compared to BCG against TB.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper22",
+      "publication_id": "22844392",
+      "title": "Efficacy of Mycobacterium indicus pranii immunotherapy as an adjunct to chemotherapy for tuberculosis and underlying immune responses in the lung.",
+      "authors": [
+        "Ankan Gupta",
+        "Farhan J Ahmad",
+        "Faiz Ahmad",
+        "Umesh D Gupta",
+        "Mohan Natarajan",
+        "Vishwamohan Katoch",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2012",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0039215",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0039215",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22844392",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Efficacy%20of%20Mycobacterium%20indicus%20pranii%20immunotherapy%20as%20an%20adjunct%20to%20chemotherapy%20for%20tuberculosis%20and%20underlying%20immune%20responses%20in%20the%20lung%22",
+      "citations": {
+        "semantic_scholar": 62
+      },
+      "abstract": "BACKGROUND: The 9-month-long chemotherapy of tuberculosis often results in poor compliance and emergence of drug-resistant strains. So, improved therapeutic strategy is urgently needed. Immunotherapy could be beneficial for the effective management of the disease. Previously we showed the protective efficacy of Mycobacterium indicus pranii (MIP) when given as prophylactic vaccine in animal models of tuberculosis. METHODS: We sought to investigate whether MIP can be used as an adjunct to the chemotherapy in guinea pig models of tuberculosis. Efficacy of MIP was evaluated when given subcutaneously or by aerosol. RESULTS: MIP-therapy as an adjunct to the chemotherapy was found to be effective in accelerating bacterial killing and improving organ pathology. MIP-immunotherapy resulted in higher numbers of activated antigen-presenting cells and lymphocytes in the infected lungs and also modulated the granulomatous response. Early increase in protective Th1 immune response was observed in the immunotherapy group. Following subsequent doses of MIP, decrease in the inflammatory response and increase in the immunosuppressive response was observed, which resulted in the improvement of lung pathology. CONCLUSION: MIP immunotherapy is a valuable adjunct to chemotherapy for tuberculosis. Aerosol route of immunotherapy can play a crucial role for inducing immediate local immune response in the lung.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper23",
+      "publication_id": "22547032",
+      "title": "Anticancer and immunostimulatory activity by conjugate of paclitaxel and non-toxic derivative of LPS for combined chemo-immunotherapy.",
+      "authors": [
+        "Aniruddha Roy",
+        "Sourav Chandra",
+        "Swapna Mamilapally",
+        "Pramod Upadhyay",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2012",
+      "journal": "Pharmaceutical research",
+      "doi": "10.1007/s11095-012-0756-y",
+      "doi_link": "https://doi.org/10.1007/s11095-012-0756-y",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22547032",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Anticancer%20and%20immunostimulatory%20activity%20by%20conjugate%20of%20paclitaxel%20and%20non-toxic%20derivative%20of%20LPS%20for%20combined%20chemo-immunotherapy%22",
+      "citations": {
+        "semantic_scholar": 33
+      },
+      "abstract": "PURPOSE: Cancer is a multifactorial syndrome; hence, multidimensional therapy with a chemo-immunotherapeutic conjugate could be more effective in curing the disease. METHODS: We used SP-LPS, a bio-polymer having potent immunostimulatory activity, for conjugation with paclitaxel to make a chemo-immunotherapeutic conjugate. Its physicochemical characterization was done by HPLC, NMR and IR spectra. Stability was measured at different pH, temperature and in tissue homogenates. Chemotherapeutic and immunostimulatory activity was evaluated in vitro and also in tumor microenvironment. RESULTS: The conjugate self assembled into nanoparticulate structure, probably due to micelle formation. Stability was pH and temperature dependent. The conjugate exhibited chemotherapeutic and immunotherapeutic activity in vitro. In vivo antitumor activity was significantly higher and a higher percentage of activated immune cells were found in the tumor microenvironment of the conjugate-treated mice as compared to Taxol®-treated group. CONCLUSIONS: This conjugate is a potential chemo-immunotherapeutic compound for the treatment of cancer with advantages over present day chemotherapy with Taxol in terms of higher anticancer activity, less toxicity and ease of delivery.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper24",
+      "publication_id": "22363798",
+      "title": "Adjuvant properties of thermal component of hyperthermia enhanced transdermal immunization: effect on dendritic cells.",
+      "authors": [
+        "Neha Joshi",
+        "Vikas Duhan",
+        "Neelam Lingwal",
+        "Sangeeta Bhaskar",
+        "Pramod Upadhyay"
+      ],
+      "year": "2012",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0032067",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0032067",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22363798",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Adjuvant%20properties%20of%20thermal%20component%20of%20hyperthermia%20enhanced%20transdermal%20immunization%3A%20effect%20on%20dendritic%20cells%22",
+      "citations": {
+        "crossref": 12
+      },
+      "abstract": "Hyperthermia enhanced transdermal (HET) immunization is a novel needle free immunization strategy employing application of antigen along with mild local hyperthermia (42°C) to intact skin resulting in detectable antigen specific Ig in serum. In the present study, we investigated the adjuvant effect of thermal component of HET immunization in terms of maturation of dendritic cells and its implication on the quality of the immune outcome in terms of antibody production upon HET immunization with tetanus toxoid (TT). We have shown that in vitro hyperthermia exposure at 42°C for 30 minutes up regulates the surface expression of maturation markers on bone marrow derived DCs. This observation correlated in vivo with an increased and accelerated expression of maturation markers on DCs in the draining lymph node upon HET immunization in mice. This effect was found to be independent of the antigen delivered and depends only on the thermal component of HET immunization. In vitro hyperthermia also led to enhanced capacity to stimulate CD4+ T cells in allo MLR and promotes the secretion of IL-10 by BMDCs, suggesting a potential for Th2 skewing of T cell response. HET immunization also induced a systemic T cell response to TT, as suggested by proliferation of splenocytes from immunized animal upon in vitro stimulation by TT. Exposure to heat during primary immunization led to generation of mainly IgG class of antibodies upon boosting, similar to the use of conventional alum adjuvant, thus highlighting the adjuvant potential of heat during HET immunization. Lastly, we have shown that mice immunized by tetanus toxoid using HET route exhibited protection against challenge with a lethal dose of tetanus toxin. Thus, in addition to being a painless, needle free delivery system it also has an immune modulatory potential.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper25",
+      "publication_id": "22093248",
+      "title": "Diagnosis of tuberculosis: the experience at a specialized diagnostic laboratory.",
+      "authors": [
+        "Anita Mashta",
+        "Pooja Mishra",
+        "Sonia Philipose",
+        "S Tamilzhalagan",
+        "Hanif Mahmud",
+        "Sangeeta Bhaskar",
+        "Pramod Upadhyay"
+      ],
+      "year": "2011",
+      "journal": "Journal of negative results in biomedicine",
+      "doi": "10.1186/1477-5751-10-16",
+      "doi_link": "https://doi.org/10.1186/1477-5751-10-16",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22093248",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Diagnosis%20of%20tuberculosis%3A%20the%20experience%20at%20a%20specialized%20diagnostic%20laboratory%22",
+      "citations": {
+        "semantic_scholar": 7
+      },
+      "abstract": "This work describes the experience at a tuberculosis clinical laboratory where relatively new TB diagnosis technologies; nucleic acid detection of two target strands, IS6110 and devR, by PCR and microscopic observation drug susceptibility (MODS) were used. The LJ culture was the gold standard. This evaluation was done from August 2007 to July 2009 on 463 sputum samples of tuberculosis suspects at a specialized tuberculosis clinic in Delhi, India.None of the tests we evaluated can accurately detect the presence or absence of Mycobacterium tuberculosis in all the samples and smear microscopy was found to be the most reliable assay in this study.The PCR assay could detect down to 2 pg of H37Rv DNA. Sensitivity, specificity was 0.40, 0.60 and 0.19, 0.81 for smear positive (n = 228) and negative samples (n = 235) respectively. In the MODS assay, sensitivity, specificity of 0.48, 0.52 and 0.38, 0.76 was observed for smear positive and negative samples. Sputum smear microscopy had sensitivity of 0.77 and specificity of 0.70.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper26",
+      "publication_id": "21984926",
+      "title": "Activation of anti-tumor immune response and reduction of regulatory T cells with Mycobacterium indicus pranii (MIP) therapy in tumor bearing mice.",
+      "authors": [
+        "Faiz Ahmad",
+        "Jiju Mani",
+        "Pawan Kumar",
+        "Seenu Haridas",
+        "Pramod Upadhyay",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2011",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0025424",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0025424",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21984926",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Activation%20of%20anti-tumor%20immune%20response%20and%20reduction%20of%20regulatory%20T%20cells%20with%20Mycobacterium%20indicus%20pranii%20%28MIP%29%20therapy%20in%20tumor%20bearing%20mice%22",
+      "citations": {
+        "semantic_scholar": 58
+      },
+      "abstract": "BACKGROUND: Role of immune system in protecting the host from cancer is well established. Growing cancer however subverts immune response towards Th2 type and escape from antitumor mechanism of the host. Activation of both innate and Th1 type response is crucial for host antitumor activity. In our previous study it was found, that Mycobacterium indicus pranii (MIP) also known as M. w induces Th1 type response and activates macrophages in animal model of tuberculosis. Hence, we studied the immunotherapeutic potential of MIP in mouse tumor model and the underlying mechanisms for its antitumor activity. METHODOLOGY AND PRINCIPAL FINDINGS: Tumors were implanted by injecting B16F10 melanoma cells subcutaneously into C57BL/6 mice. Using the optimized dose and treatment regimes, anti-tumor efficacy of heat killed MIP was evaluated. In MIP treated group, tumor appeared in only 50-60% of mice, tumor growth was delayed and tumor volume was less as compared to control. MIP mediated immune activation was analysed in the tumor microenvironment, tumor draining lymph node and spleen. Induction of Th1 response and higher infiltration of immune cells in the tumor microenvironment was observed in MIP treated mice. A large fraction of these immune cells were in activated state as confirmed by phenotypic and functional analysis. Interestingly, percentage of Treg cells in the tumor milieu of treated mice was less. We also evaluated efficacy of MIP along with chemotherapy and found a better response as compared to chemotherapy alone. CONCLUSION: MIP therapy is effective in protecting mice from tumor. It activates the immune cells, increases their infiltration in tumor, and abrogates tumor mediated immune suppression.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper27",
+      "publication_id": "20822093",
+      "title": "Combined chemo-immunotherapy as a prospective strategy to combat cancer: a nanoparticle based approach.",
+      "authors": [
+        "Aniruddha Roy",
+        "Manu Smriti Singh",
+        "Pramod Upadhyay",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2010",
+      "journal": "Molecular pharmaceutics",
+      "doi": "10.1021/mp100153r",
+      "doi_link": "https://doi.org/10.1021/mp100153r",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20822093",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Combined%20chemo-immunotherapy%20as%20a%20prospective%20strategy%20to%20combat%20cancer%3A%20a%20nanoparticle%20based%20approach%22",
+      "citations": {
+        "semantic_scholar": 50
+      },
+      "abstract": "The prime objective of this study was to develop a combined chemo-immunotherapeutic formulation which could directly kill cancer cells as well as activate the immunosuppressed tumor microenvironment to mount a robust antitumor immune response. Paclitaxel (PTX) and SP-LPS (nontoxic derivative of lipopolysaccharide) were selected as anticancer drug and immunostimulant respectively. Poly(lactic-co-glycolic acid) (PLGA) based PTX and SP-LPS containing nanoparticles (TLNP) were prepared by the double-emulsion method (w/o/w) and characterized in terms of size, zeta potential and transmission electron microscopy (TEM). The release behavior of PTX and SP-LPS from the TLNP exhibited a biphasic pattern characterized by an initial burst followed by slow continuous release. In vitro anticancer activity of TLNP was found to be higher compared to PTX when studied in a tumor cell-splenocyte coculture system. TLNP activated murine monocytes induced the secretion of various proinflammatory cytokines. After iv administration of TLNP in tumor bearing C57BL/6 mice, the amount of PTX in the tumor mass was found to be higher in TLNP treated mice as compared to commercial Taxol group at all time points studied. In vitro studies suggest that nanoparticles containing PTX and SP-LPS have both direct cytotoxicity and immunostimulatory activity. Hence this might have potential as a chemo-immunotherapeutic formulation against cancer with advantage over present day chemotherapy with Taxol, in terms of tumor targeting, less toxicity and immunostimulation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper28",
+      "publication_id": "18981249",
+      "title": "Immunogenicity and protective efficacy of \"Mycobacterium w\" against Mycobacterium tuberculosis in mice immunized with live versus heat-killed M. w by the aerosol or parenteral route.",
+      "authors": [
+        "Ankan Gupta",
+        "Nishamol Geetha",
+        "Jiju Mani",
+        "Pramod Upadhyay",
+        "V M Katoch",
+        "M Natrajan",
+        "U D Gupta",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2009",
+      "journal": "Infection and immunity",
+      "doi": "10.1128/IAI.00526-08",
+      "doi_link": "https://doi.org/10.1128/IAI.00526-08",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18981249",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Immunogenicity%20and%20protective%20efficacy%20of%20%22Mycobacterium%20w%22%20against%20Mycobacterium%20tuberculosis%20in%20mice%20immunized%20with%20live%20versus%20heat-killed%20M.%20w%20by%20the%20aerosol%20or%20parenteral%20route%22",
+      "citations": {
+        "semantic_scholar": 58
+      },
+      "abstract": "As the disease caused by Mycobacterium tuberculosis continues to be a burden, there is a concerted effort to find new vaccines to combat this problem. One of the important vaccine strategies is whole bacterial vaccines. This approach relies on multiple antigens and built-in adjuvanticity. Other mycobacterial strains which share cross-reactive antigens with M. tuberculosis have been considered as alternatives to M. bovis for vaccine use. One such strain, \"Mycobacterium w\", had been evaluated for its immunomodulatory properties in leprosy. A vaccine against leprosy based on killed M. w is approved for human use, where it has resulted in clinical improvement, accelerated bacterial clearance, and increased immune responses to Mycobacterium leprae antigens. M. w shares antigens not only with M. leprae but also with M. tuberculosis, and initial studies have shown that vaccination with killed M. w induces protection against tuberculosis in Mycobacterium bovis BCG responder, as well as BCG nonresponder, strains of mice. Hence, we further studied the protective potential of M. w and the underlying immune responses in the mouse model of tuberculosis. We analyzed the protective efficacy of M. w immunization in both live and killed forms through the parenteral route and by aerosol immunization, compared with that of BCG. Our findings provide evidence that M. w has potential protective efficacy against M. tuberculosis. M. w activates macrophage activity, as well as lymphocytes. M. w immunization by both the parenteral route and aerosol administration gives higher protection than BCG given by the parenteral route in the mouse model of tuberculosis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper29",
+      "publication_id": "14642308",
+      "title": "Large-scale validation of a latex agglutination test for diagnosis of tuberculosis.",
+      "authors": [
+        "Sangeeta Bhaskar",
+        "Jayant Nagesh Banavaliker",
+        "Mahmud Hanif"
+      ],
+      "year": "2003",
+      "journal": "FEMS immunology and medical microbiology",
+      "doi": "10.1016/S0928-8244(03)00232-3",
+      "doi_link": "https://doi.org/10.1016/S0928-8244(03)00232-3",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/14642308",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Large-scale%20validation%20of%20a%20latex%20agglutination%20test%20for%20diagnosis%20of%20tuberculosis%22",
+      "citations": {
+        "semantic_scholar": 13
+      },
+      "abstract": "Large-scale validation of a simple latex agglutination test for the diagnosis of tuberculosis is described. Soluble antigens extracted from a non-pathogenic saprophytic mycobacterium, Mycobacterium w, which shares antigenic determinants with Mycobacterium tuberculosis, were covalently linked to carboxylated polystyrene latex beads. Batch to batch reproducibility of coated latex was ensured. Latex reagents were standardized to overcome non-specific agglutination. Reagents of the test are stable for 1 year at 4 degrees C. A total of 1,058 serum samples of pulmonary and extrapulmonary tuberculosis patients or patients with other pulmonary diseases and healthy controls living in endemic areas were tested. Sensitivity of 94% for pulmonary tuberculosis and 87% for extrapulmonary tuberculosis was obtained. Specificity is 92.2% for healthy controls and patients with other respiratory diseases. We conclude that the latex agglutination test can be utilized for mass screening for both pulmonary and extrapulmonary tuberculosis where diagnosis by existing methods is much more difficult.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper30",
+      "publication_id": "12672600",
+      "title": "Design and evaluation of an aerosol infection chamber for small animals.",
+      "authors": [
+        "Sangeeta Bhaskar",
+        "Pramod Upadhyay"
+      ],
+      "year": "2003",
+      "journal": "International journal of pharmaceutics",
+      "doi": "10.1016/s0378-5173(03)00023-1",
+      "doi_link": "https://doi.org/10.1016/s0378-5173(03)00023-1",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12672600",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Design%20and%20evaluation%20of%20an%20aerosol%20infection%20chamber%20for%20small%20animals%22",
+      "citations": {
+        "semantic_scholar": 13
+      },
+      "abstract": "In this report, we describe the design of an aerosol exposure chamber to reproducibly produce uniformly distributed clouds of droplet nuclei. The device can deliver desired number of bacilli (20-2000) in lungs of mice. All safety measures to handle infectious bacteria have been incorporated in the design and it is controlled remotely by a personal computer. It is an indispensable device to study the protective efficacy of vaccine candidates against Mycobacterium tuberculosis infection. This device would also be useful to study immunization and drug delivery by nasal route in experimental animals.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper31",
+      "publication_id": "11983231",
+      "title": "A novel ultrasound-enhanced latex agglutination test for the detection of antibodies against Mycobacterium tuberculosis in serum.",
+      "authors": [
+        "Sangeeta Bhaskar",
+        "J N Banavaliker",
+        "Kameshwar Bhardwaj",
+        "Pramod Upadhyay"
+      ],
+      "year": "2002",
+      "journal": "Journal of immunological methods",
+      "doi": "10.1016/s0022-1759(02)00024-8",
+      "doi_link": "https://doi.org/10.1016/s0022-1759(02)00024-8",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/11983231",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20novel%20ultrasound-enhanced%20latex%20agglutination%20test%20for%20the%20detection%20of%20antibodies%20against%20Mycobacterium%20tuberculosis%20in%20serum%22",
+      "citations": {
+        "semantic_scholar": 19
+      },
+      "abstract": "A novel ultrasound-enhanced latex agglutination test is described for the detection of serum antibodies against Mycobacterium tuberculosis. The use of ultrasound to detect the low level of antibodies in serum enhances the sensitivity of the test. The technique is based on the fact that suspended latex particles become concentrated in an ultrasonic standing wave field, thereby increasing the rate of particle-particle collisions compared to the standard agglutination test procedure. Reactions were performed on piezo-ceramic wafers, which were connected to an oscillator at a frequency of 100 kHz. This method improved sensitivity significantly so that even 20 times diluted serum samples exhibited agglutination, which was clearly visible to the naked eye.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 31,
+    "publications_by_year": {
+      "2024": 1,
+      "2023": 3,
+      "2021": 1,
+      "2019": 6,
+      "2018": 2,
+      "2017": 2,
+      "2016": 1,
+      "2015": 1,
+      "2014": 2,
+      "2013": 1,
+      "2012": 4,
+      "2011": 2,
+      "2010": 1,
+      "2009": 1,
+      "2003": 2,
+      "2002": 1
+    },
+    "top_journals": [
+      "PloS one",
+      "Frontiers in immunology",
+      "International immunopharmacology",
+      "BMC research notes",
+      "International journal of pharmaceutics"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 92,
+      "frequent_collaborators": [
+        "Sangeeta Bhaskar",
+        "Pramod Upadhyay",
+        "Bharati Swami",
+        "Mohd Saqib",
+        "Ananya Gupta",
+        "Gargi Roy",
+        "Pawan Kumar",
+        "Bindu Singh"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "28611374",
+        "title": "Efficacy and Safety of Mycobacterium indicus pranii as an adjunct therapy in Category II pulmonary tuberculosis in a randomized trial.",
+        "citations": 95,
+        "year": "2017"
+      },
+      {
+        "publication_id": "22844392",
+        "title": "Efficacy of Mycobacterium indicus pranii immunotherapy as an adjunct to chemotherapy for tuberculosis and underlying immune responses in the lung.",
+        "citations": 62,
+        "year": "2012"
+      },
+      {
+        "publication_id": "23376226",
+        "title": "Nanoparticle mediated co-delivery of paclitaxel and a TLR-4 agonist results in tumor regression and enhanced immune response in the tumor microenvironment of a mouse model.",
+        "citations": 60,
+        "year": "2013"
+      }
+    ]
+  }
+}

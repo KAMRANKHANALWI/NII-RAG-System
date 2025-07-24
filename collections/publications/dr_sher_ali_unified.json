@@ -1,0 +1,267 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Sher Ali",
+    "email": "alisher@nii.res.in",
+    "source_url": "https://www.nii.res.in/en/former-faculty/dr-sher-ali",
+    "research_domain": "Former",
+    "faculty_status": "former",
+    "search_date": "2025-06-30T11:50:39.085165",
+    "total_publications": 10,
+    "last_updated": "2025-06-30",
+    "description": "This document contains a complete list of publications by Dr. Sher Ali, former faculty in Former at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "18366692",
+      "title": "Organization and differential expression of the GACA/GATA tagged somatic and spermatozoal transcriptomes in Buffalo Bubalus bubalis.",
+      "authors": [
+        "Jyoti Srivastava",
+        "Sanjay Premi",
+        "Sudhir Kumar",
+        "Sher Ali"
+      ],
+      "year": "2008",
+      "journal": "BMC genomics",
+      "doi": "10.1186/1471-2164-9-132",
+      "doi_link": "https://doi.org/10.1186/1471-2164-9-132",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18366692",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Organization%20and%20differential%20expression%20of%20the%20GACA/GATA%20tagged%20somatic%20and%20spermatozoal%20transcriptomes%20in%20Buffalo%20Bubalus%20bubalis%22",
+      "citations": {
+        "crossref": 10
+      },
+      "abstract": "BACKGROUND: Simple sequence repeats (SSRs) of GACA/GATA have been implicated with differentiation of sex-chromosomes and speciation. However, the organization of these repeats within genomes and transcriptomes, even in the best characterized organisms including human, remains unclear. The main objective of this study was to explore the buffalo transcriptome for its association with GACA/GATA repeats, and study the structural organization and differential expression of the GACA/GATA repeat tagged transcripts. Moreover, the distribution of GACA and GATA repeats in the prokaryotic and eukaryotic genomes was studied to highlight their significance in genome evolution. RESULTS: We explored several genomes and transcriptomes, and observed total absence of these repeats in the prokaryotes, with their gradual accumulation in higher eukaryotes. Further, employing novel microsatellite associated sequence amplification (MASA) approach using varying length oligos based on GACA and GATA repeats; we identified and characterized 44 types of known and novel mRNA transcripts tagged with these repeats from different somatic tissues, gonads and spermatozoa of water buffalo Bubalus bubalis. GACA was found to be associated with higher number of transcripts compared to that with GATA. Exclusive presence of several GACA-tagged transcripts in a tissue or spermatozoa, and absence of the GATA-tagged ones in lung/heart highlights their tissue-specific significance. Of all the GACA/GATA tagged transcripts, approximately 30% demonstrated inter-tissue and/or tissue-spermatozoal sequence polymorphisms. Significantly, approximately 60% of the GACA-tagged and all the GATA-tagged transcripts showed highest or unique expression in the testis and/or spermatozoa. Moreover, approximately 75% GACA-tagged and all the GATA-tagged transcripts were found to be conserved across the species. CONCLUSION: Present study is a pioneer attempt exploring GACA/GATA tagged transcriptome in any mammalian species highlighting their tissue, stage and species-specific expression profiles. Comparative analysis suggests the gradual accumulation of these repeats in the higher eukaryotes, and establishes the GACA richness of the buffalo transcriptome. This is envisaged to establish the roles of integral simple sequence repeats and tagged transcripts in gene expression or regulation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "19030103",
+      "title": "Startling mosaicism of the Y-chromosome and tandem duplication of the SRY and DAZ genes in patients with Turner Syndrome.",
+      "authors": [
+        "Sanjay Premi",
+        "Jyoti Srivastava",
+        "Ganesan Panneer",
+        "Sher Ali"
+      ],
+      "year": "2008",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0003796",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0003796",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19030103",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Startling%20mosaicism%20of%20the%20Y-chromosome%20and%20tandem%20duplication%20of%20the%20SRY%20and%20DAZ%20genes%20in%20patients%20with%20Turner%20Syndrome%22",
+      "citations": {
+        "crossref": 15
+      },
+      "abstract": "Presence of the human Y-chromosome in females with Turner Syndrome (TS) enhances the risk of development of gonadoblastoma besides causing several other phenotypic abnormalities. In the present study, we have analyzed the Y chromosome in 15 clinically diagnosed Turner Syndrome (TS) patients and detected high level of mosaicisms ranging from 45,XO:46,XY = 100:0% in 4; 45,XO:46,XY:46XX = 4:94:2 in 8; and 45,XO:46,XY:46XX = 50:30:20 cells in 3 TS patients, unlike previous reports showing 5-8% cells with Y- material. Also, no ring, marker or di-centric Y was observed in any of the cases. Of the two TS patients having intact Y chromosome in >85% cells, one was exceptionally tall. Both the patients were positive for SRY, DAZ, CDY1, DBY, UTY and AZFa, b and c specific STSs. Real Time PCR and FISH demonstrated tandem duplication/multiplication of the SRY and DAZ genes. At sequence level, the SRY was normal in 8 TS patients while the remaining 7 showed either absence of this gene or known and novel mutations within and outside of the HMG box. SNV/SFV analysis showed normal four copies of the DAZ genes in these 8 patients. All the TS patients showed aplastic uterus with no ovaries and no symptom of gonadoblastoma. Present study demonstrates new types of polymorphisms indicating that no two TS patients have identical genotype-phenotype. Thus, a comprehensive analysis of more number of samples is warranted to uncover consensus on the loci affected, to be able to use them as potential diagnostic markers.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "19242544",
+      "title": "Unique signatures of natural background radiation on human Y chromosomes from Kerala, India.",
+      "authors": [
+        "Sanjay Premi",
+        "Jyoti Srivastava",
+        "Sebastian Padinjarel Chandy",
+        "Sher Ali"
+      ],
+      "year": "2009",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0004541",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0004541",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19242544",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Unique%20signatures%20of%20natural%20background%20radiation%20on%20human%20Y%20chromosomes%20from%20Kerala%2C%20India%22",
+      "citations": {
+        "semantic_scholar": 22
+      },
+      "abstract": "BACKGROUND: The most frequently observed major consequences of ionizing radiation are chromosomal lesions and cancers, although the entire genome may be affected. Owing to its haploid status and absence of recombination, the human Y chromosome is an ideal candidate to be assessed for possible genetic alterations induced by ionizing radiation. We studied the human Y chromosome in 390 males from the South Indian state of Kerala, where the level of natural background radiation (NBR) is ten-fold higher than the worldwide average, and that from 790 unexposed males as control. RESULTS: We observed random microdeletions in the Azoospermia factor (AZF) a, b and c regions in >90%, and tandem duplication and copy number polymorphism (CNP) of 11 different Y-linked genes in about 80% of males exposed to NBR. The autosomal homologues of Y-linked CDY genes largely remained unaffected. Multiple polymorphic copies of the Y-linked genes showing single Y-specific signals suggested their tandem duplication. Some exposed males showed unilocus duplication of DAZ genes resulting in six copies. Notably, in the AZFa region, approximately 25% of exposed males showed deletion of the DBY gene, whereas flanking genes USP9Y and UTY remained unaffected. All these alterations were detected in blood samples but not in the germline (sperm) samples. CONCLUSIONS: Exposure to high levels of NBR correlated with several interstitial polymorphisms of the human Y chromosome. CNPs and enhanced transcription of the SRY gene after duplication are envisaged to compensate for the loss of Y chromosome in some cells. The aforesaid changes, confined to peripheral blood lymphocytes, suggest a possible innate mechanism protecting the germline DNA from the NBR. Genome analysis of a larger population focusing on greater numbers of genes may provide new insights into the mechanisms and risks of the resultant genetic damages. The present work demonstrates unique signatures of NBR on human Y chromosomes from Kerala, India.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "19583837",
+      "title": "Expressional dynamics of minisatellite 33.15 tagged spermatozoal transcriptome in Bubalus bubalis.",
+      "authors": [
+        "Jyoti Srivastava",
+        "Sanjay Premi",
+        "Sudhir Kumar",
+        "Sher Ali"
+      ],
+      "year": "2009",
+      "journal": "BMC genomics",
+      "doi": "10.1186/1471-2164-10-303",
+      "doi_link": "https://doi.org/10.1186/1471-2164-10-303",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19583837",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Expressional%20dynamics%20of%20minisatellite%2033.15%20tagged%20spermatozoal%20transcriptome%20in%20Bubalus%20bubalis%22",
+      "citations": {
+        "crossref": 8
+      },
+      "abstract": "BACKGROUND: Transcriptionally quiescent spermatozoa have been established to be a repository of mRNA coding for several functionally essential cellular proteins. This entourage of mRNA is envisaged to be involved in post-fertilization and early embryogenesis. Minisatellites tagged with mRNA transcripts have been implicated with gene organization, regulation and function. However, the organization and expression of the minisatellite tagged transcript diversity, particularly in spermatozoa, remains unclear. RESULTS: In the present study, we identified and characterized 12 mRNA transcripts from the spermatozoa of water buffalo Bubalus bubalis employing minisatellite associated sequence amplification (MASA) and a consensus sequence of 33.15 repeat loci. Of these 33.15 tagged transcripts, only one was found to be homologous to Bovine steroid 21-hydroxylase (P-450-c21) gene. Other ten transcripts showed significant similarity with various mRNAs or chromosomal contigs across the species. The remaining one construed to be novel since this was unreported in the database (NCBI GenBank). All these uncharacterized and known transcripts showed highest expression in testis and spermatozoa compared to that in somatic tissues and ovary. Of these 12 mRNA transcripts, 4 showed differential expression in the forebrain and hindbrain of buffalo. Moreover, genes corresponding to all the 33.15 tagged spermatozoal transcripts were found to be conserved across 13 other species analyzed. CONCLUSION: Our results show MASA as an important tool to capture mRNA transcript diversity tagged with minisatellites in the spermatozoa. Comprehensive characterization of these transcripts is envisaged to augment our understanding on the genes involved in testicular functions and sustenance of a viable paternal genome during pre- and post- fertilization events and early stages of development. Prospects of this approach in genome analysis in general and comparative genomics in particular are highlighted.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "20691057",
+      "title": "Genetic integrity of the human Y chromosome exposed to groundwater arsenic.",
+      "authors": [
+        "Safdar Ali",
+        "Sher Ali"
+      ],
+      "year": "2010",
+      "journal": "BMC medical genomics",
+      "doi": "10.1186/1755-8794-3-35",
+      "doi_link": "https://doi.org/10.1186/1755-8794-3-35",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20691057",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Genetic%20integrity%20of%20the%20human%20Y%20chromosome%20exposed%20to%20groundwater%20arsenic%22",
+      "citations": {
+        "crossref": 5
+      },
+      "abstract": "BACKGROUND: Arsenic is a known human carcinogen reported to cause chromosomal deletions and genetic anomalies in cultured cells. The vast human population inhabiting the Ganges delta in West Bengal, India and Bangladesh is exposed to critical levels of arsenic present in the groundwater. The genetic and physiological mechanism of arsenic toxicity in the human body is yet to be fully established. In addition, lack of animal models has made work on this line even more challenging. METHODS: Human male blood samples were collected with their informed consent from 5 districts in West Bengal having groundwater arsenic level more than 50 microg/L. Isolation of genomic DNA and preparation of metaphase chromosomes was done using standard protocols. End point PCR was performed for established sequence tagged sites to ascertain the status of recombination events. Single nucleotide variants of candidate genes and amplicons were carried out using appropriate restriction enzymes. The copy number of DYZ1 array per haploid genome was calculated using real time PCR and its chromosomal localization was done by fluorescence in-situ hybridization (FISH). RESULTS: We studied effects of arsenic exposure on the human Y chromosome in males from different areas of West Bengal focusing on known recombination events (P5-P1 proximal; P5-P1 distal; gr/gr; TSPY-TSPY, b1/b3 and b2/b3), single nucleotide variants (SNVs) of a few candidate Y-linked genes (DAZ, TTY4, BPY2, GOLGA2LY) and the amplicons of AZFc region. Also, possible chromosomal reorganization of DYZ1 repeat arrays was analyzed. Barring a few microdeletions, no major changes were detected in blood DNA samples. SNV analysis showed a difference in some alleles. Similarly, DYZ1 arrays signals detected by FISH were found to be affected in some males. CONCLUSIONS: Our Y chromosome analysis suggests that the same is protected from the effects of arsenic by some unknown mechanisms maintaining its structural and functional integrities. Thus, arsenic effects on the human body seem to be different compared to that on the cultured cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "21718551",
+      "title": "RsaI repetitive DNA in Buffalo Bubalus bubalis representing retrotransposons, conserved in bovids, are part of the functional genes.",
+      "authors": [
+        "Deepali Pathak",
+        "Sher Ali"
+      ],
+      "year": "2011",
+      "journal": "BMC genomics",
+      "doi": "10.1186/1471-2164-12-338",
+      "doi_link": "https://doi.org/10.1186/1471-2164-12-338",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21718551",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22RsaI%20repetitive%20DNA%20in%20Buffalo%20Bubalus%20bubalis%20representing%20retrotransposons%2C%20conserved%20in%20bovids%2C%20are%20part%20of%20the%20functional%20genes%22",
+      "citations": {
+        "semantic_scholar": 4
+      },
+      "abstract": "BACKGROUND: Repetitive sequences are the major components of the eukaryotic genomes. Association of these repeats with transcribing sequences and their regulation in buffalo Bubalus bubalis has remained largely unresolved. RESULTS: We cloned and sequenced RsaI repeat fragments pDp1, pDp2, pDp3, pDp4 of 1331, 651, 603 and 339 base pairs, respectively from the buffalo, Bubalus bubalis. Upon characterization, these fragments were found to represent retrotransposons and part of some functional genes. The resultant clones showed cross hybridization only with buffalo, cattle, goat and sheep genomic DNA. Real Time PCR, detected ~2 × 10(4) copies of pDp1, ~ 3000 copies of pDp2 and pDp3 and ~ 1000 of pDp4 in buffalo, cattle, goat and sheep genomes, respectively. RsaI repeats are transcriptionally active in somatic tissues and spermatozoa. Accordingly, pDp1 showed maximum expression in lung, pDp2 and pDp3 both in Kidney, and pDp4 in ovary. Fluorescence in situ hybridization showed repeats to be distributed all across the chromosomes. CONCLUSIONS: The data suggest that RsaI repeats have been incorporated into the exonic regions of various transcribing genes, possibly contributing towards the architecture and evolution of the buffalo and related genomes. Prospects of our present work in the context of comparative and functional genomics are highlighted.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "21949806",
+      "title": "Molecular mining of alleles in water buffalo Bubalus bubalis and characterization of the TSPY1 and COL6A1 genes.",
+      "authors": [
+        "Sudeep Kumar",
+        "Ruchi Gupta",
+        "Sudhir Kumar",
+        "Sher Ali"
+      ],
+      "year": "2011",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0024958",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0024958",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21949806",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Molecular%20mining%20of%20alleles%20in%20water%20buffalo%20Bubalus%20bubalis%20and%20characterization%20of%20the%20TSPY1%20and%20COL6A1%20genes%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "BACKGROUND: Minisatellites are an integral part of eukaryotic genomes and show variation in the complexity of their organization. Besides their presence in non-coding regions, a small fraction of them are part of the transcriptome, possibly participating in gene regulation, expression and silencing. We studied the minisatellite (TGG)(n) tagged transcriptome in the water buffalo Bubalus bubalis across various tissues and the spermatozoa, and characterized the genes TSPY1 and COL6A1 discovered in the process. RESULTS: Minisatellite associated sequence amplification (MASA) conducted using cDNA and oligonucleotide primer (TGG)(5) uncovered 38 different mRNA transcripts from somatic tissues and gonads and 15 from spermatozoa. These mRNA transcripts corresponded to several known and novel genes. The majority of the transcripts showed the highest level of expression either in the testes or spermatozoa with exception of a few showing higher expression levels in the lungs and liver. Transcript SR1, which is expressed in all the somatic tissues and gonads, was found to be similar to the Bos taurus collagen type VI alpha 1 gene (COL6A1). Similarly, SR29, a testis-specific transcript, was found to be similar to the Bos taurus testis-specific Y-encoded protein-1 representing cancer/testis antigen 78 (CT78). Subsequently, full length coding sequences (cds) of these two transcripts were obtained. Quantitative PCR (q-PCR) revealed 182-202 copies of the TSPY1 gene in water buffalo, which localized to the Y chromosome. CONCLUSIONS: The MASA approach enabled us to identify several genes, including two of clinical significance, without screening an entire cDNA library. Genes identified with TGG repeats are not part of a specific family of proteins and instead are distributed randomly throughout the genome. Genes showing elevated expression in the testes and spermatozoa may prove to be potential candidates for in-depth characterization. Furthermore, their possible involvement in fertility or lack thereof would augment animal biotechnology.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "22037482",
+      "title": "Molecular mining of GGAA tagged transcripts and their expression in water buffalo Bubalus bubalis.",
+      "authors": [
+        "Leena Rawal",
+        "Safdar Ali",
+        "Sher Ali"
+      ],
+      "year": "2012",
+      "journal": "Gene",
+      "doi": "10.1016/j.gene.2011.10.004",
+      "doi_link": "https://doi.org/10.1016/j.gene.2011.10.004",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22037482",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Molecular%20mining%20of%20GGAA%20tagged%20transcripts%20and%20their%20expression%20in%20water%20buffalo%20Bubalus%20bubalis%22",
+      "citations": {
+        "crossref": 5
+      },
+      "abstract": "Repeat sequences are involved in regulation of gene expression both at the transcriptional and translational level. In the mammalian genomes, tri- and tetranucleotide repeats like ATA, AATA, GGAA and GAAA have been associated with diseases. In silico analysis of (GGAA)5 distribution across the species showed maximum number of this repeat in the mouse transcriptome compared to that in other species. Following this, we conducted minisatellite associated sequence amplification (MASA) to explore the buffalo's transcriptome using cDNA from different tissues and an oligo based on (GGAA)5 repeats. MASA uncovered twenty six mRNA transcripts showing homology to known genes in the database. qPCR studies showed the highest expression of twelve transcripts in the spleen. A transcript, pLRC107 with its partial sequence of 203 nucleotides showed sequence variation at several positions in spleen as compared to other four tissues examined. Transcript pLRC100 was found to represent the partial coding sequence of Bos taurus HECT {(homologous to E6-associated protein (UBE3A) carboxyl-terminus domain) and RCC1 (CHC1)-like domain (RLD) 1}, mRNA. We ascertained full length coding sequence of HECT gene and localized the same on buffalo chromosome 10 employing FISH. This gene was found to be conserved across the species. Another gene LRP8 uncovered in the process showed copy number variation between buffalo males (4-9) and females (34-54). The MASA approach enabled us to identify several genes in Bubalus bubalis without screening an entire cDNA library. The highest expression of 12 mRNA transcripts in spleen suggests their likely involvement with immuno transaction. A comprehensive knowledge of the repeat tagged transcriptomes is envisaged to help in understanding their significance in genome organization and evolution forming rich basis of functional and comparative genomics.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "22672386",
+      "title": "Expression of proto-oncogene KIT is up-regulated in subset of human meningiomas.",
+      "authors": [
+        "Masum Saini",
+        "Ajaya Nand Jha",
+        "Andleeb Abrari",
+        "Sher Ali"
+      ],
+      "year": "2012",
+      "journal": "BMC cancer",
+      "doi": "10.1186/1471-2407-12-212",
+      "doi_link": "https://doi.org/10.1186/1471-2407-12-212",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22672386",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Expression%20of%20proto-oncogene%20KIT%20is%20up-regulated%20in%20subset%20of%20human%20meningiomas%22",
+      "citations": {
+        "crossref": 7
+      },
+      "abstract": "BACKGROUND: KIT is a proto-oncogene involved in diverse neoplastic processes. Aberrant kinase activity of the KIT receptor has been targeted by tyrosine kinase inhibitor (TKI) therapy in different neoplasias. In all the earlier studies, KIT expression was reported to be absent in meningiomas. However, we observed KIT mRNA expression in some meningioma cases. This prompted us to undertake its detailed analyses in meningioma tissues resected during 2008-2009. METHODS: Tumor tissues and matched peripheral blood samples collected from meningioma patients were used for detailed molecular analyses. KIT expression was ascertained immunohistochemically and validated by immunoblotting. KIT and KITLG transcript levels were discerned by reverse transcription quantitative real-time PCR (RT-qPCR). Similarly, KIT amplification and allele loss were assessed by quantitative real-time (qPCR) and validated by fluorescence in situ hybridization (FISH) on the neoplastic tissues. Possible alterations of the gene at the nucleotide level were analyzed by sequencing. RESULTS: Contrary to earlier reports, KIT expression, was detected immunohistochemically in 20.6% meningioma cases (n = 34). Receptor (KIT) and ligand (KITLG) transcripts monitored by RT-qPCR were found to co-express (p = 0.048) in most of the KIT immunopositive tumors. 1/7 KIT positive meningiomas showed allele loss corroborated by reduced FISH signal in the corresponding neoplastic tissue. Sequence analysis of KIT showed M541L substitution in exon 10, in one of the immunopositive cases. However, its biological consequence remains to be uncovered. CONCLUSIONS: This study clearly demonstrates KIT over-expression in the human meningiomas. The data suggest that up-regulated KIT transcription (p < 0.001), instead of gene amplification (p > 0.05), is a likely mechanism responsible for altered KIT expression. Thus, KIT is a potential candidate for detailed investigation in the context of meningioma pathogenesis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "22844483",
+      "title": "Organizational and functional status of the Y-linked genes and loci in the infertile patients having normal spermiogram.",
+      "authors": [
+        "Anju Kumari",
+        "Sandeep Kumar Yadav",
+        "Sher Ali"
+      ],
+      "year": "2012",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0041488",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0041488",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22844483",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Organizational%20and%20functional%20status%20of%20the%20Y-linked%20genes%20and%20loci%20in%20the%20infertile%20patients%20having%20normal%20spermiogram%22",
+      "citations": {
+        "crossref": 10
+      },
+      "abstract": "Male fertility is an orchestrated interplay of loci on the Y chromosome with a number of genes from across the other chromosomes. In this context, micro-deletions in the Y chromosome have been correlated with spermatogenic failure often leading to infertility. However, causes of infertility in the patients with the normal spermiogram have remained unclear and therefore pose another level of challenge. In the present study, we analyzed 64 STSs, studied different Y-linked genes and loci and conducted single nucleotide variant (SNV) analyses in 31 infertile males with normal spermiogram along with 67 normal fertile males (NFMs) to gain an insight into the organization of their Y chromosome. Further, employing quantitative real-time PCR (qPCR), we studied copy number variation of DYZ1 arrays and three genes and mutational status of SRY by direct sequence analyses. STS analyses of the AZFa, b and c regions in these patients showed known and new mutations. Further, copies of DAZ and BPY2 in the patients were found to be affected (p < 0.001) compared to those in NFMs. All the patients had normal copy number of the SRY however its sequence analysis (in silico) showed mutations in eight patients. In four of these eight patients, SRY mutations resulted into truncated proteins. Similarly, DYZ1 analysis showed micro-deletions and it's much reduced copy number (p < 0.001) as compared to those in NFMs. Present study in males with unexplained infertility revealed deletions similar to those observed in oligospermic and azoospermic patients. Thus, there are some common but still unknown factors underlying infertility in these patients irrespective of their spermatogenic status. This work is envisaged to augment DNA diagnosis, proving beneficial in the context of in vitro fertilization (IVF) and genetic counselling.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 10,
+    "publications_by_year": {
+      "2012": 3,
+      "2011": 2,
+      "2010": 1,
+      "2009": 2,
+      "2008": 2
+    },
+    "top_journals": [
+      "PloS one",
+      "BMC genomics",
+      "BMC medical genomics",
+      "Gene",
+      "BMC cancer"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 11,
+      "frequent_collaborators": [
+        "Sher Ali",
+        "Sudhir Kumar",
+        "Sanjay Premi",
+        "Jyoti Srivastava",
+        "Ganesan Panneer",
+        "Sebastian Padinjarel Chandy",
+        "Ruchi Gupta",
+        "Safdar Ali"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "19242544",
+        "title": "Unique signatures of natural background radiation on human Y chromosomes from Kerala, India.",
+        "citations": 22,
+        "year": "2009"
+      }
+    ]
+  }
+}

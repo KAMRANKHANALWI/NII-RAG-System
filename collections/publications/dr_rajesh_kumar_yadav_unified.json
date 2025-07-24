@@ -1,0 +1,316 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Rajesh Kumar Yadav",
+    "email": "rkyadav@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-rajesh-kumar-yadav",
+    "research_domain": "Genetics, Cell Signalling & Cancer Biology",
+    "faculty_status": "current",
+    "search_date": "2025-06-27T17:13:40.265662",
+    "total_publications": 10,
+    "last_updated": "2025-06-27",
+    "description": "This document contains a complete list of publications by Dr. Rajesh Kumar Yadav, current faculty in Genetics, Cell Signalling & Cancer Biology at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "18342641",
+      "title": "Role of tryptophan-208 residue in cytochrome c oxidation by ascorbate peroxidase from Leishmania major-kinetic studies on Trp208Phe mutant and wild type enzyme.",
+      "authors": [
+        "Rajesh K Yadav",
+        "Subhankar Dolai",
+        "Swati Pal",
+        "Subrata Adak"
+      ],
+      "year": "2008",
+      "journal": "Biochimica et biophysica acta",
+      "doi": "10.1016/j.bbapap.2008.02.006",
+      "doi_link": "https://doi.org/10.1016/j.bbapap.2008.02.006",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18342641",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Role%20of%20tryptophan-208%20residue%20in%20cytochrome%20c%20oxidation%20by%20ascorbate%20peroxidase%20from%20Leishmania%20major-kinetic%20studies%20on%20Trp208Phe%20mutant%20and%20wild%20type%20enzyme%22",
+      "citations": {
+        "semantic_scholar": 28
+      },
+      "abstract": "Ascorbate peroxidase from L. Major (LmAPX) is a functional hybrid between cytochrome c peroxidase (CCP) and ascorbate peroxidase (APX). We utilized point mutagenesis to investigate if a conserved proximal tryptophan residue (Trp208) among Class I peroxidase helps in controlling catalysis. The mutant W208F enzyme had no effect on both apparent dissociation constant of the enzyme-cytochrome c complex and K(m) value for cytochrome c indicating that cytochrome c binding affinity to the enzyme did not alter after mutation. Surprisingly, the mutant was 1000 times less active than the wild type in cytochrome c oxidation without affecting the second order rate constant of compound I formation. Our diode array stopped-flow spectral studies showed that the substrate unbound wild type enzyme reacts with H(2)O(2) to form compound I (compound II type spectrum), which was quite different from that of compound I in W208F mutant as well as horseradish peroxidase (HRP). The spectrum of the compound I in wild type LmAPX showed a red shift from 409 nm to 420 nm with equal intensity, which was broadly similar to those of known Trp radical. In case of compound I for W208F mutant, the peak in the Soret region was decreased in heme intensity at 409 nm and was not shifted to 420 nm suggesting this type of spectrum was similar to that of the known porphyrin pi-cation radical. In case of an enzyme-H(2)O(2)-ascorbate system, the kinetic for formation and decay of compound I and II of a mutant enzyme was almost identical to that of a wild type enzyme. Thus, the results of cytochrome c binding, compound I formation rate and activity assay suggested that Trp208 in LmAPX was essential for electron transfer from cytochrome c to heme ferryl but was not indispensable for ascorbate or guaiacol oxidation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "20585663",
+      "title": "Ascorbate peroxidase from Leishmania major controls the virulence of infective stage of promastigotes by regulating oxidative stress.",
+      "authors": [
+        "Swati Pal",
+        "Subhankar Dolai",
+        "Rajesh K Yadav",
+        "Subrata Adak"
+      ],
+      "year": "2010",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0011271",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0011271",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20585663",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Ascorbate%20peroxidase%20from%20Leishmania%20major%20controls%20the%20virulence%20of%20infective%20stage%20of%20promastigotes%20by%20regulating%20oxidative%20stress%22",
+      "citations": {
+        "crossref": 67
+      },
+      "abstract": "BACKGROUND: Peroxidase represents a heterogeneous group of distinct enzyme family that plays extremely diverse biological functions. Ascorbate peroxidase from Leishmania major (LmAPX) has been shown to be central to the redox defense system of Leishmania. To investigate further its exact physiological role in Leishmania, we attempted to create LmAPX -knockout mutants by gene replacement in L. major strains. METHODOLOGY/PRINCIPAL FINDINGS: The null mutant cell culture contains a higher percentage of metacyclic and apoptotic cells compared to both wild type and LmAPX overexpressing cells. Flowcytometric analysis reveals the presence of a higher concentration of intracellular H(2)O(2), indicative of increased oxidative stress in parasites lacking LmAPX. IC(50) value for exogenously added H(2)O(2) shows that deletion of LmAPX in L. major renders the cell more susceptible to H(2)O(2). Real time PCR studies demonstrate an elevated mRNA level of non-selenium glutathione peroxidase in LmAPX null mutant cell line, suggesting that these enzymes were induced to compensate the LmAPX enzyme. The null mutant cells exhibit hypervirulence after infection with macrophages as well as inoculation into BALB/c mice; in contrast, overexpressing cells show avirulence. CONCLUSIONS/SIGNIFICANCE: Collectively, these data provide strong evidence that LmAPX is an important factor for controlling parasite differentiation and survival within macrophages.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "21330370",
+      "title": "Endoplasmic reticulum stress-induced apoptosis in Leishmania through Ca2+-dependent and caspase-independent mechanism.",
+      "authors": [
+        "Subhankar Dolai",
+        "Swati Pal",
+        "Rajesh K Yadav",
+        "Subrata Adak"
+      ],
+      "year": "2011",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M110.201889",
+      "doi_link": "https://doi.org/10.1074/jbc.M110.201889",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21330370",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Endoplasmic%20reticulum%20stress-induced%20apoptosis%20in%20Leishmania%20through%20Ca2%2B-dependent%20and%20caspase-independent%20mechanism%22",
+      "citations": {
+        "crossref": 91
+      },
+      "abstract": "Numerous reports have shown that mitochondrial dysfunctions play a major role in apoptosis of Leishmania parasites, but the endoplasmic reticulum (ER) stress-induced apoptosis in Leishmania remains largely unknown. In this study, we investigate ER stress-induced apoptotic pathways in Leishmania major using tunicamycin as an ER stress inducer. ER stress activates the expression of ER-localized chaperone protein BIP/GRP78 (binding protein/identical to the 78-kDa glucose-regulated protein) with concomitant generation of intracellular reactive oxygen species. Upon exposure to ER stress, the elevation of cytosolic Ca(2+) level is observed due to release of Ca(2+) from internal stores. Increase in cytosolic Ca(2+) causes mitochondrial membrane potential depolarization and ATP loss as ablation of Ca(2+) by blocking voltage-gated cation channels with verapamil preserves mitochondrial membrane potential and cellular ATP content. Furthermore, ER stress-induced reactive oxygen species (ROS)-dependent release of cytochrome c and endonuclease G from mitochondria to cytosol and subsequent translocation of endonuclease G to nucleus are observed. Inhibition of caspase-like proteases with the caspase inhibitor benzyloxycarbonyl-VAD-fluoromethyl ketone or metacaspase inhibitor antipain does not prevent nuclear DNA fragmentation and phosphatidylserine exposure. Conversely, significant protection in tunicamycin-induced DNA degradation and phosphatidylserine exposure was achieved by either pretreatment of antioxidants (N-acetyl-L-cysteine, GSH, and L-cysteine), chemical chaperone (4-phenylbutyric acid), or addition of Ca(2+) chelator (1,2-bis(2-aminophenoxy)ethane-N,N,N,N-tetraacetic acid-acetoxymethyl ester). Taken together, these data strongly demonstrate that ER stress-induced apoptosis in L. major is dependent on ROS and Ca(2+)-induced mitochondrial toxicity but independent of caspase-like proteases.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "21893024",
+      "title": "Role of proximal methionine residues in Leishmania major peroxidase.",
+      "authors": [
+        "Rajesh K Yadav",
+        "Swati Pal",
+        "Subhankar Dolai",
+        "Subrata Adak"
+      ],
+      "year": "2011",
+      "journal": "Archives of biochemistry and biophysics",
+      "doi": "10.1016/j.abb.2011.08.007",
+      "doi_link": "https://doi.org/10.1016/j.abb.2011.08.007",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21893024",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Role%20of%20proximal%20methionine%20residues%20in%20Leishmania%20major%20peroxidase%22",
+      "citations": {
+        "semantic_scholar": 5
+      },
+      "abstract": "The active site architecture of Leishmania major peroxidase (LmP) is very similar with both cytochrome c peroxidase and ascorbate peroxidase. We utilized point mutagenesis to investigate if the conserved proximal methionine residues (Met248 and Met249) in LmP help in controlling catalysis. Steady-state kinetics of methionine mutants shows that ferrocytochrome c oxidation is <2% of wild type levels without affecting the second order rate constant of first phase of Compound I formation, while the activity toward a small molecule substrate, guaiacol or iodide, increases. Our diode array stopped-flow spectral studies show that the porphyrin π-cation radical of Compound I in mutant LmP is more stable than wild type enzyme. These results suggest that the electronegative sulfur atoms of the proximal pocket are critical factors for controlling the location of a stable Compound I radical in heme peroxidases and are important in the oxidation of ferrocytochrome c.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "23771057",
+      "title": "Sir2 is required for Clr4 to initiate centromeric heterochromatin assembly in fission yeast.",
+      "authors": [
+        "Benjamin J Alper",
+        "Godwin Job",
+        "Rajesh K Yadav",
+        "Sreenath Shanker",
+        "Brandon R Lowe",
+        "Janet F Partridge"
+      ],
+      "year": "2013",
+      "journal": "The EMBO journal",
+      "doi": "10.1038/emboj.2013.143",
+      "doi_link": "https://doi.org/10.1038/emboj.2013.143",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23771057",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Sir2%20is%20required%20for%20Clr4%20to%20initiate%20centromeric%20heterochromatin%20assembly%20in%20fission%20yeast%22",
+      "citations": {
+        "semantic_scholar": 59
+      },
+      "abstract": "Heterochromatin assembly in fission yeast depends on the Clr4 histone methyltransferase, which targets H3K9. We show that the histone deacetylase Sir2 is required for Clr4 activity at telomeres, but acts redundantly with Clr3 histone deacetylase to maintain centromeric heterochromatin. However, Sir2 is critical for Clr4 function during de novo centromeric heterochromatin assembly. We identified new targets of Sir2 and tested if their deacetylation is necessary for Clr4-mediated heterochromatin establishment. Sir2 preferentially deacetylates H4K16Ac and H3K4Ac, but mutation of these residues to mimic acetylation did not prevent Clr4-mediated heterochromatin establishment. Sir2 also deacetylates H3K9Ac and H3K14Ac. Strains bearing H3K9 or H3K14 mutations exhibit heterochromatin defects. H3K9 mutation blocks Clr4 function, but why H3K14 mutation impacts heterochromatin was not known. Here, we demonstrate that recruitment of Clr4 to centromeres is blocked by mutation of H3K14. We suggest that Sir2 deacetylates H3K14 to target Clr4 to centromeres. Further, we demonstrate that Sir2 is critical for de novo accumulation of H3K9me2 in RNAi-deficient cells. These analyses place Sir2 and H3K14 deacetylation upstream of Clr4 recruitment during heterochromatin assembly.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "25773741",
+      "title": "Histone H3 mutations--a special role for H3.3 in tumorigenesis?",
+      "authors": [
+        "Satish Kallappagoudar",
+        "Rajesh K Yadav",
+        "Brandon R Lowe",
+        "Janet F Partridge"
+      ],
+      "year": "2015",
+      "journal": "Chromosoma",
+      "doi": "10.1007/s00412-015-0510-4",
+      "doi_link": "https://doi.org/10.1007/s00412-015-0510-4",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25773741",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Histone%20H3%20mutations--a%20special%20role%20for%20H3.3%20in%20tumorigenesis%3F%22",
+      "citations": {
+        "semantic_scholar": 82
+      },
+      "abstract": "Brain tumors are the most common solid tumors in children. Pediatric high-grade glioma (HGG) accounts for ∼8-12 % of these brain tumors and is a devastating disease as 70-90 % of patients die within 2 years of diagnosis. The failure to advance therapy for these children over the last 30 years is largely due to limited knowledge of the molecular basis for these tumors and a lack of disease models. Recently, sequencing of tumor cells revealed that histone H3 is frequently mutated in pediatric HGG, with up to 78 % of diffuse intrinsic pontine gliomas (DIPGs) carrying K27M and 36 % of non-brainstem gliomas carrying either K27M or G34R/V mutations. Although mutations in many chromatin modifiers have been identified in cancer, this was the first demonstration that histone mutations may be drivers of disease. Subsequent studies have identified high-frequency mutation of histone H3 to K36M in chondroblastomas and to G34W/L in giant cell tumors of bone, which are diseases of adolescents and young adults. Interestingly, the G34 mutations, the K36M mutations, and the majority of K27M mutations occur in genes encoding the replacement histone H3.3. Here, we review the peculiar characteristics of histone H3.3 and use this information as a backdrop to highlight current thinking about how the identified mutations may contribute to disease development.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "28718400",
+      "title": "Histone H3G34R mutation causes replication stress, homologous recombination defects and genomic instability in S. pombe",
+      "authors": [
+        "Rajesh K Yadav",
+        "Carolyn M Jablonowski",
+        "Alfonso G Fernandez",
+        "Brandon R Lowe",
+        "Ryan A Henry",
+        "David Finkelstein",
+        "Kevin J Barnum",
+        "Alison L Pidoux",
+        "Yin-Ming Kuo",
+        "Jie Huang",
+        "Matthew J O'Connell",
+        "Andrew J Andrews",
+        "Arzu Onar-Thomas",
+        "Robin C Allshire",
+        "Janet F Partridge"
+      ],
+      "year": "2017",
+      "journal": "eLife",
+      "doi": "10.7554/eLife.27406",
+      "doi_link": "https://doi.org/10.7554/eLife.27406",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28718400",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Histone%20H3G34R%20mutation%20causes%20replication%20stress%2C%20homologous%20recombination%20defects%20and%20genomic%20instability%20in%20S.%20pombe%22",
+      "citations": {
+        "semantic_scholar": 42
+      },
+      "abstract": "Recurrent somatic mutations of H3F3A in aggressive pediatric high-grade gliomas generate K27M or G34R/V mutant histone H3.3. H3.3-G34R/V mutants are common in tumors with mutations in p53 and ATRX, an H3.3-specific chromatin remodeler. To gain insight into the role of H3-G34R, we generated fission yeast that express only the mutant histone H3. H3-G34R specifically reduces H3K36 tri-methylation and H3K36 acetylation, and mutants show partial transcriptional overlap with set2 deletions. H3-G34R mutants exhibit genomic instability and increased replication stress, including slowed replication fork restart, although DNA replication checkpoints are functional. H3-G34R mutants are defective for DNA damage repair by homologous recombination (HR), and have altered HR protein dynamics in both damaged and untreated cells. These data suggest H3-G34R slows resolution of HR-mediated repair and that unresolved replication intermediates impair chromosome segregation. This analysis of H3-G34R mutant fission yeast provides mechanistic insight into how G34R mutation may promote genomic instability in glioma.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "32322738",
+      "title": "CAR T cell therapy: newer approaches to counter resistance and cost.",
+      "authors": [
+        "Rajesh Kumar Yadav",
+        "Asgar Ali",
+        "Santosh Kumar",
+        "Alpana Sharma",
+        "Basab Baghchi",
+        "Pritanjali Singh",
+        "Sushmita Das",
+        "Chandramani Singh",
+        "Sadhana Sharma"
+      ],
+      "year": "2020",
+      "journal": "Heliyon",
+      "doi": "10.1016/j.heliyon.2020.e03779",
+      "doi_link": "https://doi.org/10.1016/j.heliyon.2020.e03779",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32322738",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22CAR%20T%20cell%20therapy%3A%20newer%20approaches%20to%20counter%20resistance%20and%20cost%22",
+      "citations": {
+        "crossref": 24
+      },
+      "abstract": "The genetically engineered Chimeric Antigen Receptor bearing T-cell (CAR T cell) therapy has been emerged as the new paradigm of cancer immunotherapy. However, recent studies have reported an increase in the number of relapsed haematological malignancies. This review provides newer insights into how the efficacy of CAR T cells might be increased by the application of new genome editing technologies, monitoring the complexity of tumor types and T cells sub-types. Next, tumor mutation burden along with tumormicroenvironment and epigenetic mechanisms of CAR T cell as well as tumor cell may play a vital role to tackle the cancer resistance mechanisms. These studies highlight the need to consider traditional cancer therapy in conjunction with CAR T cell therapy for relapsed or cases unresponsive to treatment. Of note, this therapy is highly expensive and requires multi-skill for successful implementation, which results in reduction of its accessibility/affordability to the patients. Here, we also propose a model for cost minimization of CAR T cell therapy by a collaboration of academia, hospitals and industry.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "33522486",
+      "title": "Surprising phenotypic diversity of cancer-associated mutations of Gly 34 in the histone H3 tail.",
+      "authors": [
+        "Brandon R Lowe",
+        "Rajesh K Yadav",
+        "Ryan A Henry",
+        "Patrick Schreiner",
+        "Atsushi Matsuda",
+        "Alfonso G Fernandez",
+        "David Finkelstein",
+        "Margaret Campbell",
+        "Satish Kallappagoudar",
+        "Carolyn M Jablonowski",
+        "Andrew J Andrews",
+        "Yasushi Hiraoka",
+        "Janet F Partridge"
+      ],
+      "year": "2021",
+      "journal": "eLife",
+      "doi": "10.7554/eLife.65369",
+      "doi_link": "https://doi.org/10.7554/eLife.65369",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33522486",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Surprising%20phenotypic%20diversity%20of%20cancer-associated%20mutations%20of%20Gly%2034%20in%20the%20histone%20H3%20tail%22",
+      "citations": {
+        "crossref": 33
+      },
+      "abstract": "Sequencing of cancer genomes has identified recurrent somatic mutations in histones, termed oncohistones, which are frequently poorly understood. Previously we showed that fission yeast expressing only the H3.3G34R mutant identified in aggressive pediatric glioma had reduced H3K36 trimethylation and acetylation, increased genomic instability and replicative stress, and defective homology-dependent DNA damage repair. Here we show that surprisingly distinct phenotypes result from G34V (also in glioma) and G34W (giant cell tumors of bone) mutations, differentially affecting H3K36 modifications, subtelomeric silencing, genomic stability; sensitivity to irradiation, alkylating agents, and hydroxyurea; and influencing DNA repair. In cancer, only 1 of 30 alleles encoding H3 is mutated. Whilst co-expression of wild-type H3 rescues most G34 mutant phenotypes, G34R causes dominant hydroxyurea sensitivity, homologous recombination defects, and dominant subtelomeric silencing. Together, these studies demonstrate the complexity associated with different substitutions at even a single residue in H3 and highlight the utility of genetically tractable systems for their analysis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "34576871",
+      "title": "Subtelomeric Chromatin in the Fission Yeast ",
+      "authors": [
+        "Rajesh K Yadav",
+        "Atsushi Matsuda",
+        "Brandon R Lowe",
+        "Yasushi Hiraoka",
+        "Janet F Partridge"
+      ],
+      "year": "2021",
+      "journal": "Microorganisms",
+      "doi": "10.3390/microorganisms9091977",
+      "doi_link": "https://doi.org/10.3390/microorganisms9091977",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34576871",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Subtelomeric%20Chromatin%20in%20the%20Fission%20Yeast%22",
+      "citations": {
+        "semantic_scholar": 4
+      },
+      "abstract": "Telomeres play important roles in safeguarding the genome. The specialized repressive chromatin that assembles at telomeres and subtelomeric domains is key to this protective role. However, in many organisms, the repetitive nature of telomeric and subtelomeric sequences has hindered research efforts. The fission yeast S. pombe has provided an important model system for dissection of chromatin biology due to the relative ease of genetic manipulation and strong conservation of important regulatory proteins with higher eukaryotes. Telomeres and the telomere-binding shelterin complex are highly conserved with mammals, as is the assembly of constitutive heterochromatin at subtelomeres. In this review, we seek to summarize recent work detailing the assembly of distinct chromatin structures within subtelomeric domains in fission yeast. These include the heterochromatic SH subtelomeric domains, the telomere-associated sequences (TAS), and ST chromatin domains that assemble highly condensed chromatin clusters called knobs. Specifically, we review new insights into the sequence of subtelomeric domains, the distinct types of chromatin that assemble on these sequences and how histone H3 K36 modifications influence these chromatin structures. We address the interplay between the subdomains of chromatin structure and how subtelomeric chromatin is influenced by both the telomere-bound shelterin complexes and by euchromatic chromatin regulators internal to the subtelomeric domain. Finally, we demonstrate that telomere clustering, which is mediated via the condensed ST chromatin knob domains, does not depend on knob assembly within these domains but on Set2, which mediates H3K36 methylation.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 10,
+    "publications_by_year": {
+      "2021": 2,
+      "2020": 1,
+      "2017": 1,
+      "2015": 1,
+      "2013": 1,
+      "2011": 2,
+      "2010": 1,
+      "2008": 1
+    },
+    "top_journals": [
+      "eLife",
+      "Biochimica et biophysica acta",
+      "PloS one",
+      "The Journal of biological chemistry",
+      "Archives of biochemistry and biophysics"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 33,
+      "frequent_collaborators": [
+        "Rajesh K Yadav",
+        "Janet F Partridge",
+        "Subrata Adak",
+        "Brandon R Lowe",
+        "Subhankar Dolai",
+        "Swati Pal",
+        "Carolyn M Jablonowski",
+        "Alfonso G Fernandez"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "21330370",
+        "title": "Endoplasmic reticulum stress-induced apoptosis in Leishmania through Ca2+-dependent and caspase-independent mechanism.",
+        "citations": 91,
+        "year": "2011"
+      },
+      {
+        "publication_id": "25773741",
+        "title": "Histone H3 mutations--a special role for H3.3 in tumorigenesis?",
+        "citations": 82,
+        "year": "2015"
+      },
+      {
+        "publication_id": "20585663",
+        "title": "Ascorbate peroxidase from Leishmania major controls the virulence of infective stage of promastigotes by regulating oxidative stress.",
+        "citations": 67,
+        "year": "2010"
+      }
+    ]
+  }
+}

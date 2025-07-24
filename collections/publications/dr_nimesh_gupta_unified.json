@@ -1,0 +1,1001 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Nimesh Gupta",
+    "email": "nimesh.gupta@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-nimesh-gupta",
+    "research_domain": "Immunity & Infection",
+    "faculty_status": "current",
+    "search_date": "2025-07-01T14:34:28.520763",
+    "total_publications": 32,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Nimesh Gupta, current faculty in Immunity & Infection at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "40073863",
+      "title": "Distinct features of a peripheral T helper subset that drives the B cell response in dengue virus infection.",
+      "authors": [
+        "Asgar Ansari",
+        "Shilpa Sachan",
+        "Jatin Ahuja",
+        "Sureshkumar Venkadesan",
+        "Bhushan Nikam",
+        "Vinod Kumar",
+        "Shweta Jain",
+        "Bhanu Pratap Singh",
+        "Poonam Coshic",
+        "Kapil Sikka",
+        "Naveet Wig",
+        "Alessandro Sette",
+        "Daniela Weiskopf",
+        "Debasisa Mohanty",
+        "Manish Soneja",
+        "Nimesh Gupta"
+      ],
+      "year": "2025",
+      "journal": "Cell reports",
+      "doi": "10.1016/j.celrep.2025.115366",
+      "doi_link": "https://doi.org/10.1016/j.celrep.2025.115366",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40073863",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Distinct%20features%20of%20a%20peripheral%20T%20helper%20subset%20that%20drives%20the%20B%20cell%20response%20in%20dengue%20virus%20infection%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "Dengue-virus-induced humoral immunity can increase the risk of severe disease, but the factors influencing this response are poorly understood. Here, we investigate the contribution of CD4+ T cells to B cell responses in human dengue infection. We identify a dominant peripheral PD-1+ T cell subset that accumulates in severe patients and could induce B cell differentiation via interleukin-21 (IL-21)-related pathway. Single-cell analyses reveal heterogeneity within PD-1+ cells, demonstrating the coexistence of subsets with \"helper\" (IL-21+) or \"cytotoxic\" characteristics. The IL-21+ subset displays a distinct clonotypic and transcriptomic signature compared to follicular helper T cells and persists as a memory in lymph nodes. Notably, we show that the IL-21+ subset seems to majorly drive the extrafollicular B cell responses in dengue. Our study establishes the peripheral IL-21+ subset as a potential determinant of the humoral response to dengue virus infection. These findings provide important insights into the T-cell-dependent regulation of humoral responses and can inform the design of effective dengue vaccines.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "38981743",
+      "title": "Mammalian cell expressed recombinant trimeric spike protein is a potent vaccine antigen and confers near-complete protection against SARS-CoV-2 infection in Hamster.",
+      "authors": [
+        "Jitender",
+        "B Vikram Kumar",
+        "Sneha Singh",
+        "Geetika Verma",
+        "Reetesh Kumar",
+        "Pranaya M Mishra",
+        "Sahil Kumar",
+        "Santhosh K Nagaraj",
+        "Joydeep Nag",
+        "Christy M Joy",
+        "Bhushan Nikam",
+        "Dharmendra Singh",
+        "Pooja",
+        "Nidhi Kalidas",
+        "Shubham Singh",
+        "Mumtaz",
+        "Ashwani K Bhardwaj",
+        "Dhananjay S Mankotia",
+        "Rajesh P N Ringe",
+        "Nimesh Gupta",
+        "Shashank Tripathi",
+        "Ravi P N Mishra"
+      ],
+      "year": "2024",
+      "journal": "Vaccine",
+      "doi": "10.1016/j.vaccine.2024.06.066",
+      "doi_link": "https://doi.org/10.1016/j.vaccine.2024.06.066",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38981743",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mammalian%20cell%20expressed%20recombinant%20trimeric%20spike%20protein%20is%20a%20potent%20vaccine%20antigen%20and%20confers%20near-complete%20protection%20against%20SARS-CoV-2%20infection%20in%20Hamster%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "Numerous vaccine candidates have emerged in the fight against SARS-CoV-2, yet the challenges posed by viral evolution and the evasion of vaccine-induced immunity persist. The development of broadly protective vaccines is essential in countering the threat posed by variants of concern (VoC) capable of eluding existing vaccine defenses. Among the diverse SARS-CoV-2 vaccine candidates, detailed characterization of those based on the expression of the entire spike protein in mammalian cells have been limited. In our study, we engineered a recombinant prefusion-stabilized trimeric spike protein antigen, IMT-CVAX, encoded by the IMT-C20 gene. This antigen was expressed utilizing a suspension mammalian cell line (CHO-S). The establishment of a stable cell line expressing IMT-CVAX involved the integration of the gene into the CHO genome, followed by the expression, purification, and characterization of the protein. To gauge the vaccine potential of adjuvanted IMT-CVAX, we conducted assessments in small animals. Analyses of blood collected from immunized animals included measurements of anti-spike IgG, SARS-CoV-2 neutralization, and responses from GC-B and Tfh cells. Furthermore, the protective efficacy of IMT-CVAX was evaluated using a Hamster challenge model. Our findings indicate that adjuvanted IMT-CVAX elicits an excellent immune response in both mice and hamsters. Notably, sera from animals immunized with IMT-CVAX effectively neutralize a diverse range of SARS-CoV-2 variants. Moreover, IMT-CVAX immunization conferred complete protection to hamsters against SARS-CoV-2 infection. In hACE2 transgenic mice, IMT-CVAX vaccination induced a robust response from GC-B and Tfh cells. Based on our preclinical model assessments, adjuvanted IMT-CVAX emerges as a highly efficacious vaccine candidate. This protein-subunit-based vaccine exhibits promise for clinical development, offering an affordable solution for both primary and heterologous immunization against SARS-CoV-2 variants.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "38850540",
+      "title": "T-B coculture assay for functional analysis of antigen-specific memory CD4+ T cells.",
+      "authors": [
+        "Asgar Ansari",
+        "Poonam Coshic",
+        "Ashok Sharma",
+        "Alessandro Sette",
+        "Daniela Weiskopf",
+        "Nimesh Gupta"
+      ],
+      "year": "2024",
+      "journal": "STAR protocols",
+      "doi": "10.1016/j.xpro.2024.103119",
+      "doi_link": "https://doi.org/10.1016/j.xpro.2024.103119",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38850540",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22T-B%20coculture%20assay%20for%20functional%20analysis%20of%20antigen-specific%20memory%20CD4%2B%20T%20cells%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "The B cell \"help\" function of CD4+ T cells is critical in establishing the humoral arm of adaptive immunity. Here, we present a protocol to measure the \"help\" function of antigen-specific memory T cells using an autologous T-B coculture supplemented with monocytes. We describe steps for cell preparation, human cell sorting, coculture, and a flow cytometry-based assessment of B cell outputs. This protocol demonstrates enhanced sensitivity and proves useful in evaluating T-B collaboration in various contexts of health and disease. For complete details on the use and execution of this protocol, please refer to Ansari et al.1.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "35681012",
+      "title": "Inactivated whole-virion vaccine BBV152/Covaxin elicits robust cellular immune memory to SARS-CoV-2 and variants of concern.",
+      "authors": [
+        "Rajesh Vikkurthi",
+        "Asgar Ansari",
+        "Anupama R Pai",
+        "Someshwar Nath Jha",
+        "Shilpa Sachan",
+        "Suvechchha Pandit",
+        "Bhushan Nikam",
+        "Anurag Kalia",
+        "Bimal Prasad Jit",
+        "Hilal Ahmad Parray",
+        "Savita Singh",
+        "Pallavi Kshetrapal",
+        "Nitya Wadhwa",
+        "Tripti Shrivastava",
+        "Poonam Coshic",
+        "Suresh Kumar",
+        "Pragya Sharma",
+        "Nandini Sharma",
+        "Juhi Taneja",
+        "Anil K Pandey",
+        "Ashok Sharma",
+        "Ramachandran Thiruvengadam",
+        "Alba Grifoni",
+        "Daniela Weiskopf",
+        "Alessandro Sette",
+        "Shinjini Bhatnagar",
+        "Nimesh Gupta"
+      ],
+      "year": "2022",
+      "journal": "Nature microbiology",
+      "doi": "10.1038/s41564-022-01161-5",
+      "doi_link": "https://doi.org/10.1038/s41564-022-01161-5",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35681012",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Inactivated%20whole-virion%20vaccine%20BBV152/Covaxin%20elicits%20robust%20cellular%20immune%20memory%20to%20SARS-CoV-2%20and%20variants%20of%20concern%22",
+      "citations": {
+        "semantic_scholar": 39
+      },
+      "abstract": "BBV152 is a whole-virion inactivated vaccine based on the Asp614Gly variant. BBV152 is the first alum-imidazoquinolin-adjuvanted vaccine authorized for use in large populations. Here we characterized the magnitude, quality and persistence of cellular and humoral memory responses up to 6 months post vaccination. We report that the magnitude of vaccine-induced spike and nucleoprotein antibodies was comparable with that produced after infection. Receptor binding domain-specific antibodies declined against variants in the order of Alpha (B.1.1.7; 3-fold), Delta (B.1.617.2; 7-fold) and Beta (B.1.351; 10-fold). However, pseudovirus neutralizing antibodies declined up to 2-fold against the Delta followed by the Beta variant (1.7-fold). Vaccine-induced memory B cells were also affected by the Delta and Beta variants. The SARS-CoV-2-specific multicytokine-expressing CD4+ T cells were found in ~85% of vaccinated individuals. Only a ~1.3-fold reduction in efficacy was observed in CD4+ T cells against the Beta variant. We found that antigen-specific CD4+ T cells were present in the central memory compartment and persisted for at least up to 6 months post vaccination. Vaccine-induced CD8+ T cells were detected in ~50% of individuals. Importantly, the vaccine was capable of inducing follicular T helper cells that exhibited B-cell help potential. These findings show that inactivated vaccine BBV152 induces robust immune memory to SARS-CoV-2 and variants of concern that persists for at least 6 months after vaccination.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "35571764",
+      "title": "An efficient immunoassay for the B cell help function of SARS-CoV-2-specific memory CD4+ T cells.",
+      "authors": [
+        "Asgar Ansari",
+        "Shilpa Sachan",
+        "Bimal Prasad Jit",
+        "Ashok Sharma",
+        "Poonam Coshic",
+        "Alessandro Sette",
+        "Daniela Weiskopf",
+        "Nimesh Gupta"
+      ],
+      "year": "2022",
+      "journal": "Cell reports methods",
+      "doi": "10.1016/j.crmeth.2022.100224",
+      "doi_link": "https://doi.org/10.1016/j.crmeth.2022.100224",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35571764",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22An%20efficient%20immunoassay%20for%20the%20B%20cell%20help%20function%20of%20SARS-CoV-2-specific%20memory%20CD4%2B%20T%20cells%22",
+      "citations": {
+        "crossref": 12
+      },
+      "abstract": "The B cell \"help\" function of CD4+ T cells is an important mechanism of adaptive immunity. Here, we describe improved antigen-specific T-B cocultures for quantitative measurement of T cell-dependent B cell responses, with as few as ∼90 T cells. Utilizing M. tuberculosis (Mtb), we show that early priming and activation of CD4+ T cells is important for productive interaction between T and B cells and that similar effects are achieved by supplementing cocultures with monocytes. We find that monocytes promote survivability of B cells via BAFF and stem cell growth factor (SCGF)/C-type lectin domain family 11 member A (CLEC11A), but this alone does not fully recapitulate the effects of monocyte supplementation. Importantly, we demonstrate improved activation and immunological output of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)-specific memory CD4+ T-B cell cocultures with the inclusion of monocytes. This method may therefore provide a more sensitive assay to evaluate the B cell help quality of memory CD4+ T cells, for example, after vaccination or natural infection.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "34838183",
+      "title": "Effectiveness of ChAdOx1 nCoV-19 vaccine against SARS-CoV-2 infection during the delta (B.1.617.2) variant surge in India: a test-negative, case-control study and a mechanistic study of post-vaccination immune responses.",
+      "authors": [
+        "Ramachandran Thiruvengadam",
+        "Amit Awasthi",
+        "Guruprasad Medigeshi",
+        "Sankar Bhattacharya",
+        "Shailendra Mani",
+        "Sridhar Sivasubbu",
+        "Tripti Shrivastava",
+        "Sweety Samal",
+        "Deepika Rathna Murugesan",
+        "Bapu Koundinya Desiraju",
+        "Pallavi Kshetrapal",
+        "Rajesh Pandey",
+        "Vinod Scaria",
+        "Praveen Kumar Malik",
+        "Juhi Taneja",
+        "Akshay Binayke",
+        "Tarini Vohra",
+        "Aymaan Zaheer",
+        "Deepak Rathore",
+        "Naseem Ahmad Khan",
+        "Heena Shaman",
+        "Shubbir Ahmed",
+        "Rajesh Kumar",
+        "Suprit Deshpande",
+        "Chandru Subramani",
+        "Nitya Wadhwa",
+        "Nimesh Gupta",
+        "Anil K Pandey",
+        "Jayanta Bhattacharya",
+        "Anurag Agrawal",
+        "Sudhanshu Vrati",
+        "Shinjini Bhatnagar",
+        "Pramod Kumar Garg",
+        "Department of Biotechnology India Consortium for COVID-19 research"
+      ],
+      "year": "2022",
+      "journal": "The Lancet. Infectious diseases",
+      "doi": "10.1016/S1473-3099(21)00680-0",
+      "doi_link": "https://doi.org/10.1016/S1473-3099(21)00680-0",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34838183",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Effectiveness%20of%20ChAdOx1%20nCoV-19%20vaccine%20against%20SARS-CoV-2%20infection%20during%20the%20delta%20%28B.1.617.2%29%20variant%20surge%20in%20India%3A%20a%20test-negative%2C%20case-control%20study%20and%20a%20mechanistic%20study%20of%20post-vaccination%20immune%20responses%22",
+      "citations": {
+        "semantic_scholar": 74
+      },
+      "abstract": "BACKGROUND: SARS-CoV-2 variants of concern (VOCs) have threatened COVID-19 vaccine effectiveness. We aimed to assess the effectiveness of the ChAdOx1 nCoV-19 vaccine, predominantly against the delta (B.1.617.2) variant, in addition to the cellular immune response to vaccination. METHODS: We did a test-negative, case-control study at two medical research centres in Faridabad, India. All individuals who had a positive RT-PCR test for SARS-CoV-2 infection between April 1, 2021, and May 31, 2021, were included as cases and individuals who had a negative RT-PCR test were included as controls after matching with cases on calendar week of RT-PCR test. The primary outcome was effectiveness of complete vaccination with the ChAdOx1 nCoV-19 vaccine against laboratory-confirmed SARS-CoV-2 infection. The secondary outcomes were effectiveness of a single dose against SARS-CoV-2 infection and effectiveness of a single dose and complete vaccination against moderate-to-severe disease among infected individuals. Additionally, we tested in-vitro live-virus neutralisation and T-cell immune responses to the spike protein of the wild-type SARS-CoV-2 and VOCs among healthy (anti-nucleocapsid antibody negative) recipients of the ChAdOx1 nCoV-19 vaccine. FINDINGS: Of 2379 cases of confirmed SARS-CoV-2 infection, 85 (3·6%) were fully vaccinated compared with 168 (8·5%) of 1981 controls (adjusted OR [aOR] 0·37 [95% CI 0·28-0·48]), giving a vaccine effectiveness against SARS-CoV-2 infection of 63·1% (95% CI 51·5-72·1). 157 (6·4%) of 2451 of cases and 181 (9·1%) of 1994) controls had received a single dose of the ChAdOx1 nCoV-19 vaccine (aOR 0·54 [95% CI 0·42-0·68]), thus vaccine effectiveness of a single dose against SARS-CoV-2 infection was 46·2% (95% CI 31·6-57·7). One of 84 cases with moderate-to-severe COVID-19 was fully vaccinated compared with 84 of 2295 cases with mild COVID-19 (aOR 0·19 [95% CI 0·01-0·90]), giving a vaccine effectiveness of complete vaccination against moderate-to-severe disease of 81·5% (95% CI 9·9-99·0). The effectiveness of a single dose against moderate-to-severe disease was 79·2% (95% CI 46·1-94·0); four of 87 individuals with moderate-to-severe COVID-19 had received a single dose compared with 153 of 2364 participants with mild disease (aOR 0·20 [95% CI 0·06-0·54]). Among 49 healthy, fully vaccinated individuals, neutralising antibody responses were lower against the alpha (B.1.1.7; geometric mean titre 244·7 [95% CI 151·8-394·4]), beta (B.1.351; 97·6 [61·2-155·8]), kappa (B.1.617.1; 112·8 [72·7-175·0]), and delta (88·4 [61·2-127·8]) variants than against wild-type SARS-CoV-2 (599·4 [376·9-953·2]). However, the antigen-specific CD4 and CD8 T-cell responses were conserved against both the delta variant and wild-type SARS-CoV-2. INTERPRETATION: The ChAdOx1 nCoV-19 vaccine remained effective against moderate-to-severe COVID-19, even during a surge that was dominated by the highly transmissible delta variant of SARS-CoV-2. Spike-specific T-cell responses were maintained against the delta variant. Such cellular immune protection might compensate for waning humoral immunity. FUNDING: Department of Biotechnology India, Council of Scientific and Industrial Research India, and Fondation Botnar.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "34220803",
+      "title": "Japanese Encephalitis Virus Infected Human Monocyte-Derived Dendritic Cells Activate a Transcriptional Network Leading to an Antiviral Inflammatory Response.",
+      "authors": [
+        "Shailendra Chauhan",
+        "Deepak Kumar Rathore",
+        "Shilpa Sachan",
+        "Sebastien Lacroix-Desmazes",
+        "Nimesh Gupta",
+        "Amit Awasthi",
+        "Sudhanshu Vrati",
+        "Manjula Kalia"
+      ],
+      "year": "2021",
+      "journal": "Frontiers in immunology",
+      "doi": "10.3389/fimmu.2021.638694",
+      "doi_link": "https://doi.org/10.3389/fimmu.2021.638694",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34220803",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Japanese%20Encephalitis%20Virus%20Infected%20Human%20Monocyte-Derived%20Dendritic%20Cells%20Activate%20a%20Transcriptional%20Network%20Leading%20to%20an%20Antiviral%20Inflammatory%20Response%22",
+      "citations": {
+        "semantic_scholar": 16
+      },
+      "abstract": "A comprehensive understanding of the human immune response to virus infection is imperative for developing effective therapies, antivirals, and vaccines. Dendritic cells (DCs) are among the first cells to encounter the virus and are also key antigen-presenting cells that link the innate and adaptive immune system. In this study, we focus on the human immune response to the mosquito-borne Japanese encephalitis virus (JEV), which is the leading cause of virus-induced encephalitis in south-east Asia and has the potential to become a global pathogen. We describe the gene regulatory circuit of JEV infection in human monocyte-derived DCs (moDCs) along with its functional validation. We observe that JEV can productively infect human moDCs leading to robust transcriptional activation of the interferon and NF-κB-mediated antiviral and inflammatory pathways. This is accompanied with DC maturation and release of pro-inflammatory cytokines and chemokines TNFα, IL-6, IL-8, IL-12, MCP-1. and RANTES. JEV-infected moDCs activated T-regulatory cells (Tregs) in allogenic mixed lymphocyte reactions (MLR) as seen by upregulated FOXP3 mRNA expression, suggestive of a host response to reduce virus-induced immunopathology. The virus also downregulated transcripts involved in Peroxisome Proliferator Activated Receptor (PPAR) signalling and fatty acid metabolism pathways suggesting that changes in cellular metabolism play a crucial role in driving the DC maturation and antiviral responses. Collectively, our data describe and corroborate the human DC transcriptional network that is engaged upon JEV sensing.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "33782398",
+      "title": "A haemagglutination test for rapid detection of antibodies to SARS-CoV-2.",
+      "authors": [
+        "Alain Townsend",
+        "Pramila Rijal",
+        "Julie Xiao",
+        "Tiong Kit Tan",
+        "Kuan-Ying A Huang",
+        "Lisa Schimanski",
+        "Jiandong Huo",
+        "Nimesh Gupta",
+        "Rolle Rahikainen",
+        "Philippa C Matthews",
+        "Derrick Crook",
+        "Sarah Hoosdally",
+        "Susanna Dunachie",
+        "Eleanor Barnes",
+        "Teresa Street",
+        "Christopher P Conlon",
+        "John Frater",
+        "Carolina V Arancibia-Cárcamo",
+        "Justine Rudkin",
+        "Nicole Stoesser",
+        "Fredrik Karpe",
+        "Matthew Neville",
+        "Rutger Ploeg",
+        "Marta Oliveira",
+        "David J Roberts",
+        "Abigail A Lamikanra",
+        "Hoi Pat Tsang",
+        "Abbie Bown",
+        "Richard Vipond",
+        "Alexander J Mentzer",
+        "Julian C Knight",
+        "Andrew J Kwok",
+        "Gavin R Screaton",
+        "Juthathip Mongkolsapaya",
+        "Wanwisa Dejnirattisai",
+        "Piyada Supasa",
+        "Paul Klenerman",
+        "Christina Dold",
+        "J Kenneth Baillie",
+        "Shona C Moore",
+        "Peter J M Openshaw",
+        "Malcolm G Semple",
+        "Lance C W Turtle",
+        "Mark Ainsworth",
+        "Alice Allcock",
+        "Sally Beer",
+        "Sagida Bibi",
+        "Donal Skelly",
+        "Lizzy Stafford",
+        "Katie Jeffrey",
+        "Denise O'Donnell",
+        "Elizabeth Clutterbuck",
+        "Alexis Espinosa",
+        "Maria Mendoza",
+        "Dominique Georgiou",
+        "Teresa Lockett",
+        "Jose Martinez",
+        "Elena Perez",
+        "Veronica Gallardo Sanchez",
+        "Giuseppe Scozzafava",
+        "Alberto Sobrinodiaz",
+        "Hannah Thraves",
+        "Etienne Joly"
+      ],
+      "year": "2021",
+      "journal": "Nature communications",
+      "doi": "10.1038/s41467-021-22045-y",
+      "doi_link": "https://doi.org/10.1038/s41467-021-22045-y",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33782398",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20haemagglutination%20test%20for%20rapid%20detection%20of%20antibodies%20to%20SARS-CoV-2%22",
+      "citations": {
+        "semantic_scholar": 60
+      },
+      "abstract": "Serological detection of antibodies to SARS-CoV-2 is essential for establishing rates of seroconversion in populations, and for seeking evidence for a level of antibody that may be protective against COVID-19 disease. Several high-performance commercial tests have been described, but these require centralised laboratory facilities that are comparatively expensive, and therefore not available universally. Red cell agglutination tests do not require special equipment, are read by eye, have short development times, low cost and can be applied at the Point of Care. Here we describe a quantitative Haemagglutination test (HAT) for the detection of antibodies to the receptor binding domain of the SARS-CoV-2 spike protein. The HAT has a sensitivity of 90% and specificity of 99% for detection of antibodies after a PCR diagnosed infection. We will supply aliquots of the test reagent sufficient for ten thousand test wells free of charge to qualified research groups anywhere in the world.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "33777028",
+      "title": "Immune Memory in Mild COVID-19 Patients and Unexposed Donors Reveals Persistent T Cell Responses After SARS-CoV-2 Infection.",
+      "authors": [
+        "Asgar Ansari",
+        "Rakesh Arya",
+        "Shilpa Sachan",
+        "Someshwar Nath Jha",
+        "Anurag Kalia",
+        "Anupam Lall",
+        "Alessandro Sette",
+        "Alba Grifoni",
+        "Daniela Weiskopf",
+        "Poonam Coshic",
+        "Ashok Sharma",
+        "Nimesh Gupta"
+      ],
+      "year": "2021",
+      "journal": "Frontiers in immunology",
+      "doi": "10.3389/fimmu.2021.636768",
+      "doi_link": "https://doi.org/10.3389/fimmu.2021.636768",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33777028",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Immune%20Memory%20in%20Mild%20COVID-19%20Patients%20and%20Unexposed%20Donors%20Reveals%20Persistent%20T%20Cell%20Responses%20After%20SARS-CoV-2%20Infection%22",
+      "citations": {
+        "semantic_scholar": 38
+      },
+      "abstract": "Understanding the causes of the diverse outcome of COVID-19 pandemic in different geographical locations is important for the worldwide vaccine implementation and pandemic control responses. We analyzed 42 unexposed healthy donors and 28 mild COVID-19 subjects up to 5 months from the recovery for SARS-CoV-2 specific immunological memory. Using HLA class II predicted peptide megapools, we identified SARS-CoV-2 cross-reactive CD4+ T cells in around 66% of the unexposed individuals. Moreover, we found detectable immune memory in mild COVID-19 patients several months after recovery in the crucial arms of protective adaptive immunity; CD4+ T cells and B cells, with a minimal contribution from CD8+ T cells. Interestingly, the persistent immune memory in COVID-19 patients is predominantly targeted towards the Spike glycoprotein of the SARS-CoV-2. This study provides the evidence of both high magnitude pre-existing and persistent immune memory in Indian population. By providing the knowledge on cellular immune responses to SARS-CoV-2, our work has implication for the development and implementation of vaccines against COVID-19.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "33685230",
+      "title": "An immune epigenetic insight to COVID-19 infection.",
+      "authors": [
+        "Bimal P Jit",
+        "Sahar Qazi",
+        "Rakesh Arya",
+        "Ankit Srivastava",
+        "Nimesh Gupta",
+        "Ashok Sharma"
+      ],
+      "year": "2021",
+      "journal": "Epigenomics",
+      "doi": "10.2217/epi-2020-0349",
+      "doi_link": "https://doi.org/10.2217/epi-2020-0349",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33685230",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22An%20immune%20epigenetic%20insight%20to%20COVID-19%20infection%22",
+      "citations": {
+        "semantic_scholar": 28
+      },
+      "abstract": "Severe acute respiratory syndrome coronavirus-2 is a positive-sense RNA virus, a causal agent of ongoing COVID-19 pandemic. ACE2R methylation across three CpG sites (cg04013915, cg08559914, cg03536816) determines the host cell's entry. It regulates ACE2 expression by controlling the SIRT1 and KDM5B activity. Further, it regulates Type I and III IFN response by modulating H3K27me3 and H3K4me3 histone mark. SARS-CoV-2 protein with bromodomain and protein E mimics bromodomain histones and evades from host immune response. The 2'-O MTases mimics the host's cap1 structure and plays a vital role in immune evasion through Hsp90-mediated epigenetic process to hijack the infected cells. Although the current review highlighted the critical epigenetic events associated with SARS-CoV-2 immune evasion, the detailed mechanism is yet to be elucidated.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "33655267",
+      "title": "Immune memory in mild COVID-19 patients and unexposed donors from India reveals persistent T cell responses after SARS-CoV-2 infection.",
+      "authors": [
+        "Asgar Ansari",
+        "Rakesh Arya",
+        "Shilpa Sachan",
+        "Someshwar Nath Jha",
+        "Anurag Kalia",
+        "Anupam Lall",
+        "Alessandro Sette",
+        "Alba Grifoni",
+        "Daniela Weiskopf",
+        "Poonam Coshic",
+        "Ashok Sharma",
+        "Nimesh Gupta"
+      ],
+      "year": "2021",
+      "journal": "medRxiv : the preprint server for health sciences",
+      "doi": "10.1101/2020.11.16.20232967",
+      "doi_link": "https://doi.org/10.1101/2020.11.16.20232967",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33655267",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Immune%20memory%20in%20mild%20COVID-19%20patients%20and%20unexposed%20donors%20from%20India%20reveals%20persistent%20T%20cell%20responses%20after%20SARS-CoV-2%20infection%22",
+      "citations": {
+        "semantic_scholar": 5
+      },
+      "abstract": "Understanding the causes of the diverse outcome of COVID-19 pandemic in different geographical locations is important for the worldwide vaccine implementation and pandemic control responses. We analyzed 42 unexposed healthy donors and 28 mild COVID-19 subjects up to 5 months from the recovery for SARS-CoV-2 specific immunological memory. Using HLA class II predicted peptide megapools, we identified SARS-CoV-2 cross-reactive CD4+ T cells in around 66% of the unexposed individuals. Moreover, we found detectable immune memory in mild COVID-19 patients several months after recovery in the crucial arms of protective adaptive immunity; CD4+ T cells and B cells, with a minimal contribution from CD8+ T cells. Interestingly, the persistent immune memory in COVID-19 patients is predominantly targeted towards the Spike glycoprotein of the SARS-CoV-2. This study provides the evidence of both high magnitude pre-existing and persistent immune memory in Indian population. By providing the knowledge on cellular immune responses to SARS-CoV-2, our work has implication for the development and implementation of vaccines against COVID-19.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "32749679",
+      "title": "CD8+ T cells are crucial for humoral immunity establishment by SA14-14-2 live attenuated Japanese encephalitis vaccine in mice.",
+      "authors": [
+        "Anurag Kalia",
+        "Mona Agrawal",
+        "Nimesh Gupta"
+      ],
+      "year": "2021",
+      "journal": "European journal of immunology",
+      "doi": "10.1002/eji.202048745",
+      "doi_link": "https://doi.org/10.1002/eji.202048745",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32749679",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22CD8%2B%20T%20cells%20are%20crucial%20for%20humoral%20immunity%20establishment%20by%20SA14-14-2%20live%20attenuated%20Japanese%20encephalitis%20vaccine%20in%20mice%22",
+      "citations": {
+        "semantic_scholar": 8
+      },
+      "abstract": "The live attenuated SA14-14-2 Japanese encephalitis (JE) vaccine is a historical vaccine that protects against JE. Despite its extensive use, the mechanism of protective immunity conferred by the SA14-14-2 vaccine is not well established. Here, we used mouse models to understand the mechanism of the development of humoral immunity against the vaccine. The vaccine induces robust GC responses within a week postimmunization. In lethal virus challenge, we show that CD4+ T cells alone, but not CD8+ T cells, are sufficient to confer vaccine-mediated protection. However, the CD4-mediated protection was potentiated in the presence of vaccine-primed CD8+ T cells. Employing CD8-deficient mice, we show that both the protective traits of CD4+ T cells and the quality of antibody response to the vaccine are impaired in absence of CD8+ T cells. We further demonstrate that the poor protective immune response induced by the vaccine in absence of CD8+ T cells is mainly due to the impaired differentiation and function of follicular Th cells, leading to suboptimal GC reaction. Our study highlights an unprecedented role of CD8+ T cells in the establishment of humoral responses to the vaccine. By elucidating underlying cellular determinants of vaccine-induced protective immunity, our work has implications for rational design of vaccines against JE virus and related flaviviruses.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "26723503",
+      "title": "Immunogenicity of long-lasting recombinant factor VIII products.",
+      "authors": [
+        "Mathieu Ing",
+        "Nimesh Gupta",
+        "Maud Teyssandier",
+        "Bernard Maillère",
+        "Marc Pallardy",
+        "Sandrine Delignat",
+        "Sébastien Lacroix-Desmazes",
+        "ABIRISK consortium"
+      ],
+      "year": "2016",
+      "journal": "Cellular immunology",
+      "doi": "10.1016/j.cellimm.2015.12.006",
+      "doi_link": "https://doi.org/10.1016/j.cellimm.2015.12.006",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26723503",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Immunogenicity%20of%20long-lasting%20recombinant%20factor%20VIII%20products%22",
+      "citations": {
+        "semantic_scholar": 36
+      },
+      "abstract": "Replacement therapy for patients with hemophilia A using plasma-derived or recombinant factor VIII (FVIII) is complicated by the short half-life of the FVIII products and by the occurrence of neutralizing antibodies in a substantial number of patients. In the recent years, enormous efforts have been invested to develop new generations of coagulation factors with extended half-lives. Presumably, the use of long-lasting FVIII products should reduce the frequency of administration to the patients and drastically improve their quality of life. The question of their immunogenicity remains however unanswered as yet. The present review proposes a summary of the different strategies developed to enhance the half-life of FVIII, including fusion of FVIII to the Fc fragment of the human IgG1 or to human serum albumin, or attachment of polyethylene glycol. Based on the available literature, we hypothesize on the potential benefits or risks associated with each of the latter strategies in terms of immunogenicity of the newly derived hemostatic drugs.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "26542535",
+      "title": "Neutralization of Japanese Encephalitis Virus by heme-induced broadly reactive human monoclonal antibody.",
+      "authors": [
+        "Nimesh Gupta",
+        "Mélissanne de Wispelaere",
+        "Maxime Lecerf",
+        "Manjula Kalia",
+        "Tobias Scheel",
+        "Sudhanshu Vrati",
+        "Claudia Berek",
+        "Srinivas V Kaveri",
+        "Philippe Desprès",
+        "Sébastien Lacroix-Desmazes",
+        "Jordan D Dimitrov"
+      ],
+      "year": "2015",
+      "journal": "Scientific reports",
+      "doi": "10.1038/srep16248",
+      "doi_link": "https://doi.org/10.1038/srep16248",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26542535",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Neutralization%20of%20Japanese%20Encephalitis%20Virus%20by%20heme-induced%20broadly%20reactive%20human%20monoclonal%20antibody%22",
+      "citations": {
+        "semantic_scholar": 21
+      },
+      "abstract": "Geographical expansion and re-emerging new genotypes of the Japanese encephalitis virus (JEV) require the development of novel therapeutic approaches. Here, we studied a non-conventional approach for antibody therapy and show that, upon exposure to heme, a fraction of natural human immunoglobulins acquires high-affinity reactivity with the antigenic domain-III of JEV E glycoprotein. These JEV-reactive antibodies exhibited neutralizing activity against recently dominant JEV genotypes. This study opens new therapeutic options for Japanese encephalitis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "25918233",
+      "title": "Materno-Fetal Transfer of Preproinsulin Through the Neonatal Fc Receptor Prevents Autoimmune Diabetes.",
+      "authors": [
+        "Slobodan Culina",
+        "Nimesh Gupta",
+        "Raphael Boisgard",
+        "Georgia Afonso",
+        "Marie-Claude Gagnerault",
+        "Jordan Dimitrov",
+        "Thomas Østerbye",
+        "Sune Justesen",
+        "Sandrine Luce",
+        "Mikhaël Attias",
+        "Bruno Kyewski",
+        "Søren Buus",
+        "F Susan Wong",
+        "Sebastien Lacroix-Desmazes",
+        "Roberto Mallone"
+      ],
+      "year": "2015",
+      "journal": "Diabetes",
+      "doi": "10.2337/db15-0024",
+      "doi_link": "https://doi.org/10.2337/db15-0024",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25918233",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Materno-Fetal%20Transfer%20of%20Preproinsulin%20Through%20the%20Neonatal%20Fc%20Receptor%20Prevents%20Autoimmune%20Diabetes%22",
+      "citations": {
+        "crossref": 24
+      },
+      "abstract": "The first signs of autoimmune activation leading to β-cell destruction in type 1 diabetes (T1D) appear during the first months of life. Thus, the perinatal period offers a suitable time window for disease prevention. Moreover, thymic selection of autoreactive T cells is most active during this period, providing a therapeutic opportunity not exploited to date. We therefore devised a strategy by which the T1D-triggering antigen preproinsulin fused with the immunoglobulin (Ig)G Fc fragment (PPI-Fc) is delivered to fetuses through the neonatal Fc receptor (FcRn) pathway, which physiologically transfers maternal IgGs through the placenta. PPI-Fc administered to pregnant PPIB15-23 T-cell receptor-transgenic mice efficiently accumulated in fetuses through the placental FcRn and protected them from subsequent diabetes development. Protection relied on ferrying of PPI-Fc to the thymus by migratory dendritic cells and resulted in a rise in thymic-derived CD4(+) regulatory T cells expressing transforming growth factor-β and in increased effector CD8(+) T cells displaying impaired cytotoxicity. Moreover, polyclonal splenocytes from nonobese diabetic (NOD) mice transplacentally treated with PPI-Fc were less diabetogenic upon transfer into NOD.scid recipients. Transplacental antigen vaccination provides a novel strategy for early T1D prevention and, further, is applicable to other immune-mediated conditions.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "25696000",
+      "title": "Regulation of immune responses to protein therapeutics by transplacental induction of T cell tolerance.",
+      "authors": [
+        "Nimesh Gupta",
+        "Slobodan Culina",
+        "Yann Meslier",
+        "Jordan Dimitrov",
+        "Christophe Arnoult",
+        "Sandrine Delignat",
+        "Bagirath Gangadharan",
+        "Maxime Lecerf",
+        "Sune Justesen",
+        "Valérie Gouilleux-Gruart",
+        "Benoit L Salomon",
+        "David W Scott",
+        "Srinivas V Kaveri",
+        "Roberto Mallone",
+        "Sébastien Lacroix-Desmazes"
+      ],
+      "year": "2015",
+      "journal": "Science translational medicine",
+      "doi": "10.1126/scitranslmed.aaa1957",
+      "doi_link": "https://doi.org/10.1126/scitranslmed.aaa1957",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25696000",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Regulation%20of%20immune%20responses%20to%20protein%20therapeutics%20by%20transplacental%20induction%20of%20T%20cell%20tolerance%22",
+      "citations": {
+        "semantic_scholar": 46
+      },
+      "abstract": "Central tolerance plays a key role in modulating immune responses to self and exogenous antigens. The absence of self-antigen expression, as in patients with genetic deficiencies, prevents the development of antigen-specific immune tolerance. Hence, a substantial number of patients develop neutralizing antibodies to the corresponding protein therapeutics after replacement treatment. In this context, the administration of missing antigens during fetal development, a key period for self-tolerance establishment, should confer early and long-lasting antigen-specific tolerance. To this end, we exploited the physiological pathway of the neonatal Fc receptor (FcRn) through which maternal immunoglobulins are transplacentally transferred to fetuses. We demonstrate that Fc-fused antigens administered to pregnant mice reach fetal lymphoid organs in an FcRn-dependent manner, accumulate in antigen-presenting cells of myeloid origin, and promote the generation of both thymic and peripheral antigen-specific regulatory T cells. This strategy was successfully pursued in a mouse model of hemophilia A, where maternofetal transfer of the Fc-fused immunodominant domains of coagulation factor VIII conferred antigen-specific tolerance. Transplacental tolerance induction with Fc-fused proteins may thus prove valuable to prevent alloimmunization after replacement protein therapy for congenital deficiencies.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "24643627",
+      "title": "Japanese encephalitis virus expands regulatory T cells by increasing the expression of PD-L1 on dendritic cells.",
+      "authors": [
+        "Nimesh Gupta",
+        "Pushpa Hegde",
+        "Maxime Lecerf",
+        "Minu Nain",
+        "Manpreet Kaur",
+        "Manjula Kalia",
+        "Sudhanshu Vrati",
+        "Jagadeesh Bayry",
+        "Sébastien Lacroix-Desmazes",
+        "Srini V Kaveri"
+      ],
+      "year": "2014",
+      "journal": "European journal of immunology",
+      "doi": "10.1002/eji.201343701",
+      "doi_link": "https://doi.org/10.1002/eji.201343701",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24643627",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Japanese%20encephalitis%20virus%20expands%20regulatory%20T%20cells%20by%20increasing%20the%20expression%20of%20PD-L1%20on%20dendritic%20cells%22",
+      "citations": {
+        "semantic_scholar": 33
+      },
+      "abstract": "The mechanisms underlying Japanese encephalitis virus (JEV) pathogenesis need to be thoroughly explored to delineate therapeutic approaches. It is believed that JEV manipulates the innate and adaptive compartments of the host's immune system to evade immune response and cross the blood-brain barrier. The present study was thus designed to investigate the functional modulation of DCs after exposure to JEV and to assess the consequences on CD4(+) T-lymphocyte functions. Human monocyte-derived DCs were either infected with 1 MOI of live virus, UV-inactivated virus, or were mock-infected. Replication-competent JEV induced a significant increase in the expression of maturation markers 48 h postinfection, along with that of programmed cell death 1 ligand 1 (PD-L1; also called B7-H1 and CD274). JEV-infected DCs expanded the Treg cells in allogenic mixed lymphocyte reactions. The expansion of Treg cells by JEV-infected DCs was significantly reduced upon blocking PD-L1 using an antagonist. In addition, JEV-infected DCs significantly altered the proliferation and reduced the polarization of Th cells toward the Th1-cell phenotype. The results, for the first time, suggest that JEV evades the host's immune system by modulating the crosstalk between DCs and T lymphocytes via the PD-L1 axis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "24280489",
+      "title": "[Post-translational diversification of immunoglobulins specificity].",
+      "authors": [
+        "Cyril Planchais",
+        "Nimesh Gupta",
+        "Srinivas V Kaveri",
+        "Sébastien Lacroix-Desmazes",
+        "Jordan D Dimitrov"
+      ],
+      "year": "2013",
+      "journal": "Medecine sciences : M/S",
+      "doi": "10.1051/medsci/20132911002",
+      "doi_link": "https://doi.org/10.1051/medsci/20132911002",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24280489",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22%5BPost-translational%20diversification%20of%20immunoglobulins%20specificity%5D%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "23894466",
+      "title": "Affinity-purified respiratory syncytial virus antibodies from intravenous immunoglobulin exert potent antibody-dependent cellular cytotoxicity.",
+      "authors": [
+        "Nimesh Gupta",
+        "Jerome LeGoff",
+        "Soulaima Chamat",
+        "Severine Mercier-Delarue",
+        "Olivier Touzelet",
+        "Ultan F Power",
+        "Michel D Kazatchkine",
+        "Francois Simon",
+        "Sebastien Lacroix-Desmazes",
+        "Jagadeesh Bayry",
+        "Srinivas V Kaveri"
+      ],
+      "year": "2013",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0069390",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0069390",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23894466",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Affinity-purified%20respiratory%20syncytial%20virus%20antibodies%20from%20intravenous%20immunoglobulin%20exert%20potent%20antibody-dependent%20cellular%20cytotoxicity%22",
+      "citations": {
+        "semantic_scholar": 17
+      },
+      "abstract": "Mixed infections are one of the major therapeutic challenges, as the current strategies have had limited success. One of the most common and widespread conditions of mixed infection is respiratory syncytial virus-mediated pathology of the respiratory tract in children. There is a dire need for the development of novel therapeutic approaches during mixed infections. Therapeutic intravenous immunoglobulin preparations, obtained from plasma pools of healthy donors have been used in immune deficiencies. This study was thus designed to characterize the functional efficacy of RSV-specific antibodies in IVIg. To explore the functional ability of these affinity-purified RSV-specific antibodies, the antibody-dependent and complement dependent cytotoxicity was determined using peripheral cells of healthy donors. This study demonstrates the existence of highly potent RSV-specific antibodies in IVIg preparations and provides the basis for the use of IVIg as broad-spectrum protective shield to RSV-infected children during mixed infections.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "22595364",
+      "title": "Transcriptomic profile of host response in mouse brain after exposure to plant toxin abrin.",
+      "authors": [
+        "A S Bala Bhaskar",
+        "Nimesh Gupta",
+        "P V Lakshmana Rao"
+      ],
+      "year": "2012",
+      "journal": "Toxicology",
+      "doi": "10.1016/j.tox.2012.05.005",
+      "doi_link": "https://doi.org/10.1016/j.tox.2012.05.005",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22595364",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Transcriptomic%20profile%20of%20host%20response%20in%20mouse%20brain%20after%20exposure%20to%20plant%20toxin%20abrin%22",
+      "citations": {
+        "semantic_scholar": 17
+      },
+      "abstract": "Abrin toxin is a plant glycoprotein, which is similar in structure and properties to ricin and is obtained from the seeds of Abrus precatorius (jequirity bean). Abrin is highly toxic, with an estimated human fatal dose of 0.1-1 μg/kg, and has caused death after accidental and intentional poisoning. Abrin is a potent biological toxin warfare agent. There are no chemical antidotes available against the toxin. Neurological symptoms like delirium, hallucinations, reduced consciousness and generalized seizures were reported in human poisoning cases. Death of a patient with symptoms of acute demyelinating encephalopathy with gastrointestinal bleeding due to ingestion of abrin seeds was reported in India. The aim of this study was to examine both dose and time-dependent transcriptional responses induced by abrin in the adult mouse brain. Mice (n=6) were exposed to 1 and 2 LD50 (2.83 and 5.66 μg/kg respectively) dose of abrin by intraperitoneal route and observed over 3 days. A subset of animals (n=3) were sacrificed at 1 and 2 day intervals for microarray and histopathology analysis. None of the 2 LD50 exposed animals survived till 3 days. The histopathological analysis showed the severe damage in brain and the infiltration of inflammatory cells in a dose and time dependent manner. The abrin exposure resulted in the induction of rapid immune and inflammatory response in brain. Clinical biochemistry parameters like lactate dehydrogenase, aspartate aminotransferase, urea and creatinine showed significant increase at 2-day 2 LD50 exposure. The whole genome microarray data revealed the significant regulation of various pathways like MAPK pathway, cytokine-cytokine receptor interaction, calcium signaling pathway, Jak-STAT signaling pathway and natural killer cell mediated toxicity. The comparison of differential gene expression at both the doses showed dose dependent effects of abrin toxicity. The real-time qRT-PCR analysis of selected genes supported the microarray data. This is the first report on host-gene response using whole genome microarray in an animal model after abrin exposure. The data generated provides leads for developing suitable medical counter measures against abrin poisoning.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper21",
+      "publication_id": "21371334",
+      "title": "Transcriptomic profile of host response in Japanese encephalitis virus infection.",
+      "authors": [
+        "Nimesh Gupta",
+        "P V Lakshmana Rao"
+      ],
+      "year": "2011",
+      "journal": "Virology journal",
+      "doi": "10.1186/1743-422X-8-92",
+      "doi_link": "https://doi.org/10.1186/1743-422X-8-92",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21371334",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Transcriptomic%20profile%20of%20host%20response%20in%20Japanese%20encephalitis%20virus%20infection%22",
+      "citations": {
+        "semantic_scholar": 56
+      },
+      "abstract": "BACKGROUND: Japanese encephalitis (JE) is one of the leading causes of acute encephalopathy with the highest mortality rate of 30-50%. The purpose of this study was to understand complex biological processes of host response during the progression of the disease. Virus was subcutaneously administered in mice and brain was used for whole genome expression profiling by cDNA microarray. RESULTS: The comparison between viral replication efficiency and disease progression confirms the active role of host response in immunopathology and disease severity. The histopathological analysis confirms the severe damage in the brain in a time dependent manner. Interestingly, the transcription profile reveals significant and differential expression of various pattern recognition receptors, chemotactic genes and the activation of inflammasome. The increased leukocyte infiltration and aggravated CNS inflammation may be the cause of disease severity. CONCLUSION: This is the first report that provides a detailed picture of the host transcriptional response in a natural route of exposure and opens up new avenues for potential therapeutic and prophylactic strategies against Japanese encephalitis virus.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper22",
+      "publication_id": "21320173",
+      "title": "Transcriptional regulation and activation of the mitogen-activated protein kinase pathway after Japanese encephalitis virus infection in neuroblastoma cells.",
+      "authors": [
+        "Nimesh Gupta",
+        "Appanabhotla S Bala Bhaskar",
+        "Putcha V Lakshmana Rao"
+      ],
+      "year": "2011",
+      "journal": "FEMS immunology and medical microbiology",
+      "doi": "10.1111/j.1574-695X.2011.00792.x",
+      "doi_link": "https://doi.org/10.1111/j.1574-695X.2011.00792.x",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21320173",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Transcriptional%20regulation%20and%20activation%20of%20the%20mitogen-activated%20protein%20kinase%20pathway%20after%20Japanese%20encephalitis%20virus%20infection%20in%20neuroblastoma%20cells%22",
+      "citations": {
+        "crossref": 17
+      },
+      "abstract": "Japanese encephalitis virus (JEV), the most frequent and the single most important cause of encephalitis worldwide, has spread throughout most of Asia. For the development of appropriate and effective therapy, there is an immediate requirement to understand the role of host factors in JEV-induced neuropathogenesis. In the present study, we investigated the role of mitogen-activated protein kinases (MAPKs) in JEV infection of mouse neuroblastoma (N2A) cells. The MAPK pathway was studied at the transcriptional level to access the gene expression profile at different time points after JEV infection. The effector MAPK genes were also analyzed for protein expression and activation. Gene expression analysis showed a significant regulation of extracellular signal-regulated kinases (ERK)1, ERK2 and c-Jun N-terminal kinase (JNK)3 genes along with their downstream transcription factors such as Mef2c, c-Jun and Sfn. Experiments with the JNK inhibitor, SP600125, and the ERK inhibitor, PD98059, showed the involvement of JNK in JEV-induced caspase-3 activation and apoptosis, but ERK1/2 had no effect. Overall, our results show the transcriptional regulation of the MAPK pathway and the essential role of JNK in JEV-induced apoptosis in neuroblastoma cells. These findings provide a new insight into the role of the mitogen- and stress-activated kinases in JEV pathogenesis and opens up new avenues of therapeutics.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper23",
+      "publication_id": "21112371",
+      "title": "Alteration of blood brain barrier permeability by T-2 toxin: Role of MMP-9 and inflammatory cytokines.",
+      "authors": [
+        "Jayaraj Ravindran",
+        "Mona Agrawal",
+        "Nimesh Gupta",
+        "P V Lakshmana Rao"
+      ],
+      "year": "2011",
+      "journal": "Toxicology",
+      "doi": "10.1016/j.tox.2010.11.006",
+      "doi_link": "https://doi.org/10.1016/j.tox.2010.11.006",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21112371",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Alteration%20of%20blood%20brain%20barrier%20permeability%20by%20T-2%20toxin%3A%20Role%20of%20MMP-9%20and%20inflammatory%20cytokines%22",
+      "citations": {
+        "semantic_scholar": 76
+      },
+      "abstract": "T-2 toxin is a cytotoxic fungal secondary metabolite produced by different species of Fusarium such as F. sporotichioides, F. poae, F. equiseti, F. acuminatum etc. This class of mycotoxins causes a number of pathologies including nervous disorders, cardiovascular alterations, immunodepression and hemostatic derangements. In the present study, mechanism of T-2 toxin induced alteration of blood-brain barrier (BBB) permeability was assessed in terms of oxidative stress, gene expression of MMP-9, MMP-2 and their inhibitors TIMP-1 and TIMP-2, activation of inflammatory cytokines in both brain and peripheral tissue spleen. Gel zymography was used to show the activity of MMP-9 and MMP-2. The percutaneous exposure of 1 LD50 T2 toxin caused a reversible alteration in BBB permeability as observed by extravasation of Evans blue dye. Maximum dye level was observed on day 3 and reduced by day 7. A significant GSH depletion was observed on days 1 and 3. Brain ROS and lipid peroxidation levels increased significantly on 1 and 3 days and decreased by day 7. The SOD levels in brain showed significantly higher activity on 3 days (4-fold) and 7 days (5-fold) of toxin exposure compared to control. A similar trend was observed with catalase enzyme levels. The gene expression analysis of cNOS and iNOS showed varying levels of expression on different time points of post exposure. MMP-9 expression was significantly high on days 3 and 7 in brain with corresponding alteration in TIMP-1. MMP-2 and TIMP-2 showed no effect. Gene expression analysis of the inflammatory cytokines, IL-1α, IL-1β, IL-6 and TNF-α showed elevated levels on day 7 in brain. As spleen plays an important role in inflammatory response we analyzed MMP-9, MMP-2 and inflammatory cytokines in spleen. The MMP-9 was activated on day 7. MMP-2 activity was found to be elevated on 3 and 7 days and TIMP-2 mRNA level increased on 1 and 3 days in spleen. Inflammatory cytokines, IL-1 α, IL-1β, IL-6 and TNF-α showed elevated levels on days 1 and 3 in spleen indicating an early effect in spleen than in brain. In summary, the results of the study showed that the T-2 induced alteration in BBB permeability is mediated through oxidative stress, activation of MMP-9, and proinflammatory cytokines in brain as well as contribution from peripheral tissue spleen.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper24",
+      "publication_id": "21082355",
+      "title": "Modulation of ROS/MAPK signaling pathways by okadaic acid leads to cell death via, mitochondrial mediated caspase-dependent mechanism.",
+      "authors": [
+        "Jayaraj Ravindran",
+        "Nimesh Gupta",
+        "Mona Agrawal",
+        "A S Bala Bhaskar",
+        "P V Lakshmana Rao"
+      ],
+      "year": "2011",
+      "journal": "Apoptosis : an international journal on programmed cell death",
+      "doi": "10.1007/s10495-010-0554-0",
+      "doi_link": "https://doi.org/10.1007/s10495-010-0554-0",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21082355",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Modulation%20of%20ROS/MAPK%20signaling%20pathways%20by%20okadaic%20acid%20leads%20to%20cell%20death%20via%2C%20mitochondrial%20mediated%20caspase-dependent%20mechanism%22",
+      "citations": {
+        "semantic_scholar": 126
+      },
+      "abstract": "Okadaic acid (OA) is a specific and potent protein phosphatase inhibitor and tumor promoter. The present study establishes the role of reactive oxygen species (ROS) and mitogen activated protein kinases in cell death induced by okadaic acid. The study showed that okadaic acid is cytotoxic at 10 nM with an IC50 of 100 nM in U-937 cells. The CVDE assay and mitochondrial dehydrogenase assay showed a time dependent cytotoxicity. The phase contrast visualization of the OA treated cells showed the apoptotic morphology and was confirmed with esterase staining for plasma membrane integrity. OA activated caspases-7, 9 and 3, PARP cleavage and induced nuclear damage in a time and dose dependent manner. Compromised mitochondrial membrane potential, release of cytochrome-c and apoptosis inducing factor confirms the involvement of mitochondria. A time dependent decrease in glutathione levels and a dose dependent increase in ROS with maximum at 30 min were observed. ROS scavenger-N-acetyl cysteine, mitochondrial stabilizer-cyclosporin-A, and broad spectrum caspase inhibitor Z-VAD-FMK inhibited the OA induced caspase-3 activation, DNA damage and cell death but caspase-8 inhibitor had no effect. OA activated p38 MAPK and JNK in a time dependent manner, but not ERK½. MAP kinase inhibitors SB203580, SP600125 and PD98059 confirm the role of p38 MAPK and JNK in OA induced caspase-3 activation and cell death. Over all, our results indicate that OA induces cell death by generation of ROS, and activation of p38 MAPK and JNK, and executed through mitochondrial mediated caspase pathway.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper25",
+      "publication_id": "20637688",
+      "title": "Expression profile of Japanese encephalitis virus induced neuroinflammation and its implication in disease severity.",
+      "authors": [
+        "Nimesh Gupta",
+        "Vinay Lomash",
+        "P V Lakshmana Rao"
+      ],
+      "year": "2010",
+      "journal": "Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology",
+      "doi": "10.1016/j.jcv.2010.06.009",
+      "doi_link": "https://doi.org/10.1016/j.jcv.2010.06.009",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20637688",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Expression%20profile%20of%20Japanese%20encephalitis%20virus%20induced%20neuroinflammation%20and%20its%20implication%20in%20disease%20severity%22",
+      "citations": {
+        "crossref": 42
+      },
+      "abstract": "BACKGROUND: Host immune response particularly through the induction of proinflammatory cytokines and chemokines in Japanese encephalitis virus infection has not been clearly understood in relation with pathogenicity and disease severity. The newly identified host mediators of pathogenesis could be the future target for diagnostic and therapeutics purpose. OBJECTIVES: We investigated the mechanism of JE virus induced pathogenesis in terms of proinflammatory cytokine and chemokine secretion at molecular level in young one-week-old BALB/c mouse after subcutaneous administration of JEV. STUDY DESIGN: Histopathology of brain was done to observe the morphological changes after JEV infection and genes relevant to macrophage activation, chemokine secretion, inflammatory cell infiltration, and blood-brain barrier permeability were examined at their gene and protein expression level for various time points after infection. RESULTS: At 6-day post-infection 100% mortality was observed. At 5-day post-infection, there was a robust expression of proinflammatory cytokines and chemokines with increased number of infiltrating inflammatory cells into the brain. Histopathology data confirms the infiltration of leucocytes and there was a marked upregulation in expression of genes relevant to infiltration. The expression pattern of macrophage receptor CLEC5A/DAP-12 signaling has shown the involvement in this robust neuroinflammation. CONCLUSIONS: This is the first report that shows the involvement of monocyte and macrophage receptor CLEC5A in severe inflammatory response in JEV infection of brain. This study at gene expression level provides a hypothesis of neuroinflammation, a new lead in development of appropriate therapeutic, and prophylactics against Japanese encephalitis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper26",
+      "publication_id": "20001924",
+      "title": "Antibodies against refolded recombinant envelope protein (domain III) of Japanese encephalitis virus inhibit the JEV infection to Porcine Stable Kidney cells.",
+      "authors": [
+        "Shailendra Kumar Verma",
+        "Nimesh Gupta",
+        "Priyabrata Pattnaik",
+        "J Pradeep Babu",
+        "P V Lakshmana Rao",
+        "Subodh Kumar"
+      ],
+      "year": "2009",
+      "journal": "Protein and peptide letters",
+      "doi": "10.2174/092986609789353709",
+      "doi_link": "https://doi.org/10.2174/092986609789353709",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20001924",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Antibodies%20against%20refolded%20recombinant%20envelope%20protein%20%28domain%20III%29%20of%20Japanese%20encephalitis%20virus%20inhibit%20the%20JEV%20infection%20to%20Porcine%20Stable%20Kidney%20cells%22",
+      "citations": {
+        "semantic_scholar": 18
+      },
+      "abstract": "Japanese encephalitis virus (JEV) is a mosquito-borne viral zoonosis of public health importance. Global efforts have been made towards development of vaccine for prevention of Japanese encephalitis. The envelope protein of JEV is associated with viral binding to cellular receptors, membrane fusion, and the induction of protective neutralizing antibody response in hosts. Here we report that the antibodies raised against refolded domain III of envelope protein of JEV neutralize the JE virus and inhibit the JEV infection to Porcine Stable Kidney (PS) cells. A reverse transcriptase-PCR amplified gene encoding domain III of JEV envelope protein was cloned into pET28a+ vector and over expressed in E. coli. The recombinant JEV-DIII protein was purified by affinity chromatography under denaturing conditions. The rJEV-DIII was refolded by oxido-redux shuffle and purified to homogeneity by ion-exchange chromatography. Refolded rJEV-DIII was characterized using biochemical and biophysical methods. The polyclonal antibodies were raised against in vitro refolded rJEV-DIII protein in BALB/c mice with Freunds adjuvant. Ninety percent JEV is neutralized when the serum against refolded rJEV-DIII is used at a dilution of 1:80 as against 60.5% neutralization capacity with the same dilution of serum raised against denatured rJEV-DIII. The method of expression and purification of biologically functional rJEV-DIII protein described in this study may help in better understanding the biology of JE virus and the development of better vaccine candidate. Since the expression system uses E. coli as the heterologous host, the process is easy and amenable to inexpensive scale-up.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper27",
+      "publication_id": "19896511",
+      "title": "Chemokine profiling of Japanese encephalitis virus-infected mouse neuroblastoma cells by microarray and real-time RT-PCR: implication in neuropathogenesis.",
+      "authors": [
+        "Nimesh Gupta",
+        "S R Santhosh",
+        "J Pradeep Babu",
+        "M M Parida",
+        "P V Lakshmana Rao"
+      ],
+      "year": "2010",
+      "journal": "Virus research",
+      "doi": "10.1016/j.virusres.2009.10.018",
+      "doi_link": "https://doi.org/10.1016/j.virusres.2009.10.018",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19896511",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Chemokine%20profiling%20of%20Japanese%20encephalitis%20virus-infected%20mouse%20neuroblastoma%20cells%20by%20microarray%20and%20real-time%20RT-PCR%3A%20implication%20in%20neuropathogenesis%22",
+      "citations": {
+        "semantic_scholar": 31
+      },
+      "abstract": "Japanese encephalitis (JE) is one of the leading causes of acute encephalopathy affecting children and adolescents in the tropics. JE virus (JEV) infection causes prominent neurological sequelae in approximately one-third of the survivors. In humans, the inflammatory response of CNS consequent to JEV induced viral encephalitis is mediated through chemokines released by various cells of CNS. In the present study, the chemokine profiles of mouse neuroblastoma cells (N2A) following JEV infection was analyzed by cDNA microarray followed by real-time RT-PCR. Eighty mRNA transcripts belonging to various functional classes exhibited significant alterations in gene expression. There was considerable induction of genes involved in apoptosis and anti-viral response. Modified levels of several transcripts involved in proinflammatory and anti-inflammatory processes exemplified the balance between opposing forces during JEV pathogenesis. Other genes displaying altered transcription included those associated with host translation, cellular metabolism, cell cycle, signal transduction, transcriptional regulation, protein trafficking, neurotransmitters, neuron maturation, protein modulators, ER stress and cytoskeletal proteins. The infection of neurons results in the synthesis of proinflammatory chemokines, which are early important mediators of leukocyte recruitment to sites of viral infection. Our results clearly suggest the implication of chemokines in neuropathogenesis of JEV infection leading to neurological sequelae. Pro- and anti-inflammatory agents targeted against chemokines such as CXCL10 may provide possible therapeutic modalities that can mitigate the morbidity associated with JEV infection of the CNS.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper28",
+      "publication_id": "19761840",
+      "title": "Bacterially expressed recombinant envelope protein domain III of Japanese encephalitis virus (rJEV-DIII) elicits Th1 type of immune response in BALB/c mice.",
+      "authors": [
+        "Shailendra Kumar Verma",
+        "Subodh Kumar",
+        "Nimesh Gupta",
+        "Satish Vedi",
+        "Shailja Misra Bhattacharya",
+        "P V Lakshmana Rao"
+      ],
+      "year": "2009",
+      "journal": "Vaccine",
+      "doi": "10.1016/j.vaccine.2009.09.006",
+      "doi_link": "https://doi.org/10.1016/j.vaccine.2009.09.006",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19761840",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Bacterially%20expressed%20recombinant%20envelope%20protein%20domain%20III%20of%20Japanese%20encephalitis%20virus%20%28rJEV-DIII%29%20elicits%20Th1%20type%20of%20immune%20response%20in%20BALB/c%20mice%22",
+      "citations": {
+        "semantic_scholar": 19
+      },
+      "abstract": "Japanese encephalitis is a major cause of encephalitis in Asia. Cases occur largely in rural areas of the South and East Asian region resulting in significant morbidity and mortality. Multiple vaccines exist to control Japanese encephalitis, but all suffer from problems. Envelope protein domain III of Japanese encephalitis virus is involved in binding to host receptors and it contains specific epitopes that elicit virus-neutralizing antibodies. Earlier, the protective efficacy of domain III has been evaluated in mice by some researchers, but these studies are lacking in explanation of humoral and cellular immune responses. We have earlier reported cloning, expression, purification and in vitro refolding of Japanese encephalitis virus envelope protein domain III (rJEV-DIII). Ninety percent JEV is neutralized when the serum against refolded rJEV-DIII is used at a dilution of 1:80. In the present study, we have evaluated the immunomodulatory potential of refolded rJEV-DIII protein in BALB/c mice with Freunds complete/incomplete adjuvants. Mice were tested for humoral immune response by ELISA. Cell-mediated immune response was tested by lymphocyte proliferation assay and cytokine profiling. The rJEV-DIII generated high IgG antibody and its isotypes (IgG2a and IgG3) and induced significant expression of INF-gamma and IL-2 cytokines. The rJEV-DIII induced significant lymphoproliferation of splenocytes. In conclusion rJEV-DIII induced Th1 type of immune response which plays an important role in protection for intracellular pathogens.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper29",
+      "publication_id": "19084044",
+      "title": "Multiple signal transduction pathways in okadaic acid induced apoptosis in HeLa cells.",
+      "authors": [
+        "R Jayaraj",
+        "Nimesh Gupta",
+        "P V Lakshmana Rao"
+      ],
+      "year": "2009",
+      "journal": "Toxicology",
+      "doi": "10.1016/j.tox.2008.11.013",
+      "doi_link": "https://doi.org/10.1016/j.tox.2008.11.013",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19084044",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Multiple%20signal%20transduction%20pathways%20in%20okadaic%20acid%20induced%20apoptosis%20in%20HeLa%20cells%22",
+      "citations": {
+        "semantic_scholar": 43
+      },
+      "abstract": "Okadaic acid (OA) is the major component of diarrhetic shell fish poisoning toxins and a potent inhibitor of protein phosphatase 1 and 2A. We investigated the signal transduction pathways involved in OA induced cell death in HeLa cells. OA induced cytotoxicity and apoptosis at IC50 of 100nM. OA treatment resulted in time dependent increase in reactive oxygen species and depleted intracellular glutathione levels. Loss of mitochondrial membrane permeability led to translocation of bax, cytochrome-c and AIF from mitochondria to cytosol. The cells under fluorescence microscope showed typical apoptotic morphology with condensed chromatin, and nuclear fragmentation. We investigated the mitochondrial-mediated caspase cascade. The time dependent activation and cleavage of of bax, caspases-8, 10, 9, 3 and 7 was observed in Western blot analysis. In addition to caspase-dependent pathway AIF mediated caspase-independent pathway was involved in OA mediated cell death. OA also caused time dependent inhibition of protein phosphatase 2A activity and phosphorylation of p38 and p42/44 MAP kinases. Inhibitor studies with Ac-DEVO-CHO and Z-VAD-FMK could not prevent the phosphorylation of p38 and p42/44 MAP kinases. Our experiments with caspase inhibitors Ac-DEVD-CHO, Z-IETD-FMK and Z-VAD-FMK inhibited capsase-3, 8 cleavages but did not prevent OA-induced apoptosis and DNA fragmentation. Similarly, pretreatment with cyclosporin-A and N-acetylcysteine could not prevent the DNA fragmentation. In summary, the results of our study show that OA induces multiple signal transduction pathways acting either independently or simultaneously leading to apoptosis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper30",
+      "publication_id": "18640168",
+      "title": "Immunogenicity of a recombinant envelope domain III protein of dengue virus type-4 with various adjuvants in mice.",
+      "authors": [
+        "J Pradeep Babu",
+        "Priyabrata Pattnaik",
+        "Nimesh Gupta",
+        "Ambuj Shrivastava",
+        "Mohsin Khan",
+        "P V Lakshmana Rao"
+      ],
+      "year": "2008",
+      "journal": "Vaccine",
+      "doi": "10.1016/j.vaccine.2008.07.006",
+      "doi_link": "https://doi.org/10.1016/j.vaccine.2008.07.006",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18640168",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Immunogenicity%20of%20a%20recombinant%20envelope%20domain%20III%20protein%20of%20dengue%20virus%20type-4%20with%20various%20adjuvants%20in%20mice%22",
+      "citations": {
+        "semantic_scholar": 70
+      },
+      "abstract": "Dengue fever, a mosquito borne viral disease, has become a major public health problem with dramatic expansion in recent decades. Several dengue vaccines are at developing stage, none are yet available for humans. There is no vaccine or antiviral therapy available for dengue fever till date. Domain III of envelope protein is involved in binding to host receptors and it contains type and subtype-specific epitopes that elicit virus neutralizing antibodies. Hence domain III is an attractive vaccine candidate. In the present study we report the immunomodulatory potential of refolded D4EIII protein in combination with various adjuvants (Freunds Complete adjuvant, Montanide ISA720, Alum). Mice were tested for humoral immune responses by ELISA, immunofluorescence assay and plaque reduction neutralization test. Cell mediated immune response was tested by lymphocyte proliferation assay and cytokine profiling. All the formulations resulted in high antibody titers that neutralized the virus entry in vitro. D4EIII in combination with montanide ISA720 and Feuds complete adjuvant gave highest antibody endpoint titers followed by alum. The level of antigen-stimulated splenocyte proliferation and cytokine production was comparable to that obtained from Con A stimulation and cytokine profiling of stimulated splenocyte culture supernatants indicated that all the adjuvant formulations have induced cell mediated immune response as well. These findings suggest that D4EIII in combination with compatible adjuvants is highly immunogenic and can elicit high titer neutralizing antibodies and cell mediated immune response which plays an important role in intracellular infections, which proves that refolded D4EIII can be a potential vaccine candidate.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper31",
+      "publication_id": "17256968",
+      "title": "Production of IgM specific recombinant dengue multiepitope protein for early diagnosis of dengue infection.",
+      "authors": [
+        "Nagesh K Tripathi",
+        "Ambuj Shrivastva",
+        "Priyabrata Pattnaik",
+        "Manmohan Parida",
+        "Paban K Dash",
+        "Nimesh Gupta",
+        "Asha M Jana",
+        "P V Lakshmana Rao"
+      ],
+      "year": "2007",
+      "journal": "Biotechnology progress",
+      "doi": "10.1021/bp0602698",
+      "doi_link": "https://doi.org/10.1021/bp0602698",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17256968",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Production%20of%20IgM%20specific%20recombinant%20dengue%20multiepitope%20protein%20for%20early%20diagnosis%20of%20dengue%20infection%22",
+      "citations": {
+        "semantic_scholar": 11
+      },
+      "abstract": "Dengue virus infections have recently undergone dramatic expansion in range, affecting several tropical and subtropical regions of the world. Early detection of dengue infection based on the identification of antibodies has emerged as a practical and reliable means of diagnosis of dengue fever. The recombinant dengue multiepitope (rDME-M) protein specific to IgM in E. coli was produced in a 5-L fermentor for use in diagnostic purpose. After fermentation, dry cell weight was approximately 11.8 g/L of the culture. The rDME-M protein was purified under denaturing conditions using single-step nickel nitrilotriacetate (Ni-NTA) affinity chromatography. The final yield of purified rDME-M protein from this method was approximately 68.5 mg/L of the culture. The purity of rDME-M protein was checked by SDS-PAGE analysis, and the reactivity of this protein was further checked by Western blotting and enzyme-linked immunosorbent assay (ELISA). The purified protein was used as an antigen in the development of an in-house dipstick ELISA and evaluated with a panel of 80 patient sera, characterized using commercially available tests for detection of dengue antibody. The results were in excellent agreement with those of IgM capture ELISA (Pan-Bio) and rapid immunochromatography (IC) test (Pan-Bio). These results show that the in-house dipstick ELISA using rDME-M protein can be used as a promising kit because of its comparable sensitivity, specificity, field applicability, and low cost.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper32",
+      "publication_id": "23120030",
+      "title": "Nasal encephalocoele -an atypical case.",
+      "authors": [
+        "N Chaudhary",
+        "Nimesh Gupta",
+        "S Gudwani",
+        "A Safaya"
+      ],
+      "year": "2004",
+      "journal": "Indian journal of otolaryngology and head and neck surgery : official publication of the Association of Otolaryngologists of India",
+      "doi": "10.1007/BF02968776",
+      "doi_link": "https://doi.org/10.1007/BF02968776",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23120030",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Nasal%20encephalocoele%20-an%20atypical%20case%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "Nasal encephalocoele present at birth as a characteristic swelling over the nose and widening of intracanthal distance. Atypical nasal encephalocoeles are usually missed at birth due to absence of any external swelling and they present with diagnostic difficulties. These are very rare and present with only an intranasal mass. We report a case of an atypical nasal encephalocnele in a 8 year old boy who presented with a unilateral intranasal mass and cerebrospinal fluid rhinorrhoea.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 32,
+    "publications_by_year": {
+      "2025": 1,
+      "2024": 2,
+      "2022": 3,
+      "2021": 6,
+      "2016": 1,
+      "2015": 3,
+      "2014": 1,
+      "2013": 2,
+      "2012": 1,
+      "2011": 4,
+      "2010": 2,
+      "2009": 3,
+      "2008": 1,
+      "2007": 1,
+      "2004": 1
+    },
+    "top_journals": [
+      "Vaccine",
+      "Toxicology",
+      "Frontiers in immunology",
+      "European journal of immunology",
+      "Cell reports"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 213,
+      "frequent_collaborators": [
+        "Nimesh Gupta",
+        "P V Lakshmana Rao",
+        "Shilpa Sachan",
+        "Poonam Coshic",
+        "Alessandro Sette",
+        "Daniela Weiskopf",
+        "Ashok Sharma",
+        "Sébastien Lacroix-Desmazes"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "21082355",
+        "title": "Modulation of ROS/MAPK signaling pathways by okadaic acid leads to cell death via, mitochondrial mediated caspase-dependent mechanism.",
+        "citations": 126,
+        "year": "2011"
+      },
+      {
+        "publication_id": "21112371",
+        "title": "Alteration of blood brain barrier permeability by T-2 toxin: Role of MMP-9 and inflammatory cytokines.",
+        "citations": 76,
+        "year": "2011"
+      },
+      {
+        "publication_id": "34838183",
+        "title": "Effectiveness of ChAdOx1 nCoV-19 vaccine against SARS-CoV-2 infection during the delta (B.1.617.2) variant surge in India: a test-negative, case-control study and a mechanistic study of post-vaccination immune responses.",
+        "citations": 74,
+        "year": "2022"
+      }
+    ]
+  }
+}

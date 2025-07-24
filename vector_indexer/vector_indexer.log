@@ -1,0 +1,434 @@
+INFO: 🚀 Starting indexing process for all collections
+INFO: 🚀 Starting indexing for collection: faculty_info
+INFO: Use pytorch device_name: mps
+INFO: Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+DEBUG: Starting new HTTPS connection (1): huggingface.co:443
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+INFO: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+DEBUG: Starting component System
+DEBUG: Starting component Posthog
+INFO: 📁 Processing folder: ../collections/FacultyInfo
+INFO: 📄 Processed 29 documents from current_faculty_profiles.json
+INFO: 📄 Processed 26 documents from former_faculty_profiles.json
+INFO: ➕ Loaded 55 documents from ../collections/FacultyInfo
+DEBUG: Starting new HTTPS connection (1): us.i.posthog.com:443
+INFO: ✅ Indexed 55 new documents into faculty_info
+INFO: ✅ Successfully indexed 55 documents for faculty_info
+INFO: 🚀 Starting indexing for collection: research
+INFO: Use pytorch device_name: mps
+INFO: Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+DEBUG: https://us.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 15
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+INFO: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+DEBUG: Starting component System
+DEBUG: Starting component Posthog
+INFO: 📁 Processing folder: ../collections/Research
+INFO: 📄 Processed 54 documents from all_faculty_research.json
+INFO: 📄 Processed 0 documents from former_faculty_research.json
+INFO: 📄 Processed 0 documents from current_faculty_research.json
+INFO: ➕ Loaded 54 documents from ../collections/Research
+INFO: ✅ Indexed 54 new documents into research
+INFO: ✅ Successfully indexed 54 documents for research
+INFO: 🚀 Starting indexing for collection: publications
+INFO: Use pytorch device_name: mps
+INFO: Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+DEBUG: https://us.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 15
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+INFO: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+DEBUG: Starting component System
+DEBUG: Starting component Posthog
+INFO: 📁 Processing folder: ../collections/Publications
+INFO: 📄 Processed 10 documents from dr_sher_ali_unified.json
+INFO: 📄 Processed 32 documents from dr_sanjeev_das_unified.json
+INFO: 📄 Processed 20 documents from dr_lalit_c_garg_unified.json
+INFO: 📄 Processed 11 documents from dr_anna_george_unified.json
+INFO: 📄 Processed 59 documents from dr_vijay_k_yadav_unified.json
+INFO: 📄 Processed 9 documents from dr_ankita_varshney_unified.json
+INFO: 📄 Processed 25 documents from dr_madhulika_srivastava_unified.json
+INFO: 📄 Processed 23 documents from dr_mohd_ayub_qadri_unified.json
+INFO: 📄 Processed 59 documents from dr_vinay_k_nandicoori_unified.json
+INFO: 📄 Processed 16 documents from dr_janendra_k_batra_unified.json
+INFO: 📄 Processed 22 documents from dr_devinder_sehgal_unified.json
+INFO: 📄 Processed 59 documents from dr_vineeta_bal_unified.json
+INFO: 📄 Processed 15 documents from dr_rajesh_s_gokhale_unified.json
+INFO: 📄 Processed 41 documents from dr_arnab_mukhopadhyay_unified.json
+INFO: 📄 Processed 20 documents from dr_sandeep_saxena_unified.json
+INFO: 📄 Processed 22 documents from dr_santiswarup_singha_unified.json
+INFO: 📄 Processed 33 documents from dr_pushkar_sharma_unified.json
+INFO: 📄 Processed 27 documents from dr_apurba_kumar_sau_unified.json
+INFO: 📄 Processed 31 documents from dr_prafullakumar_b_tailor_unified.json
+INFO: 📄 Processed 27 documents from dr_kanwaljeet_kaur_unified.json
+INFO: 📄 Processed 10 documents from dr_amulya_k_panda_unified.json
+INFO: 📄 Processed 11 documents from dr_g_senthil_kumar_unified.json
+INFO: 📄 Processed 17 documents from dr_rahul_pal_unified.json
+INFO: 📄 Processed 10 documents from dr_satish_k_gupta_unified.json
+INFO: 📄 Processed 11 documents from dr_pramod_k_upadhyay_unified.json
+INFO: 📄 Processed 12 documents from dr_rajendra_p_roy_unified.json
+INFO: 📄 Processed 25 documents from dr_s_gopalan_sampathkumar_unified.json
+INFO: 📄 Processed 20 documents from dr_p_nagarajan_unified.json
+INFO: 📄 Processed 47 documents from dr_chandrima_shaha_unified.json
+INFO: 📄 Processed 17 documents from dr_devram_ghorpade_unified.json
+INFO: 📄 Processed 13 documents from dr_aneeshkumar_ag_unified.json
+INFO: 📄 Processed 16 documents from dr_anil_k_suri_unified.json
+INFO: 📄 Processed 32 documents from dr_nimesh_gupta_unified.json
+INFO: 📄 Processed 45 documents from dr_anil_kumar_unified.json
+INFO: 📄 Processed 40 documents from dr_satyajit_rath_unified.json
+INFO: 📄 Processed 10 documents from dr_narendra_kumar_unified.json
+INFO: 📄 Processed 27 documents from dr_chhuttan_lal_meena_unified.json
+INFO: 📄 Processed 37 documents from dr_bichitra_k_biswal_unified.json
+INFO: 📄 Processed 28 documents from dr_tanmay_majumdar_unified.json
+INFO: 📄 Processed 18 documents from dr_veena_s_patil_unified.json
+INFO: 📄 Processed 26 documents from dr_rajni_rani_unified.json
+INFO: 📄 Processed 10 documents from dr_rajesh_kumar_yadav_unified.json
+INFO: 📄 Processed 10 documents from dr_amitabha_mukhopadhyay_unified.json
+INFO: 📄 Processed 20 documents from dr_akhil_c_banerjea_unified.json
+INFO: 📄 Processed 20 documents from dr_soumen_basak_unified.json
+INFO: 📄 Processed 20 documents from dr_subeer_s_majumdar_unified.json
+INFO: 📄 Processed 10 documents from dr_asok_mukhopadhyay_unified.json
+INFO: 📄 Processed 67 documents from dr_debasisa_mohanty_unified.json
+INFO: 📄 Processed 40 documents from dr_sarika_gupta_unified.json
+INFO: 📄 Processed 31 documents from dr_sangeeta_bhaskar_unified.json
+INFO: 📄 Processed 15 documents from dr_agam_p_singh_unified.json
+INFO: 📄 Processed 40 documents from dr_monica_sundd_unified.json
+INFO: ➕ Loaded 1316 documents from ../collections/Publications
+DEBUG: https://us.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 15
+INFO: ✅ Indexed 1316 new documents into publications
+INFO: ✅ Successfully indexed 1316 documents for publications
+INFO: 🚀 Starting indexing for collection: labs
+INFO: Use pytorch device_name: mps
+INFO: Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+INFO: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+DEBUG: Starting component System
+DEBUG: Starting component Posthog
+INFO: 📁 Processing folder: ../collections/Lab
+INFO: 📄 Processed 1 documents from dr_veena_patil_lab_unified.json
+INFO: 📄 Processed 1 documents from dr_tanmay_majumdar_lab_unified.json
+INFO: 📄 Processed 1 documents from dr_sarika_gupta_lab_unified.json
+INFO: 📄 Processed 1 documents from dr_arnab_mukhopadhyay_lab_unified.json
+INFO: 📄 Processed 1 documents from dr_aneesh_kumar_lab_unified.json
+INFO: 📄 Processed 1 documents from dr_nimesh_gupta_lab_unified.json
+INFO: 📄 Processed 1 documents from dr_debasisa_mohanty_lab_unified.json
+INFO: ➕ Loaded 7 documents from ../collections/Lab
+DEBUG: Skipped duplicate: e91c0372c4cb65b8c3c0108038ebc833
+DEBUG: Skipped duplicate: 1296cde463484430039f63dc08840197
+DEBUG: Skipped duplicate: d92bc4fd7bad0913ed6b62cc44144de4
+DEBUG: Skipped duplicate: 634b8e2ccda8c4049350ff104736b5cd
+DEBUG: Skipped duplicate: 8a54188974f276e776a92133b8ca70d1
+DEBUG: Skipped duplicate: 4d0a2210ac6a1b74edf3193c28bddcfe
+DEBUG: Skipped duplicate: baff88731a005756a392700fcc600751
+INFO: ⏩ All documents already exist. Skipping indexing.
+INFO: ✅ Successfully indexed 0 documents for labs
+INFO: 🚀 Starting indexing for collection: nii_info
+INFO: Use pytorch device_name: mps
+INFO: Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+DEBUG: https://us.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 15
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+INFO: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+DEBUG: Starting component System
+DEBUG: Starting component Posthog
+INFO: 📁 Processing folder: ../collections/BasicInfo
+INFO: 📄 Processed 1 documents from governing-body.json
+INFO: 📄 Processed 1 documents from faculties-list.json
+INFO: 📄 Processed 1 documents from about-nii.json
+INFO: 📄 Processed 3 documents from history.json
+INFO: 📄 Processed 2 documents from director.json
+INFO: 📄 Processed 1 documents from nii-society.json
+INFO: 📄 Processed 1 documents from mission-vision.json
+INFO: 📄 Processed 1 documents from building-committee.json
+INFO: 📄 Processed 1 documents from administrative-head.json
+INFO: 📄 Processed 3 documents from honors.json
+INFO: 📄 Processed 1 documents from organizational_chart.json
+INFO: 📄 Processed 1 documents from alumni-list.json
+INFO: 📄 Processed 1 documents from finance-committee.json
+INFO: 📄 Processed 1 documents from research-area-panel.json
+INFO: 📄 Processed 1 documents from academic-committee.json
+INFO: 📄 Processed 1 documents from scientific-advisory-committee.json
+INFO: ➕ Loaded 21 documents from ../collections/BasicInfo
+INFO: ✅ Indexed 21 new documents into nii_info
+INFO: ✅ Successfully indexed 21 documents for nii_info
+INFO: 🚀 Starting indexing for collection: staff
+INFO: Use pytorch device_name: mps
+INFO: Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+DEBUG: https://us.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 15
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+INFO: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+DEBUG: Starting component System
+DEBUG: Starting component Posthog
+INFO: 📁 Processing folder: ../collections/Staff
+INFO: 📄 Processed 1 documents from administrative_staff_staff.json
+INFO: 📄 Processed 0 documents from faculty_staff.json
+INFO: 📄 Processed 1 documents from staff_summary.json
+INFO: 📄 Processed 1 documents from other_staff.json
+INFO: 📄 Processed 1 documents from supporting_staff_staff.json
+INFO: 📄 Processed 1 documents from technical_staff_staff.json
+INFO: 📄 Processed 0 documents from faculty_directory.json
+INFO: 📄 Processed 1 documents from unified_staff_database.json
+INFO: ➕ Loaded 6 documents from ../collections/Staff
+INFO: ✅ Indexed 6 new documents into staff
+INFO: ✅ Successfully indexed 6 documents for staff
+INFO: 🚀 Starting indexing for collection: programs_courses
+INFO: Use pytorch device_name: mps
+INFO: Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+DEBUG: https://us.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 15
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+INFO: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+DEBUG: Starting component System
+DEBUG: Starting component Posthog
+INFO: 📁 Processing folder: ../collections/Programs
+INFO: 📄 Processed 4 documents from program.json
+INFO: ➕ Loaded 4 documents from ../collections/Programs
+INFO: ✅ Indexed 4 new documents into programs_courses
+INFO: ✅ Successfully indexed 4 documents for programs_courses
+INFO: 🚀 Starting indexing for collection: recruitments
+INFO: Use pytorch device_name: mps
+INFO: Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+DEBUG: https://us.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 15
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+INFO: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+DEBUG: Starting component System
+DEBUG: Starting component Posthog
+INFO: 📁 Processing folder: ../collections/Announcement
+INFO: 📄 Processed 1 documents from Recruitments_Announcements.json
+INFO: ➕ Loaded 1 documents from ../collections/Announcement
+INFO: ✅ Indexed 1 new documents into recruitments
+INFO: ✅ Successfully indexed 1 documents for recruitments
+INFO: 🚀 Starting indexing for collection: magazine
+INFO: Use pytorch device_name: mps
+INFO: Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+DEBUG: https://us.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 15
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+DEBUG: https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+DEBUG: https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+INFO: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+DEBUG: Starting component System
+DEBUG: Starting component Posthog
+INFO: 📁 Processing folder: ../collections/Magazine
+INFO: 📄 Processed 1 documents from Immunoscope.json
+INFO: ➕ Loaded 1 documents from ../collections/Magazine
+INFO: ✅ Indexed 1 new documents into magazine
+INFO: ✅ Successfully indexed 1 documents for magazine
+INFO: 📊 Indexing Summary:
+INFO:    ✅ Successful collections: 8
+INFO:    ❌ Failed collections: 1
+INFO:    📄 Total documents indexed: 1458
+WARNING:    ⚠️ Failed collections: labs
+INFO: 🎉 Process completed successfully!
+DEBUG: https://us.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 15
+INFO: 🚀 Starting indexing for collection: labs
+INFO: Use pytorch device_name: mps
+INFO: Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO: 📁 Processing folder: ../collections/Lab
+INFO: 📄 Processed 1 documents from dr_veena_patil_lab_unified.json
+INFO: 📄 Processed 1 documents from dr_tanmay_majumdar_lab_unified.json
+INFO: 📄 Processed 1 documents from dr_sarika_gupta_lab_unified.json
+INFO: 📄 Processed 1 documents from dr_arnab_mukhopadhyay_lab_unified.json
+INFO: 📄 Processed 1 documents from dr_aneesh_kumar_lab_unified.json
+INFO: 📄 Processed 1 documents from dr_nimesh_gupta_lab_unified.json
+INFO: 📄 Processed 1 documents from dr_debasisa_mohanty_lab_unified.json
+INFO: ➕ Loaded 7 documents from ../collections/Lab
+INFO: ⏩ All documents already exist. Skipping indexing.
+INFO: ✅ Successfully indexed 0 documents for labs
+WARNING: No documents were indexed
+INFO: 🎉 Process completed successfully!
+INFO: 🔍 Running duplicate audit only
+INFO: 🔍 Auditing collection: faculty_info
+INFO: Use pytorch device_name: mps
+INFO: Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO: ✅ No duplicates found in faculty_info.
+INFO: 🔍 Auditing collection: research
+INFO: Use pytorch device_name: mps
+INFO: Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO: ✅ No duplicates found in research.
+INFO: 🔍 Auditing collection: publications
+INFO: Use pytorch device_name: mps
+INFO: Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+WARNING: ⚠️ Found 2 duplicate hashes in publications!
+WARNING:   - 66a2877bd800e5c4548a658ff16e9935 → 2 occurrences
+WARNING:   - 0149588f742130064d9267cff87ea7d0 → 2 occurrences
+INFO: 🔍 Auditing collection: labs
+INFO: Use pytorch device_name: mps
+INFO: Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO: ✅ No duplicates found in labs.
+INFO: 🔍 Auditing collection: nii_info
+INFO: Use pytorch device_name: mps
+INFO: Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO: ✅ No duplicates found in nii_info.
+INFO: 🔍 Auditing collection: staff
+INFO: Use pytorch device_name: mps
+INFO: Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO: ✅ No duplicates found in staff.
+INFO: 🔍 Auditing collection: programs_courses
+INFO: Use pytorch device_name: mps
+INFO: Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO: ✅ No duplicates found in programs_courses.
+INFO: 🔍 Auditing collection: recruitments
+INFO: Use pytorch device_name: mps
+INFO: Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO: ✅ No duplicates found in recruitments.
+INFO: 🔍 Auditing collection: magazine
+INFO: Use pytorch device_name: mps
+INFO: Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO: ✅ No duplicates found in magazine.
+INFO: 🎉 Process completed successfully!

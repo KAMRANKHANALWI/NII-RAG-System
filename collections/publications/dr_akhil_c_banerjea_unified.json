@@ -1,0 +1,531 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Akhil C. Banerjea",
+    "email": "akhil@nii.res.in",
+    "source_url": "https://www.nii.res.in/en/former-faculty/dr-akhil-c-banerjea",
+    "research_domain": "Former",
+    "faculty_status": "former",
+    "search_date": "2025-07-01T11:19:04.019834",
+    "total_publications": 20,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Akhil C. Banerjea, former faculty in Former at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "35779335",
+      "title": "Japanese Encephalitis Virus infection increases USP42 to stabilize TRIM21 and OAS1 for neuroinflammatory and anti-viral response in human microglia.",
+      "authors": [
+        "Ritu Mishra",
+        "Kanhaiya Lal Kumawat",
+        "Anirban Basu",
+        "Akhil C Banerjea"
+      ],
+      "year": "2022",
+      "journal": "Virology",
+      "doi": "10.1016/j.virol.2022.06.012",
+      "doi_link": "https://doi.org/10.1016/j.virol.2022.06.012",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35779335",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Japanese%20Encephalitis%20Virus%20infection%20increases%20USP42%20to%20stabilize%20TRIM21%20and%20OAS1%20for%20neuroinflammatory%20and%20anti-viral%20response%20in%20human%20microglia%22",
+      "citations": {
+        "semantic_scholar": 9
+      },
+      "abstract": "Japanese Encephalitis Virus (JEV), a member virus of Flaviviridae family causes Japanese encephalitis (JE). JE is a mosquito-borne disease, spread mainly by Culex spp. During JE, dysregulated inflammatory responses play a central role in neuronal death and damage leading to Neuroinflammation. In this study, we show that JEV infection in human microglial cells (CHME3) reduces the cellular miR-590-3p levels. miR-590-3p could directly target the expression levels of USP42 (Ubiquitin Specific Peptidase 42) resulting in increased cellular levels of USP42 upon JEV infection. Our results suggest that USP42 stabilizes cellular TRIM21 via deubiquitinating them. We also established through various in vitro and in vivo experiments that increased USP42 can maintain a higher cellular level of both TRIM21 as well as OAS1. This study also suggests that TRIM21, independently of its RING domain, can increase USP42 level in a positive feedback loop and induces the cellular OAS1 levels in human microglial cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "35387085",
+      "title": "Human Immunodeficiency Virus Type 1 Vif Up-Regulates the Expression of Tat via AKT Signaling Pathway: Role of Ubiquitin Specific Protease 17.",
+      "authors": [
+        "Sneh Lata",
+        "Vikas Sood",
+        "Akhil C Banerjea"
+      ],
+      "year": "2022",
+      "journal": "Frontiers in microbiology",
+      "doi": "10.3389/fmicb.2022.828430",
+      "doi_link": "https://doi.org/10.3389/fmicb.2022.828430",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35387085",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Human%20Immunodeficiency%20Virus%20Type%201%20Vif%20Up-Regulates%20the%20Expression%20of%20Tat%20via%20AKT%20Signaling%20Pathway%3A%20Role%20of%20Ubiquitin%20Specific%20Protease%2017%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "Human immunodeficiency virus type 1 (HIV-1) has RNA genome and depends on host cellular machinery for most of its activities. Host cellular proteins modulate the expression and activity of viral proteins to combat the virus. HIV-1 proteins are known to regulate each other for the benefit of virus by exploiting these modulations. Here, we report that HIV-1 Vif increases the levels of Tat via AKT signaling pathway. We show that HIV-1 Vif activates AKT signaling pathway by inducing phosphorylation of AKT. Mdm2, downstream target of AKT signaling, increases the levels of Tat protein in ubiquitin-dependent manner by inducing Ubiquitin Specific Protease 17 (USP17), which is a deubiquitinase and stabilizes Tat protein. Thus, HIV-1 proteins exploit AKT signaling pathway to promote viral replication.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "35259395",
+      "title": "Host AKT-mediated phosphorylation of HIV-1 accessory protein Vif potentiates infectivity via enhanced degradation of the restriction factor APOBEC3G.",
+      "authors": [
+        "Rameez Raja",
+        "Chenyao Wang",
+        "Ritu Mishra",
+        "Arundhoti Das",
+        "Amjad Ali",
+        "Akhil C Banerjea"
+      ],
+      "year": "2022",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1016/j.jbc.2022.101805",
+      "doi_link": "https://doi.org/10.1016/j.jbc.2022.101805",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35259395",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Host%20AKT-mediated%20phosphorylation%20of%20HIV-1%20accessory%20protein%20Vif%20potentiates%20infectivity%20via%20enhanced%20degradation%20of%20the%20restriction%20factor%20APOBEC3G%22",
+      "citations": {
+        "crossref": 4
+      },
+      "abstract": "HIV-1 encodes accessory proteins that neutralize antiviral restriction factors to ensure its successful replication. One accessory protein, the HIV-1 viral infectivity factor (Vif), is known to promote ubiquitination and proteasomal degradation of the antiviral restriction factor apolipoprotein B mRNA-editing enzyme-catalytic polypeptide-like 3G (APOBEC3G), a cytosine deaminase that leads to hypermutations in the viral DNA and subsequent aberrant viral replication. We have previously demonstrated that the HIV-1 viral transcription mediator Tat activates the host progrowth PI-3-AKT pathway, which in turn promotes HIV-1 replication. Because the HIV-1 Vif protein contains the putative AKT phosphorylation motif RMRINT, here we investigated whether AKT directly phosphorylates HIV-1 Vif to regulate its function. Coimmunoprecipitation experiments showed that AKT and Vif interact with each other, supporting this hypothesis. Using in vitro kinase assays, we further showed that AKT phosphorylates Vif at threonine 20, which promotes its stability, as Vif becomes destabilized after this residue is mutated to alanine. Moreover, expression of dominant-negative kinase-deficient AKT as well as treatment with a chemical inhibitor of AKT increased K48-ubiquitination and proteasomal degradation of HIV-1 Vif. In contrast, constitutively active AKT (Myr-AKT) reduced K48-ubiquitination of Vif to promote its stability. Finally, inhibition of AKT function restored APOBEC3G levels, which subsequently reduced HIV-1 infectivity. Thus, our results establish a novel mechanism of HIV-1 Vif stabilization through AKT-mediated phosphorylation at threonine 20, which reduces APOBEC3G levels and potentiates HIV-1 infectivity.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "35017663",
+      "title": "Trans cohort metabolic reprogramming towards glutaminolysis in long-term successfully treated HIV-infection.",
+      "authors": [
+        "Flora Mikaeloff",
+        "Sara Svensson Akusjärvi",
+        "George Mondinde Ikomey",
+        "Shuba Krishnan",
+        "Maike Sperk",
+        "Soham Gupta",
+        "Gustavo Daniel Vega Magdaleno",
+        "Alejandra Escós",
+        "Emilia Lyonga",
+        "Marie Claire Okomo",
+        "Claude Tayou Tagne",
+        "Hemalatha Babu",
+        "Christian L Lorson",
+        "Ákos Végvári",
+        "Akhil C Banerjea",
+        "Julianna Kele",
+        "Luke Elizabeth Hanna",
+        "Kamal Singh",
+        "João Pedro de Magalhães",
+        "Rui Benfeitas",
+        "Ujjwal Neogi"
+      ],
+      "year": "2022",
+      "journal": "Communications biology",
+      "doi": "10.1038/s42003-021-02985-3",
+      "doi_link": "https://doi.org/10.1038/s42003-021-02985-3",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35017663",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Trans%20cohort%20metabolic%20reprogramming%20towards%20glutaminolysis%20in%20long-term%20successfully%20treated%20HIV-infection%22",
+      "citations": {
+        "semantic_scholar": 19
+      },
+      "abstract": "Despite successful combination antiretroviral therapy (cART), persistent low-grade immune activation together with inflammation and toxic antiretroviral drugs can lead to long-lasting metabolic flexibility and adaptation in people living with HIV (PLWH). Our study investigated alterations in the plasma metabolic profiles by comparing PLWH on long-term cART(>5 years) and matched HIV-negative controls (HC) in two cohorts from low- and middle-income countries (LMIC), Cameroon, and India, respectively, to understand the system-level dysregulation in HIV-infection. Using untargeted and targeted LC-MS/MS-based metabolic profiling and applying advanced system biology methods, an altered amino acid metabolism, more specifically to glutaminolysis in PLWH than HC were reported. A significantly lower level of neurosteroids was observed in both cohorts and could potentiate neurological impairments in PLWH. Further, modulation of cellular glutaminolysis promoted increased cell death and latency reversal in pre-monocytic HIV-1 latent cell model U1, which may be essential for the clearance of the inducible reservoir in HIV-integrated cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "34914966",
+      "title": "Where all the Roads Meet? A Crossover Perspective on Host Factors Regulating SARS-CoV-2 infection.",
+      "authors": [
+        "Sneh Lata",
+        "Ritu Mishra",
+        "Ravi P Arya",
+        "Pooja Arora",
+        "Anismrita Lahon",
+        "Akhil C Banerjea",
+        "Vikas Sood"
+      ],
+      "year": "2022",
+      "journal": "Journal of molecular biology",
+      "doi": "10.1016/j.jmb.2021.167403",
+      "doi_link": "https://doi.org/10.1016/j.jmb.2021.167403",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34914966",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Where%20all%20the%20Roads%20Meet%3F%20A%20Crossover%20Perspective%20on%20Host%20Factors%20Regulating%20SARS-CoV-2%20infection%22",
+      "citations": {
+        "crossref": 3
+      },
+      "abstract": "COVID-19 caused by SARS-CoV-2 is the latest pandemic which has thrown the world into an unprecedented social and economic uncertainties along with huge loss to humanity. Identification of the host factors regulating the replication of SARS-CoV-2 in human host may help in the development of novel anti-viral therapies to combat the viral infection and spread. Recently, some research groups used genome-wide CRISPR/Cas screening to identify the host factors critical for the SARS-CoV-2 replication and infection. A comparative analysis of these significant host factors (p < 0.05) identified fifteen proteins common in these studies. Apart from ACE2 (receptor for SARS-CoV-2 attachment), other common host factors were CSNK2B, GDI2, SLC35B2, DDX51, VPS26A, ARPP-19, C1QTNF7, ALG6, LIMA1, COG3, COG8, BCOR, LRRN2 and TLR9. Additionally, viral interactome of these host factors revealed that many of them were associated with several SARS-CoV-2 proteins as well. Interestingly, some of these host factors have already been shown to be critical for the pathogenesis of other viruses suggesting their crucial role in virus-host interactions. Here, we review the functions of these host factors and their role in other diseases with special emphasis on viral diseases.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "34513730",
+      "title": "Dengue Virus Dysregulates Master Transcription Factors and PI3K/AKT/mTOR Signaling Pathway in Megakaryocytes.",
+      "authors": [
+        "Anismrita Lahon",
+        "Ravi P Arya",
+        "Akhil C Banerjea"
+      ],
+      "year": "2021",
+      "journal": "Frontiers in cellular and infection microbiology",
+      "doi": "10.3389/fcimb.2021.715208",
+      "doi_link": "https://doi.org/10.3389/fcimb.2021.715208",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34513730",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Dengue%20Virus%20Dysregulates%20Master%20Transcription%20Factors%20and%20PI3K/AKT/mTOR%20Signaling%20Pathway%20in%20Megakaryocytes%22",
+      "citations": {
+        "crossref": 40
+      },
+      "abstract": "Dengue virus (DENV) infection can cause either self-limited dengue fever or hemorrhagic complications. Low platelet count is one of the manifestations of dengue fever. Megakaryocytes are the sole producers of platelets. However, the role of both host and viral factors in megakaryocyte development, maturation, and platelet production is largely unknown in DENV infection. PI3K/AKT/mTOR pathway plays a significant role in cell survival, maturation, and megakaryocyte development. We were interested to check whether pathogenic insult can impact this pathway. We observed decreased expression of most of the major key molecules associated with the PI3K/AKT/mTOR pathway in DENV infected MEG-01 cells. In this study, the involvement of PI3K/AKT/mTOR pathway in megakaryocyte development and maturation was confirmed with the use of specific inhibitors in infected MEG-01 cells. Our results showed that direct pharmacologic inhibition of this pathway greatly impacted megakaryopoiesis associated molecule CD61 and some essential transcription factors (GATA-1, GATA-2, and NF-E2). Additionally, we observed apoptosis in megakaryocytes due to DENV infection. Our results may suggest that DENV impairs PI3K/AKT/mTOR axis and molecules involved in the development and maturation of megakaryocytes. It is imperative to investigate the role of these molecules in the context of megakaryopoiesis during DENV infection to better understand the pathways and mechanisms, which in turn might provide insights into the development of antiviral strategies.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "34425283",
+      "title": "STUB1/CHIP promotes ubiquitination and degradation of HIV-1 Vif to restore the cellular level of APOBEC3G protein.",
+      "authors": [
+        "Amjad Ali",
+        "Vivek Kumar",
+        "Akhil C Banerjea"
+      ],
+      "year": "2021",
+      "journal": "Biochemical and biophysical research communications",
+      "doi": "10.1016/j.bbrc.2021.08.031",
+      "doi_link": "https://doi.org/10.1016/j.bbrc.2021.08.031",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34425283",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22STUB1/CHIP%20promotes%20ubiquitination%20and%20degradation%20of%20HIV-1%20Vif%20to%20restore%20the%20cellular%20level%20of%20APOBEC3G%20protein%22",
+      "citations": {
+        "semantic_scholar": 4
+      },
+      "abstract": "HIV-1 accessory protein Vif is required for neutralization of cellular restriction factor APOBEC3G through its ubiquitination and proteasomal degradation which allows replication of HIV-1 in non-permissive cells. This function of Vif is required for maintaining the genomic integrity of HIV-1. We here report that the Vif interacts with the cellular E3 ubiquitin ligase CHIP and the level of Vif protein gets reduced by the expression of CHIP. Reduction of Vif by CHIP expression is due to its increased rate of degradation as shown by cycloheximide (CHX) chase assay. CHIP expression also resulted in the ubiquitination of Vif protein in a dose dependent manner. The role of CHIP in the ubiquitination and degradation was confirmed by the endogenous knockdown of CHIP using CRISPR Cas9 method. Loss of endogenous CHIP protein showed the stabilization of Vif with concomitant destabilization of APOBEC3G. As expected Vif mediated ubiquitination of APOBEC3G was also reduced in CHIP knockdown cells. These results established that CHIP functions as a negative regulator of Vif protein which in-turn stabilizes APOBEC3G.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "33936086",
+      "title": "SARS-CoV-2 Spike Targets USP33-IRF9 Axis via Exosomal miR-148a to Activate Human Microglia.",
+      "authors": [
+        "Ritu Mishra",
+        "Akhil C Banerjea"
+      ],
+      "year": "2021",
+      "journal": "Frontiers in immunology",
+      "doi": "10.3389/fimmu.2021.656700",
+      "doi_link": "https://doi.org/10.3389/fimmu.2021.656700",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33936086",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22SARS-CoV-2%20Spike%20Targets%20USP33-IRF9%20Axis%20via%20Exosomal%20miR-148a%20to%20Activate%20Human%20Microglia%22",
+      "citations": {
+        "semantic_scholar": 68
+      },
+      "abstract": "SARS-CoV-2, the novel coronavirus infection has consistently shown an association with neurological anomalies in patients, in addition to its usual respiratory distress syndrome. Multi-organ dysfunctions including neurological sequelae during COVID-19 persist even after declining viral load. We propose that SARS-CoV-2 gene product, Spike, is able to modify the host exosomal cargo, which gets transported to distant uninfected tissues and organs and can initiate a catastrophic immune cascade within Central Nervous System (CNS). SARS-CoV-2 Spike transfected cells release a significant amount of exosomes loaded with microRNAs such as miR-148a and miR-590. microRNAs gets internalized by human microglia and suppress target gene expression of USP33 (Ubiquitin Specific peptidase 33) and downstream IRF9 levels. Cellular levels of USP33 regulate the turnover time of IRF9 via deubiquitylation. Our results also demonstrate that absorption of modified exosomes effectively regulate the major pro-inflammatory gene expression profile of TNFα, NF-κB and IFN-β. These results uncover a bystander pathway of SARS-CoV-2 mediated CNS damage through hyperactivation of human microglia. Our results also attempt to explain the extra-pulmonary dysfunctions observed in COVID-19 cases when active replication of virus is not supported. Since Spike gene and mRNAs have been extensively picked up for vaccine development; the knowledge of host immune response against spike gene and protein holds a great significance. Our study therefore provides novel and relevant insights regarding the impact of Spike gene on shuttling of host microRNAs via exosomes to trigger the neuroinflammation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "33117613",
+      "title": "Genetic and Functional Characterization of HIV-1 Vpu from HIV-1-Infected North Indian Population.",
+      "authors": [
+        "Jyotsna Singh",
+        "Monika Pandey",
+        "Vishnampettai G Ramachandran",
+        "Akhil C Banerjea"
+      ],
+      "year": "2020",
+      "journal": "BioResearch open access",
+      "doi": "10.1089/biores.2020.0023",
+      "doi_link": "https://doi.org/10.1089/biores.2020.0023",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33117613",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Genetic%20and%20Functional%20Characterization%20of%20HIV-1%20Vpu%20from%20HIV-1-Infected%20North%20Indian%20Population%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "Acquired immunodeficiency syndrome is a pandemic disease due to increased variability in causative agent in global distribution; it is attributed to various complications in developing the vaccine, namely, error-prone reverse transcriptase, rapid replication, and high recombination rate. Vpu downmodulates CD4 in infected cells, and it targets the newly synthesized CD4 molecules from the endoplasmic reticulum. The aim of this study was to identify the level of genetic changes in the Vpu gene from HIV-1-infected North Indian individuals and determine the functional relevance with respect to the CD4 downregulation potential of this protein. Genomic DNA was isolated from peripheral blood mononuclear cells, and the Vpu gene was polymerase chain reaction amplified with specific primers followed by cloning, sequencing, and sequence analyses using bioinformatic tools for predicting HIV-1 subtypes, recombination events, conservation of domains, and phosphorylation sites. Among all Vpu variants, three of the variants having serine substitution (serine-52 and serine-56 conversion to isoleucine; S52I and S56I) had lost their functional β-TrcP binding motif. However, the specific determinants for CD4 (V20, W22, S23) and BST-2 (A11, A15, I17, and A19) binding remained highly conserved. The data obtained with Vpu mutants recommend that the serine residue substitutions in cytoplasmic domain distress the CD4 downregulation activity of Vpu. These events are likely to have implications for viral pathogenesis and vaccine formulations.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "33013930",
+      "title": "Neurological Damage by Coronaviruses: A Catastrophe in the Queue!",
+      "authors": [
+        "Ritu Mishra",
+        "Akhil C Banerjea"
+      ],
+      "year": "2020",
+      "journal": "Frontiers in immunology",
+      "doi": "10.3389/fimmu.2020.565521",
+      "doi_link": "https://doi.org/10.3389/fimmu.2020.565521",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33013930",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Neurological%20Damage%20by%20Coronaviruses%3A%20A%20Catastrophe%20in%20the%20Queue%21%22",
+      "citations": {
+        "crossref": 40
+      },
+      "abstract": "Neurological disorders caused by neuroviral infections are an obvious pathogenic manifestation. However, non-neurotropic viruses or peripheral viral infections pose a considerable challenge as their neuropathological manifestations do not emerge because of primary infection. Their secondary or bystander pathologies develop much later, like a syndrome, during and after the recovery of patients from the primary disease. Massive inflammation caused by peripheral viral infections can trigger multiple neurological anomalies. These neurological damages may range from a general cognitive and motor dysfunction up to a wide spectrum of CNS anomalies, such as Acute Necrotizing Hemorrhagic Encephalopathy, Guillain-Barré syndrome, Encephalitis, Meningitis, anxiety, and other audio-visual disabilities. Peripheral viruses like Measles virus, Enteroviruses, Influenza viruses (HIN1 series), SARS-CoV-1, MERS-CoV, and, recently, SARS-CoV-2 are reported to cause various neurological manifestations in patients and are proven to be neuropathogenic even in cellular and animal model systems. This review presents a comprehensive picture of CNS susceptibilities toward these peripheral viral infections and explains some common underlying themes of their neuropathology in the human brain.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "32848034",
+      "title": "Dengue Virus Degrades USP33-ATF3 Axis via Extracellular Vesicles to Activate Human Microglial Cells.",
+      "authors": [
+        "Ritu Mishra",
+        "Anismrita Lahon",
+        "Akhil C Banerjea"
+      ],
+      "year": "2020",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.2000411",
+      "doi_link": "https://doi.org/10.4049/jimmunol.2000411",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32848034",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Dengue%20Virus%20Degrades%20USP33-ATF3%20Axis%20via%20Extracellular%20Vesicles%20to%20Activate%20Human%20Microglial%20Cells%22",
+      "citations": {
+        "semantic_scholar": 29
+      },
+      "abstract": "Dengue virus (DENV) infection disrupts host innate immune signaling at various checkpoints. Cellular levels and stability of intermediate signaling molecules are a crucial hijacking point for a successful viral pathogenesis. Stability and turnover of all the cellular proteins including intermediate signaling molecules are principally regulated by proteasomal degradation pathway. In this study, we show that how DENV infection and particularly DENV-NS1 can modulate the host extracellular vesicle (EV) cargo to manipulate the deubiquitination machinery of the human microglial cell (CHME3). We have performed EV harvesting, size analysis by nanoparticle tracking analysis, identification of cargo microRNA via quantitative PCR, microRNA target validation by overexpression, and knockdown via mimics and anti-miRs, immunoblotting, dual luciferase reporter assay, in vivo ubiquitination assay, chase assay, and promoter activity assay to reach the conclusion. In this study, we show that DENV-infected monocytes and DENV-NS1-transfected cells release high amounts of EVs loaded with miR-148a. These EVs get internalized by human microglial cells, and miR-148a suppresses the ubiquitin-specific peptidase 33 (USP33) protein expression levels via binding to its 3' untranslated region. Reduced USP33 in turn decreases the stability of cellular ATF3 protein via deubiquitylation. ATF3 acts as a suppressor of major proinflammatory gene expression pathways of TNF-α, NF-κB, and IFN-β. Our mechanistic model explains how DENV uses the EV pathway to transfer miR-148a for modulating USP33 and downstream ATF3 levels in human microglial cells and contributes in neuroinflammation within the CNS.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "32819562",
+      "title": "HIV-1 Nef promotes ubiquitination and proteasomal degradation of p53 tumor suppressor protein by using E6AP.",
+      "authors": [
+        "Amjad Ali",
+        "Sabihur Rahman Farooqui",
+        "Jagdish Rai",
+        "Jyotsna Singh",
+        "Vivek Kumar",
+        "Ritu Mishra",
+        "Akhil C Banerjea"
+      ],
+      "year": "2020",
+      "journal": "Biochemical and biophysical research communications",
+      "doi": "10.1016/j.bbrc.2020.05.188",
+      "doi_link": "https://doi.org/10.1016/j.bbrc.2020.05.188",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32819562",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22HIV-1%20Nef%20promotes%20ubiquitination%20and%20proteasomal%20degradation%20of%20p53%20tumor%20suppressor%20protein%20by%20using%20E6AP%22",
+      "citations": {
+        "semantic_scholar": 20
+      },
+      "abstract": "Human Immunodeficiency Virus-1 (HIV-1) Nef promotes p53 protein degradation to protect HIV-1 infected cells from p53 induced apoptosis. We found that Nef mediated p53 degradation is accomplished through ubiquitin proteasome pathway in an Mdm2-independent manner. By GST pulldown and immunoprecipitation assays, we have shown that Nef interacts with E3 ubiquitin ligase E6AP in both Nef transfected HEK-293T cells and HIV-1 infected MOLT3 cells. The p53 ubiquitination and degradation was found to be enhanced by Nef with E6AP but not by Nef with E6AP-C843A, a dominant negative E6AP mutant. We show that Nef binds with E6AP and promotes E6AP dependent p53 ubiquitination. Further, Nef inhibits apoptosis of p53 null H1299 cells after exogenous expression of p53 protein. The p53 dependent apoptosis of H1299 cells was further reduced after the expression of Nef with E6AP. However, Nef mediated reduction in p53 induced apoptosis of H1299 cells was restored when Nef was co-expressed with E6AP-C843A. Thus, Nef and E6AP co-operate to promote p53 ubiquitination and degradation in order to suppress p53 dependent apoptosis. CHME3 cells, which are a natural host of HIV-1, also show p53 ubiquitination and degradation by Nef and E6AP. These results establish that Nef induces p53 degradation via cellular E3 ligase E6AP to inhibit apoptosis during HIV-1 infection.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "32123831",
+      "title": "Dengue NS5 modulates expression of miR-590 to regulate ubiquitin-specific peptidase 42 in human microglia.",
+      "authors": [
+        "Ritu Mishra",
+        "Vikas Sood",
+        "Akhil C Banerjea"
+      ],
+      "year": "2019",
+      "journal": "FASEB bioAdvances",
+      "doi": "10.1096/fba.2018-00047",
+      "doi_link": "https://doi.org/10.1096/fba.2018-00047",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32123831",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Dengue%20NS5%20modulates%20expression%20of%20miR-590%20to%20regulate%20ubiquitin-specific%20peptidase%2042%20in%20human%20microglia%22",
+      "citations": {
+        "semantic_scholar": 11
+      },
+      "abstract": "Dengue virus (DENV), a member of Flaviviridae family, has become neurovirulent in humans after rapid geographical expansion. Host proteasomal machinery contains both ubiquitin ligases as well as deubiquitinases (DUBs), known to influence key cellular and biological functions. MicroRNA-mediated modulations of DUBs in case of DENV infections have not been explored yet. DENV propagation, MiRNA overexpression, miRNA knockdown, transfection, RT-PCR, luciferase assay, and western blotting have been used in this study to establish the interaction of miR-590 and USP42. DENV infection in human microglial cells resulted in downregulation of host DUB-USP42 in a dose-dependent manner and DENV-NS5 gene alone was found to be sufficient for this downregulation. miR-590 was upregulated upon NS5 overexpression in a dose-dependent manner. Downregulation of USP42 was observed with miR-590 overexpression. The specificity of this regulation was confirmed by miR-590 mimic and anti-miR transfections in microglial cells. miR-590 overexpression and knockdown affected the expression level of TRAF6 in indirect manner in microglial cells. The luciferase assay demonstrated the direct regulatory interaction between miR-590 and 3'UTR of USP42. These findings establish that DENV-NS5 protein can potentially modulate the host deubiquitinase protein USP42 expression via altering cellular miR-590 levels in human microglial cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "31711408",
+      "title": "Dengue haemorrhagic fever: a job done via exosomes?",
+      "authors": [
+        "Ritu Mishra",
+        "Sneh Lata",
+        "Amjad Ali",
+        "Akhil C Banerjea"
+      ],
+      "year": "2019",
+      "journal": "Emerging microbes & infections",
+      "doi": "10.1080/22221751.2019.1685913",
+      "doi_link": "https://doi.org/10.1080/22221751.2019.1685913",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31711408",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Dengue%20haemorrhagic%20fever%3A%20a%20job%20done%20via%20exosomes%3F%22",
+      "citations": {
+        "semantic_scholar": 37
+      },
+      "abstract": "Dengue fever is one of those unique diseases where host immune responses largely determine the pathogenesis and its severity. Earlier studies have established the fact that dengue virus (DENV) infection causes haemorrhagic fever and shock syndrome, but it is not directly responsible for exhibiting these clinical symptoms. It is noteworthy that clinically, vascular leakage syndrome does not develop for several days after infection despite a robust innate immune response that elicits the production of proinflammatory and proangiogenic cytokines. The onset of hyperpermeability in severe cases of dengue disease takes place around the time of defervescence and after clearance of viraemia. Extracellular vesicles are known to carry biological information (mRNA, miRNA, transcription factors) from their cells of origin and have emerged as a significant vehicle for horizontal transfer of stress signals. In dengue virus infection, the relevance of exosomes can be instrumental since the majority of the immune responses in severe dengue involve heavy secretion and circulation of pro-inflammatory cytokines and chemokines. Here, we present an updated review which will address the unique and puzzling features of hyperpermeability associated with DENV infection with a special focus on the role of secreted extracellular vesicles.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "31652847",
+      "title": "In-Vitro Subtype-Specific Modulation of HIV-1 Trans-Activator of Transcription (Tat) on RNAi Silencing Suppressor Activity and Cell Death.",
+      "authors": [
+        "Larance Ronsard",
+        "Ashraf S Yousif",
+        "Janani Ramesh",
+        "N Sumi",
+        "Matthew Gorman",
+        "Vishnampettai G Ramachandran",
+        "Akhil C Banerjea"
+      ],
+      "year": "2019",
+      "journal": "Viruses",
+      "doi": "10.3390/v11110976",
+      "doi_link": "https://doi.org/10.3390/v11110976",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31652847",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22In-Vitro%20Subtype-Specific%20Modulation%20of%20HIV-1%20Trans-Activator%20of%20Transcription%20%28Tat%29%20on%20RNAi%20Silencing%20Suppressor%20Activity%20and%20Cell%20Death%22",
+      "citations": {
+        "semantic_scholar": 4
+      },
+      "abstract": "Human immunodeficiency virus (HIV) is a global health concern affecting millions of individuals with a wide variety of currently circulating subtypes affecting various regions of the globe. HIV relies on multiple regulatory proteins to modify the host cell to promote replication in infected T cells, and these regulatory proteins can have subtle phenotypic differences between subtypes. One of these proteins, HIV-1 Trans-Activator of Transcription (Tat), is capable of RNA interference (RNAi) Silencing Suppressor (RSS) activity and induction of cell death in T cells. However, the subtype-specific RSS activity and induction of cell death have not been explored. We investigated the ability of Tat subtypes and variants to induce RSS activity and cell death. TatB, from HIV-1 subtype B, was found to be a potent RSS activator by 40% whereas TatC, from HIV-1 subtype C, showed 15% RSS activity while subtype TatC variants exhibited varying levels. A high level of cell death (50-53%) was induced by subtype TatB when compared to subtype TatC (25-28%) and varying levels were observed with subtype TatC variants. These differential activities could be due to variations in the functional domains of Tat. These observations further our understanding of subtype-specific augmentation of Tat in HIV-1 replication and pathogenesis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "31110236",
+      "title": "Genetic Polymorphisms in the Open Reading Frame of the CCR5 gene From HIV-1 Seronegative and Seropositive Individuals From National Capital Regions of India.",
+      "authors": [
+        "Larance Ronsard",
+        "Vikas Sood",
+        "Ashraf S Yousif",
+        "Janani Ramesh",
+        "Vijay Shankar",
+        "Jishnu Das",
+        "N Sumi",
+        "Tripti Rai",
+        "Kumaravel Mohankumar",
+        "Subhashree Sridharan",
+        "Arianna Dorschel",
+        "Vishnampettai G Ramachandran",
+        "Akhil C Banerjea"
+      ],
+      "year": "2019",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-019-44136-z",
+      "doi_link": "https://doi.org/10.1038/s41598-019-44136-z",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31110236",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Genetic%20Polymorphisms%20in%20the%20Open%20Reading%20Frame%20of%20the%20CCR5%20gene%20From%20HIV-1%20Seronegative%20and%20Seropositive%20Individuals%20From%20National%20Capital%20Regions%20of%20India%22",
+      "citations": {
+        "semantic_scholar": 10
+      },
+      "abstract": "C-C chemokine receptor type 5 (CCR5) serves as a co-receptor for Human immunodeficiency virus (HIV), enabling the virus to enter human CD4 T cells and macrophages. In the absence of CCR5, HIV strains that require CCR5 (R5 or M-tropic HIV) fail to successfully initiate infection. Various natural mutations of the CCR5 gene have been reported to interfere with the HIV-CCR5 interaction, which influences the rate of AIDS progression. Genetic characterization of the CCR5 gene in individuals from the National Capital Regions (NCRs) of India revealed several natural point mutations in HIV seropositive/negative individuals. Furthermore, we identified novel frame-shifts mutations in the CCR5 gene in HIV seronegative individuals, as well as the well reported CCR5Δ32 mutation. Additionally, we observed a number of mutations present only in HIV seropositive individuals. This is the first report to describe the genetic variations of CCR5 in individuals from the NCRs of India and demonstrates the utility of investigating understudied populations to identify novel CCR5 polymorphisms.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "30885946",
+      "title": "The host cell ubiquitin ligase protein CHIP is a potent suppressor of HIV-1 replication.",
+      "authors": [
+        "Amjad Ali",
+        "Sabihur Rahman Farooqui",
+        "Akhil C Banerjea"
+      ],
+      "year": "2019",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.RA118.007257",
+      "doi_link": "https://doi.org/10.1074/jbc.RA118.007257",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30885946",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20host%20cell%20ubiquitin%20ligase%20protein%20CHIP%20is%20a%20potent%20suppressor%20of%20HIV-1%20replication%22",
+      "citations": {
+        "crossref": 14
+      },
+      "abstract": "Human immunodeficiency virus-1 (HIV-1) Tat is degraded in the host cell both by proteasomal and lysosomal pathways, but the specific molecules that engage with Tat from these pathways are not known. Because E3 ubiquitin ligases are the primary determinants of substrate specificity within the ubiquitin-dependent proteasomal degradation of proteins, we first sought to identify the E3 ligase associated with Tat degradation. Based on the intrinsic disordered nature of Tat protein, we focused our attention on host cell E3 ubiquitin ligase CHIP (C terminus of HSP70-binding protein). Co-transfection of Tat with a CHIP-expressing plasmid decreased the levels of Tat protein in a dose-dependent manner, without affecting the corresponding mRNA levels. Additionally, the rate of Tat protein degradation as measured by cycloheximide (CHX) chase assay was increased in the presence of CHIP. A CHIP mutant lacking the U-box domain, which is responsible for protein ubiquitination (CHIPΔU-box), was unable to degrade Tat protein. Furthermore, CHIP promoted ubiquitination of Tat by both WT as well as Lys-48-ubiquitin, which has only a single lysine residue at position 48. CHIP transfection in HIV-1 reporter TZM-bl cells resulted in decreased Tat-dependent HIV-1 long-terminal repeat (LTR) promoter transactivation as well as HIV-1 virion production. CHIP knockdown in HEK-293T cells using CRISPR-Cas9 led to higher virion production and enhanced Tat-mediated HIV-1 LTR promoter transactivation, along with stabilization of Tat protein. Together, these results suggest a novel role of host cell E3 ubiquitin ligase protein CHIP in regulating HIV-1 replication through ubiquitin-dependent degradation of its regulatory protein Tat.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "30766526",
+      "title": "Suppressor of Cytokine Signaling 3 (SOCS3) Degrades p65 and Regulate HIV-1 Replication.",
+      "authors": [
+        "Vikas Sood",
+        "Sneh Lata",
+        "Vishnampettai G Ramachandran",
+        "Akhil C Banerjea"
+      ],
+      "year": "2019",
+      "journal": "Frontiers in microbiology",
+      "doi": "10.3389/fmicb.2019.00114",
+      "doi_link": "https://doi.org/10.3389/fmicb.2019.00114",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30766526",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Suppressor%20of%20Cytokine%20Signaling%203%20%28SOCS3%29%20Degrades%20p65%20and%20Regulate%20HIV-1%20Replication%22",
+      "citations": {
+        "crossref": 13
+      },
+      "abstract": "Human Immunodeficiency Virus-1 (HIV-1) is known to induce the expression of SOCS3 which is a negative feed-back regulator of inflammatory responses. Here, we demonstrate that reactivation of latent HIV-1 leads to degradation of SOCS3 at early time points. Interestingly, SOCS3 degradation following transfection of HIV-1 RNA as well as polyIC in THP-1 cells further confirmed the role of viral RNA signaling in SOCS3 biology. Degradation of SOCS3 contributes toward viral RNA induced inflammatory responses. NF-κB signaling is also induced upon HIV-1 infection which leads to the production of pro-inflammatory cytokines to control the viral spread. Further investigations revealed that SOCS3 inhibits the expression and activity of p65 by interacting with it and inducing its ubiquitin-dependent proteasomal degradation. SH2 domain was critical for SOCS3-p65 interaction and p65 degradation. We also found that expression of SOCS3 promotes HIV-1 replication. Thus, HIV-1 downregulates SOCS3 in early phase of infection to promote inflammatory responses for large production of activated cells which are suitable for viral spread and induces SOCS3 later on to limit inflammatory responses and ensure viral survival.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "30524389",
+      "title": "Proteasomal Degradation Machinery: Favorite Target of HIV-1 Proteins.",
+      "authors": [
+        "Sneh Lata",
+        "Ritu Mishra",
+        "Akhil C Banerjea"
+      ],
+      "year": "2018",
+      "journal": "Frontiers in microbiology",
+      "doi": "10.3389/fmicb.2018.02738",
+      "doi_link": "https://doi.org/10.3389/fmicb.2018.02738",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30524389",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Proteasomal%20Degradation%20Machinery%3A%20Favorite%20Target%20of%20HIV-1%20Proteins%22",
+      "citations": {
+        "semantic_scholar": 37
+      },
+      "abstract": "Proteasomal degradation pathways play a central role in regulating a variety of protein functions by controlling not only their turnover but also the physiological behavior of the cell. This makes it an attractive target for the pathogens, especially viruses which rely on the host cellular machinery for their propagation and pathogenesis. Viruses have evolutionarily developed various strategies to manipulate the host proteasomal machinery thereby creating a cellular environment favorable for their own survival and replication. Human immunodeficiency virus-1 (HIV-1) is one of the most dreadful viruses which has rapidly spread throughout the world and caused high mortality due to its high evolution rate. Here, we review the various mechanisms adopted by HIV-1 to exploit the cellular proteasomal machinery in order to escape the host restriction factors and components of host immune system for supporting its own multiplication, and successfully created an infection.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "30262819",
+      "title": "Serum deprivation/starvation leads to reactivation of HIV-1 in latently infected monocytes via activating ERK/JNK pathway.",
+      "authors": [
+        "Rameez Raja",
+        "Sneh Lata",
+        "Shubhendu Trivedi",
+        "Akhil C Banerjea"
+      ],
+      "year": "2018",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-018-32316-2",
+      "doi_link": "https://doi.org/10.1038/s41598-018-32316-2",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30262819",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Serum%20deprivation/starvation%20leads%20to%20reactivation%20of%20HIV-1%20in%20latently%20infected%20monocytes%20via%20activating%20ERK/JNK%20pathway%22",
+      "citations": {
+        "crossref": 8
+      },
+      "abstract": "Despite the high success rate, antiretroviral therapy does not cure the disease completely due to presence of latent viral reservoirs. Although several studies have addressed this issue earlier, the role of serum starvation/deprivation in HIV-1 latency has not been studied. So, we investigated the role of serum starvation in regulating HIV-1 latency. The impact of serum starvation on HIV-1 latency was assessed in latently infected monocytes U1 and T-cells J1.1. Serum starvation breaks HIV-1 latency in U1 cells. Under similar conditions, J1.1 cells failed to show reactivation of virus. We investigated the involvement of cell death pathway and autophagy during the serum starvation in viral reactivation. Inhibition of these pathways did not affect viral reactivation. Furthermore, other crucial factors like NF-κB, SP1 and AKT did not play any role in regulating viral latency. Here, we report that serum deprivation up-regulates ERK/JNK pathway. This leads to phosphorylation of c-Jun which plays an important role in viral reactivation. Treatment of cells with U0126, an ERK kinase inhibitor, potently inhibited viral replication. In summary, we show that serum starvation leads to reactivation of HIV-1 in latently infected monocytes through the ERK/JNK pathway.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 20,
+    "publications_by_year": {
+      "2022": 5,
+      "2021": 3,
+      "2020": 4,
+      "2019": 6,
+      "2018": 2
+    },
+    "top_journals": [
+      "Frontiers in microbiology",
+      "The Journal of biological chemistry",
+      "Biochemical and biophysical research communications",
+      "Frontiers in immunology",
+      "Scientific reports"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 48,
+      "frequent_collaborators": [
+        "Akhil C Banerjea",
+        "Vikas Sood",
+        "Ritu Mishra",
+        "Vishnampettai G Ramachandran",
+        "Sneh Lata",
+        "Amjad Ali",
+        "Ravi P Arya",
+        "Anismrita Lahon"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "33936086",
+        "title": "SARS-CoV-2 Spike Targets USP33-IRF9 Axis via Exosomal miR-148a to Activate Human Microglia.",
+        "citations": 68,
+        "year": "2021"
+      },
+      {
+        "publication_id": "34513730",
+        "title": "Dengue Virus Dysregulates Master Transcription Factors and PI3K/AKT/mTOR Signaling Pathway in Megakaryocytes.",
+        "citations": 40,
+        "year": "2021"
+      },
+      {
+        "publication_id": "33013930",
+        "title": "Neurological Damage by Coronaviruses: A Catastrophe in the Queue!",
+        "citations": 40,
+        "year": "2020"
+      }
+    ]
+  }
+}

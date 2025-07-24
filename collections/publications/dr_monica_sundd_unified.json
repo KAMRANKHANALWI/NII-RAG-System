@@ -1,0 +1,1015 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Monica Sundd",
+    "email": "monicasundd@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-monica-sundd",
+    "research_domain": "Chemical Biology, Biochemistry & Structural Biology",
+    "faculty_status": "current",
+    "search_date": "2025-07-01T14:34:28.520763",
+    "total_publications": 40,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Monica Sundd, current faculty in Chemical Biology, Biochemistry & Structural Biology at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "39313636",
+      "title": "Backbone assignments of the biotin carboxyl carrier protein domain of Propionyl CoA carboxylase of Leishmania major and its interaction with its cognate Biotin protein ligase.",
+      "authors": [
+        "Sonika Bhatnagar",
+        "Debodyuti Sadhukhan",
+        "Monica Sundd"
+      ],
+      "year": "2024",
+      "journal": "Biomolecular NMR assignments",
+      "doi": "10.1007/s12104-024-10205-2",
+      "doi_link": "https://doi.org/10.1007/s12104-024-10205-2",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39313636",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Backbone%20assignments%20of%20the%20biotin%20carboxyl%20carrier%20protein%20domain%20of%20Propionyl%20CoA%20carboxylase%20of%20Leishmania%20major%20and%20its%20interaction%20with%20its%20cognate%20Biotin%20protein%20ligase%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "Propionyl CoA carboxylase (PCC) is a multimeric enzyme composed of two types of subunits, α and β arranged in α6β6 stoichiometry. The α-subunit consists of an N-terminal carboxylase domain, a carboxyl transferase domains, and a C-terminal biotin carboxyl carrier protein domain (BCCP). The β-subunit is made up of an N- and a C- carboxyl transferase domain. During PCC catalysis, the BCCP domain plays a central role by transporting a carboxyl group from the α-subunit to the β-subunit, and finally to propionyl CoA carboxylase, resulting in the formation of methyl malonyl CoA. A point mutation in any of the subunits interferes with multimer assembly and function. Due to the association of this enzyme with propionic acidemia, a genetic metabolic disorder found in humans, PCC has become an enzyme of wide spread interest. Interestingly, unicellular eukaryotes like Leishmania also possess a PCC in their mitochondria that displays high sequence conservation with the human enzyme. Thus, to understand the function of this enzyme at the molecular level, we have initiated studies on Leishmania major PCC (LmPCC). Here we report chemical shift assignments of LmPCC BCCP domain using NMR. Conformational changes in LmPCC BCCP domain upon biotinylation, as well as upon interaction with its cognate biotinylating enzyme (Biotin protein ligase from L. major) have also been reported. Our studies disclose residues important for LmPCC BCCP interaction and function.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "38624258",
+      "title": "Exploring Anticancer Properties of Medicinal Plants against Breast Cancer by Downregulating Human Epidermal Growth Factor Receptor 2.",
+      "authors": [
+        "Sunny Gupta",
+        "Rashima Prem",
+        "Chinmayee Sethy",
+        "Saurabh Shrivastava",
+        "Manju Singh",
+        "Pramod Yadav",
+        "V G Huddar",
+        "P K Prajapati",
+        "Anita Roy",
+        "Monica Sundd",
+        "Ashok Kumar Patel"
+      ],
+      "year": "2024",
+      "journal": "Journal of agricultural and food chemistry",
+      "doi": "10.1021/acs.jafc.3c07565",
+      "doi_link": "https://doi.org/10.1021/acs.jafc.3c07565",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38624258",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Exploring%20Anticancer%20Properties%20of%20Medicinal%20Plants%20against%20Breast%20Cancer%20by%20Downregulating%20Human%20Epidermal%20Growth%20Factor%20Receptor%202%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "Plants have a history of being employed in managing breast cancer. However, no scientific evidence supports the idea that these plants can effectively reduce the level of HER2 expression. In this study, extracts from 10 medicinal plants were evaluated for their anticancer properties against HER2-positive breast cancer cells through various methods, including the SRB assay, comet assay, annexin V-FITC dual staining, and immunoblotting. All extracts exerted antiproliferative activity against HER2-positive breast cancer cells. Furthermore, Terminalia chebula (T. chebula), Berberis aristata (B. aristata), and Mucuna pruriens (M. pruriens) reduced HER2 expression in tested cell lines. In addition, an increased Bax/Bcl-2 ratio was observed after the treatment. A comparative proteomics study showed modulation in the proteome profile of breast cancer cells after treatment with T. chebula, B. aristata, Punica granatum, M. pruriens, and Acorus calamus. Metabolic profiling of lead plants revealed the existence of multiple anticancer compounds. Our study demonstrates the considerable potential of the mentioned plants as innovative therapies for HER2-positive breast cancer.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "38615987",
+      "title": "The apo-acyl coenzyme A binding protein of Leishmania major forms a unique 'AXXA' motif mediated dimer.",
+      "authors": [
+        "Shalini Verma",
+        "Rohit Singh Dangi",
+        "Manoj Kumar Rajak",
+        "Ravi Kant Pal",
+        "Monica Sundd"
+      ],
+      "year": "2024",
+      "journal": "Biochimica et biophysica acta. Proteins and proteomics",
+      "doi": "10.1016/j.bbapap.2024.141016",
+      "doi_link": "https://doi.org/10.1016/j.bbapap.2024.141016",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38615987",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20apo-acyl%20coenzyme%20A%20binding%20protein%20of%20Leishmania%20major%20forms%20a%20unique%20%27AXXA%27%20motif%20mediated%20dimer%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "Acyl-Coenzyme A binding domain containing proteins (ACBDs) are ubiquitous in nearly all eukaryotes. They can exist as a free protein, or a domain of a large, multidomain, multifunctional protein. Besides modularity, ACBDs also display multiplicity. The same organism may have multiple ACBDs, differing in sequence and organization. By virtue of this diversity, ACBDs perform functions ranging from transport, synthesis, trafficking, signal transduction, transcription, and gene regulation. In plants and some microorganisms, these ACBDs are designated ACBPs (acyl-CoA binding proteins). The simplest ACBD/ACBP is a small, ∼10 kDa, soluble protein, comprising the acyl-CoA binding (ACB) domain. Most of these small ACBDs exist as monomers, while a few show a tendency to oligomerize. In sync with those studies, we report the crystal structure of two ACBDs from Leishmania major, named ACBP103, and ACBP96 based on the number of residues present. Interestingly, ACBP103 crystallized as a monomer and a dimer under different crystallization conditions. Careful examination of the dimer disclosed an exposed 'AXXA' motif in the helix I of the two ACBP103 monomers, aligned in a head-to-tail arrangement in the dimer. Glutaraldehyde cross-linking studies confirm that apo-ACBP103 can self-associate in solution. Isothermal titration calorimetry studies further show that ACBP103 can bind ligands ranging from C8 - to C20-CoA, and the data could be best fit to a 'two sets of sites'/sequential binding site model. Taken together, our studies show that Leishmania major ACBP103 can self-associate in the apo-form through a unique dimerization motif, an interaction that may play an important role in its function.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "38167725",
+      "title": "Fatty acid synthesis suppresses dietary polyunsaturated fatty acid use.",
+      "authors": [
+        "Anna Worthmann",
+        "Julius Ridder",
+        "Sharlaine Y L Piel",
+        "Ioannis Evangelakos",
+        "Melina Musfeldt",
+        "Hannah Voß",
+        "Marie O'Farrell",
+        "Alexander W Fischer",
+        "Sangeeta Adak",
+        "Monica Sundd",
+        "Hasibullah Siffeti",
+        "Friederike Haumann",
+        "Katja Kloth",
+        "Tatjana Bierhals",
+        "Markus Heine",
+        "Paul Pertzborn",
+        "Mira Pauly",
+        "Julia-Josefine Scholz",
+        "Suman Kundu",
+        "Marceline M Fuh",
+        "Axel Neu",
+        "Klaus Tödter",
+        "Maja Hempel",
+        "Uwe Knippschild",
+        "Clay F Semenkovich",
+        "Hartmut Schlüter",
+        "Joerg Heeren",
+        "Ludger Scheja",
+        "Christian Kubisch",
+        "Christian Schlein"
+      ],
+      "year": "2024",
+      "journal": "Nature communications",
+      "doi": "10.1038/s41467-023-44364-y",
+      "doi_link": "https://doi.org/10.1038/s41467-023-44364-y",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38167725",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Fatty%20acid%20synthesis%20suppresses%20dietary%20polyunsaturated%20fatty%20acid%20use%22",
+      "citations": {
+        "semantic_scholar": 21
+      },
+      "abstract": "Dietary polyunsaturated fatty acids (PUFA) are increasingly recognized for their health benefits, whereas a high production of endogenous fatty acids - a process called de novo lipogenesis (DNL) - is closely linked to metabolic diseases. Determinants of PUFA incorporation into complex lipids are insufficiently understood and may influence the onset and progression of metabolic diseases. Here we show that fatty acid synthase (FASN), the key enzyme of DNL, critically determines the use of dietary PUFA in mice and humans. Moreover, the combination of FASN inhibition and PUFA-supplementation decreases liver triacylglycerols (TAG) in mice fed with high-fat diet. Mechanistically, FASN inhibition causes higher PUFA uptake via the lysophosphatidylcholine transporter MFSD2A, and a diacylglycerol O-acyltransferase 2 (DGAT2)-dependent incorporation of PUFA into TAG. Overall, the outcome of PUFA supplementation may depend on the degree of endogenous DNL and combining PUFA supplementation and FASN inhibition might be a promising approach to target metabolic disease.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "37967383",
+      "title": "Mitochondrial Acyl Carrier Protein of Leishmania major Displays Features Distinct from the Canonical Type II ACP.",
+      "authors": [
+        "Chetna Dhembla",
+        "Ambrish Kumar",
+        "Richa Arya",
+        "Suman Kundu",
+        "Monica Sundd"
+      ],
+      "year": "2023",
+      "journal": "Biochemistry",
+      "doi": "10.1021/acs.biochem.3c00455",
+      "doi_link": "https://doi.org/10.1021/acs.biochem.3c00455",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37967383",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mitochondrial%20Acyl%20Carrier%20Protein%20of%20Leishmania%20major%20Displays%20Features%20Distinct%20from%20the%20Canonical%20Type%20II%20ACP%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "Prokaryotes synthesize fatty acids using a type II synthesis pathway (FAS). In this process, the central player, i.e., the acyl carrier protein (ACP), sequesters the growing acyl chain in its internal hydrophobic cavity. As the acyl chain length increases, the cavity expands in size, which is reflected in the NMR chemical shift perturbations and crystal structures of the acyl-ACP intermediates. A few eukaryotic organelles, such as plastids and mitochondria, also harbor type II fatty acid synthesis machinery. Plastid FAS from spinach and Plasmodium falciparum has been characterized at the molecular level, but the mitochondrial pathway remains unexplored. Here, we report NMR studies of the mitochondrial acyl-acyl carrier protein intermediates of Leishmania major (acyl-LmACP). Our studies show that LmACP experiences remarkably small conformational changes upon acylation, with perturbations confined to helices II and III only. CastP determined that the cavity size of apo-LmACP (PDB entry 5ZWT) is less than that of Escherichia coli ACP (PDB 1T8K). Thus, the small chemical shift perturbations observed in the LmACP intermediates, coupled with CastP results, suggest an unusually small cavity when fully expanded. The faster rate of C8-LmACP chain hydrolysis compared to E. coli ACP (EcACP) also supports these convictions. Structure comparison of LmACP with other type II ACP disclosed unique differences in the helix I and loop I conformations, as well as several residues present there. Numerous hydrophobic residues in helix I and loop I (conserved in all mitochondrial ACPs) are substituted with hydrophilic residues in the bacterial/plastid type II ACP. For instance, Phe and leucine at positions 14 and 34 in LmACP are substituted with a hydrophilic residue and Ala in bacterial/plastid type II ACP. Mutation of Leu 34 to Ala (corresponding residue in EcACP) resulted in a complete loss of structure, underscoring its importance in maintaining the ACP fold. Thus, our NMR studies, combined with insights from the crystal structure, highlight several unique features of LmACP, distinct from the prokaryote and plastid type II ACP. Given the high sequence identity, the features might be conserved in all mitochondrial ACPs.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "37313335",
+      "title": "Therapeutic Potential of Low-Intensity Magnetic Field Stimulation in 6-Hydroxydopamine Rat Model of Parkinson's Disease: From Inflammation to Motor Function.",
+      "authors": [
+        "Samrat Bose",
+        "Tapas Chandra Nag",
+        "Soumil Dey",
+        "Monica Sundd",
+        "Suman Jain"
+      ],
+      "year": "2023",
+      "journal": "Annals of neurosciences",
+      "doi": "10.1177/09727531221117634",
+      "doi_link": "https://doi.org/10.1177/09727531221117634",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37313335",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Therapeutic%20Potential%20of%20Low-Intensity%20Magnetic%20Field%20Stimulation%20in%206-Hydroxydopamine%20Rat%20Model%20of%20Parkinson%27s%20Disease%3A%20From%20Inflammation%20to%20Motor%20Function%22",
+      "citations": {
+        "crossref": 3
+      },
+      "abstract": "BACKGROUND: Parkinson's disease (PD) is a progressive neurodegenerative disorder that mainly affects the aged population. Transcranial magnetic field (MF) stimulation has shown to provide temporary motor recovery in neurological disorders. PURPOSE: The aim of this study was to understand the cellular and molecular mechanism of low-intensity MF stimulation (17.96 µT; 50Hz; 2 h/day, four weeks) in a rat model of severe PD. METHODS: A clinically relevant, bilateral striatal 6-hydroxydopamine (6-OHDA) lesioned rat model of severe PD was employed to test the efficacy of low-intensity MF stimulation in the management of motor symptoms. The mechanism of action of MF was dissected by assessing the microglial activation, tissue ultrastructure, and cerebrospinal fluid (CSF) metabolomics using microdialysis. RESULTS: We observed a significant improvement in the postural balance and gait after MF exposure with a significant reduction in the number of activated microglia. There was an improvement in striatal dopaminergic innervation and glutamate levels but it did not reach a level of statistical significance. CONCLUSION: MF stimulation helped ameliorate the motor deficits and reduced inflammation but was unable to provide a significant change in terms of dopaminergic innervation and metabolic profile in the severe 6-OHDA PD rat model.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "36473280",
+      "title": "STAT3 inhibition mediated upregulation of multiple immune response pathways in dengue infection.",
+      "authors": [
+        "Shikha Srivastava",
+        "Nidhi Chaudhary",
+        "Chetna Dhembla",
+        "Monica Sundd",
+        "Sunny Gupta",
+        "Ashok Kumar Patel"
+      ],
+      "year": "2023",
+      "journal": "Virology",
+      "doi": "10.1016/j.virol.2022.11.009",
+      "doi_link": "https://doi.org/10.1016/j.virol.2022.11.009",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36473280",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22STAT3%20inhibition%20mediated%20upregulation%20of%20multiple%20immune%20response%20pathways%20in%20dengue%20infection%22",
+      "citations": {
+        "crossref": 3
+      },
+      "abstract": "Dengue infection is a world-wide public health threat infecting millions of people annually. Till date no specific antiviral or vaccine is available against dengue virus. Recent evidence indicates that targeting host STAT3 could prove to be an effective antiviral therapy against dengue infection. To explore the potential of STAT3 inhibition as an antiviral strategy, we utilized a STAT3 inhibitor stattic as antiviral agent and performed whole proteome analysis of mammalian cells by mass spectrometry. Differentially expressed proteins among the infected and stattic treated groups were sorted based on their fold change expression and their functional annotation studies were carried out to establish their biological networks. The results presented in the current study indicated that treatment with stattic induces several antiviral pathways to counteract dengue infection. Together with this, we also observed that treatment with stattic downregulates pathways involved in viral transcription and translation thus establishing STAT3 as a suitable target for the development of antiviral interventions. This study establishes the role of STAT3 inhibition as an alternative strategy to counteract DENV pathogenesis. Targeting STAT3 by stattic or similar molecules may help in identifying novel therapeutic interventions against DENV and probably other flaviviruses.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "35764173",
+      "title": "Lipoate protein ligase B primarily recognizes the C8-phosphopantetheine arm of its donor substrate and weakly binds the acyl carrier protein.",
+      "authors": [
+        "Chetna Dhembla",
+        "Usha Yadav",
+        "Suman Kundu",
+        "Monica Sundd"
+      ],
+      "year": "2022",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1016/j.jbc.2022.102203",
+      "doi_link": "https://doi.org/10.1016/j.jbc.2022.102203",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35764173",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Lipoate%20protein%20ligase%20B%20primarily%20recognizes%20the%20C8-phosphopantetheine%20arm%20of%20its%20donor%20substrate%20and%20weakly%20binds%20the%20acyl%20carrier%20protein%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "Lipoic acid is a sulfur-containing cofactor indispensable for the function of several metabolic enzymes. In microorganisms, lipoic acid can be salvaged from the surroundings by lipoate protein ligase A (LplA), an ATP-dependent enzyme. Alternatively, it can be synthesized by the sequential actions of lipoate protein ligase B (LipB) and lipoyl synthase (LipA). LipB takes up the octanoyl chain from C8-acyl carrier protein (C8-ACP), a byproduct of the type II fatty acid synthesis pathway, and transfers it to a conserved lysine of the lipoyl domain of a dehydrogenase. However, the molecular basis of its substrate recognition is still not fully understood. Using Escherichia coli LipB as a model enzyme, we show here that the octanoyl-transferase mainly recognizes the 4'-phosphopantetheine-tethered acyl-chain of its donor substrate and weakly binds the apo-acyl carrier protein. We demonstrate LipB can accept octanoate from its own ACP and noncognate ACPs, as well as C8-CoA. Furthermore, our 1H saturation transfer difference and 31P NMR studies demonstrate the binding of adenosine, as well as the phosphopantetheine arm of CoA to LipB, akin to binding to LplA. Finally, we show a conserved 71RGG73 loop, analogous to the lipoate-binding loop of LplA, is required for full LipB activity. Collectively, our studies highlight commonalities between LipB and LplA in their mechanism of substrate recognition. This knowledge could be of significance in the treatment of mitochondrial fatty acid synthesis related disorders.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "35421539",
+      "title": "Structural and mechanistic insights into modulation of α-Synuclein fibril formation by aloin and emodin.",
+      "authors": [
+        "Vinod Kumar Meena",
+        "Vijay Kumar",
+        "Shivani Karalia",
+        "Rohit Singh Dangi",
+        "Monica Sundd"
+      ],
+      "year": "2022",
+      "journal": "Biochimica et biophysica acta. General subjects",
+      "doi": "10.1016/j.bbagen.2022.130151",
+      "doi_link": "https://doi.org/10.1016/j.bbagen.2022.130151",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35421539",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structural%20and%20mechanistic%20insights%20into%20modulation%20of%20%CE%B1-Synuclein%20fibril%20formation%20by%20aloin%20and%20emodin%22",
+      "citations": {
+        "crossref": 4
+      },
+      "abstract": "α-Synuclein (α-Syn) aggregation/fibrillation is a leading cause of neuronal death and is one of the major pathogenic factors involved in the progression of Parkinson's' disease (PD). Against this backdrop, discovering new molecules as inhibitors or modulators of α-Syn aggregation/fibrillation is a subject of enormous research. In this study, we have shown modulation, disaggregation, and neuroprotective potential of aloin and emodin against α-Syn aggregation/fibrillation. Thioflavin T (ThT) fluorescence assay showed an increase in lag phase from (51.14 ± 2) h to (68.58 ± 2) h and (74.14 ± 3) h in the presence of aloin and emodin respectively. ANS binding assay represents a modulatory effect of these molecules on hydrophobicity which is crucial for aggregates/fibril formation. NMR spectroscopy and tyrosine quenching studies reveal the binding of aloin/emodin with monomeric α-Syn. TEM and DLS micrographs illustrate the attenuating effect of aloin/emodin against the development of large aggregates/fibrils. Our seeding experiments suggest aloin/emodin generate seeding incompetent oligomers that direct the off-pathway aggregation/fibrillation. Also, aloin/emodin capably reduces the fibrils-induced cytotoxicity and disassembles the preexisting amyloid fibrils. These findings provide deep insight into the modulatory mechanism of α-Syn aggregation/fibrillation in the presence of aloin and emodin, thereby suggesting their potential roles as promising therapeutic molecules against aggregation/fibrillation related disorders.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "34767798",
+      "title": "A GX2GX3G motif facilitates acyl chain sequestration by Saccharomyces cerevisiae acyl carrier protein.",
+      "authors": [
+        "Garima",
+        "Rashima Prem",
+        "Usha Yadav",
+        "Monica Sundd"
+      ],
+      "year": "2021",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1016/j.jbc.2021.101394",
+      "doi_link": "https://doi.org/10.1016/j.jbc.2021.101394",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34767798",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20GX2GX3G%20motif%20facilitates%20acyl%20chain%20sequestration%20by%20Saccharomyces%20cerevisiae%20acyl%20carrier%20protein%22",
+      "citations": {
+        "crossref": 3
+      },
+      "abstract": "Saccharomyces cerevisiae acyl carrier protein (ScACP) is a component of the large fungal fatty acid synthase I (FAS I) complex. ScACP comprises two subdomains: a conserved ACP domain that shares extensive structural homology with other ACPs and a unique structural domain. Unlike the metazoan type I ACP that does not sequester the acyl chain, ScACP can partially sequester the growing acyl chain within its hydrophobic core by a mechanism that remains elusive. Our studies on the acyl-ScACP intermediates disclose a unique 188GX2GX3G195 sequence in helix II important for ACP function. Complete loss of sequestration was observed upon mutation of the three glycines in this sequence to valine (G188V/G191V/G195V), while G191V and G188V/G191V double mutants displayed a faster rate of acyl chain hydrolysis. Likewise, mutation of Thr216 to Ala altered the size of the hydrophobic cavity, resulting in loss of C12- chain sequestration. Combining NMR studies with insights from the crystal structure, we show that three glycines in helix II and a threonine in helix IV favor conformational change, which in turn generate space for acyl chain sequestration. Furthermore, we identified the primary hydrophobic cavity of ScACP, present between the carboxyl end of helix II and IV. The opening of the cavity lies between the second and third turns of helix II and loop II. Overall, the study highlights a novel role of the GX2GX3G motif in regulating acyl chain sequestration, vital for ScACP function.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "34555376",
+      "title": "An overview of the fatty acid biosynthesis in the protozoan parasite Leishmania and its relevance as a drug target against leishmaniasis.",
+      "authors": [
+        "Richa Arya",
+        "Chetna Dhembla",
+        "Ravindra D Makde",
+        "Monica Sundd",
+        "Suman Kundu"
+      ],
+      "year": "2021",
+      "journal": "Molecular and biochemical parasitology",
+      "doi": "10.1016/j.molbiopara.2021.111416",
+      "doi_link": "https://doi.org/10.1016/j.molbiopara.2021.111416",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34555376",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22An%20overview%20of%20the%20fatty%20acid%20biosynthesis%20in%20the%20protozoan%20parasite%20Leishmania%20and%20its%20relevance%20as%20a%20drug%20target%20against%20leishmaniasis%22",
+      "citations": {
+        "crossref": 9
+      },
+      "abstract": "Leishmaniasis is one of the fast-growing parasitic diseases worldwide. The treatment of this fatal disease presents a daunting challenge because of its adverse effects, necessity for long-term treatment regime, unavailability of functional drugs, emergence of drug resistance and the related expenditure. This calls for an urgent need for novel drugs and the evaluation of new targets. Proteins of the fatty acid biosynthetic pathway are validated as drug targets in pathogenic bacteria and certain viruses. Likewise, this pathway has been speculated as a suitable target against parasite infections. Fatty acid synthesis in parasites seems to be very complex and distinct from the counterpart mammalian host due to the presence of unique mechanisms for fatty acid biosynthesis and acquisition. In recent times, there have been few evidences of the existence of this pathway in the bloodstream form of some pathogens. The fatty acid biosynthesis thus presents a viable and attractive target for emerging therapeutics. Understanding the mechanisms underlying fatty acid metabolism is key to identifying a potential drug target. However, investigations in this direction are still limited and this article attempts to outline the existing knowledge, while highlighting the scope and relevance of the fatty acid biosynthetic pathway as a drug target. This review highlights the advances in the treatment of leishmaniasis, the importance of lipids in the pathogen, known facts about the fatty acid biosynthesis in Leishmania and how this pathway can be manipulated to combat leishmaniasis, suggesting novel drug targets.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "34506119",
+      "title": "Ellagic Acid Modulates Uninduced as well as Mutation and Metal-Induced Aggregation of α-Synuclein: Implications for Parkinson's Disease.",
+      "authors": [
+        "Vinod Kumar Meena",
+        "Vijay Kumar",
+        "Shivani Karalia",
+        "Garima",
+        "Monica Sundd"
+      ],
+      "year": "2021",
+      "journal": "ACS chemical neuroscience",
+      "doi": "10.1021/acschemneuro.1c00317",
+      "doi_link": "https://doi.org/10.1021/acschemneuro.1c00317",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34506119",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Ellagic%20Acid%20Modulates%20Uninduced%20as%20well%20as%20Mutation%20and%20Metal-Induced%20Aggregation%20of%20%CE%B1-Synuclein%3A%20Implications%20for%20Parkinson%27s%20Disease%22",
+      "citations": {
+        "semantic_scholar": 14
+      },
+      "abstract": "α-Synuclein (αS) is an intrinsically disordered protein whose aggregation and deposition in Lewy bodies is involved in the progression of Parkinson's disease (PD) and other related disorders. The aggregation process of αS is also triggered by mutations like A53T and E46K in the SNCA gene and disruption in metal-ion homeostasis. Currently, there is no obviating therapy available in the market that could effectively prevent the progression of the disease. In this backdrop, there exists an emerging need to consider naturally occurring polyphenols and flavonoids as potential therapeutic agents against PD. In this study, we demonstrate the modulatory effect of ellagic acid (EA) against wild-type as well as mutation and metal-induced aggregation of αS. Thioflavin T (ThT) fluorescence assay suggests that EA acts on the nucleation phase of αS fibrillization, thereby increasing the lag phase from 21.33 ± 3.01 to 48.20 ± 5.05 h and reducing the fibrils growth rate from 4.60 ± 2.06 to 0.890 ± 0.36 h-1. 8-Anilino-1-naphthalene sulfonic acid (ANS), Congo red (CR), and intrinsic fluorescence studies indicate that the interaction of EA with αS facilitates the structural changes in the protein that lead to inhibition of fibril formation. Dynamic light scattering (DLS) and transmission electron microscopy (TEM) images illustrate that the size of fibrils diminishes up to 100 nm in the presence of EA. Dot blot and seeding experiments put forward that EA directs the αS aggregation toward off-pathway fibrillization. Our 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) assay deciphers the role of EA in minimizing the αS fibril-induced toxicity, thereupon leading to an increase in cell viability. Also, EA attenuates both mutations as well as metal-induced αS fibrillization and disaggregates the preexisting fibrils. Additionally, computational studies elucidate that EA preferentially interacts with the N-terminal and NAC domain of αS. Hence, this work reveals the aggregation inhibition mechanism of EA and provides considerable therapeutic interventions against PD and related disorders.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "34043488",
+      "title": "Heme-iron ligand (M80-Fe) in cytochrome c is destabilizing: combined in vitro and in silico approaches to monitor changes in structure, stability and dynamics of the protein on mutation.",
+      "authors": [
+        "Abdullah Naiyer",
+        "Bushra Khan",
+        "Asimul Islam",
+        "Md Imtaiyaz Hassan",
+        "Monica Sundd",
+        "Faizan Ahmad"
+      ],
+      "year": "2022",
+      "journal": "Journal of biomolecular structure & dynamics",
+      "doi": "10.1080/07391102.2020.1853607",
+      "doi_link": "https://doi.org/10.1080/07391102.2020.1853607",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34043488",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Heme-iron%20ligand%20%28M80-Fe%29%20in%20cytochrome%20c%20is%20destabilizing%3A%20combined%20in%20vitro%20and%20in%20silico%20approaches%20to%20monitor%20changes%20in%20structure%2C%20stability%20and%20dynamics%20of%20the%20protein%20on%20mutation%22",
+      "citations": {
+        "crossref": 4
+      },
+      "abstract": "Structure, stability and dynamics properties of horse cytochrome c (cyt c) and its genetically engineered M80G mutant have been investigated. The nature of the Met80 axial ligation to heme iron is believed to be the major determinant of the oxidation-reduction reactions inside and outside the cell of a particular cytochrome. This ligation has played an important role in the studies of protein structure, stability and protein folding/unfolding. To understand this ligation better, Met80 of horse cyt c has been mutated to Gly that is unable to bind to the heme iron. We have examined the effect of the M80G mutation on the structure and stability of the WT (wild type) protein by using absorbance spectroscopy, far-UV, near-UV and Soret circular dichroism, fluorescence spectroscopy and differential scanning calorimetry. We have observed that mutation caused a partial loss of secondary and tertiary structure with slightly increased overall stability of the protein. We have also measured the dynamic behavior of WT cyt c and its M80G mutant in the oxidized form (Fe3+) using the essential dynamics (ED) method. A 400 ns MD simulations were run for WT cyt c and its mutant M80G in water using GROMOS96 force field. MD results revealed that the stability and flexibility increased in mutant M80G (Fe…S (Met80) bond removed). Essential dynamics analysis revealed that the first five eigenvectors were mainly involved in overall motions of WT cyt c and its M80G mutant but the amplitude of concerted motions decreased in M80G mutant relative to WT cyt c.Communicated by Ramaswamy H. Sarma.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "33825711",
+      "title": "Leishmania major biotin protein ligase forms a unique cross-handshake dimer.",
+      "authors": [
+        "Manoj Kumar Rajak",
+        "Sonika Bhatnagar",
+        "Shubhant Pandey",
+        "Sunil Kumar",
+        "Shalini Verma",
+        "Ashok Kumar Patel",
+        "Monica Sundd"
+      ],
+      "year": "2021",
+      "journal": "Acta crystallographica. Section D, Structural biology",
+      "doi": "10.1107/S2059798321001418",
+      "doi_link": "https://doi.org/10.1107/S2059798321001418",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33825711",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Leishmania%20major%20biotin%20protein%20ligase%20forms%20a%20unique%20cross-handshake%20dimer%22",
+      "citations": {
+        "crossref": 3
+      },
+      "abstract": "Biotin protein ligase catalyses the post-translational modification of biotin carboxyl carrier protein (BCCP) domains, a modification that is crucial for the function of several carboxylases. It is a two-step process that results in the covalent attachment of biotin to the ϵ-amino group of a conserved lysine of the BCCP domain of a carboxylase in an ATP-dependent manner. In Leishmania, three mitochondrial enzymes, acetyl-CoA carboxylase, methylcrotonyl-CoA carboxylase and propionyl-CoA carboxylase, depend on biotinylation for activity. In view of the indispensable role of the biotinylating enzyme in the activation of these carboxylases, crystal structures of L. major biotin protein ligase complexed with biotin and with biotinyl-5'-AMP have been solved. L. major biotin protein ligase crystallizes as a unique dimer formed by cross-handshake interactions of the hinge region of the two monomers formed by partial unfolding of the C-terminal domain. Interestingly, the substrate (BCCP domain)-binding site of each monomer is occupied by its own C-terminal domain in the dimer structure. This was observed in all of the crystals that were obtained, suggesting a closed/inactive conformation of the enzyme. Size-exclusion chromatography studies carried out using high protein concentrations (0.5 mM) suggest the formation of a concentration-dependent dimer that exists in equilibrium with the monomer.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "33762670",
+      "title": "Stability of uniformly labeled (13C and 15N) cytochrome c and its L94G mutant.",
+      "authors": [
+        "Abdullah Naiyer",
+        "Bushra Khan",
+        "Afzal Hussain",
+        "Asimul Islam",
+        "Mohamed F Alajmi",
+        "Md Imtaiyaz Hassan",
+        "Monica Sundd",
+        "Faizan Ahmad"
+      ],
+      "year": "2021",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-021-86332-w",
+      "doi_link": "https://doi.org/10.1038/s41598-021-86332-w",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33762670",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Stability%20of%20uniformly%20labeled%20%2813C%20and%2015N%29%20cytochrome%20c%20and%20its%20L94G%20mutant%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "Cytochrome c (cyt c) is widely used as a model protein to study (i) folding and stability aspects of the protein folding problem and (ii) structure-function relationship from the evolutionary point of view. Databases of cyts c now contain 285 cyt c sequences from different organisms. A sequence alignment of all these proteins with respect to horse cyt c led to several important conclusions. One of them is that Leu94 is always conserved in all 30 mammalian cyts c. It is known that mutation L94G of the wild type (WT) horse cyt c is destabilizing and mutant exists as molten globule under the native condition (buffer pH 6 and 25 °C). We have expressed and purified uniformly labeled (13C and 15N) and unlabeled WT horse cyt c and its L94G mutant. We report that labeling does not affect the thermodynamic stability of proteins. To support this conclusion, the secondary and tertiary structure of each protein in labeled and unlabeled forms was determined by conventional techniques (UV-Vis absorption and circular dichroism spectroscopy).",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "33751378",
+      "title": "Chemical shift assignments of the biotin carboxyl carrier protein domain of L. major Methylcrotonyl-CoA carboxylase.",
+      "authors": [
+        "Manoj Kumar Rajak",
+        "Monica Sundd"
+      ],
+      "year": "2021",
+      "journal": "Biomolecular NMR assignments",
+      "doi": "10.1007/s12104-021-10013-y",
+      "doi_link": "https://doi.org/10.1007/s12104-021-10013-y",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33751378",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Chemical%20shift%20assignments%20of%20the%20biotin%20carboxyl%20carrier%20protein%20domain%20of%20L.%20major%20Methylcrotonyl-CoA%20carboxylase%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "Methylcrotonyl-CoA carboxylase (MCCC) is a biotin dependent enzyme, that plays a crucial role in leucine metabolism. The enzyme comprises a biotin carboxylase (BC), a carboxyltransferase (CT), and a biotin carboxyl carrier protein (BCCP) domain. MCCC is synthesized as an apo-protein, and is posttranslationally modified at a lysine residue, conserved in the biotin carboxyl carrier protein (BCCP) domain. In order to understand the structure, function and interactions of L. major MCCC, we have expressed and characterized its domains. Here we report the complete chemical shift assignments of MCCC BCCP domain of L. major. Furthermore, we have used the assignments to generate a model of the same, using CS-Rosetta. We have also followed its chemical shift perturbations upon biotin modification. Changes were observed at the lysine 51 amide, that undergoes biotin modification, and a few others present in its immediate neighborhood.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "33722536",
+      "title": "Role of nuclear localization signals in the DNA delivery function of Chikungunya virus capsid protein.",
+      "authors": [
+        "Nitika Gaurav",
+        "Praveen Kumar Tripathi",
+        "Vivek Kumar",
+        "Archana Chugh",
+        "Monica Sundd",
+        "Ashok Kumar Patel"
+      ],
+      "year": "2021",
+      "journal": "Archives of biochemistry and biophysics",
+      "doi": "10.1016/j.abb.2021.108822",
+      "doi_link": "https://doi.org/10.1016/j.abb.2021.108822",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33722536",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Role%20of%20nuclear%20localization%20signals%20in%20the%20DNA%20delivery%20function%20of%20Chikungunya%20virus%20capsid%20protein%22",
+      "citations": {
+        "semantic_scholar": 4
+      },
+      "abstract": "Capsids of several RNA viruses are reported to have unconventional roles attributed to their subcellular trafficking property. The capsid of CHIKV is also found to localize in the nucleus, but the rationale is not yet clear. To understand the role of the nuclear-localized capsid, we examined the nucleic acid binding and cargo delivery activity of the CHIKV capsid. We used bacterially purified capsid protein to probe the binding affinity with CHIKV genome-specific and non-specific nucleic acids. We found that the capsid was able to bind non-specifically to different forms of nucleic acids. The successful transfection of GFP-tagged plasmid DNA by CHIKV capsid protein shows the DNA delivery ability of the protein. Further, we selected and investigated the DNA binding and cargo delivery activity of commercially synthesized Nuclear Localization Signal sequences (NLS 1 and NLS2) of capsid protein. Both peptides showed comparable DNA binding affinity, however, only the NLS1 peptide was capable of delivering plasmid DNA inside the cell. Furthermore, the cellular uptake study using the FITC-labelled NLS1 peptide was performed to highlight the membrane penetrating ability. Structural analysis was performed using circular dichroism and NMR spectroscopy to elucidate the transfection ability of the NLS1 peptides. Our findings suggest that the capsid of CHIKV might influence cellular trafficking in the infected cell via non-specific interactions. Our study also indicates the significance of NLS sequences in the multifunctionality of CHIKV capsid protein.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "33667556",
+      "title": "L. major apo-acyl carrier protein forms ordered aggregates due to an exposed phenylalanine, while phosphopantetheine inhibits aggregation in the holo-form.",
+      "authors": [
+        "Chetna Dhembla",
+        "Richa Arya",
+        "Ambrish Kumar",
+        "Suman Kundu",
+        "Monica Sundd"
+      ],
+      "year": "2021",
+      "journal": "International journal of biological macromolecules",
+      "doi": "10.1016/j.ijbiomac.2021.02.215",
+      "doi_link": "https://doi.org/10.1016/j.ijbiomac.2021.02.215",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33667556",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22L.%20major%20apo-acyl%20carrier%20protein%20forms%20ordered%20aggregates%20due%20to%20an%20exposed%20phenylalanine%2C%20while%20phosphopantetheine%20inhibits%20aggregation%20in%20the%20holo-form%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "L. major acyl carrier protein (ACP) is a mitochondrial protein, involved in fatty acid biosynthesis. The protein is expressed as an apo-protein, and post-translationally modified at Ser 37 by a 4'-Phosphopantetheinyl transferase. Crystal structure of the apo-form of the protein at pH 5.5 suggests a four helix bundle fold, typical of ACP's. However, upon lowering the pH to 5.0, it undergoes a conformational transition from α-helix to β-sheet, and displays amyloid like properties. When left for a few days at room temperature at this pH, the protein forms fibrils, visible under Transmission electron microscopy (TEM). Using an approach combining NMR, biophysical techniques, and mutagenesis, we have identified a Phe residue present on helix II of ACP, liable for this change. Phosphopantetheinylation of LmACP, or mutation of Phe 45 to the corresponding residue in E. coli ACP (methionine), slows down the conformational change. Conversely, substitution of methionine 44 of E. coli ACP with a phenylalanine, causes enhanced ThT binding. Thus, we demonstrate the unique property of an exposed Phe in inducing, and phophopantetheine in inhibiting amyloidogenesis. Taken together, our study adds L. major acyl carrier protein to the list of ACPs that act as pH sensors.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "31686356",
+      "title": "Backbone and side chain 1H, 15N and 13C chemical shift assignments of the molten globule state of L94G mutant of horse cytochrome-c.",
+      "authors": [
+        "Abdullah Naiyer",
+        "Asimul Islam",
+        "Md Imtaiyaz Hassan",
+        "Faizan Ahmad",
+        "Monica Sundd"
+      ],
+      "year": "2020",
+      "journal": "Biomolecular NMR assignments",
+      "doi": "10.1007/s12104-019-09917-7",
+      "doi_link": "https://doi.org/10.1007/s12104-019-09917-7",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31686356",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Backbone%20and%20side%20chain%201H%2C%2015N%20and%2013C%20chemical%20shift%20assignments%20of%20the%20molten%20globule%20state%20of%20L94G%20mutant%20of%20horse%20cytochrome-c%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "Proteins fold via a number of intermediates that help them to attain their unique native 3D structure. These intermediates can be trapped under extreme conditions of pH, temperature and chemical denaturants. Similar states can also be achieved by other processes like chemical modification, site directed mutagenesis (or point mutation) and cleavage of covalent bonds of natural proteins under physiological conditions usually taken as dilute buffer (near neutral pH) and 25 °C. Structural characterization of molten globules is hampered due to (i) their transient nature, (ii) very low population at equilibrium, and (iii) prone to aggregation at high concentration. Furthermore, the dynamic nature of these folding intermediates makes them unsuitable for X-ray diffraction. Hence, understanding their structures at the atomic level is often a challenge. However, characterization of these intermediates at the atomic level is possible by NMR, which could possibly unravel new details of the protein folding process. We have previously shown that the L94G mutant of horse cytochrome-c displays characteristics of the molten globule (MG) state at pH 6.0 and 25 °C. As a first step towards characterizing this MG state at the atomic level by NMR, we report its complete backbone, side chain and heme chemical shift assignments.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "31669830",
+      "title": "Differential expression of structural and functional proteins during bean common mosaic virus-host plant interaction.",
+      "authors": [
+        "Sunil Kumar",
+        "Chetna Dhembla",
+        "Hariprasad P",
+        "Monica Sundd",
+        "Ashok Kumar Patel"
+      ],
+      "year": "2020",
+      "journal": "Microbial pathogenesis",
+      "doi": "10.1016/j.micpath.2019.103812",
+      "doi_link": "https://doi.org/10.1016/j.micpath.2019.103812",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31669830",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Differential%20expression%20of%20structural%20and%20functional%20proteins%20during%20bean%20common%20mosaic%20virus-host%20plant%20interaction%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "Bean common mosaic virus (BCMV), the most common seed-borne pathogen in Phaseolus vulgaris L. is known to cause severe loss in productivity across the globe. In the present study, proteomic analyses were performed for leaf samples from control (healthy) and susceptible BCMV infected plants. The differential expression of proteins was evaluated using two-dimensional gel electrophoresis (2-DE). Approximately, 1098 proteins were spotted, amongst which 107 proteins were observed to be statistically significant with differential expression. The functional categorization of the differential proteins illustrated that they were involved in biotic/abiotic stress (18%), energy and carbon metabolism (11%), photosynthesis (46%), protein biosynthesis (10%), chaperoning (5%), chlorophyll (5%) and polyunsaturated fatty acid biosynthesis (5%). This is the first report on the comparative proteome study of compatible plant-BCMV interactions in P. vulgaris which contributes largely to the understanding of protein-mediated disease resistance/susceptible mechanisms.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper21",
+      "publication_id": "30543875",
+      "title": "A conformational switch from a closed apo- to an open holo-form equips the acyl carrier protein for acyl chain accommodation.",
+      "authors": [
+        "Richa Arya",
+        "Bhaskar Sharma",
+        "Chetna Dhembla",
+        "Ravi Kant Pal",
+        "Ashok Kumar Patel",
+        "Monica Sundd",
+        "Biplab Ghosh",
+        "Ravindra D Makde",
+        "Suman Kundu"
+      ],
+      "year": "2019",
+      "journal": "Biochimica et biophysica acta. Proteins and proteomics",
+      "doi": "10.1016/j.bbapap.2018.12.001",
+      "doi_link": "https://doi.org/10.1016/j.bbapap.2018.12.001",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30543875",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20conformational%20switch%20from%20a%20closed%20apo-%20to%20an%20open%20holo-form%20equips%20the%20acyl%20carrier%20protein%20for%20acyl%20chain%20accommodation%22",
+      "citations": {
+        "crossref": 7
+      },
+      "abstract": "Acyl carrier proteins (ACPs) play crucial roles in the biosynthesis of fatty acids, non-ribosomal polypeptides and polyketides. The three-dimensional NMR structure of Leishmania major holo-LmACP, belonging to the type II pathway, has been reported previously, but the structure of its apo-form and its conformational differences with the holo-form remain to be explored. Here we report the crystal structures of apo-LmACP (wild-type and S37A mutant) at 2.0 Å resolution and compare their key features with the structures of holo-LmACP (wild-type) and other type II ACPs from Escherichia coli and Plasmodium falciparum. The crystal structure of apo-LmACP, which is homologous to other type II ACPs, displays some key structural rearrangements as compared to its holo-structure. Contrary to holo-form, which exists predominantly as a monomer, the apo-form exists as a mixture of monomeric and dimeric population in solution. In contrast to the closed structure of apo-LmACP, holo-LmACP structure was observed in an open conformation as a result of reorganization of specific helices and loops. We propose that the structural changes exhibited by LmACP occur due to the attachment of the phosphopantetheine arm and may be a prerequisite for the initiation of fatty acid synthesis. The movement of helix 3 may also play a role in the dissociation of holo-LmACP from its cognate enzymes of the FAS II pathway.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper22",
+      "publication_id": "29870658",
+      "title": "The \"Recognition Helix\" of the Type II Acyl Carrier Protein (ACP) Utilizes a \"Ubiquitin Interacting Motif (UIM)\"-like Surface To Bind Its Partners.",
+      "authors": [
+        "Usha Yadav",
+        "Richa Arya",
+        "Suman Kundu",
+        "Monica Sundd"
+      ],
+      "year": "2018",
+      "journal": "Biochemistry",
+      "doi": "10.1021/acs.biochem.8b00220",
+      "doi_link": "https://doi.org/10.1021/acs.biochem.8b00220",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29870658",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20%22Recognition%20Helix%22%20of%20the%20Type%20II%20Acyl%20Carrier%20Protein%20%28ACP%29%20Utilizes%20a%20%22Ubiquitin%20Interacting%20Motif%20%28UIM%29%22-like%20Surface%20To%20Bind%20Its%20Partners%22",
+      "citations": {
+        "semantic_scholar": 7
+      },
+      "abstract": "Interaction interfaces comprise a finite number of sequence/structural motifs, which are often repeated in nature. Here we show how a helical motif present in the acyl carrier protein (ACP), involved in multiprotein interactions, displays a binding interface similar to that of the \"ubiquitin interacting motif (UIM)\". Analysis of the crystal structures of the ACP-enzyme complexes gave the first hint that helix II of the ACP (\"universal recognition helix\") utilizes UIM-like noncovalent interactions to associate with the type II fatty acid biosynthesis (FAS) pathway enzymes. The ACP interacting functional surface of the FAS enzymes comprises positively charged residues, flanking a central hydrophobic patch, akin to ubiquitin. Our nuclear magnetic resonance chemical shift perturbation studies, relaxation studies, and surface plasmon resonance measurements unequivocally show that helix II of ACP behaves like a UIM motif in its interactions with ubiquitin, by binding the Ile 44 functional surface of the latter. A synthetic peptide with the ACP helix II sequence showed equivalent binding to ubiquitin. The evolution of similar interaction motifs in the two systems has probably been driven by functional constraints, as both ACP and UIM participate in multiprotein interactions.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper23",
+      "publication_id": "29335837",
+      "title": "Backbone chemical shift assignments of the glycine cleavage complex H protein of Escherichia coli.",
+      "authors": [
+        "Usha Yadav",
+        "Monica Sundd"
+      ],
+      "year": "2018",
+      "journal": "Biomolecular NMR assignments",
+      "doi": "10.1007/s12104-018-9801-z",
+      "doi_link": "https://doi.org/10.1007/s12104-018-9801-z",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29335837",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Backbone%20chemical%20shift%20assignments%20of%20the%20glycine%20cleavage%20complex%20H%20protein%20of%20Escherichia%20coli%22",
+      "citations": {
+        "crossref": 5
+      },
+      "abstract": "Glycine cleavage complex H protein (GcvH) is one of the four components that form the glycine cleavage complex (GCS), essential for the synthesis of C1 (one-carbon units) for cell metabolism, by the oxidative cleavage of glycine. The activity of this complex is induced in the presence of exogenous glycine, and is repressed by purines. GCS, in cooperation with GCA (serine hydroxymethyltransferase) regulates the endogenous levels of glycine and C1 units in the cell. GcvH, the lipoamide containing component of the complex, plays an indispensable role in this reaction, as its prosthetic group shuttles between the active site of the three other components of the GCS complex sequentially. In environments rich in exogenous lipoic acid, GcvH is converted to lipoyl-GcvH by Lipoate protein ligase (LplA), by the salvage pathway. When exogenous lipoic acid is deficient, it is post-translationally modified to lipoyl-GcvH by the consecutive action of two enzymes, (a) Lipoate protein ligase B (LipB) and (b) Lipoyl synthase (LipA). Although, the crystal structure has been determined for Escherichia coli GcvH, no information exists for its interaction with LipB or LipA. Therefore, we plan to study its interactions with the aforementioned enzymes. As a first step, we have carried out the complete backbone chemical shift assignments of the E. coli glycine cleavage complex H protein in its apo-form, as well as its C8- intermediate.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper24",
+      "publication_id": "28455498",
+      "title": "Grb2 carboxyl-terminal SH3 domain can bivalently associate with two ligands, in an SH3 dependent manner.",
+      "authors": [
+        "Richa Arya",
+        "Rohit Singh Dangi",
+        "Pinakin K Makwana",
+        "Ambrish Kumar",
+        "Santosh Kumar Upadhyay",
+        "Monica Sundd"
+      ],
+      "year": "2017",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-017-01364-5",
+      "doi_link": "https://doi.org/10.1038/s41598-017-01364-5",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28455498",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Grb2%20carboxyl-terminal%20SH3%20domain%20can%20bivalently%20associate%20with%20two%20ligands%2C%20in%20an%20SH3%20dependent%20manner%22",
+      "citations": {
+        "crossref": 7
+      },
+      "abstract": "Src homology domain containing leukocyte protein of 65 kDa (SLP65), the growth factor receptor binding protein 2 (Grb2), and the guanine nucleotide exchange factor for the Rho family GTPases (Vav), self associate in unstimulated B cells as components of the preformed B cell receptor transducer module, in an SH3-dependent manner. The complex enables the B cell to promptly respond to BCR aggregation, resulting in signal amplification. It also facilitates Vav translocation to the membrane rafts, for activation. Here we uncover the molecular mechanism by which the complex may be formed in the B cell. The C-terminal SH3 domain (SH3C) of Grb2 bivalently interacts with the atypical non-PxxP proline rich region of SLP65, and the N-terminal SH3 domain (SH3N) of Vav, both the interactions crucial for the proper functioning of the B cell. Most surprisingly, the two ligands bind the same ligand binding site on the surface of Grb2 SH3C. Addition of SLP65 peptide to the Grb2-Vav complex abrogates the interaction completely, displacing Vav. However, the addition of Vav SH3N to the SLP65-Grb2 binary complex, results in a trimeric complex. Extrapolating these results to the in vivo conditions, Grb2 should bind the SLP65 transducer module first, and then Vav should associate.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper25",
+      "publication_id": "26293213",
+      "title": "The Structure of the Holo-Acyl Carrier Protein of Leishmania major Displays a Remarkably Different Phosphopantetheinyl Transferase Binding Interface.",
+      "authors": [
+        "Ambrish Kumar",
+        "Richa Arya",
+        "Pinakin K Makwana",
+        "Rohit Singh Dangi",
+        "Usha Yadav",
+        "Avadhesha Surolia",
+        "Suman Kundu",
+        "Monica Sundd"
+      ],
+      "year": "2015",
+      "journal": "Biochemistry",
+      "doi": "10.1021/acs.biochem.5b00394",
+      "doi_link": "https://doi.org/10.1021/acs.biochem.5b00394",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26293213",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20Structure%20of%20the%20Holo-Acyl%20Carrier%20Protein%20of%20Leishmania%20major%20Displays%20a%20Remarkably%20Different%20Phosphopantetheinyl%20Transferase%20Binding%20Interface%22",
+      "citations": {
+        "semantic_scholar": 5
+      },
+      "abstract": "The genome of Leishmania major encodes a type II fatty acid biosynthesis pathway for which no structural or biochemical information exists. Here, for the first time, we have characterized the central player of the pathway, the acyl carrier protein (LmACP), using nuclear magnetic resonance (NMR). Structurally, the LmACP molecule is similar to other type II ACPs, comprising a four-helix bundle, enclosing a hydrophobic core. Dissimilarities in sequence, however, exist in helix II (recognition helix) of the protein. The enzymatic conversion of apo-LmACP into the holo form using type I (Escherichia coli AcpS) and type II (Sfp type) phosphopantetheinyl transferases (PPTs) is relatively slow. Mutagenesis studies underscore the importance of the residues present at the protein-protein interaction interface of LmACP in modulating the activity of PPTs. Interestingly, the cognate PPT for this ACP, the L. major 4'-phosphopantetheinyl transferase (LmPPT), does not show any enzymatic activity toward it, though it readily converts other type I and type II ACPs into their holo forms. NMR chemical shift perturbation studies suggest a moderately tight complex between LmACP and its cognate PPT, suggesting inhibition. We surmise that the unique surface of LmACP might have evolved to complement its cognate enzyme (LmPPT), possibly for the purpose of regulation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper26",
+      "publication_id": "25586676",
+      "title": "Structural characterization of MG and pre-MG states of proteins by MD simulations, NMR, and other techniques.",
+      "authors": [
+        "Abdullah Naiyer",
+        "Md Imtaiyaz Hassan",
+        "Asimul Islam",
+        "Monica Sundd",
+        "Faizan Ahmad"
+      ],
+      "year": "2015",
+      "journal": "Journal of biomolecular structure & dynamics",
+      "doi": "10.1080/07391102.2014.999354",
+      "doi_link": "https://doi.org/10.1080/07391102.2014.999354",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25586676",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structural%20characterization%20of%20MG%20and%20pre-MG%20states%20of%20proteins%20by%20MD%20simulations%2C%20NMR%2C%20and%20other%20techniques%22",
+      "citations": {
+        "semantic_scholar": 55
+      },
+      "abstract": "Almost all proteins fold via a number of partially structured intermediates such as molten globule (MG) and pre-molten globule states. Understanding the structure of these intermediates at atomic level is often a challenge, as these states are observed under extreme conditions of pH, temperature, and chemical denaturants. Furthermore, several other processes such as chemical modification, site-directed mutagenesis (or point mutation), and cleavage of covalent bond of natural proteins often lead to MG like partially unfolded conformation. However, the dynamic nature of proteins in these states makes them unsuitable for most structure determination at atomic level. Intermediate states studied so far have been characterized mostly by circular dichroism, fluorescence, viscosity, dynamic light scattering measurements, dye binding, infrared techniques, molecular dynamics simulations, etc. There is a limited amount of structural data available on these intermediate states by nuclear magnetic resonance (NMR) and hence there is a need to characterize these states at the molecular level. In this review, we present characterization of equilibrium intermediates by biophysical techniques with special reference to NMR.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper27",
+      "publication_id": "24603898",
+      "title": "The key to the extraordinary thermal stability of P. furiosus holo-rubredoxin: iron binding-guided packing of a core aromatic cluster responsible for high kinetic stability of the native structure.",
+      "authors": [
+        "Satya Prakash",
+        "Monica Sundd",
+        "Purnananda Guptasarma"
+      ],
+      "year": "2014",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0089703",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0089703",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24603898",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20key%20to%20the%20extraordinary%20thermal%20stability%20of%20P.%20furiosus%20holo-rubredoxin%3A%20iron%20binding-guided%20packing%20of%20a%20core%20aromatic%20cluster%20responsible%20for%20high%20kinetic%20stability%20of%20the%20native%20structure%22",
+      "citations": {
+        "semantic_scholar": 16
+      },
+      "abstract": "Pyrococcus furiosus rubredoxin (PfRd), a small, monomeric, 53 residues-long, iron-containing, electron-transfer protein of known structure is sometimes referred to as being the most structurally-stable protein known to man. Here, using a combination of mutational and spectroscopic (CD, fluorescence, and NMR) studies of differently made holo- and apo-forms of PfRd, we demonstrate that it is not the presence of iron, or even the folding of the PfRd chain into a compact well-folded structure that causes holo-PfRd to display its extraordinary thermal stability, but rather the correct iron binding-guided packing of certain residues (specifically, Trp3, Phe29, Trp36, and also Tyr10) within a tight aromatic cluster of six residues in PfRd's hydrophobic core. Binding of the iron atom appears to play a remarkable role in determining subtle details of residue packing, forcing the chain to form a hyper-thermally stable native structure which is kinetically stable enough to survive (subsequent) removal of iron. On the other hand, failure to bind iron causes the same chain to adopt an equally well-folded native-like structure which, however, has a differently-packed aromatic cluster in its core, causing it to be only as stable as any other ordinary mesophile-derived rubredoxin. Our studies demonstrate, perhaps for the very first time ever that hyperthermal stability in proteins can owe to subtle differences in residue packing vis a vis mesostable proteins, without there being any underlying differences in either amino acid sequence, or bound ligand status.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper28",
+      "publication_id": "23035694",
+      "title": "Conformational and dynamic changes at the interface contribute to ligand binding by ubiquitin.",
+      "authors": [
+        "Monica Sundd"
+      ],
+      "year": "2012",
+      "journal": "Biochemistry",
+      "doi": "10.1021/bi3004268",
+      "doi_link": "https://doi.org/10.1021/bi3004268",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23035694",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Conformational%20and%20dynamic%20changes%20at%20the%20interface%20contribute%20to%20ligand%20binding%20by%20ubiquitin%22",
+      "citations": {
+        "crossref": 6
+      },
+      "abstract": "Ubiquitin interacts with numerous domains and motifs in its lifetime that vary in structure but bind the same hydrophobic patch. To identify the structural features of ubiquitin that make it an exceptional protein-protein interaction partner, we have studied the interaction of ubiquitin with the signal transducing adaptor molecule-1 ubiquitin interacting motif (UIM) using nuclear magnetic resonance. Our studies bring to light the role of the inherent backbone flexibility of ubiquitin in its interactions with a large array of binding partners, revealed from the changes in C(α) chemical shifts, backbone dynamics, and hydrogen bond lengths upon UIM binding. The crystal structures of ubiquitin complexes lend further support to our findings, underscoring the importance of the unique and flexible hydrogen bond network within ubiquitin and simultaneously providing insights into the nature of the slow motions. Taken together, our studies provide an in-depth view of the molecular changes associated with ligand recognition by ubiquitin.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper29",
+      "publication_id": "22278299",
+      "title": "Backbone and side chain 1H, 15N & 13C chemical shift assignments of the holo-acyl carrier protein (ACP) of Leishmania major.",
+      "authors": [
+        "Ambrish Kumar",
+        "Avadhesha Surolia",
+        "Monica Sundd"
+      ],
+      "year": "2012",
+      "journal": "Biomolecular NMR assignments",
+      "doi": "10.1007/s12104-012-9362-5",
+      "doi_link": "https://doi.org/10.1007/s12104-012-9362-5",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22278299",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Backbone%20and%20side%20chain%201H%2C%2015N%20%26%2013C%20chemical%20shift%20assignments%20of%20the%20holo-acyl%20carrier%20protein%20%28ACP%29%20of%20Leishmania%20major%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "Acyl carrier protein (ACP) is a small acidic protein, an important cofactor involved in fatty acid biosynthesis. Its main function is to protect the growing acyl chain from the hydrophilic environment during fatty acid biosynthesis and simultaneously, present it to the active site of fatty acid pathway enzymes, liable for its elongation. The ACP molecule is expressed as apo-ACP (inactive) and is post-transitionally modified to the holo form (active) by the enzyme holo ACP synthase (ACPS). Here we report the complete backbone and side chain chemical shift assignments of the holo-ACP molecule of Leishmania major.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper30",
+      "publication_id": "21741979",
+      "title": "A hydrogen bond regulates slow motions in ubiquitin by modulating a β-turn flip.",
+      "authors": [
+        "Arshdeep Sidhu",
+        "Avadhesha Surolia",
+        "Andrew D Robertson",
+        "Monica Sundd"
+      ],
+      "year": "2011",
+      "journal": "Journal of molecular biology",
+      "doi": "10.1016/j.jmb.2011.06.044",
+      "doi_link": "https://doi.org/10.1016/j.jmb.2011.06.044",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21741979",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20hydrogen%20bond%20regulates%20slow%20motions%20in%20ubiquitin%20by%20modulating%20a%20%CE%B2-turn%20flip%22",
+      "citations": {
+        "semantic_scholar": 31
+      },
+      "abstract": "Proteins exist as conformational ensembles composed of multiple interchanging substates separated by kinetic barriers. Interconverting conformations are often difficult to probe, owing to their sparse population and transient nature. Here, we report the identification and characterization of a subset of conformations in ubiquitin that participate in microsecond-to-millisecond motions in the amides of Ile23, Asn25, and Thr55. A novel side chain to the backbone hydrogen bond that regulates these motions has also been identified. Combining our NMR studies with the available X-ray data, we have unearthed the physical process underlying slow motions-the interconversion of a type I into a type II β-turn flip at residues Glu51 through Arg54. Interestingly, the dominant conformer of wild-type ubiquitin observed in solution near neutral pH is only represented by about 22% of the crystal structures. The conformers generated as a result of the dynamics of the hydrogen bond appear to be correlated to ligand recognition by ubiquitin.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper31",
+      "publication_id": "20182923",
+      "title": "Backbone chemical shift assignments of the acyl-acyl carrier protein intermediates of the fatty acid biosynthesis pathway of Plasmodium falciparum.",
+      "authors": [
+        "Santosh Kumar Upadhyay",
+        "Ashish Misra",
+        "Namita Surolia",
+        "Avadhesha Surolia",
+        "Monica Sundd"
+      ],
+      "year": "2010",
+      "journal": "Biomolecular NMR assignments",
+      "doi": "10.1007/s12104-010-9212-2",
+      "doi_link": "https://doi.org/10.1007/s12104-010-9212-2",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20182923",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Backbone%20chemical%20shift%20assignments%20of%20the%20acyl-acyl%20carrier%20protein%20intermediates%20of%20the%20fatty%20acid%20biosynthesis%20pathway%20of%20Plasmodium%20falciparum%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "We report the backbone chemical shift assignments of the acyl-acyl carrier protein (ACP) intermediates of the fatty acid biosynthesis pathway of Plasmodium falciparum. The acyl-ACP intermediates butyryl (C(4)), -octanoyl (C(8)), -decanoyl (C(10)), -dodecanoyl (C(12)) and -tetradecanoyl (C(14))-ACPs display marked changes in backbone HN, C(alpha) and C(beta) chemical shifts as a result of acyl chain insertion into the hydrophobic core. Chemical shift changes cast light on the mechanism of expansion of the acyl carrier protein core.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper32",
+      "publication_id": "19520851",
+      "title": "Structural insights into the acyl intermediates of the Plasmodium falciparum fatty acid synthesis pathway: the mechanism of expansion of the acyl carrier protein core.",
+      "authors": [
+        "Santosh Kumar Upadhyay",
+        "Ashish Misra",
+        "Richa Srivastava",
+        "Namita Surolia",
+        "Avadhesha Surolia",
+        "Monica Sundd"
+      ],
+      "year": "2009",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M109.014829",
+      "doi_link": "https://doi.org/10.1074/jbc.M109.014829",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19520851",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structural%20insights%20into%20the%20acyl%20intermediates%20of%20the%20Plasmodium%20falciparum%20fatty%20acid%20synthesis%20pathway%3A%20the%20mechanism%20of%20expansion%20of%20the%20acyl%20carrier%20protein%20core%22",
+      "citations": {
+        "semantic_scholar": 4
+      },
+      "abstract": "Acyl carrier protein (ACP) plays a central role in fatty acid biosynthesis. However, the molecular machinery that mediates its function is not yet fully understood. Therefore, structural studies were carried out on the acyl-ACP intermediates of Plasmodium falciparum using NMR as a spectroscopic probe. Chemical shift perturbation studies put forth a new picture of the interaction of ACP molecule with the acyl chain, namely, the hydrophobic core can protect up to 12 carbon units, and additional carbons protrude out from the top of the hydrophobic cavity. The latter hypothesis stems from chemical shift changes observed in Calpha and Cbeta of Ser-37 in tetradecanoyl-ACP. 13C,15N-Double-filtered nuclear Overhauser effect (NOE) spectroscopy experiments further substantiate the concept; in octanoyl (C8)- and dodecanoyl (C12)-ACP, a long range NOE is observed within the phosphopantetheine arm, suggesting an arch-like conformation. This NOE is nearly invisible in tetradecanoyl (C14)-ACP, indicating a change in conformation of the prosthetic group. Furthermore, the present study provides insights into the molecular mechanism of ACP expansion, as revealed from a unique side chain-to-backbone hydrogen bond between two fairly conserved residues, Ile-55 HN and Glu-48 O. The backbone amide of Ile-55 HN reports a pKa value for the carboxylate, approximately 1.9 pH units higher than model compound value, suggesting strong electrostatic repulsion between helix II and helix III. Charge-charge repulsion between the helices in combination with thrust from inside due to acyl chain would energetically favor the separation of the two helices. Helix III has fewer structural restraints and, hence, undergoes major conformational change without altering the overall-fold of P. falciparum ACP.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper33",
+      "publication_id": "16436281",
+      "title": "Molecular details of Itk activation by prolyl isomerization and phospholigand binding: the NMR structure of the Itk SH2 domain bound to a phosphopeptide.",
+      "authors": [
+        "Ekaterina V Pletneva",
+        "Monica Sundd",
+        "D Bruce Fulton",
+        "Amy H Andreotti"
+      ],
+      "year": "2006",
+      "journal": "Journal of molecular biology",
+      "doi": "10.1016/j.jmb.2005.12.073",
+      "doi_link": "https://doi.org/10.1016/j.jmb.2005.12.073",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16436281",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Molecular%20details%20of%20Itk%20activation%20by%20prolyl%20isomerization%20and%20phospholigand%20binding%3A%20the%20NMR%20structure%20of%20the%20Itk%20SH2%20domain%20bound%20to%20a%20phosphopeptide%22",
+      "citations": {
+        "semantic_scholar": 42
+      },
+      "abstract": "The Src homology 2 (SH2) domain of interleukin-2 tyrosine kinase (Itk) is a critical component of the regulatory apparatus controlling the activity of this immunologically important enzyme. To gain insight into the structural features associated with the activated form of Itk, we have solved the NMR structure of the SH2 domain bound to a phosphotyrosine-containing peptide (pY) and analyzed changes in trans-hydrogen bond scalar couplings ((3h)J(NC')) that result from pY binding. Isomerization of a single prolyl imide bond in this domain is responsible for simultaneous existence of two distinct SH2 conformers. Prolyl isomerization directs ligand recognition: the trans conformer preferentially binds pY. The structure of the SH2/pY complex provides insight into the ligand specificity; the BG loop in the ligand-free trans SH2 conformer is pre-arranged for optimal contacts with the pY+3 residue of the ligand. Analysis of (3h)J(NC') couplings arising from hydrogen bonds has revealed propagation of structural changes from the pY binding pocket to the CD loop containing conformationally heterogeneous proline as well as to the alphaB helix, on the opposite site of the domain. These findings offer a structural framework for understanding the roles of prolyl isomerization and pY binding in Itk regulation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper34",
+      "publication_id": "15479623",
+      "title": "Unfolding of ervatamin C in the presence of organic solvents: sequential transitions of the protein in the O-state.",
+      "authors": [
+        "Monica Sundd",
+        "Suman Kundu",
+        "Vikash Kumar Dubey",
+        "Medicherla V Jagannadham"
+      ],
+      "year": "2004",
+      "journal": "Journal of biochemistry and molecular biology",
+      "doi": "10.5483/bmbrep.2004.37.5.586",
+      "doi_link": "https://doi.org/10.5483/bmbrep.2004.37.5.586",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15479623",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Unfolding%20of%20ervatamin%20C%20in%20the%20presence%20of%20organic%20solvents%3A%20sequential%20transitions%20of%20the%20protein%20in%20the%20O-state%22",
+      "citations": {
+        "semantic_scholar": 9
+      },
+      "abstract": "The folding of ervatamin C was investigated in the presence of various fluorinated and non-fluorinated organic solvents. The differences in the unfolding of the protein in the presence of various organic solvents and the stabilities of O-states were interpreted. At pH 2.0, non-fluorinated alkyl alcohols induced a switch from the native alpha-helix to a beta-sheet, contrary to the beta-sheet to alpha-helix conversion observed for many proteins. The magnitude of ellipticity at 215 nm, used as a measure of beta-content, was found to be dependent on the concentration of the alcohol. Under similar conditions of pH, fluorinated alcohol enhanced the intrinsic a-helicity of the protein molecule, whereas the addition of acetonitrile reduced the helical content. Ervatamin C exhibited high stability towards GuHCl induced unfolding in different O-states. Whereas the thermal unfolding of O-states was non-cooperative, contrary to the cooperativity seen in the absence of the organic solvents under similar conditions. Moreover, the differential scanning calorimetry endotherms of the protein acquired at pH 2.0 were deconvoluted into two distinct peaks, suggesting two cooperative transitions. With increase in pH, the shape of the thermogram changed markedly to exhibit a major and a minor transition. The appearance of two distinct peaks in the DSC together with the non-cooperative thermal transition of the protein in O-states indicates that the molecular structure of ervatamin C consists of two domains with different stabilities.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper35",
+      "publication_id": "14769029",
+      "title": "Structural basis of the unusual stability and substrate specificity of ervatamin C, a plant cysteine protease from Ervatamia coronaria.",
+      "authors": [
+        "Piyali Guha Thakurta",
+        "Sampa Biswas",
+        "Chandana Chakrabarti",
+        "Monica Sundd",
+        "Medicherla V Jagannadham",
+        "Jiban K Dattagupta"
+      ],
+      "year": "2004",
+      "journal": "Biochemistry",
+      "doi": "10.1021/bi0357659",
+      "doi_link": "https://doi.org/10.1021/bi0357659",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/14769029",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Structural%20basis%20of%20the%20unusual%20stability%20and%20substrate%20specificity%20of%20ervatamin%20C%2C%20a%20plant%20cysteine%20protease%20from%20Ervatamia%20coronaria%22",
+      "citations": {
+        "semantic_scholar": 31
+      },
+      "abstract": "Ervatamin C is an unusually stable cysteine protease from the medicinal plant Ervatamia coronaria belonging to the papain family. Though it cleaves denatured natural proteins with high specific activity, its activity toward some small synthetic substrates is found to be insignificant. The three-dimensional structure and amino acid sequence of the protein have been determined from X-ray diffraction data at 1.9 A (R = 17.7% and R(free) = 19.0%). The overall structure of ervatamin C is similar to those of other homologous cysteine proteases of the family, folding into two distinct left and right domains separated by an active site cleft. However, substitution of a few amino acid residues, which are conserved in the other members of the family, has been observed in both the domains and also at the region of the interdomain cleft. Consequently, the number of intra- and interdomain hydrogen-bonding interactions is enhanced in the structure of ervatamin C. Moreover, a unique disulfide bond has been identified in the right domain of the structure, in addition to the three conserved disulfide bridges present in the papain family. All these factors contribute to an increase in the stability of ervatamin C. In this enzyme, the nature of the S2 subsite, which is the primary determinant of specificity of these proteases, is similar to that of papain, but at the S3 subsite, Ala67 replaces an aromatic residue, and has the effect of eliminating sufficient hydrophobic interactions required for S3-P3 stabilization. This provides the possible explanation for the lower activity of ervatamin C toward the small substrate/inhibitor. This substitution, however, does not affect the binding of denatured natural protein substrates to the enzyme significantly, as there exist a number of additional interactions at the enzyme-substrate interface outside the active site cleft.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper36",
+      "publication_id": "12972262",
+      "title": "Rearrangement of charge-charge interactions in variant ubiquitins as detected by double-mutant cycles and NMR.",
+      "authors": [
+        "Monica Sundd",
+        "Andrew D Robertson"
+      ],
+      "year": "2003",
+      "journal": "Journal of molecular biology",
+      "doi": "10.1016/s0022-2836(03)00995-1",
+      "doi_link": "https://doi.org/10.1016/s0022-2836(03)00995-1",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12972262",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Rearrangement%20of%20charge-charge%20interactions%20in%20variant%20ubiquitins%20as%20detected%20by%20double-mutant%20cycles%20and%20NMR%22",
+      "citations": {
+        "semantic_scholar": 17
+      },
+      "abstract": "Previous studies of ubiquitin disclosed numerous charge-charge interactions on the protein's surface. To investigate how neighboring residues influence the strength of these interactions, double-mutant cycles are combined with pK(a) determinations by 2D NMR. More specifically, the environment around the Asp21-Lys29 ion pair has been altered through mutations at position 25, which is an asparagine in mammalian ubiquitin and a positively-charged residue in many other ubiquitin-like proteins. The pK(a) value of Asp21 decreases by 0.4 to 0.7 pH unit when Asn25 is substituted with a positively charged residue, suggesting a new and favorable ion pair interaction between positions 21 and 25. However, analysis of double mutants reveals that the favorable interaction between Asp21 and Lys29 is weakened when position 25 is a positively charged residue. Interestingly, while the pK(a) value of His25 in the N25H variant agrees with model compound values, additional mutants reveal that this agreement is fortuitous, resulting from a balance of favorable and unfavorable interactions; similar results were observed previously for Glu34 in ubiquitin and His8 in staphylococcal nuclease. Ionizable groups may thus have pK(a) values similar to model compound values and yet still be involved in significant interactions with other protein groups. One surprising result of introducing positively charged residues at position 25 is a new interaction between Lys29 and Glu18, an interaction not present in wild-type ubiquitin. This unanticipated result illustrates a key advantage of using NMR to determine pK(a) values for many residues simultaneously in the variant proteins. Overall, the strength of an interaction between two residues at the surface of ubiquitin is sensitive to the identity of neighboring residues. The results also demonstrate that relatively conservative and common point mutations such as substitutions of polar with charged residues and vice versa can have effects on interactions beyond the site of mutation per se.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper37",
+      "publication_id": "12297024",
+      "title": "Alcohol and temperature induced conformational transitions in ervatamin B: sequential unfolding of domains.",
+      "authors": [
+        "Suman Kundu",
+        "Monica Sundd",
+        "Medicherla V Jagannadham"
+      ],
+      "year": "2002",
+      "journal": "Journal of biochemistry and molecular biology",
+      "doi": "10.5483/bmbrep.2002.35.2.155",
+      "doi_link": "https://doi.org/10.5483/bmbrep.2002.35.2.155",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12297024",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Alcohol%20and%20temperature%20induced%20conformational%20transitions%20in%20ervatamin%20B%3A%20sequential%20unfolding%20of%20domains%22",
+      "citations": {
+        "semantic_scholar": 12
+      },
+      "abstract": "The structural aspects of ervatamin B have been studied in different types of alcohol. This alcohol did not affect the structure or activity of ervatamin B under neutral conditions. At a low pH (3.0), different kinds of alcohol have different effects. Interestingly, at a certain concentration of non-fluorinated, aliphatic, monohydric alcohol, a conformational switch from the predominantly alpha-helical to beta-sheeted state is observed with a complete loss of tertiary structure and proteolytic activity. This is contrary to the observation that alcohol induces mostly the alpha-helical structure in proteins. The O-state of ervatamin B in 50% methanol at pH 3.0 has enhanced the stability towards GuHCl denaturation and shows a biphasic transition. This suggests the presence of two structural parts with different stabilities that unfold in steps. The thermal unfolding of ervatamin B in the O-state is also biphasic, which confirms the presence of two domains in the enzyme structure that unfold sequentially. The differential stabilization of the structural parts may also be a reflection of the differential stabilization of local conformations in methanol. Thermal unfolding of ervatamin B in the absence of alcohol is cooperative, both at neutral and low pH, and can be fitted to a two state model. However, at pH 2.0 the calorimetric profiles show two peaks, which indicates the presence of two structural domains in the enzyme with different thermal stabilities that are denatured more or less independently. With an increase in pH to 3.0 and 4.0, the shape of the DSC profiles change, and the two peaks converge to a predominant single peak. However, the ratio of van't Hoff enthalpy to calorimetric enthalpy is approximated to 2.0, indicating non-cooperativity in thermal unfolding.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper38",
+      "publication_id": "12297023",
+      "title": "Acid and chemical induced conformational changes of ervatamin B. Presence of partially structured multiple intermediates.",
+      "authors": [
+        "Monica Sundd",
+        "Suman Kundu",
+        "Medicherla V Jagannadham"
+      ],
+      "year": "2002",
+      "journal": "Journal of biochemistry and molecular biology",
+      "doi": "10.5483/bmbrep.2002.35.2.143",
+      "doi_link": "https://doi.org/10.5483/bmbrep.2002.35.2.143",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12297023",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Acid%20and%20chemical%20induced%20conformational%20changes%20of%20ervatamin%20B.%20Presence%20of%20partially%20structured%20multiple%20intermediates%22",
+      "citations": {
+        "crossref": 10
+      },
+      "abstract": "The structural and functional aspects of ervatamin B were studied in solution. Ervatamin B belongs to the alpha + beta class of proteins. The intrinsic fluorescence emission maximum of the enzyme was at 350 nm under neutral conditions, and at 355 nm under denaturing conditions. Between pH 1.0- 2.5 the enzyme exists in a partially unfolded state with minimum or no tertiary structure, and no proteolytic activity. At still lower pH, the enzyme regains substantial secondary structure, which is predominantly a beta-sheet conformation and shows a strong binding to 8-anilino-1- napthalene-sulfonic acid (ANS). In the presence of salt, the enzyme attains a similar state directly from the native state. Under neutral conditions, the enzyme was stable in urea, while the guanidine hydrochloride (GuHCl) induced equilibrium unfolding was cooperative. The GuHCl induced unfolding transition curves at pH 3.0 and 4.0 were non-coincidental, indicating the presence of intermediates in the unfolding pathway. This was substantiated by strong ANS binding that was observed at low concentrations of GuHCl at both pH 3.0 and 4.0. The urea induced transition curves at pH 3.0 were, however, coincidental, but non-cooperative. This indicates that the different structural units of the enzyme unfold in steps through intermediates. This observation is further supported by two emission maxima in ANS binding assay during urea denaturation. Hence, denaturant induced equilibrium unfolding pathway of ervatamin B, which differs from the acid induced unfolding pathway, is not a simple two-state transition but involves intermediates which probably accumulate at different stages of protein folding and hence adds a new dimension to the unfolding pathway of plant proteases of the papain superfamily.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper39",
+      "publication_id": "12080336",
+      "title": "Illuminating proteins with Aladan's lamp.",
+      "authors": [
+        "Monica Sundd",
+        "Andrew D Robertson"
+      ],
+      "year": "2002",
+      "journal": "Nature structural biology",
+      "doi": "10.1038/nsb0702-500",
+      "doi_link": "https://doi.org/10.1038/nsb0702-500",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12080336",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Illuminating%20proteins%20with%20Aladan%27s%20lamp%22",
+      "citations": {
+        "semantic_scholar": 9
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper40",
+      "publication_id": "12056889",
+      "title": "Electrostatic interactions in ubiquitin: stabilization of carboxylates by lysine amino groups.",
+      "authors": [
+        "Monica Sundd",
+        "Nicole Iverson",
+        "Beatriz Ibarra-Molero",
+        "Jose M Sanchez-Ruiz",
+        "Andrew D Robertson"
+      ],
+      "year": "2002",
+      "journal": "Biochemistry",
+      "doi": "10.1021/bi025571d",
+      "doi_link": "https://doi.org/10.1021/bi025571d",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12056889",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Electrostatic%20interactions%20in%20ubiquitin%3A%20stabilization%20of%20carboxylates%20by%20lysine%20amino%20groups%22",
+      "citations": {
+        "semantic_scholar": 77
+      },
+      "abstract": "To explore electrostatic interactions in ubiquitin, pK(a) values have been determined by NMR for all 12 carboxyl groups in wild-type ubiquitin and in variants where single lysines have been replaced by neutral residues. Aspartate pK(a) values in ubiquitin range from 3.1 to 3.8 and are generally less than model compound values. Most aspartate pK(a) values are within 0.2 pH unit of those predicted with a simple Tanford-Kirkwood model. Glutamate pK(a) values range from 3.8 to 4.5, close to model compound values and differing by 0.1-0.8 pH unit from calculated values. To determine the role of positive charges in modulating carboxyl pK(a) values, we mutated lysines at positions 11, 29, and 33 to glutamine and threonine. NMR studies with these six single-site mutants reveal significant interactions of Lys 11 and Lys 29 with Glu 34 and Asp 21, respectively: pK(a) values for Glu 34 and Asp 21 increase by approximately 0.5-0.8 pH unit, similar to predicted values, when the lysines are replaced by neutral residues. In contrast, the predicted interaction between Lys 33 and Glu 34 is not observed experimentally. In some instances, substitution of lysine by glutamine and threonine did not lead to the same changes in carboxyl pK(a) values. These may reflect new short-range interactions between the mutated residues and the carboxyl groups. Carboxyl pK(a) shifts > 0.5 pH unit result from mutations at groups that are <5 A from the carboxyl group. No interactions are observed at >10 A.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 40,
+    "publications_by_year": {
+      "2024": 4,
+      "2023": 3,
+      "2022": 3,
+      "2021": 8,
+      "2020": 2,
+      "2019": 1,
+      "2018": 2,
+      "2017": 1,
+      "2015": 2,
+      "2014": 1,
+      "2012": 2,
+      "2011": 1,
+      "2010": 1,
+      "2009": 1,
+      "2006": 1,
+      "2004": 2,
+      "2003": 1,
+      "2002": 4
+    },
+    "top_journals": [
+      "Biomolecular NMR assignments",
+      "Biochemistry",
+      "The Journal of biological chemistry",
+      "Journal of molecular biology",
+      "Journal of biochemistry and molecular biology"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 89,
+      "frequent_collaborators": [
+        "Monica Sundd",
+        "Suman Kundu",
+        "Ashok Kumar Patel",
+        "Avadhesha Surolia",
+        "Rohit Singh Dangi",
+        "Richa Arya",
+        "Chetna Dhembla",
+        "Asimul Islam"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "12056889",
+        "title": "Electrostatic interactions in ubiquitin: stabilization of carboxylates by lysine amino groups.",
+        "citations": 77,
+        "year": "2002"
+      },
+      {
+        "publication_id": "25586676",
+        "title": "Structural characterization of MG and pre-MG states of proteins by MD simulations, NMR, and other techniques.",
+        "citations": 55,
+        "year": "2015"
+      },
+      {
+        "publication_id": "16436281",
+        "title": "Molecular details of Itk activation by prolyl isomerization and phospholigand binding: the NMR structure of the Itk SH2 domain bound to a phosphopeptide.",
+        "citations": 42,
+        "year": "2006"
+      }
+    ]
+  }
+}

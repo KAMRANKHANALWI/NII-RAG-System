@@ -1,0 +1,343 @@
+{
+  "faculty_profile": {
+    "name": "Dr. G. Senthil Kumar",
+    "email": "gskumar@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-g-senthil-kumar",
+    "research_domain": "Chemical Biology, Biochemistry & Structural Biology",
+    "faculty_status": "current",
+    "search_date": "2025-06-27T11:19:53.513530",
+    "total_publications": 11,
+    "last_updated": "2025-06-27",
+    "description": "This document contains a complete list of publications by Dr. G. Senthil Kumar, current faculty in Chemical Biology, Biochemistry & Structural Biology at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "27572260",
+      "title": "The Ki-67 and RepoMan mitotic phosphatases assemble via an identical, yet novel mechanism.",
+      "authors": [
+        "Ganesan Senthil Kumar",
+        "Ezgi Gokhan",
+        "Sofie De Munter",
+        "Mathieu Bollen",
+        "Paola Vagnarelli",
+        "Wolfgang Peti",
+        "Rebecca Page"
+      ],
+      "year": "2016",
+      "journal": "eLife",
+      "doi": "10.7554/eLife.16539",
+      "doi_link": "https://doi.org/10.7554/eLife.16539",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27572260",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20Ki-67%20and%20RepoMan%20mitotic%20phosphatases%20assemble%20via%20an%20identical%2C%20yet%20novel%20mechanism%22",
+      "citations": {
+        "crossref": 58
+      },
+      "abstract": "Ki-67 and RepoMan have key roles during mitotic exit. Previously, we showed that Ki-67 organizes the mitotic chromosome periphery and recruits protein phosphatase 1 (PP1) to chromatin at anaphase onset, in a similar manner as RepoMan (Booth et al., 2014). Here we show how Ki-67 and RepoMan form mitotic exit phosphatases by recruiting PP1, how they distinguish between distinct PP1 isoforms and how the assembly of these two holoenzymes are dynamically regulated by Aurora B kinase during mitosis. Unexpectedly, our data also reveal that Ki-67 and RepoMan bind PP1 using an identical, yet novel mechanism, interacting with a PP1 pocket that is engaged only by these two PP1 regulators. These findings not only show how two distinct mitotic exit phosphatases are recruited to their substrates, but also provide immediate opportunities for the design of novel cancer therapeutics that selectively target the Ki-67:PP1 and RepoMan:PP1 holoenzymes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "29666261",
+      "title": "Dynamic activation and regulation of the mitogen-activated protein kinase p38.",
+      "authors": [
+        "Ganesan Senthil Kumar",
+        "Michael W Clarkson",
+        "Micha B A Kunze",
+        "Daniele Granata",
+        "A Joshua Wand",
+        "Kresten Lindorff-Larsen",
+        "Rebecca Page",
+        "Wolfgang Peti"
+      ],
+      "year": "2018",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.1721441115",
+      "doi_link": "https://doi.org/10.1073/pnas.1721441115",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29666261",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Dynamic%20activation%20and%20regulation%20of%20the%20mitogen-activated%20protein%20kinase%20p38%22",
+      "citations": {
+        "crossref": 61
+      },
+      "abstract": "Mitogen-activated protein kinases, which include p38, are essential for cell differentiation and autophagy. The current model for p38 activation involves activation-loop phosphorylation with subsequent substrate binding leading to substrate phosphorylation. Despite extensive efforts, the molecular mechanism of activation remains unclear. Here, using NMR spectroscopy, we show how the modulation of protein dynamics across timescales activates p38. We find that activation-loop phosphorylation does not change the average conformation of p38; rather it quenches the loop ps-ns dynamics. We then show that substrate binding to nonphosphorylated and phosphorylated p38 results in uniform µs-ms backbone dynamics at catalytically essential regions and across the entire molecule, respectively. Together, these results show that phosphorylation and substrate binding flatten the energy landscape of the protein, making essential elements of allostery and activation dynamically accessible. The high degree of structural conservation among ser/thr kinases suggests that elements of this mechanism may be conserved across the kinase family.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "30443599",
+      "title": "Identification of the substrate recruitment mechanism of the muscle glycogen protein phosphatase 1 holoenzyme.",
+      "authors": [
+        "Ganesan Senthil Kumar",
+        "Meng S Choy",
+        "Dorothy M Koveal",
+        "Michael K Lorinsky",
+        "Scott P Lyons",
+        "Arminja N Kettenbach",
+        "Rebecca Page",
+        "Wolfgang Peti"
+      ],
+      "year": "2018",
+      "journal": "Science advances",
+      "doi": "10.1126/sciadv.aau6044",
+      "doi_link": "https://doi.org/10.1126/sciadv.aau6044",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30443599",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Identification%20of%20the%20substrate%20recruitment%20mechanism%20of%20the%20muscle%20glycogen%20protein%20phosphatase%201%20holoenzyme%22",
+      "citations": {
+        "crossref": 29
+      },
+      "abstract": "Glycogen is the primary storage form of glucose. Glycogen synthesis and breakdown are tightly controlled by glycogen synthase (GYS) and phosphorylase, respectively. The enzyme responsible for dephosphorylating GYS and phosphorylase, which results in their activation (GYS) or inactivation (phosphorylase) to robustly stimulate glycogen synthesis, is protein phosphatase 1 (PP1). However, our understanding of how PP1 recruits these substrates is limited. Here, we show how PP1, together with its muscle glycogen-targeting (GM) regulatory subunit, recruits and selectively dephosphorylates its substrates. Our molecular data reveal that the GM carbohydrate binding module (GM CBM21), which is amino-terminal to the GM PP1 binding domain, has a dual function in directing PP1 substrate specificity: It either directly recruits substrates (i.e., GYS) or recruits them indirectly by localization (via glycogen for phosphorylase). Our data provide the molecular basis for PP1 regulation by GM and reveal how PP1-mediated dephosphorylation is driven by scaffolding-based substrate recruitment.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "30611424",
+      "title": "Preparation of Phosphorylated Proteins for NMR Spectroscopy.",
+      "authors": [
+        "Ganesan Senthil Kumar",
+        "Rebecca Page",
+        "Wolfgang Peti"
+      ],
+      "year": "2019",
+      "journal": "Methods in enzymology",
+      "doi": "10.1016/bs.mie.2018.07.004",
+      "doi_link": "https://doi.org/10.1016/bs.mie.2018.07.004",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30611424",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Preparation%20of%20Phosphorylated%20Proteins%20for%20NMR%20Spectroscopy%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "Phosphorylation is a ubiquitous posttranslational modification that is essential for the regulation of many cellular processes. The human genome consists of more than 200,000 phosphorylation sites, whose phosphorylation is tightly controlled by ≥500 kinases and ~200 phosphatases. Given the large number of phosphorylation sites and the key role phosphorylation plays in regulating cellular processes, it is essential to characterize the impact of phosphorylation on substrate structure, dynamics, and function. However, a major challenge is the large-scale production of phosphorylated proteins in vitro for these structural, functional, and dynamic studies. Here, we describe an efficient protocol used routinely in our laboratory for the production of phosphorylated proteins. We also describe the methods used for identifying, characterizing, and separating the resulting phosphorylated proteins for subsequent studies.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "30770806",
+      "title": "ASPP proteins discriminate between PP1 catalytic subunits through their SH3 domain and the PP1 C-tail.",
+      "authors": [
+        "M Teresa Bertran",
+        "Stéphane Mouilleron",
+        "Yanxiang Zhou",
+        "Rakhi Bajaj",
+        "Federico Uliana",
+        "Ganesan Senthil Kumar",
+        "Audrey van Drogen",
+        "Rebecca Lee",
+        "Jennifer J Banerjee",
+        "Simon Hauri",
+        "Nicola O'Reilly",
+        "Matthias Gstaiger",
+        "Rebecca Page",
+        "Wolfgang Peti",
+        "Nicolas Tapon"
+      ],
+      "year": "2019",
+      "journal": "Nature communications",
+      "doi": "10.1038/s41467-019-08686-0",
+      "doi_link": "https://doi.org/10.1038/s41467-019-08686-0",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30770806",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22ASPP%20proteins%20discriminate%20between%20PP1%20catalytic%20subunits%20through%20their%20SH3%20domain%20and%20the%20PP1%20C-tail%22",
+      "citations": {
+        "crossref": 50
+      },
+      "abstract": "Serine/threonine phosphatases such as PP1 lack substrate specificity and associate with a large array of targeting subunits to achieve the requisite selectivity. The tumour suppressor ASPP (apoptosis-stimulating protein of p53) proteins associate with PP1 catalytic subunits and are implicated in multiple functions from transcriptional regulation to cell junction remodelling. Here we show that Drosophila ASPP is part of a multiprotein PP1 complex and that PP1 association is necessary for several in vivo functions of Drosophila ASPP. We solve the crystal structure of the human ASPP2/PP1 complex and show that ASPP2 recruits PP1 using both its canonical RVxF motif, which binds the PP1 catalytic domain, and its SH3 domain, which engages the PP1 C-terminal tail. The ASPP2 SH3 domain can discriminate between PP1 isoforms using an acidic specificity pocket in the n-Src domain, providing an exquisite mechanism where multiple motifs are used combinatorially to tune binding affinity to PP1.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "32649858",
+      "title": "MAP Kinase-Mediated Activation of RSK1 and MK2 Substrate Kinases.",
+      "authors": [
+        "Péter Sok",
+        "Gergő Gógl",
+        "Ganesan Senthil Kumar",
+        "Anita Alexa",
+        "Neha Singh",
+        "Klára Kirsch",
+        "Anna Sebő",
+        "László Drahos",
+        "Zoltán Gáspári",
+        "Wolfgang Peti",
+        "Attila Reményi"
+      ],
+      "year": "2020",
+      "journal": "Structure (London, England : 1993)",
+      "doi": "10.1016/j.str.2020.06.007",
+      "doi_link": "https://doi.org/10.1016/j.str.2020.06.007",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32649858",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22MAP%20Kinase-Mediated%20Activation%20of%20RSK1%20and%20MK2%20Substrate%20Kinases%22",
+      "citations": {
+        "crossref": 16
+      },
+      "abstract": "Mitogen-activated protein kinases (MAPKs) control essential eukaryotic signaling pathways. While much has been learned about MAPK activation, much less is known about substrate recruitment and specificity. MAPK substrates may be other kinases that are crucial to promote a further diversification of the signaling outcomes. Here, we used a variety of molecular and cellular tools to investigate the recruitment of two substrate kinases, RSK1 and MK2, to three MAPKs (ERK2, p38α, and ERK5). Unexpectedly, we identified that kinase heterodimers form structurally and functionally distinct complexes depending on the activation state of the MAPK. These may be incompatible with downstream signaling, but naturally they may also form structures that are compatible with the phosphorylation of the downstream kinase at the activation loop, or alternatively at other allosteric sites. Furthermore, we show that small-molecule inhibitors may affect the quaternary arrangement of kinase heterodimers and thus influence downstream signaling in a specific manner.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "32737198",
+      "title": "Cooperative dynamics across distinct structural elements regulate PTP1B activity.",
+      "authors": [
+        "Kristiane R Torgeson",
+        "Michael W Clarkson",
+        "Ganesan Senthil Kumar",
+        "Rebecca Page",
+        "Wolfgang Peti"
+      ],
+      "year": "2020",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.RA120.014652",
+      "doi_link": "https://doi.org/10.1074/jbc.RA120.014652",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32737198",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Cooperative%20dynamics%20across%20distinct%20structural%20elements%20regulate%20PTP1B%20activity%22",
+      "citations": {
+        "semantic_scholar": 14
+      },
+      "abstract": "Protein-tyrosine phosphatase 1B (PTP1B) is the canonical enzyme for investigating how distinct structural elements influence enzyme catalytic activity. Although it is recognized that dynamics are essential for PTP1B function, the data collected thus far have not resolved whether distinct elements are dynamically coordinated or, alternatively, whether they fulfill their respective functions independently. To answer this question, we performed a comprehensive 13C-methyl relaxation study of Ile, Leu, and Val (ILV) residues of PTP1B, which, because of its substantially increased sensitivity, provides a comprehensive understanding of the influence of protein motions on different time scales for enzyme function. We discovered that PTP1B exhibits dynamics at three distinct time scales. First, it undergoes a distinctive slow motion that allows for the dynamic binding and release of its two most N-terminal helices from the catalytic core. Second, we showed that PTP1B 13C-methyl group side chain fast time-scale dynamics and 15N backbone fast time-scale dynamics are fully consistent, demonstrating that fast fluctuations are essential for the allosteric control of PTP1B activity. Third, and most importantly, using 13C ILV constant-time Carr-Purcell-Meiboom-Gill relaxation measurements experiments, we demonstrated that all four catalytically important loops-the WPD, Q, E, and substrate-binding loops-work in dynamic unity throughout the catalytic cycle of PTP1B. Thus, these data show that PTP1B activity is not controlled by a single functional element, but instead all key elements are dynamically coordinated. Together, these data provide the first fully comprehensive picture on how the validated drug target PTP1B functions.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "33007022",
+      "title": "The mode of action of the Protein tyrosine phosphatase 1B inhibitor Ertiprotafib.",
+      "authors": [
+        "Ganesan Senthil Kumar",
+        "Rebecca Page",
+        "Wolfgang Peti"
+      ],
+      "year": "2020",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0240044",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0240044",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33007022",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20mode%20of%20action%20of%20the%20Protein%20tyrosine%20phosphatase%201B%20inhibitor%20Ertiprotafib%22",
+      "citations": {
+        "semantic_scholar": 21
+      },
+      "abstract": "Protein tyrosine phosphatase 1B (PTP1B) is a validated therapeutic target for the treatment of diabetes and obesity. Ertiprotafib is a PTP1B inhibitor that reached the clinical trial stage for the treatment of diabetes. Interestingly, Ertiprotafib reduces the melting temperature of PTP1B in differential scanning fluorimetry (DSF) assays, different from most drugs that increase the stability of their target upon binding. No molecular data on how Ertiprotafib functions has been published. Thus, to gain molecular insights into the mode of action of Ertiprotafib, we used biomolecular NMR spectroscopy to characterize the molecular details of the PTP1B:Ertiprotafib interaction. Our results show that Ertiprotafib induces aggregation of PTP1B in a concentration dependent manner. This shows that the insufficient clinical efficacy and adverse effects caused by Ertiprotafib is due to its tendency to cause aggregation of PTP1B.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "33188182",
+      "title": "Co-regulation of the transcription controlling ATF2 phosphoswitch by JNK and p38.",
+      "authors": [
+        "Klára Kirsch",
+        "András Zeke",
+        "Orsolya Tőke",
+        "Péter Sok",
+        "Ashish Sethi",
+        "Anna Sebő",
+        "Ganesan Senthil Kumar",
+        "Péter Egri",
+        "Ádám L Póti",
+        "Paul Gooley",
+        "Wolfgang Peti",
+        "Isabel Bento",
+        "Anita Alexa",
+        "Attila Reményi"
+      ],
+      "year": "2020",
+      "journal": "Nature communications",
+      "doi": "10.1038/s41467-020-19582-3",
+      "doi_link": "https://doi.org/10.1038/s41467-020-19582-3",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33188182",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Co-regulation%20of%20the%20transcription%20controlling%20ATF2%20phosphoswitch%20by%20JNK%20and%20p38%22",
+      "citations": {
+        "crossref": 48
+      },
+      "abstract": "Transcription factor phosphorylation at specific sites often activates gene expression, but how environmental cues quantitatively control transcription is not well-understood. Activating protein 1 transcription factors are phosphorylated by mitogen-activated protein kinases (MAPK) in their transactivation domains (TAD) at so-called phosphoswitches, which are a hallmark in response to growth factors, cytokines or stress. We show that the ATF2 TAD is controlled by functionally distinct signaling pathways (JNK and p38) through structurally different MAPK binding sites. Moreover, JNK mediated phosphorylation at an evolutionarily more recent site diminishes p38 binding and made the phosphoswitch differently sensitive to JNK and p38 in vertebrates. Structures of MAPK-TAD complexes and mechanistic modeling of ATF2 TAD phosphorylation in cells suggest that kinase binding motifs and phosphorylation sites line up to maximize MAPK based co-regulation. This study shows how the activity of an ancient transcription controlling phosphoswitch became dependent on the relative flux of upstream signals.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "33554397",
+      "title": "The interaction of p38 with its upstream kinase MKK6.",
+      "authors": [
+        "Ganesan Senthil Kumar",
+        "Rebecca Page",
+        "Wolfgang Peti"
+      ],
+      "year": "2021",
+      "journal": "Protein science : a publication of the Protein Society",
+      "doi": "10.1002/pro.4039",
+      "doi_link": "https://doi.org/10.1002/pro.4039",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33554397",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20interaction%20of%20p38%20with%20its%20upstream%20kinase%20MKK6%22",
+      "citations": {
+        "crossref": 11
+      },
+      "abstract": "Mitogen-activated protein kinase (MAPK; p38, ERK, and JNK) cascades are evolutionarily conserved signaling pathways that regulate the cellular response to a variety of extracellular stimuli, such as growth factors and interleukins. The MAPK p38 is activated by its specific upstream MAPK kinases, MKK6 and MKK3. However, a comprehensive molecular understanding of how these cognate upstream kinases bind and activate p38 is still missing. Here, we combine NMR spectroscopy and isothermal titration calorimetry to define the binding interface between full-length MKK6 and p38. It was shown that p38 engages MKK6 not only via its hydrophobic docking groove, but also influences helix αF, a secondary structural element that plays a key role in organizing the kinase core. It was also shown that, unlike MAPK phosphatases, the p38 conserved docking (CD) site is much less affected by MKK6 binding. Finally, it was demonstrated that these interactions with p38 are conserved independent of the MKK6 activation state. Together, the results revealed differences between specificity markers of p38 regulation by upstream kinases, which do not effectively engage the CD site, and downstream phosphatases, which require the CD site for productive binding.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "34101142",
+      "title": "1H, 15N and 13C sequence specific backbone assignment of the MAP kinase binding domain of the dual specificity phosphatase 1 and its interaction with the MAPK p38",
+      "authors": [
+        "Ganesan Senthil Kumar",
+        "Rebecca Page",
+        "Wolfgang Peti"
+      ],
+      "year": "2021",
+      "journal": "Biomolecular NMR assignments",
+      "doi": "10.1007/s12104-021-10012-z",
+      "doi_link": "https://doi.org/10.1007/s12104-021-10012-z",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34101142",
+      "scholar_link": "https://scholar.google.com/scholar?q=%221H%2C%2015N%20and%2013C%20sequence%20specific%20backbone%20assignment%20of%20the%20MAP%20kinase%20binding%20domain%20of%20the%20dual%20specificity%20phosphatase%201%20and%20its%20interaction%20with%20the%20MAPK%20p38%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "The sequence-specific backbone assignment of the mitogen-activated protein kinase (MAPK) binding domain of the dual-specificity phosphatase 1 (DUSP1) has been accomplished using a uniformly [13C, 15N]-labeled protein. These assignments will facilitate further studies of DUSP1 in the presence of inhibitors/ligands to target MAPK associated diseases and provide further insights into the function of dual-specificity phosphatase 1 in MAPK regulation.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 11,
+    "publications_by_year": {
+      "2021": 2,
+      "2020": 4,
+      "2019": 2,
+      "2018": 2,
+      "2016": 1
+    },
+    "top_journals": [
+      "Nature communications",
+      "eLife",
+      "Proceedings of the National Academy of Sciences of the United States of America",
+      "Science advances",
+      "Methods in enzymology"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 44,
+      "frequent_collaborators": [
+        "Wolfgang Peti",
+        "Rebecca Page",
+        "Ganesan Senthil Kumar",
+        "Michael W Clarkson",
+        "Anita Alexa",
+        "Anna Sebő",
+        "Attila Reményi",
+        "Ezgi Gokhan"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "29666261",
+        "title": "Dynamic activation and regulation of the mitogen-activated protein kinase p38.",
+        "citations": 61,
+        "year": "2018"
+      },
+      {
+        "publication_id": "27572260",
+        "title": "The Ki-67 and RepoMan mitotic phosphatases assemble via an identical, yet novel mechanism.",
+        "citations": 58,
+        "year": "2016"
+      },
+      {
+        "publication_id": "30770806",
+        "title": "ASPP proteins discriminate between PP1 catalytic subunits through their SH3 domain and the PP1 C-tail.",
+        "citations": 50,
+        "year": "2019"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1194 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Satyajit Rath",
+    "email": "satyajit@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/former-faculty/dr-satyajit-rath",
+    "research_domain": "Former",
+    "faculty_status": "former",
+    "search_date": "2025-07-02T00:00:00.000000",
+    "total_publications": 40,
+    "last_updated": "2025-07-02",
+    "description": "This document contains a complete list of publications by Dr. Satyajit Rath, former faculty in Former at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "37492439",
+      "title": "Does hand stiffness reflect internal organ fibrosis in diabetes mellitus?",
+      "authors": [
+        "Sanat Phatak",
+        "Jennifer L Ingram",
+        "Pranay Goel",
+        "Satyajit Rath",
+        "Chittaranjan Yajnik"
+      ],
+      "year": "2023",
+      "journal": "Frontiers in clinical diabetes and healthcare",
+      "doi": "10.3389/fcdhc.2023.1198782",
+      "doi_link": "https://doi.org/10.3389/fcdhc.2023.1198782",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37492439",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Does%20hand%20stiffness%20reflect%20internal%20organ%20fibrosis%20in%20diabetes%20mellitus%3F%22",
+      "citations": {
+        "semantic_scholar": 5
+      },
+      "abstract": "Fibrosis leads to irreversible stiffening of tissue and loss of function, and is a common pathway leading to morbidity and mortality in chronic disease. Diabetes mellitus (both type 1 and type 2 diabetes) are associated with significant fibrosis in internal organs, chiefly the kidney and heart, but also lung, liver and adipose tissue. Diabetes is also associated with the diabetic cheirarthropathies, a collection of clinical manifestations affecting the hand that include limited joint mobility (LJM), flexor tenosynovitis, Duypuytren disease and carpal tunnel syndrome. Histo-morphologically these are profibrotic conditions affecting various soft tissue components in the hand. We hypothesize that these hand manifestations reflect a systemic profibrotic state, and are potential clinical biomarkers of current or future internal organ fibrosis. Epidemiologically, there is evidence that fibrosis in one organ associates with fibrosis with another; the putative exposures that lead to fibrosis in diabetes (advanced glycation end product deposition, microvascular disease and hypoxia, persistent innate inflammation) are 'systemic'; a common genetic susceptibility to fibrosis has also been hinted at. These data suggest that a subset of the diabetic population is susceptible to multi-organ fibrosis. The hand is an attractive biomarker to clinically detect this susceptibility, owing to its accessibility to physical examination and exposure to repeated mechanical stresses. Testing the hypothesis has a few pre-requisites: being able to measure hand fibrosis in the hand, using clinical scores or imaging based scores, which will facilitate looking for associations with internal organ fibrosis using validated methodologies for each. Longitudinal studies would be essential in delineating fibrosis trajectories in those with hand manifestations. Since therapies reversing fibrosis are few, the onus lies on identification of a susceptible subset for preventative measures. If systematically validated, clinical hand examination could provide a low-cost, universally accessible and easily reproducible screening step in selecting patients for clinical trials for fibrosis in diabetes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "37288325",
+      "title": "IgA Determines Bacterial Composition in the Gut.",
+      "authors": [
+        "Suman Gupta",
+        "Sneh Lata Gupta",
+        "Aashima Singh",
+        "Neelam Oswal",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Anna George",
+        "Srijani Basu"
+      ],
+      "year": "2023",
+      "journal": "Crohn's & colitis 360",
+      "doi": "10.1093/crocol/otad030",
+      "doi_link": "https://doi.org/10.1093/crocol/otad030",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37288325",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22IgA%20Determines%20Bacterial%20Composition%20in%20the%20Gut%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "BACKGROUND: Classically, IgA in the gut prevents the invasion of microorganisms to systemic organs through the process of neutralization and immune exclusion. Interestingly, recent reports suggest that IgA might help in biofilm formation and promote bacterial growth inside the intestine. METHODS: In this study, we used flow cytometry, ELISA, and chemical models of colitis to test whether the quality and quantity of IgA can select for bacterial persistence in the gut. RESULTS: We found that members of Proteobacteria, such as γ-Proteobacteria and SFB, are preferentially coated by IgA in WT mice. In the partial absence of either T-dependent or -independent IgA responses, there are no significant differences in the frequency of bacteria coated with IgA in mice. However, Rag-/- mice that lack all antibodies had a severe reduction in Proteobacteria and were resistant to DSS-induced colitis, suggesting that secretory IgA might be essential for differential retention of these taxa in the mouse gut. Rag-/- littermates in the F2 generation generated from (B6 × Rag-/-) F1 mice acquired the underrepresented bacteria taxa such as γ-Proteobacteria through vertical transmission of flora. They died soon after weaning, possibly due to the acquired flora. Additionally, continued exposure of Rag-/- mice to B6 flora by cohousing mice led to the acquisition of γ-Proteobacteria and mortality. CONCLUSIONS: Together, our results indicate that host survival in the complete absence of an IgA response necessitates the exclusion of specific bacterial taxa from the gut microbiome.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "36555660",
+      "title": "Differential Regulation of Two Arms of mTORC1 Pathway Fine-Tunes Global Protein Synthesis in Resting B Lymphocytes.",
+      "authors": [
+        "Gagan Dev",
+        "Amanpreet Singh Chawla",
+        "Suman Gupta",
+        "Vineeta Bal",
+        "Anna George",
+        "Satyajit Rath",
+        "G Aneeshkumar Arimbasseri"
+      ],
+      "year": "2022",
+      "journal": "International journal of molecular sciences",
+      "doi": "10.3390/ijms232416017",
+      "doi_link": "https://doi.org/10.3390/ijms232416017",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36555660",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Differential%20Regulation%20of%20Two%20Arms%20of%20mTORC1%20Pathway%20Fine-Tunes%20Global%20Protein%20Synthesis%20in%20Resting%20B%20Lymphocytes%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "Protein synthesis is tightly regulated by both gene-specific and global mechanisms to match the metabolic and proliferative demands of the cell. While the regulation of global protein synthesis in response to mitogen or stress signals is relatively well understood in multiple experimental systems, how different cell types fine-tune their basal protein synthesis rate is not known. In a previous study, we showed that resting B and T lymphocytes exhibit dramatic differences in their metabolic profile, with implications for their post-activation function. Here, we show that resting B cells, despite being quiescent, exhibit increased protein synthesis in vivo as well as ex vivo. The increased protein synthesis in B cells is driven by mTORC1, which exhibits an intermediate level of activation in these cells when compared with resting T cells and activated B cells. A comparative analysis of the transcriptome and translatome of these cells indicates that the genes encoding the MHC Class II molecules and their chaperone CD74 are highly translated in B cells. These data suggest that the translatome of B cells shows enrichment for genes associated with antigen processing and presentation. Even though the B cells exhibit higher mTORC1 levels, they prevent the translational activation of TOP mRNAs, which are mostly constituted by ribosomal proteins and other translation factors, by upregulating 4EBP1 levels. This mechanism may keep the protein synthesis machinery under check while enabling higher levels of translation in B cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "33576153",
+      "title": "Transient systemic inflammation in adult male mice results in underweight progeny.",
+      "authors": [
+        "Sushama Rokade",
+        "Manoj Upadhya",
+        "Dattatray S Bhat",
+        "Nishikant Subhedar",
+        "Chittaranjan S Yajnik",
+        "Aurnab Ghose",
+        "Satyajit Rath",
+        "Vineeta Bal"
+      ],
+      "year": "2021",
+      "journal": "American journal of reproductive immunology (New York, N.Y. : 1989)",
+      "doi": "10.1111/aji.13401",
+      "doi_link": "https://doi.org/10.1111/aji.13401",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33576153",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Transient%20systemic%20inflammation%20in%20adult%20male%20mice%20results%20in%20underweight%20progeny%22",
+      "citations": {
+        "semantic_scholar": 14
+      },
+      "abstract": "PROBLEM: While the testes represent an immune-privileged organ, there is evidence that systemic inflammation is accompanied by local inflammatory responses. We therefore examined whether transient systemic inflammation caused any inflammatory and functional consequences in murine testes. METHOD OF STUDY: Using a single systemic administration of Toll-like receptor (TLR) agonists [lipopolysaccharide (LPS) or peptidoglycan (PG) or polyinosinic-polycytidylic acid (polyIC)] in young adult male mice, we assessed testicular immune-inflammatory landscape and reproductive functionality. RESULTS: Our findings demonstrated a significant induction of testicular TNF-α, IL-1β and IL-6 transcripts within 24 h of TLR agonist injection. By day 6, these cytokine levels returned to baseline. While there was no change in caudal sperm counts at early time points, eight weeks later, twofold decrease in sperm count and reduced testicular testosterone levels were evident. When these mice were subjected to mating studies, no differences in mating efficiencies or litter sizes were observed compared with controls. Nonetheless, the neonatal weights of progeny from LPS/PG/polyIC-treated sires were significantly lower than controls. Postnatal weight gain up to three weeks was also slower in the progeny of LPS/polyIC-treated sires. Placental weights at 17.5 days post-coitum were significantly lower in females mated to LPS- and polyIC-treated males. Given this likelihood of an epigenetic effect, we found lower testicular levels of histone methyltransferase enzyme, mixed-lineage leukaemia-1, in mice given LPS/PG/polyIC 8 weeks earlier. CONCLUSION: Exposure to transient systemic inflammation leads to transient local inflammation in the testes, with persistent sperm-mediated consequences for foetal development.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "33276297",
+      "title": "DBCOVP: A database of coronavirus virulent glycoproteins.",
+      "authors": [
+        "Susrita Sahoo",
+        "Soumya Ranjan Mahapatra",
+        "Bikram Kumar Parida",
+        "Satyajit Rath",
+        "Budheswar Dehury",
+        "Vishakha Raina",
+        "Nirmal Kumar Mohakud",
+        "Namrata Misra",
+        "Mrutyunjay Suar"
+      ],
+      "year": "2021",
+      "journal": "Computers in biology and medicine",
+      "doi": "10.1016/j.compbiomed.2020.104131",
+      "doi_link": "https://doi.org/10.1016/j.compbiomed.2020.104131",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33276297",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22DBCOVP%3A%20A%20database%20of%20coronavirus%20virulent%20glycoproteins%22",
+      "citations": {
+        "crossref": 21
+      },
+      "abstract": "Since the emergence of SARS-CoV-1 (2002), novel coronaviruses have emerged periodically like the MERS- CoV (2012) and now, the SARS-CoV-2 outbreak which has posed a global threat to public health. Although, this is the third zoonotic coronavirus breakout within the last two decades, there are only a few platforms that provide information about coronavirus genomes. None of them is specific for the virulence glycoproteins and complete sequence-structural features of these virulence factors across the betacoronavirus family including SARS-CoV-2 strains are lacking. Against this backdrop, we present DBCOVP (http://covp.immt.res.in/), the first manually-curated, web-based resource to provide extensive information on the complete repertoire of structural virulent glycoproteins from coronavirus genomes belonging to betacoronavirus genera. The database provides various sequence-structural properties in which users can browse and analyze information in different ways. Furthermore, many conserved T-cell and B-cell epitopes predicted for each protein are present that may perform a significant role in eliciting the humoral and cellular immune response. The tertiary structure of the epitopes together with the docked epitope-HLA binding-complex is made available to facilitate further analysis. DBCOVP presents an easy-to-use interface with in-built tools for similarity search, cross-genome comparison, phylogenetic, and multiple sequence alignment. DBCOVP will certainly be an important resource for experimental biologists engaged in coronavirus research studies and will aid in vaccine development.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "32839313",
+      "title": "Febrile temperature change modulates CD4 T cell differentiation via a TRPV channel-regulated Notch-dependent pathway.",
+      "authors": [
+        "Danish Umar",
+        "Arundhoti Das",
+        "Suman Gupta",
+        "Somdeb Chattopadhyay",
+        "Debayan Sarkar",
+        "Gauri Mirji",
+        "Jeet Kalia",
+        "Gopalakrishnan Aneeshkumar Arimbasseri",
+        "Jeannine Marie Durdik",
+        "Satyajit Rath",
+        "Anna George",
+        "Vineeta Bal"
+      ],
+      "year": "2020",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.1922683117",
+      "doi_link": "https://doi.org/10.1073/pnas.1922683117",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32839313",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Febrile%20temperature%20change%20modulates%20CD4%20T%20cell%20differentiation%20via%20a%20TRPV%20channel-regulated%20Notch-dependent%20pathway%22",
+      "citations": {
+        "semantic_scholar": 31
+      },
+      "abstract": "Fever is a conserved and prominent response to infection. Yet, the issue of how CD4 T cell responses are modulated if they occur at fever temperatures remains poorly addressed. We have examined the priming of naive CD4 T cells in vitro at fever temperatures, and we report notable fever-mediated modulation of their cytokine commitment. When naive CD4 T cells were primed by plate-bound anti-CD3 and anti-CD28 monoclonal antibodies at moderate fever temperature (39 °C), they enhanced commitment to IL4/5/13 (Th2) and away from IFNg (Th1). This was accompanied by up-regulation of the Th2-relevant transcription factor GATA3 and reduction in the Th1-relevant transcription factor Tbet. Fever sensing by CD4 T cells involved transient receptor potential vanilloid cation channels (TRPVs) since TRPV1/TRPV4 antagonism blocked the febrile Th2 switch, while TRPV1 agonists mediated a Th2 switch at 37 °C. The febrile Th2 switch was IL4 independent, but a γ-secretase inhibitor abrogated it, and it was not found in Notch1-null CD4 T cells, identifying the Notch pathway as a major mediator. However, when naive CD4 T cells were primed via antigen and dendritic cells (DCs) at fever temperatures, the Th2 switch was abrogated via increased production of IL12 from DCs at fever temperatures. Thus, immune cells directly sense fever temperatures with likely complex physiological consequences.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "32187647",
+      "title": "A role for cell-autocrine interleukin-2 in regulatory T-cell homeostasis.",
+      "authors": [
+        "Amanpreet Singh Chawla",
+        "Jasneet Kaur Khalsa",
+        "Atika Dhar",
+        "Suman Gupta",
+        "Danish Umar",
+        "Gopalakrishnan Aneeshkumar Arimbasseri",
+        "Vineeta Bal",
+        "Anna George",
+        "Satyajit Rath"
+      ],
+      "year": "2020",
+      "journal": "Immunology",
+      "doi": "10.1111/imm.13194",
+      "doi_link": "https://doi.org/10.1111/imm.13194",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32187647",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20role%20for%20cell-autocrine%20interleukin-2%20in%20regulatory%20T-cell%20homeostasis%22",
+      "citations": {
+        "crossref": 15
+      },
+      "abstract": "Activated T-cells make both interleukin-2 (IL2) and its high-affinity receptor component CD25. Regulatory CD4 T-cells (Treg cells) do not make IL2, and the IL2-CD25 circuit is considered a paracrine circuit crucial in their generation and maintenance. Yet, all T-cells are capable of making IL2 at some stage during differentiation, making a cell-intrinsic autocrine circuit additionally possible. When we re-visited experiments with mixed bone marrow chimeras using a wide range of ratios of wild-type (WT) and IL2-/- genotype progenitors, we found that, as expected, thymic Treg cells were almost equivalent between WT and IL2-/- genotypes at ratios with WT prominence. However, at WT-limiting ratios, the IL2-/- genotype showed lower thymic Treg frequencies, indicating a role for cell-intrinsic autocrine IL2 in thymic Treg generation under IL2-limiting conditions. Further, peripheral IL2-/- naive CD4 T-cells showed poor conversion to inducible Tregs (pTregs) both in vivo and in vitro, again indicating a significant role for cell-intrinsic autocrine IL2 in their generation. Peripherally, the IL2-/- genotype was less prominent at all WT:IL2-/- ratios among both thymic Tregs (tTregs) and pTregs, adoptively transferred IL2-/- Tregs showed poorer survival than WT Tregs did, and RNA-seq analysis of WT and IL2-/- Tregs showed interesting differences in the T-cell receptor and transforming growth factor-beta-bone morphogenetic protein-JNK pathways between them, suggesting a non-titrating role for cell-intrinsic autocrine IL2 in Treg programming. These data indicate that cell-intrinsic autocrine IL2 plays significant roles in Treg generation and maintenance.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "32061129",
+      "title": "dEMBF v2.0: An Updated Database of Enzymes for Microalgal Biofuel Feedstock.",
+      "authors": [
+        "Susrita Sahoo",
+        "Soumya Ranjan Mahapatra",
+        "Bikram Kumar Parida",
+        "Parminder Kaur Narang",
+        "Satyajit Rath",
+        "Namrata Misra",
+        "Mrutyunjay Suar"
+      ],
+      "year": "2020",
+      "journal": "Plant & cell physiology",
+      "doi": "10.1093/pcp/pcaa015",
+      "doi_link": "https://doi.org/10.1093/pcp/pcaa015",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32061129",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22dEMBF%20v2.0%3A%20An%20Updated%20Database%20of%20Enzymes%20for%20Microalgal%20Biofuel%20Feedstock%22",
+      "citations": {
+        "crossref": 3
+      },
+      "abstract": "In light of increasing algal genomics data and knowledge of biosynthetic pathways responsible for biofuel production, an integrated resource for easy access to all information is essential to improve our understanding of algal lipid metabolism. Against this backdrop, dEMBF v2.0, a significantly updated and improved version of our database of microalgae lipid biosynthetic enzymes for biofuel production, has been developed. dEMBF v2.0 now contains a comprehensive annotation of 2018 sequences encoding 35 enzymes, an increase of over 7-fold as compared with the first version. Other improved features include an increase in species coverage to 32 algal genomes, analysis of additional metabolic pathways, expanded annotation thoroughly detailing sequence and structural features, including enzyme-ligand interactions, and integration of supporting experimental evidence to demonstrate the role of enzymes in increasing lipid content. Along with a complete redesign of the interface, the updated database provides several inbuilt tools and user-friendly functionalities for more interactive and dynamic visualization of data.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "31611580",
+      "title": "Characterization of biological variation of peripheral blood immune cytome in an Indian cohort.",
+      "authors": [
+        "Parna Kanodia",
+        "Gurvinder Kaur",
+        "Poonam Coshic",
+        "Kabita Chatterjee",
+        "Teresa Neeman",
+        "Anna George",
+        "Satyajit Rath",
+        "Vineeta Bal",
+        "Savit B Prabhu"
+      ],
+      "year": "2019",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-019-51294-7",
+      "doi_link": "https://doi.org/10.1038/s41598-019-51294-7",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31611580",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Characterization%20of%20biological%20variation%20of%20peripheral%20blood%20immune%20cytome%20in%20an%20Indian%20cohort%22",
+      "citations": {
+        "crossref": 6
+      },
+      "abstract": "Immune parameters show characteristic normal baseline levels and variance in the population. We characterised the degree of inter-individual and within-individual variation over one-year time period in 33 immune cell subsets by flow cytometry in peripheral blood mononuclear cells from 43 healthy young adult volunteers. Our analysis revealed that immune subsets that showed low variability between individuals also showed low short-term fluctuations within-individuals, as well as concordance in siblings. However, when baseline levels and degree of fluctuation were considered together, individuals failed to cluster into discreet groups. Together, the data reveal complex inter-relationships between immune subsets in individuals, and provide insights into the observed heterogeneity between individuals and between multiple immune subsets.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "31554891",
+      "title": "Role of NF-kappaB2-p100 in regulatory T cell homeostasis and activation.",
+      "authors": [
+        "Atika Dhar",
+        "Meenakshi Chawla",
+        "Somdeb Chattopadhyay",
+        "Neelam Oswal",
+        "Danish Umar",
+        "Suman Gupta",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Anna George",
+        "G Aneeshkumar Arimbasseri",
+        "Soumen Basak"
+      ],
+      "year": "2019",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-019-50454-z",
+      "doi_link": "https://doi.org/10.1038/s41598-019-50454-z",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31554891",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Role%20of%20NF-kappaB2-p100%20in%20regulatory%20T%20cell%20homeostasis%20and%20activation%22",
+      "citations": {
+        "crossref": 16
+      },
+      "abstract": "The immunological roles of the nuclear factor-kappaB (NF-κB) pathway are mediated via the canonical components in immune responses and via non-canonical components in immune organogenesis and homeostasis, although the two components are capable of crosstalk. Regulatory CD4 T cells (Tregs) are homeostatically functional and represent an interesting potential meeting point of these two NF-κB components. We show that mice deficient in the non-canonical NF-κB component gene Nfkb2 (p100) had normal thymic development and suppressive function of Tregs. However, they had enhanced frequencies of peripheral 'effector-phenotype' Tregs (eTregs). In bi-parental chimeras of wild-type (WT) and Nfkb2-/- mice, the Nfkb2-/- genotype was over-represented in Tregs, with a further increase in the relative prominence of eTregs. Consistent with distinct properties of eTregs, the Nfkb2-/- genotype was more prominent in Tregs in extra-lymphoid tissues such as liver in the bi-parental chimeras. The Nfkb2-/- Tregs also displayed greater survival, activation and proliferation in vivo. These Nfkb2-/- Tregs showed higher nuclear NF-κB activity mainly comprising of RelB-containing dimers, in contrast to the prominence of cRel- and RelA-containing dimers in WT Tregs. Since p100 is an inhibitor of RelB activation as well as a participant as cleaved p52 in RelB nuclear activity, we tested bi-parental chimeras of WT and Relb-/- mice, and found normal frequencies of Relb-/- Tregs and eTregs in these chimeric mice. Our findings confirm and extend recent data, and indicate that p100 normally restrains RelB-mediated Treg activation, and in the absence of p100, p50-RelB dimers can contribute to Treg activation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "31318442",
+      "title": "Functionally significant metabolic differences between B and T lymphocyte lineages.",
+      "authors": [
+        "Jasneet Kaur Khalsa",
+        "Amanpreet Singh Chawla",
+        "Savit B Prabhu",
+        "Mukti Vats",
+        "Atika Dhar",
+        "Gagan Dev",
+        "Nabanita Das",
+        "Sandip Mukherjee",
+        "Shalini Tanwar",
+        "Hridesh Banerjee",
+        "Jeannine Marie Durdik",
+        "Vineeta Bal",
+        "Anna George",
+        "Satyajit Rath",
+        "Gopalakrishnan Aneeshkumar Arimbasseri"
+      ],
+      "year": "2019",
+      "journal": "Immunology",
+      "doi": "10.1111/imm.13098",
+      "doi_link": "https://doi.org/10.1111/imm.13098",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31318442",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Functionally%20significant%20metabolic%20differences%20between%20B%20and%20T%20lymphocyte%20lineages%22",
+      "citations": {
+        "crossref": 26
+      },
+      "abstract": "Activation of B and T lymphocytes leads to major remodelling of the metabolic landscape of the cells enabling their post-activation functions. However, naive B and T lymphocytes also show metabolic differences, and the genesis, nature and functional significance of these differences are not yet well understood. Here we show that resting B-cells appeared to have lower energy demands than resting T-cells as they consumed lower levels of glucose and fatty acids and produced less ATP. Resting B-cells are more dependent on OXPHOS, while T-cells show more dependence on aerobic glycolysis. However, despite an apparently higher energy demand, T lineage cells showed lower rates of protein synthesis than equivalent B lineage stages. These metabolic differences between the two lineages were established early during lineage differentiation, and were functionally significant. Higher levels of protein synthesis in B-cells were associated with increased synthesis of MHC class II molecules and other proteins associated with antigen internalization, transport and presentation. The combination of higher energy demand and lower protein synthesis in T-cells was consistent with their higher ATP-dependent motility. Our data provide an integrated perspective of the metabolic differences and their functional implications between the B and T lymphocyte lineages.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "31231391",
+      "title": "Clinical and Immunological Profile of Anti-factor H Antibody Associated Atypical Hemolytic Uremic Syndrome: A Nationwide Database.",
+      "authors": [
+        "Mamta Puraswani",
+        "Priyanka Khandelwal",
+        "Himanshi Saini",
+        "Savita Saini",
+        "Bahadur Singh Gurjar",
+        "Aditi Sinha",
+        "Rajashri Pramod Shende",
+        "Tushar Kanti Maiti",
+        "Abhishek Kumar Singh",
+        "Uma Kanga",
+        "Uma Ali",
+        "Indira Agarwal",
+        "Kanav Anand",
+        "Narayan Prasad",
+        "Padmaraj Rajendran",
+        "Rajiv Sinha",
+        "Anil Vasudevan",
+        "Anita Saxena",
+        "Sanjay Agarwal",
+        "Pankaj Hari",
+        "Arvind Sahu",
+        "Satyajit Rath",
+        "Arvind Bagga"
+      ],
+      "year": "2019",
+      "journal": "Frontiers in immunology",
+      "doi": "10.3389/fimmu.2019.01282",
+      "doi_link": "https://doi.org/10.3389/fimmu.2019.01282",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31231391",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Clinical%20and%20Immunological%20Profile%20of%20Anti-factor%20H%20Antibody%20Associated%20Atypical%20Hemolytic%20Uremic%20Syndrome%3A%20A%20Nationwide%20Database%22",
+      "citations": {
+        "crossref": 59
+      },
+      "abstract": "Background: Atypical hemolytic uremic syndrome (aHUS), an important cause of acute kidney injury (AKI), is characterized by dysregulation of the alternative complement pathway. Autoantibodies to factor H (FH), a chief regulator of this pathway, account for a distinct subgroup. While high anti-FH titers predict relapse, they do not correlate well with disease activity and their functional characterization is required. Methods: Of 781 patients <18-year-old of aHUS in the nationwide database from 2007 to 2018, 436 (55.8%) had anti-FH antibodies. Clinical features and outcome of patients managed in the last 6-year (n = 317) were compared to before (n = 119). In plasma samples of 44 patients, levels of serial circulating FH immune complexes (CIC), free FH, soluble terminal complement complex (sC5b-9), sheep red blood cell (SRBC) lysis and epitope specificity (n = 8) were examined. Functional renal reserve, ambulatory hypertension, left ventricular hypertrophy (LVH), and proteinuria were evaluated in a subset. Results: Patients presented with markedly elevated anti-FH titers (10,633.2 ± 998.5 AU/ml). Management varied by center, comprising plasma exchange (PEX; 77.5%) and immunosuppression (73.9%). Patients managed in the last 6-year showed better renal survival at mean 28.5 ± 27.3 months (log rank P = 0.022). Mean anti-FH titers stayed 700-1,164 AU/ml during prolonged follow-up, correlating with CIC. Patients with relapse had lower free-FH during remission [Generalized estimating equations (GEE), P = 0.001]; anti-FH levels ≥1,330 AU/ml and free FH ≤440 mg/l predicted relapse (hazards ratio, HR 6.3; P = 0.018). Epitope specificity was similar during onset, remission and relapse. Antibody titer ≥8,000 AU/ml (HR 2.23; P = 0.024), time to PEX ≥14 days (HR 2.09; P = 0.071) and PEX for <14 days (HR 2.60; P = 0.017) predicted adverse renal outcomes. Combined PEX and immunosuppression improved long-term outcomes (HR 0.37; P = 0.026); maintenance therapy reduced risk of relapses (HR 0.11; P < 0.001). At 4.4±2.5 year, median renal reserve was 15.9%; severe ambulatory, masked and pre-hypertension were found in 38, 30, and 18%, respectively. Proteinuria and LVH occurred in 58 and 28% patients, respectively. Conclusion: Prompt recognition and therapy with PEX and immunosuppression, is associated with satisfactory outcomes. Free-FH predicts early relapses in patients with high anti-FH titers. A significant proportion of impaired functional reserve, ambulatory hypertension, proteinuria and LVH highlight the need for vigilant long-term follow-up.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "31215020",
+      "title": "Gut IgA abundance in adult life is a major determinant of resistance to dextran sodium sulfate-colitis and can compensate for the effects of inadequate maternal IgA received by neonates.",
+      "authors": [
+        "Suman Gupta",
+        "Srijani Basu",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Anna George"
+      ],
+      "year": "2019",
+      "journal": "Immunology",
+      "doi": "10.1111/imm.13091",
+      "doi_link": "https://doi.org/10.1111/imm.13091",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31215020",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Gut%20IgA%20abundance%20in%20adult%20life%20is%20a%20major%20determinant%20of%20resistance%20to%20dextran%20sodium%20sulfate-colitis%20and%20can%20compensate%20for%20the%20effects%20of%20inadequate%20maternal%20IgA%20received%20by%20neonates%22",
+      "citations": {
+        "crossref": 20
+      },
+      "abstract": "Studies with gene-deficient and gnotobiotic mice have identified many host and microbial factors that contribute to induced colitis, but information on whether specific factors determine susceptibility under more physiological conditions is lacking. Using wild-type strains that differ in their IgA response but harbor a diverse gut microbiome, we found that the IgA-high strain CBA/CaJ (CBA) is resistant to acute colitis induced with dextran sodium sulfate (DSS), unlike the IgA-low strain C57BL/6 (B6). Resistance was associated with extensive IgA-coating of fecal bacteria, lower fecal bacterial loads and greater abundance of barrier-protective transcripts in colonic tissues under homeostatic conditions. Fecal microbial transplant (FT) experiments revealed that disease induction in B6 mice was associated with a cohort of bacteria that are not targeted by IgA. However, CBA mice continued to be resistant to colitis induction following FTs from B6 mice, indicating that they are able to contain such colitogenic members. In support of a role for bacterial exclusion in resistance, oral administration of immunoglobulins decreased DSS-induced disease in B6 mice. In F1 mice derived separately with CBA and B6 dams and in F1 mice backcrossed to the two parental strains, resistance segregated with the IgA response of the pups and not with barrier-associated transcripts or bacterial loads. Interestingly, B6 pups foster-nursed on CBA dams continued to be susceptible in later life, whereas CBA pups foster-nursed on B6 dams continued to be resistant. Together, the data indicate that a high-IgA response in adult life can protect against colitis and compensate for IgA deficiency in early life.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "30945073",
+      "title": "Altered Peripheral Blood Leucocyte Phenotype and Responses in Healthy Individuals with Homozygous Deletion of FHR1 and FHR3 Genes.",
+      "authors": [
+        "Angika Bhasym",
+        "Bahadur Singh Gurjar",
+        "Savit Prabhu",
+        "Mamta Puraswani",
+        "Priyanka Khandelwal",
+        "Himanshi Saini",
+        "Savita Saini",
+        "Priyadarshini Chatterjee",
+        "Vineeta Bal",
+        "Anna George",
+        "Poonam Coshic",
+        "Gopal Patidar",
+        "Pankaj Hari",
+        "Aditi Sinha",
+        "Arvind Bagga",
+        "Satyajit Rath",
+        "Prasenjit Guchhait"
+      ],
+      "year": "2019",
+      "journal": "Journal of clinical immunology",
+      "doi": "10.1007/s10875-019-00619-2",
+      "doi_link": "https://doi.org/10.1007/s10875-019-00619-2",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30945073",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Altered%20Peripheral%20Blood%20Leucocyte%20Phenotype%20and%20Responses%20in%20Healthy%20Individuals%20with%20Homozygous%20Deletion%20of%20FHR1%20and%20FHR3%20Genes%22",
+      "citations": {
+        "crossref": 7
+      },
+      "abstract": "A homozygous 83-kb deletion encompassing the genes for complement factor-H-related proteins 1 and 3 (FHR 1, FHR3) is known as a risk factor for some immune inflammatory disorders. However, the functional relevance of this FHR1/3 deletion is relatively unexplored. Globally, healthy populations of all ethnic groups tested show an 8-10% prevalence of homozygosity for this deletion polymorphism. We have begun to compare the peripheral leucocyte phenotype and functionality between FHR1/3-/- and FHR1/3+/+ healthy adult individuals. We report that the two groups show significant differences in their peripheral blood innate leucocyte subset composition, although the adaptive immune subsets are similar between them. Specifically, FHR1/3-/- individuals show higher frequencies of patrolling monocytes and lower frequencies of classical monocytes than FHR1/3+/+ individuals. Similarly, FHR1/3-/- individuals show higher frequencies of plasmacytoid dendritic cells (pDCs) and lower frequencies of myeloid DCs (mDCs) than FHR1/3+/+ individuals. Notably, classical monocytes specifically showed cell-surface-associated factor H (FH), and cells from the FHR1/3-/- group had somewhat higher surface-associated FH levels than those from FHR1/3+/+ individuals. FHR1/3-/- monocytes also showed elevated secretion of TNF-α, IL-1β, and IL-10 in response to TLR7/8 or TLR4 ligands. Similarly, FHR1/3-/- mDCs and pDCs showed modest but evident hyper-responsiveness to TLR ligands. Our findings, that the FHR1/3-/- genotype is associated with significant alterations of both the relative prominence and the functioning of monocyte and DC subsets, may be relevant in understanding the mechanism underlying the association of the genotype with immune inflammatory disorders.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "30557341",
+      "title": "Cell-intrinsic regulation of peripheral memory-phenotype T cell frequencies.",
+      "authors": [
+        "Amanpreet Singh Chawla",
+        "Parna Kanodia",
+        "Ankur Mukherjee",
+        "Vaibhav Jain",
+        "Gurvinder Kaur",
+        "Poonam Coshic",
+        "Kabita Chatterjee",
+        "Nitya Wadhwa",
+        "Uma Chandra Mouli Natchu",
+        "Shailaja Sopory",
+        "Shinjini Bhatnagar",
+        "Partha P Majumder",
+        "Anna George",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Savit B Prabhu"
+      ],
+      "year": "2018",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0200227",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0200227",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30557341",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Cell-intrinsic%20regulation%20of%20peripheral%20memory-phenotype%20T%20cell%20frequencies%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "Memory T and B lymphocyte numbers are thought to be regulated by recent and cumulative microbial exposures. We report here that memory-phenotype lymphocyte frequencies in B, CD4 and CD8 T-cells in 3-monthly serial bleeds from healthy young adult humans were relatively stable over a 1-year period, while Plasmablast frequencies were not, suggesting that recent environmental exposures affected steady state levels of recently activated but not of memory lymphocyte subsets. Frequencies of memory B and CD4 T cells were not correlated, suggesting that variation in them was unlikely to be determined by cumulative antigenic exposures. Immunophenotyping of adult siblings showed high concordance in memory, but not of recently activated lymphocyte subsets. To explore the possibility of cell-intrinsic regulation of T cell memory, we screened effector memory-phenotype T cell (TEM) frequencies in common independent inbred mice strains. Using two pairs from these strains that differed predominantly in either CD4 TEM and/or CD8 TEM frequencies, we constructed bi-parental bone marrow chimeras in F1 recipient mice, and found that memory T cell frequencies in recipient mice were determined by donor genotypes. Together, these data suggest cell-autonomous determination of memory T niche size, and suggest mechanisms maintaining immune variability.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "30556901",
+      "title": "Correlation of cell-surface CD8 levels with function, phenotype and transcriptome of naive CD8 T cells.",
+      "authors": [
+        "Renu Balyan",
+        "Rupali Gund",
+        "Amanpreet Singh Chawla",
+        "Satyajeet P Khare",
+        "Saurabh J Pradhan",
+        "Sanket Rane",
+        "Sanjeev Galande",
+        "Jeannine Marie Durdik",
+        "Anna George",
+        "Vineeta Bal",
+        "Satyajit Rath"
+      ],
+      "year": "2019",
+      "journal": "Immunology",
+      "doi": "10.1111/imm.13036",
+      "doi_link": "https://doi.org/10.1111/imm.13036",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30556901",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Correlation%20of%20cell-surface%20CD8%20levels%20with%20function%2C%20phenotype%20and%20transcriptome%20of%20naive%20CD8%20T%20cells%22",
+      "citations": {
+        "semantic_scholar": 5
+      },
+      "abstract": "We have previously demonstrated co-receptor level-associated functional heterogeneity in apparently homogeneous naive peripheral CD4 T cells, dependent on MHC-mediated tonic signals. Maturation pathways can differ between naive CD4 and naive CD8 cells, so we tested whether the latter showed similar co-receptor level-associated functional heterogeneity. We report that, when either polyclonal and T-cell receptor (TCR)-transgenic monoclonal peripheral naive CD8 T cells from young mice were separated into CD8hi and CD8lo subsets, CD8lo cells responded poorly, but CD8hi and CD8lo subsets of CD8 single-positive (SP) thymocytes responded similarly. CD8lo naive CD8 T cells were smaller and showed lower levels of some cell-surface molecules, but higher levels of the negative regulator CD5. In addition to the expected peripheral decline in CD8 levels on transferred naive CD8 T cells in wild-type (WT) but not in MHC class I-deficient recipient mice, short-duration naive T-cell-dendritic cell (DC) co-cultures in vitro also caused co-receptor down-modulation in CD8 T cells but not in CD4 T cells. Constitutive pZAP70/pSyk and pERK levels ex vivo were lower in CD8lo naive CD8 T cells and dual-specific phosphatase inhibition partially rescued their hypo-responsiveness. Bulk mRNA sequencing showed major differences in the transcriptional landscapes of CD8hi and CD8lo naive CD8 T cells. CD8hi naive CD8 T cells showed enrichment of genes involved in positive regulation of cell cycle and survival. Our data show that naive CD8 T cells show major differences in their signaling, transcriptional and functional landscapes associated with subtly altered CD8 levels, consistent with the possibility of peripheral cellular aging.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "30444901",
+      "title": "Differences in multiple immune parameters between Indian and U.S. infants.",
+      "authors": [
+        "Deepak K Rathore",
+        "Tyson H Holmes",
+        "Kari C Nadeau",
+        "Pratima Mittal",
+        "Achla Batra",
+        "Yael Rosenberg-Hasson",
+        "Shailaja Sopory",
+        "Rohit Gupta",
+        "Harish K Chellani",
+        "Kailash C Aggarwal",
+        "Vineeta Bal",
+        "Uma Chandra Mouli Natchu",
+        "Shinjini Bhatnagar",
+        "Morvarid Tavassoli",
+        "Deirdre J Lyell",
+        "Satyajit Rath",
+        "Nitya Wadhwa",
+        "Holden T Maecker"
+      ],
+      "year": "2018",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0207297",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0207297",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30444901",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Differences%20in%20multiple%20immune%20parameters%20between%20Indian%20and%20U.S.%20infants%22",
+      "citations": {
+        "crossref": 7
+      },
+      "abstract": "To compare immune phenotypes across two geographic and ethnic communities, we examined umbilical cord blood by flow cytometry and Luminex in parallel cohorts of 53 newborns from New Delhi, India, and 46 newborns from Stanford, California. We found that frequencies of a B cell subset suggested to be B-1-like, and serum IgM concentration were both significantly higher in the Stanford cohort, independent of differences in maternal age. While serum IgA levels were also significantly higher in the Stanford cohort, IgG1, IgG2, and IgG4 were significantly higher in the New Delhi samples. We found that neutrophils, plasmacytoid dendritic cells, CD8+ T cells, and total T cells were higher in the U.S. cohort, while dendritic cells, patrolling monocytes (CD14dimCD16+), natural killer cells, CD4+ T cells, and naïve B cells were higher in the India cohort. Within the India cohort, we also identified cell types whose frequency was positively or negatively predictive of occurrence of infection(s) in the first six months of life. Monocytes, total T cells, and memory CD4+ T cells were most prominent in having an inverse relationship with infection. We suggest that these data provide impetus for follow-up studies linking phenotypic differences to environmental versus genetic factors, and to infection outcomes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "29643620",
+      "title": "Opioid-free anesthesia for breast cancer surgery: An observational study.",
+      "authors": [
+        "Swagata Tripathy",
+        "Satyajit Rath",
+        "Suresh Agrawal",
+        "P Bhaskar Rao",
+        "A Panda",
+        "T S Mishra",
+        "Sukdev Nayak"
+      ],
+      "year": "2018",
+      "journal": "Journal of anaesthesiology, clinical pharmacology",
+      "doi": "10.4103/joacp.JOACP_143_17",
+      "doi_link": "https://doi.org/10.4103/joacp.JOACP_143_17",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29643620",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Opioid-free%20anesthesia%20for%20breast%20cancer%20surgery%3A%20An%20observational%20study%22",
+      "citations": {
+        "semantic_scholar": 45
+      },
+      "abstract": "BACKGROUND AND AIMS: Opioids are associated with postoperative nausea, vomiting, drowsiness, and increased analgesic requirement. A nonopioid anesthesia technique may reduce morbidity, enable day care surgery, and possibly decrease tumor recurrence. We compared opioid-free, nerve block-based anesthesia with opioid-based general anesthesia for breast cancer surgery in a prospective cohort study. MATERIAL AND METHODS: Twenty four adult American Society of Anesthesiologists grade I-III patients posted for modified radical mastectomy (MRM) with axillary dissection were induced with propofol and maintained on isoflurane (0.8-1.0 minimum alveolar concentration) through i-gel on spontaneous ventilation and administered ultrasound-guided PECS 1 and 2 blocks (0.1% lignocaine + 0.25% bupivacaine + 1 mcg/kg dexmedetomidine, 30 ml). Postoperative nausea, pain scores, nonopioid analgesic requirement over 24 h, stay in the recovery room, and satisfaction of surgeon and patient were studied. Twenty-four patients who underwent MRM and axillary dissection without a nerve block under routine opioid anesthesia with controlled ventilation were the controls. RESULTS: MRM and axillary dissection under the nonopioid technique was adequate in all patients. Time in the recovery room, postoperative nausea, analgesic requirement, and visual analog scale scores were all significantly less in the nonopioid group. Surgeon and patient were satisfied with good patient quality of life on day 7. CONCLUSION: Nonopioid nerve block technique is adequate and safe for MRM with axillary clearance. Compared to conventional technique, it offers lesser morbidity and may allow for earlier discharge. Larger studies are needed to assess the long-term impact on chronic pain and tumor recurrence by nonopioid techniques.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "29485195",
+      "title": "Characterization of genetic predisposition and autoantibody profile in atypical haemolytic-uraemic syndrome.",
+      "authors": [
+        "Bahadur Singh Gurjar",
+        "Tholu Manikanta Sriharsha",
+        "Angika Bhasym",
+        "Savit Prabhu",
+        "Mamta Puraswani",
+        "Priyanka Khandelwal",
+        "Himanshi Saini",
+        "Savita Saini",
+        "Anita Kamra Verma",
+        "Priyadarshini Chatterjee",
+        "Prasenjit Guchhait",
+        "Vineeta Bal",
+        "Anna George",
+        "Satyajit Rath",
+        "Arvind Sahu",
+        "Amita Sharma",
+        "Pankaj Hari",
+        "Aditi Sinha",
+        "Arvind Bagga"
+      ],
+      "year": "2018",
+      "journal": "Immunology",
+      "doi": "10.1111/imm.12916",
+      "doi_link": "https://doi.org/10.1111/imm.12916",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29485195",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Characterization%20of%20genetic%20predisposition%20and%20autoantibody%20profile%20in%20atypical%20haemolytic-uraemic%20syndrome%22",
+      "citations": {
+        "crossref": 16
+      },
+      "abstract": "We previously reported that Indian paediatric patients with atypical haemolytic-uraemic syndrome (aHUS) showed high frequencies of anti-complement factor H (FH) autoantibodies that are correlated with homozygous deletion of the genes for FH-related proteins 1 and 3 (FHR1 and FHR3) (FHR1/3-/- ). We now report that Indian paediatric aHUS patients without anti-FH autoantibodies also showed modestly higher frequencies of the FHR1/3-/- genotype. Further, when we characterized epitope specificities and binding avidities of anti-FH autoantibodies in aHUS patients, most anti-FH autoantibodies were directed towards the FH cell-surface anchoring polyanionic binding site-containing C-terminal short conservative regions (SCRs) 17-20 with higher binding avidities than for native FH. FH SCR17-20-binding anti-FH autoantibodies also bound the other cell-surface anchoring polyanionic binding site-containing region FH SCR5-8, at lower binding avidities. Anti-FH autoantibody avidities correlated with antibody titres. These anti-FH autoantibody characteristics did not differ between aHUS patients with or without the FHR1/3-/- genotype. Our data suggest a complex matrix of interactions between FHR1-FHR3 deletion, immunomodulation and anti-FH autoantibodies in the aetiopathogenesis of aHUS.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "29088218",
+      "title": "Effector/memory CD4 T cells making either Th1 or Th2 cytokines commonly co-express T-bet and GATA-3.",
+      "authors": [
+        "Arundhoti Das",
+        "Vidya Ranganathan",
+        "Danish Umar",
+        "Shipra Thukral",
+        "Anna George",
+        "Satyajit Rath",
+        "Vineeta Bal"
+      ],
+      "year": "2017",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0185932",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0185932",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29088218",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Effector/memory%20CD4%20T%20cells%20making%20either%20Th1%20or%20Th2%20cytokines%20commonly%20co-express%20T-bet%20and%20GATA-3%22",
+      "citations": {
+        "crossref": 12
+      },
+      "abstract": "Naïve CD4 T (NCD4T) cells post-activation undergo programming for inducible production of cytokines leading to generation of memory cells with various functions. Based on cytokine based polarization of NCD4T cells in vitro, programming for either 'Th1' (interferon-gamma [IFNg]) or 'Th2' (interleukin [IL]-4/5/13) cytokines is thought to occur via mutually exclusive expression and functioning of T-bet or GATA-3 transcription factors (TFs). However, we show that a high proportion of mouse and human memory-phenotype CD4 T (MCD4T) cells generated in vivo which expressed either Th1 or Th2 cytokines commonly co-expressed T-bet and GATA-3. While T-bet levels did not differ between IFNg-expressing and IL-4/5/13-expressing MCD4T cells, GATA-3 levels were higher in the latter. These observations were also confirmed in MCD4T cells from FVB/NJ or aged C57BL/6 or IFNg-deficient mice. While MCD4T cells from these strains showed greater Th2 commitment than those from young C57BL/6 mice, pattern of co-expression of TF was similar. Effector T cells generated in vivo following immunization also showed TF co-expression in Th1 or Th2 cytokine producing cells. We speculated that the difference in TF expression pattern of MCD4T cells generated in vivo and those generated in cytokine polarized cultures in vitro could be due to relative absence of polarizing conditions during activation in vivo. We tested this by NCD4T cell activation in non-polarizing conditions in vitro. Anti-CD3 and anti-CD28-mediated priming of polyclonal NCD4T cells in vitro without polarizing milieu generated cells that expressed either IFNg or IL-4/5/13 but not both, yet both IFNg- and IL-4/5/13-expressing cells showed upregulation of both TFs. We also tested monoclonal T cell populations activated in non-polarizing conditions. TCR-transgenic NCD4T cells primed in vitro by cognate peptide in non-polarizing conditions which expressed either IFNg or IL-4/5/13 also showed a high proportion of cells co-expressing TFs, and their cytokine commitment varied depending on genetic background or priming conditions, without altering pattern of TF co-expression. Thus, the model of mutually antagonistic differentiation programs driven by mutually exclusively expressed T-bet or GATA-3 does not completely explain natural CD4 T cell priming outcomes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper21",
+      "publication_id": "29061763",
+      "title": "A TNF-p100 pathway subverts noncanonical NF-κB signaling in inflamed secondary lymphoid organs.",
+      "authors": [
+        "Tapas Mukherjee",
+        "Budhaditya Chatterjee",
+        "Atika Dhar",
+        "Sachendra S Bais",
+        "Meenakshi Chawla",
+        "Payel Roy",
+        "Anna George",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Soumen Basak"
+      ],
+      "year": "2017",
+      "journal": "The EMBO journal",
+      "doi": "10.15252/embj.201796919",
+      "doi_link": "https://doi.org/10.15252/embj.201796919",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29061763",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20TNF-p100%20pathway%20subverts%20noncanonical%20NF-%CE%BAB%20signaling%20in%20inflamed%20secondary%20lymphoid%20organs%22",
+      "citations": {
+        "crossref": 27
+      },
+      "abstract": "Lymphotoxin-beta receptor (LTβR) present on stromal cells engages the noncanonical NF-κB pathway to mediate RelB-dependent expressions of homeostatic chemokines, which direct steady-state ingress of naïve lymphocytes to secondary lymphoid organs (SLOs). In this pathway, NIK promotes partial proteolysis of p100 into p52 that induces nuclear translocation of the RelB NF-κB heterodimers. Microbial infections often deplete homeostatic chemokines; it is thought that infection-inflicted destruction of stromal cells results in the downregulation of these chemokines. Whether inflammation per se also regulates these processes remains unclear. We show that TNF accumulated upon non-infectious immunization of mice similarly downregulates the expressions of these chemokines and consequently diminishes the ingress of naïve lymphocytes in inflamed SLOs. Mechanistically, TNF inactivated NIK in LTβR-stimulated cells and induced the synthesis of Nfkb2 mRNA encoding p100; these together potently accumulated unprocessed p100, which attenuated the RelB activity as inhibitory IκBδ. Finally, a lack of p100 alleviated these TNF-mediated inhibitions in inflamed SLOs of immunized Nfkb2-/- mice. In sum, we reveal that an inhibitory TNF-p100 pathway modulates the adaptive compartment during immune responses.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper22",
+      "publication_id": "29022109",
+      "title": "Interaction of CD80 with Neph1: a potential mechanism of podocyte injury.",
+      "authors": [
+        "Bhavya Khullar",
+        "Renu Balyan",
+        "Neelam Oswal",
+        "Nidhi Jain",
+        "Amita Sharma",
+        "Malik Z Abdin",
+        "Arvind Bagga",
+        "Shinjini Bhatnagar",
+        "Nitya Wadhwa",
+        "Uma Chandra Mouli Natchu",
+        "Anna George",
+        "Satyajit Rath",
+        "Vineeta Bal",
+        "Shailaja Sopory"
+      ],
+      "year": "2018",
+      "journal": "Clinical and experimental nephrology",
+      "doi": "10.1007/s10157-017-1489-3",
+      "doi_link": "https://doi.org/10.1007/s10157-017-1489-3",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29022109",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Interaction%20of%20CD80%20with%20Neph1%3A%20a%20potential%20mechanism%20of%20podocyte%20injury%22",
+      "citations": {
+        "crossref": 22
+      },
+      "abstract": "BACKGROUND: The induction of CD80 on podocytes has been shown in animal models of podocyte injury and in certain cases of nephrotic syndrome. In a lipopolysaccharide (LPS)-induced mouse model of albuminuria, we have recently shown a signalling axis of LPS-myeloid cell activation-TNFα production-podocyte CD80 induction-albuminuria. Therefore, in this report, we investigated the cellular and molecular consequences of TNFα addition and CD80 expression on cultured podocytes. METHODS: A murine podocyte cell line was used for TNFα treatment and for over-expressing CD80. Expression and localization of various podocyte proteins was analysed by reverse transcriptase-polymerase chain reaction, western blotting and immunofluorescence. HEK293 cells were used to biochemically characterize interactions. RESULTS: Podocytes treated with LPS in vitro did not cause CD80 upregulation but TNFα treatment was associated with an increase in CD80 levels, actin derangement and poor wound healing. Podocytes stably expressing CD80 showed actin derangement and co-localization with Neph1. CD80 and Neph1 interaction was confirmed by pull down assays of CD80 and Neph1 transfected in HEK293 cells. CONCLUSION: Addition of TNFα to podocytes causes CD80 upregulation, actin reorganization and podocyte injury. Overexpressed CD80 and Neph1 interact via their extracellular domain. This interaction implies a mechanism of slit diaphragm disruption and possible use of small molecules that disrupt CD80-Neph1 interaction as a potential for treatment of nephrotic syndrome associated with CD80 upregulation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper23",
+      "publication_id": "28746783",
+      "title": "CD73 expression identifies a subset of IgM+ antigen-experienced cells with memory attributes that is T cell and CD40 signalling dependent.",
+      "authors": [
+        "Lucas D'Souza",
+        "Sneh Lata Gupta",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Anna George"
+      ],
+      "year": "2017",
+      "journal": "Immunology",
+      "doi": "10.1111/imm.12800",
+      "doi_link": "https://doi.org/10.1111/imm.12800",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28746783",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22CD73%20expression%20identifies%20a%20subset%20of%20IgM%2B%20antigen-experienced%20cells%20with%20memory%20attributes%20that%20is%20T%20cell%20and%20CD40%20signalling%20dependent%22",
+      "citations": {
+        "crossref": 13
+      },
+      "abstract": "B-cell memory was long characterized as isotype-switched, somatically mutated and germinal centre (GC)-derived. However, it is now clear that the memory pool is a complex mixture that includes unswitched and unmutated cells. Further, expression of CD73, CD80 and CD273 has allowed the categorization of B-cell memory into multiple subsets, with combinatorial expression of the markers increasing with GC progression, isotype-switching and acquisition of somatic mutations. We have extended these findings to determine whether these markers can be used to identify IgM memory phenotypically as arising from T-dependent versus T-independent responses. We report that CD73 expression identifies a subset of antigen-experienced IgM+ cells that share attributes of functional B-cell memory. This subset is reduced in the spleens of T-cell-deficient and CD40-deficient mice and in mixed marrow chimeras made with mutant and wild-type marrow, the proportion of CD73+ IgM memory is restored in the T-cell-deficient donor compartment but not in the CD40-deficient donor compartment, indicating that CD40 ligation is involved in its generation. We also report that CD40 signalling supports optimal expression of CD73 on splenic T cells and age-associated B cells (ABCs), but not on other immune cells such as neutrophils, marginal zone B cells, peritoneal cavity B-1 B cells and regulatory T and B cells. Our data indicate that in addition to promoting GC-associated memory generation during B-cell differentiation, CD40-signalling can influence the composition of the unswitched memory B-cell pool. They also raise the possibility that a fraction of ABCs may represent T-cell-dependent IgM memory.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper24",
+      "publication_id": "28378771",
+      "title": "Mediation of transitional B cell maturation in the absence of functional Bruton's tyrosine kinase.",
+      "authors": [
+        "Shalini Tanwar",
+        "Atika Dhar",
+        "Vineeth Varanasi",
+        "Tapas Mukherjee",
+        "Ramanamurthy Boppana",
+        "Soumen Basak",
+        "Vineeta Bal",
+        "Anna George",
+        "Satyajit Rath"
+      ],
+      "year": "2017",
+      "journal": "Scientific reports",
+      "doi": "10.1038/srep46029",
+      "doi_link": "https://doi.org/10.1038/srep46029",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28378771",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mediation%20of%20transitional%20B%20cell%20maturation%20in%20the%20absence%20of%20functional%20Bruton%27s%20tyrosine%20kinase%22",
+      "citations": {
+        "semantic_scholar": 6
+      },
+      "abstract": "X-linked immune-deficient (Xid) mice, carrying a mutation in Bruton's tyrosine kinase (Btk), have multiple B cell lineage differentiation defects. We now show that, while Xid mice showed only mild reduction in the frequency of the late transitional (T2) stage of peripheral B cells, the defect became severe when the Xid genotype was combined with either a CD40-null, a TCRbeta-null or an MHC class II (MHCII)-null genotype. Purified Xid T1 and T2 B cells survived poorly in vitro compared to wild-type (WT) cells. BAFF rescued WT but not Xid T1 and T2 B cells from death in culture, while CD40 ligation equivalently rescued both. Xid transitional B cells ex vivo showed low levels of the p100 protein substrate for non-canonical NF-kappaB signalling. In vitro, CD40 ligation induced equivalent activation of the canonical but not of the non-canonical NF-kappaB pathway in Xid and WT T1 and T2 B cells. CD40 ligation efficiently rescued p100-null T1 B cells from neglect-induced death in vitro. These data indicate that CD40-mediated signals, likely from CD4 T cells, can mediate peripheral transitional B cell maturation independent of Btk and the non-canonical NF-kappaB pathway, and thus contribute to the understanding of the complexities of peripheral B cell maturation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper25",
+      "publication_id": "28208937",
+      "title": "An Ulcerated Giant Malignant Phyllodes Tumour Presenting in Septic Shock.",
+      "authors": [
+        "Susanta Meher",
+        "Tushar Subhadarshan Mishra",
+        "Prakash Kumar Sasmal",
+        "Satyajit Rath",
+        "Rakesh Sharma"
+      ],
+      "year": "2016",
+      "journal": "Journal of clinical and diagnostic research : JCDR",
+      "doi": "10.7860/JCDR/2016/20252.8945",
+      "doi_link": "https://doi.org/10.7860/JCDR/2016/20252.8945",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28208937",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22An%20Ulcerated%20Giant%20Malignant%20Phyllodes%20Tumour%20Presenting%20in%20Septic%20Shock%22",
+      "citations": {
+        "crossref": 2
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper26",
+      "publication_id": "28151989",
+      "title": "CD8 T cells protect adult naive mice from JEV-induced morbidity via lytic function.",
+      "authors": [
+        "Nidhi Jain",
+        "Neelam Oswal",
+        "Amanpreet Singh Chawla",
+        "Tanvi Agrawal",
+        "Moanaro Biswas",
+        "Sudhanshu Vrati",
+        "Satyajit Rath",
+        "Anna George",
+        "Vineeta Bal",
+        "Guruprasad R Medigeshi"
+      ],
+      "year": "2017",
+      "journal": "PLoS neglected tropical diseases",
+      "doi": "10.1371/journal.pntd.0005329",
+      "doi_link": "https://doi.org/10.1371/journal.pntd.0005329",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28151989",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22CD8%20T%20cells%20protect%20adult%20naive%20mice%20from%20JEV-induced%20morbidity%20via%20lytic%20function%22",
+      "citations": {
+        "crossref": 28
+      },
+      "abstract": "Following Japanese encephalitis virus (JEV) infection neutralizing antibodies are shown to provide protection in a significant proportion of cases, but not all, suggesting additional components of immune system might also contribute to elicit protective immune response. Here we have characterized the role of T cells in offering protection in adult mice infected with JEV. Mice lacking α/β-T cells (TCRβ-null) are highly susceptible and die over 10-18 day period as compared to the wild-type (WT) mice which are resistant. This is associated with high viral load, higher mRNA levels of proinflammatory cytokines and breach in the blood-brain-barrier (BBB). Infected WT mice do not show a breach in BBB; however, in contrast to TCRβ-null, they show the presence of T cells in the brain. Using adoptive transfer of cells with specific genetic deficiencies we see that neither the presence of CD4 T cells nor cytokines such as IL-4, IL-10 or interferon-gamma have any significant role in offering protection from primary infection. In contrast, we show that CD8 T cell deficiency is more critical as absence of CD8 T cells alone increases mortality in mice infected with JEV. Further, transfer of T cells from beige mice with defects in granular lytic function into TCRβ-null mice shows poor protection implicating granule-mediated target cell lysis as an essential component for survival. In addition, for the first time we report that γ/δ-T cells also make significant contribution to confer protection from JEV infection. Our data show that effector CD8 T cells play a protective role during primary infection possibly by preventing the breach in BBB and neuronal damage.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper27",
+      "publication_id": "28100678",
+      "title": "Modulation of Naive CD8 T Cell Response Features by Ligand Density, Affinity, and Continued Signaling via Internalized TCRs.",
+      "authors": [
+        "Renu Balyan",
+        "Rupali Gund",
+        "Chitra Ebenezer",
+        "Jasneet Kaur Khalsa",
+        "Divya Anna Verghese",
+        "Thyagarajan Krishnamurthy",
+        "Anna George",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Ashutosh Chaudhry"
+      ],
+      "year": "2017",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.1600083",
+      "doi_link": "https://doi.org/10.4049/jimmunol.1600083",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28100678",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Modulation%20of%20Naive%20CD8%20T%20Cell%20Response%20Features%20by%20Ligand%20Density%2C%20Affinity%2C%20and%20Continued%20Signaling%20via%20Internalized%20TCRs%22",
+      "citations": {
+        "crossref": 23
+      },
+      "abstract": "T cell response magnitudes increase with increasing antigenic dosage. However, it is unclear whether ligand density only modulates the proportions of responding ligand-specific T cells or also alters responses at the single cell level. Using brief (3 h) exposure of TCR-transgenic mouse CD8 T cells in vitro to varying densities of cognate peptide-MHC ligand followed by ligand-free culture in IL-2, we found that ligand density determined the frequencies of responding cells but not the expression levels of the early activation marker molecule, CD69. Cells with low glucose uptake capacity and low protein synthesis rates were less ligand-sensitive, implicating metabolic competence in the response heterogeneity of CD8 T cell populations. Although most responding cells proliferated, ligand density was associated with time of entry into proliferation and with the extent of cell surface TCR downmodulation. TCR internalization was associated, regardless of the ligand density, with rapidity of c-myc induction, loss of the cell cycle inhibitor p27kip1, metabolic reprogramming, and cell cycle entry. A low affinity peptide ligand behaved, regardless of ligand density, like a low density, high affinity ligand in all these parameters. Inhibition of signaling after ligand exposure selectively delayed proliferation in cells with internalized TCRs. Finally, internalized TCRs continued to signal and genetic modification of TCR internalization and trafficking altered the duration of signaling in a T cell hybridoma. Together, our findings indicate that heterogeneity among responding CD8 T cell populations in their ability to respond to TCR-mediated stimulation and internalize TCRs mediates detection of ligand density or affinity, contributing to graded response magnitudes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper28",
+      "publication_id": "27654578",
+      "title": "Giant dedifferentiated liposarcoma of small bowel mesentery: a case report.",
+      "authors": [
+        "Susanta Meher",
+        "Tushar Subhadarshan Mishra",
+        "Satyajit Rath",
+        "Prakash Kumar Sasmal",
+        "Pritinanda Mishra",
+        "Susama Patra"
+      ],
+      "year": "2016",
+      "journal": "World journal of surgical oncology",
+      "doi": "10.1186/s12957-016-1007-1",
+      "doi_link": "https://doi.org/10.1186/s12957-016-1007-1",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27654578",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Giant%20dedifferentiated%20liposarcoma%20of%20small%20bowel%20mesentery%3A%20a%20case%20report%22",
+      "citations": {
+        "crossref": 13
+      },
+      "abstract": "BACKGROUND: Dedifferentiated liposarcoma is an uncommon variant of liposarcoma, with poor prognosis and higher preponderance to local recurrence. Only nine cases of dedifferentiated liposarcoma of small bowel mesentery have been reported till now. This is a case of giant dedifferentiated liposarcoma of the small bowel mesentery, weighing nearly 9 kg (19.8 lbs), with synchronous lesions in the extraperitoneal space, which is the first such case to be reported. CASE PRESENTATION: We report a case of a 62-year-old man, who presented with a huge abdominal mass occupying nearly the entire abdomen. A contrast enhanced computed tomography of abdomen and pelvis revealed a large, poorly enhancing, heterogeneous, lobulated mass of size 27 × 16 cm, displacing the bowel loops peripherally. At laparotomy, a large mass arising from the small bowel mesentery was found. In addition, many other smaller synchronous lesions were studded in the entire small bowel mesentery and a couple more in the extraperitoneal space. A palliative excision of the giant mass along with the adjacent small bowel was done. The other smaller swellings were not causing any mass effect and were left behind as they were numerous, virtually ruling out any possibility of a curative excision. The histopathological examination suggested the diagnosis of dedifferentiated liposarcoma. On immunohistochemistry, S-100 was positive in the well-differentiated sarcomatous areas. The CD 117 and SMA were strongly negative ruling out the possibility of a gastrointestinal stromal tumour. The CD 34 however was positive in the tumour cells. CONCLUSIONS: Dedifferentiated liposarcoma of the small bowel mesentery is rare. Involvement of nearly whole of the small bowel mesentery in the disease process virtually rules out the possibility of a curative resection, the mainstay of management. This report would add to the knowledge of this rare disease and the possible therapeutic problem that may be encountered in case of multifocal disease.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper29",
+      "publication_id": "27610624",
+      "title": "Comparison of Human Neonatal and Adult Blood Leukocyte Subset Composition Phenotypes.",
+      "authors": [
+        "Savit B Prabhu",
+        "Deepak K Rathore",
+        "Deepa Nair",
+        "Anita Chaudhary",
+        "Saimah Raza",
+        "Parna Kanodia",
+        "Shailaja Sopory",
+        "Anna George",
+        "Satyajit Rath",
+        "Vineeta Bal",
+        "Reva Tripathi",
+        "Siddharth Ramji",
+        "Aruna Batra",
+        "Kailash C Aggarwal",
+        "Harish K Chellani",
+        "Sugandha Arya",
+        "Nidhi Agarwal",
+        "Umesh Mehta",
+        "Uma Chandra Mouli Natchu",
+        "Nitya Wadhwa",
+        "Shinjini Bhatnagar"
+      ],
+      "year": "2016",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0162242",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0162242",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27610624",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Comparison%20of%20Human%20Neonatal%20and%20Adult%20Blood%20Leukocyte%20Subset%20Composition%20Phenotypes%22",
+      "citations": {
+        "crossref": 63
+      },
+      "abstract": "The human peripheral leukocyte subset composition depends on genotype variation and pre-natal and post-natal environmental influence diversity. We quantified this composition in adults and neonates, and compared the median values and dispersal ranges of various subsets in them. We confirmed higher frequencies of monocytes and regulatory T cells (Tregs), similar frequencies of neutrophils, and lower frequencies of CD8 T cells, NKT cells, B1 B cells and gamma-delta T cells in neonatal umbilical cord blood. Unlike previous reports, we found higher frequencies of eosinophils and B cells, higher CD4:CD8 ratios, lower frequencies of T cells and iNKT cells, and similar frequencies of CD4 T cells and NK cells in neonates. We characterized monocyte subsets and dendritic cell (DC) subsets in far greater detail than previously reported, using recently described surface markers and gating strategies and observed that neonates had lower frequencies of patrolling monocytes and lower myeloid dendritic cell (mDC):plasmacytoid DC (pDC) ratios. Our data contribute to South Asian reference values for these parameters. We found that dispersal ranges differ between different leukocyte subsets, suggesting differential determination of variation. Further, some subsets were more dispersed in adults than in neonates suggesting influences of postnatal sources of variation, while some show the opposite pattern suggesting influences of developmental process variation. Together, these data and analyses provide interesting biological possibilities for future exploration.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper30",
+      "publication_id": "27342845",
+      "title": "Constitutive CD40 Signaling Calibrates Differentiation Outcomes in Responding B Cells via Multiple Molecular Pathways.",
+      "authors": [
+        "Srijani Basu",
+        "Sheetal Kaw",
+        "Lucas D'Souza",
+        "Tushar Vaidya",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Anna George"
+      ],
+      "year": "2016",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.1600077",
+      "doi_link": "https://doi.org/10.4049/jimmunol.1600077",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27342845",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Constitutive%20CD40%20Signaling%20Calibrates%20Differentiation%20Outcomes%20in%20Responding%20B%20Cells%20via%20Multiple%20Molecular%20Pathways%22",
+      "citations": {
+        "crossref": 6
+      },
+      "abstract": "CD40 signaling during B cell activation is known to inhibit terminal differentiation and promote memory generation. Blimp-1 is essential for efficient plasma cell (PC) generation, and although CD40 signaling is known to inhibit Blimp-1 induction during B cell activation, the mechanisms involved have been unclear. We report that CD40 signaling induces miR-125b that targets Blimp-1 transcripts, and increases amounts of the ubiquitin ligase Hrd1 that targets BLIMP-1 protein for proteasomal degradation. CD40 signaling also inhibits the early unfolded protein response (UPR) of activated B cells that precedes the induction of terminal differentiation, and Hrd1 feeds into this pathway by targeting the core UPR component IRE-1α. Strikingly, CD40 signaling in the absence of BCR- or TLR-ligation also repressed Blimp-1 transcripts, suggesting that noncognate ligation of CD40 via T-B interactions may repress Blimp-1 in vivo. In support of this, we find that naive B cells purified from CD40-CD154 interaction-deficient mice express higher amounts of Blimp-1 and lower amounts of microRNAs and Hrd1. Higher basal amounts of Blimp-1 in naive CD40(-/-) B cells correlate with an increased tendency of the cells to undergo terminal differentiation upon LPS stimulation. Conversely, a 24-h exposure to CD40 ligation during LPS stimulation of wild-type B cells is sufficient to inhibit PC generation. The data show that CD40-mediated inhibition of PC generation is via engagement of multiple pathways that involve repression of Blimp-1 and inhibition of the UPR that prepares cells to become professional secretors. They also show that constitutive CD40 signaling in vivo involving bystander T-B interactions can calibrate B cell differentiation outcomes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper31",
+      "publication_id": "27134926",
+      "title": "Quality of Life after Frey's Procedure in Patients with Chronic Pancreatitis.",
+      "authors": [
+        "Satyajit Rath",
+        "Susanta Meher",
+        "Abhimanyu Basu",
+        "Sujata Priyadarshini",
+        "Bikram Rout",
+        "Rakesh Sharma"
+      ],
+      "year": "2016",
+      "journal": "Journal of clinical and diagnostic research : JCDR",
+      "doi": "10.7860/JCDR/2016/16736.7417",
+      "doi_link": "https://doi.org/10.7860/JCDR/2016/16736.7417",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27134926",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Quality%20of%20Life%20after%20Frey%27s%20Procedure%20in%20Patients%20with%20Chronic%20Pancreatitis%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "INTRODUCTION: Chronic pancreatitis is a debilitating disease, associated with excruciating abdominal pain, exocrine and endocrine pancreatic insufficiency. Different types of surgical techniques have been described for the management of complications of this disease. The most common procedure which has been adopted for improving the quality of life of the patients with chronic pancreatitis is Frey's Procedure. It is an organ preserving procedure in which the main pancreatic duct is drained by lateral pancreatico-jejunostomy along with coring of the head of the pancreas. AIM: In this study, we have assessed the outcome of Frey's procedure in terms of quality of life in patients with chronic pancreatitis. MATERIALS AND METHODS: This was a prospective observational study done at a tertiary care center in West Bengal, India. The study period was from 2010 to 2014. All the patients who have undergone Frey's Procedure during the study duration and with the postoperative histopathology of chronic pancreatitis were included in this study. The preoperative and postoperative pain and quality of life assessment was done using VAS score (0-100) and EORTC QLQ-C30 (Version 3) respectively. The statistical analysis was performed with the help of Epi Info (TM) 3.5.3. RESULTS: A total of 35 patients with chronic pancreatitis underwent Frey's procedure during the study period. The mean age (mean ± s.e) of the 33 patients included in the study was 38.48±5.55 years with a range of 29-49 years. The mean preoperative Physical Functional Domain (PFD), Physical Domain (PD), Emotional Domain (ED), Social Domain (SD) and general health raw score with standard errors were 32.06±0.40, 37.86±0.36, 15.18±0.32, 8.63±0.31 and 4.48±0.26 respectively. ANOVA showed that there was significant differences in PFD, PD, ED, SD and GH values during different time period of follow up (p<0.0001) and as per Critical Difference the postoperative values of PFD, PD, ED and SD decreased while postoperative value of GH increased significantly in different months compared to the preoperative values. CONCLUSION: We conclude that Frey's procedure is a low risk surgery, which significantly improves the quality of life of the patients with chronic pancreatitis in all the domains and can be recommended as a surgical therapy for such patients.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper32",
+      "publication_id": "27125280",
+      "title": "TLR-mediated albuminuria needs TNFα-mediated cooperativity between TLRs present in hematopoietic tissues and CD80 present on non-hematopoietic tissues in mice.",
+      "authors": [
+        "Nidhi Jain",
+        "Bhavya Khullar",
+        "Neelam Oswal",
+        "Balaji Banoth",
+        "Prashant Joshi",
+        "Balachandran Ravindran",
+        "Subrat Panda",
+        "Soumen Basak",
+        "Anna George",
+        "Satyajit Rath",
+        "Vineeta Bal",
+        "Shailaja Sopory"
+      ],
+      "year": "2016",
+      "journal": "Disease models & mechanisms",
+      "doi": "10.1242/dmm.023440",
+      "doi_link": "https://doi.org/10.1242/dmm.023440",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27125280",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22TLR-mediated%20albuminuria%20needs%20TNF%CE%B1-mediated%20cooperativity%20between%20TLRs%20present%20in%20hematopoietic%20tissues%20and%20CD80%20present%20on%20non-hematopoietic%20tissues%20in%20mice%22",
+      "citations": {
+        "crossref": 9
+      },
+      "abstract": "Transient albuminuria induced by pathogen-associated molecular patterns (PAMPs) in mice through engagement of Toll-like receptors (TLRs) is widely studied as a partial model for some forms of human nephrotic syndrome (NS). In addition to TLRs, CD80 has been shown to be essential for PAMP-mediated albuminuria. However, the mechanistic relationships between TLRs, CD80 and albuminuria remain unclear. Here, we show that albuminuria and CD80-uria induced in mice by many TLR ligands are dependent on the expression of TLRs and their downstream signalling intermediate MyD88 exclusively in hematopoietic cells and, conversely, on CD80 expression exclusively in non-hematopoietic cells. TNFα is crucial for TLR-mediated albuminuria and CD80-uria, and induces CD80 expression in cultured renal podocytes. IL-10 from hematopoietic cells ameliorates TNFα production, albuminuria and CD80-uria but does not prevent TNFα-mediated induction of podocyte CD80 expression. Chitohexaose, a small molecule originally of parasite origin, mediates TLR4-dependent anti-inflammatory responses, and blocks TLR-mediated albuminuria and CD80-uria through IL-10. Thus, TNFα is a prominent mediator of renal CD80 induction and resultant albuminuria in this model, and small molecules modulating TLR-mediated inflammatory activation might have contributory or adjunct therapeutic potential in some contexts of NS development.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper33",
+      "publication_id": "26768704",
+      "title": "Pericatheter encrustations: an unusual cause of a retained Foley catheter.",
+      "authors": [
+        "Satyajit Rath",
+        "Tushar Subhadarshan Mishra",
+        "Prakash Kumar Sasmal",
+        "Susanta Meher"
+      ],
+      "year": "2016",
+      "journal": "BMJ case reports",
+      "doi": "10.1136/bcr-2015-212379",
+      "doi_link": "https://doi.org/10.1136/bcr-2015-212379",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26768704",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Pericatheter%20encrustations%3A%20an%20unusual%20cause%20of%20a%20retained%20Foley%20catheter%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "Urethral catheterisation is a common bedside procedure in hospitals. After they have served their purpose, indwelling Foley catheters can be removed by deflating their balloon. The incidence of a retained Foley catheter, however, is not uncommon, failure to deflate the intravesicular balloon being the most common reason. Causes of retained Foley catheters are many and the method to deal with each varies with the inciting cause. Pericatheter concretion or encrustation, an unusual cause of difficulty in removal of the catheter, is often difficult to recognise and hence is prone to faulty management. We report a case of a patient with a retained Foley catheter due to pericatheter encrustations; multiple attempts to remove it were made before the patient presented to our hospital. The case is being reported for the unusual location of retention, and the associated diagnostic and therapeutic dilemma.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper34",
+      "publication_id": "26635990",
+      "title": "Ancient Schwannoma of Ansa Cervicalis: A Rare Clinical Entity and Review of the Literature.",
+      "authors": [
+        "Satyajit Rath",
+        "Prakash K Sasmal",
+        "Kaushik Saha",
+        "N Deep",
+        "Pritinanda Mishra",
+        "Tushar S Mishra",
+        "Rakesh Sharma"
+      ],
+      "year": "2015",
+      "journal": "Case reports in surgery",
+      "doi": "10.1155/2015/578467",
+      "doi_link": "https://doi.org/10.1155/2015/578467",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26635990",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Ancient%20Schwannoma%20of%20Ansa%20Cervicalis%3A%20A%20Rare%20Clinical%20Entity%20and%20Review%20of%20the%20Literature%22",
+      "citations": {
+        "crossref": 2
+      },
+      "abstract": "Ancient schwannoma is an uncommon variant of schwannoma, a benign tumor arising from the nerve sheath. It is reported to arise from any nerves except optic and olfactory. However, only six cases of ancient schwannomas arising from ansa cervicalis nerve have been reported to date in English literature. Proper preoperative evaluation is necessary to rule out other causes of neck mass such as thyroid lesions, lymphadenopathy, and carotid body tumor. We report a case of ancient schwannoma arising from the ansa cervicalis nerve. The origin of the lesion from ansa cervicalis was confirmed by intraoperative finding. Postoperative histopathological examination revealed degenerative changes including pleomorphism, cellular atypia, large nuclei with prominent nucleoli, and paucity of mitotic figures. Periphery of the mass showed nuclear palisading with characteristic verocay bodies. Immunohistochemical evaluation for S-100 showed diffuse positivity of the tumor cells, thereby confirming the diagnosis of schwannoma. We consider that schwannoma of cervical region can have origin from any nerve and should try to identify the origin pre- and intraoperatively. The postoperative complications depend on the nerve of origin and the precision of the surgery performed.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper35",
+      "publication_id": "26609461",
+      "title": "Sternalis Muscle: An Unexpected Finding during Mastectomy.",
+      "authors": [
+        "Prakash K Sasmal",
+        "Susanta Meher",
+        "Tushar S Mishra",
+        "N Deep",
+        "Prabhas R Tripathy",
+        "Satyajit Rath"
+      ],
+      "year": "2015",
+      "journal": "Case reports in surgery",
+      "doi": "10.1155/2015/723198",
+      "doi_link": "https://doi.org/10.1155/2015/723198",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26609461",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Sternalis%20Muscle%3A%20An%20Unexpected%20Finding%20during%20Mastectomy%22",
+      "citations": {
+        "crossref": 4
+      },
+      "abstract": "Sternalis muscle also called rectus sternalis, rectus thoracis, or episternalis is an anomalous muscle of the anterior chest wall with unknown anatomical function. It is regularly observed in lower animal but infrequently in humans. Presence of this muscle can create confusion with tumours of the anterior chest wall during routine mammography. Although less is known about its origin and innervations, knowledge about this muscle can have many clinical implications. A case of unilateral sternalis muscle detected during mastectomy, in a female with carcinoma of the right breast, is being reported with a brief review of the literature and highlighting its clinical significance.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper36",
+      "publication_id": "26600695",
+      "title": "Validation of the EuroQol Five-dimensions - Three-Level Quality of Life Instrument in a Classical Indian Language (Odia) and Its Use to Assess Quality of Life and Health Status of Cancer Patients in Eastern India.",
+      "authors": [
+        "Swagata Tripathy",
+        "Upendra Hansda",
+        "Newfight Seth",
+        "Satyajit Rath",
+        "P B Rao",
+        "T S Mishra",
+        "S H Subba",
+        "Rekha Das",
+        "Sukdev Nayak",
+        "Nilamadhab Kar"
+      ],
+      "year": "2015",
+      "journal": "Indian journal of palliative care",
+      "doi": "10.4103/0973-1075.164896",
+      "doi_link": "https://doi.org/10.4103/0973-1075.164896",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26600695",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Validation%20of%20the%20EuroQol%20Five-dimensions%20-%20Three-Level%20Quality%20of%20Life%20Instrument%20in%20a%20Classical%20Indian%20Language%20%28Odia%29%20and%20Its%20Use%20to%20Assess%20Quality%20of%20Life%20and%20Health%20Status%20of%20Cancer%20Patients%20in%20Eastern%20India%22",
+      "citations": {
+        "crossref": 35
+      },
+      "abstract": "BACKGROUND AND OBJECTIVES: The EuroQol five-dimensions - 3-level (EQ5D) is a versatile quality of life (QOL) instrument with five dimensions (mobility, self-care, usual activities, pain/discomfort, and anxiety/depression) and a visual analog scale. It can be used to calculate quality-adjusted life years. We aimed to evaluate the validity, reliability, and responsiveness of an Odia version of EQ5D and to study the QOL of cancer patients in our part of the country as cancer treatment in India still focuses largely on longevity due to scarcity of resources. MATERIALS AND METHODS: The EQ5D tool was translated into Odia language in collaboration with the EQ group. This tool and the World Health Organization-5 (WHO-5) questionnaires were administered to 155 surgical outpatients and 150 cancer patients in two hospitals of Eastern India. The convergent and discriminant validities (construct validity), concurrent validity, reliability (test-retest method of administering the tool to a part of the population after 7-14 days), and the internal consistency (Cronbach's alpha) were measured using preestablished hypotheses. The data from the cancer patients were analyzed separately. RESULTS: The QOL worsened with age and was worse in cancer patients proved that the tool had good construct validity. The Anxiety Depression dimension had good correlation with all the dimensions WHO-5 (rho > 0.4) indicating a good concurrent validity. Internal consistency and reliability of the tool were good (Cronbach's alpha > 0.7). Cancer patients had a poor QOL (mean EQ5D index 0.37SD 0.4) with male patients, patients with Grade II cancer or referred for pain care services and those with living spouses reporting worse QOL. CONCLUSIONS: The Odia version of the EQ5D has good reliability and validity for the measurement of health status in cancer and outpatient department patients. Cancer patients in this part of the country have a poor QOL and may need a closer look at pain management and improved societal support systems.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper37",
+      "publication_id": "26488021",
+      "title": "Port site infection in laparoscopic surgery: A review of its management.",
+      "authors": [
+        "Prakash K Sasmal",
+        "Tushar S Mishra",
+        "Satyajit Rath",
+        "Susanta Meher",
+        "Dipti Mohapatra"
+      ],
+      "year": "2015",
+      "journal": "World journal of clinical cases",
+      "doi": "10.12998/wjcc.v3.i10.864",
+      "doi_link": "https://doi.org/10.12998/wjcc.v3.i10.864",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26488021",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Port%20site%20infection%20in%20laparoscopic%20surgery%3A%20A%20review%20of%20its%20management%22",
+      "citations": {
+        "crossref": 49
+      },
+      "abstract": "Laparoscopic surgery (LS), also termed minimal access surgery, has brought a paradigm shift in the approach to modern surgical care. Early postoperative recovery, less pain, improved aesthesis and early return to work have led to its popularity both amongst surgeons and patients. Its application has progressed from cholecystectomies and appendectomies to various other fields including gastrointestinal surgery, urology, gynecology and oncosurgery. However, LS has its own package of complications. Port site infection (PSI), although infrequent, is one of the bothersome complications which undermine the benefits of minimal invasive surgery. Not only does it add to the morbidity of the patient but also spoils the reputation of the surgeon. Despite the advances in the field of antimicrobial agents, sterilization techniques, surgical techniques, operating room ventilation, PSIs still prevail. The emergence of rapid growing atypical mycobacteria with multidrug resistance, which are the causative organism in most of the cases, has further compounded the problem. PSIs are preventable if appropriate measures are taken preoperatively, intraoperatively and postoperatively. PSIs can often be treated non-surgically, with early identification and appropriate management. Macrolides, quinolones and aminoglycosides antibiotics do show promising activity against the atypical mycobacteria. This review article highlights the clinical burden, presentations and management of PSIs in LS as shared by various authors in the literature. We have given emphasis to atypical mycobacteria, which are emerging as a common etiological agent for PSIs in LS. Although the existing literature lacks consensus regarding PSI management, the complication can be best avoided by strictly abiding by the commandments of sterilization techniques of the laparoscopic instruments with appropriate sterilizing agent.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper38",
+      "publication_id": "26345247",
+      "title": "Role of Biomarkers in Diagnosis and Prognostic Evaluation of Acute Pancreatitis.",
+      "authors": [
+        "Susanta Meher",
+        "Tushar Subhadarshan Mishra",
+        "Prakash Kumar Sasmal",
+        "Satyajit Rath",
+        "Rakesh Sharma",
+        "Bikram Rout",
+        "Manoj Kumar Sahu"
+      ],
+      "year": "2015",
+      "journal": "Journal of biomarkers",
+      "doi": "10.1155/2015/519534",
+      "doi_link": "https://doi.org/10.1155/2015/519534",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26345247",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Role%20of%20Biomarkers%20in%20Diagnosis%20and%20Prognostic%20Evaluation%20of%20Acute%20Pancreatitis%22",
+      "citations": {
+        "crossref": 69
+      },
+      "abstract": "Acute pancreatitis is a potentially life threatening disease. The spectrum of severity of the illness ranges from mild self-limiting disease to a highly fatal severe necrotizing pancreatitis. Despite intensive research and improved patient care, overall mortality still remains high, reaching up to 30-40% in cases with infected pancreatic necrosis. Although little is known about the exact pathogenesis, it has been widely accepted that premature activation of digestive enzymes within the pancreatic acinar cell is the trigger that leads to autodigestion of pancreatic tissue which is followed by infiltration and activation of leukocytes. Extensive research has been done over the past few decades regarding their role in diagnosis and prognostic evaluation of severe acute pancreatitis. Although many standalone biochemical markers have been studied for early assessment of severity, C-reactive protein still remains the most frequently used along with Interleukin-6. In this review we have discussed briefly the pathogenesis and the role of different biochemical markers in the diagnosis and severity evaluation in acute pancreatitis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper39",
+      "publication_id": "25898362",
+      "title": "Underweight full-term Indian neonates show differences in umbilical cord blood leukocyte phenotype: a cross-sectional study.",
+      "authors": [
+        "Deepak K Rathore",
+        "Deepa Nair",
+        "Saimah Raza",
+        "Savita Saini",
+        "Reeta Singh",
+        "Amit Kumar",
+        "Reva Tripathi",
+        "Siddarth Ramji",
+        "Aruna Batra",
+        "Kailash C Aggarwal",
+        "Harish K Chellani",
+        "Sugandha Arya",
+        "Neerja Bhatla",
+        "Vinod K Paul",
+        "Ramesh Aggarwal",
+        "Nidhi Agarwal",
+        "Umesh Mehta",
+        "Shailaja Sopory",
+        "Uma Chandra Mouli Natchu",
+        "Shinjini Bhatnagar",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Nitya Wadhwa"
+      ],
+      "year": "2015",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0123589",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0123589",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25898362",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Underweight%20full-term%20Indian%20neonates%20show%20differences%20in%20umbilical%20cord%20blood%20leukocyte%20phenotype%3A%20a%20cross-sectional%20study%22",
+      "citations": {
+        "crossref": 9
+      },
+      "abstract": "BACKGROUND: While infections are a major cause of neonatal mortality in India even in full-term neonates, this is an especial problem in the large proportion (~20%) of neonates born underweight (or small-for-gestational-age; SGA). One potential contributory factor for this susceptibility is the possibility that immune system maturation may be affected along with intrauterine growth retardation. METHODS: In order to examine the possibility that differences in immune status may underlie the susceptibility of SGA neonates to infections, we enumerated the frequencies and concentrations of 22 leukocyte subset populations as well as IgM and IgA levels in umbilical cord blood from full-term SGA neonates and compared them with values from normal-weight (or appropriate-for-gestational-age; AGA) full-term neonates. We eliminated most SGA-associated risk factors in the exclusion criteria so as to ensure that AGA-SGA differences, if any, would be more likely to be associated with the underweight status itself. RESULTS: An analysis of 502 such samples, including 50 from SGA neonates, showed that SGA neonates have significantly fewer plasmacytoid dendritic cells (pDCs), a higher myeloid DC (mDC) to pDC ratio, more natural killer (NK) cells, and higher IgM levels in cord blood in comparison with AGA neonates. Other differences were also observed such as tendencies to lower CD4:CD8 ratios and greater prominence of inflammatory monocytes, mDCs and neutrophils, but while some of them had substantial differences, they did not quite reach the standard level of statistical significance. CONCLUSIONS: These differences in cellular lineages of the immune system possibly reflect stress responses in utero associated with growth restriction. Increased susceptibility to infections may thus be linked to complex immune system dysregulation rather than simply retarded immune system maturation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper40",
+      "publication_id": "25861514",
+      "title": "Torsion of a large appendix testis misdiagnosed as pyocele.",
+      "authors": [
+        "Susanta Meher",
+        "Satyajit Rath",
+        "Rakesh Sharma",
+        "Prakash Kumar Sasmal",
+        "Tushar Subhadarshan Mishra"
+      ],
+      "year": "2015",
+      "journal": "Case reports in urology",
+      "doi": "10.1155/2015/430871",
+      "doi_link": "https://doi.org/10.1155/2015/430871",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25861514",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Torsion%20of%20a%20large%20appendix%20testis%20misdiagnosed%20as%20pyocele%22",
+      "citations": {
+        "semantic_scholar": 7
+      },
+      "abstract": "Torsion of the appendix testis is not an uncommon cause of acute hemiscrotum. It is frequently misdiagnosed as acute epididymitis, orchitis, or torsion of testis. Though conservative management is the treatment of choice for this condition, prompt surgical intervention is warranted when testicular torsion is suspected. We report a case of torsion of a large appendix testis misdiagnosed as pyocele. Emergency exploration of it revealed a large appendix testis with torsion and early features of gangrene. After excision of the appendix testis, the wound was closed with an open drain. The patient had an uneventful and smooth postoperative recovery.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 40,
+    "publications_by_year": {
+      "2023": 2,
+      "2022": 1,
+      "2021": 2,
+      "2020": 3,
+      "2019": 7,
+      "2018": 5,
+      "2017": 6,
+      "2016": 7,
+      "2015": 7
+    },
+    "top_journals": [
+      "Immunology",
+      "PloS one",
+      "Scientific reports",
+      "Journal of clinical and diagnostic research : JCDR",
+      "Journal of immunology (Baltimore, Md. : 1950)"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 173,
+      "frequent_collaborators": [
+        "Satyajit Rath",
+        "Vineeta Bal",
+        "Anna George",
+        "Shailaja Sopory",
+        "Neelam Oswal",
+        "Nitya Wadhwa",
+        "Uma Chandra Mouli Natchu",
+        "Shinjini Bhatnagar"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "26345247",
+        "title": "Role of Biomarkers in Diagnosis and Prognostic Evaluation of Acute Pancreatitis.",
+        "citations": 69,
+        "year": "2015"
+      },
+      {
+        "publication_id": "27610624",
+        "title": "Comparison of Human Neonatal and Adult Blood Leukocyte Subset Composition Phenotypes.",
+        "citations": 63,
+        "year": "2016"
+      },
+      {
+        "publication_id": "31231391",
+        "title": "Clinical and Immunological Profile of Anti-factor H Antibody Associated Atypical Hemolytic Uremic Syndrome: A Nationwide Database.",
+        "citations": 59,
+        "year": "2019"
+      }
+    ]
+  }
+}

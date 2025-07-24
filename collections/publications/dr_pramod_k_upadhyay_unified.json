@@ -1,0 +1,316 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Pramod K. Upadhyay",
+    "email": "pkumar@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/former-faculty/dr-pramod-k-upadhyay",
+    "research_domain": "Former",
+    "faculty_status": "former",
+    "search_date": "2025-06-27T15:41:31.920610",
+    "total_publications": 11,
+    "last_updated": "2025-06-27",
+    "description": "This document contains a complete list of publications by Dr. Pramod K. Upadhyay, former faculty in Former at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "21984926",
+      "title": "Activation of anti-tumor immune response and reduction of regulatory T cells with Mycobacterium indicus pranii (MIP) therapy in tumor bearing mice.",
+      "authors": [
+        "Faiz Ahmad",
+        "Jiju Mani",
+        "Pawan Kumar",
+        "Seenu Haridas",
+        "Pramod Upadhyay",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2011",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0025424",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0025424",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21984926",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Activation%20of%20anti-tumor%20immune%20response%20and%20reduction%20of%20regulatory%20T%20cells%20with%20Mycobacterium%20indicus%20pranii%20%28MIP%29%20therapy%20in%20tumor%20bearing%20mice%22",
+      "citations": {
+        "crossref": 47
+      },
+      "abstract": "BACKGROUND: Role of immune system in protecting the host from cancer is well established. Growing cancer however subverts immune response towards Th2 type and escape from antitumor mechanism of the host. Activation of both innate and Th1 type response is crucial for host antitumor activity. In our previous study it was found, that Mycobacterium indicus pranii (MIP) also known as M. w induces Th1 type response and activates macrophages in animal model of tuberculosis. Hence, we studied the immunotherapeutic potential of MIP in mouse tumor model and the underlying mechanisms for its antitumor activity. METHODOLOGY AND PRINCIPAL FINDINGS: Tumors were implanted by injecting B16F10 melanoma cells subcutaneously into C57BL/6 mice. Using the optimized dose and treatment regimes, anti-tumor efficacy of heat killed MIP was evaluated. In MIP treated group, tumor appeared in only 50-60% of mice, tumor growth was delayed and tumor volume was less as compared to control. MIP mediated immune activation was analysed in the tumor microenvironment, tumor draining lymph node and spleen. Induction of Th1 response and higher infiltration of immune cells in the tumor microenvironment was observed in MIP treated mice. A large fraction of these immune cells were in activated state as confirmed by phenotypic and functional analysis. Interestingly, percentage of Treg cells in the tumor milieu of treated mice was less. CONCLUSION: MIP therapy is effective in protecting mice from tumor. It activates the immune cells, increases their infiltration in tumor, and abrogates tumor mediated immune suppression.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "22093248",
+      "title": "Diagnosis of tuberculosis: the experience at a specialized diagnostic laboratory.",
+      "authors": [
+        "Anita Mashta",
+        "Pooja Mishra",
+        "Sonia Philipose",
+        "S Tamilzhalagan",
+        "Hanif Mahmud",
+        "Sangeeta Bhaskar",
+        "Pramod Upadhyay"
+      ],
+      "year": "2011",
+      "journal": "Journal of negative results in biomedicine",
+      "doi": "10.1186/1477-5751-10-16",
+      "doi_link": "https://doi.org/10.1186/1477-5751-10-16",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22093248",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Diagnosis%20of%20tuberculosis%3A%20the%20experience%20at%20a%20specialized%20diagnostic%20laboratory%22",
+      "citations": {
+        "semantic_scholar": 7
+      },
+      "abstract": "This work describes the experience at a tuberculosis clinical laboratory where relatively new TB diagnosis technologies; nucleic acid detection of two target strands, IS6110 and devR, by PCR and microscopic observation drug susceptibility (MODS) were used. The LJ culture was the gold standard. This evaluation was done from August 2007 to July 2009 on 463 sputum samples of tuberculosis suspects at a specialized tuberculosis clinic in Delhi, India.None of the tests we evaluated can accurately detect the presence or absence of Mycobacterium tuberculosis in all the samples and smear microscopy was found to be the most reliable assay in this study.The PCR assay could detect down to 2 pg of H37Rv DNA. Sensitivity, specificity was 0.40, 0.60 and 0.19, 0.81 for smear positive (n = 228) and negative samples (n = 235) respectively. In the MODS assay, sensitivity, specificity of 0.48, 0.52 and 0.38, 0.76 was observed for smear positive and negative samples. Sputum smear microscopy had sensitivity of 0.77 and specificity of 0.70.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "22363798",
+      "title": "Adjuvant properties of thermal component of hyperthermia enhanced transdermal immunization: effect on dendritic cells.",
+      "authors": [
+        "Neha Joshi",
+        "Vikas Duhan",
+        "Neelam Lingwal",
+        "Sangeeta Bhaskar",
+        "Pramod Upadhyay"
+      ],
+      "year": "2012",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0032067",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0032067",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22363798",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Adjuvant%20properties%20of%20thermal%20component%20of%20hyperthermia%20enhanced%20transdermal%20immunization%3A%20effect%20on%20dendritic%20cells%22",
+      "citations": {
+        "semantic_scholar": 14
+      },
+      "abstract": "Hyperthermia enhanced transdermal (HET) immunization is a novel needle free immunization strategy employing application of antigen along with mild local hyperthermia (42°C) to intact skin resulting in detectable antigen specific Ig in serum. In the present study, we investigated the adjuvant effect of thermal component of HET immunization in terms of maturation of dendritic cells and its implication on the quality of the immune outcome in terms of antibody production upon HET immunization with tetanus toxoid (TT). We have shown that in vitro hyperthermia exposure at 42°C for 30 minutes up regulates the surface expression of maturation markers on bone marrow derived DCs. This observation correlated in vivo with an increased and accelerated expression of maturation markers on DCs in the draining lymph node upon HET immunization in mice. This effect was found to be independent of the antigen delivered and depends only on the thermal component of HET immunization. In vitro hyperthermia also led to enhanced capacity to stimulate CD4+ T cells in allo MLR and promotes the secretion of IL-10 by BMDCs, suggesting a potential for Th2 skewing of T cell response. HET immunization also induced a systemic T cell response to TT, as suggested by proliferation of splenocytes from immunized animal upon in vitro stimulation by TT. Exposure to heat during primary immunization led to generation of mainly IgG class of antibodies upon boosting, similar to the use of conventional alum adjuvant, thus highlighting the adjuvant potential of heat during HET immunization. Lastly, we have shown that mice immunized by tetanus toxoid using HET route exhibited protection against challenge with a lethal dose of tetanus toxin. Thus, in addition to being a painless, needle free delivery system it also has an immune modulatory potential.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "22547032",
+      "title": "Anticancer and immunostimulatory activity by conjugate of paclitaxel and non-toxic derivative of LPS for combined chemo-immunotherapy.",
+      "authors": [
+        "Aniruddha Roy",
+        "Sourav Chandra",
+        "Swapna Mamilapally",
+        "Pramod Upadhyay",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2012",
+      "journal": "Pharmaceutical research",
+      "doi": "10.1007/s11095-012-0756-y",
+      "doi_link": "https://doi.org/10.1007/s11095-012-0756-y",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22547032",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Anticancer%20and%20immunostimulatory%20activity%20by%20conjugate%20of%20paclitaxel%20and%20non-toxic%20derivative%20of%20LPS%20for%20combined%20chemo-immunotherapy%22",
+      "citations": {
+        "crossref": 26
+      },
+      "abstract": "PURPOSE: Cancer is a multifactorial syndrome; hence, multidimensional therapy with a chemo-immunotherapeutic conjugate could be more effective in curing the disease. METHODS: We used SP-LPS, a bio-polymer having potent immunostimulatory activity, for conjugation with paclitaxel to make a chemo-immunotherapeutic conjugate. Its physicochemical characterization was done by HPLC, NMR and IR spectra. Stability was measured at different pH, temperature and in tissue homogenates. Chemotherapeutic and immunostimulatory activity was evaluated in vitro and also in tumor microenvironment. RESULTS: The conjugate self assembled into nanoparticulate structure, probably due to micelle formation. Stability was pH and temperature dependent. The conjugate exhibited chemotherapeutic and immunotherapeutic activity in vitro. In vivo antitumor activity was significantly higher and a higher percentage of activated immune cells were found in the tumor microenvironment of the conjugate-treated mice as compared to Taxol®-treated group. CONCLUSIONS: This conjugate is a potential chemo-immunotherapeutic compound for the treatment of cancer with advantages over present day chemotherapy with Taxol in terms of higher anticancer activity, less toxicity and ease of delivery.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "22664500",
+      "title": "Caution needed in using oral polio vaccine beyond the cold chain: vaccine vial monitors may be unreliable at high temperatures.",
+      "authors": [
+        "Ashutosh Shrivastava",
+        "Neeraj Gupta",
+        "Pramod Upadhyay",
+        "Jacob Puliyel"
+      ],
+      "year": "2012",
+      "journal": "The Indian journal of medical research",
+      "doi": null,
+      "doi_link": "",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22664500",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Caution%20needed%20in%20using%20oral%20polio%20vaccine%20beyond%20the%20cold%20chain%3A%20vaccine%20vial%20monitors%20may%20be%20unreliable%20at%20high%20temperatures%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "BACKGROUND & OBJECTIVES: Stabilized live attenuated oral polio vaccine (OPV) is used to immunize children up to the age of five years to prevent poliomyelitis. It is strongly advised that the cold-chain should be maintained until the vaccine is administered. It is assumed, that vaccine vial monitors (VVMs) are reliable at all temperatures. VVMs are tested at 37°C and it is assumed that the labels reach discard point before vaccine potency drops to >0.6 log10. This study was undertaken to see if VVMs were reliable when exposed to high temperatures as can occur in field conditions in India. METHODS: Vaccine vials with VVMs were incubated (10 vials for each temperature) in an incubator at different temperatures at 37, 41, 45 and 49.5°C. Time-lapse photographs of the VVMs on vials were taken hourly to look for their discard-point. RESULTS: At 37 and 41°C the VVMs worked well. At 45°C, vaccine potency is known to drop to the discard level within 14 h whereas the VVM discard point was reached at 16 h. At 49.5°C the VVMs reached discard point at 9 h when these should have reached it at 3 h. CONCLUSION: Absolute reliance cannot be placed on VVM in situation where environmental temperatures are high. Caution is needed when using 'outside the cold chain' (OCC) protocols.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "22951580",
+      "title": "Protocol for long duration whole body hyperthermia in mice.",
+      "authors": [
+        "Vikas Duhan",
+        "Neha Joshi",
+        "P Nagarajan",
+        "Pramod Upadhyay"
+      ],
+      "year": "2012",
+      "journal": "Journal of visualized experiments : JoVE",
+      "doi": "10.3791/3801",
+      "doi_link": "https://doi.org/10.3791/3801",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22951580",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Protocol%20for%20long%20duration%20whole%20body%20hyperthermia%20in%20mice%22",
+      "citations": {
+        "crossref": 3
+      },
+      "abstract": "Hyperthermia is a general term used to define the increase in core body temperature above normal. It is often used to describe the increased core body temperature that is observed during fever. The use of hyperthermia as an adjuvant has emerged as a promising procedure for tumor regression in the field of cancer biology. For this purpose, the most important requirement is to have reliable and uniform heating protocols. We have developed a protocol for hyperthermia (whole body) in mice. In this protocol, animals are exposed to cycles of hyperthermia for 90 min followed by a rest period of 15 min. During this period mice have easy access to food and water. High body temperature spikes in the mice during first few hyperthermia exposure cycles are prevented by immobilizing the animal. Additionally, normal saline is administered in first few cycles to minimize the effects of dehydration. This protocol can simulate fever like conditions in mice up to 12-24 hr. We have used 8-12 weeks old BALB/Cj female mice to demonstrate the protocol.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "23376226",
+      "title": "Nanoparticle mediated co-delivery of paclitaxel and a TLR-4 agonist results in tumor regression and enhanced immune response in the tumor microenvironment of a mouse model.",
+      "authors": [
+        "Aniruddha Roy",
+        "Manu Smriti Singh",
+        "Pramod Upadhyay",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2013",
+      "journal": "International journal of pharmaceutics",
+      "doi": "10.1016/j.ijpharm.2013.01.045",
+      "doi_link": "https://doi.org/10.1016/j.ijpharm.2013.01.045",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23376226",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Nanoparticle%20mediated%20co-delivery%20of%20paclitaxel%20and%20a%20TLR-4%20agonist%20results%20in%20tumor%20regression%20and%20enhanced%20immune%20response%20in%20the%20tumor%20microenvironment%20of%20a%20mouse%20model%22",
+      "citations": {
+        "semantic_scholar": 66
+      },
+      "abstract": "Inefficiency of cancer chemotherapy to improve life expectancy in majority of patients raises serious concern and warrants development of novel therapeutic strategies. Immunotherapy in combination with chemotherapy has shown promising outcomes in recent years. Herein, we report better tumor regression and enhancement of antitumor immune response at the tumor microenvironment by co-delivery of paclitaxel and a TLR4 agonist through a PLGA based nanoparticle preparation (TLNP). Particle characterization showed high encapsulation of both components and retention of their biological activities. In vivo tumor regression studies demonstrated clear benefit of TLNP over the paclitaxel. The mean tumor volume of the TLNP treated animals was found to be 40% less than that of the Paclitaxel treated animals. Flow cytometric analysis of tumor infiltrating immune cells indicated activation of antigen presenting cells and T-cells providing evidence of Th1 immune response. In vivo results are promising and could pave way for novel chemo-immunotherapeutic treatment modality.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "23488792",
+      "title": "Antigen peptide transporter 1 is involved in the development of fructose-induced hepatic steatosis in mice.",
+      "authors": [
+        "Shailendra Arindkar",
+        "Jashdeep Bhattacharjee",
+        "Jerald Mahesh Kumar",
+        "Barun Das",
+        "Pramod Upadhyay",
+        "Shajahan Asif",
+        "Ramesh C Juyal",
+        "Subeer S Majumdar",
+        "Nagarajan Perumal"
+      ],
+      "year": "2013",
+      "journal": "Journal of gastroenterology and hepatology",
+      "doi": "10.1111/jgh.12186",
+      "doi_link": "https://doi.org/10.1111/jgh.12186",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23488792",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Antigen%20peptide%20transporter%201%20is%20involved%20in%20the%20development%20of%20fructose-induced%20hepatic%20steatosis%20in%20mice%22",
+      "citations": {
+        "crossref": 16
+      },
+      "abstract": "BACKGROUND AND AIM: The purpose of this study is to assess whether the decrease in CD8 cells has any role in the development of non-alcoholic fatty liver disease (NAFLD). In this study, we therefore used antigen peptide transporter 1 (TAP1(-/-)) mice that cannot transport major histocompatibility complex class I antigens onto the cell surface resulting in failure of the generation of CD8 cells. METHODS: Wild-type C57Bl/6J and TAP1(-/-) mice were fed with 30% fructose solution for 8 weeks. The percentage of CD4, CD8 cells in peripheral blood mononuclear cells, and liver were sorted by fluorescence-activated cell sorting in both control and fructose-treated mice. Bodyweight, histopathological changes, oil red O staining, glucose tolerance test, intraperitoneal insulin tolerance test, serum levels of triglycerides, cholesterol, aspartate aminotransferase, and alanine aminotransferase were also evaluated. Quantitative real-time polymerase chain reaction was performed to determine the expression of specific genes involved in development of fatty changes in the liver. RESULTS: Chronic consumption of fructose in TAP1(-/-) mice did not develop NAFLD, insulin resistance, or change in level of CD8 cells. Moreover, there was delay in relative expression levels of genes involved in development of NAFLD in fructose-treated TAP1(-/-) mice. CONCLUSION: Taken together, the data suggest that TAP1(-/-) -deficient mice displayed reduced levels of CD8 cells that have a vital role in the initiation and propagation of liver inflammation and is a casual role in the beginning of fructose-induced liver damage as well as insulin resistance in mice.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "23809561",
+      "title": "Tuberculosis vaccine trials.",
+      "authors": [
+        "Pramod Upadhyay"
+      ],
+      "year": "2013",
+      "journal": "Lancet (London, England)",
+      "doi": "10.1016/S0140-6736(13)61482-8",
+      "doi_link": "https://doi.org/10.1016/S0140-6736(13)61482-8",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23809561",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Tuberculosis%20vaccine%20trials%22",
+      "citations": {
+        "crossref": 5
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "24413500",
+      "title": "New therapeutic approaches for airway hyperimmune response are required.",
+      "authors": [
+        "Pramod Upadhyay"
+      ],
+      "year": "2013",
+      "journal": "Indian pediatrics",
+      "doi": null,
+      "doi_link": "",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24413500",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22New%20therapeutic%20approaches%20for%20airway%20hyperimmune%20response%20are%20required%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "24445047",
+      "title": "Role of immunodeficient animal models in the development of fructose induced NAFLD.",
+      "authors": [
+        "Jashdeep Bhattacharjee",
+        "Jerald Mahesh Kumar",
+        "Shailendra Arindkar",
+        "Barun Das",
+        "Upadhyay Pramod",
+        "Ramesh C Juyal",
+        "Subeer S Majumdar",
+        "Perumal Nagarajan"
+      ],
+      "year": "2014",
+      "journal": "The Journal of nutritional biochemistry",
+      "doi": "10.1016/j.jnutbio.2013.10.010",
+      "doi_link": "https://doi.org/10.1016/j.jnutbio.2013.10.010",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24445047",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Role%20of%20immunodeficient%20animal%20models%20in%20the%20development%20of%20fructose%20induced%20NAFLD%22",
+      "citations": {
+        "crossref": 34
+      },
+      "abstract": "Cellular and humoral immunity had been implicated in the pathogenesis of non-alcoholic fatty liver disease (NAFLD). This study was designed to assess if T, B and natural killer (NK) cells are involved in the progress of NAFLD in mouse models after chronic fructose treatment. Mouse models that are deficient in either T cells, B cells or NK cells or lacking both T and B cells were fed with 30% fructose solution for 12 weeks. Typical features of NAFLD, including the relative body weight, food and water intake, biochemical analytes, liver histology, NAFLD activity score, and glucose tolerance and insulin tolerance test were characterized. Further, the percentage of CD3, B220 and NK cells in peripheral-blood mononuclear cell, terminal deoxynucleotidyl transferase dUTP nick end labeling assay, immunodetection for hepatic apoptosis (p53) and for inflammation (TNFα) and quantitative real-time polymerase chain reaction for putative and inflammatory genes involved were determined. Our results conclude that mice deficient in T cells or NK cells fail to develop fructose induced NAFLD whereas the immunocompetent mice and mice with B-cell-specific defect developed NAFLD. Taken together, these data support that the onset of fructose-induced NAFLD is associated with involvement of T cells and NK cells in mice.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 11,
+    "publications_by_year": {
+      "2014": 1,
+      "2013": 4,
+      "2012": 4,
+      "2011": 2
+    },
+    "top_journals": [
+      "PloS one",
+      "Journal of negative results in biomedicine",
+      "Pharmaceutical research",
+      "The Indian journal of medical research",
+      "Journal of visualized experiments : JoVE"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 28,
+      "frequent_collaborators": [
+        "Pramod Upadhyay",
+        "Sangeeta Bhaskar",
+        "Jerald Mahesh Kumar",
+        "Barun Das",
+        "Ramesh C Juyal",
+        "Subeer S Majumdar",
+        "Jiju Mani",
+        "Pawan Kumar"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "23376226",
+        "title": "Nanoparticle mediated co-delivery of paclitaxel and a TLR-4 agonist results in tumor regression and enhanced immune response in the tumor microenvironment of a mouse model.",
+        "citations": 66,
+        "year": "2013"
+      },
+      {
+        "publication_id": "21984926",
+        "title": "Activation of anti-tumor immune response and reduction of regulatory T cells with Mycobacterium indicus pranii (MIP) therapy in tumor bearing mice.",
+        "citations": 47,
+        "year": "2011"
+      },
+      {
+        "publication_id": "24445047",
+        "title": "Role of immunodeficient animal models in the development of fructose induced NAFLD.",
+        "citations": 34,
+        "year": "2014"
+      }
+    ]
+  }
+}

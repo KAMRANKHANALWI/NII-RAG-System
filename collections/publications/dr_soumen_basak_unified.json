@@ -1,0 +1,613 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Soumen Basak",
+    "email": "sobasak@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-soumen-basak",
+    "research_domain": "Immunity & Infection",
+    "faculty_status": "current",
+    "search_date": "2025-07-01T14:34:28.520763",
+    "total_publications": 20,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Soumen Basak, current faculty in Immunity & Infection at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "39137024",
+      "title": "A hepatocyte-specific transcriptional program driven by Rela and Stat3 exacerbates experimental colitis in mice by modulating bile synthesis.",
+      "authors": [
+        "Jyotsna",
+        "Binayak Sarkar",
+        "Mohit Yadav",
+        "Alvina Deka",
+        "Manasvini Markandey",
+        "Priyadarshini Sanyal",
+        "Perumal Nagarajan",
+        "Nilesh Gaikward",
+        "Vineet Ahuja",
+        "Debasisa Mohanty",
+        "Soumen Basak",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2024",
+      "journal": "eLife",
+      "doi": "10.7554/eLife.93273",
+      "doi_link": "https://doi.org/10.7554/eLife.93273",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39137024",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20hepatocyte-specific%20transcriptional%20program%20driven%20by%20Rela%20and%20Stat3%20exacerbates%20experimental%20colitis%20in%20mice%20by%20modulating%20bile%20synthesis%22",
+      "citations": {
+        "crossref": 2
+      },
+      "abstract": "Hepatic factors secreted by the liver promote homeostasis and are pivotal for maintaining the liver-gut axis. Bile acid metabolism is one such example wherein, bile acid synthesis occurs in the liver and its biotransformation happens in the intestine. Dysfunctional interactions between the liver and the intestine stimulate varied pathological outcomes through its bidirectional portal communication. Indeed, aberrant bile acid metabolism has been reported in inflammatory bowel disease (IBD). However, the molecular mechanisms underlying these crosstalks that perpetuate intestinal permeability and inflammation remain obscure. Here, we identify a novel hepatic gene program regulated by Rela and Stat3 that accentuates the inflammation in an acute experimental colitis model. Hepatocyte-specific ablation of Rela and Stat3 reduces the levels of primary bile acids in both the liver and the gut and shows a restricted colitogenic phenotype. On supplementation of chenodeoxycholic acid (CDCA), knock-out mice exhibit enhanced colitis-induced alterations. This study provides persuasive evidence for the development of multi-organ strategies for treating IBD and identifies a hepatocyte-specific Rela-Stat3 network as a promising therapeutic target.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "39060515",
+      "title": "Non-canonical NF-κB signaling limits the tolerogenic β-catenin-Raldh2 axis in gut dendritic cells to exacerbate intestinal pathologies.",
+      "authors": [
+        "Alvina Deka",
+        "Naveen Kumar",
+        "Swapnava Basu",
+        "Meenakshi Chawla",
+        "Namrata Bhattacharya",
+        "Sk Asif Ali",
+        "Bhawna",
+        "Upasna Madan",
+        "Shakti Kumar",
+        "Bhabatosh Das",
+        "Debarka Sengupta",
+        "Amit Awasthi",
+        "Soumen Basak"
+      ],
+      "year": "2024",
+      "journal": "The EMBO journal",
+      "doi": "10.1038/s44318-024-00182-6",
+      "doi_link": "https://doi.org/10.1038/s44318-024-00182-6",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39060515",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Non-canonical%20NF-%CE%BAB%20signaling%20limits%20the%20tolerogenic%20%CE%B2-catenin-Raldh2%20axis%20in%20gut%20dendritic%20cells%20to%20exacerbate%20intestinal%20pathologies%22",
+      "citations": {
+        "crossref": 2
+      },
+      "abstract": "Dendritic cell (DC) dysfunction is known to exacerbate intestinal pathologies, but the mechanisms compromising DC-mediated immune regulation in this context remain unclear. Here, we show that intestinal dendritic cells from a mouse model of experimental colitis exhibit significant levels of noncanonical NF-κB signaling, which activates the RelB:p52 heterodimer. Genetic inactivation of this pathway in DCs alleviates intestinal pathologies in mice suffering from colitis. Deficiency of RelB:p52 diminishes transcription of Axin1, a critical component of the β-catenin destruction complex, reinforcing β-catenin-dependent expression of Raldh2, which imparts tolerogenic DC attributes by promoting retinoic acid synthesis. DC-specific impairment of noncanonical NF-κB signaling leads to increased colonic numbers of Tregs and IgA+ B cells, which promote luminal IgA production and foster eubiosis. Experimentally introduced β-catenin haploinsufficiency in DCs with deficient noncanonical NF-κB signaling moderates Raldh2 activity, reinstating colitogenic sensitivity in mice. Finally, inflammatory bowel-disease patients also display a deleterious noncanonical NF-κB signaling signature in intestinal DCs. In sum, we establish how noncanonical NF-κB signaling in dendritic cells can subvert retinoic acid synthesis to fuel intestinal inflammation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "38640981",
+      "title": "STAT1 mediated downregulation of the tumor suppressor gene PDCD4, is driven by the atypical cadherin FAT1, in glioblastoma.",
+      "authors": [
+        "Md Tipu Khan",
+        "Mariyam Almas",
+        "Nargis Malik",
+        "Akansha Jalota",
+        "Shaifali Sharma",
+        "Sk Asif Ali",
+        "Kalpana Luthra",
+        "Vaishali Suri",
+        "Ashish Suri",
+        "Soumen Basak",
+        "Pankaj Seth",
+        "Kunzang Chosdol",
+        "Subrata Sinha"
+      ],
+      "year": "2024",
+      "journal": "Cellular signalling",
+      "doi": "10.1016/j.cellsig.2024.111178",
+      "doi_link": "https://doi.org/10.1016/j.cellsig.2024.111178",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38640981",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22STAT1%20mediated%20downregulation%20of%20the%20tumor%20suppressor%20gene%20PDCD4%2C%20is%20driven%20by%20the%20atypical%20cadherin%20FAT1%2C%20in%20glioblastoma%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "STAT1 (Signal Transducer and Activator of Transcription 1), belongs to the STAT protein family, essential for cytokine signaling. It has been reported to have either context dependent oncogenic or tumor suppressor roles in different tumors. Earlier, we demonstrated that Glioblastoma multiforme (GBMs) overexpressing FAT1, an atypical cadherin, had poorer outcomes. Overexpressed FAT1 promotes pro-tumorigenic inflammation, migration/invasion by downregulating tumor suppressor gene, PDCD4. Here, we demonstrate that STAT1 is a novel mediator downstream to FAT1, in downregulating PDCD4 in GBMs. In-silico analysis of GBM databases as well as q-PCR analysis in resected GBM tumors showed positive correlation between STAT1 and FAT1 mRNA levels. Kaplan-Meier analysis showed poorer survival of GBM patients having high FAT1 and STAT1 expression. SiRNA-mediated knockdown of FAT1 decreased STAT1 and increased PDCD4 expression in glioblastoma cells (LN229 and U87MG). Knockdown of STAT1 alone resulted in increased PDCD4 expression. In silico analysis of the PDCD4 promoter revealed four putative STAT1 binding sites (Site1-Site4). ChIP assay confirmed the binding of STAT1 to site1. ChIP-PCR revealed decrease in the binding of STAT1 on the PDCD4 promoter after FAT1 knockdown. Site directed mutagenesis of Site1 resulted in increased PDCD4 luciferase activity, substantiating STAT1 mediated PDCD4 inhibition. EMSA confirmed STAT1 binding to the Site 1 sequence. STAT1 knockdown led to decreased expression of pro-inflammatory cytokines and EMT markers, and reduced migration/invasion of GBM cells. This study therefore identifies STAT1 as a novel downstream mediator of FAT1, promoting pro-tumorigenic activity in GBM, by suppressing PDCD4 expression.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "38194476",
+      "title": "The NF-κB signaling system in the immunopathogenesis of inflammatory bowel disease.",
+      "authors": [
+        "Tapas Mukherjee",
+        "Naveen Kumar",
+        "Meenakshi Chawla",
+        "Dana J Philpott",
+        "Soumen Basak"
+      ],
+      "year": "2024",
+      "journal": "Science signaling",
+      "doi": "10.1126/scisignal.adh1641",
+      "doi_link": "https://doi.org/10.1126/scisignal.adh1641",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38194476",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20NF-%CE%BAB%20signaling%20system%20in%20the%20immunopathogenesis%20of%20inflammatory%20bowel%20disease%22",
+      "citations": {
+        "semantic_scholar": 44
+      },
+      "abstract": "Inflammatory bowel disease (IBD) is an idiopathic, chronic condition characterized by episodes of inflammation in the gastrointestinal tract. The nuclear factor κB (NF-κB) system describes a family of dimeric transcription factors. Canonical NF-κB signaling is stimulated by and enhances inflammation, whereas noncanonical NF-κB signaling contributes to immune organogenesis. Dysregulation of NF-κB factors drives various inflammatory pathologies, including IBD. Signals from many immune sensors activate NF-κB subunits in the intestine, which maintain an equilibrium between local microbiota and host responses. Genetic association studies of patients with IBD and preclinical mouse models confirm the importance of the NF-κB system in host defense in the gut. Other studies have investigated the roles of these factors in intestinal barrier function and in inflammatory gut pathologies associated with IBD. NF-κB signaling modulates innate and adaptive immune responses and the production of immunoregulatory proteins, anti-inflammatory cytokines, antimicrobial peptides, and other tolerogenic factors in the intestine. Furthermore, genetic studies have revealed critical cell type-specific roles for NF-κB proteins in intestinal immune homeostasis, inflammation, and restitution that contribute to the etiopathology of IBD-associated manifestations. Here, we summarize our knowledge of the roles of these NF-κB pathways, which are activated in different intestinal cell types by specific ligands, and their cross-talk, in fueling aberrant intestinal inflammation. We argue that an in-depth understanding of aberrant immune signaling mechanisms may hold the key to identifying predictive or prognostic biomarkers and developing better therapeutics against inflammatory gut pathologies.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "37122749",
+      "title": "Type 1 interferon mediated signaling is indispensable for eliciting anti-tumor responses by Mycobacterium indicus pranii.",
+      "authors": [
+        "Gargi Roy",
+        "Anush Chakraborty",
+        "Bharati Swami",
+        "Lalit Pal",
+        "Charvi Ahuja",
+        "Soumen Basak",
+        "Sangeeta Bhaskar"
+      ],
+      "year": "2023",
+      "journal": "Frontiers in immunology",
+      "doi": "10.3389/fimmu.2023.1104711",
+      "doi_link": "https://doi.org/10.3389/fimmu.2023.1104711",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37122749",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Type%201%20interferon%20mediated%20signaling%20is%20indispensable%20for%20eliciting%20anti-tumor%20responses%20by%20Mycobacterium%20indicus%20pranii%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "INTRODUCTION: The evolving tumor secretes various immunosuppressive factors that reprogram the tumor microenvironment (TME) to become immunologically cold. Consequently, various immunosuppressive cells like Tregs are recruited into the TME which in turn subverts the anti-tumor response of dendritic cells and T cells.Tumor immunotherapy is a popular means to rejuvenate the immunologically cold TME into hot. Mycobacterium indicus pranii (MIP) has shown strong immunomodulatory activity in different animal and human tumor models and has been approved for treatment of lung cancer (NSCLC) patients as an adjunct therapy. Previously, MIP has shown TLR2/9 mediated activation of antigen presenting cells/Th1 cells and their enhanced infiltration in mouse melanoma but the underlying mechanism by which it is modulating these immune cells is not yet known. RESULTS: This study reports for the first time that MIP immunotherapy involves type 1 interferon (IFN) signaling as one of the major signaling pathways to mediate the antitumor responses. Further, it was observed that MIP therapy significantly influenced frequency and activation of different subsets of T cells like regulatory T cells (Tregs) and CD8+ T cells in the TME. It reduces the migration of Tregs into the TME by suppressing the expression of CCL22, a Treg recruiting chemokine on DCs and this process is dependent on type 1 IFN. Simultaneously, in a type 1 IFN dependent pathway, it enhances the activation and effector function of the immunosuppressive tumor resident DCs which in turn effectively induce the proliferation and effector function of the CD8+ T cells. CONCLUSION: This study also provides evidence that MIP induced pro-inflammatory responses including induction of effector function of conventional dendritic cells and CD8+ T cells along with reduction of intratumoral Treg frequency are essentially mediated in a type 1 IFN-dependent pathway.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "35851541",
+      "title": "A Vitamin D-RelB/NF-κB Pathway Limits Chandipura Virus Multiplication by Rewiring the Homeostatic State of Autoregulatory Type 1 IFN-IRF7 Signaling.",
+      "authors": [
+        "Yashika Ratra",
+        "Naveen Kumar",
+        "Manti K Saha",
+        "Chandrima Bharadwaj",
+        "Chen Chongtham",
+        "Sachendra S Bais",
+        "Guruprasad Medigeshi",
+        "Gopalakrishnan A Arimbasseri",
+        "Soumen Basak"
+      ],
+      "year": "2022",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.2101054",
+      "doi_link": "https://doi.org/10.4049/jimmunol.2101054",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35851541",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20Vitamin%20D-RelB/NF-%CE%BAB%20Pathway%20Limits%20Chandipura%20Virus%20Multiplication%20by%20Rewiring%20the%20Homeostatic%20State%20of%20Autoregulatory%20Type%201%20IFN-IRF7%20Signaling%22",
+      "citations": {
+        "crossref": 2
+      },
+      "abstract": "Besides its functions in the skeletomuscular system, vitamin D is known to alleviate viral-inflicted pathologies. However, the mechanism underlying protective vitamin D function remains unclear. We examined the role of vitamin D in controlling cellular infections by Chandipura virus, an RNA virus implicated in human epidemics. How immune signaling pathways, including those regulating NF-κB and IFN regulatory factors (IRFs), are activated in virus-infected cells has been well studied. Our investigation involving human- and mouse-derived cells revealed that vitamin D instructs the homeostatic state of these antiviral pathways, leading to cellular resilience to subsequent viral infections. In particular, vitamin D provoked autoregulatory type 1 IFN-IRF7 signaling even in the absence of virus infection by downmodulating the expression of the IFN-inhibitory NF-κB subunit RelB. Indeed, RelB deficiency rendered vitamin D treatment redundant, whereas IRF7 depletion abrogated antiviral vitamin D action. In sum, immune signaling homeostasis appears to connect micronutrients to antiviral immunity at the cellular level. The proposed link may have a bearing on shaping public health policy during an outbreak.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "35648389",
+      "title": "Intracellular Acetyl CoA Potentiates the Therapeutic Efficacy of Antitumor CD8+ T Cells.",
+      "authors": [
+        "Snehanshu Chowdhury",
+        "Anwesha Kar",
+        "Debaleena Bhowmik",
+        "Anupam Gautam",
+        "Debashree Basak",
+        "Ishita Sarkar",
+        "Puspendu Ghosh",
+        "Deborpita Sarkar",
+        "Alvina Deka",
+        "Paramita Chakraborty",
+        "Asima Mukhopadhyay",
+        "Shikhar Mehrotra",
+        "Soumen Basak",
+        "Sandip Paul",
+        "Shilpak Chatterjee"
+      ],
+      "year": "2022",
+      "journal": "Cancer research",
+      "doi": "10.1158/0008-5472.CAN-21-4052",
+      "doi_link": "https://doi.org/10.1158/0008-5472.CAN-21-4052",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35648389",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Intracellular%20Acetyl%20CoA%20Potentiates%20the%20Therapeutic%20Efficacy%20of%20Antitumor%20CD8%2B%20T%20Cells%22",
+      "citations": {
+        "semantic_scholar": 25
+      },
+      "abstract": "UNLABELLED: Effector CD8+ T cells rely primarily on glucose metabolism to meet their biosynthetic and functional needs. However, nutritional limitations in the tumor microenvironment can cause T-cell hyporesponsiveness. Therefore, T cells must acquire metabolic traits enabling sustained effector function at the tumor site to elicit a robust antitumor immune response. Here, we report that IL12-stimulated CD8+ T cells have elevated intracellular acetyl CoA levels and can maintain IFNγ levels in nutrient-deprived, tumor-conditioned media (TCM). Pharmacological and metabolic analyses demonstrated an active glucose-citrate-acetyl CoA circuit in IL12-stimulated CD8+ T cells supporting an intracellular pool of acetyl CoA in an ATP-citrate lyase (ACLY)-dependent manner. Intracellular acetyl CoA levels enhanced histone acetylation, lipid synthesis, and IFNγ production, improving the metabolic and functional fitness of CD8+ T cells in tumors. Pharmacological inhibition or genetic knockdown of ACLY severely impaired IFNγ production and viability of CD8+ T cells in nutrient-restricted conditions. Furthermore, CD8+ T cells cultured in high pyruvate-containing media in vitro acquired critical metabolic features of IL12-stimulated CD8+ T cells and displayed improved antitumor potential upon adoptive transfer in murine lymphoma and melanoma models. Overall, this study delineates the metabolic configuration of CD8+ T cells required for stable effector function in tumors and presents an affordable approach to promote the efficacy of CD8+ T cells for adoptive T-cell therapy. SIGNIFICANCE: IL12-mediated metabolic reprogramming increases intracellular acetyl CoA to promote the effector function of CD8+ T cells in nutrient-depleted tumor microenvironments, revealing strategies to potentiate the antitumor efficacy of T cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "35041501",
+      "title": "Selective Estrogen Receptor Modulators Limit Alphavirus Infection by Targeting the Viral Capping Enzyme nsP1.",
+      "authors": [
+        "Rajat Mudgal",
+        "Chandrima Bharadwaj",
+        "Aakriti Dubey",
+        "Shweta Choudhary",
+        "Perumal Nagarajan",
+        "Megha Aggarwal",
+        "Yashika Ratra",
+        "Soumen Basak",
+        "Shailly Tomar"
+      ],
+      "year": "2022",
+      "journal": "Antimicrobial agents and chemotherapy",
+      "doi": "10.1128/AAC.01943-21",
+      "doi_link": "https://doi.org/10.1128/AAC.01943-21",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35041501",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Selective%20Estrogen%20Receptor%20Modulators%20Limit%20Alphavirus%20Infection%20by%20Targeting%20the%20Viral%20Capping%20Enzyme%20nsP1%22",
+      "citations": {
+        "semantic_scholar": 15
+      },
+      "abstract": "Alphaviruses cause animal or human diseases that are characterized by febrile illness, debilitating arthralgia, or encephalitis. Selective estrogen receptor modulators (SERMs), a class of FDA-approved drugs, have been shown to possess antiviral activities against multiple viruses, including hepatitis C virus, Ebola virus, dengue virus, and vesicular stomatitis virus. Here, we evaluated three SERM compounds, namely, 4-hydroxytamoxifen, tamoxifen, and clomifene, for plausible antiviral properties against two medically important alphaviruses, chikungunya virus (CHIKV) and Sindbis virus (SINV). In cell culture settings, these SERMs displayed potent activity against CHIKV and SINV at nontoxic concentrations with 50% effective concentration (EC50) values ranging between 400 nM and 3.9 μM. Further studies indicated that these compounds inhibit a postentry step of the alphavirus life cycle, while enzymatic assays involving purified recombinant proteins confirmed that these SERMs target the enzymatic activity of nonstructural protein 1 (nsP1), the capping enzyme of alphaviruses. Finally, tamoxifen treatment restrained CHIKV growth in the infected mice and diminished musculoskeletal pathologies. Combining biochemical analyses, cell culture-based studies, and in vivo analyses, we strongly argue that SERM compounds, or their derivatives, may provide for attractive therapeutic options against alphaviruses.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "34236638",
+      "title": "A Kinase Assay for Measuring the Activity of the NIK-IKK1 Complex Induced via the Noncanonical NF-κB Pathway.",
+      "authors": [
+        "Tapas Mukherjee",
+        "Yashika Ratra",
+        "Balaji Banoth",
+        "Alvina Deka",
+        "Smarajit Polley",
+        "Soumen Basak"
+      ],
+      "year": "2021",
+      "journal": "Methods in molecular biology (Clifton, N.J.)",
+      "doi": "10.1007/978-1-0716-1669-7_10",
+      "doi_link": "https://doi.org/10.1007/978-1-0716-1669-7_10",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34236638",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20Kinase%20Assay%20for%20Measuring%20the%20Activity%20of%20the%20NIK-IKK1%20Complex%20Induced%20via%20the%20Noncanonical%20NF-%CE%BAB%20Pathway%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "Nuclear factor-kappa B (NF-κB) inducing kinase (NIK), a key component of the noncanonical NF-κB pathway, directs a range of physiological processes, such as lymphoid organogenesis, immune cell differentiation, and immune responses. Aberrant noncanonical NF-κΒ signaling also causes human ailments, including autoimmune and neoplastic diseases. As such, NIK is constitutively degraded in resting cells, and accumulates upon noncanonical NF-κB signaling. NIK then associates with and phosphorylates IkappaB kinase 1 (IKK1, alternately IKKα). Subsequently, the NIK-IKK1 complex mediates the phosphorylation of p100 that triggers partial proteolysis of p100 into p52. Typically, accumulation of NIK or processing of p100 is estimated by immunoblot analyses, and these indirect measurements are used as a surrogate for cellular NIK activity. However, studies involving knockout and cancerous cells indicated that the activity of NIK-IKK1 might not always correlate with the abundance of NIK or with the relative level of p52 and p100. In this report, we describe a specific and sensitive assay for direct evaluation of cellular NIK-IKK1 activity. Here, NIK immunoprecipitates are examined for the presence of IKK1-dependent kinase activity toward p100. The NIK-IKK1 assay captured selectively noncanonical NF-κB activation in the context of multiple cell activating stimuli and cell types, including patient-derived myeloma cells. We suggest that our assay may help advance our understanding of the role of NIK in health and diseases.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "34155144",
+      "title": "An epithelial Nfkb2 pathway exacerbates intestinal inflammation by supplementing latent RelA dimers to the canonical NF-κB module.",
+      "authors": [
+        "Meenakshi Chawla",
+        "Tapas Mukherjee",
+        "Alvina Deka",
+        "Budhaditya Chatterjee",
+        "Uday Aditya Sarkar",
+        "Amit K Singh",
+        "Saurabh Kedia",
+        "Josephine Lum",
+        "Manprit Kaur Dhillon",
+        "Balaji Banoth",
+        "Subhra K Biswas",
+        "Vineet Ahuja",
+        "Soumen Basak"
+      ],
+      "year": "2021",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.2024828118",
+      "doi_link": "https://doi.org/10.1073/pnas.2024828118",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34155144",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22An%20epithelial%20Nfkb2%20pathway%20exacerbates%20intestinal%20inflammation%20by%20supplementing%20latent%20RelA%20dimers%20to%20the%20canonical%20NF-%CE%BAB%20module%22",
+      "citations": {
+        "semantic_scholar": 35
+      },
+      "abstract": "Aberrant inflammation, such as that associated with inflammatory bowel disease (IBD), is fueled by the inordinate activity of RelA/NF-κB factors. As such, the canonical NF-κB module mediates controlled nuclear activation of RelA dimers from the latent cytoplasmic complexes. What provokes pathological RelA activity in the colitogenic gut remains unclear. The noncanonical NF-κB pathway typically promotes immune organogenesis involving Nfkb2 gene products. Because NF-κB pathways are intertwined, we asked whether noncanonical signaling aggravated inflammatory RelA activity. Our investigation revealed frequent engagement of the noncanonical pathway in human IBD. In a mouse model of experimental colitis, we established that Nfkb2-mediated regulations escalated the RelA-driven proinflammatory gene response in intestinal epithelial cells, exacerbating the infiltration of inflammatory cells and colon pathologies. Our mechanistic studies clarified that cell-autonomous Nfkb2 signaling supplemented latent NF-κB dimers, leading to a hyperactive canonical RelA response in the inflamed colon. In sum, the regulation of latent NF-κB dimers appears to link noncanonical Nfkb2 signaling to RelA-driven inflammatory pathologies and may provide for therapeutic targets.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "32898750",
+      "title": "Role of the NF-κB system in context-specific tuning of the inflammatory gene response.",
+      "authors": [
+        "Meenakshi Chawla",
+        "Payel Roy",
+        "Soumen Basak"
+      ],
+      "year": "2021",
+      "journal": "Current opinion in immunology",
+      "doi": "10.1016/j.coi.2020.08.005",
+      "doi_link": "https://doi.org/10.1016/j.coi.2020.08.005",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32898750",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Role%20of%20the%20NF-%CE%BAB%20system%20in%20context-specific%20tuning%20of%20the%20inflammatory%20gene%20response%22",
+      "citations": {
+        "semantic_scholar": 30
+      },
+      "abstract": "The canonical NF-κB pathway instructs the expression of inflammatory genes by the RelA:p50 transcription factor in response to diverse cell-activating stimuli. However, this mainstay RelA:p50 transcriptional output must also be curated so as to provide for stimulus-type-specific and cell-type-specific inflammatory responses adapted to the local tissue-microenvironment. Here, we summarize the fundamental mechanisms regulating RelA:p50-mediated gene expressions and discuss how the NF-κB system imparts specificity in the inflammatory gene program. We put forward a conceptual framework where the dynamical attributes and the composition of the nuclear NF-κB complexes cumulatively instruct context-specific inflammatory gene patterns. We propose that integrating mechanistic knowledge and systems-level analyses may offer further insights on NF-κB-mediated inflammatory gene control in the future.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "31632411",
+      "title": "Zinc Chelation Specifically Inhibits Early Stages of Dengue Virus Replication by Activation of NF-κB and Induction of Antiviral Response in Epithelial Cells.",
+      "authors": [
+        "Meenakshi Kar",
+        "Naseem Ahmed Khan",
+        "Aleksha Panwar",
+        "Sachendra S Bais",
+        "Soumen Basak",
+        "Renu Goel",
+        "Shailaja Sopory",
+        "Guruprasad R Medigeshi"
+      ],
+      "year": "2019",
+      "journal": "Frontiers in immunology",
+      "doi": "10.3389/fimmu.2019.02347",
+      "doi_link": "https://doi.org/10.3389/fimmu.2019.02347",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31632411",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Zinc%20Chelation%20Specifically%20Inhibits%20Early%20Stages%20of%20Dengue%20Virus%20Replication%20by%20Activation%20of%20NF-%CE%BAB%20and%20Induction%20of%20Antiviral%20Response%20in%20Epithelial%20Cells%22",
+      "citations": {
+        "crossref": 32
+      },
+      "abstract": "Zinc is an essential micronutrient which regulates diverse physiological functions and has been shown to play a crucial role in viral infections. Zinc has a necessary role in the replication of many viruses, however, antiviral action of zinc has also been demonstrated in in vitro infection models most likely through induction of host antiviral responses. Therefore, depending on the host machinery that the virus employs at different stages of infection, zinc may either facilitate, or inhibit virus infection. In this study, we show that zinc plays divergent roles in rotavirus and dengue virus infections in epithelial cells. Dengue virus infection did not perturb the epithelial barrier functions despite the release of virus from the basolateral surface whereas rotavirus infection led to disruption of epithelial junctions. In rotavirus infection, zinc supplementation post-infection did not block barrier disruption suggesting that zinc does not affect rotavirus life-cycle or protects epithelial barriers post-infection suggesting the involvement of cellular pathways in the beneficial effect of zinc supplementation in enteric infections. Zinc depletion by N,N,N',N'-tetrakis(2-pyridinylmethyl)-1,2-ethanediamine (TPEN) inhibited dengue virus and Japanese encephalitis virus (JEV) infection but had no effect on rotavirus. Time-of-addition experiments suggested that zinc chelation affected both early and late stages of dengue virus infectious cycle and zinc chelation abrogated dengue virus RNA replication. We show that transient zinc chelation induces ER stress and antiviral response by activating NF-kappaB leading to induction of interferon signaling. These results suggest that modulation of zinc homeostasis during virus infection could be a component of host antiviral response and altering zinc homeostasis may act as a potent antiviral strategy against flaviviruses.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "31554891",
+      "title": "Role of NF-kappaB2-p100 in regulatory T cell homeostasis and activation.",
+      "authors": [
+        "Atika Dhar",
+        "Meenakshi Chawla",
+        "Somdeb Chattopadhyay",
+        "Neelam Oswal",
+        "Danish Umar",
+        "Suman Gupta",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Anna George",
+        "G Aneeshkumar Arimbasseri",
+        "Soumen Basak"
+      ],
+      "year": "2019",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-019-50454-z",
+      "doi_link": "https://doi.org/10.1038/s41598-019-50454-z",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31554891",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Role%20of%20NF-kappaB2-p100%20in%20regulatory%20T%20cell%20homeostasis%20and%20activation%22",
+      "citations": {
+        "semantic_scholar": 15
+      },
+      "abstract": "The immunological roles of the nuclear factor-kappaB (NF-κB) pathway are mediated via the canonical components in immune responses and via non-canonical components in immune organogenesis and homeostasis, although the two components are capable of crosstalk. Regulatory CD4 T cells (Tregs) are homeostatically functional and represent an interesting potential meeting point of these two NF-κB components. We show that mice deficient in the non-canonical NF-κB component gene Nfkb2 (p100) had normal thymic development and suppressive function of Tregs. However, they had enhanced frequencies of peripheral 'effector-phenotype' Tregs (eTregs). In bi-parental chimeras of wild-type (WT) and Nfkb2-/- mice, the Nfkb2-/- genotype was over-represented in Tregs, with a further increase in the relative prominence of eTregs. Consistent with distinct properties of eTregs, the Nfkb2-/- genotype was more prominent in Tregs in extra-lymphoid tissues such as liver in the bi-parental chimeras. The Nfkb2-/- Tregs also displayed greater survival, activation and proliferation in vivo. These Nfkb2-/- Tregs showed higher nuclear NF-κB activity mainly comprising of RelB-containing dimers, in contrast to the prominence of cRel- and RelA-containing dimers in WT Tregs. Since p100 is an inhibitor of RelB activation as well as a participant as cleaved p52 in RelB nuclear activity, we tested bi-parental chimeras of WT and Relb-/- mice, and found normal frequencies of Relb-/- Tregs and eTregs in these chimeric mice. Our findings confirm and extend recent data, and indicate that p100 normally restrains RelB-mediated Treg activation, and in the absence of p100, p50-RelB dimers can contribute to Treg activation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "31522122",
+      "title": "NCoR1: Putting the Brakes on the Dendritic Cell Immune Tolerance.",
+      "authors": [
+        "Abdul Ahad",
+        "Mathias Stevanin",
+        "Shuchi Smita",
+        "Gyan Prakash Mishra",
+        "Dheerendra Gupta",
+        "Sebastian Waszak",
+        "Uday Aditya Sarkar",
+        "Soumen Basak",
+        "Bhawna Gupta",
+        "Hans Acha-Orbea",
+        "Sunil Kumar Raghav"
+      ],
+      "year": "2019",
+      "journal": "iScience",
+      "doi": "10.1016/j.isci.2019.08.024",
+      "doi_link": "https://doi.org/10.1016/j.isci.2019.08.024",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31522122",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22NCoR1%3A%20Putting%20the%20Brakes%20on%20the%20Dendritic%20Cell%20Immune%20Tolerance%22",
+      "citations": {
+        "crossref": 19
+      },
+      "abstract": "Understanding the mechanisms fine-tuning immunogenic versus tolerogenic balance in dendritic cells (DCs) is of high importance for therapeutic approaches. We found that NCoR1-mediated direct repression of the tolerogenic program in conventional DCs is essential for induction of an optimal immunogenic response. NCoR1 depletion upregulated a wide variety of tolerogenic genes in activated DCs, which consequently resulted in increased frequency of FoxP3+ regulatory T cells. Mechanistically, NCoR1 masks the PU.1-bound super-enhancers on major tolerogenic genes after DC activation that are subsequently bound by nuclear factor-κB. NCoR1 knockdown (KD) reduced RelA nuclear translocation and activity, whereas RelB was unaffected, providing activated DCs a tolerogenic advantage. Moreover, NCoR1DC-/- mice depicted enhanced Tregs in draining lymph nodes with increased disease burden upon bacterial and parasitic infections. Besides, adoptive transfer of activated NCoR1 KD DCs in infected animals showed a similar phenotype. Collectively, our results demonstrated NCoR1 as a promising target to control DC-mediated immune tolerance.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "31430125",
+      "title": "Redox Sensitive Self-Assembling Dipeptide for Sustained Intracellular Drug Delivery.",
+      "authors": [
+        "Sameer Dhawan",
+        "Sukanya Ghosh",
+        "R Ravinder",
+        "Sachendra S Bais",
+        "Soumen Basak",
+        "N M Anoop Krishnan",
+        "Manish Agarwal",
+        "Manidipa Banerjee",
+        "V Haridas"
+      ],
+      "year": "2019",
+      "journal": "Bioconjugate chemistry",
+      "doi": "10.1021/acs.bioconjchem.9b00532",
+      "doi_link": "https://doi.org/10.1021/acs.bioconjchem.9b00532",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31430125",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Redox%20Sensitive%20Self-Assembling%20Dipeptide%20for%20Sustained%20Intracellular%20Drug%20Delivery%22",
+      "citations": {
+        "crossref": 27
+      },
+      "abstract": "The rational design and synthesis of molecules with functional supramolecular assemblies continues to be a challenging endeavor. Self-assembled nano- and microstructures from natural building blocks are considered more appropriate for medical applications due to their biocompatible nature. We report for the first time a simple redox-responsive dipeptide that self-assembles to form vesicles in aqueous medium. The experimental results based on the control compound and all-atom molecular dynamics (MD) simulations support the mechanism of association through intermolecular π-π interactions between the indole rings of tryptophan residues. These peptide vesicles showed a DOX loading capacity of ∼16% (w/w) and redox-triggered controlled release of the packaged drug. The drug-loaded vesicles were able to penetrate into MDA-MB-231 and HeLa cells, and release payload, suggesting their putative use as chemotherapeutic delivery vehicles. These natural peptide-based carriers disassemble inside cells due to the high cytosolic GSH concentration, and the resultant Cys-Trp dipeptide is degradable. The minimalistic peptide design presented here, coupled with the propensity to form vesicles that can encapsulate the chemotherapeutic drug, opens up unlimited potential for engineering targeted sustained-release drug delivery vehicles.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "31134075",
+      "title": "Immune Differentiation Regulator p100 Tunes NF-κB Responses to TNF.",
+      "authors": [
+        "Budhaditya Chatterjee",
+        "Payel Roy",
+        "Uday Aditya Sarkar",
+        "Mingming Zhao",
+        "Yashika Ratra",
+        "Amit Singh",
+        "Meenakshi Chawla",
+        "Supriyo De",
+        "James Gomes",
+        "Ranjan Sen",
+        "Soumen Basak"
+      ],
+      "year": "2019",
+      "journal": "Frontiers in immunology",
+      "doi": "10.3389/fimmu.2019.00997",
+      "doi_link": "https://doi.org/10.3389/fimmu.2019.00997",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31134075",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Immune%20Differentiation%20Regulator%20p100%20Tunes%20NF-%CE%BAB%20Responses%20to%20TNF%22",
+      "citations": {
+        "crossref": 15
+      },
+      "abstract": "Tumor necrosis factor (TNF) is a pleiotropic cytokine whose primary physiological function involves coordinating inflammatory and adaptive immune responses. However, uncontrolled TNF signaling causes aberrant inflammation and has been implicated in several human ailments. Therefore, an understanding of the molecular mechanisms underlying dynamical and gene controls of TNF signaling bear significance for human health. As such, TNF engages the canonical nuclear factor kappa B (NF-κB) pathway to activate RelA:p50 heterodimers, which induce expression of specific immune response genes. Brief and chronic TNF stimulation produces transient and long-lasting NF-κB activities, respectively. Negative feedback regulators of the canonical pathway, including IκBα, are thought to ensure transient RelA:p50 responses to short-lived TNF signals. The non-canonical NF-κB pathway mediates RelB activity during immune differentiation involving p100. We uncovered an unexpected role of p100 in TNF signaling. Brief TNF stimulation of p100-deficient cells triggered an additional late NF-κB activity consisting of RelB:p50 heterodimers, which modified the TNF-induced gene-expression program. In p100-deficient cells subjected to brief TNF stimulation, RelB:p50 not only sustained the expression of a subset of RelA-target immune response genes but also activated additional genes that were not normally induced by TNF in WT mouse embryonic fibroblasts (MEFs) and were related to immune differentiation and metabolic processes. Despite this RelB-mediated distinct gene control, however, RelA and RelB bound to mostly overlapping chromatin sites in p100-deficient cells. Repeated TNF pulses strengthened this RelB:p50 activity, which was supported by NF-κB-driven RelB synthesis. Finally, brief TNF stimulation elicited late-acting expressions of NF-κB target pro-survival genes in p100-deficient myeloma cells. In sum, our study suggests that the immune-differentiation regulator p100 enforces specificity of TNF signaling and that varied p100 levels may provide for modifying TNF responses in diverse physiological and pathological settings.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "31043529",
+      "title": "Chandipura Virus Utilizes the Prosurvival Function of RelA NF-κB for Its Propagation.",
+      "authors": [
+        "Sachendra S Bais",
+        "Yashika Ratra",
+        "Naseem A Khan",
+        "Rakesh Pandey",
+        "Pramod K Kushawaha",
+        "Shailly Tomar",
+        "Guruprasad Medigeshi",
+        "Abhyudai Singh",
+        "Soumen Basak"
+      ],
+      "year": "2019",
+      "journal": "Journal of virology",
+      "doi": "10.1128/JVI.00081-19",
+      "doi_link": "https://doi.org/10.1128/JVI.00081-19",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31043529",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Chandipura%20Virus%20Utilizes%20the%20Prosurvival%20Function%20of%20RelA%20NF-%CE%BAB%20for%20Its%20Propagation%22",
+      "citations": {
+        "crossref": 11
+      },
+      "abstract": "Chandipura virus (CHPV), a cytoplasmic RNA virus, has been implicated in several outbreaks of acute encephalitis in India. Despite the relevance of CHPV to human health, how the virus interacts with the host signaling machinery remains obscure. In response to viral infections, mammalian cells activate RelA/NF-κB heterodimers, which induce genes encoding interferon beta (IFN-β) and other immune mediators. Therefore, RelA is generally considered to be an antiviral transcription factor. However, RelA activates a wide spectrum of genes in physiological settings, and there is a paucity of direct genetic evidence substantiating antiviral RelA functions. Using mouse embryonic fibroblasts, we genetically dissected the role of RelA in CHPV pathogenesis. We found that CHPV indeed activated RelA and that RelA deficiency abrogated the expression of IFN-β in response to virus infections. Unexpectedly, infection of Rela-/- fibroblasts led to a decreased CHPV yield. Our investigation clarified that RelA-dependent synthesis of prosurvival factors restrained infection-inflicted cell death and that exacerbated cell death processes prevented multiplication of CHPV in RelA-deficient cells. Chikungunya virus, a cytopathic RNA virus associated also with epidemics, required RelA, and Japanese encephalitis virus, which produced relatively minor cytopathic effects in fibroblasts, circumvented the need of RelA for their propagation. In sum, we documented a proviral function of the pleiotropic factor RelA linked to its prosurvival properties. RelA promoted the growth of cytopathic RNA viruses by extending the life span of infected cells, which serve as the replicative niche of intracellular pathogens. We argue that our finding bears significance for understanding host-virus interactions and may have implications for antiviral therapeutic regimes.IMPORTANCE RelA/NF-κB participates in a wide spectrum of physiological processes, including shaping immune responses against invading pathogens. In virus-infected cells, RelA typically induces the expression of IFN-β, which restrains viral propagation in neighboring cells involving paracrine mechanisms. Our study suggested that RelA might also play a proviral role. A cell-autonomous RelA activity amplified the yield of Chandipura virus, a cytopathic RNA virus associated with human epidemics, by extending the life span of infected cells. Our finding necessitates a substantial revision of our understanding of host-virus interactions and indicates a dual role of NF-κB signaling during the course of RNA virus infections. Our study also bears significance for therapeutic regimes which alter NF-κB activities while alleviating the viral load.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "29772694",
+      "title": "The NF-κB Activating Pathways in Multiple Myeloma.",
+      "authors": [
+        "Payel Roy",
+        "Uday Aditya Sarkar",
+        "Soumen Basak"
+      ],
+      "year": "2018",
+      "journal": "Biomedicines",
+      "doi": "10.3390/biomedicines6020059",
+      "doi_link": "https://doi.org/10.3390/biomedicines6020059",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29772694",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20NF-%CE%BAB%20Activating%20Pathways%20in%20Multiple%20Myeloma%22",
+      "citations": {
+        "semantic_scholar": 65
+      },
+      "abstract": "Multiple myeloma(MM), an incurable plasma cell cancer, represents the second most prevalent hematological malignancy. Deregulated activity of the nuclear factor kappaB (NF-κB) family of transcription factors has been implicated in the pathogenesis of multiple myeloma. Tumor microenvironment-derived cytokines and cancer-associated genetic mutations signal through the canonical as well as the non-canonical arms to activate the NF-κB system in myeloma cells. In fact, frequent engagement of both the NF-κB pathways constitutes a distinguishing characteristic of myeloma. In turn, NF-κB signaling promotes proliferation, survival and drug-resistance of myeloma cells. In this review article, we catalog NF-κB activating genetic mutations and microenvironmental cues associated with multiple myeloma. We then describe how the individual canonical and non-canonical pathways transduce signals and contribute towards NF-κB -driven gene-expressions in healthy and malignant cells. Furthermore, we discuss signaling crosstalk between concomitantly triggered NF-κB pathways, and its plausible implication for anomalous NF-κB activation and NF-κB driven pro-survival gene-expressions in multiple myeloma. Finally, we propose that mechanistic understanding of NF-κB deregulations may provide for improved therapeutic and prognostic tools in multiple myeloma.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "29061763",
+      "title": "A TNF-p100 pathway subverts noncanonical NF-κB signaling in inflamed secondary lymphoid organs.",
+      "authors": [
+        "Tapas Mukherjee",
+        "Budhaditya Chatterjee",
+        "Atika Dhar",
+        "Sachendra S Bais",
+        "Meenakshi Chawla",
+        "Payel Roy",
+        "Anna George",
+        "Vineeta Bal",
+        "Satyajit Rath",
+        "Soumen Basak"
+      ],
+      "year": "2017",
+      "journal": "The EMBO journal",
+      "doi": "10.15252/embj.201796919",
+      "doi_link": "https://doi.org/10.15252/embj.201796919",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29061763",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20TNF-p100%20pathway%20subverts%20noncanonical%20NF-%CE%BAB%20signaling%20in%20inflamed%20secondary%20lymphoid%20organs%22",
+      "citations": {
+        "crossref": 27
+      },
+      "abstract": "Lymphotoxin-beta receptor (LTβR) present on stromal cells engages the noncanonical NF-κB pathway to mediate RelB-dependent expressions of homeostatic chemokines, which direct steady-state ingress of naïve lymphocytes to secondary lymphoid organs (SLOs). In this pathway, NIK promotes partial proteolysis of p100 into p52 that induces nuclear translocation of the RelB NF-κB heterodimers. Microbial infections often deplete homeostatic chemokines; it is thought that infection-inflicted destruction of stromal cells results in the downregulation of these chemokines. Whether inflammation per se also regulates these processes remains unclear. We show that TNF accumulated upon non-infectious immunization of mice similarly downregulates the expressions of these chemokines and consequently diminishes the ingress of naïve lymphocytes in inflamed SLOs. Mechanistically, TNF inactivated NIK in LTβR-stimulated cells and induced the synthesis of Nfkb2 mRNA encoding p100; these together potently accumulated unprocessed p100, which attenuated the RelB activity as inhibitory IκBδ. Finally, a lack of p100 alleviated these TNF-mediated inhibitions in inflamed SLOs of immunized Nfkb2-/- mice. In sum, we reveal that an inhibitory TNF-p100 pathway modulates the adaptive compartment during immune responses.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "28378771",
+      "title": "Mediation of transitional B cell maturation in the absence of functional Bruton's tyrosine kinase.",
+      "authors": [
+        "Shalini Tanwar",
+        "Atika Dhar",
+        "Vineeth Varanasi",
+        "Tapas Mukherjee",
+        "Ramanamurthy Boppana",
+        "Soumen Basak",
+        "Vineeta Bal",
+        "Anna George",
+        "Satyajit Rath"
+      ],
+      "year": "2017",
+      "journal": "Scientific reports",
+      "doi": "10.1038/srep46029",
+      "doi_link": "https://doi.org/10.1038/srep46029",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28378771",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mediation%20of%20transitional%20B%20cell%20maturation%20in%20the%20absence%20of%20functional%20Bruton%27s%20tyrosine%20kinase%22",
+      "citations": {
+        "semantic_scholar": 6
+      },
+      "abstract": "X-linked immune-deficient (Xid) mice, carrying a mutation in Bruton's tyrosine kinase (Btk), have multiple B cell lineage differentiation defects. We now show that, while Xid mice showed only mild reduction in the frequency of the late transitional (T2) stage of peripheral B cells, the defect became severe when the Xid genotype was combined with either a CD40-null, a TCRbeta-null or an MHC class II (MHCII)-null genotype. Purified Xid T1 and T2 B cells survived poorly in vitro compared to wild-type (WT) cells. BAFF rescued WT but not Xid T1 and T2 B cells from death in culture, while CD40 ligation equivalently rescued both. Xid transitional B cells ex vivo showed low levels of the p100 protein substrate for non-canonical NF-kappaB signalling. In vitro, CD40 ligation induced equivalent activation of the canonical but not of the non-canonical NF-kappaB pathway in Xid and WT T1 and T2 B cells. CD40 ligation efficiently rescued p100-null T1 B cells from neglect-induced death in vitro. These data indicate that CD40-mediated signals, likely from CD4 T cells, can mediate peripheral transitional B cell maturation independent of Btk and the non-canonical NF-kappaB pathway, and thus contribute to the understanding of the complexities of peripheral B cell maturation.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 20,
+    "publications_by_year": {
+      "2024": 4,
+      "2023": 1,
+      "2022": 3,
+      "2021": 3,
+      "2019": 6,
+      "2018": 1,
+      "2017": 2
+    },
+    "top_journals": [
+      "Frontiers in immunology",
+      "The EMBO journal",
+      "Scientific reports",
+      "eLife",
+      "Cellular signalling"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 111,
+      "frequent_collaborators": [
+        "Soumen Basak",
+        "Meenakshi Chawla",
+        "Alvina Deka",
+        "Sachendra S Bais",
+        "Yashika Ratra",
+        "Uday Aditya Sarkar",
+        "Naveen Kumar",
+        "Payel Roy"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "29772694",
+        "title": "The NF-κB Activating Pathways in Multiple Myeloma.",
+        "citations": 65,
+        "year": "2018"
+      },
+      {
+        "publication_id": "38194476",
+        "title": "The NF-κB signaling system in the immunopathogenesis of inflammatory bowel disease.",
+        "citations": 44,
+        "year": "2024"
+      },
+      {
+        "publication_id": "34155144",
+        "title": "An epithelial Nfkb2 pathway exacerbates intestinal inflammation by supplementing latent RelA dimers to the canonical NF-κB module.",
+        "citations": 35,
+        "year": "2021"
+      }
+    ]
+  }
+}

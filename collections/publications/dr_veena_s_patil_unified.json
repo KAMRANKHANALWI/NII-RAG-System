@@ -1,0 +1,598 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Veena S. Patil",
+    "email": "veena@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-veena-s-patil",
+    "research_domain": "Immunity & Infection",
+    "faculty_status": "current",
+    "search_date": "2025-07-01T14:34:28.520763",
+    "total_publications": 18,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Veena S. Patil, current faculty in Immunity & Infection at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "39263985",
+      "title": "Inherent metabolic preferences differentially regulate the sensitivity of Th1 and Th2 cells to ribosome-inhibiting antibiotics.",
+      "authors": [
+        "Neha Jawla",
+        "Raunak Kar",
+        "Veena S Patil",
+        "G Aneeshkumar Arimbasseri"
+      ],
+      "year": "2025",
+      "journal": "Immunology",
+      "doi": "10.1111/imm.13860",
+      "doi_link": "https://doi.org/10.1111/imm.13860",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39263985",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Inherent%20metabolic%20preferences%20differentially%20regulate%20the%20sensitivity%20of%20Th1%20and%20Th2%20cells%20to%20ribosome-inhibiting%20antibiotics%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "Mitochondrial translation is essential to maintain mitochondrial function and energy production. Mutations in genes associated with mitochondrial translation cause several developmental disorders, and immune dysfunction is observed in many such patients. Besides genetic mutations, several antibiotics targeting bacterial ribosomes are well-established to inhibit mitochondrial translation. However, the effect of such antibiotics on different immune cells is not fully understood. Here, we addressed the differential effect of mitochondrial translation inhibition on different subsets of helper T cells (Th) of mice and humans. Inhibition of mitochondrial translation reduced the levels of mitochondrially encoded electron transport chain subunits without affecting their nuclear-encoded counterparts. As a result, mitochondrial oxygen consumption reduced dramatically, but mitochondrial mass was unaffected. Most importantly, we show that inhibition of mitochondrial translation induced apoptosis, specifically in Th2 cells. This increase in apoptosis was associated with higher expression of Bim and Puma, two activators of the intrinsic pathway of apoptosis. We propose that this difference in the sensitivity of Th1 and Th2 cells to mitochondrial translation inhibition reflects the intrinsic metabolic demands of these subtypes. Though Th1 and Th2 cells exhibit similar levels of oxidative phosphorylation, Th1 cells exhibit higher levels of aerobic glycolysis than Th2 cells. Moreover, Th1 cells are more sensitive to the inhibition of glycolysis, while higher concentrations of glycolysis inhibitor 2-deoxyglucose are required to induce cell death in the Th2 lineage. These observations reveal that selection of metabolic pathways for substrate utilization during differentiation of Th1 and Th2 lineages is a fundamental process conserved across species.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "38501302",
+      "title": "Single-cell transcriptomic and T cell antigen receptor analysis of human cytomegalovirus (hCMV)-specific memory T cells reveals effectors and pre-effectors of CD8+- and CD4+-cytotoxic T cells.",
+      "authors": [
+        "Raunak Kar",
+        "Somdeb Chattopadhyay",
+        "Anjali Sharma",
+        "Kirti Sharma",
+        "Shreya Sinha",
+        "Gopalakrishnan Aneeshkumar Arimbasseri",
+        "Veena S Patil"
+      ],
+      "year": "2024",
+      "journal": "Immunology",
+      "doi": "10.1111/imm.13783",
+      "doi_link": "https://doi.org/10.1111/imm.13783",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38501302",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Single-cell%20transcriptomic%20and%20T%20cell%20antigen%20receptor%20analysis%20of%20human%20cytomegalovirus%20%28hCMV%29-specific%20memory%20T%20cells%20reveals%20effectors%20and%20pre-effectors%20of%20CD8%2B-%20and%20CD4%2B-cytotoxic%20T%20cells%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "Latent human cytomegalovirus (hCMV) infection can pose a serious threat of reactivation and disease occurrence in immune-compromised individuals. Although T cells are at the core of the protective immune response to hCMV infection, a detailed characterization of different T cell subsets involved in hCMV immunity is lacking. Here, in an unbiased manner, we characterized over 8000 hCMV-reactive peripheral memory T cells isolated from seropositive human donors, at a single-cell resolution by analysing their single-cell transcriptomes paired with the T cell antigen receptor (TCR) repertoires. The hCMV-reactive T cells were highly heterogeneous and consisted of different developmental and functional memory T cell subsets such as, long-term memory precursors and effectors, T helper-17, T regulatory cells (TREGs) and cytotoxic T lymphocytes (CTLs) of both CD4 and CD8 origin. The hCMV-specific TREGs, in addition to being enriched for molecules known for their suppressive functions, showed enrichment for the interferon response signature gene sets. The hCMV-specific CTLs were of two types, the pre-effector- and effector-like. The co-clustering of hCMV-specific CD4-CTLs and CD8-CTLs in both pre-effector as well as effector clusters suggest shared transcriptomic signatures between them. The huge TCR clonal expansion of cytotoxic clusters suggests a dominant role in the protective immune response to CMV. The study uncovers the heterogeneity in the hCMV-specific memory T cells revealing many functional subsets with potential implications in better understanding of hCMV-specific T cell immunity. The data presented can serve as a knowledge base for designing vaccines and therapeutics.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "38462044",
+      "title": "Engineered nanomicelles inhibit the tumour progression via abrogating the prostaglandin-mediated immunosuppression.",
+      "authors": [
+        "Poonam Yadav",
+        "Kajal Rana",
+        "Viviani Nardini",
+        "Ali Khan",
+        "Trishna Pani",
+        "Animesh Kar",
+        "Dolly Jain",
+        "Ruchira Chakraborty",
+        "Ragini Singh",
+        "Somesh K Jha",
+        "Devashish Mehta",
+        "Harsh Sharma",
+        "Ravi Datta Sharma",
+        "S V S Deo",
+        "Sagar Sengupta",
+        "Veena S Patil",
+        "Lúcia Helena Faccioli",
+        "Ujjaini Dasgupta",
+        "Avinash Bajaj"
+      ],
+      "year": "2024",
+      "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+      "doi": "10.1016/j.jconrel.2024.03.009",
+      "doi_link": "https://doi.org/10.1016/j.jconrel.2024.03.009",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38462044",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Engineered%20nanomicelles%20inhibit%20the%20tumour%20progression%20via%20abrogating%20the%20prostaglandin-mediated%20immunosuppression%22",
+      "citations": {
+        "crossref": 5
+      },
+      "abstract": "Cancer treatment is challenged due to immunosuppressive inflammatory tumour microenvironment (TME) caused by infiltration of tumour-promoting and inhibition of tumour-inhibiting immune cells. Here, we report the engineering of chimeric nanomicelles (NMs) targeting the cell proliferation using docetaxel (DTX) and inflammation using dexamethasone (DEX) that alters the immunosuppressive TME. We show that a combination of phospholipid-DTX conjugate and PEGylated-lipid-DEX conjugate can self-assemble to form sub-100 nm chimeric NMs (DTX-DEX NMs). Anti-cancer activities against syngeneic and xenograft mouse models showed that the DTX-DEX NMs are more effective in tumour regression, enhance the survival of mice over other treatment modes, and alter the tumour stroma. DTX-DEX NMs cause a significant reduction in myeloid-derived suppressor cells, alter the polarization of macrophages, and enhance the accumulation of cytotoxic CD4+ and CD8+ T cells in tumour tissues, along with alterations in cytokine expression. We further demonstrated that these DTX-DEX NMs inhibit the synthesis of prostaglandins, especially PGE2, by targeting the cyclooxygenase 2 that is partly responsible for immunosuppressive TME. Therefore, this study presents, for the first time, the engineering of lithocholic acid-derived chimeric NMs that affect the prostaglandin pathway, alter the TME, and mitigate tumour progression with enhanced mice survival.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "37390205",
+      "title": "A localized hydrogel-mediated chemotherapy causes immunogenic cell death via activation of ceramide-mediated unfolded protein response.",
+      "authors": [
+        "Animesh Kar",
+        "Dolly Jain",
+        "Sandeep Kumar",
+        "Kajal Rajput",
+        "Sanjay Pal",
+        "Kajal Rana",
+        "Raunak Kar",
+        "Somesh K Jha",
+        "Nihal Medatwal",
+        "Prabhu Srinivas Yavvari",
+        "Nishant Pandey",
+        "Devashish Mehta",
+        "Harsh Sharma",
+        "Debanjan Bhattacharya",
+        "Manas K Pradhan",
+        "Ravi Datta Sharma",
+        "Aasheesh Srivastava",
+        "Usha Agrawal",
+        "Arnab Mukhopadhyay",
+        "Sagar Sengupta",
+        "Veena S Patil",
+        "Avinash Bajaj",
+        "Ujjaini Dasgupta"
+      ],
+      "year": "2023",
+      "journal": "Science advances",
+      "doi": "10.1126/sciadv.adf2746",
+      "doi_link": "https://doi.org/10.1126/sciadv.adf2746",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37390205",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20localized%20hydrogel-mediated%20chemotherapy%20causes%20immunogenic%20cell%20death%20via%20activation%20of%20ceramide-mediated%20unfolded%20protein%20response%22",
+      "citations": {
+        "semantic_scholar": 20
+      },
+      "abstract": "Treatment of triple-negative breast cancer (TNBC) is challenging because of its \"COLD\" tumor immunosuppressive microenvironment (TIME). Here, we present a hydrogel-mediated localized delivery of a combination of docetaxel (DTX) and carboplatin (CPT) (called DTX-CPT-Gel therapy) that ensured enhanced anticancer effect and tumor regression on multiple murine syngeneic and xenograft tumor models. DTX-CPT-Gel therapy modulated the TIME by an increase of antitumorigenic M1 macrophages, attenuation of myeloid-derived suppressor cells, and increase of granzyme B+CD8+ T cells. DTX-CPT-Gel therapy elevated ceramide levels in tumor tissues that activated the protein kinase R (PKR)-like endoplasmic reticulum kinase (PERK)-mediated unfolded protein response (UPR). This UPR-mediated activation of apoptotic cell death led to release of damage-associated molecular patterns, thereby activating the immunogenic cell death that could even clear the metastatic tumors. This study provides a promising hydrogel-mediated platform for DTX-CPT therapy that induces tumor regression and effective immune modulation and, therefore, can be explored further for treatment of TNBC.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "36169577",
+      "title": "Gemini lipid nanoparticle (GLNP)-mediated oral delivery of TNF-α siRNA mitigates gut inflammation via inhibiting the differentiation of CD4+ T cells.",
+      "authors": [
+        "Priyanka Verma",
+        "Amit Arora",
+        "Kajal Rana",
+        "Devashish Mehta",
+        "Raunak Kar",
+        "Vikas Verma",
+        "C V Srikanth",
+        "Veena S Patil",
+        "Avinash Bajaj"
+      ],
+      "year": "2022",
+      "journal": "Nanoscale",
+      "doi": "10.1039/d1nr05644a",
+      "doi_link": "https://doi.org/10.1039/d1nr05644a",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36169577",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Gemini%20lipid%20nanoparticle%20%28GLNP%29-mediated%20oral%20delivery%20of%20TNF-%CE%B1%20siRNA%20mitigates%20gut%20inflammation%20via%20inhibiting%20the%20differentiation%20of%20CD4%2B%20T%20cells%22",
+      "citations": {
+        "semantic_scholar": 3
+      },
+      "abstract": "Proinflammatory cytokines such as Tumor Necrosis Factor-α (TNF-α) are critical mediators of inflammatory bowel disease pathogenesis, and are important targets to restore intestinal homeostasis. Herein, we present the engineering and screening of gemini lipid nanoparticles (GLNPs) for siRNA delivery to colon epithelial cells, macrophages and dendritic cells, and their ability to deliver siRNA therapeutics to the inflamed gastrointestinal tract. We synthesized eight gemini cationic lipids by tethering two lithocholic acid molecules through 3'-hydroxyl- and 24'-carboxyl-derived ammonium groups using different polyalkylene spacers. Screening of GLNPs, composed of gemini cationic lipid and dioleoylphosphatidylethanolamine lipid, showed that GLNPs derived from gemini lipid G1 are the most effective in the delivery of siRNA across mammalian cell membranes with reduced toxicity. Gemini lipid G1-derived siRNA-GLNP complexes (siGLNPs) can effectively reduce gene expression, and are stable in simulated gastric fluid. The delivery of TNF-α siRNA using siGLNPs can mitigate gut inflammation in a dextran sodium sulfate-induced murine inflammation model. As CD4+ T cells, especially Th17 cells, are key mediators of gut inflammation, we further showed that these siGLNPs inhibit infiltration and differentiation of CD4+ T cells to Th17 and Treg cells. Therefore, this study highlights the potential of GLNPs derived from lithocholic acid-derived gemini cationic lipids for the development of next-generation nucleic acid delivery vehicles.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "35195120",
+      "title": "Hydrogel-mediated topical delivery of steroids can effectively alleviate psoriasis via attenuating the autoimmune responses.",
+      "authors": [
+        "Kajal Rana",
+        "Trishna Pani",
+        "Somesh Kumar Jha",
+        "Devashish Mehta",
+        "Poonam Yadav",
+        "Dolly Jain",
+        "Manas Kumar Pradhan",
+        "Sarita Mishra",
+        "Raunak Kar",
+        "Betsy Reshma G",
+        "Aasheesh Srivastava",
+        "Ujjaini Dasgupta",
+        "Veena S Patil",
+        "Avinash Bajaj"
+      ],
+      "year": "2022",
+      "journal": "Nanoscale",
+      "doi": "10.1039/d1nr06001e",
+      "doi_link": "https://doi.org/10.1039/d1nr06001e",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35195120",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Hydrogel-mediated%20topical%20delivery%20of%20steroids%20can%20effectively%20alleviate%20psoriasis%20via%20attenuating%20the%20autoimmune%20responses%22",
+      "citations": {
+        "crossref": 15
+      },
+      "abstract": "Psoriasis is a systemic, relapsing, and chronic autoimmune inflammatory disease of the skin. Topical use of betamethasone, a glucocorticoid, in the form of creams is a common treatment for psoriasis. However, topical use of these creams is challenging due to the ineffective entrapment of steroids, burst release of the entrapped drugs, poor skin permeability, and high toxicity. Herein, we present the engineering of a betamethasone-loaded topical hydrogel (B-Gel) that can efficiently entrap steroids with high spreadability, and can also maintain the sustained release of drugs. We used an imiquimod (IMQ) induced ear psoriasis model, and demonstrated that topical application of B-Gel can mitigate the autoimmune inflammation reactions, and leads to a reduction in erythema, induration, scaling, and ear thickness. As interleukin 17 (IL-17) secreting T helper 17 (Th17) cells and γδ+ T cells are responsible for psoriasis, B-Gel treatment witnessed a reduction in the infiltration of leukocytes, CD4+ T cells, Th17 T cells, and dermal γδ+ T cells. We further demonstrated that B-Gel mediated reduction of IL-1β, IL-17, and K16 (marker for keratinocyte proliferation) is responsible for alleviation of psoriasis. Therefore, the non-greasy nature of the hydrogel with a cooling effect provides an alternative for topical application of steroids.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "34491724",
+      "title": "Nonimmunogenic Hydrogel-Mediated Delivery of Antibiotics Outperforms Clinically Used Formulations in Mitigating Wound Infections.",
+      "authors": [
+        "Sandeep Kumar",
+        "Sanjay Pal",
+        "Jyoti Thakur",
+        "Parul Rani",
+        "Kajal Rana",
+        "Animesh Kar",
+        "Raunak Kar",
+        "Devashish Mehta",
+        "Somesh Kumar Jha",
+        "Manas Kumar Pradhan",
+        "Dolly Jain",
+        "Kajal Rajput",
+        "Sarita Mishra",
+        "Munia Ganguli",
+        "Aasheesh Srivastava",
+        "Ujjaini Dasgupta",
+        "Veena S Patil",
+        "Avinash Bajaj"
+      ],
+      "year": "2021",
+      "journal": "ACS applied materials & interfaces",
+      "doi": "10.1021/acsami.1c12265",
+      "doi_link": "https://doi.org/10.1021/acsami.1c12265",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34491724",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Nonimmunogenic%20Hydrogel-Mediated%20Delivery%20of%20Antibiotics%20Outperforms%20Clinically%20Used%20Formulations%20in%20Mitigating%20Wound%20Infections%22",
+      "citations": {
+        "crossref": 8
+      },
+      "abstract": "Treatment of chronic wound infections caused by Gram-positive bacteria such as Staphylococcus aureus is highly challenging due to the low efficacy of existing formulations, thereby leading to drug resistance. Herein, we present the synthesis of a nonimmunogenic cholic acid-glycine-glycine conjugate (A6) that self-assembles into a supramolecular viscoelastic hydrogel (A6 gel) suitable for topical applications. The A6 hydrogel can entrap different antibiotics with high efficacy without compromising its viscoelastic behavior. Activities against different bacterial species using a disc diffusion assay demonstrated the antimicrobial effect of the ciprofloxacin-loaded A6 hydrogel (CPF-Gel). Immune profiling and gene expression studies after the application of the A6 gel to mice confirmed its nonimmunogenic nature to host tissues. We further demonstrated that topical application of CPF-Gel clears S. aureus-mediated wound infections more effectively than clinically used formulations. Therefore, cholic acid-derived hydrogels are an efficacious matrix for topical delivery of antibiotics and should be explored further.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "34477730",
+      "title": "A hydrogel-based implantable multidrug antitubercular formulation outperforms oral delivery.",
+      "authors": [
+        "Sanjay Pal",
+        "Vijay Soni",
+        "Sandeep Kumar",
+        "Somesh Kumar Jha",
+        "Nihal Medatwal",
+        "Kajal Rana",
+        "Poonam Yadav",
+        "Devashish Mehta",
+        "Dolly Jain",
+        "Pankaj Sharma",
+        "Raunak Kar",
+        "Aasheesh Srivastava",
+        "Veena S Patil",
+        "Ujjaini Dasgupta",
+        "Vinay Kumar Nandicoori",
+        "Avinash Bajaj"
+      ],
+      "year": "2021",
+      "journal": "Nanoscale",
+      "doi": "10.1039/d0nr08806d",
+      "doi_link": "https://doi.org/10.1039/d0nr08806d",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34477730",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20hydrogel-based%20implantable%20multidrug%20antitubercular%20formulation%20outperforms%20oral%20delivery%22",
+      "citations": {
+        "crossref": 7
+      },
+      "abstract": "We present a non-immunogenic, injectable, low molecular weight, amphiphilic hydrogel-based drug delivery system (TB-Gel) that can entrap a cocktail of four front-line antitubercular drugs, isoniazid, rifampicin, pyrazinamide, and ethambutol. We showed that TB-Gel is more effective than oral delivery of the combination of four drugs in reducing the mycobacterial infection in mice. Results show that half the dose of chemotherapeutic drugs is sufficient to achieve a comparable therapeutic effect to that of oral delivery.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "30918008",
+      "title": "The long noncoding RNA ROCKI regulates inflammatory gene expression.",
+      "authors": [
+        "Qiong Zhang",
+        "Ti-Chun Chao",
+        "Veena S Patil",
+        "Yue Qin",
+        "Shashi Kant Tiwari",
+        "Joshua Chiou",
+        "Alexander Dobin",
+        "Chih-Ming Tsai",
+        "Zhonghan Li",
+        "Jason Dang",
+        "Shagun Gupta",
+        "Kevin Urdahl",
+        "Victor Nizet",
+        "Thomas R Gingeras",
+        "Kyle J Gaulton",
+        "Tariq M Rana"
+      ],
+      "year": "2019",
+      "journal": "The EMBO journal",
+      "doi": "10.15252/embj.2018100041",
+      "doi_link": "https://doi.org/10.15252/embj.2018100041",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30918008",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20long%20noncoding%20RNA%20ROCKI%20regulates%20inflammatory%20gene%20expression%22",
+      "citations": {
+        "crossref": 78
+      },
+      "abstract": "Long noncoding RNAs (lncRNAs) can regulate target gene expression by acting in cis (locally) or in trans (non-locally). Here, we performed genome-wide expression analysis of Toll-like receptor (TLR)-stimulated human macrophages to identify pairs of cis-acting lncRNAs and protein-coding genes involved in innate immunity. A total of 229 gene pairs were identified, many of which were commonly regulated by signaling through multiple TLRs and were involved in the cytokine responses to infection by group B Streptococcus We focused on elucidating the function of one lncRNA, named lnc-MARCKS or ROCKI (Regulator of Cytokines and Inflammation), which was induced by multiple TLR stimuli and acted as a master regulator of inflammatory responses. ROCKI interacted with APEX1 (apurinic/apyrimidinic endodeoxyribonuclease 1) to form a ribonucleoprotein complex at the MARCKS promoter. In turn, ROCKI-APEX1 recruited the histone deacetylase HDAC1, which removed the H3K27ac modification from the promoter, thus reducing MARCKS transcription and subsequent Ca2+ signaling and inflammatory gene expression. Finally, genetic variants affecting ROCKI expression were linked to a reduced risk of certain inflammatory and infectious disease in humans, including inflammatory bowel disease and tuberculosis. Collectively, these data highlight the importance of cis-acting lncRNAs in TLR signaling, innate immunity, and pathophysiological inflammation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "29352091",
+      "title": "Precursors of human CD4+ cytotoxic T lymphocytes identified by single-cell transcriptome analysis.",
+      "authors": [
+        "Veena S Patil",
+        "Ariel Madrigal",
+        "Benjamin J Schmiedel",
+        "James Clarke",
+        "Patrick O'Rourke",
+        "Aruna D de Silva",
+        "Eva Harris",
+        "Bjoern Peters",
+        "Gregory Seumois",
+        "Daniela Weiskopf",
+        "Alessandro Sette",
+        "Pandurangan Vijayanand"
+      ],
+      "year": "2018",
+      "journal": "Science immunology",
+      "doi": "10.1126/sciimmunol.aan8664",
+      "doi_link": "https://doi.org/10.1126/sciimmunol.aan8664",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29352091",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Precursors%20of%20human%20CD4%2B%20cytotoxic%20T%20lymphocytes%20identified%20by%20single-cell%20transcriptome%20analysis%22",
+      "citations": {
+        "crossref": 219
+      },
+      "abstract": "CD4+ cytotoxic T lymphocytes (CD4-CTLs) have been reported to play a protective role in several viral infections. However, little is known in humans about the biology of CD4-CTL generation, their functional properties, and heterogeneity, especially in relation to other well-described CD4+ memory T cell subsets. We performed single-cell RNA sequencing in more than 9000 cells to unravel CD4-CTL heterogeneity, transcriptional profile, and clonality in humans. Single-cell differential gene expression analysis revealed a spectrum of known transcripts, including several linked to cytotoxic and costimulatory function that are expressed at higher levels in the TEMRA (effector memory T cells expressing CD45RA) subset, which is highly enriched for CD4-CTLs, compared with CD4+ T cells in the central memory (TCM) and effector memory (TEM) subsets. Simultaneous T cell antigen receptor (TCR) analysis in single cells and bulk subsets revealed that CD4-TEMRA cells show marked clonal expansion compared with TCM and TEM cells and that most of CD4-TEMRA were dengue virus (DENV)-specific in donors with previous DENV infection. The profile of CD4-TEMRA was highly heterogeneous across donors, with four distinct clusters identified by the single-cell analysis. We identified distinct clusters of CD4-CTL effector and precursor cells in the TEMRA subset; the precursor cells shared TCR clonotypes with CD4-CTL effectors and were distinguished by high expression of the interleukin-7 receptor. Our identification of a CD4-CTL precursor population may allow further investigation of how CD4-CTLs arise in humans and, thus, could provide insights into the mechanisms that may be used to generate durable and effective CD4-CTL immunity.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "29133794",
+      "title": "Unique phenotypes and clonal expansions of human CD4 effector memory T cells re-expressing CD45RA.",
+      "authors": [
+        "Yuan Tian",
+        "Mariana Babor",
+        "Jerome Lane",
+        "Veronique Schulten",
+        "Veena S Patil",
+        "Grégory Seumois",
+        "Sandy L Rosales",
+        "Zheng Fu",
+        "Gaelle Picarda",
+        "Julie Burel",
+        "Jose Zapardiel-Gonzalo",
+        "Rashika N Tennekoon",
+        "Aruna D De Silva",
+        "Sunil Premawansa",
+        "Gayani Premawansa",
+        "Ananda Wijewickrama",
+        "Jason A Greenbaum",
+        "Pandurangan Vijayanand",
+        "Daniela Weiskopf",
+        "Alessandro Sette",
+        "Bjoern Peters"
+      ],
+      "year": "2017",
+      "journal": "Nature communications",
+      "doi": "10.1038/s41467-017-01728-5",
+      "doi_link": "https://doi.org/10.1038/s41467-017-01728-5",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29133794",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Unique%20phenotypes%20and%20clonal%20expansions%20of%20human%20CD4%20effector%20memory%20T%20cells%20re-expressing%20CD45RA%22",
+      "citations": {
+        "crossref": 229
+      },
+      "abstract": "The expression of CD45RA is generally associated with naive T cells. However, a subset of effector memory T cells re-expresses CD45RA (termed TEMRA) after antigenic stimulation with unknown molecular characteristics and functions. CD4 TEMRA cells have been implicated in protective immunity against pathogens such as dengue virus (DENV). Here we show that not only the frequency but also the phenotype of CD4 TEMRA cells are heterogeneous between individuals. These cells can be subdivided into two major subsets based on the expression of the adhesion G protein-coupled receptor GPR56, and GPR56+ TEMRA cells display a transcriptional and proteomic program with cytotoxic features that is distinct from effector memory T cells. Moreover, GPR56+ TEMRA cells have higher levels of clonal expansion and contain the majority of virus-specific TEMRA cells. Overall, this study reveals the heterogeneity of CD4 TEMRA cells and provides insights into T-cell responses against DENV and other viral pathogens.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "27162029",
+      "title": "Zika Virus Depletes Neural Progenitors in Human Cerebral Organoids through Activation of the Innate Immune Receptor TLR3.",
+      "authors": [
+        "Jason Dang",
+        "Shashi Kant Tiwari",
+        "Gianluigi Lichinchi",
+        "Yue Qin",
+        "Veena S Patil",
+        "Alexey M Eroshkin",
+        "Tariq M Rana"
+      ],
+      "year": "2016",
+      "journal": "Cell stem cell",
+      "doi": "10.1016/j.stem.2016.04.014",
+      "doi_link": "https://doi.org/10.1016/j.stem.2016.04.014",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27162029",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Zika%20Virus%20Depletes%20Neural%20Progenitors%20in%20Human%20Cerebral%20Organoids%20through%20Activation%20of%20the%20Innate%20Immune%20Receptor%20TLR3%22",
+      "citations": {
+        "crossref": 620
+      },
+      "abstract": "Emerging evidence from the current outbreak of Zika virus (ZIKV) indicates a strong causal link between Zika and microcephaly. To investigate how ZIKV infection leads to microcephaly, we used human embryonic stem cell-derived cerebral organoids to recapitulate early stage, first trimester fetal brain development. Here we show that a prototype strain of ZIKV, MR766, efficiently infects organoids and causes a decrease in overall organoid size that correlates with the kinetics of viral copy number. The innate immune receptor Toll-like-Receptor 3 (TLR3) was upregulated after ZIKV infection of human organoids and mouse neurospheres and TLR3 inhibition reduced the phenotypic effects of ZIKV infection. Pathway analysis of gene expression changes during TLR3 activation highlighted 41 genes also related to neuronal development, suggesting a mechanistic connection to disrupted neurogenesis. Together, therefore, our findings identify a link between ZIKV-mediated TLR3 activation, perturbed cell fate, and a reduction in organoid volume reminiscent of microcephaly.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "25287931",
+      "title": "The Tudor domain protein Tapas, a homolog of the vertebrate Tdrd7, functions in the piRNA pathway to regulate retrotransposons in germline of Drosophila melanogaster.",
+      "authors": [
+        "Veena S Patil",
+        "Amit Anand",
+        "Alisha Chakrabarti",
+        "Toshie Kai"
+      ],
+      "year": "2014",
+      "journal": "BMC biology",
+      "doi": "10.1186/s12915-014-0061-9",
+      "doi_link": "https://doi.org/10.1186/s12915-014-0061-9",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25287931",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20Tudor%20domain%20protein%20Tapas%2C%20a%20homolog%20of%20the%20vertebrate%20Tdrd7%2C%20functions%20in%20the%20piRNA%20pathway%20to%20regulate%20retrotransposons%20in%20germline%20of%20Drosophila%20melanogaster%22",
+      "citations": {
+        "crossref": 21
+      },
+      "abstract": "BACKGROUND: Piwi-interacting RNAs (piRNAs) are a special class of small RNAs that provide defense against transposable elements in animal germline cells. In Drosophila, germline piRNAs are thought to be processed at a unique perinuclear structure, the nuage, that houses piRNA pathway proteins including the Piwi clade of Argonaute family proteins, along with several Tudor domain proteins, RNA helicases and nucleases. We previously demonstrated that Tudor domain protein Tejas (Tej), an ortholog of vertebrate Tdrd5, is an important component of the piRNA pathway. RESULTS: In the current study, we identified the paralog of the Drosophila tej gene, tapas (tap), which is an ortholog of vertebrate Tdrd7. Like Tej, Tap is localized at the nuage. Alone, tap loss leads to a mild increase in transposon expression and decrease in piRNAs targeting transposons expressed in the germline. The tap gene genetically interacts with other piRNA pathway genes and we also show that Tap physically interacts with piRNA pathway components, such as Piwi family proteins Aubergine and Argonaute3 and the RNA helicases Spindle-E and Vasa. Together with tej, tap is required for survival of germline cells during early stages and for polarity formation. We further observed that loss of tej and tap together results in more severe defects in the piRNA pathway in germline cells compared to single mutants: the double-mutant ovaries exhibit mis-localization of piRNA pathway components and significantly greater reduction of piRNAs against transposons predominantly expressed in germline compared to single mutants. The single or double mutants did not have any reduction in piRNAs mapping to transposons predominantly expressed in gonadal somatic cells or those derived from unidirectional clusters such as flamenco. Consistently, the loss of both tej and tap function resulted in mis-localization of Piwi in germline cells, whereas Piwi remained localized to the nucleus in somatic cells. CONCLUSIONS: Our observations suggest that tej and tap work together for germline maintenance. tej and tap also function in a synergistic manner to maintain examined piRNA components at the perinuclear nuage and for piRNA production in Drosophila germline cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "24702998",
+      "title": "Kinome-wide functional analysis highlights the role of cytoskeletal remodeling in somatic cell reprogramming.",
+      "authors": [
+        "Kumi Sakurai",
+        "Indrani Talukdar",
+        "Veena S Patil",
+        "Jason Dang",
+        "Zhonghan Li",
+        "Kung-Yen Chang",
+        "Chih-Chung Lu",
+        "Violaine Delorme-Walker",
+        "Celine Dermardirossian",
+        "Karen Anderson",
+        "Dorit Hanein",
+        "Chao-Shun Yang",
+        "Dongmei Wu",
+        "Yang Liu",
+        "Tariq M Rana"
+      ],
+      "year": "2014",
+      "journal": "Cell stem cell",
+      "doi": "10.1016/j.stem.2014.03.001",
+      "doi_link": "https://doi.org/10.1016/j.stem.2014.03.001",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24702998",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Kinome-wide%20functional%20analysis%20highlights%20the%20role%20of%20cytoskeletal%20remodeling%20in%20somatic%20cell%20reprogramming%22",
+      "citations": {
+        "crossref": 61
+      },
+      "abstract": "The creation of induced pluripotent stem cells (iPSCs) from somatic cells by ectopic expression of transcription factors has galvanized the fields of regenerative medicine and developmental biology. Here, we report a kinome-wide RNAi-based analysis to identify kinases that regulate somatic cell reprogramming to iPSCs. We prepared 3,686 small hairpin RNA (shRNA) lentiviruses targeting 734 kinase genes covering the entire mouse kinome and individually examined their effects on iPSC generation. We identified 59 kinases as barriers to iPSC generation and characterized seven of them further. We found that shRNA-mediated knockdown of the serine/threonine kinases TESK1 or LIMK2 promoted mesenchymal-to-epithelial transition, decreased COFILIN phosphorylation, and disrupted Actin filament structures during reprogramming of mouse embryonic fibroblasts. Similarly, knockdown of TESK1 in human fibroblasts also promoted reprogramming to iPSCs. Our study reveals the breadth of kinase networks regulating pluripotency and identifies a role for cytoskeletal remodeling in modulating the somatic cell reprogramming process.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "24371310",
+      "title": "The long noncoding RNA THRIL regulates TNFα expression through its interaction with hnRNPL.",
+      "authors": [
+        "Zhonghan Li",
+        "Ti-Chun Chao",
+        "Kung-Yen Chang",
+        "Nianwei Lin",
+        "Veena S Patil",
+        "Chisato Shimizu",
+        "Steven R Head",
+        "Jane C Burns",
+        "Tariq M Rana"
+      ],
+      "year": "2014",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.1313768111",
+      "doi_link": "https://doi.org/10.1073/pnas.1313768111",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24371310",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20long%20noncoding%20RNA%20THRIL%20regulates%20TNF%CE%B1%20expression%20through%20its%20interaction%20with%20hnRNPL%22",
+      "citations": {
+        "semantic_scholar": 549
+      },
+      "abstract": "Thousands of large intergenic noncoding RNAs (lincRNAs) have been identified in the mammalian genome, many of which have important roles in regulating a variety of biological processes. Here, we used a custom microarray to identify lincRNAs associated with activation of the innate immune response. A panel of 159 lincRNAs was found to be differentially expressed following innate activation of THP1 macrophages. Among them, linc1992 was shown to be expressed in many human tissues and was required for induction of TNFα expression. Linc1992 bound specifically to heterogenous nuclear ribonucleoprotein L (hnRNPL) and formed a functional linc1992-hnRNPL complex that regulated transcription of the TNFα gene by binding to its promoter. Transcriptome analysis revealed that linc1992 was required for expression of many immune-response genes, including other cytokines and transcriptional and posttranscriptional regulators of TNFα expression, and that knockdown of linc1992 caused dysregulation of these genes during innate activation of THP1 macrophages. Therefore, we named linc1992 THRIL (TNFα and hnRNPL related immunoregulatory LincRNA). Finally, THRIL expression was correlated with the severity of symptoms in patients with Kawasaki disease, an acute inflammatory disease of childhood. Collectively, our data provide evidence that lincRNAs and their binding proteins can regulate TNFα expression and may play important roles in the innate immune response and inflammatory diseases in humans.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "24164576",
+      "title": "Gene regulation by non-coding RNAs.",
+      "authors": [
+        "Veena S Patil",
+        "Rui Zhou",
+        "Tariq M Rana"
+      ],
+      "year": "2014",
+      "journal": "Critical reviews in biochemistry and molecular biology",
+      "doi": "10.3109/10409238.2013.844092",
+      "doi_link": "https://doi.org/10.3109/10409238.2013.844092",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24164576",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Gene%20regulation%20by%20non-coding%20RNAs%22",
+      "citations": {
+        "crossref": 154
+      },
+      "abstract": "The past two decades have seen an explosion in research on non-coding RNAs and their physiological and pathological functions. Several classes of small (20-30 nucleotides) and long (>200 nucleotides) non-coding RNAs have been firmly established as key regulators of gene expression in myriad processes ranging from embryonic development to innate immunity. In this review, we focus on our current understanding of the molecular mechanisms underlying the biogenesis and function of small interfering RNAs (siRNAs), microRNAs (miRNAs) and Piwi-interacting RNAs (piRNAs). In addition, we briefly review the relevance of small and long non-coding RNAs to human physiology and pathology and their potential to be exploited as therapeutic agents.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "23741748",
+      "title": "piRNA pathway and the potential processing site, the nuage, in the Drosophila germline.",
+      "authors": [
+        "Jun Wei Pek",
+        "Veena S Patil",
+        "Toshie Kai"
+      ],
+      "year": "2012",
+      "journal": "Development, growth & differentiation",
+      "doi": "10.1111/j.1440-169x.2011.01316.x",
+      "doi_link": "https://doi.org/10.1111/j.1440-169x.2011.01316.x",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23741748",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22piRNA%20pathway%20and%20the%20potential%20processing%20site%2C%20the%20nuage%2C%20in%20the%20Drosophila%20germline%22",
+      "citations": {
+        "crossref": 49
+      },
+      "abstract": "The accurate transfer of genetic material in germline cells during the formation of gametes is important for the continuity of the species. However, animal germline cells face challenges from transposons, which seek to spread themselves in the genome. This review focuses on studies in Drosophila melanogaster on how the genome protects itself from such a mutational burden via a class of gonad-specific small interfering RNAs, known as piRNAs (Piwi-interacting RNAs). In addition to silencing transposons, piRNAs also regulate other processes, such as chromosome segregation, mRNA degradation and germline differentiation. Recent studies revealed two modes of piRNA processing – primary processing and secondary processing (also known as ping-pong amplification). The primary processing pathway functions in both germline and somatic cells in the Drosophila ovaries by processing precursor piRNAs into 23–29 nt piRNAs. In contrast, the secondary processing pathway functions only in the germline cells where piRNAs are amplified in a feed-forward loop and require the Piwi-family proteins Aubergine and Argonaute3. Aubergine and Argonaute3 localize to a unique structure found in animal germline cells, the nuage, which has been proposed to function as a compartmentalized site for the ping-pong cycle. The nuage and the localized proteins are well-conserved, implying the importance of the piRNA amplification loop in animal germline cells. Nuage components include various types of proteins that are known to interact both physically and genetically, and therefore appear to be assembled in a sequential order to exert their function, resulting in a macromolecular RNA-protein complex dedicated to the silencing of transposons.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "20362446",
+      "title": "Repression of retroelements in Drosophila germline via piRNA pathway by the Tudor domain protein Tejas.",
+      "authors": [
+        "Veena S Patil",
+        "Toshie Kai"
+      ],
+      "year": "2010",
+      "journal": "Current biology : CB",
+      "doi": "10.1016/j.cub.2010.02.046",
+      "doi_link": "https://doi.org/10.1016/j.cub.2010.02.046",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20362446",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Repression%20of%20retroelements%20in%20Drosophila%20germline%20via%20piRNA%20pathway%20by%20the%20Tudor%20domain%20protein%20Tejas%22",
+      "citations": {
+        "crossref": 163
+      },
+      "abstract": "The Piwi-interacting RNAs (piRNAs) have been shown to safeguard the animal germline genome against deleterious retroelements [1-9]. Many factors involved in the production of piRNAs localize to nuage, a unique perinuclear structure in animal germline cells [10], suggesting that nuage may function as a site for processing of germline piRNAs [1, 3-6, 11-14]. Here we report a conserved yet uncharacterized component of the germline piRNA pathway, Tejas (Tej), which localizes to nuage. tej is required for the repression of some retroelements and for the production of sufficient germline piRNAs. The localization of Tej to nuage depends on vasa (vas) [15] and spindle-E (spn-E) [1, 16, 17] while it regulates the localization of Spn-E, Aubergine (Aub) [3, 4, 14], Argonaute3 (Ago3) [5], Krimper (Krimp) [13], and Maelstrom (Mael) [18] to nuage. Aub, Vas, and Spn-E physically interact with Tej through the N terminus containing the conserved tejas domain, which is necessary and sufficient for its germline function. Aub and Spn-E also bind to the tudor domain at the C terminus. Our data suggest that Tej contributes to the formation of a macromolecular complex at perinuclear region and engages it in the production of germline piRNAs.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 18,
+    "publications_by_year": {
+      "2025": 1,
+      "2024": 2,
+      "2023": 1,
+      "2022": 2,
+      "2021": 2,
+      "2019": 1,
+      "2018": 1,
+      "2017": 1,
+      "2016": 1,
+      "2014": 4,
+      "2012": 1,
+      "2010": 1
+    },
+    "top_journals": [
+      "Nanoscale",
+      "Immunology",
+      "Cell stem cell",
+      "Journal of controlled release : official journal of the Controlled Release Society",
+      "Science advances"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 110,
+      "frequent_collaborators": [
+        "Veena S Patil",
+        "Raunak Kar",
+        "Devashish Mehta",
+        "Avinash Bajaj",
+        "Kajal Rana",
+        "Dolly Jain",
+        "Ujjaini Dasgupta",
+        "Tariq M Rana"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "27162029",
+        "title": "Zika Virus Depletes Neural Progenitors in Human Cerebral Organoids through Activation of the Innate Immune Receptor TLR3.",
+        "citations": 620,
+        "year": "2016"
+      },
+      {
+        "publication_id": "24371310",
+        "title": "The long noncoding RNA THRIL regulates TNFα expression through its interaction with hnRNPL.",
+        "citations": 549,
+        "year": "2014"
+      },
+      {
+        "publication_id": "29133794",
+        "title": "Unique phenotypes and clonal expansions of human CD4 effector memory T cells re-expressing CD45RA.",
+        "citations": 229,
+        "year": "2017"
+      }
+    ]
+  }
+}

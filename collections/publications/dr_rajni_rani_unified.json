@@ -1,0 +1,828 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Rajni Rani",
+    "email": "rajni@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/former-faculty/dr-rajni-rani",
+    "research_domain": "Former",
+    "faculty_status": "former",
+    "search_date": "2025-07-01T14:34:28.520763",
+    "total_publications": 26,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Rajni Rani, former faculty in Former at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "39645271",
+      "title": "PreVenTB trial: protocol for evaluation of efficacy and safety of two vaccines VPM1002 and Immuvac (Mw) in preventing tuberculosis (TB) in healthy household contacts of newly diagnosed sputum smear-positive pulmonary TB patients: phase III, randomised, double-blind, three-arm placebo-controlled trial.",
+      "authors": [
+        "Manjula Singh",
+        "Sanjay Mehendale",
+        "Randeep Guleria",
+        "Rohit Sarin",
+        "Srikanth Tripathy",
+        "Raman R Gangakhedkar",
+        "Kiran Katoch",
+        "Ravindra Mohan Pandey",
+        "Samiran Panda",
+        "Sanghamitra Pati",
+        "Prasanta Raghab Mohapatra",
+        "Sindhu Joshi",
+        "Somashekar Narasimhaiah",
+        "Parul Kodan",
+        "Sangeeta Bhaskar",
+        "Rajni Rani",
+        "Abdul Mabood Khan",
+        "Soumya Swaminathan",
+        "PreVenTB Trial Team"
+      ],
+      "year": "2024",
+      "journal": "BMJ open",
+      "doi": "10.1136/bmjopen-2023-082916",
+      "doi_link": "https://doi.org/10.1136/bmjopen-2023-082916",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39645271",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22PreVenTB%20trial%3A%20protocol%20for%20evaluation%20of%20efficacy%20and%20safety%20of%20two%20vaccines%20VPM1002%20and%20Immuvac%20%28Mw%29%20in%20preventing%20tuberculosis%20%28TB%29%20in%20healthy%20household%20contacts%20of%20newly%20diagnosed%20sputum%20smear-positive%20pulmonary%20TB%20patients%3A%20phase%20III%2C%20randomised%2C%20double-blind%2C%20three-arm%20placebo-controlled%20trial%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "INTRODUCTION: Tuberculosis (TB) continues to be one of the deadliest infectious diseases over the centuries, killing more people worldwide than any other single infectious disease. There is an urgent need for additional strategies which can expedite efforts to combat TB including a preventive vaccine. In this endeavour, we have developed a protocol for a multisite, double-blind, placebo-controlled clinical trial in India that aims to evaluate the efficacy and safety of two TB vaccines; namely, VPM1002 and Immuvac (M.w) (Mycobacterium Indicus Pranii) (MIP) among healthy household contacts (HHCs) of sputum smear-positive pulmonary TB (PTB) patients. METHODS AND ANALYSIS: In the three-arm randomised double-blind placebo-controlled trial study protocol, a total of 12 000 HHCs (aged 6-99 years) of sputum smear-positive PTB patients will be randomised to receive either of the two vaccine candidates VPM1002 and MIP or placebo. The primary efficacy endpoint is the prevention of microbiologically confirmed TB. Secondary endpoints will include (1) prevention against Latent TB infection, (2) incidence of adverse events and serious adverse events in study participants, (3) efficacy of vaccine in prevention of PTB/extra PTB in different age groups (6-18 years, 19-35 years, 36-60 years and above 60 years) and (4) immunogenicity of VPM1002 and MIP at month 2 and month 6 after first vaccination in terms of flow cytometric analysis of M.Tb specific CD4+ and CD8+ T cells secreting cytokines and Luminex assays for the presence of different cytokines in the sera and supernatants of peripheral blood mononuclear cells cultures stimulated with whole cell lysates of M.Tb and subsequently similar analysis for the cases who develop TB postvaccination during the follow-up period. ETHICS AND DISSEMINATION: Ethics committees' approvals have been granted by the Institutional Human Ethics Committees of all participating centres in this study and the names of the ethics committees and approvals are as follows: (1) National Institute for Research in Tuberculosis (NIRT)-Chennai (including subsites): ECR/135/Inst/TN/2013/RR-19, Approval No. 390/NIRT-Institutional Ethics Committee (IEC)/2018 dated 5 December 2018 (NIRT-Madurai-ECR/1365/Inst/TN/2020; approval dated 8 June 2020; NIRT, Vellore: ECR/1215/Inst/TN/2019; approval dated 26 September 2020); (2) All India Institute of Medical Sciences (AIIMS), Delhi (including subsites)-Institute Ethics Committee, ECR/547/Inst/DL/2014/RR-17 ECR/538/Inst/DL/2014/RR-20; approval No.IEC-385/06-07-2018, approval OP-28/05.04.2019 and SFH- ECR/593/Inst/DL/2014/RR-20 IEC/VMMC/SJH/project/2019-05/25 ; 23 May 2019; (3) National Institute of Tuberculosis and Respiratory Diseases (NITRD), Delhi: ECR/315/Inst/DL/2013/RR-19; approval IEC-No-NITRD/EC/2019/9004; 8 January 2019; (4) Pune-National AIDS Research Institute (NARI) and subsite-ECR/23/Inst/MH/2013/RR-19; IEC-NARI/EC/approval/2018/196; 29 May 2018; (5) Regional Medical Research Centre-Bhubaneshwar-ECR/911/Inst/OR-2017/RR-21; approval, dated 25 April 2018; Subsites- AIIMS, Bhubaneshwar ECR/534/Inst/OD/2014/RR-17 and 20 approval No. T/EMF/Pulm. Med/19/01 dated 13 May 2019; SCB, Cuttack No. No.ECR/84/Inst/OR/2013/RR-20; approval no.186 dated 7 February 2020; (6) NTI-Bengaluru: Ethics Committee-No-ECR/1819/Inst/KA/2019; approval No NTI-IEC/1.2019/principal investigator, dated 31 January 2019; (7) BMMRC, Hyderabad- ECR/450/Inst/AP/2013/RR-16 approval No. 779/BMMRC/2018/IEC, dated 11 June 2018 (Subsite Share India- Mediciti Ethics Committee-ECR/283/Inst/AP/2013/RR-20; Approval no. EC/11/VII/2K20(1) dated 11 July 2020) and (8) SJMC-Bengaluru: ECR/238/Inst/KA/2013/RR-19; approval IEC/1/491/2020; 7 August 2020.The trial findings will be published in accordance with the Consolidated Standards of Reporting Trials guidance. The results of this clinical trial will be presented at scientific conferences and disseminated through publications in peer-reviewed journals, conference presentations and shared with Ministry of Health and Family Welfare, policy-makers and other stakeholders. TRIAL REGISTRATION NUMBER: CTRI/2019/01/017026.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "36535361",
+      "title": "Whole-Exome Sequencing of Vitiligo Lesions Indicates Lower Burden of Somatic Variations: Implications in Risk for Nonmelanoma Skin Cancers.",
+      "authors": [
+        "Iti Gupta",
+        "Shambhavi Shankrit",
+        "Kiran Narta",
+        "Madeeha Ghazi",
+        "Ritika Grover",
+        "Rajesh Pandey",
+        "Hemanta Kumar Kar",
+        "Shruti M Menon",
+        "Aayush Gupta",
+        "Vamsi K Yenamandra",
+        "Archana Singh",
+        "Mitali Mukerji",
+        "Arijit Mukhopadhyay",
+        "Rajni Rani",
+        "Rajesh S Gokhale",
+        "Debasis Dash",
+        "Vivek T Natarajan"
+      ],
+      "year": "2023",
+      "journal": "The Journal of investigative dermatology",
+      "doi": "10.1016/j.jid.2022.11.018",
+      "doi_link": "https://doi.org/10.1016/j.jid.2022.11.018",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36535361",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Whole-Exome%20Sequencing%20of%20Vitiligo%20Lesions%20Indicates%20Lower%20Burden%20of%20Somatic%20Variations%3A%20Implications%20in%20Risk%20for%20Nonmelanoma%20Skin%20Cancers%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "34463124",
+      "title": "Re: \"Letter to the Editor: Repurposing of an Antisepsis Drug in COVID-19 Patients,\" by Kumar et al.",
+      "authors": [
+        "Rajni Rani"
+      ],
+      "year": "2021",
+      "journal": "Assay and drug development technologies",
+      "doi": "10.1089/adt.2020.1002",
+      "doi_link": "https://doi.org/10.1089/adt.2020.1002",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34463124",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Re%3A%20%22Letter%20to%20the%20Editor%3A%20Repurposing%20of%20an%20Antisepsis%20Drug%20in%20COVID-19%20Patients%2C%22%20by%20Kumar%20et%20al%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "32015404",
+      "title": "Author Correction: Micro RNAs upregulated in Vitiligo skin play an important role in its aetiopathogenesis by altering TRP1 expression and keratinocyte-melanocytes cross-talk.",
+      "authors": [
+        "Utpreksha Vaish",
+        "Avinash A Kumar",
+        "Swati Varshney",
+        "Shreya Ghosh",
+        "Shantanu Sengupta",
+        "Chandni Sood",
+        "Hemanta K Kar",
+        "Pankaj Sharma",
+        "Vivek T Natarajan",
+        "Rajesh S Gokhale",
+        "Rajni Rani"
+      ],
+      "year": "2020",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-020-58949-w",
+      "doi_link": "https://doi.org/10.1038/s41598-020-58949-w",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32015404",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Author%20Correction%3A%20Micro%20RNAs%20upregulated%20in%20Vitiligo%20skin%20play%20an%20important%20role%20in%20its%20aetiopathogenesis%20by%20altering%20TRP1%20expression%20and%20keratinocyte-melanocytes%20cross-talk%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "An amendment to this paper has been published and can be accessed via a link at the top of the paper.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "31300697",
+      "title": "Micro RNAs upregulated in Vitiligo skin play an important role in its aetiopathogenesis by altering TRP1 expression and keratinocyte-melanocytes cross-talk.",
+      "authors": [
+        "Utpreksha Vaish",
+        "Avinash A Kumar",
+        "Swati Varshney",
+        "Shreya Ghosh",
+        "Shantanu Sengupta",
+        "Chandni Sood",
+        "Hemanta K Kar",
+        "Pankaj Sharma",
+        "Vivek T Natarajan",
+        "Rajesh S Gokhale",
+        "Rajni Rani"
+      ],
+      "year": "2019",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-019-46529-6",
+      "doi_link": "https://doi.org/10.1038/s41598-019-46529-6",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31300697",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Micro%20RNAs%20upregulated%20in%20Vitiligo%20skin%20play%20an%20important%20role%20in%20its%20aetiopathogenesis%20by%20altering%20TRP1%20expression%20and%20keratinocyte-melanocytes%20cross-talk%22",
+      "citations": {
+        "semantic_scholar": 36
+      },
+      "abstract": "Translation of genes is regulated by many factors including microRNAs (miRNAs). miRNA profiling of lesional and non-lesional epidermal RNA from 18 vitiligo patients revealed significant upregulation of 29 miRNAs in the lesional epidermis, of which 6 miRNAs were transfected in normal human epidermal keratinocytes (NHEKs) to study their downstream effects using quantitative proteomics. Many proteins involved in oxidative stress, Vesicle trafficking, Cellular apoptosis, Mitochondrial proteins and Keratins were regulated after miRNA transfections in the keratinocytes. However, tyrosinase related protein-1 (TRP1/TYRP1), a melanogenesis protein, was consistently downregulated in NHEKs by all the six miRNAs tested, which was quite intriguing. TRP1 was also downregulated in lesional epidermis compared with non-lesional epidermis. Since melanocytes synthesize and transfer melanosomes to the surrounding keratinocytes, we hypothesized that downregulation of TRP1 in NHEKs may have a role in melanosome transfer, which was confirmed by our co-culture experiments. Downregulation of TRP1 in keratinocytes negatively affected the melanosome transfer from melanocytes to keratinocytes resulting in melanin accumulation which may be leading to melanin induced cytotoxicity in melanocytes. Regulation of key processes involved in aetiopathogenesis of vitiligo along with TRP1 suggests that miRNAs act in an integrated manner which may be detrimental for the loss of melanocytes in vitiligo.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "28852211",
+      "title": "Mapping architectural and transcriptional alterations in non-lesional and lesional epidermis in vitiligo.",
+      "authors": [
+        "Archana Singh",
+        "Vishvabandhu Gotherwal",
+        "Päivi Junni",
+        "Vinaya Vijayan",
+        "Manisha Tiwari",
+        "Parul Ganju",
+        "Avinash Kumar",
+        "Pankaj Sharma",
+        "Tanveer Fatima",
+        "Aayush Gupta",
+        "Ananthaprasad Holla",
+        "Hemanta K Kar",
+        "Sangeeta Khanna",
+        "Lipi Thukral",
+        "Garima Malik",
+        "Krishnamurthy Natarajan",
+        "Chetan J Gadgil",
+        "Riitta Lahesmaa",
+        "Vivek T Natarajan",
+        "Rajni Rani",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2017",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-017-10253-w",
+      "doi_link": "https://doi.org/10.1038/s41598-017-10253-w",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28852211",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mapping%20architectural%20and%20transcriptional%20alterations%20in%20non-lesional%20and%20lesional%20epidermis%20in%20vitiligo%22",
+      "citations": {
+        "semantic_scholar": 42
+      },
+      "abstract": "In vitiligo, chronic loss of melanocytes and consequent absence of melanin from the epidermis presents a challenge for long-term tissue maintenance. The stable vitiligo patches are known to attain an irreversible depigmented state. However, the molecular and cellular processes resulting in this remodeled tissue homeostasis is unclear. To investigate the complex interplay of inductive signals and cell intrinsic factors that support the new acquired state, we compared the matched lesional and non-lesional epidermis obtained from stable non-segmental vitiligo subjects. Hierarchical clustering of genome-wide expression of transcripts surprisingly segregated lesional and non-lesional samples in two distinct clades, despite the apparent heterogeneity in the lesions of different vitiligo subjects. Pathway enrichment showed the expected downregulation of melanogenic pathway and a significant downregulation of cornification and keratinocyte differentiation processes. These perturbations could indeed be recapitulated in the lesional epidermal tissue, including blunting of rete-ridges, thickening of stratum corneum and increase in the size of corneocytes. In addition, we identify marked increase in the putrescine levels due to the elevated expression of spermine/spermidine acetyl transferase. Our study provides insights into the intrinsic self-renewing ability of damaged lesional tissue to restore epidermal functionality in vitiligo.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "28701182",
+      "title": "Do we really need to differentiate mesenchymal stem cells into insulin-producing cells for attenuation of the autoimmune responses in type 1 diabetes: immunoprophylactic effects of precursors to insulin-producing cells.",
+      "authors": [
+        "Anshu Sharma",
+        "Rajni Rani"
+      ],
+      "year": "2017",
+      "journal": "Stem cell research & therapy",
+      "doi": "10.1186/s13287-017-0615-1",
+      "doi_link": "https://doi.org/10.1186/s13287-017-0615-1",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28701182",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Do%20we%20really%20need%20to%20differentiate%20mesenchymal%20stem%20cells%20into%20insulin-producing%20cells%20for%20attenuation%20of%20the%20autoimmune%20responses%20in%20type%201%20diabetes%3A%20immunoprophylactic%20effects%20of%20precursors%20to%20insulin-producing%20cells%22",
+      "citations": {
+        "crossref": 8
+      },
+      "abstract": "BACKGROUND: Type 1 diabetes (T1D) is a multifactorial autoimmune disorder where pancreatic beta cells are lost before the clinical manifestations of the disease. Administration of mesenchymal stem cells (MSCs) or MSCs differentiated into insulin-producing cells (IPCs) have yielded limited success when used therapeutically. We have evaluated the immunoprophylactic potentials of precursors to insulin-producing cells (pIPCs) and IPCs in nonobese diabetic (NOD) mice to ask a basic question: do we need to differentiate MSCs into IPCs or will pIPCs suffice to attenuate autoimmune responses in T1D? METHODS: Bone marrow-derived MSCs from Balb/c mice were characterized following the International Society for Cellular Therapy (ISCT) guidelines. MSCs cultured in high-glucose media for 11 to 13 passages were characterized for the expression of pancreatic lineage genes using real-time polymerase chain reaction. Expression of the PDX1 gene in pIPCs was assessed using Western blot and fluorescence-activated cell sorting (FACS). Triple-positive MSCs were differentiated into IPCs using a three-step protocol after sorting them for cell surface markers, i.e. CD29, CD44, and SCA-1. Nonobese diabetic mice were administered pIPCs, IPCs, or phosphate-buffered saline (PBS) into the tail vein at weeks 9 or 10 and followed-up for 29-30 weeks for fasting blood glucose levels. Two consecutive blood sugar levels of more than 250 mg/dl were considered diabetic. RESULTS: MSCs grown in high-glucose media for 11 to 13 passages expressed genes of the pancreatic lineage such as PDX1, beta2, neurogenin, PAX4, Insulin, and glucagon. Furthermore, Western blot and FACS analysis for PDX-1, a transcription factor necessary for beta cell maturation, confirmed that these cells were precursors of insulin-producing cells (pIPCs). NOD mice administered with pIPCs were better protected from developing diabetes with a protective efficacy of 78.4% (p < 0.009); however, administration of IPCs gave protective efficacy of 55% at the end of 28-30 weeks. CONCLUSIONS: Precursors to insulin-producing cells seem to have better potential to arrest autoimmune response in type 1 diabetes when administered before the onset of the disease in NOD mice. When translated to humans, autologous mesenchymal stem cells grown in high-glucose media for 10 to 13 passages may have beneficial effects in individuals at high risk of developing type 1 diabetes.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "28611374",
+      "title": "Efficacy and Safety of Mycobacterium indicus pranii as an adjunct therapy in Category II pulmonary tuberculosis in a randomized trial.",
+      "authors": [
+        "Surendra K Sharma",
+        "Kiran Katoch",
+        "Rohit Sarin",
+        "Raman Balambal",
+        "Nirmal Kumar Jain",
+        "Naresh Patel",
+        "Kolluri J R Murthy",
+        "Neeta Singla",
+        "P K Saha",
+        "Ashwani Khanna",
+        "Urvashi Singh",
+        "Sanjiv Kumar",
+        "A Sengupta",
+        "J N Banavaliker",
+        "D S Chauhan",
+        "Shailendra Sachan",
+        "Mohammad Wasim",
+        "Sanjay Tripathi",
+        "Nilesh Dutt",
+        "Nitin Jain",
+        "Nalin Joshi",
+        "Sita Ram Raju Penmesta",
+        "Sumanlatha Gaddam",
+        "Sanjay Gupta",
+        "Bakulesh Khamar",
+        "Bindu Dey",
+        "Dipendra K Mitra",
+        "Sunil K Arora",
+        "Sangeeta Bhaskar",
+        "Rajni Rani"
+      ],
+      "year": "2017",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-017-03514-1",
+      "doi_link": "https://doi.org/10.1038/s41598-017-03514-1",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28611374",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Efficacy%20and%20Safety%20of%20Mycobacterium%20indicus%20pranii%20as%20an%20adjunct%20therapy%20in%20Category%20II%20pulmonary%20tuberculosis%20in%20a%20randomized%20trial%22",
+      "citations": {
+        "semantic_scholar": 95
+      },
+      "abstract": "Prolonged treatment of tuberculosis (TB) often leads to poor compliance, default and relapse, converting primary TB patients into category II TB (Cat IITB) cases, many of whom may convert to multi-drug resistant TB (MDR-TB). We have evaluated the immunotherapeutic potential of Mycobacterium indicus pranii (MIP) as an adjunct to Anti-Tubercular Treatment (ATT) in Cat II pulmonary TB (PTB) patients in a prospective, randomized, double blind, placebo controlled, multicentric clinical trial. 890 sputum smear positive Cat II PTB patients were randomized to receive either six intra-dermal injections (2 + 4) of heat-killed MIP at a dose of 5 × 108 bacilli or placebo once in 2 weeks for 2 months. Sputum smear and culture examinations were performed at different time points. MIP was safe with no adverse effects. While sputum smear conversion did not show any statistically significant difference, significantly higher number of patients (67.1%) in the MIP group achieved sputum culture conversion at fourth week compared to the placebo (57%) group (p = 0.0002), suggesting a role of MIP in clearance of the bacilli. Since live bacteria are the major contributors for sustained incidence of TB, the potential of MIP in clearance of the bacilli has far reaching implications in controlling the spread of the disease.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "28598240",
+      "title": "Classical autophagy proteins LC3B and ATG4B facilitate melanosome movement on cytoskeletal tracks.",
+      "authors": [
+        "Amrita Ramkumar",
+        "Divya Murthy",
+        "Desingu Ayyappa Raja",
+        "Archana Singh",
+        "Anusha Krishnan",
+        "Sangeeta Khanna",
+        "Archana Vats",
+        "Lipi Thukral",
+        "Pushkar Sharma",
+        "Sridhar Sivasubbu",
+        "Rajni Rani",
+        "Vivek T Natarajan",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2017",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2017.1327509",
+      "doi_link": "https://doi.org/10.1080/15548627.2017.1327509",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28598240",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Classical%20autophagy%20proteins%20LC3B%20and%20ATG4B%20facilitate%20melanosome%20movement%20on%20cytoskeletal%20tracks%22",
+      "citations": {
+        "crossref": 52
+      },
+      "abstract": "Macroautophagy/autophagy is a dynamic and inducible catabolic process that responds to a variety of hormonal and environmental cues. Recent studies highlight the interplay of this central pathway in a variety of pathophysiological diseases. Although defective autophagy is implicated in melanocyte proliferation and pigmentary disorders, the mechanistic relationship between the 2 pathways has not been elucidated. In this study, we show that autophagic proteins LC3B and ATG4B mediate melanosome trafficking on cytoskeletal tracks. While studying melanogenesis, we observed spatial segregation of LC3B-labeled melanosomes with preferential absence at the dendritic ends of melanocytes. This LC3B labeling of melanosomes did not impact the steady-state levels of these organelles but instead facilitated their intracellular positioning. Melanosomes primarily traverse on microtubule and actin cytoskeletal tracks and our studies reveal that LC3B enables the assembly of microtubule translocon complex. At the microtubule-actin crossover junction, ATG4B detaches LC3B from melanosomal membranes by enzymatic delipidation. Further, by live-imaging we show that melanosomes transferred to keratinocytes lack melanocyte-specific LC3B. Our study thus elucidates a new role for autophagy proteins in directing melanosome movement and reveal the unconventional use of these proteins in cellular trafficking pathways. Such crosstalk between the central cellular function and housekeeping pathway may be a crucial mechanism to balance melanocyte bioenergetics and homeostasis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "27805845",
+      "title": "Presence of Autoreactive, MHC Class I-Restricted, Calcium-Sensing Receptor (CaSR)-Specific CD8+ T Cells in Idiopathic Hypoparathyroidism.",
+      "authors": [
+        "Samrina Mahtab",
+        "Utpreksha Vaish",
+        "Soma Saha",
+        "Archana Singh",
+        "Ravinder Goswami",
+        "Rajni Rani"
+      ],
+      "year": "2017",
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "doi": "10.1210/jc.2016-3131",
+      "doi_link": "https://doi.org/10.1210/jc.2016-3131",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27805845",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Presence%20of%20Autoreactive%2C%20MHC%20Class%20I-Restricted%2C%20Calcium-Sensing%20Receptor%20%28CaSR%29-Specific%20CD8%2B%20T%20Cells%20in%20Idiopathic%20Hypoparathyroidism%22",
+      "citations": {
+        "crossref": 2
+      },
+      "abstract": "CONTEXT: Major histocompatibility complex class I allele HLA-A*26:01 and human leukocyte antigen (HLA) supertype A01 (STA01) are increased in idiopathic hypoparathyroidism (IH). However, cell-mediated autoimmune responses directed against the calcium-sensing receptor (CaSR) have not been demonstrated. OBJECTIVE: To study CaSR-specific cytotoxic T-cell responses in peripheral blood mononuclear cells of IH patients. DESIGN: Twenty-four peptides of CaSR (RH1 to RH24) were evaluated for their ex vivo potential to stimulate PBMCs from IH patients and controls in interferon (IFN)-γ enzyme-linked immunospot (ELISPOT) assays. SETTING: Tertiary patient care center and National Institute of Immunology, New Delhi, India. PATIENTS AND OTHER PARTICIPANTS: Forty-five patients with IH attending the endocrine clinic of the All India Institute of Medical Sciences and 22 healthy controls. MAIN OUTCOME MEASURES: Major histocompatibility complex class-I restricted, CaSR-specific cytotoxic CD8+ T-cell responses evaluated by IFN-γ ELISPOT assay. RESULTS: Of IH patients, 82.2% showed IFN-γ-secreting cells when stimulated ex-vivo with CaSR peptides. Peptides RH7, RH9, and RH16 elicited HLA supertype A01-restricted responses in IH. RH8, RH14, RH15, RH20, and RH21 peptides induced significantly higher responses in STA01+ IH patients compared with healthy controls irrespective of their supertype A01 status. CONCLUSIONS: Our ex vivo IFN-γ ELISPOT assays demonstrate the presence of CaSR-specific memory CD8+ T cells in the peripheral circulation of patients with IH, suggesting the role of cell-mediated autoimmune responses in the etiopathogenesis of IH.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "26843486",
+      "title": "The Secreted Protein Rv1860 of Mycobacterium tuberculosis Stimulates Human Polyfunctional CD8+ T Cells.",
+      "authors": [
+        "Vijaya Satchidanandam",
+        "Naveen Kumar",
+        "Sunetra Biswas",
+        "Rajiv S Jumani",
+        "Chandni Jain",
+        "Rajni Rani",
+        "Bharti Aggarwal",
+        "Jaya Singh",
+        "Mohan Rao Kotnur",
+        "Anand Sridharan"
+      ],
+      "year": "2016",
+      "journal": "Clinical and vaccine immunology : CVI",
+      "doi": "10.1128/CVI.00554-15",
+      "doi_link": "https://doi.org/10.1128/CVI.00554-15",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26843486",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20Secreted%20Protein%20Rv1860%20of%20Mycobacterium%20tuberculosis%20Stimulates%20Human%20Polyfunctional%20CD8%2B%20T%20Cells%22",
+      "citations": {
+        "semantic_scholar": 11
+      },
+      "abstract": "We previously reported that Rv1860 protein from Mycobacterium tuberculosis stimulated CD4(+)and CD8(+)T cells secreting gamma interferon (IFN-γ) in healthy purified protein derivative (PPD)-positive individuals and protected guinea pigs immunized with a DNA vaccine and a recombinant poxvirus expressing Rv1860 from a challenge with virulent M. tuberculosis We now show Rv1860-specific polyfunctional T (PFT) cell responses in the blood of healthy latently M. tuberculosis-infected individuals dominated by CD8(+) T cells, using a panel of 32 overlapping peptides spanning the length of Rv1860. Multiple subsets of CD8(+) PFT cells were significantly more numerous in healthy latently infected volunteers (HV) than in tuberculosis (TB) patients (PAT). The responses of peripheral blood mononuclear cells (PBMC) from PAT to the peptides of Rv1860 were dominated by tumor necrosis factor alpha (TNF-α) and interleukin-10 (IL-10) secretions, the former coming predominantly from non-T cell sources. Notably, the pattern of the T cell response to Rv1860 was distinctly different from those of the widely studied M. tuberculosis antigens ESAT-6, CFP-10, Ag85A, and Ag85B, which elicited CD4(+) T cell-dominated responses as previously reported in other cohorts. We further identified a peptide spanning amino acids 21 to 39 of the Rv1860 protein with the potential to distinguish latent TB infection from disease due to its ability to stimulate differential cytokine signatures in HV and PAT. We suggest that a TB vaccine carrying these and other CD8(+) T-cell-stimulating antigens has the potential to prevent progression of latent M. tuberculosis infection to TB disease.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "25950826",
+      "title": "Evaluation of Repigmentation with Cultured Melanocyte Transplantation (CMT) Compared with Non-Cultured Epidermal Cell Transplantation in Vitiligo at 12th Week Reveals Better Repigmentation with CMT.",
+      "authors": [
+        "Gunjan Verma",
+        "Suraj R Varkhande",
+        "Hemanta K Kar",
+        "Rajni Rani"
+      ],
+      "year": "2015",
+      "journal": "The Journal of investigative dermatology",
+      "doi": "10.1038/jid.2015.178",
+      "doi_link": "https://doi.org/10.1038/jid.2015.178",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25950826",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Evaluation%20of%20Repigmentation%20with%20Cultured%20Melanocyte%20Transplantation%20%28CMT%29%20Compared%20with%20Non-Cultured%20Epidermal%20Cell%20Transplantation%20in%20Vitiligo%20at%2012th%20Week%20Reveals%20Better%20Repigmentation%20with%20CMT%22",
+      "citations": {
+        "crossref": 22
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "24474804",
+      "title": "IFN-γ signaling maintains skin pigmentation homeostasis through regulation of melanosome maturation.",
+      "authors": [
+        "Vivek T Natarajan",
+        "Parul Ganju",
+        "Archana Singh",
+        "Vinaya Vijayan",
+        "Kritika Kirty",
+        "Shalini Yadav",
+        "Shraddha Puntambekar",
+        "Sonali Bajaj",
+        "Prachi P Dani",
+        "Hemanta K Kar",
+        "Chetan J Gadgil",
+        "Krishnamurthy Natarajan",
+        "Rajni Rani",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2014",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.1304988111",
+      "doi_link": "https://doi.org/10.1073/pnas.1304988111",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24474804",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22IFN-%CE%B3%20signaling%20maintains%20skin%20pigmentation%20homeostasis%20through%20regulation%20of%20melanosome%20maturation%22",
+      "citations": {
+        "semantic_scholar": 96
+      },
+      "abstract": "Cellular homeostasis is an outcome of complex interacting processes with nonlinear feedbacks that can span distinct spatial and temporal dimensions. Skin tanning is one such dynamic response that maintains genome integrity of epidermal cells. Although pathways underlying hyperpigmentation cascade are recognized, negative feedback regulatory loops that can dampen the activated melanogenesis process are not completely understood. In this study, we delineate a regulatory role of IFN-γ in skin pigmentation biology. We show that IFN-γ signaling impedes maturation of the key organelle melanosome by concerted regulation of several pigmentation genes. Withdrawal of IFN-γ signal spontaneously restores normal cellular programming. This effect in melanocytes is mediated by IFN regulatory factor-1 and is not dependent on the central regulator microphthalmia-associated transcription factor. Chronic IFN-γ signaling shows a clear hypopigmentation phenotype in both mouse and human skin. Interestingly, IFN-γ KO mice display a delayed recovery response to restore basal state of epidermal pigmentation after UV-induced tanning. Together, our studies delineate a new spatiotemporal role of the IFN-γ signaling network in skin pigmentation homeostasis, which could have implications in various cutaneous depigmentary and malignant disorders.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "23446220",
+      "title": "Lsr2 of Mycobacterium leprae and its synthetic peptides elicit restitution of T cell responses in erythema nodosum leprosum and reversal reactions in patients with lepromatous leprosy.",
+      "authors": [
+        "Chaman Saini",
+        "H K Prasad",
+        "Rajni Rani",
+        "A Murtaza",
+        "Namita Misra",
+        "N P Shanker Narayan",
+        "Indira Nath"
+      ],
+      "year": "2013",
+      "journal": "Clinical and vaccine immunology : CVI",
+      "doi": "10.1128/CVI.00762-12",
+      "doi_link": "https://doi.org/10.1128/CVI.00762-12",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23446220",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Lsr2%20of%20Mycobacterium%20leprae%20and%20its%20synthetic%20peptides%20elicit%20restitution%20of%20T%20cell%20responses%20in%20erythema%20nodosum%20leprosum%20and%20reversal%20reactions%20in%20patients%20with%20lepromatous%20leprosy%22",
+      "citations": {
+        "semantic_scholar": 13
+      },
+      "abstract": "The Lsr2 protein of Mycobacterium leprae and its synthetic peptides have been shown to elicit lymphoproliferation and gamma interferon (IFN-γ) release by peripheral blood mononuclear cells (PBMCs) of patients with lepromatous leprosy (M. Chaduvula, A. Murtaza, N. Misra, N. P. Narayan, V. Ramesh, H. K. Prasad, R. Rani, R. K. Chinnadurai, I. Nath, Infect. Immun. 80:742-752, 2012). PBMCs from 16 patients with lepromatous leprosy who were undergoing erythema nodosum leprosum (ENL) (type 2) and 5 patients with reversal reactions (RR) (type 1) were stimulated with M. leprae, recombinant Lsr2, and six end-to-end synthetic peptides (A through F) spanning the Lsr2 sequence. During the reaction all patients with ENL showed lymphoproliferation (stimulation index, >2) in response to peptides A and F, with other peptides eliciting responses in 75 to 88% of the subjects. In PBMC cultures, both lymphoproliferation and IFN-γ release for peptide E were significantly higher than for peptides B and C and recombinant Lsr2 (P < 0.05, Wilcoxon signed-rank test). Five patients with RR also showed enhanced lymphoproliferative responses and IFN-γ release in response to Lsr2, M. leprae, and peptide E. Six months postreaction, 14 patients with ENL continued to exhibit responses to Lsr2 and its peptides, with the highest responses being elicited by peptide E. However, 5 subjects showed no lymphoproliferation and had reduced IFN-γ release in response to Lsr2 peptides (P < 0.001, Kruskal-Wallis test) but responded to recombinant Lsr2. Six patients with ENL had HLA-A*68.01, which the STFPEITHI program showed to have high peptide-binding scores of 20 to 21 for peptides E, B, and C. Eleven patients had HLA-DRB1*1501 and HLA-DRB1*1502, which had high binding scores for peptides C and E. Thus, Lsr2 and its peptides are recognized in leprosy reactions during and well after the subsidence of clinical signs.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "22723329",
+      "title": "Presence of strong association of the major histocompatibility complex (MHC) class I allele HLA-A*26:01 with idiopathic hypoparathyroidism.",
+      "authors": [
+        "Ravinder Goswami",
+        "Archana Singh",
+        "Nandita Gupta",
+        "Indian Genome Variation Consortium",
+        "Rajni Rani"
+      ],
+      "year": "2012",
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "doi": "10.1210/jc.2012-1328",
+      "doi_link": "https://doi.org/10.1210/jc.2012-1328",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22723329",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Presence%20of%20strong%20association%20of%20the%20major%20histocompatibility%20complex%20%28MHC%29%20class%20I%20allele%20HLA-A%2A26%3A01%20with%20idiopathic%20hypoparathyroidism%22",
+      "citations": {
+        "semantic_scholar": 16
+      },
+      "abstract": "CONTEXT: The pathogenesis of isolated hypoparathyroidism, also referred to as idiopathic hypoparathyroidism (IH), is not clear. There is a paucity of information related to the immunogenetic basis of the disease due to its rarity. A recurrent theme of several autoimmune disorders is aberrant antigen presentation. OBJECTIVE: We investigated for the association of alleles of the human leukocyte antigen (HLA) class I and II loci with IH. PATIENTS AND CONTROLS: A total of 134 patients with IH and 902 healthy controls from the same ethnic background participated in the study. RESULTS: There was a significant increase of HLA class I alleles HLA-A*26:01 [P < 1.71 × 10(-34); odds ratio (OR) = 9.29; 95% confidence interval (CI) = 6.08-14.16] and HLA-B*08:01 (P < 8.19 × 10(-6); OR = 2.59; 95% CI = 1.63-4.04) in patients with IH compared to healthy controls. However, the association of A*26:01 was primary because B*08:01 was in linkage disequilibrium with A*26:01. Although the major histocompatibility complex (MHC) is very polymorphic, several alleles of HLA loci share key residues at anchor positions in the peptide binding pockets such that similar peptides may be presented by different MHC molecules encoded by the same locus. These allelic forms with similar anchoring amino acids have been clustered in supertypes. An analysis of HLA-A locus supertypes A01, A02, A03, and A04 revealed that supertype A01 was significantly increased (P < 9.18 × 10(-9); OR = 2.95) in IH compared to controls. However, this increase in the supertype A01 was contributed by A*26:01 because 68.7% of the A01 samples had A*26:01. Other alleles of the supertype did not show any significant differences. CONCLUSION: The strong association of HLA-A*26:01 suggests an important role of MHC class I-mediated presentation of autoantigenic peptides to CD8(+) cytotoxic T cells in the pathogenesis of IH. These data provide evidence for the autoimmune etiology of IH akin to other autoimmune disorders like type 1 diabetes and rheumatoid arthritis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "22144494",
+      "title": "Lsr2 peptides of Mycobacterium leprae show hierarchical responses in lymphoproliferative assays, with selective recognition by patients with anergic lepromatous leprosy.",
+      "authors": [
+        "Mehervani Chaduvula",
+        "A Murtaza",
+        "Namita Misra",
+        "N P Shankar Narayan",
+        "V Ramesh",
+        "H K Prasad",
+        "Rajni Rani",
+        "R K Chinnadurai",
+        "Indira Nath"
+      ],
+      "year": "2012",
+      "journal": "Infection and immunity",
+      "doi": "10.1128/IAI.05384-11",
+      "doi_link": "https://doi.org/10.1128/IAI.05384-11",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22144494",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Lsr2%20peptides%20of%20Mycobacterium%20leprae%20show%20hierarchical%20responses%20in%20lymphoproliferative%20assays%2C%20with%20selective%20recognition%20by%20patients%20with%20anergic%20lepromatous%20leprosy%22",
+      "citations": {
+        "semantic_scholar": 8
+      },
+      "abstract": "Lsr2 protein of Mycobacterium leprae was shown earlier to elicit B and T cell responses in leprosy patients (20, 28). Lymphoproliferation to M. leprae and Lsr2 antigens was observed in >70% of tuberculoid (T) patients and in 16 and 34% of lepromatous (L) patients, respectively. We focused on the M. leprae nonresponders in the lepromatous group using 22 synthetic Lsr2 peptides (end-to-end peptides A to F and overlapping peptides p1 to p16) in in vitro T cell responses. A total of 125 leprosy and 13 tuberculosis patients and 19 healthy controls from the area of endemicity (here, healthy controls, or HC) were investigated. The highest responses were observed (67 to 100%) in HC for all peptides except p1 to p3, and the lowest was observed in tuberculosis patients. Significant differences in lymphoproliferation were observed in T, L, and HC groups (analysis of variance [ANOVA], P = 0.000 to 0.015) for all end-to-end peptides except B and for p5 and p7 to p10. Hierarchical recognition between lepromatous and tuberculoid leprosy was noted for p8 (P < 0.05) and between the HC and L groups for p7 to p10, p15, and p16 (P < 0.005 to P < 0.02). Significant lymphoproliferation was observed to peptides A to F and p1 to p9, p11, p12, p15, p16 (P = 0.000 to 0.001) with 40% responding to peptides C and p16 in L patients. Lepromatous patients also showed significantly higher levels of a gamma interferon (IFN-γ) response to peptide C than to other peptides (P < 0.05). Major histocompatibility complex (MHC) class II bias for peptide recognition was not observed. These studies indicate that Lsr2 has multiple T cell epitopes that induce in vitro T cell responses in the highly infective lepromatous leprosy patients.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "21833019",
+      "title": "HLA alleles and amino-acid signatures of the peptide-binding pockets of HLA molecules in vitiligo.",
+      "authors": [
+        "Archana Singh",
+        "Pankaj Sharma",
+        "Hemanta K Kar",
+        "Vinod K Sharma",
+        "Manoj K Tembhre",
+        "Somesh Gupta",
+        "Naresh C Laddha",
+        "Mitesh Dwivedi",
+        "Rasheedunnisa Begum",
+        "Indian Genome Variation Consortium",
+        "Rajesh S Gokhale",
+        "Rajni Rani"
+      ],
+      "year": "2012",
+      "journal": "The Journal of investigative dermatology",
+      "doi": "10.1038/jid.2011.240",
+      "doi_link": "https://doi.org/10.1038/jid.2011.240",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21833019",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22HLA%20alleles%20and%20amino-acid%20signatures%20of%20the%20peptide-binding%20pockets%20of%20HLA%20molecules%20in%20vitiligo%22",
+      "citations": {
+        "semantic_scholar": 67
+      },
+      "abstract": "Vitiligo is a depigmenting disorder of the skin that is characterized by the loss of functional melanocytes from the lesional sites. Although the exact etiology is not understood, autoimmunity is thought to be a crucial deterministic factor. A recurring theme of several autoimmune disorders is the aberrant presentation of self-antigens to the immune system, which triggers downstream perturbations. Here we examine the role of alleles of HLA class I and class II loci to delineate vitiligo manifestation in two distinct populations. Our studies have identified three specific alleles, HLA-A*33:01, HLA-B*44:03, and HLA-DRB1*07:01, to be significantly increased in vitiligo patients as compared with controls in both the initial study on North Indians (N=1,404) and the replication study in Gujarat (N=355) cases, establishing their positive association with vitiligo. Both generalized and localized vitiligo have the same predisposing major histocompatibility complex alleles, i.e., B*44:03 and DRB1*07:01, in both the populations studied, beside the differences in the frequencies of other alleles, suggesting that localized vitiligo too may be an autoimmune disorder. Significant differences in the amino-acid signatures of the peptide-binding pockets of HLA-A and HLA-B α-chain and HLA-DR β-chain were observed between vitiligo patients and unaffected controls.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "20664557",
+      "title": "Transcriptional upregulation of Nrf2-dependent phase II detoxification genes in the involved epidermis of vitiligo vulgaris.",
+      "authors": [
+        "Vivek T Natarajan",
+        "Archana Singh",
+        "Avinash A Kumar",
+        "Pankaj Sharma",
+        "Hemanta K Kar",
+        "Laurent Marrot",
+        "Jean-Roch Meunier",
+        "Krishnamurthy Natarajan",
+        "Rajni Rani",
+        "Rajesh S Gokhale"
+      ],
+      "year": "2010",
+      "journal": "The Journal of investigative dermatology",
+      "doi": "10.1038/jid.2010.201",
+      "doi_link": "https://doi.org/10.1038/jid.2010.201",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20664557",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Transcriptional%20upregulation%20of%20Nrf2-dependent%20phase%20II%20detoxification%20genes%20in%20the%20involved%20epidermis%20of%20vitiligo%20vulgaris%22",
+      "citations": {
+        "crossref": 54
+      },
+      "abstract": "Oxidative stress is widely believed to be a contributing factor in vitiligo pathogenesis. To explore mechanisms by which epidermis responds to mounting oxidative stress, we investigated the involvement of phase II detoxification genes in vitiligo. Phase II detoxification pathways have recently been identified as being important in the regulation of epidermal skin homeostasis. In this study we show that the key transcription factor nuclear factor E2-related factor 2 (Nrf2) and the downstream genes NAD(P)H:quinone oxidase-1 (NQO-1), γ-glutamyl cystine ligase catalytic subunit (GCLC), and γ-glutamyl cystine ligase modifying subunit (GCLM) are upregulated in the lesional epidermal skin of subjects with vitiligo vulgaris. The differences between lesional and nonlesional skin were further investigated by studying the induced expression of Nrf2-dependent transcripts in skin punch biopsies using curcumin and santalol. Surprisingly, nonlesional skin showed induction of all transcripts while a similar effect was not observed for the skin punches from the lesional skin. The use of curcumin and santalol on epidermal cells showed that keratinocytes were more susceptible to apoptosis, whereas melanocytes induced phase II genes under the same concentrations with negligible apoptosis. Our studies provide new insights into the role of phase II detoxification pathway in maintaining skin homeostasis and sustaining redox balance in vitiligo patients.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "19956544",
+      "title": "Interaction of vitamin D receptor with HLA DRB1 0301 in type 1 diabetes patients from North India.",
+      "authors": [
+        "Neetu Israni",
+        "Ravinder Goswami",
+        "Avinash Kumar",
+        "Rajni Rani"
+      ],
+      "year": "2009",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0008023",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0008023",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19956544",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Interaction%20of%20vitamin%20D%20receptor%20with%20HLA%20DRB1%200301%20in%20type%201%20diabetes%20patients%20from%20North%20India%22",
+      "citations": {
+        "crossref": 49
+      },
+      "abstract": "BACKGROUND: Type 1 diabetes (T1D) is a multifactorial autoimmune disorder where interaction and integration of immune response genes along with environmental factors play a role in autoimmune destruction of the insulin producing Pancreatic Beta cells. METHODOLOGY/PRINCIPAL FINDINGS: We have studied four single nucleotide polymorphisms (FokI site in Exon 2, BsmI and ApaI sites in Intron 8 and TaqI site in exon 9) in the vitamin D receptor (VDR) gene using PCR-RFLP and HLA-DRB1 alleles using PCR and hybridization with sequence specific oligonucleotide probes and studied their interaction using LD based statistics for non-linked loci followed by sequence analysis of the vitamin D response element (VDRE) present in the promoter region of HLA-DRB1 0301. Haplotypes, constructed using SHEsis program for four single nucleotide polymorphisms in the VDR gene, were studied for their interaction with HLA-DRB1 alleles in 233 T1D patients and 191 healthy controls from North India. A significant increase of haplotypes FBAt and fBAT (p<0.02, OR = 1.44 and p<0.002, OR = 3.23 respectively) was observed in the patients. Both the haplotypes FBAt and fBAT were significantly increased in male patients with age at onset less than 18 years; however, fBAT was significantly increased in female patients irrespective of their age at onset. LD based statistics showed significant interaction between the high producer F and T alleles with HLA-DRB1 0301. F and T alleles of VDR have been shown to contribute to VDR mRNA independently. The promoter sequence analysis of HLA-DRB1 0301 showed presence of VDRE involved in higher expression of HLA-DRB1 030, which was confirmed by flow cytometry and real time PCR analysis. CONCLUSIONS/SIGNIFICANCE: These data suggest that the interaction between VDR and HLA alleles is mediated by VDRE present in the promoter region of HLA-DRB1 0301 allele, which may be detrimental for the manifestation of T1D in the absence of 1,25-(OH)(2)D(3) in early childhood due to poor expression of DRB1 0301 in the thymus resulting in autoimmunity.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "19516267",
+      "title": "The role of polymorphic protein tyrosine phosphatase non-receptor type 22 in leprosy.",
+      "authors": [
+        "Rajni Rani",
+        "Anamika Singh",
+        "Neetu Israni",
+        "Archana Singh",
+        "Pankaj Sharma",
+        "Hemant K Kar"
+      ],
+      "year": "2009",
+      "journal": "The Journal of investigative dermatology",
+      "doi": "10.1038/jid.2009.140",
+      "doi_link": "https://doi.org/10.1038/jid.2009.140",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/19516267",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20role%20of%20polymorphic%20protein%20tyrosine%20phosphatase%20non-receptor%20type%2022%20in%20leprosy%22",
+      "citations": {
+        "crossref": 4
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper21",
+      "publication_id": "18996161",
+      "title": "Evaluation of Japanese encephalitis virus DNA vaccine candidates in rhesus monkeys [Macaca mulatta].",
+      "authors": [
+        "Kaushik Bharati",
+        "Rajni Rani",
+        "Sudhanshu Vrati"
+      ],
+      "year": "2009",
+      "journal": "Vaccine",
+      "doi": "10.1016/j.vaccine.2008.10.050",
+      "doi_link": "https://doi.org/10.1016/j.vaccine.2008.10.050",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18996161",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Evaluation%20of%20Japanese%20encephalitis%20virus%20DNA%20vaccine%20candidates%20in%20rhesus%20monkeys%20%5BMacaca%20mulatta%5D%22",
+      "citations": {
+        "semantic_scholar": 18
+      },
+      "abstract": "We have previously described DNA vaccine candidates against Japanese encephalitis virus (JEV) that were immunogenic in mice. Present study was conducted to evaluate their immunogenicity in rhesus monkeys (Macaca mulatta) and compare it with the commercial mouse brain-derived, formalin-inactivated vaccine. Groups of four monkeys were immunized with either pMEa (expressing the anchored form of the envelope protein along with the pre-membrane protein of JEV) or pMEs (expressing the secretory form of the envelope protein along with pre-membrane protein of JEV) by intra-muscular (IM, using needle) or intra-dermal (ID, using gene gun) routes. Following primary immunization with 1mg plasmid DNA given IM, or 5 microg plasmid DNA given ID, the monkeys were boosted after 1 and 2 months with 0.5mg DNA given IM or 5 microg DNA given ID, and observed for a period of 6 months. After the second booster, most of the monkeys sero-converted and developed JEV neutralizing antibodies, albeit of low titer. Importantly however, following a sham challenge with the mouse brain-derived inactivated JEV vaccine given 6 months after immunization, the neutralizing antibody titers rose rapidly indicating a vigorous anamnestic response. Based on the JEV neutralizing antibody response following the vaccination and the extent of anamnestic response generated in the immunized monkeys, plasmid pMEa was superior to pMEs. This study indicates that the JEV candidate DNA vaccine is capable of generating protective levels of JEV neutralizing antibodies in rhesus monkeys and prime the immune system effectively against a subsequent exposure to JEV.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper22",
+      "publication_id": "17604453",
+      "title": "Phenotype frequencies of autosomal minor histocompatibility antigens display significant differences among populations.",
+      "authors": [
+        "Eric Spierings",
+        "Matthijs Hendriks",
+        "Léna Absi",
+        "Angelica Canossi",
+        "Sonal Chhaya",
+        "John Crowley",
+        "Harry Dolstra",
+        "Jean-François Eliaou",
+        "Tom Ellis",
+        "Jürgen Enczmann",
+        "Maria E Fasano",
+        "Thibaut Gervais",
+        "Clara Gorodezky",
+        "Brigitte Kircher",
+        "David Laurin",
+        "Mary S Leffell",
+        "Pascale Loiseau",
+        "Mari Malkki",
+        "Miroslaw Markiewicz",
+        "Miryam Martinetti",
+        "Etsuko Maruya",
+        "Narinder Mehra",
+        "Fatma Oguz",
+        "Machteld Oudshoorn",
+        "Noemi Pereira",
+        "Rajni Rani",
+        "Ruhena Sergeant",
+        "Jackie Thomson",
+        "Thuong Hien Tran",
+        "Hannu Turpeinen",
+        "Kuo-Liang Yang",
+        "Renata Zunec",
+        "Mary Carrington",
+        "Peter de Knijff",
+        "Els Goulmy"
+      ],
+      "year": "2007",
+      "journal": "PLoS genetics",
+      "doi": "10.1371/journal.pgen.0030103",
+      "doi_link": "https://doi.org/10.1371/journal.pgen.0030103",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17604453",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Phenotype%20frequencies%20of%20autosomal%20minor%20histocompatibility%20antigens%20display%20significant%20differences%20among%20populations%22",
+      "citations": {
+        "crossref": 64
+      },
+      "abstract": "Minor histocompatibility (H) antigens are allogeneic target molecules having significant roles in alloimmune responses after human leukocyte antigen-matched solid organ and stem cell transplantation (SCT). Minor H antigens are instrumental in the processes of transplant rejection, graft-versus-host disease, and in the curative graft-versus-tumor effect of SCT. The latter characteristic enabled the current application of selected minor H antigens in clinical immunotherapeutic SCT protocols. No information exists on the global phenotypic distribution of the currently identified minor H antigens. Therefore, an estimation of their overall impact in human leukocyte antigen-matched solid organ and SCT in the major ethnic populations is still lacking. For the first time, a worldwide phenotype frequency analysis of ten autosomal minor H antigens was executed by 31 laboratories and comprised 2,685 randomly selected individuals from six major ethnic populations. Significant differences in minor H antigen frequencies were observed between the ethnic populations, some of which appeared to be geographically correlated.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper23",
+      "publication_id": "17240488",
+      "title": "Decrease in CD4+ T lymphocyte proliferation responses and enhanced CD150 cell expression in health care workers non-responsive to HBV vaccine.",
+      "authors": [
+        "Nirupma Trehan Pati",
+        "Sukriti",
+        "Syed Hissar",
+        "Kamal Agrawal",
+        "Rajni Rani",
+        "Shiv Kumar Sarin"
+      ],
+      "year": "2007",
+      "journal": "Vaccine",
+      "doi": "10.1016/j.vaccine.2006.10.041",
+      "doi_link": "https://doi.org/10.1016/j.vaccine.2006.10.041",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17240488",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Decrease%20in%20CD4%2B%20T%20lymphocyte%20proliferation%20responses%20and%20enhanced%20CD150%20cell%20expression%20in%20health%20care%20workers%20non-responsive%20to%20HBV%20vaccine%22",
+      "citations": {
+        "semantic_scholar": 7
+      },
+      "abstract": "The non-response to hepatitis B vaccine in health care workers (HCWs) is reported to vary between 5 and 40%. The underlying cellular and molecular events for unresponsiveness to HBV vaccine have not yet been characterized at any great extent. In the current study, we examined the CD150 surface expression levels and its association with polyclonally activated and HBV specific stimulated cellular proliferations in responders and non-responders. CD150 was identified as upregulated expression marker with suppressive regulatory cell function on all activated T cells by gene chip analysis. We found the overall weak cellular proliferation in response to specific and non-specific agents in non-responders. This is significantly associated with enhanced surface expression of CD150 in the non-responders. A strong expression of CD150 with weak cellular proliferation could be used as a predictive marker for non-responsiveness.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper24",
+      "publication_id": "16038246",
+      "title": "Immunoprophylactic effects of the anti-leprosy Mw vaccine in household contacts of leprosy patients: clinical field trials with a follow up of 8-10 years.",
+      "authors": [
+        "Pankaj Sharma",
+        "Rama Mukherjee",
+        "G P Talwar",
+        "K G Sarathchandra",
+        "R Walia",
+        "S K Parida",
+        "R M Pandey",
+        "Rajni Rani",
+        "Hemant Kar",
+        "Ashok Mukherjee",
+        "Kiran Katoch",
+        "S K Benara",
+        "Tulsi Singh",
+        "Padam Singh"
+      ],
+      "year": "2005",
+      "journal": "Leprosy review",
+      "doi": null,
+      "doi_link": "",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16038246",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Immunoprophylactic%20effects%20of%20the%20anti-leprosy%20Mw%20vaccine%20in%20household%20contacts%20of%20leprosy%20patients%3A%20clinical%20field%20trials%20with%20a%20follow%20up%20of%208-10%20years%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "We report here a large scale, double blind immunoprophylactic trial of a leprosy vaccine based on Mycobacterium w (Mw) in an endemic area of Kanpur Dehat, Uttar Pradesh, India. A population of 420,823 spread over 272 villages was screened where 1226 multibacillary (MB) and 3757 paucibacillary (PB) cases of leprosy were detected. A total of 29,420 household contacts (HHC) of these patients were screened for evidence of active or inactive leprosy. After exclusion of 1622 contacts for any of the different exclusion criteria, a total of 24,060 HHC could be vaccinated for vaccine or placebo under coding (20,194 administered two doses and 3866 received single dose). The vaccine consisted of 1 x 10(9) heat killed bacilli (Mw) in normal saline for the first dose and half of the first dose, i.e. 5 x 10(8) bacilli for the second dose, given 6 months after the first dose. The placebo consisted of 1/8th dose of the normal dose of tetanous toxoid. Both placebo and vaccine were given under double-blind coding, The contacts were followed up during three surveys at 3, 6 and 9 years after the initial vaccination, for detection of post-vaccination cases (PVCs) and observing any side-effects caused as a result of vaccination. The codes were opened on 24th January 2001, after the analysis of the data following completion of the third and final follow-up survey. When only contacts received the vaccine, Mw vaccine showed a protective efficacy (PE) of 68-6% at the end of first, 59% at the end of the second and 39.3% at the end of the third follow-up survey. When both patients and contacts received the vaccine, the protective efficacy observed was 68%, 60% and 28% at the end of the first, second and third surveys, respectively. When patients, and not the contacts, received the vaccine, a PE of 42.9% in the first, 31% in the second and 3% in the third survey was shown. These results suggest that the vaccination of the contacts is more valuable in achieving the objective of immunoprophylaxis than that of patients, and the vaccine effects are noted maximally in children (as compared to adolescents and adults) who constitute the most responsive group The effect of vaccine is sustained for a period of about 7-8 years, following which there is a need to provide a booster vaccination for the sustained protection.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper25",
+      "publication_id": "15472173",
+      "title": "Parathyroid hormone gene polymorphism and sporadic idiopathic hypoparathyroidism.",
+      "authors": [
+        "Ravinder Goswami",
+        "Trilochan Mohapatra",
+        "Nandita Gupta",
+        "Rajni Rani",
+        "Neeraj Tomar",
+        "Anupam Dikshit",
+        "Ram Kumar Sharma"
+      ],
+      "year": "2004",
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "doi": "10.1210/jc.2004-0273",
+      "doi_link": "https://doi.org/10.1210/jc.2004-0273",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15472173",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Parathyroid%20hormone%20gene%20polymorphism%20and%20sporadic%20idiopathic%20hypoparathyroidism%22",
+      "citations": {
+        "crossref": 41
+      },
+      "abstract": "The pathogenetic mechanisms involved in the development of sporadic idiopathic hypoparathyroidism are currently under investigation. Although autoantibodies against the calcium-sensing receptor (CaSR) have been implicated to play a role, these could be demonstrated in only 49% of a group of 51 patients with sporadic idiopathic hypoparathyroidism that we previously studied. Therefore, we investigated 49 of these patients further, regardless of their antibody status, and looked for mutations in the section of the PTH gene sequence that coded for prepro-PTH as well as the 3'-untranslated region (3'-UTR) of the gene, which is believed to be involved in the stability of its mRNA. We also examined the relationship between the clinical manifestations of the disease and the occurrences of two commonly observed single nucleotide polymorphisms (SNPs) in the PTH gene. In 49 of the patients with idiopathic hypoparathyroidism and in 55 healthy controls, the SNPs were characterized by restriction analysis using DraII and BstBI enzymes. In a subset of these patients, exons 2 and 3 of the PTH gene (n = 37) and its 3'-UTR region (n = 40) were also sequenced. No mutations were observed in the segment of the PTH gene coding for the signal peptide, prohormone, or the 3'-UTR region. However, three well described SNPs were observed: 1) an A-->G substitution in intron 1 in 35.1% of the patients; 2) a G-->A substitution in intron 2, characterized by BstBI, in one or both alleles in 27%; and 3) a C-->A substitution at codon 52 (CGA) of exon 3, characterized by DraII, in one or both alleles in 59.7% of the patients. There was no significant difference in the frequency of occurrence of these SNPs between the patient and the control groups. Furthermore, the mean age at onset of symptoms, body mass index, frequency of cataract, tetany, convulsion, basal ganglia calcification, serum calcium, inorganic phosphorus, and intact PTH were not significantly different between patients with and without the above-described SNPs. Thus, the data from this report demonstrate that in patients with sporadic idiopathic hypoparathyroidism, neither the clinical manifestations nor the biochemical indexes of the disease are related to the occurrence of mutations or SNPs in the PTH gene. Because neither patient nor control samples exhibited any variations in the sequence of their 3'-UTR regions, it is unlikely that mRNA instability is a factor in the pathogenesis of the disease. Additional studies are required to investigate the role of other genes and autoantigens that may be involved in the genesis of idiopathic hypoparathyroidism.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper26",
+      "publication_id": "14713274",
+      "title": "Prevalence of calcium sensing receptor autoantibodies in patients with sporadic idiopathic hypoparathyroidism.",
+      "authors": [
+        "Ravinder Goswami",
+        "Edward M Brown",
+        "Narayana Kochupillai",
+        "Nandita Gupta",
+        "Rajni Rani",
+        "Olga Kifor",
+        "Naibedya Chattopadhyay"
+      ],
+      "year": "2004",
+      "journal": "European journal of endocrinology",
+      "doi": "10.1530/eje.0.1500009",
+      "doi_link": "https://doi.org/10.1530/eje.0.1500009",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/14713274",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Prevalence%20of%20calcium%20sensing%20receptor%20autoantibodies%20in%20patients%20with%20sporadic%20idiopathic%20hypoparathyroidism%22",
+      "citations": {
+        "semantic_scholar": 106
+      },
+      "abstract": "OBJECTIVE: The pathogenesis of sporadic idiopathic hypoparathyroidism is unclear. The calcium sensing receptor (CaSR) plays a pivotal role in extracellular calcium homeostasis and is the candidate autoantigen in hypoparathyroidism associated with autoimmune polyglandular endocrinopathy syndrome. We therefore looked for antibodies (Ab) against the CaSR in patients with sporadic idiopathic hypoparathyroidism and their association, if any, with the major histocompatibility complex (MHC) class II human leukocyte antigen (HLA)-DR haplotypes. METHODS: The subjects included 51 patients with sporadic idiopathic hypoparathyroidism and 45 healthy controls. Investigations included computerised tomography, serum calcium, phosphorus, thyroxine, TSH, cortisol, intact parathyroid hormone (iPTH), ACTH and thyroid peroxidase (TPO) and adrenal antibodies. The CaSRAb were assayed in patients' sera by Western blot. Genotyping of the HLA-DR locus was performed using PCR and sequence-specific oligonucleotide probes. RESULTS: Intracranial calcification and cataract were present in 76.5% and 41.1% of the patients respectively and 62.7% had convulsions. Autoantibodies against the 168 kDa CaSR protein were demonstrated in the serum of 49.0% of the patients and in 13.3% of the controls (P<0.001). Pre-incubating serum samples from the CaSRAb-positive patients with parathyroid membrane produced a 90% decrease in the band intensity. HLA-DRB1*01 and DRB1*09 alleles were significantly associated with idiopathic hypoparathyroidism (relative risk of 7.8, P=0.001). The frequency of HLA-DRB1*09 and DRB1*10 alleles tended to be higher in patients positive for the CaSRAb. There was no significant difference in the frequency of occurrence of convulsions, cataract, intracranial calcification, calcium:phosphorus ratio, and iPTH levels between patients with and without CaSRAb. CONCLUSION: 49.0% of the patients studied had serological evidence of organ-specific autoimmunity against the CaSR protein. The occurrence of CaSRAb and the HLA-DR associations imply an autoimmune component to the disease, but the primary role of the CaSRAb in the pathogenesis of the disease needs to be assessed further.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 26,
+    "publications_by_year": {
+      "2024": 1,
+      "2023": 1,
+      "2021": 1,
+      "2020": 1,
+      "2019": 1,
+      "2017": 5,
+      "2016": 1,
+      "2015": 1,
+      "2014": 1,
+      "2013": 1,
+      "2012": 3,
+      "2010": 1,
+      "2009": 3,
+      "2007": 2,
+      "2005": 1,
+      "2004": 2
+    },
+    "top_journals": [
+      "The Journal of investigative dermatology",
+      "Scientific reports",
+      "The Journal of clinical endocrinology and metabolism",
+      "Clinical and vaccine immunology : CVI",
+      "Vaccine"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 180,
+      "frequent_collaborators": [
+        "Rajni Rani",
+        "Rajesh S Gokhale",
+        "Archana Singh",
+        "Hemanta K Kar",
+        "Pankaj Sharma",
+        "Vivek T Natarajan",
+        "Kiran Katoch",
+        "Avinash A Kumar"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "14713274",
+        "title": "Prevalence of calcium sensing receptor autoantibodies in patients with sporadic idiopathic hypoparathyroidism.",
+        "citations": 106,
+        "year": "2004"
+      },
+      {
+        "publication_id": "24474804",
+        "title": "IFN-γ signaling maintains skin pigmentation homeostasis through regulation of melanosome maturation.",
+        "citations": 96,
+        "year": "2014"
+      },
+      {
+        "publication_id": "28611374",
+        "title": "Efficacy and Safety of Mycobacterium indicus pranii as an adjunct therapy in Category II pulmonary tuberculosis in a randomized trial.",
+        "citations": 95,
+        "year": "2017"
+      }
+    ]
+  }
+}

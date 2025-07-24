@@ -1,0 +1,783 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Sanjeev Das",
+    "email": "sdas@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-sanjeev-das",
+    "research_domain": "Genetics, Cell Signalling & Cancer Biology",
+    "faculty_status": "current",
+    "search_date": "2025-07-01T14:34:28.520763",
+    "total_publications": 32,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Sanjeev Das, current faculty in Genetics, Cell Signalling & Cancer Biology at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "39948413",
+      "title": "Editorial Expression of Concern: p73β-expressing recombinant adenovirus: a potential anticancer agent.",
+      "authors": [
+        "Sanjeev Das",
+        "Srikanth Nama",
+        "Sini Antony",
+        "Kumaravel Somasundaram"
+      ],
+      "year": "2025",
+      "journal": "Cancer gene therapy",
+      "doi": "10.1038/s41417-025-00877-w",
+      "doi_link": "https://doi.org/10.1038/s41417-025-00877-w",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39948413",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Editorial%20Expression%20of%20Concern%3A%20p73%CE%B2-expressing%20recombinant%20adenovirus%3A%20a%20potential%20anticancer%20agent%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "39423262",
+      "title": "Temporal regulation of acetylation status determines PARP1 role in DNA damage response and metabolic homeostasis.",
+      "authors": [
+        "Witty Tyagi",
+        "Sanjeev Das"
+      ],
+      "year": "2024",
+      "journal": "Science advances",
+      "doi": "10.1126/sciadv.ado7720",
+      "doi_link": "https://doi.org/10.1126/sciadv.ado7720",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39423262",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Temporal%20regulation%20of%20acetylation%20status%20determines%20PARP1%20role%20in%20DNA%20damage%20response%20and%20metabolic%20homeostasis%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "Poly(ADP-ribose) polymerase 1 (PARP1) is an abundant nuclear protein involved in DNA repair, chromatin structure, and transcription. However, the regulation of its different functions remains poorly understood. Here, we report the role of PARP1 acetylation status in modulating its DNA repair and transactivation functions. We demonstrate that histone deacetylase 5 (HDAC5) determines PARP1 acetylation at Lys498 and Lys521 sites. HDAC5-mediated deacetylation at Lys498 site regulates PARP1 DNA damage response and facilitates efficient recruitment of DNA repair factors at damaged sites, thereby promoting cell survival. Additionally, HDAC5-mediated deacetylation at Lys521 site promotes PARP1 coactivator function, resulting in induction of proliferative and metabolic genes in an activating transcription factor 4-dependent manner. Thus, PARP1 induces metabolic adaptation to spur malignant phenotype. Our studies in mouse tumor models suggest that pharmacological inhibition of PARP1 enzymatic activity does not block tumor progression robustly as transactivation function remains unperturbed. These findings provide key mechanistic insights into PARP1 regulation and expand its role in tumor development.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "38943821",
+      "title": "CD40 agonist engineered immunosomes modulated tumor microenvironment and showed pro-immunogenic response, reduced toxicity, and tumor free survival in mice bearing glioblastoma.",
+      "authors": [
+        "Vidit Gaur",
+        "Witty Tyagi",
+        "Sanjeev Das",
+        "Surajit Ganguly",
+        "Jayanta Bhattacharyya"
+      ],
+      "year": "2024",
+      "journal": "Biomaterials",
+      "doi": "10.1016/j.biomaterials.2024.122688",
+      "doi_link": "https://doi.org/10.1016/j.biomaterials.2024.122688",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38943821",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22CD40%20agonist%20engineered%20immunosomes%20modulated%20tumor%20microenvironment%20and%20showed%20pro-immunogenic%20response%2C%20reduced%20toxicity%2C%20and%20tumor%20free%20survival%20in%20mice%20bearing%20glioblastoma%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "CD40 agonist antibodies (αCD40) have shown promising anti-tumor response in both preclinical and early clinical studies. However, its systemic administration is associated with immune- and hepato-toxicities which hampers its clinical usage. In addition, αCD40 showed low tumor retention and induced PD-L1 expression which makes tumor microenvironment (TME) immunosuppressive. To overcome these issues, in this study, we have developed a multifunctional Immunosome where αCD40 is conjugated on the surface and RRX-001, a small molecule immunomodulator was encapsulated inside it. Immunosomes showed higher tumor accumulation till 96 h of administration and displayed sustained release of αCD40 in vivo. Immunosomes significantly delayed tumor growth and showed tumor free survival in mice bearing GL-261 glioblastoma by increasing the population of CD45+CD8+ T cells, CD45+CD20+ B cells, CD45+CD11c+ DCs and F4/80+CD86+ cells in TME. Immunosome significantly reduced the population of T-regulatory cells, M2 macrophage, and MDSCs and lowered the PD-L1 expression. Moreover, Immunosomes significantly enhanced the levels of Th1 cytokines (IFN-γ, IL-6, IL-2) over Th2 cytokines (IL-4 and IL-10) which supported anti-tumor response. Most interestingly, Immunosomes averted the in vivo toxicities associated with free αCD40 by lowering the levels of alanine aminotransferase (ALT), aspartate aminotransferase (AST), IL-6, IL-1α and reduced the degree of liver damage. In addition, Immunosomes treated long-term surviving mice showed tumor specific immune memory response which prevented tumor growth upon rechallenge. Our results suggested that this novel formulation can be further explored in clinics to improve in vivo anti-tumor efficacy of αCD40 with long-lasting tumor specific immunity while reducing the associated toxicities.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "37870457",
+      "title": "Tumor Antigen-Primed Dendritic Cell-Derived Exosome Synergizes with Colony Stimulating Factor-1 Receptor Inhibitor by Modulating the Tumor Microenvironment and Systemic Immunity.",
+      "authors": [
+        "Anjali Barnwal",
+        "Vidit Gaur",
+        "Anindita Sengupta",
+        "Witty Tyagi",
+        "Sanjeev Das",
+        "Jayanta Bhattacharyya"
+      ],
+      "year": "2023",
+      "journal": "ACS biomaterials science & engineering",
+      "doi": "10.1021/acsbiomaterials.3c00469",
+      "doi_link": "https://doi.org/10.1021/acsbiomaterials.3c00469",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37870457",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Tumor%20Antigen-Primed%20Dendritic%20Cell-Derived%20Exosome%20Synergizes%20with%20Colony%20Stimulating%20Factor-1%20Receptor%20Inhibitor%20by%20Modulating%20the%20Tumor%20Microenvironment%20and%20Systemic%20Immunity%22",
+      "citations": {
+        "semantic_scholar": 13
+      },
+      "abstract": "Dendritic cell-derived exosomes (Dex) have overcome the disadvantages associated with dendritic cell (DC) vaccines, such as cost effectiveness, stability, and sensitivity to the systemic microenvironment. However, in clinical trials, Dex failed to provide satisfactory results because of many reasons, including inadequate maturation of DC as well as the immunosuppressive tumor microenvironment (TME). Hence, culturing DCs in the presence of a maturation cocktail showed an induced expression of MHCs and co-stimulatory molecules. Additionally, targeting the colony stimulating factor-1 (CSF-1)/CSF-1 receptor (CSF-1R) signaling pathway by a CSF-1R inhibitor could deplete tumor-associated macrophages (TAMs) and myeloid-derived suppressor cells (MDSCs) which are responsible for immunosuppressive TME. Hence, in this study, mDexTA were isolated from bone marrow-derived DC cultured in the presence of a novel maturation cocktail and tumor antigen. mDexTA showed elevated expression of major histocompatibility complexes (MHCs) and co-stimulatory molecules and was found capable of activating naïve DC and T cells in vitro more efficiently when compared to imDexTA isolated from immature DCs. In addition, PLX-3397, a small molecule inhibitor of CSF-1/CSF-1R, was used in combination to enhance the antitumor efficacy of mDexTA. PLX-3397 showed dose-dependent toxicity against bone marrow-derived macrophages (BMDMs). In the B16-F10 murine melanoma model, we found that the combination treatment delayed tumor growth and improved survival compared to the mice treated with mDexTA alone by enhancing the CD8 T cells infiltration in TME. mDexTA when combined with PLX-3397 modulated the TME by shifting the Th1/Th2 toward a dominant Th1 population and depleting the TAMs and MDSCs. Interestingly, PLX-3397-induced FoxP3 expression was diminished when it was used in combination with mDexTA. Combination treatment also induced favorable systemic antitumor immunity in the spleen and lymph node. In conclusion, our findings provide insights into the synergy between mDexTA-based immunotherapy and PLX-3397 as the combination overcame the disadvantages associated with monotherapy and offer a therapeutic strategy for the treatment of solid tumors including melanoma.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "37400678",
+      "title": "Ponatinib delays the growth of solid tumours by remodelling immunosuppressive tumour microenvironment through the inhibition of induced PD-L1 expression.",
+      "authors": [
+        "Anjali Barnwal",
+        "Rohini Tamang",
+        "Sanjeev Das",
+        "Jayanta Bhattacharyya"
+      ],
+      "year": "2023",
+      "journal": "British journal of cancer",
+      "doi": "10.1038/s41416-023-02316-9",
+      "doi_link": "https://doi.org/10.1038/s41416-023-02316-9",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37400678",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Ponatinib%20delays%20the%20growth%20of%20solid%20tumours%20by%20remodelling%20immunosuppressive%20tumour%20microenvironment%20through%20the%20inhibition%20of%20induced%20PD-L1%20expression%22",
+      "citations": {
+        "semantic_scholar": 6
+      },
+      "abstract": "BACKGROUND: Therapeutic modalities including chemo, radiation, immunotherapy, etc. induce PD-L1 expression that facilitates the adaptive immune resistance to evade the antitumour immune response. IFN-γ and hypoxia are some of the crucial inducers of PD-L1 expression in tumour and systemic microenvironment which regulate the expression of PD-L1 via various factors including HIF-1α and MAPK signalling. Hence, inhibition of these factors is crucial to regulate the induced PD-L1 expression and to achieve a durable therapeutic outcome by averting the immunosuppression. METHODS: B16-F10 melanoma, 4T1 breast carcinoma, and GL261 glioblastoma murine models were established to investigate the in vivo antitumour efficacy of Ponatinib. Western blot, immunohistochemistry, and ELISA were performed to determine the effect of Ponatinib on the immunomodulation of tumour microenvironment (TME). CTL assay and flow cytometry were such as p-MAPK, p-JNK, p-Erk, and cleaved caspase-3 carried out to evaluate the systemic immunity induced by Ponatinib. RNA sequencing, immunofluorescence and Western blot analysis were used to determine the mechanism of PD-L1 regulation by Ponatinib. Antitumour immunity induced by Ponatinib were compared with Dasatinib. RESULTS: Here, Ponatinib treatment delayed the growth of tumours by inhibiting PD-L1 and modulating TME. It also downregulated the level of PD-L1 downstream signalling molecules. Ponatinib enhanced the CD8 T cell infiltration, regulated Th1/Th2 ratio and depleted tumour associated macrophages (TAMs) in TME. It induced a favourable systemic antitumour immunity by enhancing CD8 T cell population, tumour specific CTL activity, balancing the Th1/Th2 ratio and lowering PD-L1 expression. Ponatinib inhibited FoxP3 expression in tumour and spleen. RNA sequencing data revealed that Ponatinib treatment downregulated the genes related to transcription including HIF-1α. Further mechanistic studies showed that it inhibited the IFN-γ and hypoxia induced PD-L1 expression via regulating HIF-1α. Dasatinib was used as control to prove that Ponatinib induced antitumour immunity is via PD-L1 inhibition mediated T cell activation. CONCLUSIONS: RNA sequencing data along with rigorous in vitro and in vivo studies revealed a novel molecular mechanism by which Ponatinib can inhibit the induced PD-L1 levels via regulating HIF-1α expression which leads to modulation of tumour microenvironment. Thus, our study provides a novel therapeutic insight of Ponatinib for the treatment of solid tumours where it can be used alone or in combination with other drugs which are known to induce PD-L1 expression and generate adaptive resistance.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "37400677",
+      "title": "HDAC5 modulates SATB1 transcriptional activity to promote lung adenocarcinoma.",
+      "authors": [
+        "Shalakha Sharma",
+        "Witty Tyagi",
+        "Rohini Tamang",
+        "Sanjeev Das"
+      ],
+      "year": "2023",
+      "journal": "British journal of cancer",
+      "doi": "10.1038/s41416-023-02341-8",
+      "doi_link": "https://doi.org/10.1038/s41416-023-02341-8",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37400677",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22HDAC5%20modulates%20SATB1%20transcriptional%20activity%20to%20promote%20lung%20adenocarcinoma%22",
+      "citations": {
+        "semantic_scholar": 5
+      },
+      "abstract": "BACKGROUND: Dysregulation of histone deacetylases has been linked to diverse cancers. HDAC5 is a histone deacetylase belonging to Class IIa family of histone deacetylases. Limited substrate repertoire restricts the understanding of molecular mechanisms underlying its role in tumorigenesis. METHODS: We employed a biochemical screen to identify SATB1 as HDAC5-interacting protein. Coimmunoprecipitation and deacetylation assay were performed to validate SATB1 as a HDAC5 substrate. Proliferation, migration assay and xenograft studies were performed to determine the effect of HDAC5-SATB1 interaction on tumorigenesis. RESULTS: Here we report that HDAC5 binds to and deacetylates SATB1 at the conserved lysine 411 residue. Furthermore, dynamic regulation of acetylation at this site is determined by TIP60 acetyltransferase. We also established that HDAC5-mediated deacetylation is critical for SATB1-dependent downregulation of key tumor suppressor genes. Deacetylated SATB1 also represses SDHA-induced epigenetic remodeling and anti-proliferative transcriptional program. Thus, SATB1 spurs malignant phenotype in a HDAC5-dependent manner. CONCLUSIONS: Our study highlights the pivotal role of HDAC5 in tumorigenesis. Our findings provide key insights into molecular mechanisms underlying SATB1 promoted tumor growth and metastasis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "36798474",
+      "title": "Repurposing Ponatinib as a PD-L1 Inhibitor Revealed by Drug Repurposing Screening and Validation by In Vitro and In Vivo Experiments.",
+      "authors": [
+        "Anjali Barnwal",
+        "Sanjeev Das",
+        "Jayanta Bhattacharyya"
+      ],
+      "year": "2023",
+      "journal": "ACS pharmacology & translational science",
+      "doi": "10.1021/acsptsci.2c00214",
+      "doi_link": "https://doi.org/10.1021/acsptsci.2c00214",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36798474",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Repurposing%20Ponatinib%20as%20a%20PD-L1%20Inhibitor%20Revealed%20by%20Drug%20Repurposing%20Screening%20and%20Validation%20by%20In%20Vitro%20and%20In%20Vivo%20Experiments%22",
+      "citations": {
+        "semantic_scholar": 7
+      },
+      "abstract": "Cancer treatment by inhibiting the PD-1/PD-L1 pathway using monoclonal antibodies has made great advances as it showed long-lasting antitumor responses in a wide range of cancers. However, antibodies exhibit several disadvantages, which include low permeability, immune-related adverse effects, complex synthetic procedures, and high treatment costs. Hence, small-molecule inhibitors can be used as alternatives; however, no small molecule with in vivo activity has been reported. In addition, there are many challenges in developing a new drug, including the timeline and escalating cost. Therefore, repurposing an approved drug offers advantages over the development of an entirely new drug. Herein, we identify an FDA-approved small-molecule drug, Ponatinib, as a PD-L1 inhibitor via virtual drug screening of the ZINC database. Ponatinib showed stable binding with PD-L1, with the highest binding energy among all of the screened FDA-approved drugs. The binding of Ponatinib with PD-L1 was supported by a fluorescence quenching assay and immunofluorescence study. Further, we compared the in vivo antitumor efficacy of Ponatinib with a commercially available anti-PD-L1 antibody in the murine melanoma model. Ponatinib was found to be more efficient in delaying tumor growth than the anti-PD-L1 antibody. Furthermore, Ponatinib also reduced the expression of PD-L1 in tumors and increased the T-cell population. Interestingly, splenocytes isolated from Ponatinib-treated mice showed enhanced cytotoxic T-cell (CTL) activity against B16-F10 cells. However, Ponatinib itself did not have any direct toxic effect on cancer cells in vitro. These findings suggest that Ponatinib can be used as a potent small-molecule inhibitor of PD-L1 to overcome the disadvantages associated with antibodies.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "35438276",
+      "title": "Prevalence of Urinary Tract Infection among Hospitalized Covid 19 Patients: A Study in Eastern India.",
+      "authors": [
+        "Sanjeev Das",
+        "Jayashree Konar",
+        "Abhra Banerjee",
+        "Manas Talukdar"
+      ],
+      "year": "2022",
+      "journal": "The Journal of the Association of Physicians of India..",
+      "doi": null,
+      "doi_link": "",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35438276",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Prevalence%20of%20Urinary%20Tract%20Infection%20among%20Hospitalized%20Covid%2019%20Patients%3A%20A%20Study%20in%20Eastern%20India%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "COVID-19 is the disease caused by SARS-CoV-2. The present hospital based study was performed to find out prevalence of Urinary Tract Infection among COVID 19 patients. The cross sectional study was performed with seven hundred fifty three laboratory confirmed COVID 19 cases over six months (from 1st July to 31st December, 2020). Urine samples collected from laboratory confirmed COVID-19 cases in appropriate sterile manner and were screened for pus cells and bacteria. This was followed by plating on Mac-conkey's agar media and 5% Sheep Blood agar media. Inoculated plates were incubated overnight in aerobic condition at 37°C. Discrete colonies were further studied by Gram staining, tests for motility, battery of biochemical tests. Antibiogram was performed by disk diffusion method as per CLSI guidelines. Species confirmation and MIC (Minimum Inhibitory Concentration) values of the tested antibiotics were detected by automation. Results were analyzed according to standard statistical methods. Ninety urine samples were culture positive (11.95%). Escherichia coli was found to be the commonest pathogen, isolated in forty three cases (47.78%) followed by Enterococcus faecalis in twenty nine (32.22%) and Klebsiella pneumoniae subspp. pneumonia in eighteen occasions (20%). Enterococcus faecalis isolates were sensitive to Vancomycin, Linezolid and Nitrofurantoin and nineteen isolates were resistant to fluroquinolones (65.51%). Majority of the Gram Negative isolates were susceptible to nitrofurantoin (80.32%) where as fifteen carbapenemase producers, thirteen AmpC Betalactamase producers and twenty one Extended Spectrum Beta Lactamase (ESBL) producers have been recorded. Constant awareness regarding the antibiotic guidelines for COVID-19 cases is the need of the hour.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "35181820",
+      "title": "Follicle-stimulating hormone-mediated decline in miR-92a-3p expression in pubertal mice Sertoli cells is crucial for germ cell differentiation and fertility.",
+      "authors": [
+        "Alka Gupta",
+        "Amandeep Vats",
+        "Anindita Ghosal",
+        "Kamal Mandal",
+        "Rajesh Sarkar",
+        "Indrashis Bhattacharya",
+        "Sanjeev Das",
+        "Rahul Pal",
+        "Subeer S Majumdar"
+      ],
+      "year": "2022",
+      "journal": "Cellular and molecular life sciences : CMLS",
+      "doi": "10.1007/s00018-022-04174-9",
+      "doi_link": "https://doi.org/10.1007/s00018-022-04174-9",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35181820",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Follicle-stimulating%20hormone-mediated%20decline%20in%20miR-92a-3p%20expression%20in%20pubertal%20mice%20Sertoli%20cells%20is%20crucial%20for%20germ%20cell%20differentiation%20and%20fertility%22",
+      "citations": {
+        "semantic_scholar": 18
+      },
+      "abstract": "Sertoli cells (Sc) are the sole target of follicle-stimulating hormone (FSH) in the testis and attain functional maturation post-birth to significantly augment germ cell (Gc) division and differentiation at puberty. Despite having an operational microRNA (miRNA) machinery, limited information is available on miRNA-mediated regulation of Sc maturation and male fertility. We have shown before that miR-92a-3p levels decline in pubertal rat Sc. In response to FSH treatment, the expressions of FSH Receptor, Claudin11 and Klf4 were found to be elevated in pubertal rat Sc coinciding with our finding of FSH-induced decline in miR-92a-3p levels. To investigate the association of miR-92a-3p and spermatogenesis, we generated transgenic mice where such pubertal decline of miR-92a-3p was prevented by its overexpression in pubertal Sc under proximal Rhox5 promoter, which is known to be activated specifically at puberty, in Sc. Our in vivo observations provided substantial evidence that FSH-induced decline in miR-92a-3p expression during Sc maturation acts as an essential prerequisite for the pubertal onset of spermatogenesis. Elevated expression of miR-92a-3p in post-pubertal testes results into functionally compromised Sc, leading to impairment of the blood-testis barrier formation and apoptosis of pre-meiotic Gc, ultimately culminating into infertility. Collectively, our data suggest that regulation of miR-92a-3p expression is crucial for Sc-mediated induction of active spermatogenesis at puberty and regulation of male fertility.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "35169159",
+      "title": "E2F1-induced lncRNA, EMSLR regulates lncRNA LncPRESS1.",
+      "authors": [
+        "Priyanka Priyanka",
+        "Madhur Sharma",
+        "Sanjeev Das",
+        "Sandeep Saxena"
+      ],
+      "year": "2022",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-022-06154-2",
+      "doi_link": "https://doi.org/10.1038/s41598-022-06154-2",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35169159",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22E2F1-induced%20lncRNA%2C%20EMSLR%20regulates%20lncRNA%20LncPRESS1%22",
+      "citations": {
+        "semantic_scholar": 9
+      },
+      "abstract": "E2F1 induces hundreds of protein-coding genes influencing diverse signaling pathways but much less is known about its non-coding RNA targets. For identifying E2F1-dependent oncogenic long non-coding RNAs (lncRNAs), we carried out genome-wide transcriptome analysis and discovered an lncRNA, EMSLR, which is induced both in lung adenocarcinoma (LUAD) and lung squamous cell carcinoma (LUSC). EMSLR depletion blocks the cells in G1 phase and inhibits the clonogenic ability indicating that it is essential for the tumor-related phenotypes. We discovered that EMSLR represses the promoter activity of another lncRNA, LncPRESS1, which is located 6.9 kb upstream of EMSLR and they display an inverse expression pattern in lung cancer cell lines. Depletion of C-MYC results in downregulation of EMSLR and simultaneous upregulation of EMSLR target LncPRESS1, exemplifying how C-MYC and E2F1 signal transduction pathways control the network of lncRNA genes to modulate cell proliferation and differentiation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "34593639",
+      "title": "PRAMEF2-mediated dynamic regulation of YAP signaling promotes tumorigenesis.",
+      "authors": [
+        "Madhurima Ghosh",
+        "Sanjeev Das"
+      ],
+      "year": "2021",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.2105523118",
+      "doi_link": "https://doi.org/10.1073/pnas.2105523118",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34593639",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22PRAMEF2-mediated%20dynamic%20regulation%20of%20YAP%20signaling%20promotes%20tumorigenesis%22",
+      "citations": {
+        "semantic_scholar": 7
+      },
+      "abstract": "PRAMEF2 is a member of the PRAME multigene family of cancer testis antigens, which serve as prognostic markers for several cancers. However, molecular mechanisms underlying its role in tumorigenesis remain poorly understood. Here, we report that PRAMEF2 is repressed under conditions of altered metabolic homeostasis in a FOXP3-dependent manner. We further demonstrate that PRAMEF2 is a BC-box containing substrate recognition subunit of Cullin 2-based E3 ubiquitin ligase complex. PRAMEF2 mediates polyubiquitylation of LATS1 kinase of the Hippo/YAP pathway, leading to its proteasomal degradation. The site for ubiquitylation was mapped to the conserved Lys860 residue in LATS1. Furthermore, LATS1 degradation promotes enhanced nuclear accumulation of the transcriptional coactivator YAP, resulting in increased expression of proliferative and metastatic genes. Thus, PRAMEF2 promotes malignant phenotype in a YAP-dependent manner. Additionally, elevated PRAMEF2 levels correlate with increased nuclear accumulation of YAP in advanced grades of breast carcinoma. These findings highlight the pivotal role of PRAMEF2 in tumorigenesis and provide mechanistic insight into YAP regulation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "34302808",
+      "title": "The lncRNA HMS recruits RNA-binding protein HuR to stabilize the 3'-UTR of HOXC10 mRNA.",
+      "authors": [
+        "Priyanka Priyanka",
+        "Madhur Sharma",
+        "Sanjeev Das",
+        "Sandeep Saxena"
+      ],
+      "year": "2021",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1016/j.jbc.2021.100997",
+      "doi_link": "https://doi.org/10.1016/j.jbc.2021.100997",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34302808",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20lncRNA%20HMS%20recruits%20RNA-binding%20protein%20HuR%20to%20stabilize%20the%203%27-UTR%20of%20HOXC10%20mRNA%22",
+      "citations": {
+        "semantic_scholar": 28
+      },
+      "abstract": "Long noncoding RNAs (lncRNAs) have been reported to drive key cancer pathways but the functions of majority of lncRNAs are unknown making a case for comprehensive functional evaluation of lncRNAs. With an aim to identify lncRNAs dysregulated in human cancers, we analyzed the cancer patient database of lung adenocarcinoma (LUAD), which revealed an upregulated lncRNA, LINC02381 (renamed HOXC10mRNA stabilizing factor or HMS in this study), whose depletion results in proliferation defects and inhibition of colony formation of human cancer cells. In order to identify the binding targets of HMS, we screened for cis-genes and discovered that HOXC10, an oncogene, is downregulated in the absence of HMS. Depletion of HMS does not affect the HOXC10 promoter activity but inhibits the HOXC10 3'-UTR-linked luciferase reporter activity. Since lncRNAs have been known to associate with RNA-binding proteins (RBPs) to stabilize mRNA transcripts, we screened for different RBPs and discovered that HuR, an ELAV family protein, stabilizes HOXC10 mRNA. Using RNA pull-down and deletion mapping experiments, we show that HuR physically interacts with the cytosine-rich stretch of HMS and HOXC10 3'-UTR to stabilize HOXC10 mRNA. HOXC10 is overexpressed in many human cancers, and our discovery highlights that lncRNA HMS sustains the HOXC10 mRNA levels to maintain the invasive phenotypes of cancer cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "31534141",
+      "title": "Caspase-10 inhibits ATP-citrate lyase-mediated metabolic and epigenetic reprogramming to suppress tumorigenesis.",
+      "authors": [
+        "Rajni Kumari",
+        "Ruhi S Deshmukh",
+        "Sanjeev Das"
+      ],
+      "year": "2019",
+      "journal": "Nature communications",
+      "doi": "10.1038/s41467-019-12194-6",
+      "doi_link": "https://doi.org/10.1038/s41467-019-12194-6",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31534141",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Caspase-10%20inhibits%20ATP-citrate%20lyase-mediated%20metabolic%20and%20epigenetic%20reprogramming%20to%20suppress%20tumorigenesis%22",
+      "citations": {
+        "semantic_scholar": 46
+      },
+      "abstract": "Caspase-10 belongs to the class of initiator caspases and is a close homolog of caspase-8. However, the lack of caspase-10 in mice and limited substrate repertoire restricts the understanding of its physiological functions. Here, we report that ATP-citrate lyase (ACLY) is a caspase-10 substrate. Caspase-10 cleaves ACLY at the conserved Asp1026 site under conditions of altered metabolic homeostasis. Cleavage of ACLY abrogates its enzymatic activity and suppresses the generation of acetyl-CoA, which is critical for lipogenesis and histone acetylation. Thus, caspase-10-mediated ACLY cleavage results in reduced intracellular lipid levels and represses GCN5-mediated histone H3 and H4 acetylation. Furthermore, decline in GCN5 activity alters the epigenetic profile, resulting in downregulation of proliferative and metastatic genes. Thus caspase-10 suppresses ACLY-promoted malignant phenotype. These findings expand the substrate repertoire of caspase-10 and highlight its pivotal role in inhibiting tumorigenesis through metabolic and epigenetic mechanisms.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "30254149",
+      "title": "Cyclin F-Dependent Degradation of RBPJ Inhibits IDH1R132H-Mediated Tumorigenesis.",
+      "authors": [
+        "Ruhi S Deshmukh",
+        "Shalakha Sharma",
+        "Sanjeev Das"
+      ],
+      "year": "2018",
+      "journal": "Cancer research",
+      "doi": "10.1158/0008-5472.CAN-18-1772",
+      "doi_link": "https://doi.org/10.1158/0008-5472.CAN-18-1772",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30254149",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Cyclin%20F-Dependent%20Degradation%20of%20RBPJ%20Inhibits%20IDH1R132H-Mediated%20Tumorigenesis%22",
+      "citations": {
+        "semantic_scholar": 30
+      },
+      "abstract": "Cyclin F is a substrate recognition subunit of Skp1-Cul1-F-box protein (SCF) E3 ubiquitin ligase complex. Although there have been reports describing the role of cyclin F in the genotoxic stress response, its function under conditions of altered metabolic homeostasis remain unexplored. Here we report that cyclin F is induced upon metabolic stress in a FOXO1-dependent manner. Under metabolic stress conditions, cyclin F mediated polyubiquitylation of RBPJ at Lys315, leading to its proteasomal degradation. RBPJ regulated the expression of IDH1, which is often mutated to an oncogenic form IDH1R132H in cancers. Thus, metabolic stress-induced cyclin F attenuated the oncogenic functions of IDH1R132H in an RBPJ-dependent manner. Studies in mouse tumor models indicated that abrogation of cyclin F expression facilitates IDH1R132H-mediated tumorigenesis and metastasis. In addition, increased IDH1R132H levels correlated with reduced cyclin F levels in increasing grades of glioma. These findings highlight a novel aspect of cyclin F functions in inhibiting tumorigenesis and provide mechanistic insights into regulation of IDH1R132H Significance: These findings reveal mechanistic insights into the key role of the cyclin F-RBPJ axis in response to metabolic stress in cancer cells. Cancer Res; 78(22); 6386-98.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "29217762",
+      "title": "SIRT6 Is a Target of Regulation by UBE3A That Contributes to Liver Tumorigenesis in an ANXA2-Dependent Manner.",
+      "authors": [
+        "Saishruti Kohli",
+        "Abhishek Bhardwaj",
+        "Richa Kumari",
+        "Sanjeev Das"
+      ],
+      "year": "2018",
+      "journal": "Cancer research",
+      "doi": "10.1158/0008-5472.CAN-17-1692",
+      "doi_link": "https://doi.org/10.1158/0008-5472.CAN-17-1692",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29217762",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22SIRT6%20Is%20a%20Target%20of%20Regulation%20by%20UBE3A%20That%20Contributes%20to%20Liver%20Tumorigenesis%20in%20an%20ANXA2-Dependent%20Manner%22",
+      "citations": {
+        "crossref": 30
+      },
+      "abstract": "UBE3A is an E3 ubiquitin ligase well known for its role in the proteasomal degradation of p53 in human papillomavirus (HPV)-associated cancers. Here we report that UBE3A ubiquitylates and triggers degradation of the tumor-suppressive sirtuin SIRT6 in hepatocellular carcinoma. UBE3A ubiquitylated the highly conserved Lys160 residue on SIRT6. FOXO1-mediated transcriptional repression of UBE3A was sufficient to stabilize SIRT6 and to epigenetically repress ANXA2, a key mediator of UBE3A oncogenic function. Thus, UBE3A-mediated SIRT6 degradation promoted the proliferative capacity, migration potential, and invasiveness of cells. In mouse models of hepatocellular carcinoma, SIRT6 downregulation and consequent induction of ANXA2 were critical for UBE3A-mediated tumorigenesis. Furthermore, in clinical specimens, increased UBE3A levels correlated with reduced SIRT6 levels and elevated ANXA2 levels in increasing tumor grades. Overall, our findings show how the tumor suppressor SIRT6 is regulated in hepatocellular carcinoma and establish the mechanism underlying UBE3A-mediated tumorigenesis in this disease.Significance: These findings provide mechanistic insights into regulation of the tumor suppressive sirtuin SIRT6 and its implications for the development of hepatocellular carcinoma. Cancer Res; 78(3); 645-58.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "26787900",
+      "title": "SIRT6 deacetylates PKM2 to suppress its nuclear localization and oncogenic functions.",
+      "authors": [
+        "Abhishek Bhardwaj",
+        "Sanjeev Das"
+      ],
+      "year": "2016",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.1520045113",
+      "doi_link": "https://doi.org/10.1073/pnas.1520045113",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26787900",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22SIRT6%20deacetylates%20PKM2%20to%20suppress%20its%20nuclear%20localization%20and%20oncogenic%20functions%22",
+      "citations": {
+        "semantic_scholar": 121
+      },
+      "abstract": "SIRT6 (sirtuin 6) is a member of sirtuin family of deacetylases involved in diverse processes including genome stability, metabolic homeostasis, and tumorigenesis. However, the role of SIRT6 deacetylase activity in its tumor-suppressor functions is not well understood. Here we report that SIRT6 binds to and deacetylates nuclear PKM2 (pyruvate kinase M2) at the lysine 433 residue. PKM2 is a glycolytic enzyme with nonmetabolic nuclear oncogenic functions. SIRT6-mediated deacetylation results in PKM2 nuclear export. We further have identified exportin 4 as the specific transporter mediating PKM2 nuclear export. As a result of SIRT6-mediated deacetylation, PKM2 nuclear protein kinase and transcriptional coactivator functions are abolished. Thus, SIRT6 suppresses PKM2 oncogenic functions, resulting in reduced cell proliferation, migration potential, and invasiveness. Furthermore, studies in mouse tumor models demonstrate that PKM2 deacetylation is integral to SIRT6-mediated tumor suppression and inhibition of metastasis. Additionally, reduced SIRT6 levels correlate with elevated nuclear acetylated PKM2 levels in increasing grades of hepatocellular carcinoma. These findings provide key insights into the pivotal role of deacetylase activity in SIRT6 tumor-suppressor functions.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "27308356",
+      "title": "p53 regulation upon genotoxic stress: intricacies and complexities.",
+      "authors": [
+        "Rajni Kumari",
+        "Saishruti Kohli",
+        "Sanjeev Das"
+      ],
+      "year": "2014",
+      "journal": "Molecular & cellular oncology",
+      "doi": "10.4161/23723548.2014.969653",
+      "doi_link": "https://doi.org/10.4161/23723548.2014.969653",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27308356",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22p53%20regulation%20upon%20genotoxic%20stress%3A%20intricacies%20and%20complexities%22",
+      "citations": {
+        "semantic_scholar": 37
+      },
+      "abstract": "p53, the revered savior of genomic integrity, receives signals from diverse stress sensors and strategizes to maintain cellular homeostasis. However, the predominance of p53 overshadows the fact that this herculean task is no one-man show; rather, there is a huge army of regulators that reign over p53 at various levels to avoid an unnecessary surge in its levels and sculpt it dynamically to favor one cellular outcome over another. This governance starts right at the time of p53 translation, which is gated by proteins that bind to p53 mRNA and keep a stringent check on p53 protein levels. The same effect is also achieved by ubiquitylases and deubiquitylases that fine-tune p53 turnover and miRNAs that modulate p53 levels, adding precision to this entire scheme. In addition, extensive covalent modifications and differential protein interactions allow p53 to trigger a tailor-made response for a given circumstance. To magnify the marvel, these various tiers of regulation operate simultaneously and in various combinations. In this review, we have tried to provide a glimpse into this bewildering labyrinth. We believe that further studies will result in a better understanding of p53 regulation and that new insights will help unravel many aspects of cancer biology.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "24120667",
+      "title": "HDAC5, a key component in temporal regulation of p53-mediated transactivation in response to genotoxic stress.",
+      "authors": [
+        "Nirmalya Sen",
+        "Rajni Kumari",
+        "Manika Indrajit Singh",
+        "Sanjeev Das"
+      ],
+      "year": "2013",
+      "journal": "Molecular cell",
+      "doi": "10.1016/j.molcel.2013.09.003",
+      "doi_link": "https://doi.org/10.1016/j.molcel.2013.09.003",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24120667",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22HDAC5%2C%20a%20key%20component%20in%20temporal%20regulation%20of%20p53-mediated%20transactivation%20in%20response%20to%20genotoxic%20stress%22",
+      "citations": {
+        "crossref": 41
+      },
+      "abstract": "Despite being one of the most well-studied transcription factors, the temporal regulation of p53-mediated transcription is not very well understood. Recent data suggest that target specificity of p53-mediated transactivation is achieved by posttranslational modifications of p53. K120 acetylation is a modification critical for recruitment of p53 to proapoptotic targets. Our data reveal that histone deacetylase 5 (HDAC5) binds to p53 and abrogates K120 acetylation, resulting in preferential recruitment of p53 to proarrest and antioxidant targets at early phases of stress. However, upon prolonged genotoxic stress, HDAC5 undergoes nuclear export. Concomitantly, p53 is acetylated at the K120 residue and selectively transactivates proapoptotic target genes, leading to onset of apoptosis. Furthermore, upon genotoxic stress in mice where HDAC5 expression is downregulated, the onset of apoptosis is accelerated in the highly vulnerable tissues. These findings suggest that HDAC5 is a key determinant of p53-mediated cell fate decisions in response to genotoxic stress.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "23436247",
+      "title": "A portrayal of E3 ubiquitin ligases and deubiquitylases in cancer.",
+      "authors": [
+        "Yatendra Kumar Satija",
+        "Abhishek Bhardwaj",
+        "Sanjeev Das"
+      ],
+      "year": "2013",
+      "journal": "International journal of cancer",
+      "doi": "10.1002/ijc.28129",
+      "doi_link": "https://doi.org/10.1002/ijc.28129",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23436247",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20portrayal%20of%20E3%20ubiquitin%20ligases%20and%20deubiquitylases%20in%20cancer%22",
+      "citations": {
+        "semantic_scholar": 56
+      },
+      "abstract": "E3 ubiquitin ligases and deubiquitylating enzymes (DUBs) are the key components of ubiquitin proteasome system which plays a critical role in cellular protein homeostasis. Any shortcoming in their biological roles can lead to various diseases including cancer. The dynamic interplay between ubiquitylation and deubiquitylation determines the level and activity of several proteins including p53, which is crucial for cellular stress response and tumor suppression pathways. In this review, we describe the different types of E3 ubiquitin ligases including those targeting tumor suppressor p53, SCF ligases and RING type ligases and accentuate on biological functions of few important E3 ligases in the cellular regulatory networks. Tumor suppressor p53 level is tightly regulated by multiple E3 ligases including Mdm2, COP1, Pirh2, etc. SCF ubiquitin ligase complexes are key regulators of cell cycle and signal transduction. BRCA1 and VHL RING type ligases function as tumor suppressors and play an important role in DNA repair and hypoxia response respectively. Further, we discuss the biological consequences of deregulation of the E3 ligases and the implications for cancer development. We also describe deubiquitylases which reverse the process of ubiquitylation and regulate diverse cellular pathways including metabolism, cell cycle control and chromatin remodelling. As the E3 ubiquitin ligases and DUBs work in a substrate specific manner, an improved understanding of them can lead to better therapeutics for cancer.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "22771946",
+      "title": "p53 and metabolism: old player in a new game.",
+      "authors": [
+        "Nirmalya Sen",
+        "Yatendra Kumar Satija",
+        "Sanjeev Das"
+      ],
+      "year": "2012",
+      "journal": "Transcription",
+      "doi": "10.4161/trns.20094",
+      "doi_link": "https://doi.org/10.4161/trns.20094",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22771946",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22p53%20and%20metabolism%3A%20old%20player%20in%20a%20new%20game%22",
+      "citations": {
+        "semantic_scholar": 17
+      },
+      "abstract": "Metabolic reprogramming is an integral part of tumorigenesis. Tumor suppressor p53 is a well studied transcription factor intimately linked with the control of cell cycle progression and apoptosis. Here, we discuss the emerging role of p53 in the transcriptional regulation of metabolism. This activity is a key component of p53 tumor suppression function.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper21",
+      "publication_id": "22099309",
+      "title": "PGC-1α, a key modulator of p53, promotes cell survival upon metabolic stress.",
+      "authors": [
+        "Nirmalya Sen",
+        "Yatendra Kumar Satija",
+        "Sanjeev Das"
+      ],
+      "year": "2011",
+      "journal": "Molecular cell",
+      "doi": "10.1016/j.molcel.2011.08.044",
+      "doi_link": "https://doi.org/10.1016/j.molcel.2011.08.044",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22099309",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22PGC-1%CE%B1%2C%20a%20key%20modulator%20of%20p53%2C%20promotes%20cell%20survival%20upon%20metabolic%20stress%22",
+      "citations": {
+        "semantic_scholar": 163
+      },
+      "abstract": "Metabolic stress results in p53 activation, which can trigger cell-cycle arrest, ROS clearance, or apoptosis. However, what determines the p53-mediated cell fate decision upon metabolic stress is not very well understood. We show here that PGC-1α binds to p53 and modulates its transactivation function, resulting in preferential transactivation of proarrest and metabolic target genes. Thus glucose starvation results in p53-dependent cell-cycle arrest and ROS clearance, but abrogation of PGC-1α expression results in extensive apoptosis. Additionally, prolonged starvation results in PGC-1α degradation concomitant with induction of apoptosis. We have also identified RNF2, a Polycomb group (PcG) protein, as the cognate E3 ubiquitin ligase. Starvation of mice where PGC-1α expression is abrogated results in loss of p53-mediated ROS clearance, enhanced p53-dependent apoptosis, and consequent severe liver atrophy. These findings provide key insights into the role of PGC-1α in regulating p53-mediated cell fate decisions in response to metabolic stress.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper22",
+      "publication_id": "20356677",
+      "title": "Atomic scale investigation on the distribution of boron in medium carbon steels by atom probe tomography and EELS.",
+      "authors": [
+        "Jae Bok Seol",
+        "Gil Ho Gu",
+        "Nam Suk Lim",
+        "Sanjeev Das",
+        "Chan Gyung Park"
+      ],
+      "year": "2010",
+      "journal": "Ultramicroscopy",
+      "doi": "10.1016/j.ultramic.2009.12.006",
+      "doi_link": "https://doi.org/10.1016/j.ultramic.2009.12.006",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20356677",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Atomic%20scale%20investigation%20on%20the%20distribution%20of%20boron%20in%20medium%20carbon%20steels%20by%20atom%20probe%20tomography%20and%20EELS%22",
+      "citations": {
+        "semantic_scholar": 17
+      },
+      "abstract": "The medium carbon (0.5 wt% C) steels containing various boron contents were studied to observe the distribution of boron using atom probe tomography and electron energy loss spectroscopy. APT revealed the segregation of boron atoms at retained austenite for 100 ppm boron added steels and the trapped carbon atoms at micro-twins for 50 ppm boron treated steels. Moreover, it was also found that boron was randomly distributed for 20 ppm boron added steels regardless of the interactions between carbon and boron.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper23",
+      "publication_id": "18212532",
+      "title": "P53 promoter selection: choosing between life and death.",
+      "authors": [
+        "Sanjeev Das",
+        "Sarah A Boswell",
+        "Stuart A Aaronson",
+        "Sam W Lee"
+      ],
+      "year": "2008",
+      "journal": "Cell cycle (Georgetown, Tex.)",
+      "doi": "10.4161/cc.7.2.5236",
+      "doi_link": "https://doi.org/10.4161/cc.7.2.5236",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18212532",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22P53%20promoter%20selection%3A%20choosing%20between%20life%20and%20death%22",
+      "citations": {
+        "semantic_scholar": 67
+      },
+      "abstract": "A crucial unresolved issue about the genotoxic stress response is how the activation of the p53 tumor suppressor can lead either to cell cycle arrest and DNA repair or to apoptosis. p53 is one of the most important tumor suppressor proteins in the cell to prevent to heritable transfer of damaged DNA. In response to different stress conditions p53 rapidly accumulates and functions as a sequence specific DNA-binding transcription factor to regulate a large number of target genes. Activation of p53 has two major outcomes: cell cycle arrest or apoptosis. In this review we attempt to enumerate the different modifications and co-factors that influence p53 promoter selection and demonstrate how p53 chooses life or death for the cell.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper24",
+      "publication_id": "17719541",
+      "title": "Hzf Determines cell survival upon genotoxic stress by modulating p53 transactivation.",
+      "authors": [
+        "Sanjeev Das",
+        "Lakshmi Raj",
+        "Bo Zhao",
+        "Yuki Kimura",
+        "Alan Bernstein",
+        "Stuart A Aaronson",
+        "Sam W Lee"
+      ],
+      "year": "2007",
+      "journal": "Cell",
+      "doi": "10.1016/j.cell.2007.06.013",
+      "doi_link": "https://doi.org/10.1016/j.cell.2007.06.013",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17719541",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Hzf%20Determines%20cell%20survival%20upon%20genotoxic%20stress%20by%20modulating%20p53%20transactivation%22",
+      "citations": {
+        "semantic_scholar": 171
+      },
+      "abstract": "A critical unresolved issue about the genotoxic stress response is how the resulting activation of the p53 tumor suppressor can lead either to cell-cycle arrest and DNA repair or to apoptosis. We show here that hematopoietic zinc finger (Hzf), a zinc-finger-containing p53 target gene, modulates p53 transactivation functions in an autoregulatory feedback loop. Hzf is induced by p53 and binds to its DNA-binding domain, resulting in preferential transactivation of proarrest p53 target genes over its proapoptotic target genes. Thus, p53 activation results in cell-cycle arrest in Hzf wild-type MEFs, while in Hzf(-/-) MEFs, apoptosis is induced. Exposure of Hzf null mice to ionizing radiation resulted in enhanced apoptosis in several organs, as compared to in wild-type mice. These findings provide novel insights into the regulation of p53 transactivation function and suggest that Hzf functions as a key player in regulating cell fate decisions in response to genotoxic stress.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper25",
+      "publication_id": "16912190",
+      "title": "Discoidin domain receptor 1 receptor tyrosine kinase induces cyclooxygenase-2 and promotes chemoresistance through nuclear factor-kappaB pathway activation.",
+      "authors": [
+        "Sanjeev Das",
+        "Pat P Ongusaha",
+        "Yoon Sun Yang",
+        "Jin-Mo Park",
+        "Stuart A Aaronson",
+        "Sam W Lee"
+      ],
+      "year": "2006",
+      "journal": "Cancer research",
+      "doi": "10.1158/0008-5472.CAN-06-1215",
+      "doi_link": "https://doi.org/10.1158/0008-5472.CAN-06-1215",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16912190",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Discoidin%20domain%20receptor%201%20receptor%20tyrosine%20kinase%20induces%20cyclooxygenase-2%20and%20promotes%20chemoresistance%20through%20nuclear%20factor-kappaB%20pathway%20activation%22",
+      "citations": {
+        "semantic_scholar": 84
+      },
+      "abstract": "Discoidin domain receptor 1 (DDR1) is a receptor tyrosine kinase activated by various types of collagens and is known to play a role in cell attachment, migration, survival, and proliferation. However, little is known about the molecular mechanism(s) underlying the role of DDR1 in cancer. We report here that DDR1 induces cyclooxygenase-2 (Cox-2) expression resulting in enhanced chemoresistance. Depletion of DDR1-mediated Cox-2 induction using short hairpin RNA (shRNA) results in increased chemosensitivity. We also show that DDR1 activates the nuclear factor-kappaB (NF-kappaB) pathway and blocking this activation by an I kappaB superrepressor mutant results in the ablation of DDR1-induced Cox-2, leading to enhanced chemosensitivity, indicating that DDR1-mediated Cox-2 induction is NF-kappaB dependent. We identify the upstream activating kinases of the NF-kappaB pathway, IKK beta and IKK gamma, as essential for DDR1-mediated NF-kappaB activation, whereas IKK alpha seems to be dispensable. Finally, shRNA-mediated inhibition of DDR1 expression significantly enhanced chemosensitivity to genotoxic drugs in breast cancer cells. Thus, DDR1 signaling provides a novel target for therapeutic intervention with the prosurvival/antiapoptotic machinery of tumor cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper26",
+      "publication_id": "16481734",
+      "title": "Therapeutic potential of an adenovirus expressing p73 beta, a p53 homologue, against human papilloma virus positive cervical cancer in vitro and in vivo.",
+      "authors": [
+        "Sanjeev Das",
+        "Kumaravel Somasundaram"
+      ],
+      "year": "2006",
+      "journal": "Cancer biology & therapy",
+      "doi": "10.4161/cbt.5.2.2402",
+      "doi_link": "https://doi.org/10.4161/cbt.5.2.2402",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16481734",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Therapeutic%20potential%20of%20an%20adenovirus%20expressing%20p73%20beta%2C%20a%20p53%20homologue%2C%20against%20human%20papilloma%20virus%20positive%20cervical%20cancer%20in%20vitro%20and%20in%20vivo%22",
+      "citations": {
+        "semantic_scholar": 27
+      },
+      "abstract": "Human papilloma virus (HPV) infection is the most important risk factor for cervical cancer development. p53 based gene therapy is not suitable for cervical cancer because HPV oncoprotein E6 inactivates p53 protein by targeting it for ubiquitin mediated degradation. Here we evaluated the efficiency of Ad-p73, a replication deficient adenovirus expressing p73beta a p53 homologue, to inhibit the growth of HPV positive cervical cancer cells in vitro using tissue culture system and in vivo using human xenografts in nude mice. Ad-p73, but not Ad-p53 (p53 adenovirus), inhibited the growth in vitro of three different HPV positive cervical cancer cell lines, HeLa, ME180, and SiHa, efficiently, which correlated with stable expression of functional p73 protein. However, the growth of a HPV negative cervical cancer cell line, C33A, was inhibited equally by both Ad-p73 and Ad-p53. In addition, we show that Ad-p73 preinfected HeLa cells and HCT116 E6 cells, an E6 stable cell line, failed to form tumors in nude mice unlike Ad-p53 or Ad-LacZ preinfected cells. Moreover, Ad-p73, but not Ad-p53, inhibited completely the growth of already established tumors of HeLa or HCT116 E6 cells. Furthermore, the ability of p73 to inhibit the growth of these tumors correlated with the stable expression of p73 protein with the concomitant induction of its target gene p21(WAF1/CIP1) and induction of apoptosis in tumor cells. These results suggest that Ad-p73 inhibits efficiently the growth in vitro and tumorigenicity and tumor growth in vivo of HPV positive cervical cancer cells and that p73-based approach should be explored as a potential therapeutic model for the treatment of cervical cancer.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper27",
+      "publication_id": "15715467",
+      "title": "Mechanism of cytotoxicity of copper(I) complexes of 1,2-bis(diphenylphosphino)ethane.",
+      "authors": [
+        "Nusrat J Sanghamitra",
+        "Pornima Phatak",
+        "Sanjeev Das",
+        "Ashoka G Samuelson",
+        "Kumaravel Somasundaram"
+      ],
+      "year": "2005",
+      "journal": "Journal of medicinal chemistry",
+      "doi": "10.1021/jm049430g",
+      "doi_link": "https://doi.org/10.1021/jm049430g",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15715467",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mechanism%20of%20cytotoxicity%20of%20copper%28I%29%20complexes%20of%201%2C2-bis%28diphenylphosphino%29ethane%22",
+      "citations": {
+        "semantic_scholar": 58
+      },
+      "abstract": "The cytotoxic properties of arylphosphines are regulated by metals. We have synthesized a series of copper(I) complexes of 1,2-bis(diphenylphosphino)ethane (DPPE) and tested their in vitro cytotoxicity in a human lung carcinoma cell line H460. One of the complexes [Cu(2)(DPPE)(3)(CH(3)CN)(2)](ClO(4))(2) (C1), showed maximum cytotoxicity comparable to that of adriamycin. Treatment of cells with C1 caused DNA damage in vitro and activated the p53 pathway. Flow cytometry revealed that growth inhibition by C1 was due to a combination of cell cycle arrest and apoptosis. Simultaneous addition of C1 and adriamycin increased the cytotoxicity of either compound, suggesting the potential use of adriamycin in combination with C1. DNA binding and simulation studies suggest that adriamycin binds to DNA synergistically in the presence of C1. Thus, we have identified C1, a copper(I) complex of DPPE, as a potential chemotherapeutic drug for further testing, which could be used either alone or in combination with other chemotherapeutic drugs.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper28",
+      "publication_id": "15678153",
+      "title": "p73 beta-expressing recombinant adenovirus: a potential anticancer agent.",
+      "authors": [
+        "Sanjeev Das",
+        "Srikanth Nama",
+        "Sini Antony",
+        "Kumaravel Somasundaram"
+      ],
+      "year": "2005",
+      "journal": "Cancer gene therapy",
+      "doi": "10.1038/sj.cgt.7700803",
+      "doi_link": "https://doi.org/10.1038/sj.cgt.7700803",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15678153",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22p73%20beta-expressing%20recombinant%20adenovirus%3A%20a%20potential%20anticancer%20agent%22",
+      "citations": {
+        "semantic_scholar": 14
+      },
+      "abstract": "Tumor suppressor p53-based gene therapy strategy is ineffective in certain conditions. p73, a p53 homologue, could be a potential alternative gene therapy agent as it has been found to be an important determinant of chemosensitivity in cancer cells. Previously, we have reported the generation of a replication-deficient adenovirus expressing p73 beta (Ad-p73). In this study, we evaluated the therapeutic potential of Ad-p73 against a panel of cancer cells (n=12) of different tissue origin. Ad-p73 infected all the cell lines tested very efficiently resulting in several-fold increase in p73 beta levels, which is also functional as it activated the known target gene p21(WAF1/CIP1). Infection with Ad-p73 resulted in potent cytotoxicity in all the cell lines tested. The mechanism of p73-induced cytotoxicity in these cell lines is found to be due to a combination of cell cycle arrest and induction of apoptosis. In addition, exogenous overexpression of p73 by Ad-p73 infection increased the chemosensitivity of cancer cells by many fold to commonly used drug adriamycin. Moreover, Ad-p73 is more efficient than Ad-p53 in enhancing the chemosensitivity of mutant p53 harboring cells. Furthermore, Ad-p73 infection did not induce apoptosis in human normal lung fibroblasts (HEL 299) and human immortalized keratinocytes (HaCaT). These results suggest that Ad-p73 is a potent cytotoxic agent specifically against cancer cells and could be developed as a cancer gene therapy agent either alone or in combination with chemotherapeutic agents.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper29",
+      "publication_id": "15174136",
+      "title": "ProteoMod: A new tool to quantitate protein post-translational modifications.",
+      "authors": [
+        "Yadunanda Kumar",
+        "Amit Khachane",
+        "Mukta Belwal",
+        "Sanjeev Das",
+        "Kumar Somsundaram",
+        "Utpal Tatu"
+      ],
+      "year": "2004",
+      "journal": "Proteomics",
+      "doi": "10.1002/pmic.200300778",
+      "doi_link": "https://doi.org/10.1002/pmic.200300778",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15174136",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22ProteoMod%3A%20A%20new%20tool%20to%20quantitate%20protein%20post-translational%20modifications%22",
+      "citations": {
+        "semantic_scholar": 31
+      },
+      "abstract": "Post-translational modifications (PTMs) are known to regulate biological processes by controlling protein function. The effect of a PTM on protein function depends critically on the position and the number of modifications. While there are convenient methods available to qualitatively examine modifications like phosphorylation, glycosylation, acetylation and methylation, methods available for their quantitative assessment are cumbersome. We have developed a new tool that allows quantitation of the number of phosphorylation events in proteins with ease. The \"ProteoMod\" tool depends on shifts in the isoelectric points of proteins upon post-translational change. The extent of shift exhibited upon phosphorylation is algorithmically converted into the number of phosphorylations conferred. The validity of ProteoMod was confirmed by examining proteins with previously known number of phosphorylations. The list of proteins examined included HSP27, HSP70 and tumor suppressor p53. The approach can also be applied to estimate modifications like acetylation, methylation and sialylation in proteins. We analyzed shifts in isoelectric points due to sialylation events in N-glycoproteins. Using influenza hemagglutinin we show that shifts in isoelectric points correlate with intracellular distribution of this model membrane protein. In addition to extending the application of two dimensional gel electrophoresis to quantitate modifications, our study also highlights its potential use in cell biology.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper30",
+      "publication_id": "14627980",
+      "title": "Efficient growth inhibition of HPV 16 E6-expressing cells by an adenovirus-expressing p53 homologue p73beta.",
+      "authors": [
+        "Sanjeev Das",
+        "Wafik S El-Deiry",
+        "Kumaravel Somasundaram"
+      ],
+      "year": "2003",
+      "journal": "Oncogene",
+      "doi": "10.1038/sj.onc.1206908",
+      "doi_link": "https://doi.org/10.1038/sj.onc.1206908",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/14627980",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Efficient%20growth%20inhibition%20of%20HPV%2016%20E6-expressing%20cells%20by%20an%20adenovirus-expressing%20p53%20homologue%20p73beta%22",
+      "citations": {
+        "semantic_scholar": 32
+      },
+      "abstract": "Tumor suppressor p53 functions are downregulated in most cervical cancers, because the product of human papilloma virus (HPV) oncogene E6 binds to and inactivates p53 by promoting its degradation. p73, a p53 homologue, is similar to p53 in structure and function but yet not degraded by HPV E6 gene product. In this study, we have developed a replication-deficient recombinant adenovirus, which expresses p73beta (Ad-p73). Infection of human cancer cells with Ad-p73 results in several fold increase of p73beta levels as well as its known target genes like p21(WAF1/CIP1). Ad-p73-infected cells showed reduced cellular DNA synthesis, arrest in G1 phase of cell cycle and induction of apoptosis. Ad-p73 inhibited the growth of cancer cells of different types. More importantly, Ad-p73 inhibited the growth of cell lines carrying HPV E6 gene, which was introduced by stable integration, more efficiently in comparison to an Ad-p53. Furthermore, Ad-p73 also inhibited the growth of HeLa cells, a cell line derived from cervical cancer, very efficiently. The ability of Ad-p73 to inhibit the growth of HPV E6-expressing cells and HeLa cells correlated with the stable expression of functional p73 in the presence of E6. These results suggest that Ad-p73 could be used as a potential gene therapy agent against cervical cancer.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper31",
+      "publication_id": "12777723",
+      "title": "Analysis of gene promoter regulation by tumor suppressor genes.",
+      "authors": [
+        "Kumaravel Somasundaram",
+        "Sanjeev Das",
+        "Smita Lakhotia",
+        "Narendra Wajapeyee"
+      ],
+      "year": "2003",
+      "journal": "Methods in molecular biology (Clifton, N.J.)",
+      "doi": "10.1385/1-59259-329-1:101",
+      "doi_link": "https://doi.org/10.1385/1-59259-329-1:101",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12777723",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Analysis%20of%20gene%20promoter%20regulation%20by%20tumor%20suppressor%20genes%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper32",
+      "publication_id": "12639967",
+      "title": "Regulation of the p53 homolog p73 by adenoviral oncogene E1A.",
+      "authors": [
+        "Sanjeev Das",
+        "Wafik S El-Deiry",
+        "Kumaravel Somasundaram"
+      ],
+      "year": "2003",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M211704200",
+      "doi_link": "https://doi.org/10.1074/jbc.M211704200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12639967",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Regulation%20of%20the%20p53%20homolog%20p73%20by%20adenoviral%20oncogene%20E1A%22",
+      "citations": {
+        "semantic_scholar": 29
+      },
+      "abstract": "p73 is a p53 homolog, as they are similar structurally and functionally. Unlike p53, p73 is not inactivated by the products of viral oncogenes such as SV40 T antigen and human papilloma virus E6. Here we show that the product of adenoviral oncogene E1A inhibits the transcriptional activation by both p73alpha and p73beta. Electrophoretic mobility shift assays revealed that E1A does not inhibit the sequence-specific DNA binding by p73. Transcriptional activation by a fusion protein containing the Gal4 DNA-binding domain and either of the activation domains of p73 was inhibited by wild-type (WT) E1A, but not by the N-terminal deletion mutant E1A(Delta2-36). E1A(Delta2-36), which does not bind to the p300/CBP family of coactivators, failed to inhibit p73-mediated transcription, whereas E1A(DeltaCR2), a deletion mutant that does not bind to the pRb family of proteins, inhibited p73-mediated transcription as efficiently as WT E1A. Consistent with these observations, growth arrest induced by p73 expressed from a recombinant adenovirus was abrogated by WT E1A, which correlated with inhibition of p73-mediated induction of p21(WAF1/CIP1) by E1A. However, p73 was able to induce p21(WAF1/CIP1) and to mediate growth arrest in the presence of E1A(Delta2-36). Furthermore, the expression of either wild-type E1A or E1A(Delta2-36) resulted in the stabilization of endogenous p73. However, p73 stabilized in response to the expression of E1A(Delta2-36), but not WT E1A, was able to activate the expression of p21(WAF1/CIP1). These results suggest that the transcriptional activation function of p73 is specifically targeted by E1A through a mechanism involving p300/CBP proteins during the process of transformation and that p73 may have a role to play as a tumor suppressor.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 32,
+    "publications_by_year": {
+      "2025": 1,
+      "2024": 2,
+      "2023": 4,
+      "2022": 3,
+      "2021": 2,
+      "2019": 1,
+      "2018": 2,
+      "2016": 1,
+      "2014": 1,
+      "2013": 2,
+      "2012": 1,
+      "2011": 1,
+      "2010": 1,
+      "2008": 1,
+      "2007": 1,
+      "2006": 2,
+      "2005": 2,
+      "2004": 1,
+      "2003": 3
+    },
+    "top_journals": [
+      "Cancer research",
+      "Cancer gene therapy",
+      "British journal of cancer",
+      "Proceedings of the National Academy of Sciences of the United States of America",
+      "The Journal of biological chemistry"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 52,
+      "frequent_collaborators": [
+        "Sanjeev Das",
+        "Kumaravel Somasundaram",
+        "Jayanta Bhattacharyya",
+        "Witty Tyagi",
+        "Stuart A Aaronson",
+        "Sam W Lee",
+        "Srikanth Nama",
+        "Sini Antony"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "17719541",
+        "title": "Hzf Determines cell survival upon genotoxic stress by modulating p53 transactivation.",
+        "citations": 171,
+        "year": "2007"
+      },
+      {
+        "publication_id": "22099309",
+        "title": "PGC-1α, a key modulator of p53, promotes cell survival upon metabolic stress.",
+        "citations": 163,
+        "year": "2011"
+      },
+      {
+        "publication_id": "26787900",
+        "title": "SIRT6 deacetylates PKM2 to suppress its nuclear localization and oncogenic functions.",
+        "citations": 121,
+        "year": "2016"
+      }
+    ]
+  }
+}

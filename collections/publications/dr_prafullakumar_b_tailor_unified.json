@@ -1,0 +1,869 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Prafullakumar B. Tailor",
+    "email": "tailorp@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-prafullakumar-b-tailor",
+    "research_domain": "Immunity & Infection",
+    "faculty_status": "current",
+    "search_date": "2025-07-01T14:34:28.520763",
+    "total_publications": 31,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Prafullakumar B. Tailor, current faculty in Immunity & Infection at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "39987731",
+      "title": "Retraction notice to \"Identification of probable inhibitors for the DNA polymerase of the Monkeypox virus through the virtual screening approach\" [Int. J. Biol. Macromol. 229 (2023) 515-528].",
+      "authors": [
+        "Swati Kumari",
+        "Sayan Chakraborty",
+        "Mohammed Ahmad",
+        "Varun Kumar",
+        "Prafullakumar B Tailor",
+        "Bichitra K Biswal"
+      ],
+      "year": "2025",
+      "journal": "International journal of biological macromolecules",
+      "doi": "10.1016/j.ijbiomac.2025.141044",
+      "doi_link": "https://doi.org/10.1016/j.ijbiomac.2025.141044",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39987731",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Retraction%20notice%20to%20%22Identification%20of%20probable%20inhibitors%20for%20the%20DNA%20polymerase%20of%20the%20Monkeypox%20virus%20through%20the%20virtual%20screening%20approach%22%20%5BInt.%20J.%20Biol.%20Macromol.%20229%20%282023%29%20515-528%5D%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "36584781",
+      "title": "Identification of probable inhibitors for the DNA polymerase of the Monkeypox virus through the virtual screening approach.",
+      "authors": [
+        "Swati Kumari",
+        "Sayan Chakraborty",
+        "Mohammed Ahmad",
+        "Varun Kumar",
+        "Prafullakumar B Tailor",
+        "Bichitra K Biswal"
+      ],
+      "year": "2023",
+      "journal": "International journal of biological macromolecules",
+      "doi": "10.1016/j.ijbiomac.2022.12.252",
+      "doi_link": "https://doi.org/10.1016/j.ijbiomac.2022.12.252",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36584781",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Identification%20of%20probable%20inhibitors%20for%20the%20DNA%20polymerase%20of%20the%20Monkeypox%20virus%20through%20the%20virtual%20screening%20approach%22",
+      "citations": {
+        "semantic_scholar": 18
+      },
+      "abstract": "Given the paucity of antiviral treatments for monkeypox disease, caused by the Monkeypox virus (MPXV), there is a pressing need for the development/identification of new drugs to treat the infection. MPXV possesses a linear dsDNA genome that is replicated by a DNA replication complex of which DNA polymerase (DPol) forms an important component. Owing to the importance of DPol in the viral life cycle, identifying/designing small molecules abolishing its function could yield new antivirals. In this study, we first used the AlphaFold artificial intelligence program to model the 3D structure of the MPXV DPol; like the fold of DPol from other organisms, the MPXV DPol structure has the characteristic exonuclease, thumb, palm, and fingers sub-domains arrangement. Subsequently, we have identified several inhibitors through virtual screening of ZINC and antiviral libraries. Molecules with phenyl scaffold along with alanine-based and tetrazole-based molecules showed the best docking score of -8 to -10 kcal/mol. These molecules bind in the palm and fingers sub-domains interface region, which partially overlaps with the DNA binding path. The delineation of DPol/inhibitor interactions showed that majorly active site residues ASP549, ASP753, TYR550, ASN551, SER552, and ASN665 interact with the inhibitors. These compounds exhibit good Absorption, Distribution, Metabolism and Excretion properties.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "35101891",
+      "title": "Methionine- and Choline-Deficient Diet Identifies an Essential Role for DNA Methylation in Plasmacytoid Dendritic Cell Biology.",
+      "authors": [
+        "Bhupendra Singh Rawat",
+        "Ramya Venkataraman",
+        "Roli Budhwar",
+        "Prafullakumar Tailor"
+      ],
+      "year": "2022",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.2100763",
+      "doi_link": "https://doi.org/10.4049/jimmunol.2100763",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35101891",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Methionine-%20and%20Choline-Deficient%20Diet%20Identifies%20an%20Essential%20Role%20for%20DNA%20Methylation%20in%20Plasmacytoid%20Dendritic%20Cell%20Biology%22",
+      "citations": {
+        "semantic_scholar": 5
+      },
+      "abstract": "Diet plays an important role in lifestyle disorders associated with the disturbed immune system. During the study of methionine- and choline-deficient diet-induced nonalcoholic fatty liver disease, we observed a specific decrease in the plasmacytoid dendritic cell (pDC) fraction from murine spleens. While delineating the role for individual components, we identified that l-methionine supplementation correlates with representation of the pDC fraction. S-adenosylmethionine (SAM) is a key methyl donor, and we demonstrate that supplementation of methionine-deficient medium with SAM but not homocysteine reverses the defect in pDC development. l-Methionine has been implicated in maintenance of methylation status in the cell. Based on our observed effect of SAM and zebularine on DC subset development, we sought to clarify the role of DNA methylation in pDC biology. Whole-genome bisulfite sequencing analysis from the splenic DC subsets identified that pDCs display differentially hypermethylated regions in comparison with classical DC (cDC) subsets, whereas cDC1 and cDC2 exhibited comparable methylated regions, serving as a control in our study. We validated differentially methylated regions in the sorted pDC, CD8α+ cDC1, and CD4+ cDC2 subsets from spleens as well as FL-BMDC cultures. Upon analysis of genes linked with differentially methylated regions, we identified that differential DNA methylation is associated with the MAPK pathway such that its inhibition guides DC development toward the pDC subtype. Overall, our study identifies an important role for methionine in pDC biology.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "34968772",
+      "title": "IRF8 and BATF3 interaction enhances the cDC1 specific Pfkfb3 gene expression.",
+      "authors": [
+        "Kuldeep Singh Chauhan",
+        "Annesa Das",
+        "Hemant Jaiswal",
+        "Irene Saha",
+        "Monika Kaushik",
+        "Virendra Kumar Patel",
+        "Prafullakumar Tailor"
+      ],
+      "year": "2022",
+      "journal": "Cellular immunology",
+      "doi": "10.1016/j.cellimm.2021.104468",
+      "doi_link": "https://doi.org/10.1016/j.cellimm.2021.104468",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34968772",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22IRF8%20and%20BATF3%20interaction%20enhances%20the%20cDC1%20specific%20Pfkfb3%20gene%20expression%22",
+      "citations": {
+        "semantic_scholar": 5
+      },
+      "abstract": "Dendritic cells (DCs) play central role in innate as well as adaptive immune responses regulated by diverse DC subtypes that vary in terms of surface markers, transcriptional profile and functional responses. Generation of DC diversity from progenitor stage is tightly regulated by complex molecular inter-play between transcription factors. We earlier demonstrated that Batf3 and Id2 expression have a synergistic effect on the Irf8 directed classical cDC1 development. In present study, Bi-molecular fluorescence complementation assay suggested that IRF8 interacts with BATF3, and ID2 may aid cDC1 development independently. Genome wide recruitment analysis of IRF8 and BATF3 from different DC subtypes led to identification of the overlapping regions of occupancy by these two transcription factors. Further analysis of overlapping peaks of IRF8 and BATF3 occupancy in promoter region within the cDC1 subtype specific transcriptional pattern identified a metabolically important Pfkfb3 gene. Among various immune cell types; splenic cDC1 subtype displayed enhanced expression of Pfkfb3. Analysis of Irf8-/-, Irf8R294C and Batf3DCKO DC confirmed direct regulation of Pfkfb3 enhanced expression specifically in cDC1 subtype. Further we show that inhibition of PFKFB3 enzymatic activity by a chemical agent PFK15 led to reduction in cDC1 subtype in both in vitro FLDC cultures as well as in vivo mouse spleens. Together, our study identified the direct regulation of cDC1 specific enhanced expression of Pfkfb3 in glycolysis and cDC1 biology.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "34867997",
+      "title": "Mutation in Irf8 Gene (Irf8R294C ) Impairs Type I IFN-Mediated Antiviral Immune Response by Murine pDCs.",
+      "authors": [
+        "Annesa Das",
+        "Kuldeep Singh Chauhan",
+        "Himanshu Kumar",
+        "Prafullakumar Tailor"
+      ],
+      "year": "2021",
+      "journal": "Frontiers in immunology",
+      "doi": "10.3389/fimmu.2021.758190",
+      "doi_link": "https://doi.org/10.3389/fimmu.2021.758190",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34867997",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mutation%20in%20Irf8%20Gene%20%28Irf8R294C%20%29%20Impairs%20Type%20I%20IFN-Mediated%20Antiviral%20Immune%20Response%20by%20Murine%20pDCs%22",
+      "citations": {
+        "crossref": 10
+      },
+      "abstract": "Plasmacytoid dendritic cells (pDCs) are the key producers of type I interferons (IFNs), thus playing a central role in initiating antiviral immune response. Besides robust type I IFN production, pDCs also act as antigen presenting cells post immunogenic stimulation. Transcription factor Irf8 is indispensable for the development of both pDC and cDC1 subset. However, the mechanism underlying the differential regulation by IRF8 in cDC1- and pDC-specific genomic architecture of developmental pathways still remains to be fully elucidated. Previous studies indicated that the Irf8R294C mutation specifically abrogates development of cDC1 without affecting that of pDC. In the present study using RNA-seq based approach, we have found that though the point mutation Irf8R294C did not affect pDC development, it led to defective type I IFN production, thus resulting in inefficient antiviral response. This observation unraveled the distinctive roles of IRF8 in these two subpopulations-regulating the development of cDC1 whereas modulating the functionality of pDCs without affecting development. We have reported here that Irf8R294C mutation also caused defect in production of ISGs as well as defective upregulation of costimulatory molecules in pDCs in response to NDV infection (or CpG stimulation). Through in vivo studies, we demonstrated that abrogation of type I IFN production was concomitant with reduced upregulation of costimulatory molecules in pDCs and increased NDV burden in IRF8R294C mice in comparison with wild type, indicating inefficient viral clearance. Further, we have also shown that Irf8R294C mutation abolished the activation of type I IFN promoter by IRF8, justifying the low level of type I IFN production. Taken together, our study signifies that the single point mutation in Irf8, Irf8R294C severely compromised type I IFN-mediated immune response by murine pDCs, thereby causing impairment in antiviral immunity.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "34516563",
+      "title": "Characterization of the NiRAN domain from RNA-dependent RNA polymerase provides insights into a potential therapeutic target against SARS-CoV-2.",
+      "authors": [
+        "Abhisek Dwivedy",
+        "Richard Mariadasse",
+        "Mohammed Ahmad",
+        "Sayan Chakraborty",
+        "Deepsikha Kar",
+        "Satish Tiwari",
+        "Sankar Bhattacharyya",
+        "Sudipta Sonar",
+        "Shailendra Mani",
+        "Prafullakumar Tailor",
+        "Tanmay Majumdar",
+        "Jeyaraman Jeyakanthan",
+        "Bichitra Kumar Biswal"
+      ],
+      "year": "2021",
+      "journal": "PLoS computational biology",
+      "doi": "10.1371/journal.pcbi.1009384",
+      "doi_link": "https://doi.org/10.1371/journal.pcbi.1009384",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34516563",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Characterization%20of%20the%20NiRAN%20domain%20from%20RNA-dependent%20RNA%20polymerase%20provides%20insights%20into%20a%20potential%20therapeutic%20target%20against%20SARS-CoV-2%22",
+      "citations": {
+        "semantic_scholar": 26
+      },
+      "abstract": "Apart from the canonical fingers, palm and thumb domains, the RNA dependent RNA polymerases (RdRp) from the viral order Nidovirales possess two additional domains. Of these, the function of the Nidovirus RdRp associated nucleotidyl transferase domain (NiRAN) remains unanswered. The elucidation of the 3D structure of RdRp from the severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2), provided the first ever insights into the domain organisation and possible functional characteristics of the NiRAN domain. Using in silico tools, we predict that the NiRAN domain assumes a kinase or phosphotransferase like fold and binds nucleoside triphosphates at its proposed active site. Additionally, using molecular docking we have predicted the binding of three widely used kinase inhibitors and five well characterized anti-microbial compounds at the NiRAN domain active site along with their drug-likeliness. For the first time ever, using basic biochemical tools, this study shows the presence of a kinase like activity exhibited by the SARS-CoV-2 RdRp. Interestingly, a well-known kinase inhibitor- Sorafenib showed a significant inhibition and dampened viral load in SARS-CoV-2 infected cells. In line with the current global COVID-19 pandemic urgency and the emergence of newer strains with significantly higher infectivity, this study provides a new anti-SARS-CoV-2 drug target and potential lead compounds for drug repurposing against SARS-CoV-2.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "34499836",
+      "title": "Delivery of a Cancer-Testis Antigen-Derived Peptide Using Conformationally Restricted Dipeptide-Based Self-Assembled Nanotubes.",
+      "authors": [
+        "Priyanka Verma",
+        "Saikat Biswas",
+        "Nitin Yadav",
+        "Anjali Khatri",
+        "Hamda Siddiqui",
+        "Jiban Jyoti Panda",
+        "Bhupendra Singh Rawat",
+        "Prafullakumar Tailor",
+        "Virander Singh Chauhan"
+      ],
+      "year": "2021",
+      "journal": "Molecular pharmaceutics",
+      "doi": "10.1021/acs.molpharmaceut.1c00451",
+      "doi_link": "https://doi.org/10.1021/acs.molpharmaceut.1c00451",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34499836",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Delivery%20of%20a%20Cancer-Testis%20Antigen-Derived%20Peptide%20Using%20Conformationally%20Restricted%20Dipeptide-Based%20Self-Assembled%20Nanotubes%22",
+      "citations": {
+        "semantic_scholar": 9
+      },
+      "abstract": "Use of tumor-associated antigens for cancer immunotherapy is limited due to their poor in vivo stability and low cellular uptake. Delivery of antigenic peptides using synthetic polymer-based nanostructures has been actively pursued but with limited success. Peptide-based nanostructures hold much promise as delivery vehicles due to their easy design and synthesis and inherent biocompatibility. Here, we report self-assembly of a dipeptide containing a non-natural amino acid, α,β-dehydrophenylalanine (ΔF), into nanotubes, which efficiently entrapped a MAGE-3-derived peptide (M3). M3 entrapped in F-ΔF nanotubes was more stable to a nonspecific protease treatment and both F-ΔF and F-ΔF-M3 showed no cellular toxicity for four cancerous and noncancerous cell lines used. F-ΔF-M3 showed significantly higher cellular uptake in RAW 267.4 macrophage cells compared to M3 alone and also induced in vitro maturation of dendritic cells (DCs). Immunization of mice with F-ΔF-M3 selected a higher number of IFN-γ secreting CD8+ T cells and CD4+ T compared to M3 alone. On day 21, a tumor growth inhibition ratio (TGI, %) of 41% was observed in a murine melanoma model. These results indicate that F-ΔF nanotubes are highly biocompatible, efficiently delivered M3 to generate cytotoxic T lymphocytes responses, and able to protect M3 from degradation under in vivo conditions. The F-ΔF dipeptide-based nanotubes may be considered as a good platform for further development as delivery agents.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "34379515",
+      "title": "Lack of Interferon (IFN) Regulatory Factor 8 Associated with Restricted IFN-γ Response Augmented Japanese Encephalitis Virus Replication in the Mouse Brain.",
+      "authors": [
+        "Aarti Tripathi",
+        "Bhupendra Singh Rawat",
+        "Sankar Addya",
+        "Milan Surjit",
+        "Prafullakumar Tailor",
+        "Sudhanshu Vrati",
+        "Arup Banerjee"
+      ],
+      "year": "2021",
+      "journal": "Journal of virology",
+      "doi": "10.1128/JVI.00406-21",
+      "doi_link": "https://doi.org/10.1128/JVI.00406-21",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34379515",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Lack%20of%20Interferon%20%28IFN%29%20Regulatory%20Factor%208%20Associated%20with%20Restricted%20IFN-%CE%B3%20Response%20Augmented%20Japanese%20Encephalitis%20Virus%20Replication%20in%20the%20Mouse%20Brain%22",
+      "citations": {
+        "crossref": 12
+      },
+      "abstract": "Interferon regulatory factor 8 (IRF8), a myeloid lineage transcription factor, emerges as an essential regulator for microglial activation. However, the precise role of IRF8 during Japanese encephalitis virus (JEV) infection in the brain remains elusive. Here, we report that JEV infection enhances IRF8 expression in the infected mouse brain. Comparative transcriptional profiling of whole-brain RNA analysis and validation by quantitative reverse transcription-PCR (qRT-PCR) reveals an impaired interferon gamma (IFN-γ) and related gene expression in Irf8 knockout (Irf8-/-)-infected mice. Further, Ifnγ knockout (Ifnγ-/-) mice exhibit a reduced level of Irf8. Both Ifnγ-/- and Irf8-/- mice exhibit significantly reduced levels of activated (CD11b+ CD45hi, CD11b+ CD45lo, Cd68, and CD86) and infiltrating immune cells (Ly6C+, CD4, and CD8) in the infected brain compared to those of wild-type (WT) mice. However, a higher level of granulocyte cell (Ly6G+) infiltration is evident in Irf8-/- mice as well as the increased concentration of tumor necrosis factor alpha (TNF-α), interleukin-6 (IL-6), monocyte chemoattractant protein 1 (MCP1) levels in the brain. Interestingly, neither the Irf8-/- nor the Ifnγ-/- conferred protection against lethal JEV challenge to mice and exhibit augmentation in JEV replication in the brain. The gain of function of Irf8 by overexpressing functional IRF8 in an IRF8-deficient cell line attenuates viral replication and enhances IFN-γ production. Overall, we summarize that in the murine model of JEV encephalitis, IRF8 modulation affects JEV replication. We also show that lack of Irf8 affects immune cell abundance in circulation and the infected brain, leading to a reduction in IFN-γ level and increased viral load in the brain. IMPORTANCE Microglial cells, the resident macrophages in the brain, play a vital role in Japanese encephalitis virus (JEV) pathogenesis. The deregulated activity of microglia can be lethal for the brain. Therefore, it is crucial to understand the regulators that drive microglia phenotype changes and induce inflammation in the brain. Interferon regulatory factor 8 (IRF8) is a myeloid lineage transcription factor involved in microglial activation. However, the impact of IRF8 modulation on JEV replication remains elusive. Moreover, the pathways regulated by IRF8 to initiate and amplify pathological neuroinflammation are not well understood. Here, we demonstrated the effect of IRF8 modulation on JEV replication, microglial activation, and immune cells infiltration in the brain.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "32688283",
+      "title": "MicroRNA-30e-5p has an Integrated Role in the Regulation of the Innate Immune Response during Virus Infection and Systemic Lupus Erythematosus.",
+      "authors": [
+        "Richa Mishra",
+        "Sanjana Bhattacharya",
+        "Bhupendra Singh Rawat",
+        "Ashish Kumar",
+        "Akhilesh Kumar",
+        "Kavita Niraj",
+        "Ajit Chande",
+        "Puneet Gandhi",
+        "Dheeraj Khetan",
+        "Amita Aggarwal",
+        "Seiichi Sato",
+        "Prafullakumar Tailor",
+        "Akinori Takaoka",
+        "Himanshu Kumar"
+      ],
+      "year": "2020",
+      "journal": "iScience",
+      "doi": "10.1016/j.isci.2020.101322",
+      "doi_link": "https://doi.org/10.1016/j.isci.2020.101322",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32688283",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22MicroRNA-30e-5p%20has%20an%20Integrated%20Role%20in%20the%20Regulation%20of%20the%20Innate%20Immune%20Response%20during%20Virus%20Infection%20and%20Systemic%20Lupus%20Erythematosus%22",
+      "citations": {
+        "semantic_scholar": 31
+      },
+      "abstract": "Precise regulation of innate immunity is crucial for development of appropriate host immunity against microbial infections and maintenance of immune homeostasis. MicroRNAs are small non-coding RNAs, post-transcriptional regulator of multiple genes, and act as a rheostat for protein expression. Here, we identified microRNA-30e-5p induced by hepatitis B virus and other viruses that act as a master regulator for innate immunity. Moreover, pegylated interferons treatment of patients with HBV for viral reduction also reduces miRNA. Additionally, we have also shown the immuno-pathological effects of miR-30e in patients with systemic lupus erythematosus (SLE) and mouse model. Mechanistically, miR-30e targets multiple negative regulators of innate immune signaling and enhances immune responses. Furthermore, sequestering of miR-30e in patients with SLE and mouse model significantly reduces type-I interferon and pro-inflammatory cytokines. Collectively, our study demonstrates the novel role of miR-30e in innate immunity and its prognostic and therapeutic potential in infectious and autoimmune diseases.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "32044112",
+      "title": "RelB suppresses type I Interferon signaling in dendritic cells.",
+      "authors": [
+        "Irene Saha",
+        "Hemant Jaiswal",
+        "Richa Mishra",
+        "Hendrik J Nel",
+        "Jaring Schreuder",
+        "Monika Kaushik",
+        "Kuldeep Singh Chauhan",
+        "Bhupendra Singh Rawat",
+        "Ranjeny Thomas",
+        "Shalin Naik",
+        "Himanshu Kumar",
+        "Prafullakumar Tailor"
+      ],
+      "year": "2020",
+      "journal": "Cellular immunology",
+      "doi": "10.1016/j.cellimm.2020.104043",
+      "doi_link": "https://doi.org/10.1016/j.cellimm.2020.104043",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32044112",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22RelB%20suppresses%20type%20I%20Interferon%20signaling%20in%20dendritic%20cells%22",
+      "citations": {
+        "crossref": 15
+      },
+      "abstract": "Type I Interferon (IFN) signaling plays a critical role in dendritic cell (DC) development and functions. Inhibition of hyper type I IFN signaling promotes cDC2 subtype development. Relb is essential to development of cDC2 subtype and here we analyzed its effect on type I IFN signaling in DCs. We show that Relb suppresses the homeostatic type I IFN signaling in cDC2 cultures. TLR stimulation of FL-DCs led to RelB induction coinciding with fall in IFN signatures; conforming with the observation Relb expression reduced TLR stimulated IFN induction along with decrease in ISGs. Towards understanding mechanism, we show that effects of RelB are mediated by increased levels of IκBα. We demonstrate that RelB dampened antiviral responses by lowering ISG levels and the defect in cDC2 development in RelB null mice can be rescued in Ifnar1-/- background. Overall, we propose a novel role of RelB as a negative regulator of the type I IFN signaling pathway; fine tuning development of cDC2 subtype.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "28981114",
+      "title": "Essential role of HCMV deubiquitinase in promoting oncogenesis by targeting anti-viral innate immune signaling pathways.",
+      "authors": [
+        "Puja Kumari",
+        "Irene Saha",
+        "Athira Narayanan",
+        "Sathish Narayanan",
+        "Akinori Takaoka",
+        "Nachimuthu Senthil Kumar",
+        "Prafullakumar Tailor",
+        "Himanshu Kumar"
+      ],
+      "year": "2017",
+      "journal": "Cell death & disease",
+      "doi": "10.1038/cddis.2017.461",
+      "doi_link": "https://doi.org/10.1038/cddis.2017.461",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28981114",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Essential%20role%20of%20HCMV%20deubiquitinase%20in%20promoting%20oncogenesis%20by%20targeting%20anti-viral%20innate%20immune%20signaling%20pathways%22",
+      "citations": {
+        "semantic_scholar": 48
+      },
+      "abstract": "Cancer is a multifactorial disease and virus-mediated carcinogenesis is one of the crucial factors, which is poorly understood. Human cytomegalovirus (HCMV) is a herpesvirus and its components have been evidenced to be associated with cancer of different tissue origin. However, its role in cancer remains unknown. Here, we identified a conserved herpesviral tegument protein known as pUL48 of HCMV, encoding deubiquitinase enzyme, as having a key role in carcinogenesis. We show using deubiquitinase sufficient- and deficient-HCMV that HCMV deubiquitinase is a key in inducing enhanced cellular metabolic activity through upregulation of several anti-apoptotic genes and downregulation of several pro-apoptotic genes expression. Furthermore, HCMV deubiquitinase acquires pro-tumor functions by inhibiting PRR-mediated type I interferon via deubiquitination of TRAF6, TRAF3, IRAK1, IRF7 and STING. Taken together, our results suggest that HCMV infection may promote oncogenesis by inhibiting innate immunity of the host.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "27421479",
+      "title": "Cutting Edge: ACVRL1 Signaling Augments CD8α+ Dendritic Cell Development.",
+      "authors": [
+        "Rohit Verma",
+        "Hemant Jaiswal",
+        "Kuldeep Singh Chauhan",
+        "Monika Kaushik",
+        "Prafullakumar Tailor"
+      ],
+      "year": "2016",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.1501849",
+      "doi_link": "https://doi.org/10.4049/jimmunol.1501849",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27421479",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Cutting%20Edge%3A%20ACVRL1%20Signaling%20Augments%20CD8%CE%B1%2B%20Dendritic%20Cell%20Development%22",
+      "citations": {
+        "semantic_scholar": 5
+      },
+      "abstract": "Dendritic cells (DCs) are a collection of different subtypes, each of which is characterized by specific surface markers, gene-expression patterns, and distinct functions. Members of the IFN regulatory factor family play critical roles in DC development and functions. Recently, Irf8 was shown to activate TGF-β signaling, which led to exacerbated neuroinflammation in the experimental autoimmune encephalomyelitis mouse model. We analyzed the effect of Irf8 on TGF-β/bone morphogenetic protein pathway-specific genes in DCs and identified Acvrl1, a type I TGF-β superfamily receptor, as a gene strongly induced by Irf8 expression. Among various DC subtypes, Acvrl1 is differentially expressed in CD8α(+) DCs. ACVRL1 signaling augmented Irf8-directed classical CD8α(+) DC development. Irf8 expression is essential for plasmacytoid DC and CD8α(+) DC development, and this study demonstrates that ACVRL1 signaling plays a pivotal role whereby it suppresses plasmacytoid DC development while enhancing that of CD8α(+) DCs, thus contributing to DC diversity development.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "25785602",
+      "title": "Mechanisms of immunity in post-exposure vaccination against Ebola virus infection.",
+      "authors": [
+        "Steven B Bradfute",
+        "Scott M Anthony",
+        "Kelly S Stuthman",
+        "Natarajan Ayithan",
+        "Prafullakumar Tailor",
+        "Carl I Shaia",
+        "Mike Bray",
+        "Keiko Ozato",
+        "Sina Bavari"
+      ],
+      "year": "2015",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0118434",
+      "doi_link": "https://doi.org/10.1371/journal.pone.0118434",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25785602",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Mechanisms%20of%20immunity%20in%20post-exposure%20vaccination%20against%20Ebola%20virus%20infection%22",
+      "citations": {
+        "semantic_scholar": 16
+      },
+      "abstract": "Ebolaviruses can cause severe hemorrhagic fever that is characterized by rapid viral replication, coagulopathy, inflammation, and high lethality rates. Although there is no clinically proven vaccine or treatment for Ebola virus infection, a virus-like particle (VLP) vaccine is effective in mice, guinea pigs, and non-human primates when given pre-infection. In this work, we report that VLPs protect Ebola virus-infected mice when given 24 hours post-infection. Analysis of cytokine expression in serum revealed a decrease in pro-inflammatory cytokine and chemokine levels in mice given VLPs post-exposure compared to infected, untreated mice. Using knockout mice, we show that VLP-mediated post-exposure protection requires perforin, B cells, macrophages, conventional dendritic cells (cDCs), and either CD4+ or CD8+ T cells. Protection was Ebola virus-specific, as marburgvirus VLPs did not protect Ebola virus-infected mice. Increased antibody production in VLP-treated mice correlated with protection, and macrophages were required for this increased production. However, NK cells, IFN-gamma, and TNF-alpha were not required for post-exposure-mediated protection. These data suggest that a non-replicating Ebola virus vaccine can provide post-exposure protection and that the mechanisms of immune protection in this setting require both increased antibody production and generation of cytotoxic T cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "24227775",
+      "title": "Batf3 and Id2 have a synergistic effect on Irf8-directed classical CD8α+ dendritic cell development.",
+      "authors": [
+        "Hemant Jaiswal",
+        "Monika Kaushik",
+        "Rachid Sougrat",
+        "Monica Gupta",
+        "Anup Dey",
+        "Rohit Verma",
+        "Keiko Ozato",
+        "Prafullakumar Tailor"
+      ],
+      "year": "2013",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.1203541",
+      "doi_link": "https://doi.org/10.4049/jimmunol.1203541",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24227775",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Batf3%20and%20Id2%20have%20a%20synergistic%20effect%20on%20Irf8-directed%20classical%20CD8%CE%B1%2B%20dendritic%20cell%20development%22",
+      "citations": {
+        "semantic_scholar": 36
+      },
+      "abstract": "Dendritic cells (DCs) are heterogeneous cell populations represented by different subtypes, each varying in terms of gene expression patterns and specific functions. Recent studies identified transcription factors essential for the development of different DC subtypes, yet molecular mechanisms for the developmental program and functions remain poorly understood. In this study, we developed and characterized a mouse DC progenitor-like cell line, designated DC9, from Irf8(-/-) bone marrow cells as a model for DC development and function. Expression of Irf8 in DC9 cells led to plasmacytoid DCs and CD8α(+) DC-like cells, with a concomitant increase in plasmacytoid DC- and CD8α(+) DC-specific gene transcripts and induction of type I IFNs and IL12p40 following TLR ligand stimulation. Irf8 expression in DC9 cells led to an increase in Id2 and Batf3 transcript levels, transcription factors shown to be important for the development of CD8α(+) DCs. We show that, without Irf8, expression of Id2 and Batf3 was not sufficient for directing classical CD8α(+) DC development. When coexpressed with Irf8, Batf3 and Id2 had a synergistic effect on classical CD8α(+) DC development. We demonstrate that Irf8 is upstream of Batf3 and Id2 in the classical CD8α(+) DC developmental program and define the hierarchical relationship of transcription factors important for classical CD8α(+) DC development.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "23454489",
+      "title": "An infectious HHV-6B isolate from a healthy adult with chromosomally integrated virus and a reporter based relative viral titer assay.",
+      "authors": [
+        "Pallavi Goel",
+        "Prafullakumar Tailor",
+        "Ajit G Chande",
+        "Atanu Basu",
+        "Robin Mukhopadhyaya"
+      ],
+      "year": "2013",
+      "journal": "Virus research",
+      "doi": "10.1016/j.virusres.2013.02.006",
+      "doi_link": "https://doi.org/10.1016/j.virusres.2013.02.006",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23454489",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22An%20infectious%20HHV-6B%20isolate%20from%20a%20healthy%20adult%20with%20chromosomally%20integrated%20virus%20and%20a%20reporter%20based%20relative%20viral%20titer%20assay%22",
+      "citations": {
+        "semantic_scholar": 4
+      },
+      "abstract": "Human herpesvirus 6B (HHV-6B) primary infections occur in early childhood and establish a life-long latency in the most healthy adults. HHV-6B was detectable in the peripheral blood mononuclear cells (PBMC) and granulocytes by serial genomic DNA dilution PCR till 10 pg of template DNA, in a healthy adult. Epstein Barr virus (EBV) mediated transformation of the PBMC resulted in establishment of a B-cell line. Southern hybridization with the PBMC as well as the cell line DNA showed distinct signals for high copy viral genomes and Gardella gel analysis indicated chromosomal integration of the HHV-6B. Integration site analysis in the PBMC and the cell line indicated an atypical viral integration in non-telomeric region of chromosome 12. Cell free culture medium of the cell line could infect different mononuclear cell lines, naïve or mitogen stimulated PBMC and was found to impart productive infection in a recipient T cell line. An HIV-1 LTR driven luciferase based reporter cell line was made and a single step assay was developed for estimating HHV-6B relative concentration in the culture supernatants. This study thus reports a new infectious HHV-6B isolate with uncommon integration site, spontaneous production from a cell line and also development of a simple relative HHV-6B titer assay.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "22942423",
+      "title": "The small ubiquitin-like modifier-deconjugating enzyme sentrin-specific peptidase 1 switches IFN regulatory factor 8 from a repressor to an activator during macrophage activation.",
+      "authors": [
+        "Tsung-Hsien Chang",
+        "Songxiao Xu",
+        "Prafullakumar Tailor",
+        "Tomohiko Kanno",
+        "Keiko Ozato"
+      ],
+      "year": "2012",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.1201104",
+      "doi_link": "https://doi.org/10.4049/jimmunol.1201104",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/22942423",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20small%20ubiquitin-like%20modifier-deconjugating%20enzyme%20sentrin-specific%20peptidase%201%20switches%20IFN%20regulatory%20factor%208%20from%20a%20repressor%20to%20an%20activator%20during%20macrophage%20activation%22",
+      "citations": {
+        "semantic_scholar": 51
+      },
+      "abstract": "Macrophages, when activated by IFN-γ and TLR signaling, elicit innate immune responses. IFN regulatory factor 8 (IRF8) is a transcription factor that facilitates macrophage activation and innate immunity. We show that, in resting macrophages, some IRF8 is conjugated to small ubiquitin-like modifiers (SUMO) 2/3 through the lysine residue 310. SUMO3-conjugated IRF8 failed to induce IL12p40 and other IRF8 target genes, consistent with SUMO-mediated transcriptional repression reported for other transcription factors. SUMO3-conjugated IRF8 showed reduced mobility in live nuclei and bound poorly to the IL12p40 gene. However, macrophage activation caused a sharp reduction in the amount of SUMOylated IRF8. This reduction coincided with the induction of a deSUMOylating enzyme, sentrin-specific peptidase 1 (SENP1), in activated macrophages. In transfection analysis, SENP1 removed SUMO3 from IRF8 and enhanced expression of IL12p40 and other target genes. Conversely, SENP1 knockdown repressed IRF8 target gene expression. In parallel with IRF8 deSUMOylation, macrophage activation led to the induction of proteins active in the SUMO pathway and caused a global shift in nuclear protein SUMOylation patterns. Together, the IRF8 SUMO conjugation/deconjugation switch is part of a larger transition in SUMO modifications that takes place upon macrophage activation, serving as a mechanism to trigger innate immune responses.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "21492741",
+      "title": "Virus-induced differential expression of nuclear receptors and coregulators in dendritic cells: implication to interferon production.",
+      "authors": [
+        "Sinnie Sin Man Ng",
+        "Tsung-Hsien Chang",
+        "Prafullakumar Tailor",
+        "Keiko Ozato",
+        "Tomoshige Kino"
+      ],
+      "year": "2011",
+      "journal": "FEBS letters",
+      "doi": "10.1016/j.febslet.2011.04.001",
+      "doi_link": "https://doi.org/10.1016/j.febslet.2011.04.001",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21492741",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Virus-induced%20differential%20expression%20of%20nuclear%20receptors%20and%20coregulators%20in%20dendritic%20cells%3A%20implication%20to%20interferon%20production%22",
+      "citations": {
+        "semantic_scholar": 15
+      },
+      "abstract": "We investigated mRNA expression of 49 nuclear hormone receptors (NRs) and 35 transcriptional coregulators in mouse bone marrow-derived dendritic cells (DCs) upon infection with Newcastle Disease virus (NDV) or murine cytomegalovirus (MCMV). These viruses regulated mRNA expression of some NRs among which NOR1 and LXRα were highly induced at mRNA and protein levels. Exogenous expression of the latter NRs repressed IRF3- or IRF7-induced transactivation of the interferon β promoter and NDV infection further potentiated their repressive effect. The viral infection also significantly regulated mRNA expression of some coregulators, including HDAC1. Toll-like receptor ligands regulated NR and coregulator mRNA expression similar to the viruses. Thus, NRs and coregulators are integral components of DC-organizing anti-viral response wherein NOR1 and LXRα participate in regulating interferon production.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "21216962",
+      "title": "Positive regulatory domain I (PRDM1) and IRF8/PU.1 counter-regulate MHC class II transactivator (CIITA) expression during dendritic cell maturation.",
+      "authors": [
+        "Matthew A Smith",
+        "Gabriela Wright",
+        "Jian Wu",
+        "Prafullakumar Tailor",
+        "Keiko Ozato",
+        "Xianghong Chen",
+        "Sheng Wei",
+        "Janet F Piskurich",
+        "Jenny P-Y Ting",
+        "Kenneth L Wright"
+      ],
+      "year": "2011",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M110.165431",
+      "doi_link": "https://doi.org/10.1074/jbc.M110.165431",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/21216962",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Positive%20regulatory%20domain%20I%20%28PRDM1%29%20and%20IRF8/PU.1%20counter-regulate%20MHC%20class%20II%20transactivator%20%28CIITA%29%20expression%20during%20dendritic%20cell%20maturation%22",
+      "citations": {
+        "semantic_scholar": 62
+      },
+      "abstract": "Dendritic cells (DCs) are key mediators of immune function through robust and tightly regulated presentation of antigen in the context of the MHC Class II. MHC Class II expression is controlled by the transactivator CIITA. CIITA expression in conventional DCs is uniquely dependent on an uncharacterized myeloid cell-specific promoter, CIITApI. We now identify in vivo the promoter structure and factors regulating CIITApI. In immature DCs transcription requires binding of PU.1, IRF8, NFκB, and Sp1 to the promoter. PU.1 binds independently at one site and in a required heterodimer with IRF8 at a composite element. DCs from IRF8-null mice have an unoccupied CIITApI promoter that can be rescued by reconstitution with IRF8 in vitro. Furthermore, mutation of either PU.1 site or the IFR8 site inhibits transcriptional activation. In vivo footprinting and chromatin immunoprecipitation reveals that DC maturation induces complete disassociation of the bound activators paralleled by recruitment of PRDM1/Blimp-1 to the promoter. PRDM1 is a transcriptional repressor with essential roles in B cells, T cells, NK cells, and DCs. We show that PRDM1 co-repressors, G9a and HDAC2, are recruited to CIITApI, leading to a loss of histone acetylation and acquisition of histone H3K9 dimethylation and heterochromatin protein 1γ (HP1γ). PRDM1 binding also blocks IRF8-mediated activation dependent on the PU.1/IRF composite element. Together these findings reveal the mechanisms regulating CIITA and, thus, antigen presentation in DCs, demonstrating that PRDM1 and IRF8/PU.1 counter-regulate expression. The activity of PRDM1 in silencing all three cell type-specific CIITA promoters places it as a central regulator of antigen presentation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "20064451",
+      "title": "Analysis of interleukin-21-induced Prdm1 gene regulation reveals functional cooperation of STAT3 and IRF4 transcription factors.",
+      "authors": [
+        "Hyokjoon Kwon",
+        "Danielle Thierry-Mieg",
+        "Jean Thierry-Mieg",
+        "Hyoung-Pyo Kim",
+        "Jangsuk Oh",
+        "Chainarong Tunyaplin",
+        "Sebastian Carotta",
+        "Colleen E Donovan",
+        "Matthew L Goldman",
+        "Prafullakumar Tailor",
+        "Keiko Ozato",
+        "David E Levy",
+        "Stephen L Nutt",
+        "Kathryn Calame",
+        "Warren J Leonard"
+      ],
+      "year": "2009",
+      "journal": "Immunity",
+      "doi": "10.1016/j.immuni.2009.10.008",
+      "doi_link": "https://doi.org/10.1016/j.immuni.2009.10.008",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20064451",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Analysis%20of%20interleukin-21-induced%20Prdm1%20gene%20regulation%20reveals%20functional%20cooperation%20of%20STAT3%20and%20IRF4%20transcription%20factors%22",
+      "citations": {
+        "semantic_scholar": 365
+      },
+      "abstract": "Interleukin-21 (IL-21) is a pleiotropic cytokine that induces expression of transcription factor BLIMP1 (encoded by Prdm1), which regulates plasma cell differentiation and T cell homeostasis. We identified an IL-21 response element downstream of Prdm1 that binds the transcription factors STAT3 and IRF4, which are required for optimal Prdm1 expression. Genome-wide ChIP-Seq mapping of STAT3- and IRF4-binding sites showed that most regions with IL-21-induced STAT3 binding also bound IRF4 in vivo and furthermore revealed that the noncanonical TTCnnnTAA GAS motif critical in Prdm1 was broadly used for STAT3 binding. Comparing genome-wide expression array data to binding sites revealed that most IL-21-regulated genes were associated with combined STAT3-IRF4 sites rather than pure STAT3 sites. Correspondingly, ChIP-Seq analysis of Irf4(-/-) T cells showed greatly diminished STAT3 binding after IL-21 treatment, and Irf4(-/-) mice showed impaired IL-21-induced Tfh cell differentiation in vivo. These results reveal broad cooperative gene regulation by STAT3 and IRF4.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "18799728",
+      "title": "IRF8 regulates B-cell lineage specification, commitment, and differentiation.",
+      "authors": [
+        "Hongsheng Wang",
+        "Chang Hoon Lee",
+        "Chenfeng Qi",
+        "Prafullakumar Tailor",
+        "Jianxun Feng",
+        "Sadia Abbasi",
+        "Toru Atsumi",
+        "Herbert C Morse"
+      ],
+      "year": "2008",
+      "journal": "Blood",
+      "doi": "10.1182/blood-2008-01-129049",
+      "doi_link": "https://doi.org/10.1182/blood-2008-01-129049",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18799728",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22IRF8%20regulates%20B-cell%20lineage%20specification%2C%20commitment%2C%20and%20differentiation%22",
+      "citations": {
+        "semantic_scholar": 0
+      },
+      "abstract": "PU.1, IKAROS, E2A, EBF, and PAX5 comprise a transcriptional network that orchestrates B-cell lineage specification, commitment, and differentiation. Here we identify interferon regulatory factor 8 (IRF8) as another component of this complex, and show that it also modulates lineage choice by hematopoietic stem cells (HSCs). IRF8 binds directly to an IRF8/Ets consensus sequence located in promoter regions of Sfpi1 and Ebf1, which encode PU.1 and EBF, respectively, and is associated with transcriptional repression of Sfpi1 and transcriptional activation of Ebf1. Bone marrows of IRF8 knockout mice (IRF8(-/-)) had significantly reduced numbers of pre-pro-B cells and increased numbers of myeloid cells. Although HSCs of IRF8(-/-) mice failed to differentiate to B220(+) B-lineage cells in vitro, the defect could be rescued by transfecting HSCs with wild-type but not with a signaling-deficient IRF8 mutant. In contrast, overexpression of IRF8 in HSC-differentiated progenitor cells resulted in growth inhibition and apoptosis. We also found that IRF8 was expressed at higher levels in pre-pro-B cells than more mature B cells in wild-type mice. Together, these results indicate that IRF8 modulates lineage choice by HSCs and is part of the transcriptional network governing B-cell lineage specification, commitment, and differentiation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper21",
+      "publication_id": "18635538",
+      "title": "Virus infection triggers SUMOylation of IRF3 and IRF7, leading to the negative regulation of type I interferon gene expression.",
+      "authors": [
+        "Toru Kubota",
+        "Mayumi Matsuoka",
+        "Tsung-Hsien Chang",
+        "Prafullakumar Tailor",
+        "Tsuguo Sasaki",
+        "Masato Tashiro",
+        "Atsushi Kato",
+        "Keiko Ozato"
+      ],
+      "year": "2008",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M804479200",
+      "doi_link": "https://doi.org/10.1074/jbc.M804479200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18635538",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Virus%20infection%20triggers%20SUMOylation%20of%20IRF3%20and%20IRF7%2C%20leading%20to%20the%20negative%20regulation%20of%20type%20I%20interferon%20gene%20expression%22",
+      "citations": {
+        "semantic_scholar": 175
+      },
+      "abstract": "Viral infection activates Toll-like receptor and RIG-I (retinoic acid-inducible gene I) signaling pathways, leading to phosphorylation of IRF3 (interferon regulatory factor 3) and IRF7 and stimulation of type I interferon (IFN) transcription, a process important for innate immunity. We show that upon vesicular stomatitis virus infection, IRF3 and IRF7 are modified not only by phosphorylation but by the small ubiquitin-related modifiers SUMO1, SUMO2, and SUMO3. SUMOylation of IRF3 and IRF7 was dependent on the activation of Toll-like receptor and RIG-I pathways but not on the IFN-stimulated pathway. However, SUMOylation of IRF3 and IRF7 was not dependent on their phosphorylation, and vice versa. We identified Lys(152) of IRF3 and Lys(406) of IRF7 to be their sole small ubiquitin-related modifier (SUMO) conjugation site. IRF3 and IRF7 mutants defective in SUMOylation led to higher levels of IFN mRNA induction after viral infection, relative to the wild type IRFs, indicating a negative role for SUMOylation in IFN transcription. Together, SUMO modification is an integral part of IRF3 and IRF7 activity that contributes to postactivation attenuation of IFN production.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper22",
+      "publication_id": "18188453",
+      "title": "Muramyl dipeptide activation of nucleotide-binding oligomerization domain 2 protects mice from experimental colitis.",
+      "authors": [
+        "Tomohiro Watanabe",
+        "Naoki Asano",
+        "Peter J Murray",
+        "Keiko Ozato",
+        "Prafullakumar Tailor",
+        "Ivan J Fuss",
+        "Atsushi Kitani",
+        "Warren Strober"
+      ],
+      "year": "2008",
+      "journal": "The Journal of clinical investigation",
+      "doi": "10.1172/JCI33145",
+      "doi_link": "https://doi.org/10.1172/JCI33145",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18188453",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Muramyl%20dipeptide%20activation%20of%20nucleotide-binding%20oligomerization%20domain%202%20protects%20mice%20from%20experimental%20colitis%22",
+      "citations": {
+        "crossref": 42
+      },
+      "abstract": "The mechanisms underlying the susceptibility of individuals with caspase recruitment domain 15 (CARD15) mutations and corresponding abnormalities of nucleotide-binding oligomerization domain 2 (NOD2) protein to Crohn disease are still poorly understood. One possibility is based on previous studies showing that muramyl dipeptide (MDP) activation of NOD2 negatively regulates TLR2 responses and that absence of such regulation leads to heightened Th1 responses. We now report that administration of MDP protects mice from the development of experimental colitis by downregulating multiple TLR responses, not just TLR2. The basis of these in vivo findings was suggested by in vitro studies of DCs, in which we showed that prestimulation of cells with MDP reduces cytokine responses to multiple TLR ligands and this reduction is dependent on enhanced IFN regulatory factor 4 (IRF4) activity. Further studies of mouse models of colitis showed that this inhibitory role of IRF4 does in fact apply to MDP-mediated protection from colitis, since neither IRF4-deficient mice nor mice treated with siRNA specific for IRF4 were protected. These findings indicate that MDP activation of NOD2 regulates innate responses to intestinal microflora by downregulating multiple TLR responses and suggest that the absence of such regulation leads to increased susceptibility to Crohn disease.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper23",
+      "publication_id": "18055870",
+      "title": "The BXH2 mutation in IRF8 differentially impairs dendritic cell subset development in the mouse.",
+      "authors": [
+        "Prafullakumar Tailor",
+        "Tomohiko Tamura",
+        "Herbert C Morse",
+        "Keiko Ozato"
+      ],
+      "year": "2008",
+      "journal": "Blood",
+      "doi": "10.1182/blood-2007-07-100750",
+      "doi_link": "https://doi.org/10.1182/blood-2007-07-100750",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/18055870",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20BXH2%20mutation%20in%20IRF8%20differentially%20impairs%20dendritic%20cell%20subset%20development%20in%20the%20mouse%22",
+      "citations": {
+        "semantic_scholar": 189
+      },
+      "abstract": "Among dendritic cell (DC) subsets, CD8alpha(+) DCs and plasmacytoid DCs (pDCs) produce high levels of IL12 and type I interferons (IFNs), respectively, and confer early innate immunity. Development of CD8alpha(+) DCs and pDCs requires the interferon regulatory factor 8 (IRF8). Recently, a spontaneous point mutation was identified in the Irf8/Icsbp gene in the BXH2 mouse, which exhibits an immunodeficient phenotype similar to the IRF8 knockout (KO) mouse. We show that this mutation, designated IRF8(R294C), abolishes the development of CD8alpha(+) DCs without impairing pDC development, and eliminates production of IL12p40, while retaining that of type I IFNs. Electrophoretic mobility shift and chromatin immunoprecipitation assays indicated that IRF8(R294C) failed to interact with partner transcription factors and did not bind certain promoters that require partner interactions. Together, this work indicates that IRF8-partner interactions play different roles in CD8alpha(+) DCs and pDCs, revealing a mechanistic separation that underlies development of these DC subsets.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper24",
+      "publication_id": "17702615",
+      "title": "The feedback phase of type I interferon induction in dendritic cells requires interferon regulatory factor 8.",
+      "authors": [
+        "Prafullakumar Tailor",
+        "Tomohiko Tamura",
+        "Hee Jeong Kong",
+        "Toru Kubota",
+        "Mayumi Kubota",
+        "Paola Borghi",
+        "Lucia Gabriele",
+        "Keiko Ozato"
+      ],
+      "year": "2007",
+      "journal": "Immunity",
+      "doi": "10.1016/j.immuni.2007.06.009",
+      "doi_link": "https://doi.org/10.1016/j.immuni.2007.06.009",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17702615",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20feedback%20phase%20of%20type%20I%20interferon%20induction%20in%20dendritic%20cells%20requires%20interferon%20regulatory%20factor%208%22",
+      "citations": {
+        "semantic_scholar": 203
+      },
+      "abstract": "Dendritic cells (DCs) produce type I interferons (IFNs) in greater amounts than other cells, but the mechanisms remain elusive. Here we studied the role of a transcription factor, IRF8, in DC induction of type I IFNs. Upon newcastle disease virus (NDV) infection, bone marrow-derived plasmacytoid and conventional DCs induced IFN transcripts, exhibiting two-phase kinetics. The second, amplifying phase represented an IFN feedback response that accounted for much of IFN protein production. Induction of second phase transcription required IRF8. Mouse cytomegalovirus (MCMV) and Toll-like receptor-mediated IFN induction in DCs also required IRF8. Chromatin immunoprecipitation analysis showed that IRF7, IRF8, and RNA polymerase II were recruited to the IFN promoters upon stimulation. Moreover, sustained RNA polymerase II recruitment to the promoters critically depended on IRF8. Together, these data indicate that IRF8 magnifies the second phase of IFN transcription in DCs by prolonging binding of basic transcription machinery to the IFN promoters, thereby playing a role in innate immunity.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper25",
+      "publication_id": "17579016",
+      "title": "Cutting edge: autoantigen Ro52 is an interferon inducible E3 ligase that ubiquitinates IRF-8 and enhances cytokine expression in macrophages.",
+      "authors": [
+        "Hee Jeong Kong",
+        "D Eric Anderson",
+        "Chang Hoon Lee",
+        "Moon Kyoo Jang",
+        "Tomohiko Tamura",
+        "Prafullakumar Tailor",
+        "Hyun Kook Cho",
+        "JaeHun Cheong",
+        "Huabao Xiong",
+        "Herbert C Morse",
+        "Keiko Ozato"
+      ],
+      "year": "2007",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.179.1.26",
+      "doi_link": "https://doi.org/10.4049/jimmunol.179.1.26",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17579016",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Cutting%20edge%3A%20autoantigen%20Ro52%20is%20an%20interferon%20inducible%20E3%20ligase%20that%20ubiquitinates%20IRF-8%20and%20enhances%20cytokine%20expression%20in%20macrophages%22",
+      "citations": {
+        "semantic_scholar": 223
+      },
+      "abstract": "IFN regulatory factor (IRF)-8 is a transcription factor important for the development and function of macrophages. It plays a critical role in the induction of cytokine genes, including IL-12p40. Immunopurification and mass spectrometry analysis found that IRF-8 interacted with Ro52 in murine macrophages upon IFN-gamma and TLR stimulation. Ro52 is an IFN-inducible protein of the tripartite motif (TRIM) family and is an autoantigen present in patients with Sjögren's syndrome and systemic lupus erythematosus. Ro52 has a RING motif and is capable of ubiquitinating itself. We show that IRF-8 is ubiquitinated by Ro52 both in vivo and in vitro. Ectopic expression of Ro52 enhanced IL-12p40 expression in IFN-gamma/TLR-stimulated macrophages in an IRF-8-dependent manner. Together, Ro52 is an E3 ligase for IRF-8 that acts in a non-degradation pathway of ubiquitination, and contributes to the elicitation of innate immunity in macrophages.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper26",
+      "publication_id": "17502370",
+      "title": "The interferon regulatory factor family in host defense: mechanism of action.",
+      "authors": [
+        "Keiko Ozato",
+        "Prafullakumar Tailor",
+        "Toru Kubota"
+      ],
+      "year": "2007",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.R700003200",
+      "doi_link": "https://doi.org/10.1074/jbc.R700003200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17502370",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20interferon%20regulatory%20factor%20family%20in%20host%20defense%3A%20mechanism%20of%20action%22",
+      "citations": {
+        "semantic_scholar": 206
+      },
+      "abstract": "Transcription factors of the interferon regulatory factor (IRF) family commands the entire type I interferon (IFN) system from induction of IFNs to diverse IFN responses, thereby providing a principal basis for host resistance against pathogens. However, the family has various additional roles. Regulating the development of the immune system, IRFs shape the establishment and execution of innate and adaptive immunity. IRFs also regulate growth and differentiation of many cell types, thus playing a role in leukemia and other cancers. In addition, evidence indicates that IRFs confer antiviral mechanisms not directly ascribed to the IFN system. This review deals with the diverse roles of IRFs in host defense and discusses the molecular mechanisms by which they regulate target gene transcription.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper27",
+      "publication_id": "17238832",
+      "title": "Induction of an anti-inflammatory cytokine, IL-10, in dendritic cells after toll-like receptor signaling.",
+      "authors": [
+        "Ranmal Samarasinghe",
+        "Prafullakumar Tailor",
+        "Tomohiko Tamura",
+        "Tsuneyasu Kaisho",
+        "Shizuo Akira",
+        "Keiko Ozato"
+      ],
+      "year": "2006",
+      "journal": "Journal of interferon & cytokine research : the official journal of the International Society for Interferon and Cytokine Research",
+      "doi": "10.1089/jir.2006.26.893",
+      "doi_link": "https://doi.org/10.1089/jir.2006.26.893",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17238832",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Induction%20of%20an%20anti-inflammatory%20cytokine%2C%20IL-10%2C%20in%20dendritic%20cells%20after%20toll-like%20receptor%20signaling%22",
+      "citations": {
+        "semantic_scholar": 91
+      },
+      "abstract": "Interleukin-10 (IL-10) is an anti-inflammatory cytokine that modulates innate and adaptive immunity. IL-10 transcripts and the protein were induced in murine bone marrow-derived dendritic cells (BMDCs) after toll-like receptor (TLR) stimulation. IL-10 induction was TLR ligand selective, in that CpG DNA, imidazoquinolin, peptidoglycan, and zymosan but not lipopolysaccharide (LPS) and poly I:C led to IL-10 production. IL-10 induction was, however, completely absent in MyD88(/) DCs that lacked a TLR adaptor showing that IL-10 induction depends on TLR signaling. Kinetic analysis of IL-10 induction by CpG and imidazoquinolin revealed a prolonged lag phase prior to a measurable rise in transcript levels, which peaked at 12-24 h after stimulation. Stat3, implicated in IL-10 gene transcription, was also induced after TLR stimulation with the kinetics similar to those of IL-10 induction. Further, Stat3 was phosphorylated and bound to the IL-10 promoter in TLR-stimulated DCs. Supporting a link with IL-10 induction, STAT3 induction was absent in MyD88(/) DCs. These data suggest a two-step model where the initial TLR signaling induced proinflammatory cytokines, which then activated Stat3, leading to the induction of IL-10. TLR-stimulated IL-10 production may regulate DC maturation steps, thereby influencing the ensuing immune responses.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper28",
+      "publication_id": "17189268",
+      "title": "Interferon regulatory factor-8 is indispensable for the expression of promyelocytic leukemia and the formation of nuclear bodies in myeloid cells.",
+      "authors": [
+        "Natalie Dror",
+        "Naama Rave-Harel",
+        "Andreas Burchert",
+        "Aviva Azriel",
+        "Tomohiko Tamura",
+        "Prafullakumar Tailor",
+        "Andreas Neubauer",
+        "Keiko Ozato",
+        "Ben-Zion Levi"
+      ],
+      "year": "2007",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M607825200",
+      "doi_link": "https://doi.org/10.1074/jbc.M607825200",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/17189268",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Interferon%20regulatory%20factor-8%20is%20indispensable%20for%20the%20expression%20of%20promyelocytic%20leukemia%20and%20the%20formation%20of%20nuclear%20bodies%20in%20myeloid%20cells%22",
+      "citations": {
+        "crossref": 35
+      },
+      "abstract": "Interferon (IFN) regulatory factor-8 (IRF-8), previously known as ICSBP, is a myeloid cell essential transcription factor. Mice with null mutation in IRF-8 are defective in the ability of myeloid progenitor cells to mature toward macrophage lineage. Accordingly, these mice develop chronic myelogenous leukemia (CML). We demonstrate here that IRF-8 is an obligatory regulator of the promyelocytic leukemia (PML) gene in activated macrophages, leading to the expression of the PML-I isoform. This regulation is most effective together with two other transcription factors, IRF-1 and PU.1. PML is a tumor suppressor gene that serves as a scaffold protein for nuclear bodies. IRF-8 is not only essential for the IFN-gamma-induced expression of PML in activated macrophages but also for the formation of nuclear bodies. Reduced IRF-8 transcript levels were reported in CML patients, and a recovery to normal levels was observed in patients in remission following treatment with IFN-alpha. We demonstrate a significant correlation between the levels of IRF-8 and PML in these CML patients. Together, our results indicate that some of the myeloleukemia suppressor activities of IRF-8 are mediated through the regulation of PML. When IRF-8 levels are compromised, the reduced PML expression may lead to genome instability and eventually to the leukemic phenotype.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper29",
+      "publication_id": "16474425",
+      "title": "IRF family proteins and type I interferon induction in dendritic cells.",
+      "authors": [
+        "Prafullakumar Tailor",
+        "Tomohiko Tamura",
+        "Keiko Ozato"
+      ],
+      "year": "2006",
+      "journal": "Cell research",
+      "doi": "10.1038/sj.cr.7310018",
+      "doi_link": "https://doi.org/10.1038/sj.cr.7310018",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16474425",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22IRF%20family%20proteins%20and%20type%20I%20interferon%20induction%20in%20dendritic%20cells%22",
+      "citations": {
+        "crossref": 150
+      },
+      "abstract": "Dendritic cells (DC), although a minor population in hematopoietic cells, produce type I interferons (IFN) and other cytokines and are essential for innate immunity. They are also potent antigen presenters and regulate adaptive immunity. Among DC subtypes plasmacytoid DC (pDC) produce the highest amounts of type I IFN. In addition, pro- and anti-inflammatory cytokines such as IL-12 and IL-10 are induced in DC in response to Toll like receptor (TLR) signaling and upon viral infection. Proteins in the IRF family control many aspects of DC activity. IRF-8 and IRF-4 are essential for DC development. They differentially control the development of four DC subsets. IRF-8-/- mice are largely devoid of pDC and CD8alpha+ DC, while IRF-4-/- mice lack CD4+DC. IRF-8-/-, IRF4-/-, double knock-out mice have only few CD8á-CD4-DC that lack MHC II. IRF proteins also control type I IFN induction in DC. IRF-7, activated upon TLR signaling is required for IFN induction not only in pDC, but also in conventional DC (cDC) and non-DC cell types. IRF-3, although contributes to IFN induction in fibroblasts, is dispensable in IFN induction in DC. Our recent evidence reveals that type I IFN induction in DC is critically dependent on IRF-8, which acts in the feedback phase of IFN gene induction in DC. Type I IFN induction in pDC is mediated by MyD88 dependent signaling pathway, and differs from pathways employed in other cells, which mostly rely on TLR3 and RIG-I family proteins. Other pro-inflammatory cytokines are produced in an IRF-5 dependent manner. However, IRF-5 is not required for IFN induction, suggesting the presence of separate mechanisms for induction of type I IFN and other pro-inflammatory cytokines. IFN and other cytokines produced by activated DC in turn advance DC maturation and change the phenotype and function of DC. These processes are also likely to be governed by IRF family proteins.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper30",
+      "publication_id": "15728463",
+      "title": "IFN regulatory factor-4 and -8 govern dendritic cell subset development and their functional diversity.",
+      "authors": [
+        "Tomohiko Tamura",
+        "Prafullakumar Tailor",
+        "Kunihiro Yamaoka",
+        "Hee Jeong Kong",
+        "Hideki Tsujimura",
+        "John J O'Shea",
+        "Harinder Singh",
+        "Keiko Ozato"
+      ],
+      "year": "2005",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.174.5.2573",
+      "doi_link": "https://doi.org/10.4049/jimmunol.174.5.2573",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15728463",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22IFN%20regulatory%20factor-4%20and%20-8%20govern%20dendritic%20cell%20subset%20development%20and%20their%20functional%20diversity%22",
+      "citations": {
+        "semantic_scholar": 455
+      },
+      "abstract": "Dendritic cells (DCs) are bone marrow (BM)-derived APCs central to both innate and adaptive immunity. DCs are a heterogeneous cell population composed of multiple subsets with diverse functions. The mechanism governing the generation of multiple DC subsets is, however, poorly understood. In this study we investigated the roles of closely related transcription factors, IFN regulatory factor (IRF)-4 and IRF-8, in DC development by analyzing IRF-4(-/-), IRF-8(-/-), and IRF-4(-/-)IRF-8(-/-) (double-knockout) mice. We found that IRF-4 is required for the generation of CD4(+) DCs, whereas IRF-8 is, as reported previously, essential for CD8alpha(+) DCs. Both IRFs support the development of CD4(-)CD8alpha(-) DCs. IRF-8 and, to a lesser degree, IRF-4 contribute to plasmacytoid DC (PDC) development. Thus, the two IRFs together regulate the development of all conventional DCs as well as PDCs. Consistent with these findings, IRF-4, but not IRF-8, was expressed in CD4(+) DCs, whereas only IRF-8 was expressed in CD8alpha(+) DCs. CD4(-)CD8alpha(-) DCs and PDCs expressed both IRFs. We also demonstrate in vitro that GM-CSF-mediated DC differentiation depends on IRF-4, whereas Fms-like tyrosine kinase 3 ligand-mediated differentiation depends mainly on IRF-8. Gene transfer experiments with double-knockout BM cells showed that both IRFs have an overlapping activity and stimulate a common process of DC development. Nonetheless, each IRF also possesses a distinct activity to stimulate subset-specific gene expression, leading to the generation of functionally divergent DCs. Together, IRF-4 and IRF-8 serve as a backbone of the molecular program regulating DC subset development and their functional diversity.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper31",
+      "publication_id": "15121865",
+      "title": "The chromatin-remodeling BAF complex mediates cellular antiviral activities by promoter priming.",
+      "authors": [
+        "Kairong Cui",
+        "Prafullakumar Tailor",
+        "Hong Liu",
+        "Xin Chen",
+        "Keiko Ozato",
+        "Keji Zhao"
+      ],
+      "year": "2004",
+      "journal": "Molecular and cellular biology",
+      "doi": "10.1128/MCB.24.10.4476-4486.2004",
+      "doi_link": "https://doi.org/10.1128/MCB.24.10.4476-4486.2004",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15121865",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20chromatin-remodeling%20BAF%20complex%20mediates%20cellular%20antiviral%20activities%20by%20promoter%20priming%22",
+      "citations": {
+        "crossref": 89
+      },
+      "abstract": "The elicitation of cellular antiviral activities is dependent on the rapid transcriptional activation of interferon (IFN) target genes. It is not clear how the interferon target promoters, which are organized into chromatin structures in cells, rapidly respond to interferon or viral stimulation. In this report, we show that alpha IFN (IFN-alpha) treatment of HeLa cells induced hundreds of genes. The induction of the majority of these genes was inhibited when one critical subunit of the chromatin-remodeling SWI/SNF-like BAF complexes, BAF47, was knocked down via RNA interference. Inhibition of BAF47 blocked the cellular response to viral infection and impaired cellular antiviral activity by inhibiting many IFN- and virus-inducible genes. We show that the BAF complex was required to mediate both the basal-level expression and the rapid induction of the antiviral genes. Further analyses indicated that the BAF complex primed some IFN target promoters by utilizing ATP-derived energy to maintain the chromatin in a constitutively open conformation, allowing faster and more potent induction after IFN-alpha treatment. We propose that constitutive binding of the BAF complex is an important mechanism for the IFN-inducible promoters to respond rapidly to IFN and virus stimulation.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 31,
+    "publications_by_year": {
+      "2025": 1,
+      "2023": 1,
+      "2022": 2,
+      "2021": 4,
+      "2020": 2,
+      "2017": 1,
+      "2016": 1,
+      "2015": 1,
+      "2013": 2,
+      "2012": 1,
+      "2011": 2,
+      "2009": 1,
+      "2008": 4,
+      "2007": 4,
+      "2006": 2,
+      "2005": 1,
+      "2004": 1
+    },
+    "top_journals": [
+      "Journal of immunology (Baltimore, Md. : 1950)",
+      "The Journal of biological chemistry",
+      "International journal of biological macromolecules",
+      "Cellular immunology",
+      "Immunity"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 130,
+      "frequent_collaborators": [
+        "Prafullakumar Tailor",
+        "Keiko Ozato",
+        "Tomohiko Tamura",
+        "Monika Kaushik",
+        "Himanshu Kumar",
+        "Bhupendra Singh Rawat",
+        "Sayan Chakraborty",
+        "Mohammed Ahmad"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "15728463",
+        "title": "IFN regulatory factor-4 and -8 govern dendritic cell subset development and their functional diversity.",
+        "citations": 455,
+        "year": "2005"
+      },
+      {
+        "publication_id": "20064451",
+        "title": "Analysis of interleukin-21-induced Prdm1 gene regulation reveals functional cooperation of STAT3 and IRF4 transcription factors.",
+        "citations": 365,
+        "year": "2009"
+      },
+      {
+        "publication_id": "17579016",
+        "title": "Cutting edge: autoantigen Ro52 is an interferon inducible E3 ligase that ubiquitinates IRF-8 and enhances cytokine expression in macrophages.",
+        "citations": 223,
+        "year": "2007"
+      }
+    ]
+  }
+}

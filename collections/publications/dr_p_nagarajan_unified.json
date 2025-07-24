@@ -1,0 +1,646 @@
+{
+  "faculty_profile": {
+    "name": "Dr. P. Nagarajan",
+    "email": "nagarajan@nii.ac.in",
+    "source_url": "https://www.nii.res.in/en/faculty/dr-p-nagarajan",
+    "research_domain": "Chemical Biology, Biochemistry & Structural Biology",
+    "faculty_status": "current",
+    "search_date": "2025-06-27T15:11:09.435035",
+    "total_publications": 20,
+    "last_updated": "2025-06-27",
+    "description": "This document contains a complete list of publications by Dr. P. Nagarajan, current faculty in Chemical Biology, Biochemistry & Structural Biology at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "27997162",
+      "title": "Carbohydrate-Neuroactive Hybrid Strategy for Metabolic Glycan Engineering of the Central Nervous System in Vivo.",
+      "authors": [
+        "Asif Shajahan",
+        "Shubham Parashar",
+        "Surbhi Goswami",
+        "Syed Meheboob Ahmed",
+        "Perumal Nagarajan",
+        "Srinivasa-Gopalan Sampathkumar"
+      ],
+      "year": "2017",
+      "journal": "Journal of the American Chemical Society",
+      "doi": "10.1021/jacs.6b08894",
+      "doi_link": "https://doi.org/10.1021/jacs.6b08894",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27997162",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Carbohydrate-Neuroactive%20Hybrid%20Strategy%20for%20Metabolic%20Glycan%20Engineering%20of%20the%20Central%20Nervous%20System%20in%20Vivo%22",
+      "citations": {
+        "semantic_scholar": 23
+      },
+      "abstract": "Sialic acids are abundant in the central nervous system (CNS) and are essential for brain development, learning, and memory. Dysregulation in biosynthesis of sialo-glycoconjugates is known to be associated with neurological disorders, CNS injury, and brain cancer. Metabolic glycan engineering (MGE) and bioorthogonal ligation have enabled study of biological roles of glycans in vivo; however, direct investigations of sialoglycans in brain have been intractable. We report a simple strategy utilizing carbohydrate-neuroactive hybrid (CNH) molecules, which exploit carrier-mediated transport systems available at the blood-brain barrier, to access brain via tail vein injection in mice. Peracetylated N-azidoacetyl-d-mannosamine (Ac4ManNAz) conjugated with neuroactive carriers, namely, nicotinic acid, valproic acid, theophylline-7-acetic acid, and choline, were synthesized and evaluated in SH-SY5Y (human neuroblastoma) cells for MGE. Intravenous administration of CNH molecules in mice (C57BL/6J and BALB/cByJ) resulted in robust expression of N-azidoacetyl-neuraminic acid (NeuAz)-carrying glycoproteins in both brain and heart, while the nonhybrid molecule Ac4ManNAz showed NeuAz expression in heart but not in brain. Successful neuroactive carriers were then conjugated with N-butanoyl-d-mannosamine (ManNBut) with a goal to achieve modulation of polysialic acid (polySia) on neural cell adhesion molecules (NCAM). PolySia levels on NCAM in adult mice were reduced significantly upon administration of Ac3ManNBut-nicotinate hybrid, but not with Ac4ManNBut. This novel application of MGE not only offers a noninvasive tool for investigating brain glycosylation, which could be developed in to brain mapping applications, but also serves as a potential drug by which modulation of neural glycan biosynthesis and thus function can be achieved in vivo.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "28056498",
+      "title": "Bone marrow stem cell therapy partially ameliorates pathological consequences in livers of mice expressing mutant human α1-antitrypsin.",
+      "authors": [
+        "Prakash Baligar",
+        "Veena Kochat",
+        "Shailendra K Arindkar",
+        "Zaffar Equbal",
+        "Snehashish Mukherjee",
+        "Swati Patel",
+        "Perumal Nagarajan",
+        "Sujata Mohanty",
+        "Jeffrey H Teckman",
+        "Asok Mukhopadhyay"
+      ],
+      "year": "2017",
+      "journal": "Hepatology (Baltimore, Md.)",
+      "doi": "10.1002/hep.29027",
+      "doi_link": "https://doi.org/10.1002/hep.29027",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28056498",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Bone%20marrow%20stem%20cell%20therapy%20partially%20ameliorates%20pathological%20consequences%20in%20livers%20of%20mice%20expressing%20mutant%20human%20%CE%B11-antitrypsin%22",
+      "citations": {
+        "crossref": 23
+      },
+      "abstract": "UNLABELLED: Alpha-1-antitrypsin (AAT) deficiency (AATD) is a genetic disease, caused by mutation of the AAT gene. Accumulation of mutated AAT protein aggregates in hepatocytes leads to endoplasmic reticulum stress, resulting in impairment of liver functions and, in some cases, hepatocellular carcinoma, whereas decline of AAT levels in sera is responsible for pulmonary emphysema. In advanced liver disease, the only option for treatment is liver transplantation, whereas AAT replacement therapy is therapeutic for emphysema. Given that hepatocytes are the primary affected cells in AATD, we investigated whether transplantation of bone marrow (BM)-derived stem cells in transgenic mice expressing human AATZ (the Z variant of AAT) confers any competitive advantages compared to host cells that could lead to pathological improvement. Mouse BM progenitors and human mesenchymal stem cells (MSCs) appeared to contribute in replacement of 40% and 13% host hepatocytes, respectively. Transplantation of cells resulted in decline of globule-containing hepatocytes, improvement in proliferation of globule-devoid hepatocytes from the host-derived hepatocytes, and apparently, donor-derived cells. Further analyses revealed that transplantation partially improves liver pathology as reflected by inflammatory response, fibrosis, and apoptotic death of hepatocytes. Cell therapy was also found to improve liver glycogen storage and sera glucose level in mice expressing human AATZ mice. These overall improvements in liver pathology were not restricted to transplantation of mouse BM cells. Preliminary results also showed that following transplantation of human BM-derived MSCs, globule-containing hepatocytes declined and donor-derived cells expressed human AAT protein. CONCLUSION: These results suggest that BM stem cell transplantation may be a promising therapy for AATD-related liver disease. (Hepatology 2017;65:1319-1335).",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "28170202",
+      "title": "Autologous NeoHep Derived from Chronic Hepatitis B Virus Patients' Blood Monocytes by Upregulation of c-MET Signaling.",
+      "authors": [
+        "Jashdeep Bhattacharjee",
+        "Barun Das",
+        "Disha Sharma",
+        "Preeti Sahay",
+        "Kshama Jain",
+        "Alaknanda Mishra",
+        "Srikanth Iyer",
+        "Puja Nagpal",
+        "Vinod Scaria",
+        "Perumal Nagarajan",
+        "Prakash Khanduri",
+        "Asok Mukhopadhyay",
+        "Pramod Upadhyay"
+      ],
+      "year": "2017",
+      "journal": "Stem cells translational medicine",
+      "doi": "10.5966/sctm.2015-0308",
+      "doi_link": "https://doi.org/10.5966/sctm.2015-0308",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28170202",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Autologous%20NeoHep%20Derived%20from%20Chronic%20Hepatitis%20B%20Virus%20Patients%27%20Blood%20Monocytes%20by%20Upregulation%20of%20c-MET%20Signaling%22",
+      "citations": {
+        "crossref": 3
+      },
+      "abstract": "In view of the escalating need for autologous cell-based therapy for treatment of liver diseases, a novel candidate has been explored in the present study. The monocytes isolated from hepatitis B surface antigen (HBsAg) nucleic acid test (NAT)-positive (HNP) blood were differentiated to hepatocyte-like cells (NeoHep) in vitro by a two-step culture procedure. The excess neutrophils present in HNP blood were removed before setting up the culture. In the first step of culture, apoptotic cells were depleted and genes involved in hypoxia were induced, which was followed by the upregulation of genes involved in the c-MET signaling pathway in the second step. The NeoHep were void of hepatitis B virus and showed expression of albumin, connexin 32, hepatocyte nuclear factor 4-α, and functions such as albumin secretion and cytochrome P450 enzyme-mediated detoxification of xenobiotics. The engraftment of NeoHep derived from HBsAg-NAT-positive blood monocytes in partially hepatectomized NOD.CB17-Prkdcscid /J mice liver and the subsequent secretion of human albumin and clotting factor VII activity in serum make NeoHep a promising candidate for cell-based therapy. Stem Cells Translational Medicine 2017;6:174-186.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "28258056",
+      "title": "A novel immunodeficient NOD.SCID",
+      "authors": [
+        "Alaknanda Mishra",
+        "Barun Das",
+        "Madhu Nath",
+        "Srikanth Iyer",
+        "Ashwani Kesarwani",
+        "Jashdeep Bhattacharjee",
+        "Shailendra Arindkar",
+        "Preeti Sahay",
+        "Kshama Jain",
+        "Parul Sahu",
+        "Prakriti Sinha",
+        "Thirumurthy Velpandian",
+        "Perumal Nagarajan",
+        "Pramod Upadhyay"
+      ],
+      "year": "2017",
+      "journal": "Biology open",
+      "doi": "10.1242/bio.021618",
+      "doi_link": "https://doi.org/10.1242/bio.021618",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28258056",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22A%20novel%20immunodeficient%20NOD.SCID%22",
+      "citations": {
+        "semantic_scholar": 10
+      },
+      "abstract": "Retinitis pigmentosa (RP) is a common retinal degeneration disease caused by mutation in any gene of the photo transduction cascade and results in photoreceptor dystrophy. Over decades, several animal models have been used to address the need for the elucidation of effective therapeutics and factors regulating retinal degeneration to prohibit or renew the damaged retina. However, controversies over the immune privilege of retina during cell transplantation and the role of immune modulation during RP still remain largely uninvestigated because of the lack of suitable animal models. Here, we have developed an immunocompromised mouse model, NOD.SCID-rd1, for retinitis pigmentosa (RP) by crossing CBA/J and NOD SCID mice and selecting homozygous double mutant animals for further breeding. Characterization of the newly developed RP model indicates a similar retinal degeneration pattern as CBA/J, with a decreased apoptosis rate and rhodopsin loss. It also exhibits loss of T cells, B cells and NK cells. The NOD.SCID-rd1 model is extremely useful for allogenic and xenogenic cell-based therapeutics, as indicated by the higher cell integration capacity post transplantation. We dissect the underlying role of the immune system in the progression of RP and the effect of immune deficiency on immune privilege of the eye using comparative qPCR studies of this model and the immune-competent RP model.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "28855623",
+      "title": "Nanocurcumin is superior to native curcumin in preventing degenerative changes in Experimental Cerebral Malaria.",
+      "authors": [
+        "Chaitanya Dende",
+        "Jairam Meena",
+        "Perumal Nagarajan",
+        "Viswanathan Arun Nagaraj",
+        "Amulya Kumar Panda",
+        "Govindarajan Padmanaban"
+      ],
+      "year": "2017",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-017-10672-9",
+      "doi_link": "https://doi.org/10.1038/s41598-017-10672-9",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/28855623",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Nanocurcumin%20is%20superior%20to%20native%20curcumin%20in%20preventing%20degenerative%20changes%20in%20Experimental%20Cerebral%20Malaria%22",
+      "citations": {
+        "semantic_scholar": 104
+      },
+      "abstract": "Curcumin has many pharmacological activities despite its poor bioavailability and in vivo stability. Here, we show that a nanoformulated curcumin (PLGA-curcumin) has better therapeutic index than native curcumin in preventing the onset of neurological symptoms and delaying the death of mice in experimental cerebral malaria. Oral PLGA-curcumin was at least as effective as native curcumin at a 15-fold lower concentration in preventing the breakdown of blood-brain barrier and inhibition of brain mRNAs for inflammatory cytokines, chemokine receptor CXCR3 and its ligand CXCL10, with an increase in the anti-inflammatory cytokine IL-10. This was also reflected in serum cytokine and chemokine levels. At equivalent concentrations, a single oral dose of PLGA-curcumin was more effective in inhibiting serum IFNγ levels and enhancing IL-10 levels than native curcumin. Even at low concentrations, PLGA-curcumin was superior to native curcumin in inhibiting the sequestration of parasitized-RBCs and CD8+ T cells in the brain. A single oral dose of 5 mg PLGA-curcumin containing 350 μg of curcumin resulted in 3-4 fold higher concentration and prolonged presence of curcumin in the brain than that obtained with 5 mg of native curcumin, indicating better bioavailability of PLGA-curcumin. PLGA-curcumin has potential as an adjunct drug to treat human cerebral malaria.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "29656466",
+      "title": "Evaluation of high-fat high-fructose diet treatment in factor VIII (coagulation factor)-deficient mouse model.",
+      "authors": [
+        "Alaknanda Mishra",
+        "Shailendra Arindkar",
+        "Preeti Sahay",
+        "Jerald Mahesh Kumar",
+        "Pramod K Upadhyay",
+        "Subeer S Majumdar",
+        "Perumal Nagarajan"
+      ],
+      "year": "2018",
+      "journal": "International journal of experimental pathology",
+      "doi": "10.1111/iep.12264",
+      "doi_link": "https://doi.org/10.1111/iep.12264",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/29656466",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Evaluation%20of%20high-fat%20high-fructose%20diet%20treatment%20in%20factor%20VIII%20%28coagulation%20factor%29-deficient%20mouse%20model%22",
+      "citations": {
+        "semantic_scholar": 2
+      },
+      "abstract": "Non-alcoholic fatty liver disease (NAFLD)-like conditions enhance the production and action of clotting factors in humans. However, studies examining the effect of NAFLD due to high-fat high-fructose (HFHF) diet in factor VIII-deficient (haemophilia A) animals or patients have not been reported previously. In this study, we investigated the individual role of factor VIII in the progression of diet-induced NAFLD in the factor 8-/- (F8-/- ) mouse model system and its consequences on the haemophilic status of the mice. The F8-/- mice were fed with HFHF diet for 14 weeks. Physiological, biochemical, haematological, molecular, pathological, and immune histochemical analyses were performed to evaluate the effect of this diet. The F8-/- mice developed hepatic steatosis after 14 weeks HFHF diet and displayed lower energy metabolism, higher myeloid cell infiltration in the liver, decreased platelet count, upregulated de novo fatty acid synthesis, lipid accumulation, and collagen deposition. This study helps to understand the role of factor VIII in NAFLD pathogenesis and to analyse the severity and consequences of steatosis in haemophilic patients as compared to normal population. This study suggests that haemophilic animals (F8-/- mice) are highly prone to hepatic steatosis and thrombocytopenia.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "30579957",
+      "title": "Testosterone augments FSH signaling by upregulating the expression and activity of FSH-Receptor in Pubertal Primate Sertoli cells.",
+      "authors": [
+        "Indrashis Bhattacharya",
+        "Sayon Basu",
+        "Bhola Shankar Pradhan",
+        "Hironmoy Sarkar",
+        "Perumal Nagarajan",
+        "Subeer S Majumdar"
+      ],
+      "year": "2019",
+      "journal": "Molecular and cellular endocrinology",
+      "doi": "10.1016/j.mce.2018.12.012",
+      "doi_link": "https://doi.org/10.1016/j.mce.2018.12.012",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30579957",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Testosterone%20augments%20FSH%20signaling%20by%20upregulating%20the%20expression%20and%20activity%20of%20FSH-Receptor%20in%20Pubertal%20Primate%20Sertoli%20cells%22",
+      "citations": {
+        "semantic_scholar": 31
+      },
+      "abstract": "The synergistic actions of Testosterone (T) and FSH via testicular Sertoli cells (Sc) regulate male fertility. We have previously reported that the actions of these hormones (T and FSH) in infant monkey testes are restricted only to the expansion of Sc and spermatogonial cells. The robust differentiation of male Germ cells (Gc) occurs after pubertal maturation of testis. The present study was aimed to investigate the molecular basis of the synergy between T and FSH action in pubertal primate (Macaca mulatta) Sc. Using primary Sc culture, we here have demonstrated that T (but not FSH) downregulated AMH and Inhibin-β-B (INHBB) mRNAs in pubertal Sc. We also found that, prolonged stimulation of T in pubertal Sc significantly elevated the expression of genes involved in FSH signaling pathway like FSH-Receptor (FSHR), GNAS and RIC8B, and this was associated with a rise in cAMP production. T also augmented FSH induced expression of genes like SCF, GDNF, ABP and Transferrin (TF) in pubertal Sc. We therefore conclude that T acts in synergy with FSH signaling in pubertal Sc. Such a coordinated network of hormonal signaling in Sc may facilitate the timely onset of the first spermatogenic wave in pubertal primates and is responsible for quantitatively and qualitatively normal spermatogenesis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "30679313",
+      "title": "The microRNAs miR-449a and miR-424 suppress osteosarcoma by targeting cyclin A2 expression.",
+      "authors": [
+        "Ritu Shekhar",
+        "Priyanka Priyanka",
+        "Praveen Kumar",
+        "Tanushree Ghosh",
+        "Md Muntaz Khan",
+        "Perumal Nagarajan",
+        "Sandeep Saxena"
+      ],
+      "year": "2019",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.RA118.005778",
+      "doi_link": "https://doi.org/10.1074/jbc.RA118.005778",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30679313",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20microRNAs%20miR-449a%20and%20miR-424%20suppress%20osteosarcoma%20by%20targeting%20cyclin%20A2%20expression%22",
+      "citations": {
+        "semantic_scholar": 57
+      },
+      "abstract": "MicroRNAs of the miR-16 and miR-34 families have been reported to inhibit cell cycle progression, and their loss has been linked to oncogenic transformation. Utilizing a high-throughput, genome-wide screen for miRNAs and mRNAs that are differentially regulated in osteosarcoma (OS) cell lines, we report that miR-449a and miR-424, belonging to the miR-34 and miR-16 families, respectively, target the major S/G2 phase cyclin, cyclin A2 (CCNA2), in a bipartite manner. We found that the 3'-UTR of CCNA2 is recognized by miR-449a, whereas the CCNA2 coding region is targeted by miR-424. Of note, we observed loss of both miR-449a and miR-424 in OS, resulting in derepression of CCNA2 and appearance of aggressive cancer phenotypes. Ectopic expression of miR-449a and miR-424 significantly decreased cyclin A2 levels and inhibited proliferation rate, migratory potential, and colony-forming ability of OS cells. To further probe the roles of miR-449a and miR-424 in OS, we developed an OS mouse model by intraosseous injection of U2OS cells into the tibia bone of NOD-scid mice, which indicated that miR-449a and miR-424 co-expression suppresses tumor growth. On the basis of this discovery, we analyzed the gene expression of human OS biopsy samples, revealing that miR-449a and miR-424 are both down-regulated, whereas cyclin A2 is significantly up-regulated in these OS samples. In summary, the findings in our study highlight that cyclin A2 repression by miRNAs of the miR-16 and miR-34 families is lost in aggressive OS.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "32967734",
+      "title": "Peripheral blood-derived monocytes show neuronal properties and integration in immune-deficient rd1 mouse model upon phenotypic differentiation and induction with retinal growth factors.",
+      "authors": [
+        "Alaknanda Mishra",
+        "K Varsha Mohan",
+        "Perumal Nagarajan",
+        "Srikanth Iyer",
+        "Ashwani Kesarwani",
+        "Madhu Nath",
+        "Laxmi Moksha",
+        "Jashdeep Bhattacharjee",
+        "Barun Das",
+        "Kshama Jain",
+        "Parul Sahu",
+        "Prakriti Sinha",
+        "T Velapandian",
+        "Pramod Upadhyay"
+      ],
+      "year": "2020",
+      "journal": "Stem cell research & therapy",
+      "doi": "10.1186/s13287-020-01925-y",
+      "doi_link": "https://doi.org/10.1186/s13287-020-01925-y",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32967734",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Peripheral%20blood-derived%20monocytes%20show%20neuronal%20properties%20and%20integration%20in%20immune-deficient%20rd1%20mouse%20model%20upon%20phenotypic%20differentiation%20and%20induction%20with%20retinal%20growth%20factors%22",
+      "citations": {
+        "semantic_scholar": 6
+      },
+      "abstract": "BACKGROUND: Cell therapy is one of the most promising therapeutic interventions for retinitis pigmentosa. In the current study, we aimed to assess if peripheral blood-derived monocytes which are highly abundant and accessible could be utilized as a potential candidate for phenotypic differentiation into neuron-like cells. METHODS: The peripheral blood-derived monocytes were reconditioned phenotypically using extrinsic growth factors to induce pluripotency and proliferation. The reconditioned monocytes (RM) were further incubated with a cocktail of growth factors involved in retinal development and growth to induce retinal neuron-like properties. These cells, termed as retinal neuron-like cells (RNLCs) were characterized for their morphological, molecular and functional behaviour in vitro and in vivo. RESULTS: The monocytes de-differentiated in vitro and acquired pluripotency with the expression of prominent stem cell markers. Treatment of RM with retinal growth factors led to an upregulation of neuronal and retinal lineage markers and downregulation of myeloid markers. These cells show morphological alterations resembling retinal neuron-like cells and expressed photoreceptor (PR) markers. The induced RNLCs also exhibited relative membrane potential change upon light exposure suggesting that they have gained some neuronal characteristics. Further studies showed that RNLCs could also integrate in an immune-deficient retinitis pigmentosa mouse model NOD.SCID-rd1 upon sub-retinal transplantation. The RNLCs engrafted in the inner nuclear layer (INL) and ganglion cell layer (GCL) of the RP afflicted retina. Mice transplanted with RNLCs showed improvement in depth perception, exploratory behaviour and the optokinetic response. CONCLUSIONS: This proof-of-concept study demonstrates that reconditioned monocytes can be induced to acquire retinal neuron-like properties through differentiation using a defined growth media and can be a potential candidate for cell therapy-based interventions and disease modelling for ocular diseases.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "33283030",
+      "title": "Selection of animal models for COVID-19 research.",
+      "authors": [
+        "Suresh Kumar",
+        "Pardeep Kumar Yadav",
+        "Ramesh Srinivasan",
+        "Nagarajan Perumal"
+      ],
+      "year": "2020",
+      "journal": "Virusdisease",
+      "doi": "10.1007/s13337-020-00637-4",
+      "doi_link": "https://doi.org/10.1007/s13337-020-00637-4",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33283030",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Selection%20of%20animal%20models%20for%20COVID-19%20research%22",
+      "citations": {
+        "crossref": 25
+      },
+      "abstract": "The researcher community across the globe is on a search for a promising animal model that closely mimics the clinical manifestation of SARS-CoV-2. Though some developments were seen such as serial adaptation in various animal species or the creation of genetically engineered models, a suitable animal model remains elusive. A model that could display the severity of human illness and can be used for the fast-track evaluation of potential drugs as well as for the clinical trials of vaccines is an urgent need of the hour. In the light of huge information generated on SARS-CoV-2 and daily updates received from the research community, we have chosen to review the current status of animal models of SARS-CoV-2 in encompassing the areas of viral replication, transmission, active/passive immunization, clinical disease, and pathology. The review is intended to help the researchers in the selection of appropriate animal models for SARS CoV-2 research in the fight against the current global pandemic.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "34369561",
+      "title": "CDX2 inducible microRNAs sustain colon cancer by targeting multiple DNA damage response pathway factors.",
+      "authors": [
+        "Swati Priya",
+        "Ekjot Kaur",
+        "Swati Kulshrestha",
+        "Awadhesh Pandit",
+        "Isabelle Gross",
+        "Nitin Kumar",
+        "Himanshi Agarwal",
+        "Aamir Khan",
+        "Radhey Shyam",
+        "Prakash Bhagat",
+        "Jyothi S Prabhu",
+        "Perumal Nagarajan",
+        "S V S Deo",
+        "Avinash Bajaj",
+        "Jean-Noël Freund",
+        "Arnab Mukhopadhyay",
+        "Sagar Sengupta"
+      ],
+      "year": "2021",
+      "journal": "Journal of cell science",
+      "doi": "10.1242/jcs.258601",
+      "doi_link": "https://doi.org/10.1242/jcs.258601",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34369561",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22CDX2%20inducible%20microRNAs%20sustain%20colon%20cancer%20by%20targeting%20multiple%20DNA%20damage%20response%20pathway%20factors%22",
+      "citations": {
+        "crossref": 5
+      },
+      "abstract": "Meta-analysis of transcripts in colon adenocarcinoma patient tissues led to the identification of a DNA damage responsive miR signature called DNA damage sensitive miRs (DDSMs). DDSMs were experimentally validated in the cancerous colon tissues obtained from an independent cohort of colon cancer patients and in multiple cellular systems with high levels of endogenous DNA damage. All the tested DDSMs were transcriptionally upregulated by a common intestine-specific transcription factor, CDX2. Reciprocally, DDSMs were repressed via the recruitment of HDAC1/2-containing complexes onto the CDX2 promoter. These miRs downregulated multiple key targets in the DNA damage response (DDR) pathway, namely BRCA1, ATM, Chk1 (also known as CHEK1) and RNF8. CDX2 directly regulated the DDSMs, which led to increased tumor volume and metastasis in multiple preclinical models. In colon cancer patient tissues, the DDSMs negatively correlated with BRCA1 levels, were associated with decreased probability of survival and thereby could be used as a prognostic biomarker. This article has an associated First Person interview with the first author of the paper.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "34905510",
+      "title": "Embryonic osteocalcin signaling determines lifelong adrenal steroidogenesis and homeostasis in the mouse.",
+      "authors": [
+        "Vijay K Yadav",
+        "Julian M Berger",
+        "Parminder Singh",
+        "Perumal Nagarajan",
+        "Gerard Karsenty"
+      ],
+      "year": "2022",
+      "journal": "The Journal of clinical investigation",
+      "doi": "10.1172/JCI153752",
+      "doi_link": "https://doi.org/10.1172/JCI153752",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34905510",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Embryonic%20osteocalcin%20signaling%20determines%20lifelong%20adrenal%20steroidogenesis%20and%20homeostasis%20in%20the%20mouse%22",
+      "citations": {
+        "crossref": 21
+      },
+      "abstract": "Through their ability to regulate gene expression in most organs, glucocorticoid (GC) hormones influence numerous physiological processes and are therefore key regulators of organismal homeostasis. In bone, GC hormones inhibit expression of the hormone Osteocalcin for poorly understood reasons. Here, we show that in a classical endocrine feedback loop, osteocalcin in return enhanced the biosynthesis of GC as well as mineralocorticoid hormones (adrenal steroidogenesis) in rodents and primates. Conversely, inactivation of osteocalcin signaling in adrenal glands significantly impaired adrenal growth and steroidogenesis in mice. Embryo-made osteocalcin was necessary for normal Sf1 expression in fetal adrenal cells and adrenal cell steroidogenic differentiation and therefore determined the number of steroidogenic cells present in the adrenal glands of adult animals. Embryonic, not postnatal, osteocalcin also governed adrenal growth, adrenal steroidogenesis, blood pressure, electrolyte equilibrium, and the rise in circulating corticosterone levels during the acute stress response in adult offspring. This osteocalcin-dependent regulation of adrenal development and steroidogenesis occurred even in the absence of a functional hypothalamus/pituitary/adrenal axis and explains why osteocalcin administration during pregnancy promoted adrenal growth and steroidogenesis and improved the survival of adrenocorticotropic hormone signaling-deficient animals. This study reveals that a bone-derived embryonic hormone influences lifelong adrenal functions and organismal homeostasis in the mouse.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "35041501",
+      "title": "Selective Estrogen Receptor Modulators Limit Alphavirus Infection by Targeting the Viral Capping Enzyme nsP1.",
+      "authors": [
+        "Rajat Mudgal",
+        "Chandrima Bharadwaj",
+        "Aakriti Dubey",
+        "Shweta Choudhary",
+        "Perumal Nagarajan",
+        "Megha Aggarwal",
+        "Yashika Ratra",
+        "Soumen Basak",
+        "Shailly Tomar"
+      ],
+      "year": "2022",
+      "journal": "Antimicrobial agents and chemotherapy",
+      "doi": "10.1128/AAC.01943-21",
+      "doi_link": "https://doi.org/10.1128/AAC.01943-21",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35041501",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Selective%20Estrogen%20Receptor%20Modulators%20Limit%20Alphavirus%20Infection%20by%20Targeting%20the%20Viral%20Capping%20Enzyme%20nsP1%22",
+      "citations": {
+        "semantic_scholar": 15
+      },
+      "abstract": "Alphaviruses cause animal or human diseases that are characterized by febrile illness, debilitating arthralgia, or encephalitis. Selective estrogen receptor modulators (SERMs), a class of FDA-approved drugs, have been shown to possess antiviral activities against multiple viruses, including hepatitis C virus, Ebola virus, dengue virus, and vesicular stomatitis virus. Here, we evaluated three SERM compounds, namely, 4-hydroxytamoxifen, tamoxifen, and clomifene, for plausible antiviral properties against two medically important alphaviruses, chikungunya virus (CHIKV) and Sindbis virus (SINV). In cell culture settings, these SERMs displayed potent activity against CHIKV and SINV at nontoxic concentrations with 50% effective concentration (EC50) values ranging between 400 nM and 3.9 μM. Further studies indicated that these compounds inhibit a postentry step of the alphavirus life cycle, while enzymatic assays involving purified recombinant proteins confirmed that these SERMs target the enzymatic activity of nonstructural protein 1 (nsP1), the capping enzyme of alphaviruses. Finally, tamoxifen treatment restrained CHIKV growth in the infected mice and diminished musculoskeletal pathologies. Combining biochemical analyses, cell culture-based studies, and in vivo analyses, we strongly argue that SERM compounds, or their derivatives, may provide for attractive therapeutic options against alphaviruses.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "35616339",
+      "title": "The Clock-NAD",
+      "authors": [
+        "Savera Aggarwal",
+        "Nirupma Trehanpati",
+        "Perumal Nagarajan",
+        "Gayatri Ramakrishna"
+      ],
+      "year": "2022",
+      "journal": "Journal of cellular physiology",
+      "doi": "10.1002/jcp.30772",
+      "doi_link": "https://doi.org/10.1002/jcp.30772",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/35616339",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20Clock-NAD%22",
+      "citations": {
+        "semantic_scholar": 1
+      },
+      "abstract": "Nonalcoholic or metabolic associated fatty liver disease (NAFLD/MAFLD) is a hepatic reflection of metabolic derangements characterized by excess fat deposition in the hepatocytes. Identifying metabolic regulatory nodes in fatty liver pathology is essential for effective drug targeting. Fatty liver is often associated with circadian rhythm disturbances accompanied with alterations in physical and feeding activities. In this regard, both sirtuins and clock machinery genes have emerged as critical metabolic regulators in maintaining liver homeostasis. Knockouts of either sirtuins or clock genes result in obesity associated with the fatty liver phenotype. Sirtuins (SIRT1-SIRT7) are a highly conserved family of nicotinamide adenine dinucleotide (NAD+)-dependent deacetylases, protecting cells from metabolic stress by deacetylating vital proteins associated with lipid metabolism. Circadian rhythm is orchestrated by oscillations in expression of master regulators (BMAL1 and CLOCK), which in turn regulate rhythmic expression of clock-controlled genes involved in lipid metabolism. The circadian metabolite, NAD+ , serves as a crucial link connecting clock genes to sirtuin activity. This is because, NAMPT which is a rate limiting enzyme in NAD+ biosynthesis is transcriptionally regulated by the clock genes and NAD+ in turn is a cofactor regulating the deacetylation activity of sirtuins. Intriguingly, on one hand the core circadian clock regulates the sirtuin activity and on the other hand the activated sirtuins regulate the acetylation status of clock proteins thereby affecting their transcriptional functions. Thus, the Clock-NAD+-Sirtuin connection represents a novel \"feedback loop\" circuit that regulates the metabolic machinery. The current review underpins the importance of NAD+ on the sirtuin and clock connection in preventing fatty liver disorder.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "36253797",
+      "title": "Immunological consequences of compromised ocular immune privilege accelerate retinal degeneration in retinitis pigmentosa.",
+      "authors": [
+        "K Varsha Mohan",
+        "Alaknanda Mishra",
+        "Abaranjitha Muniyasamy",
+        "Prakriti Sinha",
+        "Parul Sahu",
+        "Ashwani Kesarwani",
+        "Kshama Jain",
+        "Perumal Nagarajan",
+        "Vinod Scaria",
+        "Manisha Agarwal",
+        "Naseem S Akhter",
+        "Chanda Gupta",
+        "Pramod Upadhyay"
+      ],
+      "year": "2022",
+      "journal": "Orphanet journal of rare diseases",
+      "doi": "10.1186/s13023-022-02528-x",
+      "doi_link": "https://doi.org/10.1186/s13023-022-02528-x",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36253797",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Immunological%20consequences%20of%20compromised%20ocular%20immune%20privilege%20accelerate%20retinal%20degeneration%20in%20retinitis%20pigmentosa%22",
+      "citations": {
+        "crossref": 23
+      },
+      "abstract": "BACKGROUND: Retinitis pigmentosa (RP) is a hereditary retinal disease which leads to visual impairment. The onset and progression of RP has physiological consequences that affects the ocular environment. Some of the key non-genetic factors which hasten the retinal degeneration in RP include oxidative stress, hypoxia and ocular inflammation. In this study, we investigated the status of the ocular immune privilege during retinal degeneration and the effect of ocular immune changes on the peripheral immune system in RP. We assessed the peripheral blood mononuclear cell stimulation by retinal antigens and their immune response status in RP patients. Subsequently, we examined alterations in ocular immune privilege machineries which may contribute to ocular inflammation and disease progression in rd1 mouse model. RESULTS: In RP patients, we observed a suppressed anti-inflammatory response to self-retinal antigens, thereby indicating a deviated response to self-antigens. The ocular milieu in rd1 mouse model indicated a significant decrease in immune suppressive ligands and cytokine TGF-B1, and higher pro-inflammatory ocular protein levels. Further, blood-retinal-barrier breakdown due to decrease in the expression of tight junction proteins was observed. The retinal breach potentiated pro-inflammatory peripheral immune activation against retinal antigens and caused infiltration of the peripheral immune cells into the ocular tissue. CONCLUSIONS: Our studies with RP patients and rd1 mouse model suggest that immunological consequences in RP is a contributing factor in the progression of retinal degeneration. The ocular inflammation in the RP alters the ocular immune privilege mechanisms and peripheral immune response. These aberrations in turn create an auto-reactive immune environment and accelerate retinal degeneration.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "36369512",
+      "title": "Amoxicillin impact on pathophysiology induced by short term high salt diet in mice.",
+      "authors": [
+        "Suresh Kumar",
+        "Nagarajan Perumal",
+        "P K Yadav",
+        "Ramendra Pati Pandey",
+        "Chung-Ming Chang",
+        "V Samuel Raj"
+      ],
+      "year": "2022",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-022-21270-9",
+      "doi_link": "https://doi.org/10.1038/s41598-022-21270-9",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36369512",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Amoxicillin%20impact%20on%20pathophysiology%20induced%20by%20short%20term%20high%20salt%20diet%20in%20mice%22",
+      "citations": {
+        "semantic_scholar": 6
+      },
+      "abstract": "Current evidence emerging from both human and animal models confirms that high-salt diet consumption over a period modulates the gut ecology and subsequently accelerates the development of the pathophysiology of many metabolic diseases. The knowledge of short-term intake of a high-salt diet (HSD) on gut microbiota and their role in the progression of metabolic pathogenesis and the consequence of a typical course of common antibiotics in this condition has yet not been investigated. The present study elicited this knowledge gap by studying how the gut microbiota profile changes in mice receiving HSD for a short period followed by Amoxicillin treatment on these mice in the last week to mimic a typical treatment course of antibiotics. In this study, we provided a standard chow diet (CD) and HSD for 3 weeks, and a subset of these mice on both diets received antibiotic therapy with Amoxicillin in the 3rd week. We measured the body weight of mice for 3 weeks. After 21 days, all animals were euthanised and subjected to a thorough examination for haemato-biochemical, histopathological, and 16S rRNA sequencing, followed by bioinformatics analysis to determine any changes in gut microbiota ecology. HSD exposure in mice for short duration even leads to a significant difference in the gut ecology with enrichment of specific gut microbiota crucially linked to developing the pathophysiological features of metabolic disease-related inflammation. In addition, HSD treatment showed a negative impact on haemato-biochemical parameters. However, Amoxicillin treatment in HSD-fed mice restored the blood-biochemical markers near to control values and reshaped gut microbiota known for improving the pathophysiological attributes of metabolic disease related inflammation. This study also observed minimal and insignificant pathological changes in the heart, liver, and kidney in HSD-fed mice.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "36798477",
+      "title": "Protective Effects of Rifampicin and Its Analog Rifampicin Quinone in a Mouse Model of Obesity-Induced Type 2 Diabetes.",
+      "authors": [
+        "Amit Garg",
+        "Maroof Alam",
+        "Shakuntala Bai",
+        "Monica Dandawate",
+        "Neeta Kumari",
+        "Sonu Gupta",
+        "Usha Agrawal",
+        "Perumal Nagarajan",
+        "Dumbala Srinivasa Reddy",
+        "Mahesh J Kulkarni",
+        "Arnab Mukhopadhyay"
+      ],
+      "year": "2023",
+      "journal": "ACS pharmacology & translational science",
+      "doi": "10.1021/acsptsci.2c00082",
+      "doi_link": "https://doi.org/10.1021/acsptsci.2c00082",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36798477",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Protective%20Effects%20of%20Rifampicin%20and%20Its%20Analog%20Rifampicin%20Quinone%20in%20a%20Mouse%20Model%20of%20Obesity-Induced%20Type%202%20Diabetes%22",
+      "citations": {
+        "crossref": 2
+      },
+      "abstract": "Advanced glycation end-products (AGEs) form when glucose reacts non-enzymatically with proteins, leading to abnormal protein function, oxidative stress, and inflammation. AGEs are associated with aging and age-related diseases; their formation is aggravated during diabetes. Therefore, drugs preventing AGE formation can potentially treat diabetic complications, positively affecting health. Earlier, we demonstrated that rifampicin and its analogs have potent anti-glycating activities and increase the life span of Caenorhabditis elegans. This study aimed to investigate the effects of rifampicin during hyperglycemia in C. elegans and in a mouse model of obesity-induced type 2 diabetes. The effects of rifampicin were assessed by determining the life span of C. elegans cultured in the presence of glucose and by measuring HbA1c, AGE levels, and glucose excursions in the diabetic mouse model. Our results show that rifampicin protects C. elegans from glucose-induced toxicity and increases life span. In mice, rifampicin reduces HbA1c and AGEs, improves insulin sensitivity, and reduces indications of diabetic nephropathy without inducing hepatotoxicity. Rifampicin quinone, an analog with lower anti-microbial activity, also reduces HbA1c levels, improves glucose homeostasis and insulin sensitivity, and lowers indications of diabetic nephropathy, without adversely affecting the liver of the diabetic mice. Altogether, our results indicate that rifampicin and its analog have protective roles during diabetes without inflicting hepatic damage and may potentially be considered for repositioning to treat hyperglycemia-related complications in patients.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "37154568",
+      "title": "Microdissection of the Rodent Eye.",
+      "authors": [
+        "K Varsha Mohan",
+        "Prakriti Sinha",
+        "Bharati Swami",
+        "Abaranjitha Muniyasamy",
+        "Perumal Nagarajan",
+        "Pramod Upadhyay"
+      ],
+      "year": "2023",
+      "journal": "Journal of visualized experiments : JoVE",
+      "doi": "10.3791/64414",
+      "doi_link": "https://doi.org/10.3791/64414",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37154568",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Microdissection%20of%20the%20Rodent%20Eye%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "The ocular micro-dissection of the rodent eye involves the segmentation of the enucleated eyeball with the attached nictitating membrane, or third eyelid, to obtain the anterior and posterior eyecups. With this technique, the sub-parts of the eye, including the corneal tissue, neural tissue, retinal pigment epithelial (RPE) tissue, and lens, can be obtained for wholemounts, cryo-sectioning, and/or single-cell suspensions of a specific ocular tissue. The presence of the third eyelid presents unique and significant advantages, as it benefits the maintenance of the orientation of the eye, which is important for understanding eye physiology following any localized intervention or in studies involving ocular analysis relating to the eye's spatial topography. In this method, we enucleated the eyeball at the socket along with the third eyelid by carefully and slowly cutting through the extraocular muscles and severing the optic nerve. The eyeball was pierced through the corneal limbus using a microblade. The incision was used as the point of entry, allowing for cutting along the corneal-scleral junction by inserting micro-scissors through the incision point. Small and continuous cuts along the circumference were made until the cups separated. These could be further dissected by gently peeling the translucent layer of the neural retina using Colibri suturing forceps to obtain the neural retina and RPE layers. Further, three/four equidistant cuts were made from the periphery perpendicularly to the optic center until the optic nerve was reached. This opened the hemispherical cups into a floret shape so that they fell flat and could be easily mounted. This technique has been used in our lab for corneal wholemounts and retinal sections. The presence of the third eyelid delineates the nasal-temporal orientation, which allows for the study of various cell therapy interventions post-transplantation and, thus, the targeted physiological validation vital for visualization and accurate representation in such studies.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "37289866",
+      "title": "Taurine deficiency as a driver of aging.",
+      "authors": [
+        "Parminder Singh",
+        "Kishore Gollapalli",
+        "Stefano Mangiola",
+        "Daniela Schranner",
+        "Mohd Aslam Yusuf",
+        "Manish Chamoli",
+        "Sting L Shi",
+        "Bruno Lopes Bastos",
+        "Tripti Nair",
+        "Annett Riermeier",
+        "Elena M Vayndorf",
+        "Judy Z Wu",
+        "Aishwarya Nilakhe",
+        "Christina Q Nguyen",
+        "Michael Muir",
+        "Michael G Kiflezghi",
+        "Anna Foulger",
+        "Alex Junker",
+        "Jack Devine",
+        "Kunal Sharan",
+        "Shankar J Chinta",
+        "Swati Rajput",
+        "Anand Rane",
+        "Philipp Baumert",
+        "Martin Schönfelder",
+        "Francescopaolo Iavarone",
+        "Giorgia di Lorenzo",
+        "Swati Kumari",
+        "Alka Gupta",
+        "Rajesh Sarkar",
+        "Costerwell Khyriem",
+        "Amanpreet S Chawla",
+        "Ankur Sharma",
+        "Nazan Sarper",
+        "Naibedya Chattopadhyay",
+        "Bichitra K Biswal",
+        "Carmine Settembre",
+        "Perumal Nagarajan",
+        "Kimara L Targoff",
+        "Martin Picard",
+        "Sarika Gupta",
+        "Vidya Velagapudi",
+        "Anthony T Papenfuss",
+        "Alaattin Kaya",
+        "Miguel Godinho Ferreira",
+        "Brian K Kennedy",
+        "Julie K Andersen",
+        "Gordon J Lithgow",
+        "Abdullah Mahmood Ali",
+        "Arnab Mukhopadhyay",
+        "Aarno Palotie",
+        "Gabi Kastenmüller",
+        "Matt Kaeberlein",
+        "Henning Wackerhage",
+        "Bhupinder Pal",
+        "Vijay K Yadav"
+      ],
+      "year": "2023",
+      "journal": "Science (New York, N.Y.)",
+      "doi": "10.1126/science.abn9257",
+      "doi_link": "https://doi.org/10.1126/science.abn9257",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37289866",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Taurine%20deficiency%20as%20a%20driver%20of%20aging%22",
+      "citations": {
+        "semantic_scholar": 208
+      },
+      "abstract": "Aging is associated with changes in circulating levels of various molecules, some of which remain undefined. We find that concentrations of circulating taurine decline with aging in mice, monkeys, and humans. A reversal of this decline through taurine supplementation increased the health span (the period of healthy living) and life span in mice and health span in monkeys. Mechanistically, taurine reduced cellular senescence, protected against telomerase deficiency, suppressed mitochondrial dysfunction, decreased DNA damage, and attenuated inflammaging. In humans, lower taurine concentrations correlated with several age-related diseases and taurine concentrations increased after acute endurance exercise. Thus, taurine deficiency may be a driver of aging because its reversal increases health span in worms, rodents, and primates and life span in worms and rodents. Clinical trials in humans seem warranted to test whether taurine deficiency might drive aging in humans.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "38274380",
+      "title": "Transcriptomic and pathological profiling of a new congenic mouse model with Lepr mutation: Evaluating susceptibility to the development of obesity and NAFLD",
+      "authors": [
+        "Mj Mahesh Kumar",
+        "Shailendra Arindkar",
+        "Masum Saini",
+        "Perumal Nagarajan"
+      ],
+      "year": "2024",
+      "journal": "Genes & diseases",
+      "doi": "10.1016/j.gendis.2023.04.020",
+      "doi_link": "https://doi.org/10.1016/j.gendis.2023.04.020",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38274380",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Transcriptomic%20and%20pathological%20profiling%20of%20a%20new%20congenic%20mouse%20model%20with%20Lepr%20mutation%3A%20Evaluating%20susceptibility%20to%20the%20development%20of%20obesity%20and%20NAFLD%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "No abstract available",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 20,
+    "publications_by_year": {
+      "2024": 1,
+      "2023": 3,
+      "2022": 5,
+      "2021": 1,
+      "2020": 2,
+      "2019": 2,
+      "2018": 1,
+      "2017": 5
+    },
+    "top_journals": [
+      "Scientific reports",
+      "Journal of the American Chemical Society",
+      "Hepatology (Baltimore, Md.)",
+      "Stem cells translational medicine",
+      "Biology open"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 149,
+      "frequent_collaborators": [
+        "Perumal Nagarajan",
+        "Pramod Upadhyay",
+        "Kshama Jain",
+        "Prakriti Sinha",
+        "Barun Das",
+        "Preeti Sahay",
+        "Srikanth Iyer",
+        "Ashwani Kesarwani"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "37289866",
+        "title": "Taurine deficiency as a driver of aging.",
+        "citations": 208,
+        "year": "2023"
+      },
+      {
+        "publication_id": "28855623",
+        "title": "Nanocurcumin is superior to native curcumin in preventing degenerative changes in Experimental Cerebral Malaria.",
+        "citations": 104,
+        "year": "2017"
+      },
+      {
+        "publication_id": "30679313",
+        "title": "The microRNAs miR-449a and miR-424 suppress osteosarcoma by targeting cyclin A2 expression.",
+        "citations": 57,
+        "year": "2019"
+      }
+    ]
+  }
+}

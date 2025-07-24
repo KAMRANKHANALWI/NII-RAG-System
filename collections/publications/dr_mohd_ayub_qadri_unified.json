@@ -1,0 +1,590 @@
+{
+  "faculty_profile": {
+    "name": "Dr. Mohd. Ayub Qadri",
+    "email": "",
+    "source_url": "https://www.nii.res.in/en/former-faculty/dr-mohd-ayub-qadri",
+    "research_domain": "Former",
+    "faculty_status": "former",
+    "search_date": "2025-07-01T14:34:28.520763",
+    "total_publications": 23,
+    "last_updated": "2025-07-01",
+    "description": "This document contains a complete list of publications by Dr. Mohd. Ayub Qadri, former faculty in Former at NII."
+  },
+  "publications": [
+    {
+      "paper_number": "paper1",
+      "publication_id": "37784035",
+      "title": "Dissection of paracrine/autocrine interplay in lung tumor microenvironment mimicking cancer cell-monocyte co-culture models reveals proteins that promote inflammation and metastasis.",
+      "authors": [
+        "Asif Amin",
+        "Aabid Mustafa Koul",
+        "Umer Majeed Wani",
+        "Faizah Farooq",
+        "Basit Amin",
+        "Zubair Wani",
+        "Asif Lone",
+        "Ayub Qadri",
+        "Raies A Qadri"
+      ],
+      "year": "2023",
+      "journal": "BMC cancer",
+      "doi": "10.1186/s12885-023-11428-7",
+      "doi_link": "https://doi.org/10.1186/s12885-023-11428-7",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37784035",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Dissection%20of%20paracrine/autocrine%20interplay%20in%20lung%20tumor%20microenvironment%20mimicking%20cancer%20cell-monocyte%20co-culture%20models%20reveals%20proteins%20that%20promote%20inflammation%20and%20metastasis%22",
+      "citations": {
+        "crossref": 13
+      },
+      "abstract": "BACKGROUND: Tumor cell-monocyte interactions play crucial roles in shaping up the pro-tumorigenic phenotype and functional output of tumor-associated macrophages. Within the tumor microenvironment, such heterotypic cell-cell interactions are known to occur via secretory proteins. Secretory proteins establish a diabolic liaison between tumor cells and monocytes, leading to their recruitment, subsequent polarization and consequent tumor progression. METHODS: We co-cultured model lung adenocarcinoma cell line A549 with model monocytes, THP-1 to delineate the interactions between them. The levels of prototypical pro-inflammatory cytokines like TNF-𝛼, IL-6 and anti-inflammatory cytokines like IL-10 were measured by ELISA. Migration, invasion and attachment independence of lung cancer cells was assessed by wound healing, transwell invasion and colony formation assays respectively. The status of EMT was evaluated by immunofluorescence. Identification of secretory proteins differentially expressed in monocultures and co-culture was carried out using SILAC LC-MS/MS. Various insilico tools like Cytoscape, Reacfoam, CHAT and Kaplan-Meier plotter were utilized for association studies, pathway analysis, functional classification, cancer hallmark relevance and predicting the prognostic potential of the candidate secretory proteins respectively. RESULTS: Co-culture of A549 and THP-1 cells in 1:10 ratio showed early release of prototypical pro-inflammatory cytokines TNF-𝛼 and IL-6, however anti-inflammatory cytokine, IL-10 was observed to be released at the highest time point. The conditioned medium obtained from this co-culture ratio promoted the migration, invasion and colony formation as well as the EMT of A549 cells. Co-culturing of A549 with THP-1 cells modulated the secretion of proteins involved in cell proliferation, migration, invasion, EMT, inflammation, angiogenesis and inhibition of apoptosis. Among these proteins Versican, Tetranectin, IGFBP2, TUBB4B, C2 and IFI30 were found to correlate with the inflammatory and pro-metastatic milieu observed in our experimental setup. Furthermore, dysregulated expression of these proteins was found to be associated with poor prognosis and negative disease outcomes in lung adenocarcinoma compared to other cancer types. Pharmacological interventions targeting these proteins may serve as useful therapeutic approaches in lung adenocarcinoma. CONCLUSION: In this study, we have demonstrated that the lung cancer cell-monocyte cross-talk modulates the secretion of IFI30, RNH1, CLEC3B, VCAN, IGFBP2, C2 and TUBB4B favoring tumor growth and metastasis.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper2",
+      "publication_id": "36702520",
+      "title": "Induction and sustenance of antibacterial activities distinguishes response of mice to Salmonella Typhi from response to Salmonella Typhimurium.",
+      "authors": [
+        "Jitender Yadav",
+        "Ayub Qadri"
+      ],
+      "year": "2023",
+      "journal": "Pathogens and disease",
+      "doi": "10.1093/femspd/ftad002",
+      "doi_link": "https://doi.org/10.1093/femspd/ftad002",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36702520",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Induction%20and%20sustenance%20of%20antibacterial%20activities%20distinguishes%20response%20of%20mice%20to%20Salmonella%20Typhi%20from%20response%20to%20Salmonella%20Typhimurium%22",
+      "citations": {
+        "crossref": 0
+      },
+      "abstract": "Salmonella enterica serovar Typhi (S. Typhi), the causative agent of typhoid in humans, shares a high degree of homology with a closely related serovar, S. Typhimurium. Yet, unlike S. Typhimurium, S. Typhi does not establish infection in mice, the reasons for which are not well understood. Here, we present evidence that the response of mice to infection with S. Typhi is marked by early antibacterial activities. Cell-free peritoneal fluids from S. Typhi but not S. Typhimurium-infected mice inhibited the replication of Salmonella ex vivo. The production of this activity was reduced in the presence of the serine protease inhibitor, phenylmethylsulfonlyl fluoride (PMSF). PMSF also inhibited the generation of antibacterial activity released from in vitro S. Typhi-infected peritoneal macrophages in a cell death-dependent manner. Infection with S. Typhimurium but not S. Typhi was associated with reduction in the mRNA levels of iron-regulating molecules, ferroportin and lipocalin. These results suggest that early induction and sustenance of antibacterial activities may contribute to the nonestablishment of infection with S. Typhi in mice.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper3",
+      "publication_id": "34942191",
+      "title": "Membrane prohibitin forms a dynamic complex with p56lck to regulate T cell receptor signaling.",
+      "authors": [
+        "Debjani Dutta",
+        "Srikanth K Santhanam",
+        "Farhat Parween",
+        "Sana Ismaeel",
+        "Ayub Qadri"
+      ],
+      "year": "2022",
+      "journal": "Immunology letters",
+      "doi": "10.1016/j.imlet.2021.12.002",
+      "doi_link": "https://doi.org/10.1016/j.imlet.2021.12.002",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34942191",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Membrane%20prohibitin%20forms%20a%20dynamic%20complex%20with%20p56lck%20to%20regulate%20T%20cell%20receptor%20signaling%22",
+      "citations": {
+        "crossref": 1
+      },
+      "abstract": "Prohibitin is a highly conserved ubiquitously expressed protein involved in several key cellular functions. Targeting of this protein in the membrane by the virulence polysaccharide, Vi, of human typhoid-causing pathogen, Salmonella enterica serovar Typhi (S. Typhi), results in suppression of IL-2 secretion from T cells activated through the T-cell receptor (TCR). However, the mechanism of this suppression remains unclear. Here, using Vi as a probe, we show that membrane prohibitin associates with the src-tyrosine kinase, p56lck (Lck), and actin in human model T cell line, Jurkat. Activation with anti-CD3 antibody brings about dissociation of this complex, which coincides with downstream ERK activation. The trimolecular complex reappears towards culmination of proximal TCR signaling. Engagement of cells with Vi prevents TCR-triggered activation of Lck and ERK by inhibiting dissociation of the former from prohibitin. These findings suggest a regulatory role for membrane prohibitin in Lck activation and TCR signaling.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper4",
+      "publication_id": "33911018",
+      "title": "ATP Release Drives Inflammation with Lysophosphatidylcholine.",
+      "authors": [
+        "Sana Ismaeel",
+        "Ayub Qadri"
+      ],
+      "year": "2021",
+      "journal": "ImmunoHorizons",
+      "doi": "10.4049/immunohorizons.2100023",
+      "doi_link": "https://doi.org/10.4049/immunohorizons.2100023",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33911018",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22ATP%20Release%20Drives%20Inflammation%20with%20Lysophosphatidylcholine%22",
+      "citations": {
+        "semantic_scholar": 12
+      },
+      "abstract": "Lysophosphatidylcholine (LPC), a dominant lipid component of oxidized low-density lipoprotein, plays a major role in inflammation associated with atherosclerosis and neurodegenerative disorders. It activates inflammatory responses from macrophages, neuronal cells, and endothelial cells. However, the exact mechanism by which LPC promotes inflammation remains incompletely understood. In this study, we show that the production of inflammatory cytokines and cytotoxicity with LPC are both critically dependent on its ability to bring about release of ATP from cells. The induction of caspase-1-mediated IL-1β release with LPC from TLR-primed mouse and human macrophages and mouse neuronal cells is reduced in the presence of ATP-hydrolyzing enzyme, apyrase, and the inhibitors of purinergic signaling. ATP released from LPC-treated cells also promotes an IL-12p70hi, low phagocytic, and poorly costimulatory phenotype in macrophages in a caspase-1-independent manner. Treatment with apyrase reduces production of inflammatory cytokines with LPC in vivo. These findings reveal a previously unappreciated pathway for the generation of inflammatory responses with LPC, and these have significant implications for therapeutic intervention in chronic inflammatory disorders promoted by this lipid.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper5",
+      "publication_id": "33393138",
+      "title": "Lung cancer cell-derived EDA-containing fibronectin induces an inflammatory response from monocytes and promotes metastatic tumor microenvironment.",
+      "authors": [
+        "Asif Amin",
+        "Taseem A Mokhdomi",
+        "Shoiab Bukhari",
+        "Zubair Wani",
+        "Naveed A Chikan",
+        "Basit A Shah",
+        "Aabid M Koul",
+        "Umer Majeed",
+        "Faizah Farooq",
+        "Ayub Qadri",
+        "Raies A Qadri"
+      ],
+      "year": "2021",
+      "journal": "Journal of cellular biochemistry",
+      "doi": "10.1002/jcb.29883",
+      "doi_link": "https://doi.org/10.1002/jcb.29883",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33393138",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Lung%20cancer%20cell-derived%20EDA-containing%20fibronectin%20induces%20an%20inflammatory%20response%20from%20monocytes%20and%20promotes%20metastatic%20tumor%20microenvironment%22",
+      "citations": {
+        "crossref": 11
+      },
+      "abstract": "Tumor-associated macrophages (TAMs) play a pivotal role in facilitating tumor growth and metastasis. This tumor-promoting propensity of TAMs sets in as a result of their complex cross-talk with tumor cells mediated primarily by tumor cell-secreted proteins in the tumor microenvironment. To explore such interactions, we employed an immunoscreening approach involving the immunization of Balb-c mice with model human lung carcinoma cell line, A549. From serological examination combined with mass spectrometric analysis, EDA-containing fibronectin (EDAFN ) was identified as a conspicuous immunogenic protein in A549 cell secretome. We showed that A549 secreted EDAFN engages TLR-4 on THP-1 monocytes to drive the proinflammatory response via NF-κB signaling cascade. Conversely, A549 derived EDAFN potentiates their metastatic capacity by inducing epithelial-mesenchymal transition through its autocrine activity. In conclusion, the study proposes a possible mechanism of cellular cross-talk between lung cancer cells and associated monocytes mediated by lung cancer-derived EDAFN and resulting in the establishment of proinflammatory and metastatic tumor microenvironment.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper6",
+      "publication_id": "33177235",
+      "title": "Type 1 interferon-dependent repression of NLRC4 and iPLA2 licenses down-regulation of Salmonella flagellin inside macrophages.",
+      "authors": [
+        "Ajay Suresh Akhade",
+        "Shaikh M Atif",
+        "Bhavana S Lakshmi",
+        "Neha Dikshit",
+        "Kelly T Hughes",
+        "Ayub Qadri",
+        "Naeha Subramanian"
+      ],
+      "year": "2020",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.2002747117",
+      "doi_link": "https://doi.org/10.1073/pnas.2002747117",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/33177235",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Type%201%20interferon-dependent%20repression%20of%20NLRC4%20and%20iPLA2%20licenses%20down-regulation%20of%20Salmonella%20flagellin%20inside%20macrophages%22",
+      "citations": {
+        "crossref": 11
+      },
+      "abstract": "Inflammasomes have been implicated in the detection and clearance of a variety of bacterial pathogens, but little is known about whether this innate sensing mechanism has any regulatory effect on the expression of stimulatory ligands by the pathogen. During infection with Salmonella and many other pathogens, flagellin is a major activator of NLRC4 inflammasome-mediated macrophage pyroptosis and pathogen eradication. Salmonella switches to a flagellin-low phenotype as infection progresses to avoid this mechanism of clearance by the host. However, the host cues that Salmonella perceives to undergo this switch remain unclear. Here, we report an unexpected role of the NLRC4 inflammasome in promoting expression of its microbial ligand, flagellin, and identify a role for type 1 IFN signaling in switching of Salmonella to a flagellin-low phenotype. Early in infection, activation of NLRC4 by flagellin initiates pyroptosis and concomitant release of lysophospholipids which in turn enhance expression of flagellin by Salmonella thereby amplifying its ability to elicit cell death. TRIF-dependent production of type 1 IFN, however, later represses NLRC4 and the lysophospholipid biosynthetic enzyme iPLA2, causing a decline in intracellular lysophospholipids that results in down-regulation of flagellin expression by Salmonella These findings reveal a previously unrecognized immune-modulating regulatory cross-talk between endosomal TLR signaling and cytosolic NLR activation with significant implications for the establishment of infection with Salmonella.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper7",
+      "publication_id": "32988824",
+      "title": "Lysophosphatidylcholine Potentiates Antibacterial Activity of Polymyxin B.",
+      "authors": [
+        "Jitender Yadav",
+        "Sana Ismaeel",
+        "Ayub Qadri"
+      ],
+      "year": "2020",
+      "journal": "Antimicrobial agents and chemotherapy",
+      "doi": "10.1128/AAC.01337-20",
+      "doi_link": "https://doi.org/10.1128/AAC.01337-20",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32988824",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Lysophosphatidylcholine%20Potentiates%20Antibacterial%20Activity%20of%20Polymyxin%20B%22",
+      "citations": {
+        "crossref": 5
+      },
+      "abstract": "Polymyxin B, used to treat infections caused by antibiotic-resistant Gram-negative bacteria, produces nephrotoxicity at its current dosage. We show that a combination of nonbactericidal concentration of this drug and lysophosphatidylcholine (LPC) potently inhibits growth of Salmonella and at least two other Gram-negative bacteria in vitro This combination makes bacterial membrane porous and causes degradation of DnaK, the regulator of protein folding. Polymyxin B-LPC combination may be an effective and safer regimen against drug-resistant bacteria.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper8",
+      "publication_id": "32717772",
+      "title": "Serum-borne lipids amplify TLR-activated inflammatory responses.",
+      "authors": [
+        "Naveen Sharma",
+        "Ajay Suresh Akhade",
+        "Sana Ismaeel",
+        "Ayub Qadri"
+      ],
+      "year": "2021",
+      "journal": "Journal of leukocyte biology",
+      "doi": "10.1002/JLB.3AB0720-241RR",
+      "doi_link": "https://doi.org/10.1002/JLB.3AB0720-241RR",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32717772",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Serum-borne%20lipids%20amplify%20TLR-activated%20inflammatory%20responses%22",
+      "citations": {
+        "semantic_scholar": 13
+      },
+      "abstract": "TLRs recognize conserved pathogen associated molecular patterns and generate innate immune responses. Several circulating and cell membrane associated proteins have been shown to collaborate with TLRs in sensing microbial ligands and promoting inflammatory responses. Here, we show that serum and serum-borne lipids including lysophosphatidylcholine (LPC) amplify inflammatory responses from intestinal epithelial cells and mononuclear phagocytes primed with microbial TLR ligands. Treatment with the inhibitors of G protein-coupled receptor (GPCR) signaling, suramin, or pertussis toxin (PT), the inhibitor of JNK-MAPK, or knockdown of LPC response-regulating GPCR, G2A, decreases the augmentation brought about by serum or LPC in TLR-induced inflammatory response. In vivo administration of PT or anti-G2A antibody reduces TLR2-activated cytokine secretion. The ability of host lipids to costimulate TLR-generated cellular responses represents a novel pathway for the amplification of innate immunity and inflammation.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper9",
+      "publication_id": "32540995",
+      "title": "Accessibility of O Antigens Shared between Salmonella Serovars Determines Antibody-Mediated Cross-Protection.",
+      "authors": [
+        "Anees Ahmed",
+        "Ajay Suresh Akhade",
+        "Ayub Qadri"
+      ],
+      "year": "2020",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.1900624",
+      "doi_link": "https://doi.org/10.4049/jimmunol.1900624",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32540995",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Accessibility%20of%20O%20Antigens%20Shared%20between%20Salmonella%20Serovars%20Determines%20Antibody-Mediated%20Cross-Protection%22",
+      "citations": {
+        "crossref": 4
+      },
+      "abstract": "Pathogenic Salmonella serovars produce clinical manifestations ranging from systemic infection typhoid to invasive nontyphoidal Salmonella disease in humans. These serovars share a high degree of homology at the genome and the proteome level. However, whether infection or immunization with one serovar provides protection against other serovars has not been well studied. We show in this study that immunization of mice with live typhoidal serovar, Salmonella Typhi, generates cross-reactive immune responses, which provide far greater resistance against challenge with nontyphoidal serovar Salmonella Enteritidis than with another nontyphoidal serovar, Salmonella Typhimurium. Splenic T cells from these immunized mice produced similar levels of IL-2 and IFN-γ upon ex vivo stimulation with Ags prepared from S Enteritidis and S Typhimurium. In contrast, Abs against S Typhi interacted with live intact S Enteritidis but did not bind intact S Typhimurium. These pathogen-reactive Abs were largely directed against oligosaccharide (O)-antigenic determinant of LPS that S Typhi shares with S Enteritidis. Abs against the O determinant, which S Typhi shares with S Typhimurium, were present in the sera of immunized mice but did not bind live intact Salmonella because of surface inaccessibility of this determinant. Similar accessibility-regulated interaction was seen with Abs generated against S Typhimurium and S Enteritidis. Our results suggest that the ability of protective Abs elicited with one Salmonella serovar to engage with and consequently provide protection against another Salmonella serovar is determined by the accessibility of shared O Ags. These findings have significant and broader implications for immunity and vaccine development against pathogenic Salmonellae.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper10",
+      "publication_id": "32269573",
+      "title": "Innate Activation of IFN-γ-iNOS Axis During Infection With Salmonella Represses the Ability of T Cells to Produce IL-2.",
+      "authors": [
+        "Jitender Yadav",
+        "Neha Dikshit",
+        "Sana Ismaeel",
+        "Ayub Qadri"
+      ],
+      "year": "2020",
+      "journal": "Frontiers in immunology",
+      "doi": "10.3389/fimmu.2020.00514",
+      "doi_link": "https://doi.org/10.3389/fimmu.2020.00514",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32269573",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Innate%20Activation%20of%20IFN-%CE%B3-iNOS%20Axis%20During%20Infection%20With%20Salmonella%20Represses%20the%20Ability%20of%20T%20Cells%20to%20Produce%20IL-2%22",
+      "citations": {
+        "crossref": 11
+      },
+      "abstract": "Pathogenic Salmonella serovars are a major cause of enteric illness in humans and animals, and produce clinical manifestations ranging from localized gastroenteritis to systemic disease. T cells are a critical component of immunity against this intracellular pathogen. The mechanisms by which Salmonella modulates T-cell-mediated immune responses in order to establish systemic infection are not completely understood. We show that infection of mice with Salmonella enterica serovar Typhimurium (S. Typhimurium) suppresses IL-2 and increases IFN-γ and IL-17 production from T cells activated in vivo or ex vivo through the T cell receptor. Infection with S. Typhimurium brings about recruitment of CD11b+Gr1+ suppressor cells to the spleen. Ex vivo depletion of these cells restores the ability of activated T cells to produce IL-2 and brings secretion of IFN-γ and IL-17 from these cells back to basal levels. The reduction in IL-2 secretion is not seen in IFN-γ-/- and iNOS-/- mice infected with Salmonella. Our findings demonstrate that sustained innate activated IFN-γ production during progression of infection with Salmonella reduces IL-2-secreting capability of T cells through an iNOS-mediated signaling pathway that can adversely affect long term immunity against this pathogen.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper11",
+      "publication_id": "31134159",
+      "title": "The Virulence Polysaccharide of Salmonella Typhi Suppresses Activation of Rho Family GTPases to Limit Inflammatory Responses From Epithelial Cells.",
+      "authors": [
+        "Farhat Parween",
+        "Jitender Yadav",
+        "Ayub Qadri"
+      ],
+      "year": "2019",
+      "journal": "Frontiers in cellular and infection microbiology",
+      "doi": "10.3389/fcimb.2019.00141",
+      "doi_link": "https://doi.org/10.3389/fcimb.2019.00141",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/31134159",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20Virulence%20Polysaccharide%20of%20Salmonella%20Typhi%20Suppresses%20Activation%20of%20Rho%20Family%20GTPases%20to%20Limit%20Inflammatory%20Responses%20From%20Epithelial%20Cells%22",
+      "citations": {
+        "semantic_scholar": 10
+      },
+      "abstract": "Vi capsular polysaccharide (Vi) is a major virulence factor of human typhoid-causing pathogen Salmonella enterica serovar Typhi (S. Typhi). It distinguishes S. Typhi from closely related non-typhoidal Salmonella serovars such as S. Typhimurium which do not normally cause systemic infection in humans. Vi not only forms a capsule around S. Typhi but it is also readily released from this pathogen. We have previously reported that Vi targets prohibitin to inhibit cellular responses activated through immune receptors. Here, we show that engagement of membrane prohibitin with Vi prevents Salmonella-induced activation of small Rho-family GTPases, Rac1, and Cdc42, and suppresses actin cytoskeletal rearrangements resulting in reduced invasion and highly subdued inflammatory responses. Cells infected with S. Typhimurium in the presence of Vi show poor activation of NF-kB and MAP-kinase pathways of intracellular signaling. Treatment with Vi brings about redistribution of Rac-1, prohibitin, and ganglioside GM1 in membrane raft domains. Vi-mediated interference with activation of Rho-family GTPases represents a previously unrecognized mechanism by which S. Typhi can limit its invasion and alarming of the host.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper12",
+      "publication_id": "30341337",
+      "title": "Host lipid sensing promotes invasion of cells with pathogenic Salmonella.",
+      "authors": [
+        "Sonia Shivcharan",
+        "Jitender Yadav",
+        "Ayub Qadri"
+      ],
+      "year": "2018",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-018-33319-9",
+      "doi_link": "https://doi.org/10.1038/s41598-018-33319-9",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/30341337",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Host%20lipid%20sensing%20promotes%20invasion%20of%20cells%20with%20pathogenic%20Salmonella%22",
+      "citations": {
+        "semantic_scholar": 12
+      },
+      "abstract": "Pathogenic Salmonella species initiate infection by invading non-phagocytic intestinal epithelial cells (IEC). This invasion is brought about by a number of Salmonella invasion promoting molecules (Sips) encoded by the Salmonella Pathogenicity Island - 1 (SPI-1). Intracellular delivery of some of these molecules also brings about caspase-1 - mediated pyroptotic cell death that contributes to pathogen clearance. These molecules are secreted and delivered inside cells upon contact of Salmonella with one or more host signals whose identity has not been established. We show that lysophosphatidylcholine (LPC) released following activation of caspase-1 in Salmonella - infected cells and abundant in plasma amplifies production of Sips from this pathogen and promotes its cellular invasion. LPC brings about adenylate cyclase and cAMP receptor protein (CRP) - dependent de novo synthesis of SipC that is accompanied by its translocation to bacterial cell surface and release into the outside milieu. Treatment of Salmonella with LPC produces sustained induction of SPI - 1 transcriptional regulator, hilA. Our findings reveal a novel host lipid sensing - driven regulatory mechanism for Salmonella invasion.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper13",
+      "publication_id": "27849000",
+      "title": "Irigenin, a novel lead from Western Himalayan chemiome inhibits Fibronectin-Extra Domain A induced metastasis in Lung cancer cells.",
+      "authors": [
+        "Asif Amin",
+        "Naveed Anjum Chikan",
+        "Taseem A Mokhdomi",
+        "Shoiab Bukhari",
+        "Aabid M Koul",
+        "Basit Amin Shah",
+        "Fatemeh Rahimi Gharemirshamlu",
+        "Asrar H Wafai",
+        "Ayub Qadri",
+        "Raies A Qadri"
+      ],
+      "year": "2016",
+      "journal": "Scientific reports",
+      "doi": "10.1038/srep37151",
+      "doi_link": "https://doi.org/10.1038/srep37151",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/27849000",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Irigenin%2C%20a%20novel%20lead%20from%20Western%20Himalayan%20chemiome%20inhibits%20Fibronectin-Extra%20Domain%20A%20induced%20metastasis%20in%20Lung%20cancer%20cells%22",
+      "citations": {
+        "crossref": 27
+      },
+      "abstract": "Several lines of evidence indicate that Fibronectin Extra Domain A (EDA) promotes metastatic capacity of tumor cells by engaging cell surface α9β1 integrins. This interaction mediated by the C-C loop of EDA activates pro-oncogenic signaling pathways leading to epithelial to mesenchymal transition (EMT) of tumor cells, thus signifying its importance in control of metastatic progression. In this context the present study was designed to explore the active compounds from selected ethno-medicinal plants of western Himalayan region for targeting EDA of Fibronectin in lung carcinoma cells. Structure based informatics for drug designing and screening was employed to generate a lead compound(s) feed that were conformationally and energetically viable. Out of 120 compounds selected, Irigenin showed best binding-affinity with C-C loop of EDA. Irigenin specifically targeted α9β1 and α4β1 integrin binding sites on EDA comprising LEU46, PHE47, PRO48, GLU58, LEU59 and GLN60 in its C-C loop as evaluated by energy decomposition per residue of Irigenin-EDA complex. In-vitro cell motility assays complemented with EDA knock-in and knockdown assays distinctively demonstrated that Irigenin prevents metastatic capacity of lung cancer cells by selectively blocking EDA. The results presented thus project Irigenin as a lead compound to overcome Fibronectin EDA induced metastatic progression in lung carcinoma cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper14",
+      "publication_id": "26888964",
+      "title": "Src kinases central to T-cell receptor signaling regulate TLR-activated innate immune responses from human T cells.",
+      "authors": [
+        "Naveen Sharma",
+        "Ajay Suresh Akhade",
+        "Ayub Qadri"
+      ],
+      "year": "2016",
+      "journal": "Innate immunity",
+      "doi": "10.1177/1753425916632305",
+      "doi_link": "https://doi.org/10.1177/1753425916632305",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26888964",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Src%20kinases%20central%20to%20T-cell%20receptor%20signaling%20regulate%20TLR-activated%20innate%20immune%20responses%20from%20human%20T%20cells%22",
+      "citations": {
+        "semantic_scholar": 14
+      },
+      "abstract": "TLRs have a fundamental role in immunity. We have recently reported that stimulation of TLR2 and TLR5 in freshly isolated and activated human T cells with microbial ligands without concomitant activation through the TCR brings about secretion of neutrophil chemoattractant, CXCL8, and effector cytokine, IFN-γ, respectively. However, the mechanism of TLR signaling in T cells has not been worked out. Here, we show that the Src family kinases, p56(lck)(Lck) and p59(fyn)(Fyn), which are essential for activation of T cells through the TCR, are also critical for signal transduction through TLRs in human T cells. The secretion of CXCL8 following stimulation of the model human T cell line, Jurkat, with the TLR5 ligand, flagellin, was reduced in presence of the Src-kinase inhibitor, PP2 and specific inhibitors of Lck and Fyn. These inhibitors suppressed generation of activated JNK and p38, which were both required for TLR-induced CXCL8 production. The Lck-deficient derivative of Jurkat, JCam1.6, responded poorly to TLR2, TLR5 and TLR7 agonists, and did not generate active signaling intermediates. Lck and Fyn inhibitors also reduced TLR5-induced IFN-γ secretion from the activated T cell phenotype-representing T cell line, HuT78, without modulating JNK and p38 activation. These results reveal that TCR and TLRs share key proximal signaling regulators in T cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper15",
+      "publication_id": "26303218",
+      "title": "MyD88-dependent pro-inflammatory activity in Vi polysaccharide vaccine against typhoid promotes Ab switching to IgG.",
+      "authors": [
+        "Rohini Garg",
+        "Ajay Suresh Akhade",
+        "Jitender Yadav",
+        "Ayub Qadri"
+      ],
+      "year": "2015",
+      "journal": "Innate immunity",
+      "doi": "10.1177/1753425915599242",
+      "doi_link": "https://doi.org/10.1177/1753425915599242",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26303218",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22MyD88-dependent%20pro-inflammatory%20activity%20in%20Vi%20polysaccharide%20vaccine%20against%20typhoid%20promotes%20Ab%20switching%20to%20IgG%22",
+      "citations": {
+        "semantic_scholar": 5
+      },
+      "abstract": "Vi capsular polysaccharide is currently in use as a vaccine against human typhoid caused by Salmonella Typhi. The vaccine efficacy correlates with IgG anti-Vi Abs. We have recently reported that Vi can generate inflammatory responses through activation of the TLR2/TLR1 complex. In the present study, we show that immunization with Vi produces IgM as well as IgG Abs in wild type mice. This ability is not compromised in mice deficient in T cells. However, immunization of mice lacking the TLR adaptor protein, MyD88, with Vi elicits only IgM Abs. These results suggest that MyD88-dependent pro-inflammatory ability of the Vi vaccine might be vital in generating IgG Abs with this T-independent Ag.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper16",
+      "publication_id": "26205220",
+      "title": "T-cell receptor activation of human CD4(+) T cells shifts the innate TLR response from CXCL8(hi) IFN-γ(null) to CXCL8(lo) IFN-γ(hi).",
+      "authors": [
+        "Ajay S Akhade",
+        "Ayub Qadri"
+      ],
+      "year": "2015",
+      "journal": "European journal of immunology",
+      "doi": "10.1002/eji.201545553",
+      "doi_link": "https://doi.org/10.1002/eji.201545553",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26205220",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22T-cell%20receptor%20activation%20of%20human%20CD4%28%2B%29%20T%20cells%20shifts%20the%20innate%20TLR%20response%20from%20CXCL8%28hi%29%20IFN-%CE%B3%28null%29%20to%20CXCL8%28lo%29%20IFN-%CE%B3%28hi%29%22",
+      "citations": {
+        "crossref": 8
+      },
+      "abstract": "Toll-like receptors (TLRs) play a major part in providing innate immunity against pathogenic microorganisms. Recent studies show that these receptors are also expressed on T cells, which are the sentinels of adaptive immunity. Here, we have investigated the regulatory role of the T-cell receptor in the functioning of these innate receptors in T cells. We show that freshly isolated human CD4(+) T cells readily secrete the neutrophil chemoattractant CXCL8 upon activation with the TLR ligands Pam3CSK and flagellin. In contrast, TCR-activated cells secrete considerably less CXCL8 but start producing IFN-γ upon stimulation with TLR agonists in the absence of concomitant TCR engagement. These T cells show increased activation of p38 and JNK MAP-kinases in response to TLR stimulation, and inhibition of p38 abrogates TLR-induced IFN-γ secretion. The shifting of the T-cell innate immune response from CXCL8(hi) IFN-γ(null) in freshly isolated to CXCL8(lo) IFN-γ(hi) in activated T cells is also observed in response to endogenous innate stimulus, IL-1. These results suggest that the innate immune response of human CD4(+) T cells switches from a proinflammatory to an effector type following activation of these cells through the antigen receptor.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper17",
+      "publication_id": "25712668",
+      "title": "Tectorigenin ablates the inflammation-induced epithelial-mesenchymal transition in a co-culture model of human lung carcinoma.",
+      "authors": [
+        "Asif Amin",
+        "Taseem A Mokhdomi",
+        "Shoiab Bukhari",
+        "Sajad H Wani",
+        "Asrar H Wafai",
+        "Ghulam Nabi Lone",
+        "Ayub Qadri",
+        "Raies A Qadri"
+      ],
+      "year": "2015",
+      "journal": "Pharmacological reports : PR",
+      "doi": "10.1016/j.pharep.2014.10.020",
+      "doi_link": "https://doi.org/10.1016/j.pharep.2014.10.020",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/25712668",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Tectorigenin%20ablates%20the%20inflammation-induced%20epithelial-mesenchymal%20transition%20in%20a%20co-culture%20model%20of%20human%20lung%20carcinoma%22",
+      "citations": {
+        "crossref": 22
+      },
+      "abstract": "OBJECTIVES: Tumors not only manage to escape from the host immune system, but they effectively contrive to benefit from infiltrating immune cells by modifying their functions so as to create a pro-inflammatory microenvironment favorable for tumor progression and metastasis. In this study we investigated if tectorigenin could suppress lung cancer-induced pro-inflammatory response generated from monocytes. MATERIALS AND METHODS: A549:THP1 co-culture model was set-up favoring release of pro-inflammatory cytokines interleukin (IL)-6 and tumor necrosis factor alpha (TNF-α). Effect of tectorigenin on A549 imparted invasive phenotype of A549:THP-1 co-culture was monitored by cytokine release from monocytes, and metastasis/epithelial-mesenchymal transitiom (EMT) in A549 cells. RESULTS: In a contact A549:THP1 co-culture model, THP-1 cells were activated by A549 cells favoring secretion of pro-inflammatory cytokines, TNF-α and IL-6. However, priming of A549 cells with tectorigenin for 24h repressed A549 cell-induced secretion of TNF-α and IL-6 by THP-1 cells. Tectorigenin induced change in functional phenotype of A549 cells rendered THP-1 cells non-responsive for the secretion of IL-6 and TNF-α in a contact co-culture setup. Additionally, conditioned media from this non-responsive A549:THP-1 co-culture suppressed metastatic potential of A549 cells as confirmed by the wound healing and transwell migration assays. These finding were further corroborated by decrease in expression of Snail with a concomitant increase in E-cadherin, the two signature markers of EMT. CONCLUSION: These results clearly demonstrate the therapeutic potential of tectorigenin to prevent lung cancer elicited inflammatory and pro-metastatic response in monocytes and warrants further investigations to elucidate its mechanism of action.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper18",
+      "publication_id": "24470505",
+      "title": "The virulence polysaccharide Vi released by Salmonella Typhi targets membrane prohibitin to inhibit T-cell activation.",
+      "authors": [
+        "Srikanth K Santhanam",
+        "Debjani Dutta",
+        "Farhat Parween",
+        "Ayub Qadri"
+      ],
+      "year": "2014",
+      "journal": "The Journal of infectious diseases",
+      "doi": "10.1093/infdis/jiu064",
+      "doi_link": "https://doi.org/10.1093/infdis/jiu064",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/24470505",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22The%20virulence%20polysaccharide%20Vi%20released%20by%20Salmonella%20Typhi%20targets%20membrane%20prohibitin%20to%20inhibit%20T-cell%20activation%22",
+      "citations": {
+        "crossref": 27
+      },
+      "abstract": "T cells are critical to immunity against pathogenic Salmonella including Salmonella Typhi which causes systemic infection, typhoid, in humans. The strategies that this pathogen employs to keep T-cell mediated immune responses in check during establishment of systemic infection are not completely understood. Here, we show that the virulence polysaccharide Vi, which distinguishes S. Typhi from localized gastroenteritis-producing nontyphoidal Salmonella serovars, is a potent inhibitor of T-cell activation. Vi released by S. Typhi interacts with the membrane prohibitin complex and inhibits IL-2 secretion from T cells stimulated through the T-cell receptor (TCR) but does not affect PMA-activated interleukin 2 (IL-2) secretion. Treatment with Vi suppresses early activation events including TCR down-regulation, actin polymerization, and phosphorylation of ERK. Coadministration of Vi with anti-CD3 Ab reduces secretion of IL-2 and interferon γ in mice. Our findings reveal a mechanism by which S. Typhi may target T-cell immunity during establishment of typhoid.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper19",
+      "publication_id": "23345392",
+      "title": "Sphingosine-1-phosphate suppresses TLR-induced CXCL8 secretion from human T cells.",
+      "authors": [
+        "Naveen Sharma",
+        "Ajay Suresh Akhade",
+        "Ayub Qadri"
+      ],
+      "year": "2013",
+      "journal": "Journal of leukocyte biology",
+      "doi": "10.1189/jlb.0712328",
+      "doi_link": "https://doi.org/10.1189/jlb.0712328",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/23345392",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Sphingosine-1-phosphate%20suppresses%20TLR-induced%20CXCL8%20secretion%20from%20human%20T%20cells%22",
+      "citations": {
+        "crossref": 44
+      },
+      "abstract": "T cells produce a number of cytokines and chemokines upon stimulation with TLR agonists in the presence or absence of TCR signals. Here, we show that secretion of neutrophil chemoattractant CXCL8 from human T cell line Jurkat in response to stimulation with TLR agonists is reduced when cell stimulation is carried out in presence of serum. Serum does not, however, inhibit TCR-activated secretion of CXCL8 nor does it down-regulate TLR-costimulated IL-2 secretion from activated T cells. The molecule that can mimic the ability to bring about suppression in CXCL8 from TLR-activated T cells is serum-borne bioactive lipid, S1P. Serum and S1P-mediated inhibition require intracellular calcium. S1P also suppresses CXCL8 secretion from peripheral blood-derived human T cells activated ex vivo with various TLR ligands. Our findings reveal a previously unrecognized role for S1P in regulating TLR-induced CXCL8 secretion from human T cells.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper20",
+      "publication_id": "20439919",
+      "title": "Hemoglobin transforms anti-inflammatory Salmonella typhi virulence polysaccharide into a TLR-2 agonist.",
+      "authors": [
+        "Rohini Garg",
+        "Ayub Qadri"
+      ],
+      "year": "2010",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.0903512",
+      "doi_link": "https://doi.org/10.4049/jimmunol.0903512",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/20439919",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Hemoglobin%20transforms%20anti-inflammatory%20Salmonella%20typhi%20virulence%20polysaccharide%20into%20a%20TLR-2%20agonist%22",
+      "citations": {
+        "crossref": 16
+      },
+      "abstract": "Vi capsular polysaccharide is a major virulence determinant of the human typhoid- causing pathogen Salmonella typhi; it is absent in nontyphoidal Salmonella serovars. We show in this study that through its specific interaction with the membrane recognition complex containing the prohibitin family of molecules, Vi can inhibit the production of inflammatory cytokines from mononuclear phagocytes stimulated with Salmonella flagellin. Remarkably, Vi lost this anti-inflammatory capability and switched to a proinflammatory state when cell stimulations were performed in the presence of serum. The serum-transformed proinflammatory form of Vi induced secretion of cytokines from monocytes by specifically engaging TLR-2/TLR-1. The molecule responsible for bringing about this conversion of Vi from an anti-inflammatory to a proinflammatory form was serum-derived hemoglobin. Derivatives of Vi incapable of interacting with hemoglobin did not switch to a proinflammatory state in vitro or in vivo. These findings provide compelling evidence for a role of hemoglobin in transforming the anti-inflammatory S. typhi virulence polysaccharide into an immune activator.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper21",
+      "publication_id": "16648855",
+      "title": "Lysophospholipid sensing triggers secretion of flagellin from pathogenic salmonella.",
+      "authors": [
+        "Naeha Subramanian",
+        "Ayub Qadri"
+      ],
+      "year": "2006",
+      "journal": "Nature immunology",
+      "doi": "10.1038/ni1336",
+      "doi_link": "https://doi.org/10.1038/ni1336",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/16648855",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Lysophospholipid%20sensing%20triggers%20secretion%20of%20flagellin%20from%20pathogenic%20salmonella%22",
+      "citations": {
+        "semantic_scholar": 71
+      },
+      "abstract": "Flagellin induces inflammatory and innate immune responses through activation of Toll-like receptor 5. Here we show that proinflammatory monomeric flagellin produced by salmonella during infection of intestinal epithelial cells was not derived from polymeric bacterial cell wall-associated flagellum but instead was synthesized and secreted de novo by the bacterium after direct sensing of host-produced lysophospholipids. Inhibition of lysophospholipid biosynthesis in intestinal epithelial cells reduced flagellin production and release from salmonella. Lysophospholipids induced a cAMP-dependent signaling pathway in salmonella that resulted in production and secretion of active flagellin. The induction of Toll-like receptor ligand synthesis and secretion by a host signal represents a previously unknown regulatory mechanism for inflammation and innate immunity during infection with a bacterial pathogen.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper22",
+      "publication_id": "15576509",
+      "title": "Vi polysaccharide of Salmonella typhi targets the prohibitin family of molecules in intestinal epithelial cells and suppresses early inflammatory responses.",
+      "authors": [
+        "Amita Sharma",
+        "Ayub Qadri"
+      ],
+      "year": "2004",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.0407536101",
+      "doi_link": "https://doi.org/10.1073/pnas.0407536101",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/15576509",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22Vi%20polysaccharide%20of%20Salmonella%20typhi%20targets%20the%20prohibitin%20family%20of%20molecules%20in%20intestinal%20epithelial%20cells%20and%20suppresses%20early%20inflammatory%20responses%22",
+      "citations": {
+        "semantic_scholar": 227
+      },
+      "abstract": "Vi capsular polysaccharide (Vi) was first identified as a virulence antigen of Salmonella typhi, the causative agent of typhoid fever in humans; it renders S. typhi resistant to phagocytosis and the action of serum complement. However, the role of Vi during the infection of intestinal epithelium with S. typhi is not completely understood. We show here that Vi can interact with a model human intestinal epithelial cell line, Caco-2, through a cell-surface-associated molecular complex containing two major proteins of 30 and 35 kDa and a minor protein of approximately 68 kDa. The two major proteins were identified as the putative tumor suppressor molecule, prohibitin, and its closely related homolog, B cell receptor-associated protein 37. These two proteins were enriched in lipid rafts, and Vi readily associated with these membrane microdomains. Engagement of Caco-2 cells with Vi inhibited their ability to produce an inflammatory response upon infection with Vi(-) S. typhi. Consistent with this effect, infection of Caco-2 cells with Vi(+) S. typhi produced less IL-8 compared with Vi(-) S. typhi. Cells treated with Vi showed reduced extracellular signal-regulated kinase phosphorylation in response to infection with Vi(-) S. typhi or stimulation with phorbol 12-myristate 13-acetate, suggesting that the mitogen-activated protein kinase pathway might be a target for Vi-mediated inhibition of inflammatory responses. These findings reveal a crucial role for Vi in the modulation of early inflammatory responses during infection with S. typhi. This kind of a modulation could play a significant role in the establishment of infection by S. typhi.",
+      "category": "publications"
+    },
+    {
+      "paper_number": "paper23",
+      "publication_id": "12928395",
+      "title": "T cell recognition of distinct peptide:I-Au conformers in murine experimental autoimmune encephalomyelitis.",
+      "authors": [
+        "Jason C Huang",
+        "Mei Han",
+        "Alfredo Minguela",
+        "Silvia Pastor",
+        "Ayub Qadri",
+        "E Sally Ward"
+      ],
+      "year": "2003",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "doi": "10.4049/jimmunol.171.5.2467",
+      "doi_link": "https://doi.org/10.4049/jimmunol.171.5.2467",
+      "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/12928395",
+      "scholar_link": "https://scholar.google.com/scholar?q=%22T%20cell%20recognition%20of%20distinct%20peptide%3AI-Au%20conformers%20in%20murine%20experimental%20autoimmune%20encephalomyelitis%22",
+      "citations": {
+        "crossref": 14
+      },
+      "abstract": "We have used T cells bearing TCRs that are closely related in sequence as probes to detect conformational variants of peptide-MHC complexes in murine experimental autoimmune encephalomyelitis in H-2(u) mice. The N-terminal epitope of myelin basic protein (MBP) is immunodominant in this model. Our studies have primarily focused on T cell recognition of a position 4 analog of this peptide (MBP1-9[4Y]) complexed with I-A(u). Using site-directed mutagenesis, we have mapped the functionally important complementarity determining region residues of the 1934.4 TCR Valpha domain. One of the resulting mutants (Tyr(95) to alanine in CDR3alpha, Y95A) has interesting properties: relative to the parent wild-type TCR, this mutant poorly recognizes Ag complexes generated by pulsing professional APCs (PL-8 cells) with MBP1-9[4Y] while retaining recognition of MBP1-9[4Y]-pulsed unconventional APCs or insect cell-expressed complexes of I-A(u) containing tethered MBP1-9[4Y]. Insect cell expression of recombinant I-A(u) with covalently tethered class II-associated invariant chain peptide or other peptides which bind relatively weakly, followed by proteolytic cleavage of the peptide linker and replacement by MBP1-9[4Y] in vitro, results in complexes that resemble peptide-pulsed PL-8 cells. Therefore, the distinct conformers can be produced in recombinant form. T cells that can distinguish these two conformers can also be generated by the immunization of H-2(u) mice, indicating that differential recognition of the conformers is observed for responding T cells in vivo. These studies have relevance to understanding the molecular details of T cell recognition in murine experimental autoimmune encephalomyelitis. They are also of particular importance for the effective use of multimeric peptide-MHC complexes to characterize the properties of Ag-specific T cells.",
+      "category": "publications"
+    }
+  ],
+  "research_metrics": {
+    "total_publications": 23,
+    "publications_by_year": {
+      "2023": 2,
+      "2022": 1,
+      "2021": 3,
+      "2020": 4,
+      "2019": 1,
+      "2018": 1,
+      "2016": 2,
+      "2015": 3,
+      "2014": 1,
+      "2013": 1,
+      "2010": 1,
+      "2006": 1,
+      "2004": 1,
+      "2003": 1
+    },
+    "top_journals": [
+      "Journal of immunology (Baltimore, Md. : 1950)",
+      "Proceedings of the National Academy of Sciences of the United States of America",
+      "Journal of leukocyte biology",
+      "Scientific reports",
+      "Innate immunity"
+    ],
+    "collaboration_stats": {
+      "total_collaborators": 35,
+      "frequent_collaborators": [
+        "Ayub Qadri",
+        "Ajay Suresh Akhade",
+        "Raies A Qadri",
+        "Sana Ismaeel",
+        "Taseem A Mokhdomi",
+        "Shoiab Bukhari",
+        "Jitender Yadav",
+        "Faizah Farooq"
+      ]
+    },
+    "highest_cited_papers": [
+      {
+        "publication_id": "15576509",
+        "title": "Vi polysaccharide of Salmonella typhi targets the prohibitin family of molecules in intestinal epithelial cells and suppresses early inflammatory responses.",
+        "citations": 227,
+        "year": "2004"
+      },
+      {
+        "publication_id": "16648855",
+        "title": "Lysophospholipid sensing triggers secretion of flagellin from pathogenic salmonella.",
+        "citations": 71,
+        "year": "2006"
+      },
+      {
+        "publication_id": "23345392",
+        "title": "Sphingosine-1-phosphate suppresses TLR-induced CXCL8 secretion from human T cells.",
+        "citations": 44,
+        "year": "2013"
+      }
+    ]
+  }
+}

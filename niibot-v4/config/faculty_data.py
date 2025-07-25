@@ -36,6 +36,7 @@ KNOWN_FACULTY = {
     "apurba kumar sau": "Dr. Apurba Kumar Sau",
     "bichitra biswal": "Dr. Bichitra K. Biswal",
     "bichitra k biswal": "Dr. Bichitra K. Biswal",
+    "dr bichitra k biswal": "Dr. Bichitra K. Biswal",
     "debasisa mohanty": "Dr. Debasisa Mohanty",
     "mohanty": "Dr. Debasisa Mohanty",
     "g senthil kumar": "Dr. G. Senthil Kumar",

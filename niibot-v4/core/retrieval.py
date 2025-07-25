@@ -1,289 +1,778 @@
+"""Enhanced Faculty Retrieval System with Multi-Strategy Search Architecture.
+
+This module implements a comprehensive 5-tier search strategy for optimal faculty
+information retrieval, handling everything from exact names to casual first-name queries.
+
+Key Features:
+    - Intelligent faculty name extraction and matching
+    - Progressive search strategies with automatic fallback
+    - Cross-domain search for comprehensive information coverage
+    - Robust error handling with performance logging
+    - Smart partial name matching to prevent cross-faculty contamination
+"""
+
 import os
 from typing import List
 from langchain_chroma import Chroma
 from langchain_core.documents import Document
 
-# Import from other modules
 from core.faculty_extractor import create_faculty_extractor_with_cache
 from utils.document_utils import _deduplicate_documents
-from utils.search_utils import (
-    optimize_vectorstore_search,
-    get_comprehensive_director_info,
-)
+from utils.search_utils import get_comprehensive_director_info
 from config.settings import VECTOR_DB_DIR, embedding_model
 
 
-# ==== Enhanced Faculty Retriever Class ====
 class EnhancedFacultyRetriever:
-    """
-    Advanced retrieval system that combines multiple search strategies
-    for accurate results and proper cache integration.
+    """Advanced document retrieval system with 5-tier search strategy.
 
-    Features:
-    - Faculty-aware metadata filtering
-    - Semantic similarity search
-    - Cross-domain search capabilities
-    - Relevance scoring and filtering
-    - Deduplication
-
-    Purpose: Ensures that when users ask about specific faculty members,
-    we retrieve the most relevant documents about that person, not just
-    semantically similar content about other people.
+    Implements progressive search from most precise to most flexible:
+        1. Exact metadata filtering
+        2. First name direct lookup
+        3. Smart partial name matching
+        4. Cross-domain search
+        5. Semantic fallback
     """
 
     def __init__(self, vectorstore: Chroma, domain: str):
-        """Initialize the enhanced retriever."""
+        """Initialize retriever with domain-specific configuration.
+
+        Args:
+            vectorstore (Chroma): Vector database instance for document storage
+            domain (str): Domain context for search operations
+        """
         self.vectorstore = vectorstore
         self.domain = domain
-        # Use factory function to get properly configured extractor with caching
         self.name_extractor = create_faculty_extractor_with_cache()
 
     def retrieve_with_faculty_awareness(self, query: str, k: int = 4) -> List[Document]:
-        """FIXED: Main retrieval function with PRECISE faculty filtering"""
+        """Execute comprehensive faculty-aware document retrieval.
+
+        Orchestrates 5-tier search strategy to handle all query patterns:
+            - Formal: "Dr. Monica Sundd email"
+            - Casual: "monica email"
+            - Partial: "dr monica contact"
+            - Complex: Multi-domain information requests
+
+        Args:
+            query (str): Natural language query from user
+            k (int, optional): Maximum documents to retrieve. Defaults to 4.
+
+        Returns:
+            List[Document]: Ranked list of relevant documents with metadata
+        """
         extracted_names = self.name_extractor.extract_names(query)
         query_lower = query.lower()
 
-        print(f"🔍 DEBUG - Query: '{query}'")
-        print(f"🔍 DEBUG - Extracted names: {extracted_names}")
+        print(f"Query: '{query}' | Domain: {self.domain}")
+        print(f"Extracted names: {extracted_names}")
 
-        # Check if this is a director query
-        is_director_query = any(
-            pattern in query_lower
-            for pattern in [
-                "director",
-                "current director",
-                "nii director",
-                "institute director",
-                "head of nii",
-                "director's background",
-                "director research",
-            ]
-        )
+        all_documents = []
 
-        # If no names extracted, fall back to basic semantic search
-        if not extracted_names:
-            return self.vectorstore.similarity_search(query, k=k)
+        # Strategy 1: Exact metadata filtering
+        if extracted_names:
+            all_documents = self._execute_exact_metadata_search(
+                extracted_names, query, k
+            )
+            if all_documents:
+                print(f"EXACT SUCCESS: {len(all_documents)} documents")
+                return self._finalize_results(all_documents, k)
 
-        print(f"🎯 Extracted faculty names: {extracted_names}")
+        # Strategy 2: First name direct lookup
+        if not all_documents:
+            all_documents = self._execute_first_name_search(query, query_lower, k)
+            if all_documents:
+                print(f"FIRST NAME SUCCESS: {len(all_documents)} documents")
+                return self._finalize_results(all_documents, k)
 
-        # Special handling for director queries
-        if (
-            is_director_query
-            and "Dr. Debasisa Mohanty" in extracted_names
-            and self.domain == "nii_info"
-        ):
-            return get_comprehensive_director_info(query)
+        # Strategy 3: Smart partial name matching
+        if not all_documents and extracted_names:
+            all_documents = self._execute_partial_name_search(extracted_names, query, k)
+            if all_documents:
+                print(f"PARTIAL SUCCESS: {len(all_documents)} documents")
+                return self._finalize_results(all_documents, k)
 
-        # ===== STRATEGY 1: STRICT METADATA FILTERING ONLY =====
+        # Strategy 4: Cross-domain search
+        if not all_documents and extracted_names:
+            all_documents = self._execute_cross_domain_search(extracted_names, query, k)
+            if all_documents:
+                print(f"CROSS-DOMAIN SUCCESS: {len(all_documents)} documents")
+                return self._finalize_results(all_documents, k)
+
+        # Strategy 5: Semantic fallback
+        all_documents = self._execute_semantic_fallback(query, extracted_names, k)
+        print(f"SEMANTIC FALLBACK: {len(all_documents)} documents")
+        return self._finalize_results(all_documents, k)
+
+    def _execute_exact_metadata_search(
+        self, extracted_names: List[str], query: str, k: int
+    ) -> List[Document]:
+        """Execute precise metadata-based search for known faculty.
+
+        Provides highest precision by filtering documents using exact faculty
+        name metadata with verification to prevent false positives.
+
+        Args:
+            extracted_names (List[str]): List of faculty names extracted from query
+            query (str): Original user query
+            k (int): Number of documents to retrieve
+
+        Returns:
+            List[Document]: Verified documents matching exact faculty metadata
+        """
+        print("EXECUTING: Exact metadata filtering")
         all_docs = []
 
-        for name in extracted_names:
+        for faculty_name in extracted_names:
             try:
-                print(f"🔍 Searching for EXACT faculty match: {name}")
+                print(f"Searching: {faculty_name}")
 
-                # CRITICAL: Use ONLY metadata filtering, NO semantic search
+                # Apply strict metadata filtering
                 filtered_docs = self.vectorstore.similarity_search(
-                    query,
-                    k=k * 2,  # Get more docs to filter from
-                    filter={"faculty_name": name},  # EXACT match only
+                    query, k=k * 2, filter={"faculty_name": faculty_name}
                 )
 
                 if filtered_docs:
-                    print(
-                        f"✅ Metadata filter found {len(filtered_docs)} docs for: {name}"
+                    print(f"Found {len(filtered_docs)} candidates")
+                    verified_docs = self._verify_faculty_relevance(
+                        filtered_docs, faculty_name
                     )
-
-                    # ADDITIONAL VERIFICATION: Ensure content is actually about this person
-                    verified_docs = []
-                    for doc in filtered_docs:
-                        doc_faculty = doc.metadata.get("faculty_name", "")
-                        doc_content = doc.page_content.lower()
-
-                        # STRICT CHECK: Must match exactly
-                        if doc_faculty == name and name.lower() in doc_content:
-                            verified_docs.append(doc)
-                            print(f"   ✅ VERIFIED doc about {name}")
-                        else:
-                            print(
-                                f"   ❌ REJECTED doc - metadata: {doc_faculty}, target: {name}"
-                            )
 
                     if verified_docs:
                         all_docs.extend(verified_docs)
-                        print(
-                            f"🎯 Final verified docs for {name}: {len(verified_docs)}"
-                        )
-                        break  # Found exact matches for this faculty, stop searching
-                else:
-                    print(f"   ⚠️ No metadata matches for: {name}")
+                        print(f"Verified {len(verified_docs)} documents")
+                        break  # Prioritize precision over coverage
 
             except Exception as e:
-                print(f"   ❌ Metadata search failed for {name}: {e}")
+                print(f"Search failed for {faculty_name}: {e}")
+                continue
 
-        # ===== STRATEGY 2: FALLBACK WITH STRICT POST-FILTERING =====
-        if not all_docs:
-            print(
-                "🔄 No exact metadata matches, trying semantic search with STRICT filtering..."
-            )
+        return all_docs
 
-            for name in extracted_names:
-                try:
-                    # Use enhanced query for better semantic matching
-                    enhanced_query = f"{name} {query}"
-                    semantic_docs = self.vectorstore.similarity_search(
-                        enhanced_query, k=k * 2
-                    )
+    def _execute_first_name_search(
+        self, query: str, query_lower: str, k: int
+    ) -> List[Document]:
+        """Execute direct first name lookup for casual queries.
 
-                    # STRICT POST-FILTERING
-                    filtered_semantic = []
-                    for doc in semantic_docs:
-                        if self._is_doc_about_faculty(doc, name):
-                            filtered_semantic.append(doc)
-                            print(f"   ✅ Semantic match VERIFIED for {name}")
-                        else:
-                            doc_faculty = doc.metadata.get("faculty_name", "Unknown")
-                            print(
-                                f"   ❌ Semantic match REJECTED - doc about {doc_faculty}, target: {name}"
-                            )
-
-                    if filtered_semantic:
-                        all_docs.extend(filtered_semantic)
-                        print(
-                            f"🎯 Semantic search found {len(filtered_semantic)} verified docs for {name}"
-                        )
-                        break  # Found matches for this faculty
-
-                except Exception as e:
-                    print(f"   ❌ Semantic search failed for {name}: {e}")
-
-        # ===== STRATEGY 3: CROSS-DOMAIN SEARCH (if current domain fails) =====
-        if not all_docs and self.domain != "faculty_info":
-            print("🔄 Trying cross-domain search in faculty_info...")
-            all_docs = self._cross_domain_search(extracted_names, query, k)
-
-        # Remove duplicates and return ONLY documents about the requested faculty
-        unique_docs = self._deduplicate_docs(all_docs)
-        final_docs = unique_docs[:k] if unique_docs else []
-
-        print(
-            f"🏁 FINAL RESULT: {len(final_docs)} documents about requested faculty ONLY"
-        )
-
-        # If still no specific results, return general search as last resort
-        if not final_docs:
-            print("⚠️ No faculty-specific results found, falling back to general search")
-            return self.vectorstore.similarity_search(query, k=k)
-
-        return final_docs
-
-    def _is_doc_about_faculty(self, doc: Document, target_faculty: str) -> bool:
-        """
-        STRICT check if document is actually about the target faculty member
+        Handles informal patterns like "monica email", "sarika research" by
+        using FIRST_NAMES database for immediate faculty identification.
+        Fast single-dictionary lookup with comprehensive validation.
 
         Args:
-            doc: Document to check
-            target_faculty: Name of faculty we're looking for
+            query (str): Original user query
+            query_lower (str): Lowercase version of query for matching
+            k (int): Number of documents to retrieve
+
+        Returns:
+            List[Document]: Documents matched through first name lookup
+        """
+        print("EXECUTING: First name direct lookup")
+
+        from config.faculty_data import FIRST_NAMES
+
+        all_docs = []
+        matched_faculty = []
+
+        # Check each first name pattern against query
+        for first_name, full_faculty_name in FIRST_NAMES.items():
+            query_words = query_lower.split()
+
+            if first_name in query_words or first_name in query_lower:
+                if self._validate_first_name_context(query_lower, first_name):
+                    matched_faculty.append(full_faculty_name)
+                    print(f"Match: '{first_name}' → '{full_faculty_name}'")
+                    break  # Use first match to avoid ambiguity
+
+        # Search using resolved faculty name
+        if matched_faculty:
+            for faculty_name in matched_faculty:
+                try:
+                    # Try exact metadata filtering first
+                    first_name_docs = self.vectorstore.similarity_search(
+                        query, k=k * 2, filter={"faculty_name": faculty_name}
+                    )
+
+                    if first_name_docs:
+                        verified_docs = self._verify_faculty_relevance(
+                            first_name_docs, faculty_name
+                        )
+                        if verified_docs:
+                            all_docs.extend(verified_docs)
+                            print(f"Verified {len(verified_docs)} docs")
+                            break
+
+                    # Fallback: Enhanced semantic search
+                    enhanced_query = f"{faculty_name} {query}"
+                    semantic_docs = self.vectorstore.similarity_search(
+                        enhanced_query, k=k
+                    )
+
+                    for doc in semantic_docs:
+                        if self._is_document_about_faculty(doc, faculty_name):
+                            all_docs.append(doc)
+
+                    if all_docs:
+                        print(f"Semantic found {len(all_docs)} docs")
+                        break
+
+                except Exception as e:
+                    print(f"Failed for {faculty_name}: {e}")
+                    continue
+
+        return all_docs
+
+    def _execute_partial_name_search(
+        self, extracted_names: List[str], query: str, k: int
+    ) -> List[Document]:
+        """Execute smart partial name matching with component prioritization.
+
+        Handles partial names by prioritizing unique first names over common surnames
+        to prevent cross-faculty contamination.
+
+        Args:
+            extracted_names (List[str]): List of faculty names from query
+            query (str): Original user query
+            k (int): Number of documents to retrieve
+
+        Returns:
+            List[Document]: Documents matched through smart partial matching
+        """
+        print("EXECUTING: Smart partial name matching")
+        all_docs = []
+
+        for faculty_name in extracted_names:
+            try:
+                # Get prioritized name components
+                name_components = self._get_prioritized_name_components(faculty_name)
+                print(f"Prioritized components for {faculty_name}: {name_components}")
+
+                for component in name_components:
+                    if len(component) > 2:
+                        enhanced_query = f"{component} {query}"
+                        partial_docs = self.vectorstore.similarity_search(
+                            enhanced_query, k=k * 3
+                        )
+
+                        # Apply strict post-filtering to ensure correct faculty
+                        verified_docs = []
+                        for doc in partial_docs:
+                            if self._validate_partial_match_strict(
+                                doc, faculty_name, component
+                            ):
+                                verified_docs.append(doc)
+                                faculty_metadata = doc.metadata.get(
+                                    "faculty_name", "Unknown"
+                                )
+                                print(
+                                    f"VERIFIED partial match: {component} → {faculty_metadata}"
+                                )
+
+                        if verified_docs:
+                            all_docs.extend(verified_docs)
+                            break  # Found verified matches for this component
+
+                if all_docs:
+                    break  # Found matches for this faculty
+
+            except Exception as e:
+                print(f"Partial search failed: {e}")
+                continue
+
+        return all_docs
+
+    def _get_prioritized_name_components(self, faculty_name: str) -> List[str]:
+        """Get name components in priority order to avoid surname conflicts.
+
+        Strategy:
+            1. First names first (more unique: "Sarika", "Monica", "Nimesh")
+            2. Middle names/initials (if present)
+            3. Surnames last (often shared: "Gupta", "Kumar", "Singh")
+
+        Args:
+            faculty_name (str): Full faculty name to decompose
+
+        Returns:
+            List[str]: List of components in priority order (most unique first)
+        """
+        # Remove titles and normalize
+        cleaned_name = faculty_name.replace("Dr.", "").replace("Prof.", "").strip()
+        components = cleaned_name.split()
+
+        if len(components) <= 1:
+            return components
+
+        # Identify common surnames that should be deprioritized
+        common_surnames = {
+            "gupta",
+            "kumar",
+            "singh",
+            "sharma",
+            "yadav",
+            "roy",
+            "das",
+            "pal",
+            "suri",
+            "rani",
+            "ali",
+            "anand",
+            "basu",
+            "dhar",
+            "meena",
+            "negi",
+        }
+
+        prioritized = []
+        surnames = []
+
+        # Separate unique names from common surnames
+        for component in components:
+            if len(component) > 2:
+                if component.lower() in common_surnames:
+                    surnames.append(component)  # Deprioritize common surnames
+                else:
+                    prioritized.append(component)  # Prioritize unique names
+
+        # Return unique names first, then surnames
+        final_order = prioritized + surnames
+        print(f"Component priority: {components} → {final_order}")
+        return final_order
+
+    def _validate_partial_match_strict(
+        self, document: Document, faculty_name: str, component: str
+    ) -> bool:
+        """Strict validation for partial matches to prevent cross-faculty contamination.
+
+        Uses multiple verification layers to ensure document is about the correct faculty:
+            1. Component presence verification
+            2. Faculty name cross-check
+            3. Content analysis for name co-occurrence
+
+        Args:
+            document (Document): Document to validate
+            faculty_name (str): Target faculty name (e.g., "Dr. Sarika Gupta")
+            component (str): Component that triggered match (e.g., "Sarika")
+
+        Returns:
+            bool: True only if document is verified to be about target faculty
+        """
+        doc_faculty = document.metadata.get("faculty_name", "").lower()
+        doc_content = document.page_content.lower()
+        target_lower = faculty_name.lower()
+        component_lower = component.lower()
+
+        # Priority 1: Exact faculty metadata match (highest confidence)
+        if doc_faculty and target_lower in doc_faculty:
+            print(f"Exact metadata match: {doc_faculty}")
+            return True
+
+        # Priority 2: Component + target name co-occurrence in content
+        if component_lower in doc_content and target_lower in doc_content:
+            print("Component + target co-occurrence in content")
+            return True
+
+        # Priority 3: Multiple unique components present (strong indicator)
+        target_components = self._extract_name_components(faculty_name)
+        unique_components = [
+            comp
+            for comp in target_components
+            if comp.lower()
+            not in {"gupta", "kumar", "singh", "sharma", "yadav", "roy", "das", "pal"}
+        ]
+
+        if len(unique_components) >= 2:
+            components_in_content = sum(
+                1 for comp in unique_components if comp.lower() in doc_content
+            )
+
+            if components_in_content >= 2:
+                print(
+                    f"Multiple unique components match: {components_in_content}/{len(unique_components)}"
+                )
+                return True
+
+        # Priority 4: Single unique component with high confidence
+        if (
+            len(unique_components) == 1
+            and unique_components[0].lower() == component_lower
+        ):
+            if component_lower in doc_content:
+                print(f"Unique component match: {component}")
+                return True
+
+        # Reject: Component match but wrong faculty detected
+        if (
+            doc_faculty
+            and doc_faculty != target_lower
+            and target_lower not in doc_faculty
+        ):
+            print(
+                f"REJECTED: Component '{component}' matches wrong faculty "
+                f"'{doc_faculty}', target: '{faculty_name}'"
+            )
+            return False
+
+        # Reject: Common surname without additional verification
+        common_surnames = {
+            "gupta",
+            "kumar",
+            "singh",
+            "sharma",
+            "yadav",
+            "roy",
+            "das",
+            "pal",
+        }
+        if component_lower in common_surnames:
+            print(
+                f"REJECTED: Common surname '{component}' without sufficient verification"
+            )
+            return False
+
+        # Default: Weak match, likely false positive
+        print(f"REJECTED: Insufficient evidence for '{component}' → '{faculty_name}'")
+        return False
+
+    def _execute_cross_domain_search(
+        self, extracted_names: List[str], query: str, k: int
+    ) -> List[Document]:
+        """Execute intelligent cross-domain search across related collections.
+
+        When current domain fails, searches related collections based on
+        query intent. Contact queries may search faculty_info, research
+        queries may search research domain, etc.
+
+        Args:
+            extracted_names (List[str]): Faculty names from query
+            query (str): Original user query
+            k (int): Number of documents to retrieve
+
+        Returns:
+            List[Document]: Documents found through cross-domain search
+        """
+        print(f"EXECUTING: Cross-domain search from {self.domain}")
+
+        target_domains = self._determine_cross_domain_strategy(
+            query.lower(), self.domain
+        )
+
+        if not target_domains:
+            print("No suitable targets identified")
+            return []
+
+        all_docs = []
+
+        for target_domain in target_domains:
+            try:
+                print(f"Trying: {target_domain}")
+                domain_docs = self._search_target_domain(
+                    extracted_names, query, target_domain, k
+                )
+
+                if domain_docs:
+                    # Mark with cross-domain metadata
+                    for doc in domain_docs:
+                        doc.metadata["cross_domain_source"] = target_domain
+
+                    all_docs.extend(domain_docs)
+                    print(f"Success: {len(domain_docs)} docs from {target_domain}")
+                    break  # Use first successful domain
+
+            except Exception as e:
+                print(f"Failed for {target_domain}: {e}")
+                continue
+
+        return all_docs
+
+    def _execute_semantic_fallback(
+        self, query: str, extracted_names: List[str], k: int
+    ) -> List[Document]:
+        """Execute semantic similarity search as ultimate fallback.
+
+        Ensures system always returns relevant results by performing
+        semantic similarity search, enhanced with extracted names when available.
+
+        Args:
+            query (str): Original user query
+            extracted_names (List[str]): Faculty names from query
+            k (int): Number of documents to retrieve
+
+        Returns:
+            List[Document]: Documents found through semantic search
+        """
+        print("EXECUTING: Semantic fallback")
+
+        try:
+            # Enhance query with faculty names if available
+            if extracted_names:
+                enhanced_query = f"{' '.join(extracted_names)} {query}"
+                print(f"Enhanced: '{enhanced_query}'")
+            else:
+                enhanced_query = query
+
+            semantic_docs = self.vectorstore.similarity_search(enhanced_query, k=k * 2)
+
+            # Filter by faculty if names were extracted
+            if extracted_names:
+                filtered_docs = []
+                for doc in semantic_docs:
+                    if any(
+                        self._is_document_about_faculty(doc, name)
+                        for name in extracted_names
+                    ):
+                        filtered_docs.append(doc)
+
+                if filtered_docs:
+                    print(f"Filtered: {len(filtered_docs)} docs")
+                    return filtered_docs
+
+            print(f"Standard: {len(semantic_docs)} docs")
+            return semantic_docs
+
+        except Exception as e:
+            print(f"Semantic fallback failed: {e}")
+            return []
+
+    def _determine_cross_domain_strategy(
+        self, query_lower: str, current_domain: str
+    ) -> List[str]:
+        """Analyze query intent to determine optimal cross-domain targets.
+
+        Uses keyword analysis to prioritize domains most likely to contain
+        relevant information for the specific query type.
+
+        Args:
+            query_lower (str): Lowercase version of user query
+            current_domain (str): Current search domain
+
+        Returns:
+            List[str]: Ordered list of target domains to search
+        """
+        # Analyze query intent
+        contact_keywords = ["email", "phone", "contact", "extension", "call", "reach"]
+        research_keywords = ["research", "interests", "working on", "projects", "focus"]
+        publication_keywords = ["publications", "papers", "articles", "published"]
+
+        is_contact_query = any(word in query_lower for word in contact_keywords)
+        is_research_query = any(word in query_lower for word in research_keywords)
+        is_publication_query = any(word in query_lower for word in publication_keywords)
+
+        # Determine target domains based on intent
+        if is_contact_query:
+            domains_to_try = ["staff", "faculty_info"]
+        elif is_research_query:
+            domains_to_try = ["research", "faculty_info"]
+        elif is_publication_query:
+            domains_to_try = ["publications", "faculty_info"]
+        else:
+            domains_to_try = ["faculty_info", "staff", "research"]
+
+        # Remove current domain to avoid redundancy
+        domains_to_try = [d for d in domains_to_try if d != current_domain]
+
+        print(f"Strategy: {current_domain} → {domains_to_try}")
+        return domains_to_try
+
+    def _search_target_domain(
+        self, extracted_names: List[str], query: str, target_domain: str, k: int
+    ) -> List[Document]:
+        """Execute search within specific target domain.
+
+        Handles vectorstore initialization, search execution, and result
+        verification for cross-domain searches.
+
+        Args:
+            extracted_names (List[str]): Faculty names from query
+            query (str): Original user query
+            target_domain (str): Target domain to search
+            k (int): Number of documents to retrieve
+
+        Returns:
+            List[Document]: Documents found in target domain
+        """
+        collection_path = os.path.join(VECTOR_DB_DIR, target_domain)
+        if not os.path.exists(collection_path):
+            print(f"Path not found: {collection_path}")
+            return []
+
+        target_vectorstore = Chroma(
+            collection_name=target_domain,
+            embedding_function=embedding_model,
+            persist_directory=collection_path,
+        )
+
+        cross_domain_docs = []
+
+        for faculty_name in extracted_names:
+            try:
+                # Try exact metadata filtering
+                exact_docs = target_vectorstore.similarity_search(
+                    query, k=k, filter={"faculty_name": faculty_name}
+                )
+
+                if exact_docs:
+                    verified_docs = self._verify_faculty_relevance(
+                        exact_docs, faculty_name
+                    )
+                    if verified_docs:
+                        cross_domain_docs.extend(verified_docs)
+                        print(f"Exact: {len(verified_docs)} docs")
+                        break
+
+                # Fallback to semantic search
+                enhanced_query = f"{faculty_name} {query}"
+                semantic_docs = target_vectorstore.similarity_search(
+                    enhanced_query, k=k // 2
+                )
+
+                verified_semantic = []
+                for doc in semantic_docs:
+                    if self._is_document_about_faculty(doc, faculty_name):
+                        verified_semantic.append(doc)
+
+                if verified_semantic:
+                    cross_domain_docs.extend(verified_semantic)
+                    print(f"Semantic: {len(verified_semantic)} docs")
+                    break
+
+            except Exception as e:
+                print(f"Failed for {faculty_name}: {e}")
+                continue
+
+        return cross_domain_docs
+
+    def _validate_first_name_context(self, query_lower: str, first_name: str) -> bool:
+        """Validate first name appears in appropriate academic context.
+
+        Prevents false positives by checking for academic indicators
+        and avoiding non-person query patterns.
+
+        Args:
+            query_lower (str): Lowercase version of user query
+            first_name (str): First name to validate
+
+        Returns:
+            bool: True if context is appropriate for faculty search
+        """
+        from config.faculty_data import FALSE_POSITIVES
+
+        # Check for false positive patterns
+        for false_positive in FALSE_POSITIVES:
+            if false_positive in query_lower:
+                return False
+
+        # Look for academic context indicators
+        academic_indicators = [
+            "dr",
+            "prof",
+            "faculty",
+            "email",
+            "contact",
+            "research",
+            "publication",
+            "lab",
+            "about",
+            "tell me",
+            "working on",
+        ]
+
+        return any(indicator in query_lower for indicator in academic_indicators)
+
+    def _verify_faculty_relevance(
+        self, documents: List[Document], target_faculty: str
+    ) -> List[Document]:
+        """Verify documents are genuinely about target faculty member.
+
+        Implements strict verification to prevent false positives and
+        ensure precision in faculty-specific queries.
+
+        Args:
+            documents (List[Document]): Documents to verify
+            target_faculty (str): Target faculty name
+
+        Returns:
+            List[Document]: Verified documents about target faculty
+        """
+        verified_documents = []
+
+        for doc in documents:
+            if self._is_document_about_faculty(doc, target_faculty):
+                verified_documents.append(doc)
+            else:
+                actual_faculty = doc.metadata.get("faculty_name", "Unknown")
+                print(f"Rejected: {actual_faculty} ≠ {target_faculty}")
+
+        return verified_documents
+
+    def _is_document_about_faculty(
+        self, document: Document, target_faculty: str
+    ) -> bool:
+        """Determine if document is genuinely about specified faculty member.
+
+        Uses metadata and content analysis for comprehensive verification.
+
+        Args:
+            document (Document): Document to check
+            target_faculty (str): Target faculty name
 
         Returns:
             bool: True if document is about target faculty
         """
-        doc_faculty = doc.metadata.get("faculty_name", "").lower()
-        doc_content = doc.page_content.lower()
+        doc_faculty = document.metadata.get("faculty_name", "").lower()
+        doc_content = document.page_content.lower()
         target_lower = target_faculty.lower()
 
-        # PRIORITY 1: Exact metadata match
+        # Exact metadata match
         if doc_faculty == target_faculty:
             return True
 
-        # PRIORITY 2: Target name appears in content
+        # Target name in content with component verification
         if target_lower in doc_content:
-            # Additional check: ensure it's not just a passing mention
-            target_parts = target_lower.replace("dr.", "").strip().split()
-            name_mentions = sum(
-                1 for part in target_parts if len(part) > 3 and part in doc_content
+            target_components = (
+                target_lower.replace("dr.", "").replace("prof.", "").strip().split()
+            )
+            component_matches = sum(
+                1
+                for component in target_components
+                if len(component) > 3 and component in doc_content
             )
 
-            if name_mentions >= 2:  # At least 2 name parts must appear
+            if component_matches >= 2:
                 return True
 
-        # PRIORITY 3: Partial name matching with strict criteria
-        if target_lower in doc_faculty:
+        # Partial metadata matching
+        if target_lower in doc_faculty or doc_faculty in target_lower:
             return True
 
         return False
 
-    def _cross_domain_search(
-        self, extracted_names: List[str], query: str, k: int
-    ) -> List[Document]:
-        """Cross-domain search with strict faculty filtering"""
-        try:
-            faculty_store = Chroma(
-                collection_name="faculty_info",
-                embedding_function=embedding_model,
-                persist_directory=os.path.join(VECTOR_DB_DIR, "faculty_info"),
-            )
+    def _extract_name_components(self, faculty_name: str) -> List[str]:
+        """Extract searchable components from faculty names.
 
-            cross_docs = []
-            for name in extracted_names:
-                try:
-                    # Use metadata filtering in cross-domain search too
-                    domain_docs = faculty_store.similarity_search(
-                        query, k=k // 2, filter={"faculty_name": name}
-                    )
+        Removes titles, normalizes spacing, and filters short components.
 
-                    # Verify these are about the right faculty
-                    verified_cross = []
-                    for doc in domain_docs:
-                        if self._is_doc_about_faculty(doc, name):
-                            verified_cross.append(doc)
+        Args:
+            faculty_name (str): Full faculty name
 
-                    if verified_cross:
-                        cross_docs.extend(verified_cross)
-                        print(
-                            f"✅ Cross-domain search found {len(verified_cross)} verified docs for {name}"
-                        )
-                        break
+        Returns:
+            List[str]: List of searchable name components
+        """
+        cleaned_name = faculty_name.replace("Dr.", "").replace("Prof.", "").strip()
+        components = cleaned_name.split()
+        return [comp for comp in components if len(comp) > 2]
 
-                except Exception as e:
-                    print(f"   ❌ Cross-domain search failed for {name}: {e}")
+    def _finalize_results(self, documents: List[Document], k: int) -> List[Document]:
+        """Finalize search results with deduplication and ranking.
 
-            return cross_docs
+        Removes duplicates and returns top-k results.
 
-        except Exception as e:
-            print(f"⚠️ Cross-domain search initialization failed: {e}")
-            return []
+        Args:
+            documents (List[Document]): Documents to finalize
+            k (int): Maximum number of results to return
 
-    def _filter_by_faculty_relevance(
-        self, docs: List[Document], target_name: str
-    ) -> List[Document]:
-        """Filter and score documents by relevance to a specific faculty member."""
-        relevant_docs = []
-        target_lower = target_name.lower()
+        Returns:
+            List[Document]: Final deduplicated and ranked results
+        """
+        unique_documents = _deduplicate_documents(documents)
+        final_results = unique_documents[:k] if unique_documents else []
 
-        for doc in docs:
-            if self._is_doc_about_faculty(doc, target_name):
-                faculty_name = doc.metadata.get("faculty_name", "").lower()
-                content = doc.page_content.lower()
-
-                score = 0
-                if target_lower in faculty_name:
-                    score += 3
-                if target_lower in content:
-                    score += 1
-
-                name_parts = target_lower.replace("dr.", "").strip().split()
-                for part in name_parts:
-                    if len(part) > 2:
-                        if part in faculty_name:
-                            score += 2
-                        if part in content:
-                            score += 1
-
-                relevant_docs.append((doc, score))
-
-        relevant_docs.sort(key=lambda x: x[1], reverse=True)
-        return [doc for doc, score in relevant_docs]
-
-    def _deduplicate_docs(self, docs: List[Document]) -> List[Document]:
-        """Remove duplicate documents using the unified deduplication function."""
-        return _deduplicate_documents(docs)
+        print(f"FINAL: {len(final_results)} unique documents")
+        return final_results
